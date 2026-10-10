@@ -76,7 +76,7 @@ e) ¿Por qué es conveniente introducir la resistencia $R_0$ en el circuito de m
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema sperimentale. Calibrazione di un reostato.**
+Il problema sperimentale. Calibrazione di un reostato.
 
 Un reostato è una resistenza variabile, costruita con un cavo resistente arrotondato uniformemente in elica su un supporto cilindrico isolante. La figura 1a è una fotografia di un reostato antico e la figura 1b mostra il suo schema. I terminali dell'apparecchio, A e B, sono rispettivamente collegati ad una estremità del rotolo e ad un cursore scivolante, C, che fa contatto con il rotolo. Come è facile da capire, la resistenza tra i terminali del reostato è direttamente proporzionale alla distanza, $x$, tra l'inizio del crollo e il punto di contatto del cursore, cioè $R(x) = K x$.
 

@@ -127,7 +127,7 @@ d) Fare una ragionevole stima dell'incertezza $\Delta p$ della pendenza ottenuta
 
 e) Considerando quanto precede, si deve calcolare l'incertezza $\Delta h$ sul valore della costante di Planck ottenuto in c).
 
-**Dati: ** Carico dell'elettrone, $e = 1{,}602 \times 10^{-19}$ C; velocità della luce in vuoto, $c = 3 \times 10^{8}$ m/s.
+**Dati:** Carico dell'elettrone, $e = 1{,}602 \times 10^{-19}$ C; velocità della luce in vuoto, $c = 3 \times 10^{8}$ m/s.
 
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA EXPERIMENTAL/2025 36 OAF 2025 PRUEBA EXPERIMENTAL_p1_f1.png]]

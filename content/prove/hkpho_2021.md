@@ -1178,17 +1178,17 @@ Now the wooden block is movable freely on a table with negligible friction betwe
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) ** Un proiettile di massa $10\ \mathrm{g}$ è stato sparato contro un blocco di legno fisso e fermo di massa $1\ \mathrm{kg}$. Ha una velocità iniziale di $800\ \mathrm{m/s}$ e ha penetrato il blocco in profondità $10\ \mathrm{cm}$. Supponiamo che il legno resista al movimento della pallottola costantemente.
+**(15 punti)** Un proiettile di massa $10\ \mathrm{g}$ è stato sparato contro un blocco di legno fisso e fermo di massa $1\ \mathrm{kg}$. Ha una velocità iniziale di $800\ \mathrm{m/s}$ e ha penetrato il blocco in profondità $10\ \mathrm{cm}$. Supponiamo che il legno resista al movimento della pallottola costantemente.
 
-**(a) ** (4 punti) Qual è la forza di resistenza del blocco di legno contro il proiettile?
+**(a)** (4 punti) Qual è la forza di resistenza del blocco di legno contro il proiettile?
 
 Ora il blocco di legno si muove liberamente su un tavolo con un trascurso trascurabile tra il blocco e il tavolo e il proiettile viene ora sparato orizzontalmente al blocco di legno e viene infine fermato all'interno del blocco.
 
-**(b) ** (3 punti) Qual è la velocità finale del blocco di legno con proiettile?
+**(b)** (3 punti) Qual è la velocità finale del blocco di legno con proiettile?
 
-**(c) ** (4 punti) Qual è la profondità in cui il proiettile è penetrato quando il blocco è mobile?
+**(c)** (4 punti) Qual è la profondità in cui il proiettile è penetrato quando il blocco è mobile?
 
-**(d) ** (4 punti) Quanto tempo ci vuole per fermare il proiettile dopo aver entrato nel blocco?
+**(d)** (4 punti) Quanto tempo ci vuole per fermare il proiettile dopo aver entrato nel blocco?
 
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -1231,21 +1231,21 @@ Suppose the total mass of the person and the board system is $M$, the block has 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) ** Una persona è seduta su una tavola senza attrito tenendo una palla. Un blocco viene posto separatamente e a riposo davanti alla persona. La persona vuole mettersi in movimento lanciando la palla verso il blocco. Tuttavia, per catturare di nuovo la palla dopo il primo lancio, la palla deve tornare alla persona dopo aver saltato fuori dal blocco.
+**(15 punti)** Una persona è seduta su una tavola senza attrito tenendo una palla. Un blocco viene posto separatamente e a riposo davanti alla persona. La persona vuole mettersi in movimento lanciando la palla verso il blocco. Tuttavia, per catturare di nuovo la palla dopo il primo lancio, la palla deve tornare alla persona dopo aver saltato fuori dal blocco.
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p20_f1.png]]
 
 Supponiamo che la massa totale della persona e del sistema di tavola sia $M$, il blocco abbia una massa $M$ e la palla abbia una massa $m$. Supponiamo che la collisione tra la palla e il blocco sia elastica; e ignori tutte le frizioni e la gravità.
 
-**(a) ** (3 punti) La persona è inizialmente in riposo. Se la palla viene lanciata a velocità $v_0$ rispetto al suolo. Qual è la velocità della persona e della lavagna dopo il lancio?
+**(a)** (3 punti) La persona è inizialmente in riposo. Se la palla viene lanciata a velocità $v_0$ rispetto al suolo. Qual è la velocità della persona e della lavagna dopo il lancio?
 
-**(b) ** (3 punti) Trova l'energia cinetica trasferita al blocco dalla palla dopo la collisione.
+**(b)** (3 punti) Trova l'energia cinetica trasferita al blocco dalla palla dopo la collisione.
 
-**(c) ** (4 punti) Trovare le condizioni, se esistenti, per il rapporto delle masse $r = m/M$ e per la velocità di lancio iniziale $v_0$ in modo tale che la persona possa catturare la palla dopo che rimbalza dal blocco.
+**(c)** (4 punti) Trovare le condizioni, se esistenti, per il rapporto delle masse $r = m/M$ e per la velocità di lancio iniziale $v_0$ in modo tale che la persona possa catturare la palla dopo che rimbalza dal blocco.
 
 Se $r = \dfrac{m}{M} = 0.1$ e $D = 1\ \mathrm{m}$, calcolare la distanza tra il lancio della palla e la sua cattura.
 
-**(e) ** (3 punti) Dopo aver catturato la palla, la persona vuole fermarsi gettando via la palla (questa volta non ha bisogno di riprenderla). Descrivi in quale direzione e a che velocità dovrebbe lanciare di nuovo la palla. Rispondi con la velocità della palla rispetto al terreno.
+**(e)** (3 punti) Dopo aver catturato la palla, la persona vuole fermarsi gettando via la palla (questa volta non ha bisogno di riprenderla). Descrivi in quale direzione e a che velocità dovrebbe lanciare di nuovo la palla. Rispondi con la velocità della palla rispetto al terreno.
 
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -1294,15 +1294,15 @@ Una pista liscia è composta da due parti. La parte sinistra è retta e è colle
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p21_f1.png]]
 
-**(a) ** (5 punti) Trovare la velocità dell'oggetto $v$ in termini di $H$, $R$ e $\theta$ quando raggiunge un punto sulla pista circolare con una posizione angolare di $\theta$ misurata dal centro della pista, come mostrato nella figura seguente.
+**(a)** (5 punti) Trovare la velocità dell'oggetto $v$ in termini di $H$, $R$ e $\theta$ quando raggiunge un punto sulla pista circolare con una posizione angolare di $\theta$ misurata dal centro della pista, come mostrato nella figura seguente.
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p21_f2.png]]
 
-**(b) ** (5 punti) Trovare la reazione normale della pista in questo momento in termini di $H$, $R$, $\theta$ e $m$.
+**(b)** (5 punti) Trovare la reazione normale della pista in questo momento in termini di $H$, $R$, $\theta$ e $m$.
 
-**(c) ** (5 punti) Trova, in termini di $R$, l'altezza iniziale critica $H_c$ al di sotto della quale l'oggetto non può completare l'intero viaggio lungo la pista circolare.
+**(c)** (5 punti) Trova, in termini di $R$, l'altezza iniziale critica $H_c$ al di sotto della quale l'oggetto non può completare l'intero viaggio lungo la pista circolare.
 
-**(d) ** (5 punti) Un obiettivo di punto si trova al centro della pista circolare. L'oggetto rilasciato ad una certa altezza iniziale $H$ colpirà l'obiettivo. Trova $H$ in termini di $R$.
+**(d)** (5 punti) Un obiettivo di punto si trova al centro della pista circolare. L'oggetto rilasciato ad una certa altezza iniziale $H$ colpirà l'obiettivo. Trova $H$ in termini di $R$.
 
 **Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 

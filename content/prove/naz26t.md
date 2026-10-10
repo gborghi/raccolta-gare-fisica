@@ -109,7 +109,7 @@ The angle $\theta = \widehat{M_1ON_1}$ is determined, the correct position of th
 The distance $L$ between them.
 
 <!--fig:start-->
-**p.3 **  Time-recorded frequency chart
+**p.3**  Time-recorded frequency chart
 ![[_attachments/Naz26T/Naz26T_p3_f1.png]]
 <!--fig:end-->
 
@@ -292,7 +292,7 @@ mass and $R$ is the radius. The density of the conductive material shall be $\de
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Load ring that falls along the axis
+**p.5**  Load ring that falls along the axis
 ![[_attachments/Naz26T/Naz26T_p5_f4.png]]
 <!--fig:end-->
 

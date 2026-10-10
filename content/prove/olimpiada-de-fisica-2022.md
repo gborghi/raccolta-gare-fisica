@@ -192,7 +192,7 @@ b) Calcolare la distanza tra la superficie della Terra e quella della Luna sapen
 
 c) Calcola la densità media della Luna.
 
-**Dati: **
+**Dati:**
 
 - Costante di gravità universale: $G = 6{,}67 \times 10^{-11} \ \mathrm{N\,m^2\,kg^{-2}}$
 - Radio della Terra: $R_T = 6370 \ \mathrm{km}$
@@ -272,7 +272,7 @@ e) Qual è l'ora che il pendolo segnerà quando gli orologi sulla Terra segnano 
 
 f) Qual è l'ora che segnerà il secondo orologio in quel momento?
 
-**Dati: **
+**Dati:**
 
 - Accelerazione della gravità sulla superficie terrestre: $g_T = 9{,}80 \ \mathrm{m\,s^{-2}}$
 - Accelerazione della gravità sulla superficie lunare: $g_L = 1{,}62 \ \mathrm{m\,s^{-2}}$

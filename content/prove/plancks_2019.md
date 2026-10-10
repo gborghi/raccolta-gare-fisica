@@ -95,25 +95,25 @@ Prima consideriamo l'adsorzione per formare un mono strato sulla superficie. Cio
 Il tasso di adsorzione è: $r_a = k_a p N_0$
 Il tasso di desorzione è: $r_d = k_d N_1$
 
-**(a, 2 punti) ** Supponiamo che l'adsorzione abbia raggiunto l'equilibrio. Derivare un'espressione per la copertura superficiale monolivello $\Theta$ in termini di $K$ e $p$. Si noti che $\Theta$ è definito come la frazione di siti superficiali occupati dagli adsorbati:
+**(a, 2 punti)** Supponiamo che l'adsorzione abbia raggiunto l'equilibrio. Derivare un'espressione per la copertura superficiale monolivello $\Theta$ in termini di $K$ e $p$. Si noti che $\Theta$ è definito come la frazione di siti superficiali occupati dagli adsorbati:
 
 $$\Theta = \frac{N_1}{N_{\text{sites}}}$$
 
 dove $N_{\text{ad}}$ è il numero di siti superficiali che contengono adsorbati e $N_{\text{sites}}$ è il numero totale di siti superficiali.
 
-**(b, 2 punti) ** Che cos'è $\Theta$ nelle situazioni limitanti di pressione alta e bassa $p$? Qual è la pressione caratteristica $p_{1/2}$ quando la metà delle zone superficiali sono occupate?
+**(b, 2 punti)** Che cos'è $\Theta$ nelle situazioni limitanti di pressione alta e bassa $p$? Qual è la pressione caratteristica $p_{1/2}$ quando la metà delle zone superficiali sono occupate?
 
 Next we consider the situation where adsorbing molecules can form multilayers on the surface.[^1] We define $N_i$ as the number of surface sites having exactly $i$ adsorbates. Si utilizzano le stesse ipotesi (1-3) di cui sopra. Inoltre, supponiamo che: le costanti di velocità ($k'_a$ e $k'_d$) per l'adsorzione e la desorzione nel livello superiore della superficie; (1) determinano la costante di equilibrio $K' = k'_a/k'_d$ per questi livelli superiori e descrivono le interazioni adsorbato-adsorbato. Per descrivere le interazioni adsorbato-adsorbato, definiamo quindi due nuove costanti di velocità $k'_a$ e $k'_d$. La costante di equilibrio per le interazioni adsorbato-adsorbato è $K' = k'_a/k'_d$.
 
 [^1]: Il modello per l'adsorzione multicolline è chiamato isoterma BET dopo Stephen Brunauer, Paul Hugh Emmett ed Edward Teller: "Adsorzione di gas in strati multimolecolari", J. Am. - Chimica. - Soc. 1938, 60(2) pp 309-319. DOI = 10,1021/ja01269a023
 
-**(c, 2 punti) ** Utilizzando un argomento ricorrente si mostra che $N_i$ può essere scritto in termini di $N_0$. Indicare specificamente che per $i > 1$:
+**(c, 2 punti)** Utilizzando un argomento ricorrente si mostra che $N_i$ può essere scritto in termini di $N_0$. Indicare specificamente che per $i > 1$:
 
 $$N_i = c(K'p)^i N_0 = c z^i N_0$$
 
 dove abbiamo definito $z = K'p$.
 
-**(d, 2 punti) ** Successivamente ci interessa trovare la copertura superficiale $\Theta$ per l'adsorzione a più strati, dove $\Theta = \frac{N_{\text{ad}}}{N_{\text{sites}}}$, con la definizione a più strati di $N_{\text{ad}}$. Per l'adsorzione a più strati, il numero totale di molecole adsorbite è indicato come:
+**(d, 2 punti)** Successivamente ci interessa trovare la copertura superficiale $\Theta$ per l'adsorzione a più strati, dove $\Theta = \frac{N_{\text{ad}}}{N_{\text{sites}}}$, con la definizione a più strati di $N_{\text{ad}}$. Per l'adsorzione a più strati, il numero totale di molecole adsorbite è indicato come:
 
 $$N_{\text{ad}} = N_1 + 2N_2 + 3N_3 + \ldots = \sum_{i=1}^{\infty} i N_i$$
 
@@ -124,7 +124,7 @@ $$N_{\text{sites}} = N_0 + N_1 + N_2 + N_3 + \ldots = \sum_{i=0}^{\infty} N_i$$
 Trova le espressioni per $N_{\text{ad}}$ e $N_{\text{sites}}$ per l'adsorzione a più strati.
 Determinare la copertura $\Theta$ per l'adsorzione a più strati.
 
-**(e, 2 punti) ** Date un'interpretazione fisica delle quantità $K'$ e $z$.
+**(e, 2 punti)** Date un'interpretazione fisica delle quantità $K'$ e $z$.
 
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
 **Topic:** [[Thermodynamics]], [[Chemistry]]
@@ -374,15 +374,15 @@ $$
 
 quando le possibili interazioni di dipolo-dipolo e di scambio nel sistema di spin sono trascurate. $\vec{I} = (I_x, I_y, I_z)$, è l'operatore di spin del nucleo, $\vec{S}_{1,2} = (S_x, S_y, S_z)$ sono gli operatori di spin degli elettroni e $A$ è il tensore di interazione iperfino.
 
-**(Q1) ** *(1 punto) * Quali sono i valori possibili del giro totale?
+**(Q1)** *(1 punto) * Quali sono i valori possibili del giro totale?
 
-**(Q2) ** *(2 punti) * Definire tutte le possibili funzioni proprie di base $\psi_i$, $i = 1, 2, \ldots, 8$ che sono funzioni proprie dello spin totale, per descrivere gli stati quantistici della coppia radicale.
+**(Q2)** *(2 punti) * Definire tutte le possibili funzioni proprie di base $\psi_i$, $i = 1, 2, \ldots, 8$ che sono funzioni proprie dello spin totale, per descrivere gli stati quantistici della coppia radicale.
 
-**(Q3) ** *(2 punti) * Indicare le condizioni in cui è possibile una transizione tra uno stato singolo e uno stato triplet della coppia radicale.
+**(Q3)** *(2 punti) * Indicare le condizioni in cui è possibile una transizione tra uno stato singolo e uno stato triplet della coppia radicale.
 
-**(Q4) ** *(1 punto) * Controllare numericamente se questa condizione è soddisfatta per il tensore iperfino anisotropo, dove il $A_{zz} = 16\, G$ è l'unico componente non zero. La forza del campo magnetico esterno deve essere di 0,5 G.
+**(Q4)** *(1 punto) * Controllare numericamente se questa condizione è soddisfatta per il tensore iperfino anisotropo, dove il $A_{zz} = 16\, G$ è l'unico componente non zero. La forza del campo magnetico esterno deve essere di 0,5 G.
 
-**(Q5) ** *(3 punti) * Ora consideriamo la coppia radicale "preparata" inizialmente nello stato singlet, stimare il tempo caratteristico necessario per essere convertita in uno degli stati triplet.
+**(Q5)** *(3 punti) * Ora consideriamo la coppia radicale "preparata" inizialmente nello stato singlet, stimare il tempo caratteristico necessario per essere convertita in uno degli stati triplet.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
 **Topic:** [[Modern-Quantum Physics]], [[Magnetism]]
@@ -684,7 +684,7 @@ $$
 
 se ogni sito della reticola $i = 1, \ldots, N$ è dotato della variabile $\vec{S}_i = (\cos(\theta_i), \sin(\theta_i)) \in S^1$, $\theta_i$ è l'angolo tra $\vec{S}_i$ e l'asse x. $J > 0$ è la forza di accoppiamento vicina più vicina.
 
-**Problema 1: ** *2 punti* Mostra che a basse temperature Eq.(2) può essere approssimato con un modello continuo
+**Problema 1:** *2 punti* Mostra che a basse temperature Eq.(2) può essere approssimato con un modello continuo
 
 $$
 \mathcal{H} \approx \frac{K}{2}\frac{1}{a} = \frac{K}{2}\int d^2x \partial_\mu \theta(x)\partial_\mu \theta(x),\tag{3}
@@ -692,7 +692,7 @@ $$
 
 dove $\vec{x} = (x_1, x_2)$ e $\partial_\mu \theta = \frac{\partial \theta}{\partial x_\mu}, \mu = 1, 2$. $A$ è l'area, $z$ è il numero di coordinamento della reticola e $K = \frac{J}{a}$, dove $z$ è un fattore geometrico di unità di ordine a seconda della reticola considerata. Inoltre, Eq.(3) ha un limite di distanza breve $a$ che è l'intervallo della rete.
 
-**Problema 2: ** *2 punti * Verificare che le configurazioni energetiche più favorevoli del campo angolare $\theta(\vec{x})$ a basse temperature rispettino:
+**Problema 2:** *2 punti * Verificare che le configurazioni energetiche più favorevoli del campo angolare $\theta(\vec{x})$ a basse temperature rispettino:
 
 $$
 \partial_\mu \partial_\mu \theta(x) = \nabla^2 \theta(x) = 0\tag{4}
@@ -706,7 +706,7 @@ Se $q = 0$, $\theta(\vec{x})$ è regolare (analisi) all'interno della curva $C$.
 
 $$\vec{e}_\phi = (-\sin(\phi), \cos(\phi))\quad\text{and}\quad \nabla^2\theta(x) = \frac{\partial^2\theta}{\partial r^2} + \frac{1}{r}\frac{\partial\theta}{\partial r} + \frac{1}{r^2}\frac{\partial^2\theta}{\partial\phi^2}.$$
 
-**Problema 3: ** *1 punto * Mostra che
+**Problema 3:** *1 punto * Mostra che
 
 $$
 \theta(x_1, x_2) = \theta_0 + q\phi(x_1, x_2) = \theta_0 + q\tan^{-1}(x_2/x_1)\tag{6}
@@ -719,7 +719,7 @@ Le texture risultanti di $\vec{S}$ sono indicate nella figura 2 per $\theta_0 = 
 ![[PLANCKS_2019_p6_f1.png]]
 *Figura 2: Esempi di tessuti per difetti con resistenza: $q = -1, 1, 2$ rispettivamente.*
 
-**Problema 4: ** *1 punto* Nella figura 3 è mostrata la texture associata a due difetti punti. Qual è la forza dei due difetti?
+**Problema 4:** *1 punto* Nella figura 3 è mostrata la texture associata a due difetti punti. Qual è la forza dei due difetti?
 
 L'energia associata a queste texture difettose simili a particelle:
 
@@ -732,7 +732,7 @@ in cui $R$ rappresenta la dimensione del sistema, ovvero $\pi R^2 = A$.
 ![[PLANCKS_2019_p6_f2.png]]
 *Figura 3: Tessuti per altri due difetti.*
 
-**Problema 5: ** *1 punto * Valutare l' autoenergia di un difetto di forza $q$. (i.e. Mostrami l'equ. 7 contiene) e spiegare perché i difetti $|q| = 1$ dominano il sistema.
+**Problema 5:** *1 punto * Valutare l' autoenergia di un difetto di forza $q$. (i.e. Mostrami l'equ. 7 contiene) e spiegare perché i difetti $|q| = 1$ dominano il sistema.
 
 Le considerazioni di cui sopra per un singolo punto di difetto possono essere facilmente generalizzate a un sistema multi-defetti, dove le soluzioni di difetto possono essere aggiunte e così possono essere i loro punti di forza. Un esempio è riportato nella figura 4.
 
@@ -741,15 +741,15 @@ Figura 4: campo $(\cos(\phi(x_1, x_2)), \sin(\phi(x_1, x_2)))$ per $\phi(x_1, x_
 
 Niente limita i difetti ad un posto particolare della griglia, quindi sono liberi di muoversi.
 
-**Problema 6: ** *1 punto * Calcola l'entropia traslazionale di un singolo difetto.
+**Problema 6:** *1 punto * Calcola l'entropia traslazionale di un singolo difetto.
 
 Ora, consideriamo un paio di difetti di forza $+1$ e $-1$. La forza topologica totale del sistema è quindi zero e i due difetti possono dissociarsi. Allo stesso modo, una coppia di questo tipo può essere creata spontaneamente con un costo energetico Eq(7) per ogni difetto.
 
-**Problema 7: ** *2 punti* Derivare un'espressione per l'energia libera di una simile coppia di difetti e trovare la temperatura sopra la quale le coppie di difetti si dissociano spontaneamente.
+**Problema 7:** *2 punti* Derivare un'espressione per l'energia libera di una simile coppia di difetti e trovare la temperatura sopra la quale le coppie di difetti si dissociano spontaneamente.
 
 Kosterlitz e Thouless (1973) sostenevano che al di sopra di questa temperatura la creazione spontanea e la proliferazione dei difetti porteranno a un completo disordine del sistema e a una transizione di fase di ordine infinito.
 
-**Non è un problema: ** *0 punti* Cosa significa per una transizione essere un ordine infinito?
+**Non è un problema:** *0 punti* Cosa significa per una transizione essere un ordine infinito?
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
 **Topic:** [[Thermodynamics]], [[Mathematics]]

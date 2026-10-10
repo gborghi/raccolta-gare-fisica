@@ -319,7 +319,7 @@ Condições adicionais:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione 4  Tecnologie sperimentali in fisica (livello I e II) **
+**Sezione 4  Tecnologie sperimentali in fisica (livello I e II)**
 
 Il contenuto presentato per la prova teorica serve come base per i problemi sperimentali. Per realizzare i problemi proposti nella prova sperimentale saranno necessarie misure sperimentali. Potranno essere incluse questioni che riguardano questioni del Programma Base e, quando richieste questioni di livello superiore, contengono informazioni sufficienti per la loro risoluzione.
 

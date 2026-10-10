@@ -190,7 +190,7 @@ In the presence of a non-zero force moment, the angular moment $L$ of the electr
 7. Finally, find the expression of the current $I_\text{min}$ beyond which the electron does not strike the solenoid, depending on the initial velocity $v_0$ of the electron and the radius $R$ of the solenoid.
 
 <!--fig:start-->
-**p.5 **  Solenoid, plane and electron-speed ring
+**p.5**  Solenoid, plane and electron-speed ring
 ![[_attachments/Naz16teoT/Naz16teoT_p5_f2.png]]
 <!--fig:end-->
 

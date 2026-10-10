@@ -326,7 +326,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13. ** *(with table: $63\ °\text{C}\to2\ \text{mV}$, $T\to5\ \text{mV}$, $126\ °\text{C}\to9\ \text{mV}$) * At intervals not too large the f.e.m. of a thermocouple is a linear function of the temperature difference between the joints; the cold joint is at a constant temperature. Quanto vale $T$? A) $84\ °\text{C}$; B) $90\ °\text{C}$; C) $91\ °\text{C}$; D) $98\ °\text{C}$; E) $99\ °\text{C}$.
+**Q13.** *(with table: $63\ °\text{C}\to2\ \text{mV}$, $T\to5\ \text{mV}$, $126\ °\text{C}\to9\ \text{mV}$) * At intervals not too large the f.e.m. of a thermocouple is a linear function of the temperature difference between the joints; the cold joint is at a constant temperature. Quanto vale $T$? A) $84\ °\text{C}$; B) $90\ °\text{C}$; C) $91\ °\text{C}$; D) $98\ °\text{C}$; E) $99\ °\text{C}$.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

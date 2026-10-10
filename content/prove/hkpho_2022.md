@@ -1217,7 +1217,7 @@ In (a) (c), si considera il caso in cui il cono ruota a velocità costante $\ome
 
 **(b) [2 pts]** Disegnare il diagramma del corpo libero della mancia indicando tutti i vettori di forza e il vettore di accelerazione.
 
-**(c) [5 pts] ** Trova la tensione della corda, $T$, e la forza normale, $N$, che agisce sulla palla con il cono.
+**(c) [5 pts]** Trova la tensione della corda, $T$, e la forza normale, $N$, che agisce sulla palla con il cono.
 
 **(d) [2 pts]** Trova l'accelerazione lineare della perla lungo la direzione di movimento durante l'accelerazione da $t = 0$ s a $t = \tau$ s.
 
@@ -1264,11 +1264,11 @@ In (a) (c), si considera il caso in cui il cono ruota a velocità costante $\ome
 
 ![[_attachments/HKPhO_2022/HKPhO_2022_pp2_f1.png]]
 
-**(a) ** Se il blocco è fissato a terra.
+**(a)** Se il blocco è fissato a terra.
 
 **(ai) [2 pts]** Disegnare il diagramma del corpo libero della perla indicando tutti i vettori di forza e il vettore di accelerazione.
 
-**(aii) [4 pts] ** Trova l'angolo $\theta$ in cui la perla lascerà la superficie del blocco.
+**(aii) [4 pts]** Trova l'angolo $\theta$ in cui la perla lascerà la superficie del blocco.
 
 **(aiii) [4 pts]** Trova la distanza della manciata dal centro del blocco quando colpisce il terreno.
 
@@ -1347,7 +1347,7 @@ Una civiltà aliena con una tecnologia molto avanzata nell'ingegneria astronomic
 
 Se non riesci a risolvere la parte b), puoi comunque usare il risultato della parte b) per rispondere alle seguenti parti e esprimere le tue risposte in termini di $g'$.
 
-**(c) [4 pts] ** Un piccolo oggetto di massa $m$ viene lanciato dal centro del buco nella direzione x positiva con velocità iniziale $u$. Trova la coordinata y del punto in cui l'oggetto colpisce la superficie del buco.
+**(c) [4 pts]** Un piccolo oggetto di massa $m$ viene lanciato dal centro del buco nella direzione x positiva con velocità iniziale $u$. Trova la coordinata y del punto in cui l'oggetto colpisce la superficie del buco.
 
 **(d) [4 pts]** Se l'oggetto può essere lanciato dal centro del buco ad ogni angolo, allora sarà in grado di colpire qualsiasi punto della superficie del buco quando $u \ge u_c$ per una velocità critica $u_c$. Se $u < u_c$, l'oggetto non può colpire la superficie del buco al quale $y > y_{\max}$ per alcuni $y_{\max}$. Trova $u_c$ e $y_{\max}$.
 

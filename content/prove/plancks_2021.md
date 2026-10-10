@@ -78,7 +78,7 @@ Considera una particella carica di massa $m$ e carica $q$ collocata in un potenz
 
 Supponiamo che la particella sia collocata in un campo magnetico $\boldsymbol{B} = \boldsymbol{B}_0 \sin(\omega t)$ indipendente dal tempo e spazialmente uniforme. Utilizzando la teoria della perturbazione di primo ordine indicare le transizioni consentite dallo stato di base, e calcolare l'ampiezza corrispondente per la probabilità di transizione e mostrare come si potrebbe calcolare la probabilità di transizione (non è necessario eseguire questo calcolo finale).
 
-**Domanda 2 [70 punti] **
+**Domanda 2 [70 punti]**
 
 Ora consideriamo un sistema di venti particelle identiche non interagiscono di massa $m$ e spin $1/2$, posizionate in tale potenziale armonico.
 
@@ -223,7 +223,7 @@ where $\mathbf{R}_{m,n} = m\mathbf{a}_1 + n\mathbf{a}_2$ is a Bravais lattice si
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Strice legame **
+**Strice legame**
 
 ### Introduzione
 
@@ -388,11 +388,11 @@ Le stelle si formano attraverso il crollo gravitazionale di dense nuvole molecol
 
 ![[_attachments/PLANCKS_2021/PLANCKS_2021_p3_f1.png]]
 
-**Domanda 1 [20 punti] **
+**Domanda 1 [20 punti]**
 
 Per semplicità, supponiamo che il disco sia otticamente spessore e verticalmente isotermico, con una velocità sonora costante, $c_s$, e una pressione data da $P(r, z) = \rho(r, z)\,c_s^2(r)$. Se il gas è in equilibrio idrostatico nella direzione verticale $z$ (nessun movimento di massa in questa direzione), mostrare che il profilo di densità verticale, $\rho(z)$, è un profilo gaussiano. In questo esercizio si può considerare la massa del disco trascurabile quando si confronta con la massa della stella, quindi la forza gravitazionale è principalmente dovuta alla stella.
 
-**Domanda 2 [30 punti] **
+**Domanda 2 [30 punti]**
 
 L'evoluzione di un disco piatto e geometricamente sottile deriva dalle equazioni di conservazione della massa e del momento angolare. Considera un disco sottile caratterizzato da una densità superficiale $\Sigma(r, t)$ (la massa per unità di superficie del disco, $\Sigma(r, t) \approx \rho(r, t) \times H(r)$), velocità radiale $V_r(r, t)$ e velocità angolare $\Omega(r)$. La conservazione del momento angolare è data dall'equazione
 
@@ -408,7 +408,7 @@ $$
 \frac{\partial\Sigma}{\partial t} = \frac{3}{r}\frac{\partial}{\partial r}\left[r^{1/2}\frac{\partial}{\partial r}\left(\nu\Sigma r^{1/2}\right)\right] \tag{2}
 $$
 
-**Domanda 3 [30 punti] **
+**Domanda 3 [30 punti]**
 
 In generale, l'equazione 2 è un'equazione di diffusione non lineare, poiché la viscosità cinematica $\nu$ può essere una funzione di $\Sigma$, $r$ e tempo. Se supponiamo una viscosità costante $\nu$ nel disco completo, l'equazione è lineare.
 
@@ -420,7 +420,7 @@ e determinare la scala temporale tipica dell'evoluzione del disco (chiamata anch
 
 Secondo lei, come si può ottenere la scala temporale dell'evoluzione del disco dalle osservazioni?
 
-**Domanda 4 [20 punti] **
+**Domanda 4 [20 punti]**
 
 Nelle domande precedenti abbiamo supposto che la massa del disco sia trascurabile rispetto alla massa della stella. Qui, vogliamo discutere la validità di questa ipotesi. Poiché il disco è molto grande, per semplicità si approssima il disco con un foglio infinito con densità di superficie costante $\Sigma$ e spessore $H$. Mostrare che la massa del disco non è trascurabile quando
 
@@ -610,7 +610,7 @@ La scoperta del premio Nobel del 2019 del pianeta che orbita intorno a una stell
 
 Le seguenti domande si concentrano su alcuni aspetti della rilevazione e della caratterizzazione dei pianeti, ma anche su alcuni problemi e sfide interessanti sollevati dai modelli di formazione dei pianeti. Tutte le domande sono indipendenti e possono essere risolte in qualsiasi ordine.
 
-**Domanda 1 [25 punti] **
+**Domanda 1 [25 punti]**
 
 Uno dei principali metodi di rilevamento ed caratterizzazione degli esopianeti (il cosiddetto metodo Radial-Velocity) si basa sulla misurazione della velocità di Doppler della stella mentre oscilla intorno al centro di massa del sistema stellare-planetario.
 
@@ -618,13 +618,13 @@ Supponiamo che si abbia un pianeta simile a Giove, con masse solari $\sim 10^{-3
 
 Calcolare la velocità orbitale attesa della stella (in unità di km/s).
 
-**Domanda 2 [25 punti] **
+**Domanda 2 [25 punti]**
 
 Supponendo che il pianeta sia in equilibrio termico con la stella e che l'energia ricevuta dal pianeta sia rapidamente distribuita sulla sua superficie (cioè che il pianeta abbia una temperatura uniforme), mostrare che la temperatura del pianeta è proporzionale a $T_\star\sqrt{R_\star/D}$, dove $T_\star$, $R_\star$ e $D$ sono la temperatura della stella, il suo raggio e la distanza tra la stella e il pianeta, rispettivamente.
 
 Commento sulla natura fisica del fattore di proporzionalità.
 
-**Domanda 3 [25 punti] **
+**Domanda 3 [25 punti]**
 
 Una frazione significativa degli esopianeti conosciuti sono giganti, simili a Giove, ma che orbitano intorno alle loro stelle ospite a distanze molto brevi. Questo solleva diverse domande sulla formazione e l'evoluzione dei pianeti, ma anche sull'esistenza stessa di questi mondi. Supponiamo che il pianeta gigante sopra menzionato sia in realtà a 0,05 UA da una stella simile al Sole, in modo tale che la sua temperatura sia di 1250 K.
 
@@ -729,7 +729,7 @@ $$\frac{1}{2}\dot{a}^2 = \frac{GM}{a} - \frac{k}{2},$$
 
 in cui $k$ è una costante di integrazione.
 
-**Domanda 3 [16 punti] **
+**Domanda 3 [16 punti]**
 
 Supponiamo che la massa $M$ sia costituita da polvere senza pressione distribuita omogenea con densità $\rho(t)$, all'interno del raggio $a(t)$ di una sfera. Inserire questa massa nell'equazione precedente per ottenere un'espressione per il quadrato del tasso di espansione, $H = \dot{a}/a$, in termini di densità. Questa equazione è conosciuta come equazione di Friedmann ed è stata ottenuta dal polimatico russo Alexander Friedmann (18881925) nel 1922 nel contesto della Teoria della Relatività Generale, il che significa che questa equazione è più generale delle considerazioni newtoniane presunte per la derivazione di cui sopra (piccole velocità, $v/c \ll 1$, e campi gravitazionali deboli, $V/c^2 \ll 1$, dove $V$ è il potenziale gravitazionale).
 
@@ -753,7 +753,7 @@ $$\frac{1}{2}\dot{a}^2 = -V_{eff}(a) - \frac{k}{2},$$
 
 dove $V_{eff}(a) = -4\pi G\rho a^2/3$, disegnando il diagramma di $V_{eff}(a)$ come funzione di $a$ e discutendo come $a(t)$ evolve come funzione del tempo cosmico, $t$.
 
-**Constanti rilevanti: **
+**Constanti rilevanti:**
 Costante gravitazionale di Newton: $G = 6.67 \times 10^{-11}\ \text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$
 Velocità della luce: $c = 3 \times 10^8\ \text{m/s}$
 
@@ -823,15 +823,15 @@ Una svolta fu l'invenzione di un'incontro magnetico costituito da due elettrodi 
 
 *Figura 3  Due materiali FM che si uniscono a un materiale non magnetico.*
 
-**Domanda 1 [15 punti] **
+**Domanda 1 [15 punti]**
 
 Spiegate il principio di funzionamento di questi nanodivisi e come possono misurare un po'.
 
-**Domanda 2 [20 punti] **
+**Domanda 2 [20 punti]**
 
 Considera che la giunzione magnetica è una valvola a spin, ad esempio. lo strato non magnetico è un metallo. Qual è l'espressione della sensibilità massima (massimo di magnetoresistenza) del sistema di valvole a spin utilizzando il modello più semplice? [Suggerimento: considera la variazione della resistenza]
 
-**Domanda 3 [40 punti] **
+**Domanda 3 [40 punti]**
 
 Considerate ora una barriera di giunzione del tunnel magnetico (MTJ) in cui lo strato non magnetico è un isolante. Non tenendo conto del contributo magnetico, considerando gli strati metallici, determinare l'espressione generale della corrente del tunnel attraverso il MTJ.
 
@@ -971,7 +971,7 @@ $$
 
 dove $p$ è la pressione totale e per comodità abbiamo anche introdotto $w = p/\rho$, l'equazione di parametro di stato.
 
-**Domanda 1 [20 punti] **
+**Domanda 1 [20 punti]**
 
 Considerate un campo scalare con
 
@@ -989,7 +989,7 @@ in cui $V_2$ è un potenziale generico.
 
 In quali condizioni ogni campo può dominare l'universo e causare la sua recente accelerazione?
 
-**Domanda 2 [20 punti] **
+**Domanda 2 [20 punti]**
 
 Considerate il primo dei campi scalari della domanda 1. Mostrare che se la velocità del campo è piccola si può scrivere, al primo ordine,
 
@@ -1005,7 +1005,7 @@ $$
 \frac{H^2(z)}{H_0^2} = \Omega_m(1 + z)^3 + \Omega_\phi\left[\frac{(1 + z)^3}{\Omega_m(1 + z)^3 + \Omega_\phi}\right]^{\frac{1+w_0}{\Omega_\phi}}. \tag{6}
 $$
 
-**Domanda 3 [30 punti] **
+**Domanda 3 [30 punti]**
 
 Considera un universo piatto contenente materia e una costante cosmologica, ma anche un campo scalare che obbedisce all'equazione di evoluzione cosmologica
 
@@ -1104,11 +1104,11 @@ Un protone si muove in una camera a vuoto, entrando in una regione con un campo 
 
 Trova l'angolo di uscita $\phi$.
 
-**Domanda 2 [20 punti] **
+**Domanda 2 [20 punti]**
 
 Trova la distanza $d$.
 
-**Domanda 3 [35 punti] **
+**Domanda 3 [35 punti]**
 
 Se la direzione del campo magnetico uniforme è invertita, facendola puntare fuori dalla pagina, trovare l'angolo $\theta$ che farà tornare il protone al punto P dopo aver lasciato la regione.
 
@@ -1221,7 +1221,7 @@ Consider a small soap bubble of radius $R$ suspended in the gas. This bubble is 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Che cosa ci può dire la pressione sulla flottabilità? **
+**Che cosa ci può dire la pressione sulla flottabilità?**
 
 ### Introduzione
 
@@ -1245,7 +1245,7 @@ per un potenziale di confinamento esterno generale $V(\mathbf{r})$.
   $$\rho(\mathbf{r}) = C e^{-\beta V(\mathbf{r})}$$
 e determinare la costante $C$.
 
-- ** 1.2.** Sketta e caratterizza i profili di densità delle particelle per i seguenti potenziali di confinamento $V(\mathbf{r})$:
+- **1.2.** Sketta e caratterizza i profili di densità delle particelle per i seguenti potenziali di confinamento $V(\mathbf{r})$:
   - c. [4 punti] Cassa cubica (di lato $L$) con pareti dure
   - d. [4 punti] Un cilindro semiprefinito con pareti dure definite da $x^2 + y^2 \le R^2$ e $z > 0$, con potenziale gravitazionale $mgz$.
   - e. [4 punti] Un pozzo armonico tridimensionale $V(\mathbf{r}) = \tfrac{1}{2}k|\mathbf{r}|^2$.
@@ -1279,7 +1279,7 @@ Ritorna la legge del gas ideale. Quale potenziale di confinamento userete?
 
 Fin dall'antichità classica, è noto che un corpo solido immerso in un fluido è agito da una forza di fluttuanza verticale che equivale precisamente al peso del volume spostato del fluido (Principio di Archimede*). Usando il quadro ideato sopra, si può ottenere di nuovo questo risultato utilizzando una teoria microscopica.
 
-- **3.1 [10 punti] ** Derivare la forza media nella direzione $\hat{\mathbf{u}}$ $\langle\mathbf{F}\cdot\hat{\mathbf{u}}\rangle = \overline{F}_u$ causata dal gas sulla sfera, ovvero
+- **3.1 [10 punti]** Derivare la forza media nella direzione $\hat{\mathbf{u}}$ $\langle\mathbf{F}\cdot\hat{\mathbf{u}}\rangle = \overline{F}_u$ causata dal gas sulla sfera, ovvero
   $$\overline{F}_u = -N\frac{\displaystyle\int_0^\infty dr'\,r'^2\left[-\frac{dU_{\text{sph}}}{dr'}\right]\exp\!\left(-\beta U_{\text{sph}}(r')\right)\mathcal{J}(r')}{\displaystyle\int d^{(3)}\mathbf{r}\exp(-\beta V(\mathbf{r}))},$$
 dove
   $$\mathcal{J}(r' = |\mathbf{r} - \mathbf{r}_0|) = \int_0^{2\pi}d\phi'\int_0^\pi d\theta'\cos\theta'\sin\theta'\exp\!\left(-\beta V(r', \theta', \phi')\right)$$
@@ -1374,7 +1374,7 @@ Scrivere l'equazione di movimento del momento magnetico sotto l'influenza del ca
 
 Determinare la frequenza di precisione $\omega_o$ del momento magnetico.
 
-**Domanda 3 [25 punti] **
+**Domanda 3 [25 punti]**
 
 Si considera ora un secondo quadro di riferimento $(x', y', z')$ che ruota con velocità angolare $\vec{\Omega} = -\omega_0\hat{z}$, in modo tale che $z = z'$. Scrivere l'equazione di movimento del momento magnetico che si riferisce al quadro di riferimento rotante.
 
@@ -1465,7 +1465,7 @@ Note: At 1550 nm the refractive index is 1.468 and has a linear variation with w
 
 **Optica**
 
-**Domanda 1 [20 punti] **
+**Domanda 1 [20 punti]**
 
 Un breve impulso luminoso ($\lambda_0 = 590\ \text{nm}$) è diviso in due da uno specchio prisma. Uno dei fasci viaggia nell'aria (indice di rifrazione 1.000) e l'altro fascio viaggia attraverso un metro di vetro (silica) con un indice di rifrazione di 1.458.
 
@@ -1475,13 +1475,13 @@ Calcola la differenza di tempo tra i due impulsi che arrivano al bersaglio.
 
 Nota: per semplicità, supponi $c = 3.000 \times 10^8$ m/s in tutte le domande di questo problema.
 
-**Domanda 2 [20 punti] **
+**Domanda 2 [20 punti]**
 
 Supponiamo che i due fasci del sistema precedente interferiscano costruttivamente con l'obiettivo (si usano specchi per sovrapporreli). Qual è la variazione minima di temperatura della barra di silicio di un metro per cambiare l'interferenza da interferenza costruttiva a distruttiva?
 
 Il coefficiente di temperatura dell'indice di rifrazione della silice è $8.7 \times 10^{-6}\ \text{K}^{-1}$.
 
-**Domanda 3 [20 punti] **
+**Domanda 3 [20 punti]**
 
 Un breve impulso di luce non può essere considerato monocromatico. La limitazione nel tempo truncerà l'oscillazione sinusoidale dell'onda elettromagnetica. Lo spettro risultante dipende dalla forma temporale dell'impulso (la forma che rende l'envelope dell'onda sinusoida elettromagnetica ideale). Per la particolare enveloppa di forma di Gaussian matematica, la forma di frequenza risultante è anche gaussian, e il prodotto delle due enveloppe di Gaussian è uguale a uno ($\Delta t \times \Delta f = 1$). Ciò significa che un impulso di Gaussian molto breve con 10 fs (1 fs = $10^{-15}$ s) avrà uno spettro di Gaussian con $10^{14}$ larghezza Hz (corrispondente a 83 nm per un impulso centrato a 500 nm).
 
@@ -1507,7 +1507,7 @@ Calcolare la nuova larghezza spettrale di questo impulso dopo una propagazione d
 
 Nota: supponiamo per lo spettro iniziale quello ottenuto con un impulso di Gaussian con la larghezza di 200 ps.
 
-**Domanda 5 [20 punti] **
+**Domanda 5 [20 punti]**
 
 La dispersione della fibra a circa 1550 nm è anomala, cioè le lunghezze d'onda più lunghe viaggiano più lentamente rispetto a quelle più brevi. Poiché l'indice di rifrazione non lineare spostano le lunghezze d'onda del bordo anteriore dell'impulso a lunghezze d'onda più lunghe e quelle del bordo trasversale a lunghezze d'onda più corte, il spostamento delle lunghezze d'onda può essere compensato dalle diverse velocità di propagazione. Questo è infatti usato per la propagazione solitonica di impulsi (una forma di secante iperbolica è una soluzione per questi impulsi).
 

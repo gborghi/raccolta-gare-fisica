@@ -285,7 +285,7 @@ a. Poi si prende lentamente il grumetto di argilla e si tiene a una altezza $h$ 
 
 b. Supponiamo che la collisione tra l'argilla e la piattaforma sia completamente inelastica. Trova il rapporto tra l'ampiezza dell'oscillazione della piattaforma dopo la collisione ($A_f$) e l'ampiezza delle oscillazioni della piattaforma prima della collisione ($A_i$). Determinare $A_f / A_i$ in termini di rapporto di massa $r$ e di eventuali costanti numeriche necessarie.
 
-c. Segnare un grafico della posizione della piattaforma in funzione del tempo, con $t = 0$ corrispondente al momento in cui viene abbassata l'argilla. Mostra una oscillazione completa ** dopo che** l'argilla ha colpito la piattaforma. Non è necessario utilizzare carta grafica.
+c. Segnare un grafico della posizione della piattaforma in funzione del tempo, con $t = 0$ corrispondente al momento in cui viene abbassata l'argilla. Mostra una oscillazione completa **dopo che** l'argilla ha colpito la piattaforma. Non è necessario utilizzare carta grafica.
 
 d. L'esperimento di cui sopra è possibile solo se il rapporto di massa $r$ è inferiore a un certo valore critico $r_c$. In caso contrario, nonostante l'argilla sia stata abbassata dall'altezza determinata nella parte (a), la piattaforma oscillante colpirà l'argilla prima che la piattaforma abbia completato una completa oscillazione. Nella grafica della parte c) del grafico, disegna la posizione dell'argilla in funzione del tempo rispetto alla posizione della piattaforma per il rapporto di massa $r = r_c$.
 
@@ -350,7 +350,7 @@ a. Una piccola palla di metallo di massa $M$ e carica $q$ è sospesa da una cord
 
    ii. La palla di metallo viene poi sollevata fino a raggiungere un angolo $\theta$ verso la verticale, dove $\theta$ è solo leggermente superiore a $\theta_0$. La palla di metallo viene quindi rilasciata dal riposo. Mostrare che il movimento risultante è un semplice movimento armonico e trovare il periodo delle oscillazioni in termini di dati quantità e costanti fondamentali.
 
-iii. Quando la palla è in riposo nella posizione di equilibrio $\theta_0$, la corda viene tagliata. Qual è il valore massimo per $V_0$ in modo che la palla ** non ** colpisca una delle lastre prima di uscire? Esprimi la tua risposta in termini di quantità e costanti fondamentali.
+iii. Quando la palla è in riposo nella posizione di equilibrio $\theta_0$, la corda viene tagliata. Qual è il valore massimo per $V_0$ in modo che la palla **non** colpisca una delle lastre prima di uscire? Esprimi la tua risposta in termini di quantità e costanti fondamentali.
 
 b. Supponiamo invece che la palla di massa $M$ e carica $q$ sia rilasciata dal riposo in un punto a metà strada tra le lastre al momento $t = 0$. Ora, una differenza di potenziale AC $V(t) = V_0 \sin\omega t$ viene anche posizionata sul condensatore. La palla può colpire una delle piastre prima di cadere (sotto l'influenza della gravità) fuori dalla regione tra le piastre. Se $V_0$ è sufficientemente grande, questo si verifica solo per alcune frequenze angolari $\omega_{\min} < \omega < \omega_{\max}$. Si può supporre che $\omega_{\min} \ll \sqrt{g/h}$ e $\omega_{\max} \gg \sqrt{g/h}$. Per fare queste ipotesi, si possono trovare espressioni per $\omega_{\min}$ e $\omega_{\max}$ in termini di quantità e/o costanti fondamentali.
 

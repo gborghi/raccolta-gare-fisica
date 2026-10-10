@@ -222,7 +222,7 @@ Il nostro ambiente è pieno di suoni e effetti sonori. Questo problema speriment
 
 ##### Notte per strumenti
 
-**Generatore di funzioni sintetizzate (articolo A). ** Il pulsante di alimentazione può essere premuto per "ON" e premuto di nuovo per "OFF". Selezionare la gamma di frequenze e usare il pulsante appropriato: per spostare il cursore nel display principale (punto di modifica della frequenza) utilizzare la chiave "4" o "5" dopo aver premuto la chiave SHIFT; per specificare l'unità di frequenza utilizzare la chiave "9" per kHz con la chiave SHIFT. La frequenza verrà visualizzata sul display principale. Per vedere la tensione del segnale prodotto dal generatore, utilizzare il pulsante V/F con il tasto SHIFT. Utilizzare il pulsante di regolazione della frequenza per regolare la frequenza appropriata. Per modificare l'ampiezza del segnale, utilizzare il pulsante di controllo dell'ampiezza. È necessario accendere la "Tap di controllo di uscita ON/OFF", altrimenti il generatore non invierà il segnale al microfono. Non utilizzare il "Controllo di dovere" nella situazione di onde sinusoide.
+**Generatore di funzioni sintetizzate (articolo A).** Il pulsante di alimentazione può essere premuto per "ON" e premuto di nuovo per "OFF". Selezionare la gamma di frequenze e usare il pulsante appropriato: per spostare il cursore nel display principale (punto di modifica della frequenza) utilizzare la chiave "4" o "5" dopo aver premuto la chiave SHIFT; per specificare l'unità di frequenza utilizzare la chiave "9" per kHz con la chiave SHIFT. La frequenza verrà visualizzata sul display principale. Per vedere la tensione del segnale prodotto dal generatore, utilizzare il pulsante V/F con il tasto SHIFT. Utilizzare il pulsante di regolazione della frequenza per regolare la frequenza appropriata. Per modificare l'ampiezza del segnale, utilizzare il pulsante di controllo dell'ampiezza. È necessario accendere la "Tap di controllo di uscita ON/OFF", altrimenti il generatore non invierà il segnale al microfono. Non utilizzare il "Controllo di dovere" nella situazione di onde sinusoide.
 
 **Adaptor di amplificatore (punto B).** L'amplificatore stesso non fa nulla; funge semplicemente da adattatore per collegare i connettori che altrimenti non sarebbero compatibili.
 
@@ -230,7 +230,7 @@ Il nostro ambiente è pieno di suoni e effetti sonori. Questo problema speriment
 
 **Controlatore di frequenza (articolo D).** Collegare il cavo del segnale al connettore "Input di segnale". Accendi il contatore di frequenza. Presi il Freq. il pulsante" e il pulsante "Tempo"; il contatore di frequenza sarà pronto per la misurazione.
 
-> **Cauzione: ** Assicurarsi di spegnere l'alimentazione dell'attrezzatura prima di collegare/ spegnere tutte le connessioni, altrimenti si verificheranno danni all'attrezzatura o ai sensori.
+> **Cauzione:** Assicurarsi di spegnere l'alimentazione dell'attrezzatura prima di collegare/ spegnere tutte le connessioni, altrimenti si verificheranno danni all'attrezzatura o ai sensori.
 
 ---
 
@@ -238,15 +238,15 @@ Il nostro ambiente è pieno di suoni e effetti sonori. Questo problema speriment
 
 **Introduzione.** La proprietà chiamata piezoelettricità fornisce un conveniente accoppiamento tra oscillazioni meccaniche di un cristallo, che si verificano a una frequenza molto nettamente definita, e le proprietà elettriche di un circuito di cui il cristallo è parte. I materiali piezoelettrici sono utilizzati per convertire segnali elettrici e sonori tra loro. Ma si distinguono per la loro frequenza di lavoro ben specificata. Pertanto, in questa parte sperimentale, dobbiamo determinare le proprietà fisiche del microfono, che è fatto di materiale piezoelettrico, prima di usarlo.
 
-**Lista di componenti: ** Generatore di funzione (FG); amplificatore ad ultrasuoni; AC Millivoltmeter (MV); tenitore di rotazione con angolo; trasduttore ad ultrasuoni per la fonte (S) con tenitore; microfono ad ultrasuoni per il rilevatore (D) con tenitore; due cavi coaxiali di connessione; calcolatore.
+**Lista di componenti:** Generatore di funzione (FG); amplificatore ad ultrasuoni; AC Millivoltmeter (MV); tenitore di rotazione con angolo; trasduttore ad ultrasuoni per la fonte (S) con tenitore; microfono ad ultrasuoni per il rilevatore (D) con tenitore; due cavi coaxiali di connessione; calcolatore.
 
 **Esperimenti e procedure.** Utilizziamo due microfoni ad ultrasuoni, uno utilizzato come fonte di segnale (tipo rosso) e l'altro come ricevitore di segnale (tipo blu). La fonte riceve il segnale dal generatore di funzione (FG) attraverso l'amplificatore e converte il segnale in un'onda sonora. Il ricevitore di segnale (il rilevatore), collegato a un preamplificatore, riceve l'onda sonora emessa dalla fonte e la converte in un segnale elettrico. La tensione del segnale di uscita è misurata con il millivoltmeter AC.
 
-> **Insigni: ** La tensione del segnale dato alla fonte (S) deve essere regolata intorno a $1\ \text{V}$. Se è più di questo, l'onda ad ultrasuoni sarà satura e influenzerà il risultato. I microfoni sono collocati nel supporto rotante e collegati a un circuito elettrico con il sistema di amplificatore ad ultrasuoni. La distanza tra la fonte e il rilevatore non deve essere modificata durante l'esperimento. Assicurarsi che i microfoni siano posizionati paralleli alla base del supporto e che gli assi dei microfoni siano sulla stessa linea.
+> **Insigni:** La tensione del segnale dato alla fonte (S) deve essere regolata intorno a $1\ \text{V}$. Se è più di questo, l'onda ad ultrasuoni sarà satura e influenzerà il risultato. I microfoni sono collocati nel supporto rotante e collegati a un circuito elettrico con il sistema di amplificatore ad ultrasuoni. La distanza tra la fonte e il rilevatore non deve essere modificata durante l'esperimento. Assicurarsi che i microfoni siano posizionati paralleli alla base del supporto e che gli assi dei microfoni siano sulla stessa linea.
 
-**1a. (1.5 punti) ** Cambiando la frequenza del segnale dal FG, misurare la tensione del segnale di uscita convertito dal rilevatore. Misurare nella gamma di frequenza di ingresso da $30\ \text{kHz}$ a $50\ \text{kHz}$ e assicurarsi che la frequenza del segnale inviato alla fonte rimanga in questa gamma data. Altrimenti il microfono sarà danneggiato o fuori uso. Impostare la tensione del segnale proveniente dal FG intorno a $1\ \text{V}$. Introdurre i dati misurati nella tabella 1A. Tracciare il grafico utilizzando i dati misurati. Tracciare la tensione del segnale rms misurata vs. frequenza e determinare le frequenze di interruzione $f_1$, $f_2$ in cui la tensione del segnale rms misurata scende a $1/\sqrt{2}$ del valore massimo misurato. Determina quindi la larghezza di banda $\Delta f = f_2 - f_1$. Determinare la frequenza di lavoro $f_w$ (al quale la tensione del segnale del rilevatore è massima) a partire dai risultati ottenuti.
+**1a. (1.5 punti)** Cambiando la frequenza del segnale dal FG, misurare la tensione del segnale di uscita convertito dal rilevatore. Misurare nella gamma di frequenza di ingresso da $30\ \text{kHz}$ a $50\ \text{kHz}$ e assicurarsi che la frequenza del segnale inviato alla fonte rimanga in questa gamma data. Altrimenti il microfono sarà danneggiato o fuori uso. Impostare la tensione del segnale proveniente dal FG intorno a $1\ \text{V}$. Introdurre i dati misurati nella tabella 1A. Tracciare il grafico utilizzando i dati misurati. Tracciare la tensione del segnale rms misurata vs. frequenza e determinare le frequenze di interruzione $f_1$, $f_2$ in cui la tensione del segnale rms misurata scende a $1/\sqrt{2}$ del valore massimo misurato. Determina quindi la larghezza di banda $\Delta f = f_2 - f_1$. Determinare la frequenza di lavoro $f_w$ (al quale la tensione del segnale del rilevatore è massima) a partire dai risultati ottenuti.
 
-**1b. 1, 5 punti) ** Impostare la frequenza dal FG alla frequenza di lavoro. Determinare la dipendenza angolare dell'intensità del segnale di uscita dalla posizione del rilevatore rispetto alla sorgente. Scrivere i dati misurati nella tabella 1B. Tracciare un grafico della dipendenza del rapporto di tensione $A(\varphi)/A(0)$ sull'angolo $\varphi$, dove $A(\varphi)$ e $A(0)$ sono rispettivamente le tensioni del segnale di uscita all'angolo $\varphi$ e $0°$. La direzione $\varphi = 0°$ ha la massima rilevazione ed è chiamata asse della fonte. Trova i valori angolari a cui la tensione del segnale rilevato diminuisce 2 e 3 volte.
+**1b. 1, 5 punti)** Impostare la frequenza dal FG alla frequenza di lavoro. Determinare la dipendenza angolare dell'intensità del segnale di uscita dalla posizione del rilevatore rispetto alla sorgente. Scrivere i dati misurati nella tabella 1B. Tracciare un grafico della dipendenza del rapporto di tensione $A(\varphi)/A(0)$ sull'angolo $\varphi$, dove $A(\varphi)$ e $A(0)$ sono rispettivamente le tensioni del segnale di uscita all'angolo $\varphi$ e $0°$. La direzione $\varphi = 0°$ ha la massima rilevazione ed è chiamata asse della fonte. Trova i valori angolari a cui la tensione del segnale rilevato diminuisce 2 e 3 volte.
 
 ---
 
@@ -254,7 +254,7 @@ Il nostro ambiente è pieno di suoni e effetti sonori. Questo problema speriment
 
 **Introduzione.** Un modello di onde in piedi è un modello vibrazionale creato all'interno di un mezzo quando le onde riflesse da uno specchio interferiscono con le onde incidenti dalla fonte. Le onde interferiscono in modo tale che ci siano punti di non spostamento prodotti nelle stesse posizioni lungo il mezzo. Questi punti lungo il mezzo sono noti come nodi ****. Ci sono altri punti lungo il mezzo che subiscono vibrazioni tra un grande spostamento positivo e un grande spostamento negativo. Questi punti sono noti come **antinodi**.
 
-**Lista di componenti: ** Generatore di funzione (A); amplificatore ad ultrasuoni (B); AC millivoltmeter (C); trasduttore ad ultrasuoni per fonte (F) con portatore (H); microfono ad ultrasuoni per rilevatore (G) con portatore (I); specchio metallico (J) e portatore magnetico con regola (K); banco ottico (R); due cavi coaxiali di connessione (N); calcolatore (X).
+**Lista di componenti:** Generatore di funzione (A); amplificatore ad ultrasuoni (B); AC millivoltmeter (C); trasduttore ad ultrasuoni per fonte (F) con portatore (H); microfono ad ultrasuoni per rilevatore (G) con portatore (I); specchio metallico (J) e portatore magnetico con regola (K); banco ottico (R); due cavi coaxiali di connessione (N); calcolatore (X).
 
 Descrizione degli esperimenti
 
@@ -267,7 +267,7 @@ Descrizione degli esperimenti
 
 **2a.2.** Metti il rilevatore nella posizione B (visto nella figura 2.1) e osserva la dipendenza del livello di segnale rilevato dalle posizioni di M e D. La posizione di S deve essere fissata.
 
-**2a.3. Come è stato fatto nell'esperimento 2a.1, fissando le posizioni di S e D e spostando M, determinare sperimentalmente la lunghezza d'onda $\lambda$ dell'onda ultrasuonica.
+**2a.3. Come è stato fatto nell'esperimento 2a.1, fissando le posizioni di S e D e spostando M, determinare sperimentalmente la lunghezza d'onda $\lambda$ dell'onda ultrasuonica.**
 
 **2b. (2.8 punti)** Trova sperimentale le risposte corrette alle seguenti affermazioni. Scrittore "✓" per le risposte corrette o "" per le risposte errate sotto l'etichetta delle affermazioni scelte nella scheda Risposte.
 
@@ -308,7 +308,7 @@ $$
 
 in cui $f_0$ è la frequenza dell'onda emessa dalla sorgente, $c$ la velocità del suono nell'aria, $v_d$ la velocità del rilevatore e $v_s$ la velocità della sorgente.
 
-**Lista di componenti: ** Generatore di funzione (FG); amplificatore ad ultrasuoni; AC Millivoltmeter (MV); contatore di frequenze (FC); trasduttore ad ultrasuoni per la fonte (S) con portatore; microfono ad ultrasuoni per il rilevatore (D) con portatore; motore; disco rotante; alimentazione di corrente continua; banco ottico; cavi coaxiali di connessione.
+**Lista di componenti:** Generatore di funzione (FG); amplificatore ad ultrasuoni; AC Millivoltmeter (MV); contatore di frequenze (FC); trasduttore ad ultrasuoni per la fonte (S) con portatore; microfono ad ultrasuoni per il rilevatore (D) con portatore; motore; disco rotante; alimentazione di corrente continua; banco ottico; cavi coaxiali di connessione.
 
 **Descrizione dell'esperimento.** La fonte (S) viene posizionata in modo che l'ultra suono colpisca i denti del disco rotante dal lato, e il rilevatore viene posizionato in modo che l'ultra suono riflesso sia rilevato in modo più efficace. La fonte è collegata all'uscita del generatore di funzione e il rilevatore al milivoltmeter da misurare (che rileva il livello di intensità sonora), come spiegato nella parte 1. Prima di iniziare l'esperimento, si dovrebbe verificare i cambiamenti nel livello di intensità del suono spostando manualmente il disco avanti e indietro. Se i cambiamenti nel livello di intensità sonora sono piccoli, si dovrebbe regolare correttamente la posizione della fonte sonora e del ricevitore. Se l'apparecchio non è adeguatamente regolato, può verificarsi un errore nelle misurazioni del livello di intensità sonora e della frequenza.
 
@@ -325,7 +325,7 @@ in cui $f_0$ è la frequenza dell'onda emessa dalla sorgente, $c$ la velocità d
 
 **3c. L'effetto Doppler in funzione della tensione del motore (2,8 punti).** Misurare la frequenza del segnale ultrasuonico rilevato dal rilevatore in funzione della tensione del motore fino a $16\ \text{V}$. Tracciare un grafico $\Delta f$ vs $U$. Dal grafico in generale $U$, determinare il valore della tensione soglia $U_t$ da cui la variazione di $\Delta f$ va a zero e la pendenza del grafico con errore di misura.
 
-> **Insigni: ** Fa' girare il disco rotante in direzione Clockwise (CW) e non lo cambi dopo. Scegliere la posizione del rilevatore in modo che misura con maggiore stabilità ed efficacia. Per risparmiare tempo, si può misurare la corrente elettrica per la missione 3d contemporaneamente con la misura della tensione del motore. Assicurarsi che l'attrezzatura che utilizzi nella parte sperimentale sia calibrata e misurata molto bene prima di usarla. Ogni sistema ha una specifica specifica su un foglio speciale. Ad esempio, a tensione $10\ \text{V}$, il cambiamento di frequenza dell'effetto Doppler è indicato nella scheda di specifica. Usando questi risultati sperimentali, dovresti calibrare il tuo sistema. Altrimenti la misurazione sarà erronea.
+> **Insigni:** Fa' girare il disco rotante in direzione Clockwise (CW) e non lo cambi dopo. Scegliere la posizione del rilevatore in modo che misura con maggiore stabilità ed efficacia. Per risparmiare tempo, si può misurare la corrente elettrica per la missione 3d contemporaneamente con la misura della tensione del motore. Assicurarsi che l'attrezzatura che utilizzi nella parte sperimentale sia calibrata e misurata molto bene prima di usarla. Ogni sistema ha una specifica specifica su un foglio speciale. Ad esempio, a tensione $10\ \text{V}$, il cambiamento di frequenza dell'effetto Doppler è indicato nella scheda di specifica. Usando questi risultati sperimentali, dovresti calibrare il tuo sistema. Altrimenti la misurazione sarà erronea.
 
 **3d. La dipendenza lineare di $\Omega$ da $U$ (0,8 punti).** Nella scheda di specifica si trovano la velocità angolare $\Omega$, la tensione $U$ e la corrente elettrica $I$ con i loro errori di misurazione (per la direzione CW) e si calcolano i coefficienti numerici e gli errori per la dipendenza lineare di $\Omega$ da $U$. Supponiamo che ad elevate tensioni $\Omega$ sia approssimativamente proporzionale alla tensione. È necessario scrivere i valori ottenuti dalla specifica sulla scheda delle risposte.
 
@@ -341,7 +341,7 @@ dove $c_{\text{theor}} = 343\ \text{m/s}$ è la velocità del suono nell'aria ne
 
 La soglia dell'udito è l'intensità sonora (in $\text{W/m}^2$) a cui l'orecchio può a malapena sentirla. Questa soglia dipende dalla frequenza sonora. La soglia di audizione di circa $2000\ \text{Hz}$ è uguale a $10^{-12}\ \text{W/m}^2$. Il rapporto $\log_{10}(I/I_0)$ è chiamato livello di intensità sonora e viene misurato in unità di Bel (abbreviato B). In pratica è più conveniente utilizzare il rapporto $\beta\ (\text{in dB}) = 10\,\log_{10}(I/I_0)$. L'orecchio umano può sentire suoni da circa $20\ \text{Hz}$ a circa $20{,}000\ \text{Hz}$. Questo si chiama il range udibile.
 
-**Lista di apparecchi e accessori: ** Generatore di funzione (a); Milivoltmeter AC (b); connettori a cavo (c, d); resistore variabile (reostato) (e); cuffie (f).
+**Lista di apparecchi e accessori:** Generatore di funzione (a); Milivoltmeter AC (b); connettori a cavo (c, d); resistore variabile (reostato) (e); cuffie (f).
 
 **Preparazione.** 1. Collegare l'apparecchio sperimentale come mostrato alla figura 4.2. 2. Accendi la potenza del milivoltmetro AC e del generatore di funzione. 3. Gira il pulsante ADJ e imposta la posizione centrale.
 
@@ -349,7 +349,7 @@ La soglia dell'udito è l'intensità sonora (in $\text{W/m}^2$) a cui l'orecchio
 
 #### Misure
 
-**4a. La regione di frequenza dell'udito (0,5 punti). Determinazione della frequenza più bassa da ascoltare, $f_{\text{low}}$; e B. Determinazione della frequenza più alta da ascoltare, $f_{\text{high}}$.
+**4a. La regione di frequenza dell'udito (0,5 punti). Determinazione della frequenza più bassa da ascoltare, $f_{\text{low}}$; e B. Determinazione della frequenza più alta da ascoltare, $f_{\text{high}}$.**
 1. Impostare il volume dell'auricolare al massimo utilizzando il volume controller del reostato.
 2. Trova la frequenza più bassa, $f_{\text{low}}$, da ascoltare. Per farlo, è necessario modificare sia il livello del suono che la frequenza. Per modificare la frequenza, utilizzare il pulsante frequenza del Generatore di Funzioni. Per modificare il livello sonoro è possibile utilizzare il reostato e il pulsante AMPL ADJ del Generatore Funzione.
 3. Utilizzare una procedura simile e trovare $f_{\text{high}}$.

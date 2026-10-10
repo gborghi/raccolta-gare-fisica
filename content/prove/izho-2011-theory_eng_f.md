@@ -47,6 +47,10 @@ Is the lens concave (diverging) or convex (collecting)? Please write down the an
 
 ![[IZhO-2011-Theory_eng_f_p2_f4.png]]
 
+**Topic:** [[Newtonian Mechanics]], [[Circuits]], [[Geometric Optics]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -179,6 +183,10 @@ $$
 $$
 \cos x \approx 1 - \frac{x^2}{2} + \frac{x^4}{24}
 $$
+
+**Topic:** [[Electromagnetism]], [[Magnetism]], [[Kinetic Theory]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Differential Equations (metodo)|Differential Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -337,6 +345,10 @@ $$
 \frac{1}{1 - x} \approx 1 + x, \quad |x| \ll 1.
 $$
 
+**Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]], [[Kinetic Theory]]
+**Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -356,6 +368,8 @@ $$
 dove $n=1,2,3...$ e $\varepsilon$ è una costante nota. Si assume che l’energia cinetica di un atomo sia calcolata utilizzando la formula della fisica classica.
 
 Il contenitore viene messo in contatto con un termostato in modo che la temperatura del gas all’interno sia $T$. A causa del contatto con il termostato, il valore dell’energia cinetica di un singolo atomo cambia. Si assume che la densità numerica degli atomi sia così bassa da rendere le collisioni tra di essi rare e trascurabili.
+
+![[IZhO-2011-Theory_eng_f_p5_f2.png]]
 
 In equilibrio termodinamico, il numero di atomi che occupano il livello energetico $E_n$ è determinato dalla funzione di distribuzione di Boltzmann:
 

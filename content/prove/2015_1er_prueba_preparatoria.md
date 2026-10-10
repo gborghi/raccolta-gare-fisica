@@ -798,7 +798,7 @@ $$M= 18.7 \pm 0.6\ \text{g}$$
 <!--fig:end-->
 
 <!--fig:start-->
-**p.9 **  regola il bordo della tavola con tappeto (Figura 2)
+**p.9**  regola il bordo della tavola con tappeto (Figura 2)
 <!--fig:end-->
 
 <div class="qlang-split" data-lang="en"></div>

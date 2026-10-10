@@ -349,9 +349,9 @@ Which one is the most correct combination of the above statements?
 
 <div class="qlang-split" data-lang="it"></div>
 
-Nel caso dei mammiferi il volume di aria inalato e sfrattato con ogni respiro durante la respirazione normale è denominato ** volume di marea**. L'aria inalata non viene completamente esolata perché l'ingresso e la uscita dell'aria sono uguali. L'aria che rimane nei polmoni dopo un'espirazione forzata è chiamata volume residuo ****. Poiché ogni inalazione mescola aria fresca con aria residua di ossigeno esaurita, la pressione parziale dell'ossigeno (P_O2) è diversa da quella dell'atmosfera. Le seguenti dichiarazioni sono state fatte in riferimento alle informazioni di cui sopra.
+Nel caso dei mammiferi il volume di aria inalato e sfrattato con ogni respiro durante la respirazione normale è denominato **volume di marea**. L'aria inalata non viene completamente esolata perché l'ingresso e la uscita dell'aria sono uguali. L'aria che rimane nei polmoni dopo un'espirazione forzata è chiamata volume residuo ****. Poiché ogni inalazione mescola aria fresca con aria residua di ossigeno esaurita, la pressione parziale dell'ossigeno (P_O2) è diversa da quella dell'atmosfera. Le seguenti dichiarazioni sono state fatte in riferimento alle informazioni di cui sopra.
 
-A. Il P_O2 negli alveoli è **più alto ** di quello dell'atmosfera.
+A. Il P_O2 negli alveoli è **più alto** di quello dell'atmosfera.
 B. Il P_O2 negli alveoli è **** inferiore a quello dell'atmosfera.
 C. Un animale, ad esempio. uccello, in cui vi è un flusso unidirezionale di aria nei polmoni (cioè L'aria inalata e quella esolata non hanno usato lo stesso tubo) il P_O2 massimo nei polmoni sarà superiore a quello dei mammiferi.
 D. Un animale, ad esempio. uccello in cui l'aria entra nei polmoni unidirezionale (cioè L'aria inalata e l'aria esolata non hanno usato lo stesso tubo) il P_O2 massimo nei polmoni sarà inferiore a quello dei mammiferi.
@@ -1520,9 +1520,9 @@ Scrivere un'equazione equilibrata per la reazione termita?
 
 **A.** Pralay spinge due solide scatole cubiche P e Q (che restano in contatto) lungo una tavola orizzontale ruvida applicando una forza orizzontale *F* su P. La scatola P ha una massa di 4,0 kg e la scatola Q ha una massa di 8,0 kg con la stessa densità. I coefficienti di attrito cinetico tra il blocco P e la tabella sono 0,4 e quelli tra il blocco Q e la tabella sono 0,6.
 
-**I) ** Calcolare *F*, se entrambe le caselle si muovono a velocità costante.
-**II) ** Determina la magnitudine e la direzione della forza di reazione risultante esercitata dalla tabella sul blocco Q.
-**III) ** Disegnare un diagramma etichettato in giusta proporzione che indichi tutte le forze che agiscono su entrambi i blocchi. [3.0]
+**I)** Calcolare *F*, se entrambe le caselle si muovono a velocità costante.
+**II)** Determina la magnitudine e la direzione della forza di reazione risultante esercitata dalla tabella sul blocco Q.
+**III)** Disegnare un diagramma etichettato in giusta proporzione che indichi tutte le forze che agiscono su entrambi i blocchi. [3.0]
 
 <!--fig:start-->
 **Quesito 32**
@@ -1567,9 +1567,9 @@ Scrivere un'equazione equilibrata per la reazione termita?
 
 **B.** Un studente di massa 75 kg guida una bicicletta di massa 25 kg. Lo studente ha l'abitudine di stare in piedi sulla paga, una gamba alla volta, in modo che la forza del suo peso guidi la bicicletta. La distanza tra la parte superiore e la parte inferiore del pedale è di 20 cm. Il rapporto tra la ruota di padella (più grande) e il cambio (o la ruota posteriore) è di 10. Il raggio di radius della ruota posteriore del ciclo è di 50 cm. lo studente richiede 6 secondi per un pedale completo (entrambe le gambe) e spende solo quella quantità di energia in modo che il ciclo corra continuamente a velocità costante.
 
-**I) ** Calcolare la potenza media che lo studente fornisce al ciclo.
-**II) ** Calcolare la velocità cinetica (lineare) del ciclo durante questo movimento uniforme.
-**III) ** Quale frazione di questa energia cinetica (del ciclo) è la perdita di energia in vari meccanismi di dissipazione durante un pedale completo? [3.0]
+**I)** Calcolare la potenza media che lo studente fornisce al ciclo.
+**II)** Calcolare la velocità cinetica (lineare) del ciclo durante questo movimento uniforme.
+**III)** Quale frazione di questa energia cinetica (del ciclo) è la perdita di energia in vari meccanismi di dissipazione durante un pedale completo? [3.0]
 
 [Total = 6 marchi]
 
@@ -1666,16 +1666,16 @@ Nel 1883, Theodor W. Engelmann eseguì un esperimento per determinare quali lung
 ![[injso2016-Q_p14_f1.png]]
 <!--fig:end-->
 
-**I) ** Dalla figura di cui sopra quale delle seguenti lunghezze d'onda (nm) di luce guida il tasso di fotosintesi più alto:
+**I)** Dalla figura di cui sopra quale delle seguenti lunghezze d'onda (nm) di luce guida il tasso di fotosintesi più alto:
 I) 400 (ii) ~425 (iii) 500 (iv) ~550 (v) 600 (vi) ~680 (vii) 700
 
-**II) ** Quali colori dello spettro sono assorbiti nelle lunghezze d'onda scelte nella risposta sopra?
+**II)** Quali colori dello spettro sono assorbiti nelle lunghezze d'onda scelte nella risposta sopra?
 
 Quale pigmento nelle foglie assorbe i colori della risposta a (B) sopra?
 
-Le foglie delle piante sono di colore verde perché i pigmenti nelle foglie sono di luce viola blu e rossa e di luce verde. ** [Scegli tra assorbimento e trasmissione per riempire il vuoto. Indicare solo l'opzione corretta nell'ordine corretto nella scheda di risposta.]**
+Le foglie delle piante sono di colore verde perché i pigmenti nelle foglie sono di luce viola blu e rossa e di luce verde. **[Scegli tra assorbimento e trasmissione per riempire il vuoto. Indicare solo l'opzione corretta nell'ordine corretto nella scheda di risposta.]**
 
-**V) ** La fotosintesi può verificarsi alla luce rossa? Si/No
+**V)** La fotosintesi può verificarsi alla luce rossa? Si/No
 
 Perché i batteri che rilevano l'ossigeno sono stati utilizzati in questo esperimento? Rispondi con l'aiuto di un'equazione chimica che rappresenta la fotosintesi.
 
@@ -1717,10 +1717,10 @@ Acid base reactions are extremely common in nature and therefore it is of utmost
 
 Le reazioni a base acida sono estremamente comuni in natura e quindi sono di grande interesse per un chimico. Un chimico prende un campione di detergente pulito e vuole scoprire la quantità esatta di idrossido di sodio presente in esso. Utilizza 23 ml di acido fosforo di 0,9 M per neutralizzare completamente la base.
 
-**I) ** Scrivi l'equazione chimica equilibrata per la reazione.
-**II) ** Quanti grammi di idrossido di sodio ha trovato il chimico nel campione?
-**III) ** Un chimico deve trovare la molarità del 10% di HCl w/w. Qual è la molarità della soluzione se la densità della soluzione è di 1,047 g/cm3 e il peso molecolare dell'HCl è di 36,5 g/mole
-** IV) ** Ci sono molte reazioni a base acida che si verificano nell' organismo. Se il contenuto di acido nello stomaco aumenta, vengono usati antiacidi per neutralizzarlo. Un particolare campione di compressa antiacida contiene bicarbonato di sodio. Quando viene ingerito, reagisce con il succo gastrico (acido cloridrato) nello stomaco per rilasciare il gas di anidride carbonica. Quando una compressa di 1,2 g ha reagito con 40,00 mL di acido cloridrico (densità: 1,140 g/mL), è stato sviluppato un gas di anidride carbonica e la soluzione risultante pesava 46,7 g. Calcolare il volume di gas di anidride carbonica rilasciato a STP se la sua densità è di 1,98 g/L.
+**I)** Scrivi l'equazione chimica equilibrata per la reazione.
+**II)** Quanti grammi di idrossido di sodio ha trovato il chimico nel campione?
+**III)** Un chimico deve trovare la molarità del 10% di HCl w/w. Qual è la molarità della soluzione se la densità della soluzione è di 1,047 g/cm3 e il peso molecolare dell'HCl è di 36,5 g/mole
+**IV)** Ci sono molte reazioni a base acida che si verificano nell' organismo. Se il contenuto di acido nello stomaco aumenta, vengono usati antiacidi per neutralizzarlo. Un particolare campione di compressa antiacida contiene bicarbonato di sodio. Quando viene ingerito, reagisce con il succo gastrico (acido cloridrato) nello stomaco per rilasciare il gas di anidride carbonica. Quando una compressa di 1,2 g ha reagito con 40,00 mL di acido cloridrico (densità: 1,140 g/mL), è stato sviluppato un gas di anidride carbonica e la soluzione risultante pesava 46,7 g. Calcolare il volume di gas di anidride carbonica rilasciato a STP se la sua densità è di 1,98 g/L.
 
 [Total=5 punti]
 
@@ -1765,13 +1765,13 @@ Uno degli oggetti astronomici popolari è un buco nero, con una densità enorme 
 
 Il raggio di Schwarzschild dipende dalla massa (*m*) del buco nero, dalla costante gravitazionale universale (*G*) e dalla velocità della luce (*c*) nel vuoto.
 
-**I) ** Determina *x*, *y* & *z* se il raggio di Schwarzschild dell'orizzonte degli eventi è dato da $r = G^x\, c^y\, m^z$.
-**II) ** Calcolare il raggio di Schwarzschild della terra (massa della terra = $6 \times 10^{24}$ kg) se viene convertita in buco nero. Quanto cambierà la forza gravitazionale tra la terra e la luna? [2.0]
+**I)** Determina *x*, *y* & *z* se il raggio di Schwarzschild dell'orizzonte degli eventi è dato da $r = G^x\, c^y\, m^z$.
+**II)** Calcolare il raggio di Schwarzschild della terra (massa della terra = $6 \times 10^{24}$ kg) se viene convertita in buco nero. Quanto cambierà la forza gravitazionale tra la terra e la luna? [2.0]
 
 **B.** Milind e Prashant si siedono a *x* = 0 quando vede Milind a *x* = 6 m. Prashant inizia ora a correre verso Milind con 5 m/s, mentre Milind inizia a correre * verso * Prashant con $a = 2$m/s2.
 
 Quando e dove si attraverseranno? Tracciate anche i loro plot temporali di spostamento.
-**II) ** Prove che Prashant attraverserà (incontra) Milind due volte se Milind si allontana da Prashant (da sua posizione originale, a t = 0) con $a = 2$ m/s2. E anche tracciare insieme i loro piani di spostamento. [4.0]
+**II)** Prove che Prashant attraverserà (incontra) Milind due volte se Milind si allontana da Prashant (da sua posizione originale, a t = 0) con $a = 2$ m/s2. E anche tracciare insieme i loro piani di spostamento. [4.0]
 
 [Total = 6 marchi]
 
@@ -1818,11 +1818,11 @@ L'aumento dei livelli di CO2 è motivo di preoccupazione, in quanto è stato col
 
 La CO2 viene "fissa" dalle piante per produrre zuccheri: in presenza di luce solare, la CO2 reagisce con l'acqua per formare zucchero (C6H12O6) con rilascio di O2.
 
-**I) ** Scrivi la reazione chimica equilibrata per il processo di cui sopra.
+**I)** Scrivi la reazione chimica equilibrata per il processo di cui sopra.
 
 L'idea della fitosequestrazione è quella di coltivare piante sufficienti affinché il biossido di carbonio rilasciato dalla combustione dei combustibili fossili sia sequestrato in modo sicuro nella biomassa vegetale. Qual è il peso della biomassa (zucchero) prodotto quando il carbonio proveniente da 1 tonnellata di carbone bituminito (70% di carbonio) viene sequestrato?
 
-**III) ** Il calore di combustione del carbone è di 21 MJ/kg. L'efficienza di conversione del calore in elettricità di un caldaio a carbone standard è del 30%. Una centrale termoelettrica di 500 MW è in funzione per 8000 ore all'anno. Quanto carbone deve essere bruciato in un anno per far funzionare l'impianto?
+**III)** Il calore di combustione del carbone è di 21 MJ/kg. L'efficienza di conversione del calore in elettricità di un caldaio a carbone standard è del 30%. Una centrale termoelettrica di 500 MW è in funzione per 8000 ore all'anno. Quanto carbone deve essere bruciato in un anno per far funzionare l'impianto?
 
 La stima realistica del tasso di crescita della biomassa lo rende 50 tonnellate di biomassa per ettaro e anno. Quanto terreno, in ettari, è necessario per sequestrare il biossido di carbonio emesso da una di tali centrali elettriche da 500 MW?
 
@@ -1959,14 +1959,14 @@ Con il processo di rottura meccanica come l'omogenizzazione in un omogenizzatore
 ![[injso2016-Q_p18_f1.png]]
 <!--fig:end-->
 
-**I) ** Predicire quali organole (s) dei seguenti: nuclei, mitocondrie e ribosomi, saranno presenti nella frazione di pellet P1, P2 e P4. P3 contiene le frazioni della membrana. (Fornisci le risposte corrette nel tuo script di risposta)
+**I)** Predicire quali organole (s) dei seguenti: nuclei, mitocondrie e ribosomi, saranno presenti nella frazione di pellet P1, P2 e P4. P3 contiene le frazioni della membrana. (Fornisci le risposte corrette nel tuo script di risposta)
 
 P1 ___________
 P2 ___________
 P3 Frazione di membrana
 P4 ___________
 
-**II) ** Diversi organelli possono essere colorati selettivamente tenendo conto della loro composizione e funzione. Di seguito è riportato un grafico dei diversi tipi di macchie utilizzate per macchiare le diverse organelle. Prevedere quale macchia può essere utilizzata per macchiare le frazioni P1, P2 e P3, indipendentemente. **(Scelgi solo la macchia migliore per ciascuna dalla lista di seguito, fornendo le risposte corrette nella scheda di risposta.)**
+**II)** Diversi organelli possono essere colorati selettivamente tenendo conto della loro composizione e funzione. Di seguito è riportato un grafico dei diversi tipi di macchie utilizzate per macchiare le diverse organelle. Prevedere quale macchia può essere utilizzata per macchiare le frazioni P1, P2 e P3, indipendentemente. **(Scelgi solo la macchia migliore per ciascuna dalla lista di seguito, fornendo le risposte corrette nella scheda di risposta.)**
 
 ♬ Stagna ♬ Specificità ♬
 | --- | --- |
@@ -1981,7 +1981,7 @@ P3 ___________
 
 Il tè sottile, attualmente usato per la formazione del corpo, contiene 2,4-dinitrophenolo (DNP) che agisce come ionofore protonico, un agente che può trasportare i protoni (cationi di idrogeno) attraverso le membrane biologiche. Essa dissipa il gradiente dei protoni attraverso le membrane, collassando la forza motrice dei protoni che la cellula utilizza per produrre la maggior parte del suo ATP (energia chimica). Ora nella cellula l'energia del gradiente dei protoni viene persa come calore invece di produrre ATP. Con queste informazioni, prevedi le membrane di cui le sottocellule di una pianta e di una cellula animale saranno maggiormente influenzate dal consumo di tè sottile.
 
-** IV) ** Una persona ha consumatto inconsapevolmente una sostanza velenosa. Quale organole sottocellulare del paziente avrebbe la concentrazione massima della tossina?
+**IV)** Una persona ha consumatto inconsapevolmente una sostanza velenosa. Quale organole sottocellulare del paziente avrebbe la concentrazione massima della tossina?
 
 [Total = 5 marchi]
 
@@ -2062,13 +2062,13 @@ Ogni esperimento dovrebbe avere dei controlli. Un controllo può essere positivo
 
 (Per le domande I-V, inserire solo il numero corretto della scelta nella scheda di risposta.)
 
-**I) ** Quale tubo avrà la frequenza di germinazione più alta
+**I)** Quale tubo avrà la frequenza di germinazione più alta
 (i) P (ii) Q (iii) R (iv) S
 
 Quale tubo serve come controllo positivo?
 (i) P (ii) Q (iii) R (iv) S
 
-**III) ** Quale tubo funziona come controllo negativo dell' ossigeno?
+**III)** Quale tubo funziona come controllo negativo dell' ossigeno?
 (i) P (ii) Q (iii) R (iv) S
 
 In questo esperimento, quale dei seguenti fattori (s) influisce sulla germinazione?
@@ -2077,7 +2077,7 @@ In questo esperimento, quale dei seguenti fattori (s) influisce sulla germinazio
 - O2, H2O e temperatura
 (iv) Solo H2O
 
-**V) ** Che cosa è più probabile che accada alla frequenza di germinazione nel tubo R se il blocco di legno viene sostituito con lana di cotone sciolta?
+**V)** Che cosa è più probabile che accada alla frequenza di germinazione nel tubo R se il blocco di legno viene sostituito con lana di cotone sciolta?
 (i) Nessuna variazione della frequenza di germinazione
 - Aumento della frequenza di germinazione
 - diminuzione della frequenza di germinazione
@@ -2161,31 +2161,31 @@ Il nefrone è un'unità di base del rene che è costituito dalla capsula di Bowm
 
 (Per le domande I-V, inserire solo il numero di opzione corretto nella scheda di risposta.)
 
-**I) ** La concentrazione di filtro aumenta mentre passa attraverso il tubo discendente a causa della riassorbimento di _________ nel fluido interstiziale:
+**I)** La concentrazione di filtro aumenta mentre passa attraverso il tubo discendente a causa della riassorbimento di _________ nel fluido interstiziale:
 (i) NaCl
 (ii) Acqua
 - acidi amini
 (iv) Glucosio
 
-**II) ** Nel tubule ascendente il filtratto mostra una diminuzione della concentrazione quando raggiunge il tubule distal convolto. Questo è dovuto a:
+**II)** Nel tubule ascendente il filtratto mostra una diminuzione della concentrazione quando raggiunge il tubule distal convolto. Questo è dovuto a:
 - il trasporto attivo di acqua dal fluido interstiziale al tubo ascendente.
 - il trasporto attivo dei sali dal tubo ascendente al fluido interstiziale.
 - il trasporto passivo dei sali dal fluido interstiziale al tubo ascendente.
 - il trasporto passivo di acqua dal fluido interstiziale al tubule ascendente.
 
-**III) ** In un animale "X", il loop di Henle è più breve della lunghezza normale. Il risultato sarebbe:
+**III)** In un animale "X", il loop di Henle è più breve della lunghezza normale. Il risultato sarebbe:
 - Escluderà una quantità minore di urina concentrata.
 - Escluderà la stessa quantità di urina senza alcuna differenza.
 - Escluderà una grande quantità di urina diluita.
 (iv) Escluderà una minor quantità di urina diluita.
 
-**IV) ** Qual è il probabile habitat di tale animale "X"?
+**IV)** Qual è il probabile habitat di tale animale "X"?
 (i) Acqua
 (ii) Deserto caldo e arido
 (iii) Polari
 (iv) Paesi di pascoli
 
-**V) ** Un rene artificiale è un dispositivo per rimuovere i prodotti di scarto azoto dal sangue durante la dialisi. Il dispositivo contiene tubi sospesi in un serbatoio pieno di liquido di dialisi. Il sangue del paziente passa attraverso questi tubi. Durante questo passaggio, i rifiuti del sangue passano nel liquido di dialisi.
+**V)** Un rene artificiale è un dispositivo per rimuovere i prodotti di scarto azoto dal sangue durante la dialisi. Il dispositivo contiene tubi sospesi in un serbatoio pieno di liquido di dialisi. Il sangue del paziente passa attraverso questi tubi. Durante questo passaggio, i rifiuti del sangue passano nel liquido di dialisi.
 Scegliere le opzioni corrette indicate di seguito per riempire i vuoti nella seguente dichiarazione:
 
 "I tubi del rene artificiale sono ___________, mentre il liquido di dialisi è __________ al sangue. I rifiuti del sangue passano nel liquido di dialisi attraverso il trasporto di ______________".

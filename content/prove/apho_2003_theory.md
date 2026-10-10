@@ -79,23 +79,23 @@ In un futuro prossimo potremmo partecipare noi stessi al lancio di un satellite 
 
 ![[APhO_2003_theory/APhO_2003_theory_Q1_p1_f1.png]]
 
-**a) ** Un satellite di massa $m$ sta attualmente girando intorno alla Terra di massa $M$ in un'orbita circolare di raggio $R_0$. Qual è la velocità ($u_0$) della massa $m$ in termini di $M$, $R_0$ e della costante gravitazionale universale $G$?
+**a)** Un satellite di massa $m$ sta attualmente girando intorno alla Terra di massa $M$ in un'orbita circolare di raggio $R_0$. Qual è la velocità ($u_0$) della massa $m$ in termini di $M$, $R_0$ e della costante gravitazionale universale $G$?
 
 *(1 punto) *
 
-**b) ** Dobbiamo mettere questo satellite in una traiettoria che lo porterà al punto P a distanza $R_1$ dal centro della Terra aumentando (quasi istantaneamente) la sua velocità al punto Q da $u_0$ a $u_1$. Qual è il valore di $u_1$ in termini di $u_0$, $R_0$, $R_1$?
+**b)** Dobbiamo mettere questo satellite in una traiettoria che lo porterà al punto P a distanza $R_1$ dal centro della Terra aumentando (quasi istantaneamente) la sua velocità al punto Q da $u_0$ a $u_1$. Qual è il valore di $u_1$ in termini di $u_0$, $R_0$, $R_1$?
 
 *(2 punti) *
 
-**c) ** Riduzione del valore minimo di $u_1$ in termini di $u_0$ che consentirà al satellite di lasciare completamente l'influenza terrestre.
+**c)** Riduzione del valore minimo di $u_1$ in termini di $u_0$ che consentirà al satellite di lasciare completamente l'influenza terrestre.
 
 *(1 punto) *
 
-**d) ** (Rifigurazione della parte b.) Qual è la velocità ($u_2$) del satellite al punto P in termini di $u_0$, $R_0$, $R_1$?
+**d)** (Rifigurazione della parte b.) Qual è la velocità ($u_2$) del satellite al punto P in termini di $u_0$, $R_0$, $R_1$?
 
 *(1 punto) *
 
-**e) ** Ora, vogliamo cambiare l'orbita del satellite al punto P in un'orbita circolare di raggio $R_1$ aumentando il valore di $u_2$ (quasi istantaneamente) a $u_3$. Qual è la magnitudine di $u_3$ in termini di $u_2$, $R_0$, $R_1$?
+**e)** Ora, vogliamo cambiare l'orbita del satellite al punto P in un'orbita circolare di raggio $R_1$ aumentando il valore di $u_2$ (quasi istantaneamente) a $u_3$. Qual è la magnitudine di $u_3$ in termini di $u_2$, $R_0$, $R_1$?
 
 *(1 punto) *
 
@@ -115,7 +115,7 @@ $$mr^2\frac{d}{dt}\theta = \text{constant} \qquad \cdots\cdots (2)$$
 
 *(3 punti) *
 
-**g) ** Fornire uno sketch approssimativo dell'intera orbita perturbata insieme a quella non perturbata.
+**g)** Fornire uno sketch approssimativo dell'intera orbita perturbata insieme a quella non perturbata.
 
 *(1 punto) *
 
@@ -192,19 +192,19 @@ Come mostrato in un diagramma schematico in Figura. 1, un'onda luminosa entra in
 
 ![[APhO_2003_theory/APhO_2003_theory_Q2_p1_f1.png]]
 
-**a) ** In pratica, la velocità orbitale dell'anello è molto inferiore alla velocità della luce, in modo che $(R\Omega)^2 \ll c^2$, trovi la differenza di tempo $\Delta t = t' - t''$ dove $t'$ e $t''$ indicano rispettivamente il tempo di transito di andata e ritorno del fascio CW e del fascio CCW. Rispondi in termini di superficie $A$ connessa all'anello.
+**a)** In pratica, la velocità orbitale dell'anello è molto inferiore alla velocità della luce, in modo che $(R\Omega)^2 \ll c^2$, trovi la differenza di tempo $\Delta t = t' - t''$ dove $t'$ e $t''$ indicano rispettivamente il tempo di transito di andata e ritorno del fascio CW e del fascio CCW. Rispondi in termini di superficie $A$ connessa all'anello.
 
 *(2 punti) *
 
-**b) ** Trova la differenza di percorso ottico, $\Delta L$, per i fasci CW e CCW per completare un viaggio di ritorno della luce all'interno dell'anello rotante.
+**b)** Trova la differenza di percorso ottico, $\Delta L$, per i fasci CW e CCW per completare un viaggio di ritorno della luce all'interno dell'anello rotante.
 
 *(2 punti) *
 
-**c) ** Per una fibra ottica circolare di raggio $R = 1$ m, qual è il valore massimo di $\Delta L$ per la rotazione della terra? Con $\mu = 1.5$.
+**c)** Per una fibra ottica circolare di raggio $R = 1$ m, qual è il valore massimo di $\Delta L$ per la rotazione della terra? Con $\mu = 1.5$.
 
 *(1 punto) *
 
-**d) ** Nella parte b), la misurazione potrebbe essere amplificata aumentando il numero di giri in bobina a fibra ottica, $N$, trovare la differenza di fase, $\Delta\Phi$, per le luci per completare le giri.
+**d)** Nella parte b), la misurazione potrebbe essere amplificata aumentando il numero di giri in bobina a fibra ottica, $N$, trovare la differenza di fase, $\Delta\Phi$, per le luci per completare le giri.
 
 *(1 punto) *
 
@@ -216,11 +216,11 @@ Il secondo schema del giroscopio ottico è il giroscopio laser anello (RLG). Que
 
 *Fig. 3: Illustrazione del Giroscopio Laser Ring discusso in questo problema*
 
-**e) ** Trova la differenza di tempo del transito in senso orario e in senso contrario, $\Delta t$, per il caso dell'anello triangolare come mostrato nella figura 2. Rispondi in termini di $\Omega$ e di area $A$ connessa all'anello. Mostrare che questo risultato è lo stesso di quello dell'anello circolare.
+**e)** Trova la differenza di tempo del transito in senso orario e in senso contrario, $\Delta t$, per il caso dell'anello triangolare come mostrato nella figura 2. Rispondi in termini di $\Omega$ e di area $A$ connessa all'anello. Mostrare che questo risultato è lo stesso di quello dell'anello circolare.
 
 *(2 punti) *
 
-**f) ** Se l'anello ruota con una frequenza angolare $\Omega$ come mostrato nella figura. 2, ci sarà una differenza di frequenza tra le misurazioni CW e CCW. Qual è la frequenza di battito osservata, $\Delta\nu$, tra i fasci CW e CCW in termini di $L$, $\Omega$, $\lambda$.
+**f)** Se l'anello ruota con una frequenza angolare $\Omega$ come mostrato nella figura. 2, ci sarà una differenza di frequenza tra le misurazioni CW e CCW. Qual è la frequenza di battito osservata, $\Delta\nu$, tra i fasci CW e CCW in termini di $L$, $\Omega$, $\lambda$.
 
 *(2 punti) *
 
@@ -287,11 +287,11 @@ La fisica dei fasci di particelle intense ha un grande impatto non solo sulla ri
 
 In quanto segue, illustreremo perché i fasci di particelle relativistici intensi potrebbero produrre fasci autofocali e non esplodere da soli nello spazio libero.
 
-**a) ** Si consideri un lungo fascio di elettroni cilindrici di densità di numero uniforme $n$ e velocità media $v$ (ambedue quantità in telaio di laboratorio). Derivare l'espressione per il campo elettrico in un punto a distanza $r$ dall'asse centrale del fascio utilizzando l'elettromagnetismo classico.
+**a)** Si consideri un lungo fascio di elettroni cilindrici di densità di numero uniforme $n$ e velocità media $v$ (ambedue quantità in telaio di laboratorio). Derivare l'espressione per il campo elettrico in un punto a distanza $r$ dall'asse centrale del fascio utilizzando l'elettromagnetismo classico.
 
 *(1 punto) *
 
-**b) ** Derivare l'espressione per il campo magnetico nello stesso punto di a).
+**b)** Derivare l'espressione per il campo magnetico nello stesso punto di a).
 
 *(2 punti) *
 
@@ -299,7 +299,7 @@ Qual è quindi la forza esterna netta sull'elettrone nel fascio di elettroni che
 
 *(1 punto) *
 
-**d) ** Supponendo che l'espressione ottenuta in c) sia applicabile a velocità relativistiche, quale sarà la forza sull'elettrone quando $v$ si avvicina alla velocità della luce $c$, dove
+**d)** Supponendo che l'espressione ottenuta in c) sia applicabile a velocità relativistiche, quale sarà la forza sull'elettrone quando $v$ si avvicina alla velocità della luce $c$, dove
 
 $$c = \frac{1}{\sqrt{\varepsilon_0\mu_0}}?$$
 

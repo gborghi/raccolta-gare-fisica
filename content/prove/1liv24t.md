@@ -938,7 +938,7 @@ The $X$ point of the circuit is connected to one of the $A,B,C,D,E$ points, but 
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7 **  Wheatstone circuit with G galvanometer and resistors
+**p.7**  Wheatstone circuit with G galvanometer and resistors
 ![[_attachments/1liv24T/1liv24T_p7_f14.png]]
 <!--fig:end-->
 

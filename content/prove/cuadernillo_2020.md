@@ -1368,7 +1368,7 @@ Problema Teórico 3 - NIVEL 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'intervallo di spazio-tempo e la curvatura dello spazio-tempo (livello 1) **
+**L'intervallo di spazio-tempo e la curvatura dello spazio-tempo (livello 1)**
 
 Problema 3: buchi neri e curvatura dello spazio-tempo 
  
@@ -1607,7 +1607,7 @@ Problema teorico 3 - NIVEL 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Black holes and curvature of space-time (Level 1) **
+**Black holes and curvature of space-time (Level 1)**
 
 Problem 3: Black Holes and the curvature of space-time 
  

@@ -81,7 +81,7 @@ You must present your result on graph papers and try to deduce the mathematical 
 
 ### Determinazione delle forme per riflessione
 
-**Introduzione **
+**Introduzione**
 
 L'osservazione visiva diretta è un metodo in cui gli esseri umani usano gli occhi per identificare un oggetto. Tuttavia, non tutte le cose della vita possono essere osservate direttamente. Per esempio, come si può capire la posizione di un osso rotto? E' possibile guardare un bambino dentro una donna incinta? Che ne dici di identificare le cellule tumorali all'interno del cervello? Tutti questi richiedono una tecnica speciale che coinvolga l'osservazione indiretta.
 
@@ -124,7 +124,7 @@ Dovete presentare il risultato su carta grafica e cercare di dedurre le equazion
 *Apparecchio: scatola cilindrica chiusa con la scala angolare sul lato superiore (2a) e intorno alla circonferenza (2b); l'oggetto sconosciuto (2) è all'interno, girato dal pulsante (3); il puntatore laser (4) lo illumina.*
 <!--fig:end-->
 
-**Rimarca: **
+**Rimarca:**
 
 1. Uno degli oggetti ha solo lati piani e il secondo oggetto ha un lato curvo.
 2. A volte si possono ottenere due riflessi del raggio dall'oggetto.
@@ -257,7 +257,7 @@ Now vary the conductor-magnet distance ($d$) on both left and right. Choose a fi
 
 ### Freno magneto su un aereo inclinato
 
-**Introduzione **
+**Introduzione**
 
 Quando un magnete si muove vicino a un conduttore non magnetico come il rame e l'alluminio, si verifica una forza dissipativa chiamata forza di frenata magnetica. In questo esperimento, esamineremo la natura di questa forza.
 
@@ -304,7 +304,7 @@ In questo esperimento è richiesta l'analisi degli errori.
 *Magnete a forma di nocciolo: i poli (N e S) sono su facce piatte, con spessore $t_M$ misurato lungo l'asse.*
 <!--fig:end-->
 
-**Informazioni aggiuntive: **
+**Informazioni aggiuntive:**
 
 - Accelerazione gravitazionale locale: $g = 9.8 \ \text{m/s}^2$
 - Massa del magnete: $m = (21.5 \pm 0.5)$ g
@@ -332,7 +332,7 @@ Questo problema è diviso in due sezioni:
 
 Rolle il magnete lungo la pista come mostrato. *Scelta un angolo di inclinazione ragionevolmente piccolo in modo da non ruotare troppo velocemente.*
 
-** [1] ** Poiché il magnete è molto forte, può sperimentare una coppia significativa a causa dell'interazione con il campo magnetico terrestre. Tornerà il magnete mentre ruota verso il basso e può causare un significativo attrito con la pista. *Cosa farai per ridurre al minimo questa coppia?* Spiegalo usando diagrammi(). **[1.0 pt]**
+**[1]** Poiché il magnete è molto forte, può sperimentare una coppia significativa a causa dell'interazione con il campo magnetico terrestre. Tornerà il magnete mentre ruota verso il basso e può causare un significativo attrito con la pista. *Cosa farai per ridurre al minimo questa coppia?* Spiegalo usando diagrammi(). **[1.0 pt]**
 
 <!--fig:start-->
 ![[APhO_2005_exp_p7_f1.png]]

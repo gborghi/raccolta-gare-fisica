@@ -264,7 +264,7 @@ The right alternative is:
 - **A** I and III only
 - **B.** I and II only
 - **C** I only
-- ** D** II only
+- **D** II only
 - **E** III only
 
 **Topic:** [[Fluid Mechanics]]
@@ -806,7 +806,7 @@ It is not correct:
 - **A** I and II only
 - **B** II and III only
 - **C** III and IV only
-- ** D** I and III only
+- **D** I and III only
 - **E.** I, II, III and IV
 
 **Topic:** [[Newtonian Mechanics]]
@@ -1354,7 +1354,7 @@ Una sfera metallica viene rilasciata e cade al pavimento. I rapporti tra la posi
 
 <div class="qlang-split" data-lang="en"></div>
 
-A metal ball is loose and falls to the ground. The relationships between the position $x$ of the sphere relative to the place from which it was abandoned, its speed $v$, its acceleration $a$, its kinetic energy $E_c$ and the time since the start of the fall $t$ are graphically related to straight or second-degree parabolas. The graph which describes ** incorrectly** the dependence between such quantities corresponds to the alternative:
+A metal ball is loose and falls to the ground. The relationships between the position $x$ of the sphere relative to the place from which it was abandoned, its speed $v$, its acceleration $a$, its kinetic energy $E_c$ and the time since the start of the fall $t$ are graphically related to straight or second-degree parabolas. The graph which describes **incorrectly** the dependence between such quantities corresponds to the alternative:
 
 - **A** $v$ vs $t$ (network)
 - **B** $a$ vs $t$ (horizontal network)
@@ -1495,7 +1495,7 @@ Only the statements are correct:
 - **A** I only
 - **B** II only
 - **C.** I and II only
-- ** D** I and III only
+- **D** I and III only
 - **E** II, III and IV only
 
 **Topic:** [[Fluid Mechanics]]

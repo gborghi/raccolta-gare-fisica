@@ -73,7 +73,7 @@ demonstrate that it is a harmonic motion and calculate the width, period and max
 reached by the cuneo.
 
 <!--fig:start-->
-**p.4 **  Two-spring piston coupling
+**p.4**  Two-spring piston coupling
 ![[_attachments/Naz18T/Naz18T_p4_f1.png]]
 <!--fig:end-->
 
@@ -329,7 +329,7 @@ the correct initial conditions.
 The Joule effect during the engine in this case.
 
 <!--fig:start-->
-**p.7 **  Triangular spiral and magnetic field
+**p.7**  Triangular spiral and magnetic field
 ![[_attachments/Naz18T/Naz18T_p7_f4.png]]
 <!--fig:end-->
 

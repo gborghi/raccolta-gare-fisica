@@ -31,7 +31,7 @@ Poni la rondella sullo scivolo inclinato e descrivine qualitativamente il movime
 
 <div class="qlang-split" data-lang="en"></div>
 
-Place the pendulum on the sloping slide and describe the movement qualitatively. Perform an appropriate number of measurements to determine the ** dynamic friction coefficient ** $\mu_r$ between the flat surface of the swirl and the surface of the slide. Describe and justify the experimental procedure followed and the reports used to determine $\mu_r$.
+Place the pendulum on the sloping slide and describe the movement qualitatively. Perform an appropriate number of measurements to determine the **dynamic friction coefficient** $\mu_r$ between the flat surface of the swirl and the surface of the slide. Describe and justify the experimental procedure followed and the reports used to determine $\mu_r$.
 
 The amount of the loan shall be calculated on the basis of the following:
 
@@ -85,14 +85,14 @@ Descrivi e giustifica il procedimento sperimentale seguito e le relazioni utiliz
 Put the magnet with your face flat on the sloping slide.
 
 - Observe and describe the magnet's motion.
-- Measures the distance travelled by the magnet on the slide during descent and the time intervals required to travel it, for ** at least six different inclinations ** in the widest range of inclinations of the driving achievable. Returns the results in a table.
-- Determine the ** Dynamic RAD coefficient ** $\mu_m$ between the flat surface of the magnet and that of the slide, and the **constant ** $k$ of the $\vec{F}_f = -k\,\vec{v}$ ratio.
+- Measures the distance travelled by the magnet on the slide during descent and the time intervals required to travel it, for **at least six different inclinations** in the widest range of inclinations of the driving achievable. Returns the results in a table.
+- Determine the **Dynamic RAD coefficient** $\mu_m$ between the flat surface of the magnet and that of the slide, and the **constant** $k$ of the $\vec{F}_f = -k\,\vec{v}$ ratio.
 
 The forces applied to the magnet along the direction of the slide give the result:
 
 $$m_m g \sin\theta - \mu_m\, m_m g \cos\theta - k v = m_m a.$$
 
-The magnet rapidly reaches ** mode speed** $v_{\rm reg}$ (zero acceleration):
+The magnet rapidly reaches **mode speed** $v_{\rm reg}$ (zero acceleration):
 
 $$k\,v_{\rm reg} = m_m g \sin\theta - \mu_m\, m_m g \cos\theta. \quad (3)$$
 
@@ -145,7 +145,7 @@ $$T = 2\pi\sqrt{\frac{I}{M B}}, \quad (1)$$
 
 where $I$ is the moment of inertia of the magnetic torque relative to the passing suspension axis through the wire's point of attachment, $M$ is its magnetic moment and $B$ is the horizontal component of the magnetic field in which they are located.
 
-In this situation, ** measures the oscillation period $T_0$** of the red magnetic torque. What length should a simple pendulum have to have to have the same period?
+In this situation, **measures the oscillation period $T_0$** of the red magnetic torque. What length should a simple pendulum have to have to have the same period?
 
 The following points shall be added:
 
@@ -189,10 +189,10 @@ Sistema opportunamente il magnete a disco nella molletta di supporto in modo che
 
 Properly position the disc magnet in the support spring so that its axis is horizontal and parallel to $\vec{B}_T$ (the horizontal component of the Earth's magnetic field). Thus the $\vec{B}_m$ field, which at various points on the axis of the disc magnet is directed along the axis itself, is parallel or anti-parallel to $\vec{B}_T$.
 
-**Expresses the relationship between $B_m/B_T$ and the $T_0$ and $T$ periods, obtained in the absence and presence of the disc magnet, respectively, by a formula **:
+**Expresses the relationship between $B_m/B_T$ and the $T_0$ and $T$ periods, obtained in the absence and presence of the disc magnet, respectively, by a formula**:
 
 - where $\vec{B}_m$ and $\vec{B}_T$ are **concordant**;
-- where $\vec{B}_m$ and $\vec{B}_T$ are ** missing **.
+- where $\vec{B}_m$ and $\vec{B}_T$ are **missing**.
 
 The following points shall be added:
 
@@ -247,7 +247,7 @@ where $R$ is the radius of the disc base, $z$ is the distance of the point consi
 Do the following:
 
 1. **Measures the oscillation periods** $T$ by varying the distance $z$ between the centre of the disc magnet and the centre of the red magnetic torque. Report the measurements in the table.
-2. ** Determines the value of the $x$** exponent with which formula (2) best suits the experimental course of $B_m/B_T$.
+2. **Determines the value of the $x$** exponent with which formula (2) best suits the experimental course of $B_m/B_T$.
 3. Describe and justify the procedures followed.
 4. Declare how you have found that the effect of the force $\vec{F}$  that tends to move the red magnetic torque towards areas where the intensity of $\vec{B}$ is greater  is negligible during measurements.
 

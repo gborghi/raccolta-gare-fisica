@@ -159,7 +159,7 @@ Se si tratta di $n_0 = 1.000$; $n_1 = 1.500$; $n_2 = 1.460$, $a = 25 \ \mu\text{
 
 &nbsp;&nbsp;&nbsp;&nbsp;**d.** Segnare un periodo completo delle traiettorie dei raggi luminosi che entrano nella fibra sotto due angoli di incidenza diversi $\theta_i$. *[1,0 punti]*
 
-**2. ** La luce si propaga nella fibra ottica.
+**2.** La luce si propaga nella fibra ottica.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**a.** Trova l'angolo di incidenza massimo $\theta_{iM}$, sotto il quale il raggio di luce può ancora propagarsi all'interno del nucleo della fibra. *[1,5 punti]*
 

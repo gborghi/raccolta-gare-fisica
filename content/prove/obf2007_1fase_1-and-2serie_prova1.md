@@ -1689,7 +1689,7 @@ Question 24 (compulsory for second year students)
 Let's say the 4-cylinder engine (text 5) has an efficiency of 0.21 as in text 2, and delivers 140 J per cycle per cylinder. If the engine explodes at a rate of 25 cycles per second and the amount of energy is $30 \times 10^6$ J per liter, how long will it take a car to run out of a 40-liter tank?
 
 - MSK1/> 300 minutes.
-- MSK0/>B ** 360 minutes.
+- MSK0/>B  360 minutes.
 - MSK1/> 280 minutes.
 - MSK1/> 320 minutes.
 - MSK1/> 240 minutes.
@@ -1734,7 +1734,7 @@ Connesso al radiatore attraverso un tubo, c'è il serbatoio di espansione. Quest
 - **A** 629 cm3
 - **B** 544 cm3
 - **C** 822 cm3
-- ** D ** 472 cm3
+- **D** 472 cm3
 - **E** 252 cm3
 
 **Topic:** [[Thermodynamics]]

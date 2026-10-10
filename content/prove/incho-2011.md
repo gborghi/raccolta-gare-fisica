@@ -1035,7 +1035,7 @@ cyclopentanone (11) as shown below.
 6.5
 Draw the structures of the intermediates (12-15) and X.
 
-** NBS is a reagent used to selectively brominate the allylic carbon.
+ NBS is a reagent used to selectively brominate the allylic carbon.
 
 (3.5 marks)
 
@@ -1043,7 +1043,7 @@ KOH
 Acid
 Alcoholic
 NEt3 / ether
-NBS** /CCl4
+NBS /CCl4
 11
 12
 13

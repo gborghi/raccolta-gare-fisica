@@ -33,10 +33,9 @@ hours.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**orari**
+*(Il PDF stampa in testa «hours», residuo dell'impaginazione.)*
 
-1. Il concorso sperimentale è composto da un problema. Questa parte del concorso dura 3
-- Per ore.
+1. La prova sperimentale consiste in un problema. Questa parte della gara dura 3 ore.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -63,7 +62,7 @@ hours.
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. Si prega di usare solo la penna che vi è stata fornita.
+2. Usare soltanto la penna fornita.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -91,8 +90,7 @@ have one, please ask for it from Olympiad organizers.
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. Puoi usare la tua calcolatrice non programmabile per i calcoli numerici. Se non lo fai
-Se ne avete uno, per favore chiedeteli agli organizzatori delle Olimpiadi.
+3. Per i calcoli numerici si può usare la propria calcolatrice non programmabile. Chi non ne ha una può chiederla agli organizzatori dell'Olimpiade.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -122,10 +120,7 @@ mostly use equations, numbers, figures and plots.
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. Vi verranno forniti fogli di scrittura e documenti aggiuntivi. Puoi usare la carta aggiuntiva
-- Non è vero. - Non è vero. Le vostre soluzioni finali che
-La valutazione deve essere effettuata sulle schede. Per favore, usi il minor numero possibile di testo. Dovresti
-La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
+4. Vengono forniti i fogli risposte (Writing sheets) e fogli aggiuntivi. I fogli aggiuntivi si possono usare per le brutte copie, ma non verranno corretti. Le soluzioni finali da valutare devono essere scritte sui fogli risposte. Usare meno testo possibile: servirsi soprattutto di equazioni, numeri, figure e grafici.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -152,7 +147,7 @@ La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. Utilizzare solo il lato anteriore delle schede di scrittura. Scrivere solo all'interno della zona di confine.
+5. Usare soltanto il fronte dei fogli risposte. Scrivere soltanto all'interno dell'area delimitata.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -183,11 +178,7 @@ the entire sheet and do not include it in your numbering.
 
 <div class="qlang-split" data-lang="it"></div>
 
-6. Compila le scatole in cima a ogni foglio di carta con il tuo paese (Paese), il tuo codice di studio
-(Codice degli studenti), numero di domanda (Nomero di domanda), numero progressivo di ciascun foglio
-(Nomero di pagina) e il numero totale di fogli di scrittura (Nomero totale di pagine). Se si utilizza
-Per scrivere le schede in bianco che non si desidera valutare, inserire una grande X
-l'intero foglio e non lo inserire nel numero.
+6. Compilare i riquadri in alto su ogni foglio con il proprio paese (Country), il proprio codice studente (Student Code), il numero del quesito (Question Number), il numero progressivo del foglio (Page Number) e il numero totale di fogli risposte (Total Number of Pages). Se si usano fogli risposte bianchi per appunti che non si vogliono far valutare, tracciare una grande X su tutto il foglio e non includerlo nella numerazione.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -286,7 +277,7 @@ It turns out that a piece of chocolate can affect the pendulum motion.
 
 **Strumenti ed attrezzature:** treppiede, pendolo munito di una perlina magnetizzata, argilla, righello, perline magnetizzate, cronometro, alimentatore (batteria da 4,5 V), reostato da 6 Ohm, bobina elettrica, multimetro, interruttore, cavi di collegamento, chiodi, un pezzo di cioccolato.
 
-Il pendolo è costituito da due bacchette di legno fissati all’interno di una gomma da cancellare. Alle estremità libere di entrambi gli stuzzicadenti sono fissati due pezzi di argilla; il pezzo inferiore contiene al suo interno una perlina magnetizzata metallica. L’asse del pendolo è rappresentato da un ago di acciaio che passa attraverso la gomma da cancellare.
+Il pendolo è costituito da due bacchette di legno fissate all’interno di una gomma da cancellare. Alle estremità libere di entrambi gli stuzzicadenti sono fissati due pezzi di argilla; il pezzo inferiore contiene al suo interno una perlina magnetizzata metallica. L’asse del pendolo è rappresentato da un ago di acciaio che passa attraverso la gomma da cancellare.
 
 Un’altra perlina magnetizzata viene fissata su un altro pezzo di argilla fornito.
 

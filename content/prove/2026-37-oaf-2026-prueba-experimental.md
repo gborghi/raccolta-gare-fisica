@@ -73,7 +73,7 @@ f) Teniendo en cuenta lo anterior, haz una estimación de la incertidumbre $\Del
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema sperimentale. Pendale balistico**
+Il problema sperimentale. Pendale balistico
 
 Abbiamo un pendolo formato da un blocco di plastilina di massa $M$ appeso a un filo, di massa scarsa rispetto a $M$, in modo che la distanza tra il punto di fissaggio e il centro del blocco sia $L$ (figura 1). Se il pendolo è in equilibrio verticale, un'ottica di massa $m$ che viaggia a velocità orizzontale $v$ si inserisce nel centro della massa $M$. Dopo questo colpo, le masse si alzano fino ad un'altezza massima $h$. Questo sistema è noto come pendolo balistico.
 
@@ -111,7 +111,7 @@ d) A partire da $A$ si deduce il valore della costante elastica di resorgenza, $
 
 f) Considerando quanto sopra, si deve calcolare l'incertezza $\Delta K$ nel valore della costante elastica $K$ ottenuta da d).
 
-**Dati: ** $L = 50$ cm; $M = 100$ g; $m = 10$ g.
+**Dati:** $L = 50$ cm; $M = 100$ g; $m = 10$ g.
 
 <!--fig:start-->
 ![[_attachments/2026 37 OAF 2026 PRUEBA EXPERIMENTAL/2026 37 OAF 2026 PRUEBA EXPERIMENTAL_p1_f1.png]]

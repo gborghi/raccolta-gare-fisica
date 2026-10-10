@@ -149,7 +149,7 @@ Lo studente A vuole ora convalidare il suo modello. Tuttavia, hanno paura dei se
 
 Durante la fase di chiusura, una forza costante $F_c = 1.4\,\text{N}$ viene esercitata su entrambe le masse fino a quando la distanza tra le due masse è di 0. Durante la fase di apertura, una forza costante $F_o = 1.4\,\text{N}$ viene esercitata su entrambe le masse fino a quando la distanza tra le due masse è $L$. Una fase di chiusura immediatamente seguita da una fase di apertura si denominerà "ciclo di chiusura-apertura". Per le parti 4 e 5, supponiamo che non ci sia attrito tra il serpente modello e il terreno.
 
-**4. ** Calcolare il tempo necessario per il serpente modello per sottoporsi a un ciclo di chiusura-apertura. (4 punti)
+**4.** Calcolare il tempo necessario per il serpente modello per sottoporsi a un ciclo di chiusura-apertura. (4 punti)
 
 **5.** Spiegare perché il centro del serpente modello non si muove in avanti dopo ogni ciclo. 2 punti)
 

@@ -58,7 +58,7 @@ La torre tiene que estar bien ventilada para evitar el excesivo calentamiento de
 
 <div class="qlang-split" data-lang="it"></div>
 
-P1.- Torri di perdite**
+P1.- Torri di perdite
 
 I liquidi in assenza di gravità tendono ad assumere la forma sferica a causa degli effetti della tensione superficiale. Questo è il caso delle gocce di un liquido in caduta libera poiché, in queste circostanze, sperimentano una gravità apparentemente zero.
 
@@ -68,7 +68,7 @@ Il fondamento del metodo consiste nel fondere il piombo in cima alla torre in un
 
 La torre deve essere ben ventilata per evitare un'eccessiva riscaldamento ambientale. La distanza di caduta dei perdigoni all'interno deve essere sufficiente per garantire la solidificazione del piombo e il suo raffreddamento fino a una temperatura inferiore a quella di bollizione dell'acqua, in modo da evitare la produzione di vapore d'acqua quando i perdigoni entrano nel recipiente di raccolta.
 
-**Dati: **
+**Dati:**
 - Radio perdigoni di n. 6: $R = 1{,}38\text{ mm}$
 - Calore latente di fusione del Pb: $L = 24{,}7 \times 10^3\text{ J/kg}$
 - Calore specifico del Pb: $c = 1{,}28 \times 10^2\text{ J/(kg·K)}$
@@ -81,7 +81,7 @@ La torre deve essere ben ventilata per evitare un'eccessiva riscaldamento ambien
 - Viscosità dinamica dell'aria: $\eta = 1{,}80 \times 10^{-5}\text{ Pa·s}$
 - Accelerazione gravitatoria: $g = 9{,}81\text{ m/s}^2$
 
-**(a) ** Determina e calcola l'energia (calore) $Q$ che un perdigone di piombo di n. 6, inizialmente liquido alla temperatura di fusione del piombo $T_i$, deve trasferire all'aria dall'interno della torre per solidificare e raffreddare fino alla temperatura di ebollizione dell'acqua $T_f$ durante il suo crollo.
+**(a)** Determina e calcola l'energia (calore) $Q$ che un perdigone di piombo di n. 6, inizialmente liquido alla temperatura di fusione del piombo $T_i$, deve trasferire all'aria dall'interno della torre per solidificare e raffreddare fino alla temperatura di ebollizione dell'acqua $T_f$ durante il suo crollo.
 
 <!--fig:start-->
 ![[_attachments/P1_completo/P1_completo_p1_f1.png]]
@@ -100,7 +100,7 @@ The following table shows the number of units of the vehicle:
 
 Liquids in the absence of gravity tend to take the spherical shape due to the effects of surface tension. This is the case of droplets of a free-falling liquid since, under these circumstances, they experience apparent zero gravity.
 
-This phenomenon has been the basis, until well into the 20th century, for the manufacture of lead spherical perdigons in the so-called ** perdigon towers**. The method, patented by William Watts in 1782, is not currently used, but numerous perdigon towers are preserved; some, such as the 58 m high Seville (Figure 1), is an interesting tourist attraction.
+This phenomenon has been the basis, until well into the 20th century, for the manufacture of lead spherical perdigons in the so-called **perdigon towers**. The method, patented by William Watts in 1782, is not currently used, but numerous perdigon towers are preserved; some, such as the 58 m high Seville (Figure 1), is an interesting tourist attraction.
 
 The basis of the method is to melt lead at the top of the tower into a reservoir whose bottom, as a coiler, has numerous holes through which jets of liquid lead fall. The jets are unstable (Rayleigh's instability) and the high surface tension of the molten lead causes "rosaries" of spherical droplets to originate as soon as the fall begins. The diameter of the holes determines the diameter of the spherical droplets and, therefore, the perdigon. At the base of the tower, the perdigons are collected in a water tank that cushions the shocks to prevent deformation and finishes cooling the lead.
 
@@ -119,7 +119,7 @@ The data set shall be reported in the following table:
 - Air dynamic viscosity: $\eta = 1{,}80 \times 10^{-5}\text{ Pa·s}$
 - Acceleration by gravity: $g = 9{,}81\text{ m/s}^2$
 
-**(a) ** Determine and calculate the energy (heat) $Q$ that a lead perdigon of No 6, initially liquid at the lead melting temperature $T_i$, has to transfer to the air from the inside of the tower so that during its fall it solidifies and cools to the boiling temperature of the water $T_f$.
+**(a)** Determine and calculate the energy (heat) $Q$ that a lead perdigon of No 6, initially liquid at the lead melting temperature $T_i$, has to transfer to the air from the inside of the tower so that during its fall it solidifies and cools to the boiling temperature of the water $T_f$.
 
 <!--fig:start-->
 ![[_attachments/P1_completo/P1_completo_p1_f1.png]]
@@ -159,7 +159,7 @@ donde $\rho_a$ es la densidad del aire y $R$ el radio del perdigón.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P1.- Torre di perditori  paragrafo (b) **
+**P1.- Torre di perditori  paragrafo (b)**
 
 In seguito ammetteremo che le gocce sferiche di piombo fonduto si formano praticamente all'uscita del deposito dalla parte superiore della torre e iniziano a cadere a velocità zero. Il movimento di queste gocce non è un caduto libero, poiché oltre al loro peso, su di loro agiscono la spinta idrostatica $E$ e la forza di resistenza (frizione) $F_r$ esercitata dal fluido in cui si muovono (aria). La forza $F_r$ è proporzionale al quadrato della velocità del perditore $v$:
 
@@ -167,7 +167,7 @@ $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
 dove $\rho_a$ è la densità dell'aria e $R$ il raggio del perdigono.
 
-**(b) ** Sosteni l'equazione del movimento del perdigone nel suo cadere (2a legge di Newton), e giustifica che si può disprezzare la spinta idrostatica che agisce sul perdigone.
+**(b)** Sosteni l'equazione del movimento del perdigone nel suo cadere (2a legge di Newton), e giustifica che si può disprezzare la spinta idrostatica che agisce sul perdigone.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -185,7 +185,7 @@ $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
 where $\rho_a$ is the density of the air and $R$ the radius of the perdigon.
 
-**(b) ** Propose the equation of the motion of the perdigon in its fall (2nd law of Newton), and justify that the hydrostatic thrust acting on the perdigon can be disregarded.
+**(b)** Propose the equation of the motion of the perdigon in its fall (2nd law of Newton), and justify that the hydrostatic thrust acting on the perdigon can be disregarded.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -220,7 +220,7 @@ $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P1.- Torre di perdite  paragrafo (c) **
+**P1.- Torre di perdite  paragrafo (c)**
 
 La velocità iniziale di caduta è zero, e quindi l'accelerazione iniziale è $g$. Da allora, mentre la velocità aumenta, l'accelerazione diminuisce e tende a raggiungere una velocità uniforme, nota come **velocità limite**.
 
@@ -228,7 +228,7 @@ La forza di resistenza aerodinamica su una sfera radio $R$ è:
 
 $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
-**(c) ** Determina e calcola la velocità limite di caduta dei perditori, $v_L$.
+**(c)** Determina e calcola la velocità limite di caduta dei perditori, $v_L$.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -246,7 +246,7 @@ The aerodynamic drag force over a radius sphere $R$ is:
 
 $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
-**(c) ** Determine and calculate the perdigone falling limit speed, $v_L$.
+**(c)** Determine and calculate the perdigone falling limit speed, $v_L$.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -291,7 +291,7 @@ $$V = \frac{v_0 + v_L}{2} = \frac{v_L}{2}, \qquad T = \frac{T_i + T_f}{2}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P1.- Torre di perditori  paragrafo (d) **
+**P1.- Torre di perditori  paragrafo (d)**
 
 L'energia (calore) che il perditore deve perdere durante il suo cadimento, $Q$, viene trasferita all'aria della torre. Dei tre processi di trasferimento di calore (convezione, conduttore e radiazione) si tiene conto solo di quello di convezione, che in questo caso è dominante.
 
@@ -309,7 +309,7 @@ Considera che i perdigoni partono dal riposo e raggiungono praticamente la veloc
 
 $$V = \frac{v_0 + v_L}{2} = \frac{v_L}{2}, \qquad T = \frac{T_i + T_f}{2}$$
 
-**(d) ** Calcola la potenza media dissipata $P_c$ nel caso di caduta di un perditore del numero 6.
+**(d)** Calcola la potenza media dissipata $P_c$ nel caso di caduta di un perditore del numero 6.
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -337,7 +337,7 @@ Consider that the perdigons leave rest and reach the maximum speed $v_L$ practic
 
 $$V = \frac{v_0 + v_L}{2} = \frac{v_L}{2}, \qquad T = \frac{T_i + T_f}{2}$$
 
-**(d) ** Calculate the mean dissipated power $P_c$ in the fall of a no. 6 piston.
+**(d)** Calculate the mean dissipated power $P_c$ in the fall of a no. 6 piston.
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -374,7 +374,7 @@ con $h$ dado por la relación empírica del apartado (d).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P1.- Torre di perditori  paragrafo (e) **
+**P1.- Torre di perditori  paragrafo (e)**
 
 I perdigoni devono essere solidificati e raffreddati fino a $T_f$ almeno prima di arrivare in acqua. Se $t$ è il tempo di caduta di un perdigone, la potenza media da trasferire all'aria è $Q/t$. La velocità media di caduta è $V = H/t$, dove $H$ è l'altezza di caduta.
 
@@ -384,7 +384,7 @@ $$P_c = 4\pi R^2 h(T - T_a)$$
 
 con $h$ dato dal rapporto empirico di cui al paragrafo (d).
 
-**(e) ** Determina e calcola la minima altezza $H$ da cui devono cadere i perdidoni per evitare che si formi vapore d'acqua quando arrivano al deposito inferiore.
+**(e)** Determina e calcola la minima altezza $H$ da cui devono cadere i perdidoni per evitare che si formi vapore d'acqua quando arrivano al deposito inferiore.
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -404,7 +404,7 @@ $$P_c = 4\pi R^2 h(T - T_a)$$
 
 with $h$ given by the empirical relationship in paragraph (d).
 
-**(e) ** Determine and calculate the minimum height $H$ for the perdigons to fall so that water vapor does not form when they reach the bottom tank.
+**(e)** Determine and calculate the minimum height $H$ for the perdigons to fall so that water vapor does not form when they reach the bottom tank.
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]

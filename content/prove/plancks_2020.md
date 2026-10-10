@@ -109,7 +109,7 @@ Ottenere:
 
 **Dotty Dinosaur**
 
-**(a) ** (10 punti) Nel gioco per bambini "Dotty Dinosaur", c'è un dado equo con 6 colori. Dopo aver rotto un colore, raccogli un punto per il tuo dinosauro di quel colore. Se hai già un punto di quel colore non fai nulla. Si 'vince' e il gioco finisce quando si hanno raccolto tutti e sei i punti, uno di ogni colore.
+**(a)** (10 punti) Nel gioco per bambini "Dotty Dinosaur", c'è un dado equo con 6 colori. Dopo aver rotto un colore, raccogli un punto per il tuo dinosauro di quel colore. Se hai già un punto di quel colore non fai nulla. Si 'vince' e il gioco finisce quando si hanno raccolto tutti e sei i punti, uno di ogni colore.
 
 Calcolare il numero medio di lanci di dadi necessari per "vincere" un gioco di dinosauro a punti.
 
@@ -227,7 +227,7 @@ Una fonte di luce invia un impulso di luce verticalmente verso l'alto per essere
 
 Both Frank and Steve carry out the same experiment each in their own lab and calculate the speed of light $C$ by measuring the time of flight $T$ of the pulse:
 
-> **[Blank 1] ** *(equazione/espressione da compilare) *  relativa a $C$, $H$ e $T$.
+> **[Blank 1]** *(equazione/espressione da compilare) *  relativa a $C$, $H$ e $T$.
 
 Parlano al telefono e scoprono che ognuno ha scoperto che i loro due risultati per la velocità della luce $C$ sono esattamente gli stessi. Non sono sorpresi da questo perché, sebbene un laboratorio si muovesse a 25 km/h rispetto all'altro, nessuno dei due si stava accelerando. In particolare, questi esperimentatori ricordano dalle loro lezioni di fisica universitaria che:
 
@@ -260,11 +260,11 @@ Questo risultato è molto interessante, poiché suggerisce che quando un esperim
 
 Steve e Frank concordano che il loro risultato è in realtà un scossa-terra e si mettono a preparare un articolo per la pubblicazione.
 
-Poi riescono a ottenere una copia del documento di Einstein del 1905 e ne sono disturbati. Secondo Einstein, ogni misura della velocità della luce (in vuoto)  qualunque sia la velocità dell'esperimentatore rispetto alla fonte della luce  darà lo stesso risultato. Vengono a vedere che, se Einstein li avesse aiutati con i loro esperimenti a bordo delle due navi, allora avrebbe sostenuto che la velocità della luce misurata da Steve nel suo laboratorio e da Frank che guardava l'attrezzatura di Steve nel laboratorio di Steve sarebbe la stessa. Lo stesso risultato sarebbe stato trovato da Steve che guardava l'esperimento di Frank. Einstein avrebbe sostenuto che $C = $ ** [linea vuota] **.
+Poi riescono a ottenere una copia del documento di Einstein del 1905 e ne sono disturbati. Secondo Einstein, ogni misura della velocità della luce (in vuoto)  qualunque sia la velocità dell'esperimentatore rispetto alla fonte della luce  darà lo stesso risultato. Vengono a vedere che, se Einstein li avesse aiutati con i loro esperimenti a bordo delle due navi, allora avrebbe sostenuto che la velocità della luce misurata da Steve nel suo laboratorio e da Frank che guardava l'attrezzatura di Steve nel laboratorio di Steve sarebbe la stessa. Lo stesso risultato sarebbe stato trovato da Steve che guardava l'esperimento di Frank. Einstein avrebbe sostenuto che $C = $ **[linea vuota]**.
 
 I nostri due coraggiosi esperimentatori ora fanno l'ipotesi **[line blank]** $=$ **[line blank]** e combinano le equazioni 1 e 2 e, dopo un po' di algebra, ottengono:
 
-> **[Blank 4] ** *(equazione/espressione da riempire) *  il risultato ottenuto con l'ipotesi di Einstein (un denominatore che è sempre inferiore a 1).
+> **[Blank 4]** *(equazione/espressione da riempire) *  il risultato ottenuto con l'ipotesi di Einstein (un denominatore che è sempre inferiore a 1).
 
 Ancora una volta, riflettono su cosa significhi questo. Non ci sono esce dal fatto che l'Equazione 4 sta dicendo loro che, secondo Frank che guardava nel laboratorio in movimento di Steve, il tempo di Steve $T'$ stava passando più lentamente del suo tempo (di Frank $T$) perché il denominatore di 4 sarà sempre inferiore a 1. E Steve avrebbe fatto esattamente la stessa conclusione sul tasso di tempo di Frank nel laboratorio di trasferimento. Che il tempo non passa allo stesso ritmo per tutti è un risultato più strano di quello della velocità della luce che aumenta quando si guarda un esperimento di misura della velocità della luce in movimento!
 
@@ -353,7 +353,7 @@ Il tempo di volo transitorio, ToF, è uno strumento di misurazione della mobilit
 *Figura 3: tempi di transito inverso di scalazione con bias applicato.*
 <!--fig:end-->
 
-**(a) ** (2 punti) La figura 2 mostra un diagramma tipico di log log di fotocurrent rispetto al tempo. Deduci da questo grafico dove sarà il tempo di transito e spiega perché hai scelto questa posizione. Non è necessario indicare un valore effettivo del tempo di transito.
+**(a)** (2 punti) La figura 2 mostra un diagramma tipico di log log di fotocurrent rispetto al tempo. Deduci da questo grafico dove sarà il tempo di transito e spiega perché hai scelto questa posizione. Non è necessario indicare un valore effettivo del tempo di transito.
 
 Per trovare la mobilità si usa la relazione:
 
@@ -361,15 +361,15 @@ $$\mu = \frac{d^2}{V t_{tr}}$$
 
 Se $V$ è tensione e $d$ indica lo spessore del dispositivo, in genere $1.33 \pm 0.07\,\mu\mathrm{m}$. Si può tracciare questa relazione lineare del tempo di transito inverso contro un bias di tensione applicato, come può essere mostrato nella figura 3.
 
-**(b) ** (2 punti) Calcolare dalla figura 3 la mobilità del vettore di carica di questo campione. Includi un errore appropriato nella tua risposta.
+**(b)** (2 punti) Calcolare dalla figura 3 la mobilità del vettore di carica di questo campione. Includi un errore appropriato nella tua risposta.
 
-**(c) ** (2 punti) Non abbiamo ancora discusso di quale tipo di portatori di carica stiamo misurando. Usando le informazioni già fornite, per quale particella di carica abbiamo misurato la mobilità? Che succede all'accusa opposta?
+**(c)** (2 punti) Non abbiamo ancora discusso di quale tipo di portatori di carica stiamo misurando. Usando le informazioni già fornite, per quale particella di carica abbiamo misurato la mobilità? Che succede all'accusa opposta?
 
-**(d) ** (1 punto) I portatori di carica possono rimanere intrappolati mentre si muovono attraverso la gran parte del campione sulla strada verso l'elettrodo. Cita un esempio di questo tipo di trappola.
+**(d)** (1 punto) I portatori di carica possono rimanere intrappolati mentre si muovono attraverso la gran parte del campione sulla strada verso l'elettrodo. Cita un esempio di questo tipo di trappola.
 
-**(e) ** (2 punti) Come influiranno le particelle di carica intrappolate sul pacchetto di carica e come cambierà la figura 2?
+**(e)** (2 punti) Come influiranno le particelle di carica intrappolate sul pacchetto di carica e come cambierà la figura 2?
 
-**(f) ** (1 punto) Come sarà la figura 2 se non applichiamo una tensione di bias? Spiegate il motivo.
+**(f)** (1 punto) Come sarà la figura 2 se non applichiamo una tensione di bias? Spiegate il motivo.
 
 Dr. James Kneller  Queen Mary, Università di Londra
 
@@ -425,7 +425,7 @@ In the last two parts of the question you can take $R$ as given or your answer t
 
 Consideriamo un cristallo monatomico bidimensionale con una rete quadrata. In questo problema scegliamo due siti vicini A e B, lontani dai confini del materiale, e calcoliamo la resistenza tra di loro.
 
-**(a) ** (5 punti) In questo materiale, i carichi $q$ si effettuano tra i siti vicini per abbassare la loro energia, mentre vengono simultaneamente espulsi i fononi (quanti bosonici di vibrazioni della reticola). Qui ci concentriamo sul sistema costituito solo dai siti vicini A e B, accoppiati al serbatoio di fononi. La dinamica è modellata dal seguente hamiltoniano:
+**(a)** (5 punti) In questo materiale, i carichi $q$ si effettuano tra i siti vicini per abbassare la loro energia, mentre vengono simultaneamente espulsi i fononi (quanti bosonici di vibrazioni della reticola). Qui ci concentriamo sul sistema costituito solo dai siti vicini A e B, accoppiati al serbatoio di fononi. La dinamica è modellata dal seguente hamiltoniano:
 
 $$H = \frac{qU}{2}\left(|A\rangle\langle A| - |B\rangle\langle B|\right) + \hbar v \sum_{\mathbf{k}} |\vec{k}|\, n_{\mathbf{k}} + g \sum_{\mathbf{k}} \left( c^{\dagger}_{\mathbf{k}} |B\rangle\langle A| + c_{\mathbf{k}} |A\rangle\langle B| \right)$$
 
@@ -433,9 +433,9 @@ Se $U$ è una differenza di tensione tra i siti A e B, $v$ è una velocità di g
 
 Supponendo che la carica $q$ sia inizialmente sul sito A, e che il serbatoio di fononi sia vuoto, **estimi la resistenza $R$ tra i siti.** L'area del materiale è $S$.
 
-**(b) ** (3 punti) Naturalmente, la carica può arrivare a ciascun sito vicino. Qui applichiamo un'approssimazione semi-classica per spiegare questo effetto. Considera che tutti i bordi tra i siti della griglia siano resistenti con una resistenza $R$. **Calcolare la resistenza effettiva tra i siti vicini A e B ** supponendo che l'area del materiale sia molto maggiore dell'area di una cella unità e che la corrente scompari ai confini del materiale.
+**(b)** (3 punti) Naturalmente, la carica può arrivare a ciascun sito vicino. Qui applichiamo un'approssimazione semi-classica per spiegare questo effetto. Considera che tutti i bordi tra i siti della griglia siano resistenti con una resistenza $R$. **Calcolare la resistenza effettiva tra i siti vicini A e B** supponendo che l'area del materiale sia molto maggiore dell'area di una cella unità e che la corrente scompari ai confini del materiale.
 
-**(c) ** (2 punti) Come cambierebbe questo risultato se i siti fossero distribuiti su un cespuglio di miele, ma le proprietà del fonone restassero invariate?
+**(c)** (2 punti) Come cambierebbe questo risultato se i siti fossero distribuiti su un cespuglio di miele, ma le proprietà del fonone restassero invariate?
 
 Nell'ultima parte della domanda si può prendere $R$ come dato o la risposta alla parte a.
 
@@ -516,7 +516,7 @@ Il motore originale non funzionava da solo e richiedeva che un operatore aprisse
 
 L'operatore spegne ora la valvola di alimentazione a vapore S e apre per un breve periodo la valvola W per introdurre un sciacquaggio fino di acqua fredda in C. Questo condensa il vapore e provoca un vuoto all'interno di C. La pressione atmosferica che agisce sul pistone (verde) inizia a spingerlo verso il basso e a aumentare il PR della canna di pompaggio. La valvola V1 si apre e la valvola V2 si chiude. Il diagramma 2 mostra la fine di questo colpo con il pistone (verde) che sta per "infine" e fermarsi. Durante il movimento "lavoratore" verso l'alto, l'acqua del motore all'interno di T viene sollevata in modo da uscire dalla miniera a livello di terra. L'operatore apre ora la valvola a vapore S per "uccidere" il vuoto in C e avviare il prossimo ciclo di funzionamento.
 
-**(a) ** (10 punti) **Si chiede di calcolare il volume di acqua sollevata e rimossa dalla cisterna per ciclo di funzionamento del motore utilizzando le seguenti informazioni.**
+**(a)** (10 punti) **Si chiede di calcolare il volume di acqua sollevata e rimossa dalla cisterna per ciclo di funzionamento del motore utilizzando le seguenti informazioni.**
 
 Un ciclo è semplicemente un tratto verso il basso e un tratto verso l'alto di PR o, equivalentemente, un tratto verso l'alto e un tratto verso l'indietro di P, con entrambi i trattati della stessa lunghezza. Non sorprende che la tua risposta dipenda dalle ipotesi che fai, quindi è importante fare una lista di queste.
 
@@ -591,24 +591,24 @@ Le seguenti domande sono state prese da un esame di fisica e matematica del prim
 
 (I punti) Qual era il famoso esperimento di Archimede relativo al volume di acqua spostata da un vascello pieno da un corpo immerso in esso? Come si applica il principio nel trovare la gravità specifica?
 
-**(c) ** (1 punto) Spiegare il più pienamente possibile gli effetti di 
+**(c)** (1 punto) Spiegare il più pienamente possibile gli effetti di 
 
 - i. Aumentare la temperatura di un volume di aria chiuso in una nave.
 - ii. Aumentare la pressione, mantenendo la temperatura costante.
 
-**(d) ** (1 punto) Spiegare esattamente come si dovrebbe fare un Barometro. Cosa misura un barometro?
+**(d)** (1 punto) Spiegare esattamente come si dovrebbe fare un Barometro. Cosa misura un barometro?
 
-**(e) ** (1 punto) Fornisci qualche spiegazione del fenomeno del fulmine. Qual è l'uso presunto dei conduttori di fulmine?
+**(e)** (1 punto) Fornisci qualche spiegazione del fenomeno del fulmine. Qual è l'uso presunto dei conduttori di fulmine?
 
-**(f) ** (1 punto) Disegnare un diagramma che espliciti le parti di lavoro e il modo di funzionamento della macchina a vapore ordinaria.
+**(f)** (1 punto) Disegnare un diagramma che espliciti le parti di lavoro e il modo di funzionamento della macchina a vapore ordinaria.
 
-**(g) ** (1 punto) Che cosa si intende per l'elettroliesi? Illustra la tua risposta con un semplice esempio e nota le variazioni nello stato di energia del sistema durante il processo.
+**(g)** (1 punto) Che cosa si intende per l'elettroliesi? Illustra la tua risposta con un semplice esempio e nota le variazioni nello stato di energia del sistema durante il processo.
 
-**(h) ** (1 punto) Che cos'è un magnete? Come ne faresti una?
+**(h)** (1 punto) Che cos'è un magnete? Come ne faresti una?
 
-**(i) ** (1 punto) Disegnare un diagramma e spiegare l'azione di una normale fotocamera. Perché non riusciamo, di regola, a fare una fotografia con una luce a gas?
+**(i)** (1 punto) Disegnare un diagramma e spiegare l'azione di una normale fotocamera. Perché non riusciamo, di regola, a fare una fotografia con una luce a gas?
 
-**(j) ** (1 punto) Indicare che:
+**(j)** (1 punto) Indicare che:
 
 $$\int_0^{\infty} e^{-a^2 x^2} \cos(2bx)\, dx = \frac{\sqrt{\pi}}{2a}\, e^{-\frac{b^2}{a^2}}.$$
 
@@ -673,14 +673,14 @@ One implication of this is that the period of the motion, $T$, is given as $T = 
 
 **Domini e penduli**
 
-**(a) ** (6 punti) Considerare la figura 5 (a) che mostra un domino bidimensionale uniforme di altezza $2l$ e larghezza $2d$ con $d < l$. Il domino è posizionato in modo tale che l'angolo inferiore a destra sia all'origine e ne consegue che il centro di massa del domino sia nella posizione $(-d,\, -l)$. Per $d < l$ il dominone ha una energia inferiore quando si trova sul lato, in modo che il centro di massa sia nella posizione $(l,\, d)$, vedere figura 5 (b). Perché il domino non raggiunge la sua minima energia cadendo spontaneamente sul suo fianco?
+**(a)** (6 punti) Considerare la figura 5 (a) che mostra un domino bidimensionale uniforme di altezza $2l$ e larghezza $2d$ con $d < l$. Il domino è posizionato in modo tale che l'angolo inferiore a destra sia all'origine e ne consegue che il centro di massa del domino sia nella posizione $(-d,\, -l)$. Per $d < l$ il dominone ha una energia inferiore quando si trova sul lato, in modo che il centro di massa sia nella posizione $(l,\, d)$, vedere figura 5 (b). Perché il domino non raggiunge la sua minima energia cadendo spontaneamente sul suo fianco?
 
 <!--fig:start-->
 ![[PLANCKS_2020_p8_f1.png]]
 *Figura 5: Domino a) stato ad alta energia e b) stato a bassa energia. In a) il domino si estende a $x \in [-2d, 0]$, $y \in [0, 2l]$ con centro di massa a $(-d, l)$; in b) si estende a $x \in [0, 2l]$, $y \in [0, 2d]$ con centro di massa a $(l, d)$.*
 <!--fig:end-->
 
-**(b) ** (4 punti) La figura 6 mostra un semplice pendolo, in cui un bobino di massa $m$ è sospeso da una canna leggera, inestensibile e stretta. Il bob è spostato da un angolo $\theta$ e si muove sotto l'influenza della gravità con l'accelerazione dovuta alla gravità $g$.
+**(b)** (4 punti) La figura 6 mostra un semplice pendolo, in cui un bobino di massa $m$ è sospeso da una canna leggera, inestensibile e stretta. Il bob è spostato da un angolo $\theta$ e si muove sotto l'influenza della gravità con l'accelerazione dovuta alla gravità $g$.
 
 <!--fig:start-->
 ![[PLANCKS_2020_p8_f2.png]]

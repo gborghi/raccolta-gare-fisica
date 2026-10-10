@@ -211,11 +211,11 @@ Following MC4, if the diameter of the camera lens is doubled, what will be the i
 
 Dopo MC4, se il diametro della lente della fotocamera è raddoppiato, quale sarà l'aumento dell'intensità luminosa sulla targa di immagine?
 
-- **(a) ** 4 volte
-- **(b) ** 2 volte
-- **(c) ** 1,5 volte
-- **(d) ** $\tfrac{1}{2}$ volte
-- **(e) ** $\tfrac{1}{4}$ volte
+- **(a)** 4 volte
+- **(b)** 2 volte
+- **(c)** 1,5 volte
+- **(d)** $\tfrac{1}{2}$ volte
+- **(e)** $\tfrac{1}{4}$ volte
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GGv0_4PvgFVdyI_f4JsdRqVFwLhJJ7OL/view)
 
@@ -405,11 +405,11 @@ Una particella di massa $M$ e carica di carico $Q$ viene lanciata con velocità 
 *La particella carica viene lanciata con velocità $v$ all'angolo $\theta$ verso l'orizzontale; in cima alla sua traiettoria entra nella regione di campo magnetico uniforme.*
 <!--fig:end-->
 
-- **(a) ** verso l'esterno, $\dfrac{Mg}{Qv\cos\theta}$
-- **(b) ** verso l'interno, $\dfrac{Mg}{Qv\cos\theta}$
-- **(c) ** verso l'esterno, $\dfrac{Mg}{Qv\sin\theta}$
-- **(d) ** verso l'interno, $\dfrac{Mg}{Qv\sin\theta}$
-- **(e) ** verso l'interno, $\dfrac{Mg}{Qv\tan\theta}$
+- **(a)** verso l'esterno, $\dfrac{Mg}{Qv\cos\theta}$
+- **(b)** verso l'interno, $\dfrac{Mg}{Qv\cos\theta}$
+- **(c)** verso l'esterno, $\dfrac{Mg}{Qv\sin\theta}$
+- **(d)** verso l'interno, $\dfrac{Mg}{Qv\sin\theta}$
+- **(e)** verso l'interno, $\dfrac{Mg}{Qv\tan\theta}$
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1GGv0_4PvgFVdyI_f4JsdRqVFwLhJJ7OL/view)
 
@@ -875,11 +875,11 @@ Una piccola bolla d'aria è all'interno di una goccia d'acqua che risiede in una
 *Una goccia d'acqua contenente una piccola bolla d'aria all'interno di una stazione spaziale che si muove a sinistra con velocità $\vec{v}$; la direzione terrestre è verso il basso.*
 <!--fig:end-->
 
-- **(a) ** spostarsi a sinistra
-- **(b) ** spostarsi a destra
-- **(c) ** salire
-- **(d) ** scendere
-- **(e) ** non si muove
+- **(a)** spostarsi a sinistra
+- **(b)** spostarsi a destra
+- **(c)** salire
+- **(d)** scendere
+- **(e)** non si muove
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1GGv0_4PvgFVdyI_f4JsdRqVFwLhJJ7OL/view)
 
@@ -954,7 +954,7 @@ Un satellite di massa $m$ è a distanza $a$ da una stella di massa $M$. La veloc
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(8 punti) ** Considerate la figura di una scala infinita di resistori come mostrato nella figura. Calcolare la resistenza equivalente tra il punto $a$ e il punto $b$.
+**(8 punti)** Considerate la figura di una scala infinita di resistori come mostrato nella figura. Calcolare la resistenza equivalente tra il punto $a$ e il punto $b$.
 
 <!--fig:start-->
 ![[HKPhO_2009_p21_f1.png]]
@@ -994,7 +994,7 @@ Un satellite di massa $m$ è a distanza $a$ da una stella di massa $M$. La veloc
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(12 punti) ** Un fuochi d'artificio esplose in frammenti $N$ e convertì l'energia chimica $E$ in energie cinetiche dei frammenti. Le masse dei frammenti sono $\{m_i\}$, $i = 1, \ldots, N$. I movimenti di rotazione dei frammenti vengono ignorati.
+**(12 punti)** Un fuochi d'artificio esplose in frammenti $N$ e convertì l'energia chimica $E$ in energie cinetiche dei frammenti. Le masse dei frammenti sono $\{m_i\}$, $i = 1, \ldots, N$. I movimenti di rotazione dei frammenti vengono ignorati.
 
 (a) Considerare i 2° ai frammenti Nth come un intero sistema, trovare la velocità del centro di massa del sistema $\vec{v}_c$ in termini di massa dei frammenti e la velocità del primo frammento $\vec{v}_1$. (4 punti)
 
@@ -1040,7 +1040,7 @@ c) Trova l'energia cinetica massima che il primo frammento può avere in termini
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) ** Due pistoni verticali di massa totale $M$ e di diametri diversi sono collegati da una barra rigida di luce di lunghezza $H$. Tracciato tra di essi è $N$ mol di gas ideale. L'area del pistone superiore è $A_1$ e quella del pistone inferiore è $A_2$. La pressione dell'aria esterna è $p_0$. La parete del cilindro è liscia. La costante del gas è $R$.
+**(15 punti)** Due pistoni verticali di massa totale $M$ e di diametri diversi sono collegati da una barra rigida di luce di lunghezza $H$. Tracciato tra di essi è $N$ mol di gas ideale. L'area del pistone superiore è $A_1$ e quella del pistone inferiore è $A_2$. La pressione dell'aria esterna è $p_0$. La parete del cilindro è liscia. La costante del gas è $R$.
 
 (a) Indicare la distanza tra il fondo del cilindro grande e il pistone inferiore $L$ quando il sistema è in equilibrio.
 
@@ -1094,7 +1094,7 @@ $$x = \left(\frac{\sqrt{1 + 8\left(1 + 1/A\right)} - 1}{2B}\right)^{1/3}.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) **
+**(15 punti)**
 
 (a) Utilizzare i parametri appropriati sulla pagina 3, calcolare la massa della Terra. (3 punti)
 

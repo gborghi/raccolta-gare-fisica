@@ -123,7 +123,7 @@ AIF  2022 Olympics in Physics
 National competition Theoretical test  22 April 2022
 
 <!--fig:start-->
-**p.4 **  Rotating slanted tube, z and r axes
+**p.4**  Rotating slanted tube, z and r axes
 
 
 <figure class="tikz-fig">

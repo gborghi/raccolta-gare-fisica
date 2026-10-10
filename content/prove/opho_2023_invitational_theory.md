@@ -65,7 +65,7 @@ In questo problema, esploriamo un modello semplificato dei Solid Rocket Booster 
 > ![[OPhO_2023_Invitational_Theory_p4_f1.png]]
 > La struttura di un SRB (a sinistra) e la forma di una camera tipica (a destra)
 
-**Dati: **
+**Dati:**
 - Tasso di vaporizzazione della superficie del carburante: $v = 9\cdot10^{-3}\,\frac{\text{m}}{\text{s}}$
 - Lunghezza della camera di combustione: $l = 45\,\text{m}$
 - Radius della camera di combustione: $r_0 = 0.6\,\text{m}$
@@ -211,7 +211,7 @@ c) Una curva parametrizata $\gamma$ sul piano complesso può essere considerata 
 
 Un sistema elettrostatico trasformato conformi
 
-Sappiamo dall'elettrostatica che in una regione libera da carica, il potenziale elettrostatico $\phi$ soddisfa l'equazione di Laplace $\nabla^2 \phi = 0$. Come abbiamo visto sopra, questo motiva l'idea di definire una funzione differenziabile complessa la cui parte reale è il potenziale elettrostatico  la differenziabilità complessa codifica il fatto che il potenziale elettrostatico soddisfa (2). Data una problematica di elettrostatica 2D in una regione senza carica, definiamo il potenziale complesso ** $f(z)$ come:
+Sappiamo dall'elettrostatica che in una regione libera da carica, il potenziale elettrostatico $\phi$ soddisfa l'equazione di Laplace $\nabla^2 \phi = 0$. Come abbiamo visto sopra, questo motiva l'idea di definire una funzione differenziabile complessa la cui parte reale è il potenziale elettrostatico  la differenziabilità complessa codifica il fatto che il potenziale elettrostatico soddisfa (2). Data una problematica di elettrostatica 2D in una regione senza carica, definiamo il potenziale complesso  $f(z)$ come:
 
 $$f(z) = \phi(x, y) + i\psi(x, y)$$
 
@@ -231,7 +231,7 @@ h) Indicare che la funzione $f(z) = \frac{i(1 - z)}{(1 + z)}$ mappa il cerchio u
 
 (j) Ora consideriamo la stessa canna infinita sospesa sopra una piastra conduttrice a terra ad un'altezza $h$. Utilizzare i risultati per le domande h) e i) per derivare il potenziale elettrostatico $\phi$ nella regione sopra la targa.
 
-k) Considerare la curva $C$ mostrata nella figura seguente. Vi viene data che l'immagine di $\mathrm{d}l$ è $\mathrm{d}l'$. Se prendiamo qualche elemento di linea $\mathrm{d}l$ sulla curva $C$, trovi il fattore di scalazione per la sua immagine $\mathrm{d}l'$ di $f(C)$. Questo è noto come una trasformazione conforme ** in cui la mappatura è una funzione olomorfa **.
+k) Considerare la curva $C$ mostrata nella figura seguente. Vi viene data che l'immagine di $\mathrm{d}l$ è $\mathrm{d}l'$. Se prendiamo qualche elemento di linea $\mathrm{d}l$ sulla curva $C$, trovi il fattore di scalazione per la sua immagine $\mathrm{d}l'$ di $f(C)$. Questo è noto come una trasformazione conforme **in cui la mappatura è una funzione olomorfa**.
 
 L) Prendere $C$ per rappresentare una superficie conduttiva. Se $\phi$ è una soluzione appropriata dell'equazione 2D Laplace che soddisfa $\phi|_C = 0$, trovare espressioni per la superficie a $\mathrm{d}l$, il potenziale elettrostatico $\phi'$ soddisfa $\phi'|_{f(C)} = 0$ e la carica superficiale a $\mathrm{d}l'$ da $\phi'$.
 
@@ -353,7 +353,7 @@ Supponiamo di avere un sistema di coordinate $\psi(x, y, z) = (q_1, q_2, q_3)$. 
 
 a) Indicare che per un sistema di coordinate ortogonali $\psi$ in un $\mathbb{R}^n$ arbitrario, il quadrato dell'elemento di linea $ds^2$ ha la forma $\sum_{i=1}^{n} g_i(q_1, \ldots, q_n) dq_i^2$ dove ogni $g_i$ è una funzione di $q_1, \ldots, q_n$. Trova un'espressione per $g_i$ in termini di derivati di $\psi$ o $\psi^{-1}$.
 
-Possiamo pensare agli osservatori fisici come a sistemi di coordinate. Se un osservatore arbitrario in movimento nello spazio-tempo misura un evento $(t, x, y, z)$, le coordinate viste dall'osservatore possono essere espresse come $\psi(t, x, y, z)$ da una funzione $\psi$. Risulta che la relatività speciale può essere descritta con la matematica che abbiamo sviluppato finora. In particolare, possiamo considerare la misurazione delle lunghezze spazio-tempo integrando l'elemento di linea lungo i percorsi nello spazio-tempo. Vi viene dato che per qualsiasi osservatore ** con il sistema di coordinate $\psi \equiv (t, x, y, z)$, l'elemento di linea è dato da $ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2$.
+Possiamo pensare agli osservatori fisici come a sistemi di coordinate. Se un osservatore arbitrario in movimento nello spazio-tempo misura un evento $(t, x, y, z)$, le coordinate viste dall'osservatore possono essere espresse come $\psi(t, x, y, z)$ da una funzione $\psi$. Risulta che la relatività speciale può essere descritta con la matematica che abbiamo sviluppato finora. In particolare, possiamo considerare la misurazione delle lunghezze spazio-tempo integrando l'elemento di linea lungo i percorsi nello spazio-tempo. Vi viene dato che per qualsiasi osservatore  con il sistema di coordinate $\psi \equiv (t, x, y, z)$, l'elemento di linea è dato da $ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2$.
 
 b) È un risultato ben noto della relatività speciale che le lunghezze spazio-tempo sono misurate per essere le stesse indipendentemente dal quadro. Risolvi il paradosso dei gemelli integrando l'elemento di linea lungo la linea mondiale della nave spaziale gemella.
 

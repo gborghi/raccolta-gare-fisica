@@ -603,7 +603,7 @@ When the satellite moves to the rear part of the earth (Fig. 9b), the light sour
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q4\* (10 punti). ** I satelliti geosincroni hanno lo stesso periodo $T$ della rotazione terrestre. They are at such a height above the earth's surface $h$ that they remain always above the same spot. Supponiamo un satellite solare geosincrono, come mostrato nella figura. 9a, invia un segnale radio direttamente ai ricevitori sulla Terra.
+**Q4\* (10 punti).** I satelliti geosincroni hanno lo stesso periodo $T$ della rotazione terrestre. They are at such a height above the earth's surface $h$ that they remain always above the same spot. Supponiamo un satellite solare geosincrono, come mostrato nella figura. 9a, invia un segnale radio direttamente ai ricevitori sulla Terra.
 
 Quando il satellite si sposta verso la parte posteriore della terra (Fig. 9b), la fonte luminosa è completamente bloccata dalla Terra nella regione ombra (comunemente conosciuta come umbra). La lunghezza dell'ombra è di solito $n$ volte ($n \approx 200$) del raggio della Terra $R_E$.
 
@@ -656,7 +656,7 @@ b) Determinare la durata di ogni giorno in cui il satellite non può ricevere la
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q5\* (20 punti). ** $r_E = 1.00\ \mathrm{AU}$ sia il raggio orbitale circolare della Terra attorno al Sole, e $r_V = 0.72\ \mathrm{AU}$ sia il raggio orbitale circolare di Venere attorno al Sole. Per lanciare una sonda spaziale dalla Terra a Venere, la sonda spaziale entra prima nell'orbita terrestre e si muove in una posizione abbastanza remota dalla Terra, in modo che l'attrazione gravitazionale della Terra sia trascurabile rispetto all'attrazione gravitazionale del Sole. Poi, le manovre seguenti come mostrato in Figura. 10 sono eseguite:
+**Q5\* (20 punti).** $r_E = 1.00\ \mathrm{AU}$ sia il raggio orbitale circolare della Terra attorno al Sole, e $r_V = 0.72\ \mathrm{AU}$ sia il raggio orbitale circolare di Venere attorno al Sole. Per lanciare una sonda spaziale dalla Terra a Venere, la sonda spaziale entra prima nell'orbita terrestre e si muove in una posizione abbastanza remota dalla Terra, in modo che l'attrazione gravitazionale della Terra sia trascurabile rispetto all'attrazione gravitazionale del Sole. Poi, le manovre seguenti come mostrato in Figura. 10 sono eseguite:
 
 (1) L'energia cinetica della sonda spaziale è ridotta di $\Delta K = K(r_E - r_V)/(r_E + r_V)$, dove $K$ è l'energia cinetica della sonda spaziale in quel momento. Questo si fa accendendo il motore per un breve periodo e poi spegnendolo. La sonda spaziale entra quindi in un'orbita di trasferimento attorno al Sole. L'orbita di trasferimento è tangenziale all'orbita terrestre alla sua fine vicina e all'orbita di Venere alla sua fine lontana.
 

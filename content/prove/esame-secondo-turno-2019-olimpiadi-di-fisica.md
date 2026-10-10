@@ -50,7 +50,7 @@ Il seguente grafico mostra l'evoluzione della posizione dei due oggetti. Quale a
 - **A** In ogni istante $t_1$ entrambi gli oggetti hanno la stessa velocità.
 - **B.** C'è almeno un istante $t < t_1$ in cui entrambi gli oggetti hanno la stessa velocità.
 - Entrambi gli oggetti accelerano tutto il tempo.
-- ** D ** C'è un istante in cui entrambi gli oggetti hanno la stessa accelerazione.
+- **D** C'è un istante in cui entrambi gli oggetti hanno la stessa accelerazione.
 - Nessuna della risposte precedenti è corretta.
 
 <!--fig:start-->
@@ -258,7 +258,7 @@ Due masse $m_1$ e $m_2$, con $m_1 > m_2$, sono in caduta libera da un'altezza $h
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 4 **
+**Domanda 4**
 
 Due mass $m_1$ e $m_2$, con $m_1 > m_2$, sono in caduta libera da un'altezza $h$. Quale massa ha più energia cinetica, quando raggiunge il pavimento? Si trascuri l'attrito dell'aria.
 
@@ -434,7 +434,7 @@ Consideriamo una distanza $d$, un tempo $t$ e una forza $F$. In che caso possiam
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 8 **
+**Domanda 8**
 
 Considerate una distanza $d$, un tempo $t$ e una forza $F$. In tal caso possiamo esprimere la quantità $d^\alpha \cdot t^\beta \cdot F^\gamma$ in Watt?
 
@@ -528,7 +528,7 @@ Un campione di massa 5 kg di una data sostanza è riscaldato con una sorgente ch
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 10 **
+**Domanda 10**
 
 Un campione di massa di 5 kg di una sostanza dati è riscaldato con una sorgente che genera una calore costante di 41,9 kJ al minuto. Il grafico seguente rappresenta la temperatura in funzione del tempo. Quanto vale il calore latente di vaporizzazione della sostanza?
 
@@ -628,7 +628,7 @@ Cosa si può dire a proposito di queste affermazioni?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 11 **
+**Domanda 11**
 
 Se si considera un destinatario riempito di acqua e 4 punti diversi tutti alla stessa altezza. Facciamo le seguenti affermazioni a proposito della pressione:
 
@@ -1078,7 +1078,7 @@ Nell'immagine seguente consideriamo un oggetto e una lente convergente con un pu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 16 **
+**Domanda 16**
 
 Nella seguente immagine consideriamo un oggetto e una lente convergenza con un punto focale $F$. Un fascio di luce proveniente dall'oggetto è tracciato (in rosso). Quale dei cinque raggi rappresenta il percorso del fascio di luce dopo essere passato nella lente?
 
@@ -1121,7 +1121,7 @@ In che fattore è aumentato l'angolo critico per la riflessione totale tra un pr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 17 **
+**Domanda 17**
 
 In che modo è aumentato l'angolo critico per la riflessione totale tra un prisma fatto di vetro Flint, il prisma è un contatto con l'acqua invece dell'aria? Gli indici di rifrazione sono $n_F = 1.6$ nel vetro Flint, $n_w = 1.3$ nell'acqua e $n_a = 1.0$ nell'aria.
 
@@ -1217,7 +1217,7 @@ Quale tra i seguenti vettori indica la direzione e il senso in cui il punto $P$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 18 **
+**Domanda 18**
 
 Nella figura seguente si può vedere un impulso che si propaga verso destra in una fune. $P$ è un punto sulla fune.
 
@@ -1313,7 +1313,7 @@ Consideriamo due masse $m$ collegate tra di loro da una molla con costante $k$. 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 19 **
+**Domanda 19**
 
 Considerate le due masse $m$ collegate tra loro da una molla con costante $k$. Il sistema ha un periodo di oscillazione di 50 fs. Quanto vale ora il periodo di oscillazione se si collegano tra loro due masse $2m$?
 
@@ -1358,7 +1358,7 @@ Un elemento radioattivo ha un'attività iniziale $A_0$. Dopo 200 s la sua attivi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 20 **
+**Domanda 20**
 
 Un elemento radioattivo ha un'attività iniziale $A_0$. Dopo 200 s la sua attività è ridotta a $A_0/5$. Qual è il tempo di dimezzamento di questo elemento?
 
@@ -1527,11 +1527,11 @@ v. (1.5 pt) Determina e calcola la posizione $x_5$ in cui il blocco smette di mu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esercizio 1: Attrito (16 punti) **
+**Esercizio 1: Attrito (16 punti)**
 
 Considerando un pianoforte inclinato con una delle coordinate $xy$, si mostra in Figura 1. 1. Tutti gli origini del sistema di coordinate, fissiamo una molla ideale di costante elastica $k = 30\,\text{N/m}$ e lunghezza a riposo $l_0 = 30\,\text{cm}$. Il piano è inclinato di $\alpha = 30°$ rispetto a tutti gli orizzonti. Un blocco di massa $m = 200\,\text{g}$ viene lasciato libero da fermo sul piano inclinato e la sua posizione sarà data dalla coordinata $x$ che inizialmente dista 70 cm dall'origine del piano inclinato.
 
-** Parte A. Senza attrito (8 punti) **
+**Parte A. Senza attrito (8 punti)**
 
 In questa prima fase trascurio, ci si allontana e ci si lascia muovere liberamente il blocco.
 
@@ -1543,7 +1543,7 @@ iii. (2 p) Si determina l'energia potenziale e l'energia cinetica del blocco in 
 
 iv. (2.5 p) Determina la posizione $x_2$ in cui il blocco inverte il suo moto.
 
-**Parte B. Con attrito (8 punti) **
+**Parte B. Con attrito (8 punti)**
 
 D'ora in poi consideriamo anche l'attrito. Il coefficiente statico è $\mu_s = 0.56$ e quello dinamico è $\mu_d = 0.52$. Il blocco è piazzato nuovamente alla posizione originaria $x_A$ e rilasciato da lì.
 
@@ -1626,11 +1626,11 @@ iv. (2.5 pt) Determina la differenza di potenza $P_{\text{el}} - P_{\text{me}}$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esercizio 2: Motore elettrostatico (16 punti) **
+**Esercizio 2: Motore elettrostatico (16 punti)**
 
 La maggior parte dei motori elettrici funziona con campi magnetici. Il motore elettrostatico è un'eccezione. Il motore consiste in due quadrati di piatti e di tracce parallele, posizionati a una distanza $d$ e di lunghezza $s$. Questi piatti vengono alimentati da un generatore di tensione di tensione elettrica $U$. Al centro dei due piatti viene installato un asse rotolante alle quali sono postazioni delle barre isolanti con delle piccole piastre quadrate alle estremità (quattro). Questi piastrini sono conduttori elettrici con un lato di dimensione $b \ll s$. Ogni piastra è collegato a un filo conduttore di lunghezza $a$, con $a \ll d$ e $a \ll b$.
 
-** Parte A. Calcoli riguardanti i piatti (2 punti) **
+**Parte A. Calcoli riguardanti i piatti (2 punti)**
 
 i. (0.5 pt) Qual è il campo elettrico $E$ esistente tra i piatti? ($d \ll s$)
 
@@ -1638,7 +1638,7 @@ ii. (1 pt) Quale carica $Q$ si trova su di un piatto?
 
 iii. (0.5 pt) Qual è la densità di carica $\sigma$ sul piatto?
 
-**Parte B. Calcoli riguardanti il piccole piastre (7 punti) **
+**Parte B. Calcoli riguardanti il piccole piastre (7 punti)**
 
 Ora consideriamo la struttura completa. Si presume che la carica sui piccoli piatti sia così piccola che non abbia alcuna influenza sulla distribuzione della carica sui piatti e sul campo elettrico tra loro. Si presume inoltre che l'asse rotante e la barra isolante abbiano una capacità elettrica $\varepsilon = 1$.
 
@@ -1650,7 +1650,7 @@ iii. (2.5 p) Sia $\alpha$ l'angolo per cui l'asse è rotato. Qual è il momento 
 
 iv. (0,5 p) Il motore descritto in questa situazione iniziale (Fig. 2) un movimento? Se sì, in quale direzione? Se no, perché?
 
-** Parte C. Durante il movimento (7 punti) **
+**Parte C. Durante il movimento (7 punti)**
 
 Il motore si muove con un numero di giri costanti $f$ al minuto.
 
@@ -1734,7 +1734,7 @@ iii. (0.75 pt) Quale sarebbe il valore del rendimento del corrispondente ciclo d
 
 Un motore a quattro tempi è un tipo di motore sviluppato nella seconda metà del XIX secolo. È caratterizzato da quattro corse: aspirazione, compressione, combustione/espansione e scarico. In questo problema si sono studiati due diversi processi termodinamici: il ciclo di Otto (1876) e il ciclo di Diesel (1893). Se si trascurano le fasi di entrata e uscita del gas si inizia sempre il ciclo con un determinato volume di gas già presente nel cilindro.
 
-** Parte A. Un ciclo Otto ideale (7 punti)**
+**Parte A. Un ciclo Otto ideale (7 punti)**
 
 Il ciclo Otto è caratterizzato dalle seguenti quattro fasi:
 1. Una compressione adiabatica di un volume iniziale di gas.
@@ -1762,7 +1762,7 @@ ii. (3 pt) Determina il rendimento $\eta_D$ del ciclo Diesel in funzione delle q
 
 iii. (2.5 p) Espressione dell'efficienza $\eta_D$ in funzione di $r$, $\alpha$ e $\gamma$, dove il rapporto di combustione è $\alpha := V_3/V_2$.
 
-** Parte C. Alcuni paragoni (2 punti)**
+**Parte C. Alcuni paragoni (2 punti)**
 
 i. (0,75 pct) Supponiamo che il rapporto di compressione $r$ sia fisso. Tra il ciclo Otto e il ciclo Diesel, quale ciclo è più efficiente? Considerare i valori tipici: $r = 10$, $\alpha = 2$, $\gamma = 1.4$.
 

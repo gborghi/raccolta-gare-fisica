@@ -1558,7 +1558,7 @@ Draw a force diagram of the forces on the trailer while on horizontal ground. (1
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione E: camion a remorchio **
+**Sezione E: camion a remorchio**
 
 Un camion sta trainando un rimorchio con un dispositivo di trainaggio insolito: una molla leggera con costante molla $k = 200\,\text{N}\cdot\text{m}^{-1}$ e lunghezza naturale $\ell_0 = 1.00\,\text{m}$. Il camion si sta muovendo a una velocità costante di $v = 10.0\,\text{m}\cdot\text{s}^{-1}$ rispetto al suolo. La strada è su una collina tale che il camion percorra prima un terreno piatto e orizzontale, poi una penetrazione $\theta = 20^\circ$ rispetto all'orizzontale e poi ritorna sul terreno orizzontale. Supponiamo che il camion e il rimorchio passino senza problemi tra le diverse inclinazioni e che ogni segmento sia abbastanza lungo da raggiungere l'equilibrio del sistema. La massa del rimorchio è $m = 500\,\text{kg}$ e il coefficiente di attrito tra le ruote e il terreno è $\mu = 0.05$. Supponiamo l'accelerazione gravitazionale $g = 9.80\,\text{m}\cdot\text{s}^{-1}$.
 

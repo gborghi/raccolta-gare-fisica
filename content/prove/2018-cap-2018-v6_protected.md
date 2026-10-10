@@ -575,9 +575,9 @@ Which of the figures below best represents the $P$–$V$ diagram of the air in t
 
 La pompa mostrata di seguito è utilizzata per gonfiare una palla ed è costituita da due comparti con volumi $V_1$ e $V_2$ e due valvole unidirezionali mostrate come $A_1$ e $A_2$. Valvola a senso unico è una valvola con due modalità di funzionamento:
 
-**Modo 1: ** la valvola è aperta e vi è un flusso nella direzione indicata nella figura. Per questa modalità: $P_{\text{inflow}} = P_{\text{outflow}}$.
+**Modo 1:** la valvola è aperta e vi è un flusso nella direzione indicata nella figura. Per questa modalità: $P_{\text{inflow}} = P_{\text{outflow}}$.
 
-**Modo 2: ** la valvola è chiusa e il flusso è fermo da $P_{\text{inflow}} < P_{\text{outflow}}$.
+**Modo 2:** la valvola è chiusa e il flusso è fermo da $P_{\text{inflow}} < P_{\text{outflow}}$.
 
 Nota: la valvola a senso unico garantisce che $P_{\text{inflow}} \leq P_{\text{outflow}}$.
 

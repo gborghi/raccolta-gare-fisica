@@ -55,7 +55,7 @@ L'11 febbraio 2016 la collaborazione aLIGO (advanced Laser Interferometer Gravit
 
 Come saprai, un buco nero è un oggetto di enorme massa che crea nel suo ambiente un campo gravitazionale così intenso che nessuna particella, compresi un fotone che viaggia alla velocità della luce $c$, può sfuggire alla sua attrazione se si trova a una distanza dal suo centro inferiore a $R_s$ (radia di Schwarzschild). En primera aproximación, podemos imaginar el agujero negro como una esfera masiva de radio $R_s$.
 
-**a) ** Sosteniendo che la velocità di scarico da $R_s$ è $c$, dimostra che il raggio di Schwarzschild di un buco nero di massa $M$ è
+**a)** Sosteniendo che la velocità di scarico da $R_s$ è $c$, dimostra che il raggio di Schwarzschild di un buco nero di massa $M$ è
 
 $$R_s = \frac{2GM}{c^2}$$
 
@@ -84,7 +84,7 @@ On 11 February 2016, the collaboration with aLIGO (advanced Laser Interferometer
 
 As you know, a black hole is an object of enormous mass that creates in its environment a gravitational field so intense that no particle, including a photon traveling at the speed of light $c$, can escape its attraction if it is at a distance from its center less than $R_s$ (Schwarzschild's radius). En primera aproximación, podemos imaginar el agujero negro como una esfera masiva de radio $R_s$.
 
-**a) ** Providing that the escape velocity from the distance $R_s$ is $c$, show that the Schwarzschild radius of a black hole of mass $M$ is
+**a)** Providing that the escape velocity from the distance $R_s$ is $c$, show that the Schwarzschild radius of a black hole of mass $M$ is
 
 $$R_s = \frac{2GM}{c^2}$$
 
@@ -133,7 +133,7 @@ Estudiaremos a continuación el movimiento orbital de dos agujeros negros de igu
 
 In seguito, studiamo il movimento orbitale di due buchi neri di massa uguale $M$ che interagiscono gravitatoriamente. Supponiamo che entrambi descrivano un percorso circolare attorno al centro geometrico $O$ del sistema (centro di massa), essendo $R$ la distanza tra i loro centri (figura 3).
 
-**b) ** Determina la velocità angolare $\omega$ con cui i due corpi girano, in funzione di $G$, $M$ e $R$.
+**b)** Determina la velocità angolare $\omega$ con cui i due corpi girano, in funzione di $G$, $M$ e $R$.
 
 <!--fig:start-->
 ![[_attachments/P3_completo/P3_completo_p1_f3.png]]
@@ -150,7 +150,7 @@ In seguito, studiamo il movimento orbitale di due buchi neri di massa uguale $M$
 
 We will then study the orbital motion of two black holes of equal mass $M$ interacting gravitationally. Suponga que ambos describen una trayectoria circular en torno al centro geométrico $O$ del sistema (centro de masas), siendo $R$ la distancia entre sus centros (figura 3).
 
-**b) ** Determine the angular speed $\omega$ at which both bodies rotate, based on $G$, $M$ and $R$.
+**b)** Determine the angular speed $\omega$ at which both bodies rotate, based on $G$, $M$ and $R$.
 
 <!--fig:start-->
 ![[_attachments/P3_completo/P3_completo_p1_f3.png]]
@@ -190,7 +190,7 @@ Facciamo alcuni calcoli approssimativi, quando i buchi neri sono vicini al loro 
 
 *Aiuto:* Si noti che in ogni completa rivoluzione del sistema binario vengono emesse due cime di onde gravitazionali, in modo che la frequenza del segnale rilevato sulla Terra sia doppia della frequenza dell'orbita dei buchi neri.
 
-**c) ** Ottieni un'espressione per $\omega$ in questo caso, in funzione di $G$, $M$ e $c$.
+**c)** Ottieni un'espressione per $\omega$ in questo caso, in funzione di $G$, $M$ e $c$.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Oscillations & Waves]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -204,7 +204,7 @@ Let's do some approximate calculations, when the black holes are close to touchi
 
 *Help:* Note that at each complete revolution of the binary system two crests of gravitational waves are emitted, so that the frequency of the signal detected on Earth is twice the frequency of the orbit of black holes.
 
-**c) ** Get an expression for $\omega$ in this case, based on $G$, $M$ and $c$.
+**c)** Get an expression for $\omega$ in this case, based on $G$, $M$ and $c$.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Oscillations & Waves]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -233,7 +233,7 @@ Datos: $G = 6{,}67 \times 10^{-11}\ \text{N m}^2/\text{kg}^2$, $c = 3{,}0 \times
 
 <div class="qlang-split" data-lang="it"></div>
 
-**d) ** Calcola la massa $M$ di ogni buco nero. Esprimete il risultato in kg e masse del Sole.
+**d)** Calcola la massa $M$ di ogni buco nero. Esprimete il risultato in kg e masse del Sole.
 
 Data: $G = 6{,}67 \times 10^{-11}\ \text{N m}^2/\text{kg}^2$, $c = 3{,}0 \times 10^8\ \text{m/s}$, $M_{\text{Sol}} = 2{,}0 \times 10^{30}\ \text{kg}$.
 
@@ -245,7 +245,7 @@ Data: $G = 6{,}67 \times 10^{-11}\ \text{N m}^2/\text{kg}^2$, $c = 3{,}0 \times 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**d) ** Calculate the mass $M$ of each black hole. Express your result in kg and masses of the Sun.
+**d)** Calculate the mass $M$ of each black hole. Express your result in kg and masses of the Sun.
 
 Datos: $G = 6{,}67 \times 10^{-11}\ \text{N m}^2/\text{kg}^2$, $c = 3{,}0 \times 10^8\ \text{m/s}$, $M_{\text{Sol}} = 2{,}0 \times 10^{30}\ \text{kg}$.
 
@@ -286,7 +286,7 @@ $$P = \frac{64}{5} \frac{G^4 M^5}{c^5 R^5}$$
 
 L'orbita reale è spirale, con radio decrescente, ma si possono fare calcoli stimativi considerando la stessa orbita circolare con $R = 3R_s$ dei paragrafi precedenti. La figura 1 mostra che l'onda gravitazionale è stata emessa principalmente per un breve intervallo di tempo, dell'ordine di $\Delta t \sim 10\ \text{ms}$.
 
-**e) ** Supponendo che tutta l'energia emessa durante il processo di interazione e collasso dei buchi neri si traduca in una perdita di massa del sistema, si fa una stima di questa perdita, $\Delta M$. Esprimete il risultato in kg e masse del Sole.
+**e)** Supponendo che tutta l'energia emessa durante il processo di interazione e collasso dei buchi neri si traduca in una perdita di massa del sistema, si fa una stima di questa perdita, $\Delta M$. Esprimete il risultato in kg e masse del Sole.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Special Relativity]]
 **Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -302,7 +302,7 @@ $$P = \frac{64}{5} \frac{G^4 M^5}{c^5 R^5}$$
 
 The actual orbit is spiral, with a decreasing radius, but estimates can be made by considering the same circular orbit with $R = 3R_s$ as in the previous paragraphs. In Figure 1 it is observed that the gravitational wave was mainly emitted over a short time interval, of the order of $\Delta t \sim 10\ \text{ms}$.
 
-**e) ** Assuming that all energy emitted during the black hole interaction and collapse process results in a loss of mass of the system, estimate this loss, $\Delta M$. Express your result in kg and masses of the Sun.
+**e)** Assuming that all energy emitted during the black hole interaction and collapse process results in a loss of mass of the system, estimate this loss, $\Delta M$. Express your result in kg and masses of the Sun.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Special Relativity]]
 **Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -352,7 +352,7 @@ Nell'interferometro dell'osservatorio di Livingston, i due braccia hanno la stes
 
 Si lavora solitamente in funzione della deformazione unitaria ("strain" in inglese) definita come $h = \Delta L / L_0$, dove $\Delta L$ è la differenza tra le lunghezze delle due braccia. Questa magnitudine dimensionale $h$ è quella che appare in ordinati del grafico di figura 1, in cui si osservano chiaramente le oscillazioni di $h$ prodotte dall'arrivo dell'onda gravitazionale. L'ampiezza di questa oscillazione raggiunge il valore $h_{\max} = 10^{-21}$ quando i buchi neri iniziano a fondere.
 
-**f) ** Fai una stima della massima amplitudine di oscillazione degli bracci dell'interferometro di Livingston, $A_{\max}$, quando hai ricevuto questo segnale. Confronta il risultato con il raggio di un protone.
+**f)** Fai una stima della massima amplitudine di oscillazione degli bracci dell'interferometro di Livingston, $A_{\max}$, quando hai ricevuto questo segnale. Confronta il risultato con il raggio di un protone.
 
 Data: raggio di un protone $r_p = 0{,}88 \times 10^{-15}\ \text{m}$.
 
@@ -427,7 +427,7 @@ $$L_{\text{ef}} = N L_0 = 1100\ \text{km}$$
 
 Per concludere, descriveremo l'eccezionale sensibilità dell'apparecchio. La misurazione di un'ampiezza minima $h_{\min} = 10^{-22}$ è stata effettuata in base al grafico di cui alla figura 1.
 
-**g) ** Esprimere la sensibilità dell'apparecchio in frazioni di ordine interferenziale,
+**g)** Esprimere la sensibilità dell'apparecchio in frazioni di ordine interferenziale,
 
 $$\frac{\varphi_{\min}}{2\pi}$$
 
@@ -451,7 +451,7 @@ $$L_{\text{ef}} = N L_0 = 1100\ \text{km}$$
 
 Finally, we will characterize the extraordinary sensitivity of the apparatus. The system is capable of detecting distortions, not masked by noise, with a minimum amplitude $h_{\min} = 10^{-22}$, by looking at the graph in Figure 1.
 
-**g) ** Express the sensitivity of the instrument in fractions of interferential order,
+**g)** Express the sensitivity of the instrument in fractions of interferential order,
 
 $$\frac{\varphi_{\min}}{2\pi}$$
 

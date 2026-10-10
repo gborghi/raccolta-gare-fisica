@@ -307,8 +307,8 @@ While the distance of the flame (object) is kept same, what difference you see i
 
 Una lente convexa sferica di diametro 0,1 m e di potenza 3 dioptre viene utilizzata per produrre l'immagine di una fiamma di candela tenuta a 0,4 m dalla lente in due metodi diversi come mostrato nel fico. (visto di fronte)
 
-**Metoda A: ** 5 cm di diametro della lente è coperta al centro con carta scura e la periferia della lente è trasparente.
-**Metoda B: ** 5 cm al centro della lente è trasparente e la periferia è coperta di carta scura.
+**Metoda A:** 5 cm di diametro della lente è coperta al centro con carta scura e la periferia della lente è trasparente.
+**Metoda B:** 5 cm al centro della lente è trasparente e la periferia è coperta di carta scura.
 
 Mentre la distanza della fiamma (oggetto) è mantenuta la stessa, quale differenza vedi nella formazione dell'immagine?
 
@@ -2558,7 +2558,7 @@ Poche cellule sessuali e la maggior parte dei gametofiti femminili nucleati di u
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (interrogazioni analisiche / lunghe). ** Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
+**Sezione B (interrogazioni analisiche / lunghe).** Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
 
 (a) Sachin soffriva di un problema di acidità, quindi ha visitato un medico che gli ha consigliato di prendere 0,025 dm $^3$ di latte di magnesia per un sollievo rapido. Ha seguito esattamente quello che il dottore gli ha detto di fare. Per curiosità ha visto l'etichetta sul latte della bottiglia di magnesia e ha scoperto che ci sono diversi ingredienti scritti su di esso e la concentrazione di latte di magnesia menzionato è stata di 29 ppm. Supponendo che il volume di latte di magnesia menzionato fosse di 29 ppm e il volume di latte di magnesia, aiuta Sachin a scoprire quanto segue:
 

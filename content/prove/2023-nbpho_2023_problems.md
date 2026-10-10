@@ -221,7 +221,7 @@ Which four components (apart from the wires; there can be more than one of the s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Istrumenti: ** una scatola nera con due terminali di uscita, un multimetro, un orologio fermo, fili.
+**Istrumenti:** una scatola nera con due terminali di uscita, un multimetro, un orologio fermo, fili.
 
 La resistenza del multimetro è la seguente: quando viene utilizzato come microammetro $103.2\ \Omega$; quando viene utilizzato come millimetro $4.2\ \Omega$; quando viene utilizzato come voltmetro - più di $10\ \text{M}\Omega$. Quando viene utilizzato come voltmeter, il multimetro determina automaticamente la gamma ottimale, ma questo la rallenta; per renderla più veloce, premere il pulsante 'Range' per fissarla alla gamma corrente.
 
@@ -456,7 +456,7 @@ iv) (2 points) Calculate the surface tension of water $\sigma$. Hint: a given am
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Utili: ** una siringa, una piccola piastra di vetro, un supporto per tenere la piastra di vetro orizzontale ad un'altezza regolabile, una tazza con acqua (coefficiente di rifrazione dell'acqua $n_w = 1.33$), un calibro, un foglio di carta grafica. La vostra sala di lavoro ha luci al soffitto ad un'altezza approssimativa di 3 m. Il contenitore della piastra di vetro è un piccolo pezzo di tubo di plastica con un'aria; metti la piastra di vetro sopra la noce e gira la noce per regolare l'altezza. Girando la noce, si può cambiare l'altezza del tenitore solo per lo spessore della noce; ci sono anche noci di riserva che possono essere impilate per aumentare l'altezza totale del sistema di noce di tubo, e un tappo che si adatta alla pipa - utilizzarlo se c'è bisogno di rendere la distanza tra la piastra di vetro e la superficie sotto di esso inferiore all'altezza della pipa. **NB!** Tenere la piastra vetrata solo dalla sua parte matta e non toccare la parte lucida (trasparente) poiché le impronte digitali influiranno sul valore dell'angolo di contatto. Se per caso tocchi, chiedi agli organizzatori di pulire la superficie del vetro.
+**Utili:** una siringa, una piccola piastra di vetro, un supporto per tenere la piastra di vetro orizzontale ad un'altezza regolabile, una tazza con acqua (coefficiente di rifrazione dell'acqua $n_w = 1.33$), un calibro, un foglio di carta grafica. La vostra sala di lavoro ha luci al soffitto ad un'altezza approssimativa di 3 m. Il contenitore della piastra di vetro è un piccolo pezzo di tubo di plastica con un'aria; metti la piastra di vetro sopra la noce e gira la noce per regolare l'altezza. Girando la noce, si può cambiare l'altezza del tenitore solo per lo spessore della noce; ci sono anche noci di riserva che possono essere impilate per aumentare l'altezza totale del sistema di noce di tubo, e un tappo che si adatta alla pipa - utilizzarlo se c'è bisogno di rendere la distanza tra la piastra di vetro e la superficie sotto di esso inferiore all'altezza della pipa. **NB!** Tenere la piastra vetrata solo dalla sua parte matta e non toccare la parte lucida (trasparente) poiché le impronte digitali influiranno sul valore dell'angolo di contatto. Se per caso tocchi, chiedi agli organizzatori di pulire la superficie del vetro.
 
 i) (3 punti) Mettete una piccola goccia di acqua sulla piastra di vetro, che costituirà una lente convexa a piano. Determina la distanza focale di questa lente e misura il suo diametro.
 

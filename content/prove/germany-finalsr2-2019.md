@@ -47,7 +47,7 @@ How does the cork move relative to the bucket immediately after the rope and thr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 1  Cork in scatola (Testione MC) (5 Pt.) **
+**Testione 1  Cork in scatola (Testione MC) (5 Pt.)**
 
 Un vassoio pieno di acqua è appeso a una corda. Nel bacino, come illustrato qui, è presente una forca, fissata con un filo al fondo dell'eimer. Quando il filo viene tagliato, la forca sale sulla superficie dell'acqua. Se la corda viene tagliata dal bidone, il contenuto cade.
 
@@ -78,7 +78,7 @@ Come si muove il canne rispetto al secchio immediatamente dopo che la corda e il
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Task 1  Cork in the bucket (MC task) (5%) **
+**Task 1  Cork in the bucket (MC task) (5%)**
 
 A bucket filled with water is hung on a rope. The bucket contains, as shown below, a cork attached to the bottom of the bucket by a thread. When the thread is cut, the cork rises to the water's surface. If the rope is cut from the bucket, the bucket will fall down with content.
 
@@ -226,7 +226,7 @@ $$\text{(D)}\quad P = \frac{32}{5}\,\frac{G^4 m^5}{c^5 r^5}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 3  onde gravitazionali (Testione MC) **
+**Testione 3  onde gravitazionali (Testione MC)**
 
 La teoria della relatività generale prevede l'esistenza di onde gravitazionali, ovvero onde nella struttura dello spazio-tempo. Queste onde sono prodotte da masse accelerate e si diffondono alla velocità della luce.
 
@@ -348,7 +348,7 @@ How big is the smallest amount of current that flows through the ammeter?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 5  Fino a resistenza (Testione MC) **
+**Testione 5  Fino a resistenza (Testione MC)**
 
 **German.** Una batteria con una tensione di $9{,}0\ \text{V}$ è collegata in serie con un amperimetro ideale. Il circuito di fila può essere collegato a due angoli del cinquecento di resistenza raffigurato.
 
@@ -448,7 +448,7 @@ Which of the following circuit diagrams correctly represents the circuit used?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 7  Circuito RLC (Testione MC) **
+**Testione 7  Circuito RLC (Testione MC)**
 
 Un resistore con resistenza $R$, un condensatore di capacità $C$ e una coil di induttura $L$ sono collegati a una sorgente di voltazione alternativa. L'amplitudine della tensione di cambio è $U$ e le componenti possono essere considerate ideali.
 
@@ -773,7 +773,7 @@ In a second attempt, the recharged capacitor is unloaded over the unknown resist
 
 Determine both the capacitance of the capacitor and the resistance of the unknown resistance from the measurement values. Make a suitable graph for this.
 
-Note:** It is not known to which voltages the capacitor was charged in the two tests. In particular, the voltages in both trials may be different.
+Note: It is not known to which voltages the capacitor was charged in the two tests. In particular, the voltages in both trials may be different.
 
 The second table of data from the scarica  $I$ vs.\ $t$ per l'esperimento 1 e per l'esperimento 2  sono figure vettoriali embedded in the PDF; fare riferimento alla pagina PDF original.)
 

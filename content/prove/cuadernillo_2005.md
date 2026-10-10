@@ -50,7 +50,7 @@ c) El número de vueltas que dio el bastón
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT1 Sciatore e bastone (MCU) **
+**PT1 Sciatore e bastone (MCU)**
 
 PT1. San Miguel, Tucumán. Blu. 
  
@@ -80,7 +80,7 @@ c) Il numero di giri effettuati dal bastone
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT1 Skiing and walking (MCU) **
+**PT1 Skiing and walking (MCU)**
 
 PT1. San Miguel, Tucumán. Blue, please. 
  
@@ -147,7 +147,7 @@ sumergido del cuerpo y el volumen total del cuerpo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT2 Caneria per oggetti di legno (Bernoulli) **
+**PT2 Caneria per oggetti di legno (Bernoulli)**
 
 PT2. San Miguel, Tucumán. Blu. 
  
@@ -177,7 +177,7 @@ immersione corporea e volume totale del corpo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT2 Canaria for wood (Bernoulli) **
+**PT2 Canaria for wood (Bernoulli)**
 
 PT2. San Miguel, Tucumán. Blue, please. 
  
@@ -826,7 +826,7 @@ Sistema 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT6 Leggi di Newton (sistemi) **
+**PT6 Leggi di Newton (sistemi)**
 
 PT6. Rio Segundo, Córdoba. Blu. 
  
@@ -1565,7 +1565,7 @@ carro?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT9 Carriere in miniera (lavoro e potenza) **
+**PT9 Carriere in miniera (lavoro e potenza)**
 
 PT9. Aguilar, Tucumán. Blu e verde. 
  
@@ -1810,7 +1810,7 @@ A
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT11 Tennis with elastic pulse and shock **
+**PT11 Tennis with elastic pulse and shock**
 
 PT11. City of Buenos Aires. Blue, please. 
  
@@ -1950,7 +1950,7 @@ Considere g =  10 m/s2.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT13 Palla da scala (tiratura orizzontale) **
+**PT13 Palla da scala (tiratura orizzontale)**
 
 PT13. San Salvador, Jujuy. Blu. 
  
@@ -2007,7 +2007,7 @@ g = 10 m/s2 )
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT14 Cisterna cilindrica galleggiante (Archimedes) **
+**PT14 Cisterna cilindrica galleggiante (Archimedes)**
 
 PT14. San Salvador, Jujuy. Blu. 
  
@@ -2226,7 +2226,7 @@ hs, ¿A qué distancia de B debe colocar el balde A?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT16 Svegliatore di Kompliketti (livello) **
+**PT16 Svegliatore di Kompliketti (livello)**
 
 PT16. San Carlo di Bariloche, Rio Negro. Blu e verde. 
  
@@ -2582,7 +2582,7 @@ DATOS : g = 9,8 m/s2 - δ agua =1g/cm3
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT19 Vaso con buco (Torricelli) **
+**PT19 Vaso con buco (Torricelli)**
 
 PT19. Città di Buenos Aires. Blu. 
  
@@ -2682,7 +2682,7 @@ DATOS: Coef. de dilatación volumétrico γ mercurio =1,8.10-4 1/ºC -  Cmercuri
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT20 Vaso Pyrex con mercurio (dilatazione) **
+**PT20 Vaso Pyrex con mercurio (dilatazione)**
 
 PT20. Città di Buenos Aires. Blu. 
  
@@ -2816,7 +2816,7 @@ aria = 1
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT21 Glass with accelerated benzene, ice and refractive **
+**PT21 Glass with accelerated benzene, ice and refractive**
 
 PT21. City of Buenos Aires. Blue, please. 
  
@@ -2882,7 +2882,7 @@ calcular las tensiones T1, T2 y T3 en los cables.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT22 Sacco a tre fili (equilibrio) **
+**PT22 Sacco a tre fili (equilibrio)**
 
 PT22. Villa La Angostura, Neuquén. Blu. 
  
@@ -2958,7 +2958,7 @@ L
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT23 Densimetro (dimostrazione) **
+**PT23 Densimetro (dimostrazione)**
 
 PT23. Villa La Angostura, Neuquén. Blu. 
  
@@ -3231,7 +3231,7 @@ f) Si flota, ¿Cuánto sobresale el cilindro del agua?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT26 cilindro di alluminio galleggiante con blocco **
+**PT26 cilindro di alluminio galleggiante con blocco**
 
 PT26. - Buona erba, Tucumán. Blu. 
  
@@ -3265,7 +3265,7 @@ f) Se si naviga, quanto si estende il cilindro d'acqua?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT26 Floating aluminium cylinder with block **
+**PT26 Floating aluminium cylinder with block**
 
 PT26. It's good grass, Tucumán. Blue, please. 
  
@@ -3339,7 +3339,7 @@ necesaria? Aclarar todo los supuestos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT27 Caldazione della cabina (carbone, stufa, acqua) **
+**PT27 Caldazione della cabina (carbone, stufa, acqua)**
 
 PT27. - Buona erba, Tucumán. Blu. 
  
@@ -3372,7 +3372,7 @@ necessaria? Chiarificare tutte le ipotesi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT27 Heating of the cabin (carbon, stove, water) **
+**PT27 Heating of the cabin (carbon, stove, water)**
 
 PT27. It's good grass, Tucumán. Blue, please. 
  
@@ -3599,7 +3599,7 @@ manguera. ¿Explique fuerza debe hacer usted contra el piso para mantener la man
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT29 Mangueira con il fianco (cappello d'acqua) **
+**PT29 Mangueira con il fianco (cappello d'acqua)**
 
 PT29. Mar del Plata, Buenos Aires. Blu. 
  
@@ -3629,7 +3629,7 @@ Manubra. Spiega la forza che devi fare contro il pavimento per mantenere il tubo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT29 Water-shaped mangrove
+**PT29 Water-shaped mangrove**
 
 PT29. The city of Mar del Plata, Buenos Aires. Blue, please. 
  
@@ -3816,7 +3816,7 @@ b) el tiempo de caída total del fragmento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT32 Scalata libera per strato (ultimo secondo) **
+**PT32 Scalata libera per strato (ultimo secondo)**
 
 PT32. San Fernando, Catamarca. Blu. 
  
@@ -3977,7 +3977,7 @@ d) esquematice la situación.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT34 Rifle calibro 22 (forza e retrocesso) **
+**PT34 Rifle calibro 22 (forza e retrocesso)**
 
 PT34. - È bellissimo. Blu. 
  
@@ -4117,7 +4117,7 @@ profundidad aparente cuando se mira con incidencia normal?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT36 Rifrazione su ghiaccio (angolo limite) **
+**PT36 Rifrazione su ghiaccio (angolo limite)**
 
 PT36. - È bellissimo. Blu. 
  
@@ -4369,7 +4369,7 @@ recorrida por el auto. Hacer un gráfico de aceleración en función del tiempo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT39 Auto MRUA e rallentamento (distanza) **
+**PT39 Auto MRUA e rallentamento (distanza)**
 
 PT39. - È bellissimo. Blu. 
  
@@ -4506,7 +4506,7 @@ b) El peso del cuerpo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT41 Cubo di legno galleggiante (push) **
+**PT41 Cubo di legno galleggiante (push)**
 
 PT41. La Plata, Buenos Aires. Blu. 
  
@@ -4635,7 +4635,7 @@ de calor, calcule la variación de energía interna y el trabajo realizado sobre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT43 Gas ideale compresso (termodinamica) **
+**PT43 Gas ideale compresso (termodinamica)**
 
 PT43. Città di Buenos Aires. Verde. 
  
@@ -4730,7 +4730,7 @@ compresión máxima del nuevo resorte.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT44 Carro in loop con resor **
+**PT44 Carro in loop con resor**
 
 PT44. Città di Buenos Aires. Verde. 
  
@@ -4770,7 +4770,7 @@ compressione massima della nuova stagione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT44 Looped spring carriage **
+**PT44 Looped spring carriage**
 
 PT44. City of Buenos Aires. Green, please. 
  
@@ -4852,7 +4852,7 @@ c) ¿A que altura de la S.L. debe practicarse el orificio para que el alcance se
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT45 Orizzonte in contenitore (massimo raggiungimento) **
+**PT45 Orizzonte in contenitore (massimo raggiungimento)**
 
 PT45. Città di Buenos Aires. Verde. 
  
@@ -4973,7 +4973,7 @@ Parabola de tiro
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT46 Blocco di alluminio (lavoro, specchio, dilatazione) **
+**PT46 Blocco di alluminio (lavoro, specchio, dilatazione)**
 
 PT46. Caseros, Buenos Aires. Blu. 
  
@@ -5127,7 +5127,7 @@ de 255K. Después de un cierto tiempo en que su temperatura aumenta 3ºC se le e
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT47 Don Carlos (peso lunare, caloriometria, ghiaccio) **
+**PT47 Don Carlos (peso lunare, caloriometria, ghiaccio)**
 
 PT47. Caseros, Buenos Aires. Blu. 
  
@@ -5524,7 +5524,7 @@ Dati: δacqua = 1000 kg/cm3; δcorpo = 800 kg/cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT50 Ramp and drop-off skating **
+**PT50 Ramp and drop-off skating**
 
 PT50. San Miguel, Tucumán. Green, please. 
  
@@ -5616,7 +5616,7 @@ velocidades después del choque, y “v” velocidades antes del choque.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT51 Coefficiente di restituzione (dimostrazione) **
+**PT51 Coefficiente di restituzione (dimostrazione)**
 
 PT51. San Miguel, Tucumán. Verde. 
  
@@ -5900,7 +5900,7 @@ Número de Avogadro: N0 = 6,022 x 1023 partículas/mol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT53 Cottura immersa con riscaldamento (dilatazione, gas) **
+**PT53 Cottura immersa con riscaldamento (dilatazione, gas)**
 
 PT53. Rosario, Santa Fe. Verde. 
  
@@ -5952,7 +5952,7 @@ Numero di Avogadro: N0 = 6,022 x 1023 particelle/mol
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT53 Heated submerged container (dilation, gas) **
+**PT53 Heated submerged container (dilation, gas)**
 
 PT53. Rosario, Santa Fe. Green, please. 
  
@@ -6734,7 +6734,7 @@ resultados obtenidos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT58 Chapulin spinning splice (MCUV e tiro) **
+**PT58 Chapulin spinning splice (MCUV e tiro)**
 
 PT58. Salta. Salta. Blu. 
  
@@ -6772,7 +6772,7 @@ risultati ottenuti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT58 Chapulin spinning spike (MCUV and shot) **
+**PT58 Chapulin spinning spike (MCUV and shot)**
 
 PT58. Jump in. Blue, please. 
  
@@ -7125,7 +7125,7 @@ K(sughero).0,04 W/m(grad)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT60 Hamster on wheels (thermodynamics and friction) **
+**PT60 Hamster on wheels (thermodynamics and friction)**
 
 PT60. Jump in. Blue, please. 
  
@@ -7389,7 +7389,7 @@ permitividad del vacío: ε0 = 8,85 . 10-12 F/m
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT62 Funzionazione di elettroni tra schede (deflezione) **
+**PT62 Funzionazione di elettroni tra schede (deflezione)**
 
 PT62. Città di Buenos Aires. Verde. 
  
@@ -7460,7 +7460,7 @@ Permito del vuoto: ε0 = 8,85 . 10-12 F/m
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT62 Electron make-up between plates (deflection) **
+**PT62 Electron make-up between plates (deflection)**
 
 PT62. City of Buenos Aires. Green, please. 
  
@@ -7587,7 +7587,7 @@ nagua = 1,33
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT63 Linterna di Giovanni (geometria e lente) **
+**PT63 Linterna di Giovanni (geometria e lente)**
 
 PT63. Città di Buenos Aires. Verde. 
  
@@ -7839,7 +7839,7 @@ Ta: Temperatura ambiente = 15 oC
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT64 Regolazione termica del corpo (conduzione, radiazione) **
+**PT64 Regolazione termica del corpo (conduzione, radiazione)**
 
 PT64. Città di Buenos Aires. Blu. 
  
@@ -7986,7 +7986,7 @@ Ta: Temperatura ambiente = 15 oC
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT64 Thermal control of the body (conduct, radiation) **
+**PT64 Thermal control of the body (conduct, radiation)**
 
 PT64. City of Buenos Aires. Blue, please. 
  
@@ -8183,7 +8183,7 @@ d) Calcule la velocidad de salida del surfista en funcion de la altura de la ola
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT65 Fisica del surf (flottazione e ondate) **
+**PT65 Fisica del surf (flottazione e ondate)**
 
 PT65. Città di Buenos Aires. Blu. 
  
@@ -8366,7 +8366,7 @@ f) Calcule ∆f para f0 = 8 Mhz y v = 4, 25 m/s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT66 Ecografo (ultrasonico e effetto Doppler) **
+**PT66 Ecografo (ultrasonico e effetto Doppler)**
 
 PT66. Città di Buenos Aires. Blu. 
  
@@ -8554,7 +8554,7 @@ cabo de los 10 disparos?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT67 Rifle lancia proiettile su blocco (ripetito) **
+**PT67 Rifle lancia proiettile su blocco (ripetito)**
 
 PT67. San Miguel, Tucumán. Blu. 
  
@@ -8654,7 +8654,7 @@ C
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT68 cilindro di alluminio galleggiante con blocco (ripetito) **
+**PT68 cilindro di alluminio galleggiante con blocco (ripetito)**
 
 PT68. San Miguel, Tucumán. Blu. 
  
@@ -8766,7 +8766,7 @@ cantidad de energia necesaria? Aclarar todos los supuestos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT69 Caldazione di cabina (ripetito) **
+**PT69 Caldazione di cabina (ripetito)**
 
 PT69. San Miguel, Tucumán. Blu. 
  
@@ -8899,7 +8899,7 @@ MJosé = 80 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT70 Attraversando il fiume (vettorie e corrente) **
+**PT70 Attraversando il fiume (vettorie e corrente)**
 
 PT70. Città di Buenos Aires. Blu. 
  
@@ -8963,7 +8963,7 @@ MJosé = 80 kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT70 Crossing the river (vectors and current) **
+**PT70 Crossing the river (vectors and current)**
 
 PT70. City of Buenos Aires. Blue, please. 
  
@@ -9114,7 +9114,7 @@ FL
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT71 Controllo di pressione (calorimetria, gas, tappo) **
+**PT71 Controllo di pressione (calorimetria, gas, tappo)**
 
 PT71. Città di Buenos Aires. Blu. 
  
@@ -9341,7 +9341,7 @@ RadioLUNA  = 1740 km
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT72 Da Terra alla Luna (gravitazione) **
+**PT72 Da Terra alla Luna (gravitazione)**
 
 PT72. Città di Buenos Aires. Blu. 
  
@@ -9604,7 +9604,7 @@ G = 6,67 .10-11 N . m2 / kg2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT73 Fisica quantistica (Bohr e atomo di idrogeno) **
+**PT73 Fisica quantistica (Bohr e atomo di idrogeno)**
 
 PT73. Città di Buenos Aires. Verde. 
  
@@ -9931,7 +9931,7 @@ calor específico del agua cagua= 4190 J/kg.K calor de fusión del agua: Lf= 3,3
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT74 Giornata all'aperto (gas, conduzione, energia) **
+**PT74 Giornata all'aperto (gas, conduzione, energia)**
 
 PT74. Città di Buenos Aires. Verde. 
  
@@ -10648,7 +10648,7 @@ e) El fabricante de la pila informa que el valor de la resistencia interna r es 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT81 Pila con resistenza interna (potenza massima) **
+**PT81 Pila con resistenza interna (potenza massima)**
 
 PT81. Olivos, Buenos Aires. Blu. 
  
@@ -10876,7 +10876,7 @@ conocer como dato.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT83 Ghiaccio con piombo in galleggiamento (ghiaccio) **
+**PT83 Ghiaccio con piombo in galleggiamento (ghiaccio)**
 
 PT83. Felipe Sola, Buenos Aires. Blu. 
  
@@ -10932,7 +10932,7 @@ el peso de un cilindro de Hg de (2x) cm de altura y 1.2 cm de diámetro.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT84 Mercurio in tubo in U (oscillazione) **
+**PT84 Mercurio in tubo in U (oscillazione)**
 
 PT84. Felipe Sola, Buenos Aires. Blu. 
  
@@ -11002,7 +11002,7 @@ d- Graficar la velocidad en función del tiempo desde que ingresó a la estació
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT85 frenatura sotterranea (cinematica) **
+**PT85 frenatura sotterranea (cinematica)**
 
 PT85. Navarro, Buenos Aires. Blu. 
  
@@ -11066,7 +11066,7 @@ resultado en los tres sistemas.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT86 Cavallo trascina carro (lavoro) **
+**PT86 Cavallo trascina carro (lavoro)**
 
 PT86. Navarro, Buenos Aires. Blu. 
  
@@ -11220,7 +11220,7 @@ e) El objeto se mueve a velocidad constante.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT88 Grafico spazio-tempo (opzione multiple) **
+**PT88 Grafico spazio-tempo (opzione multiple)**
 
 PT88. San Luis. Blu. 
  
@@ -11311,7 +11311,7 @@ f) La velocidad angular del auto es la misma  en las dos curvas
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT89 Auto in rotta sinuosa (MCU comparativo) **
+**PT89 Auto in rotta sinuosa (MCU comparativo)**
 
 PT89. San Luis. Blu. 
  
@@ -11382,7 +11382,7 @@ el proyectil en tierra.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT90 Canon lancia proiettile (tiro oblicuo) **
+**PT90 Canon lancia proiettile (tiro oblicuo)**
 
 PT90. San Luis. Blu. 
  
@@ -11451,7 +11451,7 @@ c) Calcular la aceleración a la que esta sometido cada cuerpo (no hay rozamient
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT91 Tre masse unite per filo (accelerazione) **
+**PT91 Tre masse unite per filo (accelerazione)**
 
 PT91. San Luis. Blu. 
  
@@ -11629,7 +11629,7 @@ respuesta, despreciás la acción de las fuerzas de rozamiento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT93 Resorte ferma il treno (energia) **
+**PT93 Resorte ferma il treno (energia)**
 
 PT93. San Luis. Blu. 
  
@@ -11693,7 +11693,7 @@ b) ¿flota o se hunde?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT94 Blocco di alluminio in alcool (flotta o affonda) **
+**PT94 Blocco di alluminio in alcool (flotta o affonda)**
 
 PT94. San Luis. Blu. 
  
@@ -11710,7 +11710,7 @@ b) flotta o si affonda?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT94 Aluminium block in alcohol (floating or sinking) **
+**PT94 Aluminium block in alcohol (floating or sinking)**
 
 PT94. It's St. Louis. Blue, please. 
  
@@ -11753,7 +11753,7 @@ encontrás que el coeficiente de dilatación del acero es de 1,2 x 10-7 1/ºC, t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT95 Strade ferroviarie (dilatazione termico) **
+**PT95 Strade ferroviarie (dilatazione termico)**
 
 PT95. San Luis. Blu. 
  
@@ -11808,7 +11808,7 @@ e. ¿A qué velocidad debería viajar Pedro para alcanzar a Juan a los 80 Km?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT96 Giovanni e Pietro (incontro cinematografico) **
+**PT96 Giovanni e Pietro (incontro cinematografico)**
 
 PT96. Due maggio, missioni. Blu. 
  
@@ -11869,7 +11869,7 @@ d. ¿Cuánta energía cinética tiene en el momento de llegar al suelo?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT97 Avione scaricato pacchetto (energia potenziale) **
+**PT97 Avione scaricato pacchetto (energia potenziale)**
 
 PT97. Due maggio, missioni. Blu. 
  
@@ -11932,7 +11932,7 @@ del estudio de mercado?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT98 Automobile con buona accelerazione (energia, potenza) **
+**PT98 Automobile con buona accelerazione (energia, potenza)**
 
 PT98. Due maggio, missioni. Blu. 
  
@@ -11957,7 +11957,7 @@ f. Qual è la potenza che deve essere sviluppata dal motore dell'automobile per 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT98 Good acceleration vehicle (power, power) **
+**PT98 Good acceleration vehicle (power, power)**
 
 PT98. May 2nd, missions. Blue, please. 
  
@@ -12054,7 +12054,7 @@ el último  carrito
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT99 Carri con sfere cadenti (sistema accoppiato) **
+**PT99 Carri con sfere cadenti (sistema accoppiato)**
 
 PT99. Olivos, Buenos Aires. Blu. 
  
@@ -12119,7 +12119,7 @@ l'ultimo carrello
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT99 Cars with falling spheres (coupled system) **
+**PT99 Cars with falling spheres (coupled system)**
 
 PT99. Olive trees, from Buenos Aires. Blue, please. 
  
@@ -12253,7 +12253,7 @@ PISO
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT100 Arco rotativo con sfere (MCU e tiro) **
+**PT100 Arco rotativo con sfere (MCU e tiro)**
 
 PT100. Olivos, Buenos Aires. Blu. 
  
@@ -12315,7 +12315,7 @@ PISO
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT100 Spinning beam with spheres (MCU and shot) **
+**PT100 Spinning beam with spheres (MCU and shot)**
 
 PT100. Olive trees, from Buenos Aires. Blue, please. 
  
@@ -12500,7 +12500,7 @@ filo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT101 Water-based iron prism with lever **
+**PT101 Water-based iron prism with lever**
 
 PT101. Olive trees, from Buenos Aires. Blue, please. 
  
@@ -12620,7 +12620,7 @@ tiempo alcanzará la temperatura de 230ºC, si la potencia del calentador es de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT102 Calore liquido (grafico Q-T) **
+**PT102 Calore liquido (grafico Q-T)**
 
 PT102. Santiago del Estero. Blu. 
  
@@ -12757,7 +12757,7 @@ Justificar las respuestas numéricamente.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT103 Insetto tra due blocchi (Newton) **
+**PT103 Insetto tra due blocchi (Newton)**
 
 PT103. Santiago del Estero. Blu. 
  
@@ -12777,7 +12777,7 @@ Giustificare numericamente le risposte.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT103 Insect between two blocks (Newton) **
+**PT103 Insect between two blocks (Newton)**
 
 PT103. The first is the Spanish. Blue, please. 
  
@@ -12821,7 +12821,7 @@ de su recorrido, hasta llegar a dicha profundidad.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT104 Rottura e ingresso in acqua (push) **
+**PT104 Rottura e ingresso in acqua (push)**
 
 PT104. Santiago del Estero. Blu. 
  
@@ -12838,7 +12838,7 @@ dal suo percorso, fino a raggiungere tale profondità.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT104 Drop and drop into water (push) **
+**PT104 Drop and drop into water (push)**
 
 PT104. The first is the Spanish. Blue, please. 
  
@@ -12911,7 +12911,7 @@ Esquema A
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT105 Cork in acqua (forza, ascesa, altezza) **
+**PT105 Cork in acqua (forza, ascesa, altezza)**
 
 PT105. Città di Buenos Aires. Verde. 
  
@@ -13015,7 +13015,7 @@ tiene que ver con la transferencia de calor)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT106 Coppa gelata refrigerata con ghiaccio (calorimetria) **
+**PT106 Coppa gelata refrigerata con ghiaccio (calorimetria)**
 
 PT106. Città di Buenos Aires. Verde. 
  
@@ -13037,7 +13037,7 @@ di follia, morale o saldo in conto bancario. (Indicare se il motivo per cui non 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT106 Ice-cooled copper bowl (calorimetry) **
+**PT106 Ice-cooled copper bowl (calorimetry)**
 
 PT106. City of Buenos Aires. Green, please. 
  
@@ -13197,7 +13197,7 @@ persona y dónde está colocada la carga?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT108 Due persone portano carico su una barra (levante) **
+**PT108 Due persone portano carico su una barra (levante)**
 
 PT108. Eduardo Castex, La Pampa. Blu. 
  
@@ -13242,7 +13242,7 @@ PT109. Eduardo Castex, La Pampa. Azul.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT109 Miscela di acqua (calorimetria) **
+**PT109 Miscela di acqua (calorimetria)**
 
 PT109. Eduardo Castex, La Pampa. Blu. 
  
@@ -13348,7 +13348,7 @@ grande con 4 m/s.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT111 Pesce che ingoia un altro (scontro inelastico) **
+**PT111 Pesce che ingoia un altro (scontro inelastico)**
 
 PT111. Città di Córdoba. Blu. 
  
@@ -13367,7 +13367,7 @@ grande con 4 m/s.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT111 Fish that swallows another (inelastic shock) **
+**PT111 Fish that swallows another (inelastic shock)**
 
 PT111. The city of Cordoba. Blue, please. 
  
@@ -13413,7 +13413,7 @@ c) ¿ Cuál fue la variación del diámetro?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT112 Basti di ferro (dilatazione e calore) **
+**PT112 Basti di ferro (dilatazione e calore)**
 
 PT112. Città di Córdoba. Blu. 
  
@@ -13484,7 +13484,7 @@ c) ¿ Cuál será el período de este péndulo?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT113 Pendolo con chiodo (energia e periodo) **
+**PT113 Pendolo con chiodo (energia e periodo)**
 
 PT113. Città di Córdoba. Blu. 
  
@@ -13658,7 +13658,7 @@ b) ¿cuál es el estado del estaño cuando se le han entregado 3000cal?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT115 Stacco solido (calore specifico e latente) **
+**PT115 Stacco solido (calore specifico e latente)**
 
 PT115. Città di Buenos Aires. Verde. 
  
@@ -13744,7 +13744,7 @@ Pruebas Experimentales
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT116 Biconvexa e specchio concave (insieme) **
+**PT116 Biconvexa e specchio concave (insieme)**
 
 PT116. Città di Buenos Aires. Verde. 
  
@@ -14342,7 +14342,7 @@ flotación y de las masas de los cuerpos que han interactuado?.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE2 Lavorare con liquidi (densità e flottazione) **
+**PE2 Lavorare con liquidi (densità e flottazione)**
 
 PE2. Rio Segundo, Córdoba. Blu. 
  
@@ -15621,7 +15621,7 @@ lo solicitado.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE5 Velocità della sfera al pavimento (piano inclinato) **
+**PE5 Velocità della sfera al pavimento (piano inclinato)**
 
 PE5. San Salvador, Jujuy. Blu. 
  
@@ -16148,7 +16148,7 @@ Observaciones y conclusiones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE8 Variazione della velocità di movimento (forza) **
+**PE8 Variazione della velocità di movimento (forza)**
 
 PE8. Villa La Angostura, Neuquén. Blu. 
  
@@ -16667,7 +16667,7 @@ E- Resultados experimentales
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE10 Spessore di strato di graffito (resistenza) **
+**PE10 Spessore di strato di graffito (resistenza)**
 
 PE10. Mar del Plata, Buenos Aires. Blu. 
  
@@ -16950,7 +16950,7 @@ Requerimientos:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE11 Distanza focale di lente convergente (immagini) **
+**PE11 Distanza focale di lente convergente (immagini)**
 
 PE11. San Fernando, Catamarca. Blu. 
  
@@ -17660,7 +17660,7 @@ y compárelos con los que encontró en el punto anterior.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE16 Costante elastica di resorgenza (K) **
+**PE16 Costante elastica di resorgenza (K)**
 
 PE16. Città di Buenos Aires. Verde. 
  
@@ -18085,7 +18085,7 @@ il calcolo che corrobora la tua risposta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE17 Lens image forming **
+**PE17 Lens image forming**
 
 PE17. The housewives, Buenos Aires. Blue, please. 
  
@@ -18315,7 +18315,7 @@ d) Realice gráfico (con sus errores) de “ε” – √hd en función de √ha
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE18 Coefficiente di restituzione (progettazione sperimentale) **
+**PE18 Coefficiente di restituzione (progettazione sperimentale)**
 
 PE18. San Miguel, Tucumán. Verde. 
  
@@ -18665,7 +18665,7 @@ Determinar el peso específico de cada cuerpo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE20 Peso specifico dei corpi (dinamometro) **
+**PE20 Peso specifico dei corpi (dinamometro)**
 
 PE20. Santiago del Estero. Blu. 
  
@@ -18681,7 +18681,7 @@ Determinare il peso specifico di ogni corpo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE20 Specific body weight (dynamometer) **
+**PE20 Specific body weight (dynamometer)**
 
 PE20. The first is the Spanish. Blue, please. 
  
@@ -19736,7 +19736,7 @@ Y cualquier información que considere relevante
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE25 Peso specifico e Archimede (concentrazione) **
+**PE25 Peso specifico e Archimede (concentrazione)**
 
 PE25. Città di Buenos Aires. Blu. 
  
@@ -20478,7 +20478,7 @@ Materiales: Péndulo. (provisto por la cátedra).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE29 Pressione atmosferica e gravità (Torricelli e pendolo) **
+**PE29 Pressione atmosferica e gravità (Torricelli e pendolo)**
 
 PE29. Felipe Sola, Buenos Aires. Blu. 
  
@@ -20503,7 +20503,7 @@ Materiali: pendolo. (provvisato dalla cattedra).
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE29 Atmospheric pressure and gravity (Torricelli and pendulum) **
+**PE29 Atmospheric pressure and gravity (Torricelli and pendulum)**
 
 PE29. Felipe Sola, from Buenos Aires. Blue, please. 
  
@@ -20649,7 +20649,7 @@ d =
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE31 Volume e massa di oggetto irregolare (densità) **
+**PE31 Volume e massa di oggetto irregolare (densità)**
 
 PE31. Due maggio, missioni. Blu. 
  
@@ -20705,7 +20705,7 @@ d =
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE31 Volume and mass of irregular object (density) **
+**PE31 Volume and mass of irregular object (density)**
 
 PE31. May 2nd, missions. Blue, please. 
  
@@ -21734,7 +21734,7 @@ Conclusión: …………….
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE35 Spinta dei liquidi (risorsa) **
+**PE35 Spinta dei liquidi (risorsa)**
 
 PE35. Eduardo Castex, La Pampa. Blu. 
  

@@ -34,7 +34,7 @@ In an old Sherlock Holmes movie, a criminal kept a 12.5 cm long knife (mass 1 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (scelta multiple  ogni risposta corretta 1 segno, ogni risposta sbagliata −0.25) **
+**Sezione A (scelta multiple  ogni risposta corretta 1 segno, ogni risposta sbagliata −0.25)**
 
 In un vecchio film di Sherlock Holmes, un criminale teneva un coltello lungo 12,5 cm (massa 1 kg), in un libro di 15 cm di spessore (escluso lo spessore delle copertine) con una trappola a molla. La molla ha 25 giri di spessore di 1 mm ciascuno. La molla è fissata alla copertina posteriore e il coltello premere la molla al massimo quando la copertina anteriore è chiusa in modo che le curve si toccano. Il disegno è tale che se il libro viene tenuto davanti al corpo e aperto, il coltello si stacca dalla sorgente e colpisce il lettore (Sherlock Holmes in questo caso). La lunghezza non estesa della sorgente è uguale allo spessore del libro. Tuttavia, Sherlock Holmes era troppo intelligente e quindi ha aperto il libro in modo tale che il coltello volava verticalmente verso l'alto. Tutta l'energia della primavera viene data al coltello, che ha appena raggiunto il soffitto, ad un'altezza di 5 metri dalla punta del coltello e si è bloccato lì. Calcolare la costante di molla che soddisfa l'equazione $F = -kx$.
 
@@ -877,7 +877,7 @@ Then the chemicals are
 
 P, Q, R sono solidi incolori diversi, mentre S è una soluzione incolora. Sono (in ordine casuale) cloruro di sodio (NaCl), carbonato di calcio (CaCO$_3$), acido aceto (CH$_3$ COOH) e indicatore di fenolftalei. Sono state aggiunte piccole quantità di sostanze di cui sopra in coppie (ad es. P con Q, Q con R, ecc.) a una piccola quantità di acqua in un tubo di prova. Essi danno i seguenti risultati, come mostrato nella tabella di osservazione.
 
-**Tabella di osservazioni: **
+**Tabella di osservazioni:**
 
 | | P | Q | R |
 |---|---|---|---|
@@ -1486,7 +1486,7 @@ Fill the table below by selecting the correct option regarding composition of bl
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (analisi)  Le domande da 31 a 42 sono domande lunghe. Le marchi sono indicate nelle cornette. Rispondere alle domande solo nella scheda di risposta fornita.
+**Sezione B (analisi)  Le domande da 31 a 42 sono domande lunghe. Le marchi sono indicate nelle cornette. Rispondere alle domande solo nella scheda di risposta fornita.**
 
 La figura di cui sopra rappresenta la composizione del sangue umano per un indiano di 70 kg. Supponiamo che il fluido totale sia del 70% del peso corporeo totale e che la densità media del sangue intero = 1060 g/l. Con queste considerazioni si calcola ora quanto segue.
 
@@ -1552,9 +1552,9 @@ Compila la tabella di seguito selezionando l' opzione corretta per la composizio
 
 <div class="qlang-split" data-lang="it"></div>
 
-**32.A.(i) ** L'alumina si presenta in natura come corindone minerale incolore. Essendo anfetario, reagisce con acidi e alkali. Si utilizza per preparare cloruro di alluminio anidro passando gas cloro su miscela riscaldata di allumina e carbonio. Scrivi l'equazione chimica equilibrata per lo stesso. **[1.0]**
+**32.A.(i)** L'alumina si presenta in natura come corindone minerale incolore. Essendo anfetario, reagisce con acidi e alkali. Si utilizza per preparare cloruro di alluminio anidro passando gas cloro su miscela riscaldata di allumina e carbonio. Scrivi l'equazione chimica equilibrata per lo stesso. **[1.0]**
 
-**32.A.(ii) ** I doppi sali del tipo M$_2$SO$_4$.M'$_2$(SO$_4$)$_3$.24H$_2$O sono chiamati alumi. Qui M è uno ione univalente come Na$^+$, K$^+$ ecc. Mentre M' è un ione trivalente come Al$^{3+}$, Fe$^{3+}$ ecc. Alumini di potassio [K$_2$SO$_4$.Al$_2$(SO$_4$)$_3$.24H$_2$O ] l'alumini comune è prodotto da scisto di allumino contenente disulfuro di ferro e silicato di alluminio (Al$_2$O$_3$.xSiO$_2$) (che viene tostato in aria in eccesso per produrre sulfato di alluminio e sulfato ferroso. Il solfato ferroso viene rimosso mediante cristallizzazione frazionaria e una quantità calcolata di K$_2$SO$_4$ viene aggiunta al liquore madre che viene concentrato per dare cristalli di allum. Scrivi un'equazione chimica equilibrata per il tostamento di scisto di alluminio. **[2.0]**
+**32.A.(ii)** I doppi sali del tipo M$_2$SO$_4$.M'$_2$(SO$_4$)$_3$.24H$_2$O sono chiamati alumi. Qui M è uno ione univalente come Na$^+$, K$^+$ ecc. Mentre M' è un ione trivalente come Al$^{3+}$, Fe$^{3+}$ ecc. Alumini di potassio [K$_2$SO$_4$.Al$_2$(SO$_4$)$_3$.24H$_2$O ] l'alumini comune è prodotto da scisto di allumino contenente disulfuro di ferro e silicato di alluminio (Al$_2$O$_3$.xSiO$_2$) (che viene tostato in aria in eccesso per produrre sulfato di alluminio e sulfato ferroso. Il solfato ferroso viene rimosso mediante cristallizzazione frazionaria e una quantità calcolata di K$_2$SO$_4$ viene aggiunta al liquore madre che viene concentrato per dare cristalli di allum. Scrivi un'equazione chimica equilibrata per il tostamento di scisto di alluminio. **[2.0]**
 
 Per l'analisi quantitativa, gli studenti hanno ricevuto 3 g di miscela di carbonato di sodio, bicarbonato di sodio e cloruro di sodio. Hanno scoperto che, con un caldo delicato, la miscela libera 56 ml di CO$_2$ al NTP e altri 3 g della stessa miscela richiedono 30,5 ml di $N$/10 di acido cloridrico per una completa neutralizzazione. Calcolare la percentuale di cloruro di sodio. **[2.0]** [Total = 5 marchi]
 
@@ -1611,9 +1611,9 @@ Il grado di durezza è generalmente espresso in parti per milione (ppm) e può q
 
 1ppm = 1 parte di CaCO$_3$ in (10$^6$) parti di acqua.
 
-** 33.I) ** Vishal ha due campioni di acqua dura, uno contiene 2 mg di solfato di calcio e 0,5 mg di cloruro di magnesio per litro di acqua e l'altro contiene 3 mg di solfato di magnesio per kg di acqua. Calcolare il grado di durezza di entrambi i campioni. **[3.5]**
+**33.I)** Vishal ha due campioni di acqua dura, uno contiene 2 mg di solfato di calcio e 0,5 mg di cloruro di magnesio per litro di acqua e l'altro contiene 3 mg di solfato di magnesio per kg di acqua. Calcolare il grado di durezza di entrambi i campioni. **[3.5]**
 
-**33.II) ** La durezza permanente dell'acqua può essere rimossa aggiungendo soda di lavaggio, se sia la durezza temporanea che quella permanente sono presenti insieme, l'acqua viene ammorbidita aggiungendo soda caustica. Fornire eccuzioni chimiche equilibrate per ammorbidire l'acqua dura. **[1.5]** [Total = 5 marchi]
+**33.II)** La durezza permanente dell'acqua può essere rimossa aggiungendo soda di lavaggio, se sia la durezza temporanea che quella permanente sono presenti insieme, l'acqua viene ammorbidita aggiungendo soda caustica. Fornire eccuzioni chimiche equilibrate per ammorbidire l'acqua dura. **[1.5]** [Total = 5 marchi]
 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1733,7 +1733,7 @@ The allele that controls the Bar-eyed phenotype (B) is dominant over that which 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(Per la domanda I  IV, inserire solo il numero corretto della scelta nella scheda di risposta.) **
+**(Per la domanda I  IV, inserire solo il numero corretto della scelta nella scheda di risposta.)**
 
 La drosofila melanogaster (MSK1/) è una delle mosche di frutta preferita dai genetici per studiare l'eredità dei caratteri. Come gli altri insetti, il ciclo di vita di *Drosophila* è costituito da larve, pupe e adulti (vedere sotto).
 
@@ -1751,23 +1751,23 @@ Un genetista ha voluto studiare l' eredità della forma degli occhi in *Drosophi
 - b) Deve essere disponibile una linea omosigota per il personaggio.
 - c) La variazione di carattere deve essere disponibile nella popolazione.
 
-**35.II) ** Dalle informazioni fornite nella redazione, quale delle seguenti dichiarazioni è/sono corretta? **[0.5]**
+**35.II)** Dalle informazioni fornite nella redazione, quale delle seguenti dichiarazioni è/sono corretta? **[0.5]**
 - a) L'occhio di barra è un carattere mutante perché è dominante in tutto il mondo.
 - b) L'occhio di bar è un carattere mutante perché si trova raramente nella natura.
 - c) L'occhio rotondo è un carattere mutante perché domina il Bar.
 
-** 35. III) ** Un drosofila * Drosofila * potrebbe essere omosigoto (BB) o eterosigoto (Bb) per il gene che controlla la forma dell' occhio a barre. Per distinguere i due genotipi un genetista dovrebbe incrociarlo in una mosca con il genotipo **[0.5]**
+**35. III)** Un drosofila * Drosofila * potrebbe essere omosigoto (BB) o eterosigoto (Bb) per il gene che controlla la forma dell' occhio a barre. Per distinguere i due genotipi un genetista dovrebbe incrociarlo in una mosca con il genotipo **[0.5]**
 - a) BB
 - b) Bb
 - c) bb
 
-** 35. IV) ** Le variazioni dei fenotipi in *Drosophila* possono essere generate in laboratorio mediante mutagenesi. Le radiografie sono un mutageno noto. Per generare mutanti in *Drosophila* quale delle seguenti fasi del suo ciclo di vita deve essere trattata con raggi X? **[0.5]**
+**35. IV)** Le variazioni dei fenotipi in *Drosophila* possono essere generate in laboratorio mediante mutagenesi. Le radiografie sono un mutageno noto. Per generare mutanti in *Drosophila* quale delle seguenti fasi del suo ciclo di vita deve essere trattata con raggi X? **[0.5]**
 - a) uovo
 - b) Larve
 - c) Pupi
 - d) Adulto
 
-** 35.V) ** La seguente è una situazione ipotetica. Un genetista studia l'eredità della forma e del colore degli occhi in un insetto appena identificato. Come la drosofila, in questo insetto ci sono due forme oculari: rotonda e barata. Il round è dominante in questo caso. Ci sono due colori oculari: rosso e bianco, dove il rosso è dominante sul bianco. I geni per il colore degli occhi e la forma degli occhi sono presenti sugli autosomi.
+**35.V)** La seguente è una situazione ipotetica. Un genetista studia l'eredità della forma e del colore degli occhi in un insetto appena identificato. Come la drosofila, in questo insetto ci sono due forme oculari: rotonda e barata. Il round è dominante in questo caso. Ci sono due colori oculari: rosso e bianco, dove il rosso è dominante sul bianco. I geni per il colore degli occhi e la forma degli occhi sono presenti sugli autosomi.
 
 (a) Si fa un incrocio tra un insetto rosso, di occhi rotondi e un insetto bianco. Qual sarà il fenotipo della progenie F$_1$? **[0.5]**
 
@@ -1988,7 +1988,7 @@ Answer the following questions related to gamete formation.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(Fornisci solo il numero di opzione corretto nella scheda di risposta.) **
+**(Fornisci solo il numero di opzione corretto nella scheda di risposta.)**
 
 **37.A.** Spermatogenesi e oogenesis sono processi di formazione dei gameti maschili e femminili come mostrato di seguito.
 
@@ -2005,32 +2005,32 @@ Se accidentalmente l'ovocito primario viene fecondato con uno sperma, la zigota 
 - c) 3n
 - d) 4n
 
-**37.II) ** Il pezzo medio dello sperma contiene: **[0,5] **
+**37.II)** Il pezzo medio dello sperma contiene: **[0,5]**
 - a) Solo il DNA mitocondriale
 - b) Nessun DNA
 - c) Solo DNA nucleare
 - d) DNA nucleare e mitocondriale
 
-**37.III) ** La ragione più plausibile per la formazione di corpi polari durante lo sviluppo degli ovociti è **[0.5]**
+**37.III)** La ragione più plausibile per la formazione di corpi polari durante lo sviluppo degli ovociti è **[0.5]**
 - a) conservare una grande quantità di citoplasma nell'ovocito.
 - b) per conservare i cromosomi nell'uovo.
 - c) conservare sia i cromosomi che il citoplasma nell'ovocito.
 - d) mantenere la membrana ovulata essenziale per la fecondazione.
 
-**37.IV) ** Quali delle seguenti affermazioni sono vere per quanto riguarda lo sviluppo del DNA nucleare? **[0.5]**
+**37.IV)** Quali delle seguenti affermazioni sono vere per quanto riguarda lo sviluppo del DNA nucleare? **[0.5]**
 - a) Gli ovociti primari sono prodotti dopo che la femmina raggiunge la pubertà (post pubertà).
 - b) Gli ovociti primari sono già prodotti nell'ovario quando nasce una bambina.
 - c) Gli ovociti primari vengono prodotti nell'ovario poco prima che la femmina raggiunga la pubertà.
 
 **37.B.** "Tri genitori" è un concetto nuovo di creazione di embrioni utilizzando il DNA di tre persone. Questa tecnica può impedire il passaggio di malattie genetiche dovute a difetti mitocondrici da una madre ai suoi bambini. Questa tecnica prevede la rimozione del DNA nucleare da uova di donne sane e la sostituzione con il DNA nucleare della futura madre. Dopo la fecondazione, il bambino che ne deriva ereditaria il DNA nucleare della madre e il DNA mitocondriale sano del donatore. Se approvata per l'uso, la tecnica consentirebbe a una donna di dare alla luce un bambino che erediterebbe il normale DNA nucleare ma non il DNA mitocondriale difettoso.
 
-**37.C) ** Il concetto di madre tripla comprende: **[0,5]**
+**37.C)** Il concetto di madre tripla comprende: **[0,5]**
 - a) Tre femmine e nessun requisito di maschio.
 - b) un maschio e due femmine in cui l'altro genitore (donatore femmina) non è geneticamente coinvolto.
 - c) un maschio e due femmine che contribuiscono tutti geneticamente.
 - d) Una femmina e due maschi, tutti geneticamente contribuenti.
 
-** 37.D) ** Qui di seguito sono riportate poche affermazioni relative alla tecnica del triplo genitore. Segnalatelo come vero (T) o falso (F), identificandolo come affermazioni corrette o errate. **[2.5]**
+**37.D)** Qui di seguito sono riportate poche affermazioni relative alla tecnica del triplo genitore. Segnalatelo come vero (T) o falso (F), identificandolo come affermazioni corrette o errate. **[2.5]**
 - a) Questa tecnica può essere utile anche per i padri con geni mitocondriali difettosi.
 - b) La tecnica non funzionerà per la madre o il padre con geni nucleari difettosi.
 - c) Il bambino prodotto dalla tecnica contiene alcuni geni stranieri di un terzo genitore.
@@ -2188,38 +2188,38 @@ The labeled region designated as 'A' in the figure above is/are the epidermal ce
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(Per la domanda III  VI, inserire solo il numero di opzione corretto nella scheda di risposta.) **
+**(Per la domanda III  VI, inserire solo il numero di opzione corretto nella scheda di risposta.)**
 
 <!--fig:start-->
 **Quesito 40**
 ![[INJSO2017-Question_p19_f19.png]]
 <!--fig:end-->
 
-**40.I) ** Quali delle seguenti affermazioni sono TRUE o FALSE per lo stato 1 e lo stato 2? **[0.75]**
+**40.I)** Quali delle seguenti affermazioni sono TRUE o FALSE per lo stato 1 e lo stato 2? **[0.75]**
 - a) Il stato 1 è osservato specificamente sulla superficie adassiale della foglia mesofetica durante il giorno.
 - b) Lo stato 2 si ottiene quando le cellule di guardia assorbono l' umidità dalla cavità sub-stomataria.
 - c) Lo spessore disunibile della parete cellulare di guardia favorisce il movimento stomatico.
 
-**40.II) ** Quando uno dei numeri e riempire i vuoti. **[1.75]**
-La regione etichettata designata come "A" nella figura di cui sopra è/sono la cellula epidermale con (i) ___ (cloroplast/modoplast/leucoplast), durante il giorno (la regione etichettata come "A") produce carboidrati mediante il processo di (ii) ___ (chemosintesi/fotosintesi/respirazione). Questo (iii) ___ (aumenta/diminuisce) il potenziale idrico della regione "A" **. L'acqua entra nella cellula con (iv) ___ (endosmosi/diffusione/pinocitosi) in cui l'acqua passa da (v) ___ (potenziale superiore/inferio) all'acqua (vi) ___ (potenziale superiore/inferio). Ora, la regione **B** raggiunge lo stato 1 a causa di (vii) ___ (aumento/diminuizione) della turgidità.
+**40.II)** Quando uno dei numeri e riempire i vuoti. **[1.75]**
+La regione etichettata designata come "A" nella figura di cui sopra è/sono la cellula epidermale con (i) ___ (cloroplast/modoplast/leucoplast), durante il giorno (la regione etichettata come "A") produce carboidrati mediante il processo di (ii) ___ (chemosintesi/fotosintesi/respirazione). Questo (iii) ___ (aumenta/diminuisce) il potenziale idrico della regione "A" **. L'acqua entra nella cellula con (iv) ___ (endosmosi/diffusione/pinocitosi) in cui l'acqua passa da (v) ___ (potenziale superiore/inferio) all'acqua (vi) ___ (potenziale superiore/inferio). Ora, la regione** B raggiunge lo stato 1 a causa di (vii) ___ (aumento/diminuizione) della turgidità.
 
-**40.III) ** Chiusura dello stomaco è probabile che provochi i seguenti cambiamenti fisiologici EXCETTO **[0.25] **
+**40.III)** Chiusura dello stomaco è probabile che provochi i seguenti cambiamenti fisiologici EXCETTO **[0.25]**
 - a) Diminuzione del tasso di fotosintesi.
 - b) Diminuzione del tasso di traspirazione.
 - diminuzione del tasso di fissazione dell'azoto.
 - d) Riduzione del tasso di assorbimento dell'acqua.
 
-**40.IV) ** Quale delle seguenti indicazioni rappresenta la corretta affermazione sulla tonicalità dell'ambiente intorno alla cellula A nello stato 1? **[0.25]**
+**40.IV)** Quale delle seguenti indicazioni rappresenta la corretta affermazione sulla tonicalità dell'ambiente intorno alla cellula A nello stato 1? **[0.25]**
 - a) L'ambiente è ipertonico rispetto alla cellula A.
 - b) L'ambiente è ipotonicamente elevato rispetto alla cellula A.
 - c) L'ambiente è isotonica rispetto alla cellula A.
 
-**40.V) ** Potenziale dell'acqua è la differenza di energia libera o potenziale chimico per unità di volume molare di acqua in un sistema rispetto a quella di acqua pura alla stessa temperatura e pressione. Il potenziale idrico dell'acqua pura a temperatura e pressione normali è zero. Tale valore è considerato il più alto. La presenza di particelle solide riduce l'energia libera dell'acqua e riduce il potenziale dell'acqua. Pertanto, il potenziale idrico di una soluzione è sempre inferiore a zero o ha un valore negativo. Se il potenziale idrico (Ψ) di una cellula vegetale è a lungo termine. Stato 1 significa che la cella è in un periodo di tempo prolungato. Stato 2 significa che la cellula è in un periodo di tempo prolungato. Stato 1 significa che la cella è in un periodo di tempo prolungato. **[0.5]**
+**40.V)** Potenziale dell'acqua è la differenza di energia libera o potenziale chimico per unità di volume molare di acqua in un sistema rispetto a quella di acqua pura alla stessa temperatura e pressione. Il potenziale idrico dell'acqua pura a temperatura e pressione normali è zero. Tale valore è considerato il più alto. La presenza di particelle solide riduce l'energia libera dell'acqua e riduce il potenziale dell'acqua. Pertanto, il potenziale idrico di una soluzione è sempre inferiore a zero o ha un valore negativo. Se il potenziale idrico (Ψ) di una cellula vegetale è a lungo termine. Stato 1 significa che la cella è in un periodo di tempo prolungato. Stato 2 significa che la cellula è in un periodo di tempo prolungato. Stato 1 significa che la cella è in un periodo di tempo prolungato. **[0.5]**
 - a) Lo stoma rimane nello stato 1 per un periodo prolungato di tempo.
 - b) Lo stoma rimane nello stato 2 per un periodo prolungato di tempo.
 - c) Il poro stomatico viene bloccato dalla sostanza chimica.
 
-**40.VI) ** Il potenziale idrico (Ψ) di una cellula vegetale è a lungo termine. Quando il potenziale idrico (Ψ) della cellula di una pianta è di −2,0 bar e quello dell'acqua distillata è misurato come 0,0 MPa e il potenziale idrico (Ψ) di una soluzione di glucosio di 0,2 M è di −0,23 MPa, cosa accadrà se le cellule di guardia vengono collocate in una soluzione di glucosio di 0,1 M. **[0.25]**
+**40.VI)** Il potenziale idrico (Ψ) di una cellula vegetale è a lungo termine. Quando il potenziale idrico (Ψ) della cellula di una pianta è di −2,0 bar e quello dell'acqua distillata è misurato come 0,0 MPa e il potenziale idrico (Ψ) di una soluzione di glucosio di 0,2 M è di −0,23 MPa, cosa accadrà se le cellule di guardia vengono collocate in una soluzione di glucosio di 0,1 M. **[0.25]**
 - a) Il glucosio fluirà nelle cellule di guardia.
 - b) L'acqua scorrera' nella cella di guardia.
 - c) L'acqua scaturirà dalla cella di guardia.

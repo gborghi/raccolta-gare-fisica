@@ -121,7 +121,7 @@ Il modello di Ising è un'approssimazione semplice per il ferromagnetismo. Prend
 
 1. Inizia con una griglia 2D di dimensioni $L\times L$, dove ogni sito rappresenta uno spin che può essere $+1$ o $-1$. La configurazione iniziale è assegnata a caso.
 
-2. **Calcolo dell'energia: ** Per ogni rotazione in posizione $(i, j)$, calcolare il cambiamento di energia ($\Delta E$) se la rotazione è ribaltata. Questo viene fatto considerando l'interazione del spin con i suoi vicini più vicini. Il cambiamento di energia $\Delta E$ (in assenza di un campo esterno) è dato da:
+2. **Calcolo dell'energia:** Per ogni rotazione in posizione $(i, j)$, calcolare il cambiamento di energia ($\Delta E$) se la rotazione è ribaltata. Questo viene fatto considerando l'interazione del spin con i suoi vicini più vicini. Il cambiamento di energia $\Delta E$ (in assenza di un campo esterno) è dato da:
 
 $$\Delta E = 2J \times \text{spin} \times \left( \sum_{\text{neighbors}} \text{spin} \right)$$
 
@@ -173,19 +173,19 @@ Per la terza cella:
 
 Per le seguenti domande, inserisci la cifra con incertezza se del caso, il tuo ragionamento e eventuali grafici se del caso.
 
-**a) ** Trova il valore di $T_c$ e spiega quali criteri hai utilizzato.
+**a)** Trova il valore di $T_c$ e spiega quali criteri hai utilizzato.
 
-**b) ** Tenendo costante il campo magnetico esterno, tracciare l'energia $E$ del sistema in funzione della temperatura.
+**b)** Tenendo costante il campo magnetico esterno, tracciare l'energia $E$ del sistema in funzione della temperatura.
 
-**c) ** Indicare la capacità termico $C$ del sistema in funzione della temperatura. Quali sono i valori massimi e minimi?
+**c)** Indicare la capacità termico $C$ del sistema in funzione della temperatura. Quali sono i valori massimi e minimi?
 
 Una transizione di fase è di primo ordine di temperatura se l'energia è discontinuo, di secondo ordine se l'energia è continua ma la sua prima derivata è discontinuo, ecc. Qual è l'ordine della transizione di fase qui?
 
 Considerate la magnetizzazione netta $M = \mu \sum_{i=1}^{N} s_i$ del sistema.
 
-**d) ** A temperature leggermente inferiori a $T_c$, $M$ può essere approssimato a $M = \alpha |T_c - T|^{\beta}$. Trova i valori per $\alpha$ e $\beta$.
+**d)** A temperature leggermente inferiori a $T_c$, $M$ può essere approssimato a $M = \alpha |T_c - T|^{\beta}$. Trova i valori per $\alpha$ e $\beta$.
 
-**e) ** Set $T = T_c$. Tracciare come la magnetizzazione netta reagisce come $B$ è variabile. Qualitativamente, cosa osservate? Che cosa succede se $T < T_c$?
+**e)** Set $T = T_c$. Tracciare come la magnetizzazione netta reagisce come $B$ è variabile. Qualitativamente, cosa osservate? Che cosa succede se $T < T_c$?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xBX7TuxvS-YlGte3lVlK2k8J-1UtiXj_/view)
 

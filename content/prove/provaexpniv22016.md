@@ -70,7 +70,7 @@ multímetro. (2 pontos)
 
 <div class="qlang-split" data-lang="it"></div>
 
-** multimetro. (di 2 punti)
+multimetro. (di 2 punti)
 
 2. Scrivere il valore della resistenza fissa tramite codice colore e misurazione diretta con
 - Multimetro. (2 punti)
@@ -156,7 +156,7 @@ numa figura. (4 pontos)
 
 <div class="qlang-split" data-lang="it"></div>
 
-** in una figura. (4, punti) **
+**in una figura. (4, punti)**
 
 4. Montaggiare un circuito con resistenza fissa in serie con la fonte, mettere il circuito
 - in una figura. (4 punti)

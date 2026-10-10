@@ -169,7 +169,7 @@ Le forme di tali bastone in varie condizioni di confine sono state elaborate da 
 > ![[PLANCKS_2015_p2_f1.png]]
 > *Figura 1: disegni di Euler 1744 delle elastica.*
 
-**(2.1) ** *[3 punti] * Estimare questo angolo utilizzando un approccio a una linea circolare. Si può approssimare il ciclo di lacrime con due linee che si toccano ad una estremità e sono collegate attraverso una sezione circolare all'altra estremità. Supponiamo che la lunghezza totale della goccia sia costante. Questo problema di minimizzazione rilevante può essere risolto analiticamente (in relazione all'angolo). Qual è l'angolo ottimale?
+**(2.1)** *[3 punti] * Estimare questo angolo utilizzando un approccio a una linea circolare. Si può approssimare il ciclo di lacrime con due linee che si toccano ad una estremità e sono collegate attraverso una sezione circolare all'altra estremità. Supponiamo che la lunghezza totale della goccia sia costante. Questo problema di minimizzazione rilevante può essere risolto analiticamente (in relazione all'angolo). Qual è l'angolo ottimale?
 
 > ![[PLANCKS_2015_p2_f2.png]]
 > *Figura 2: Configurazione di una catena vermiforme.*
@@ -185,11 +185,11 @@ Considerando ora il caso di cui sopra, il caso di un polimero perfettamente fles
 > ![[PLANCKS_2015_p2_f3.png]]
 > *Figura 3: La catena di freature connessioni.*
 
-**(2.2) ** *[1 punto] * Calcolare il valore $a$ delle r.h.s. sono soluzioni dell'equazione di Legendre, il vettore di distanza da estremità a estremità $\vec R$ della catena polimerica in termini di vettori di legame.
+**(2.2)** *[1 punto] * Calcolare il valore $a$ delle r.h.s. sono soluzioni dell'equazione di Legendre, il vettore di distanza da estremità a estremità $\vec R$ della catena polimerica in termini di vettori di legame.
 
-**(2.3) ** *[1 punto] * Determinare per questo modello polimerico la distanza media quadrata di fine a fine $\langle R^2 \rangle = \langle \vec R^2 \rangle = \left\langle \left(\sum_{i=1}^N \vec r_i\right)^2 \right\rangle$. Suggerimento: utilizzare i fatti che ogni obbligazione ha una lunghezza fissa, $\langle \vec r_i^2 \rangle = b^2$, e che i diversi obbligazioni non sono correlati tra loro, ovvero $\langle \vec r_i \cdot \vec r_j \rangle = 0$ per $i \neq j$.
+**(2.3)** *[1 punto] * Determinare per questo modello polimerico la distanza media quadrata di fine a fine $\langle R^2 \rangle = \langle \vec R^2 \rangle = \left\langle \left(\sum_{i=1}^N \vec r_i\right)^2 \right\rangle$. Suggerimento: utilizzare i fatti che ogni obbligazione ha una lunghezza fissa, $\langle \vec r_i^2 \rangle = b^2$, e che i diversi obbligazioni non sono correlati tra loro, ovvero $\langle \vec r_i \cdot \vec r_j \rangle = 0$ per $i \neq j$.
 
-**(2.4) ** *[1 punto] * Lungi catene vermiche con $L \gg l_P$ sembrano catene flessibili su grandi scale di lunghezza. Mostra questo confrontando le espressioni per $\langle R^2 \rangle$ da 2.2 e 2.3.
+**(2.4)** *[1 punto] * Lungi catene vermiche con $L \gg l_P$ sembrano catene flessibili su grandi scale di lunghezza. Mostra questo confrontando le espressioni per $\langle R^2 \rangle$ da 2.2 e 2.3.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yO0cxulTSMyIYtGXkAQr8Z5jsgxPPXFl/view)
 **Topic:** [[Elasticity & Materials]], [[Mathematics]]
@@ -236,13 +236,13 @@ Considerate un slinky (cioè: una sorgente aperta flessibile) sospesa dalla sua 
 > ![[PLANCKS_2015_p3_f1.png]]
 > *Figura 1.*
 
-**(3.1) ** *[1 punto] * Descrivere la forma (verticale) del pendolo in riposo (quadro sinistro). Suggerimento: indicare i punti sul slinky con una variabile senza dimensioni $x$, che va da $x = 0$ in basso a $x = l$ in alto e descrivere la sua forma specificando l'altezza $L(x)$ di ogni segmento sopra il fondo del slinky.
+**(3.1)** *[1 punto] * Descrivere la forma (verticale) del pendolo in riposo (quadro sinistro). Suggerimento: indicare i punti sul slinky con una variabile senza dimensioni $x$, che va da $x = 0$ in basso a $x = l$ in alto e descrivere la sua forma specificando l'altezza $L(x)$ di ogni segmento sopra il fondo del slinky.
 
-**(3.2) ** *[1 punto] * Spiegare in parole perché il pesce si comporta come fa quando cade.
+**(3.2)** *[1 punto] * Spiegare in parole perché il pesce si comporta come fa quando cade.
 
-**(3.3) ** *[1 punto] * Quanto tempo ci vorrà prima che la parte superiore del slinky raggiunga il fondo del slinky? Come si confronta questo risultato con il tempo di caduta di un piccolo oggetto che cade dalla stessa altezza $L$?
+**(3.3)** *[1 punto] * Quanto tempo ci vorrà prima che la parte superiore del slinky raggiunga il fondo del slinky? Come si confronta questo risultato con il tempo di caduta di un piccolo oggetto che cade dalla stessa altezza $L$?
 
-**(3.4) ** *[1 punto] * Derivare equazioni (non è necessario risolverle) per descrivere la distanza $\Delta L(t)$ percorsa dalla parte superiore del slinky in un momento $t$ dopo il "lancio", fino al momento in cui raggiunge la parte inferiore del slinky.
+**(3.4)** *[1 punto] * Derivare equazioni (non è necessario risolverle) per descrivere la distanza $\Delta L(t)$ percorsa dalla parte superiore del slinky in un momento $t$ dopo il "lancio", fino al momento in cui raggiunge la parte inferiore del slinky.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1yO0cxulTSMyIYtGXkAQr8Z5jsgxPPXFl/view)
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
@@ -784,9 +784,9 @@ $$
 
 **Problemi.**
 
-**(7.1) ** * [6 punti] * Per un dato valore della conduttività $G$, presumendo che sappiamo che ci sono canali $N$ ($N = 1, 2, 3, \dots$), determinare il valore massimo per la potenza rumorosa. Indicare anche i valori dei valori di trasmissione di questa soluzione.
+**(7.1)** * [6 punti] * Per un dato valore della conduttività $G$, presumendo che sappiamo che ci sono canali $N$ ($N = 1, 2, 3, \dots$), determinare il valore massimo per la potenza rumorosa. Indicare anche i valori dei valori di trasmissione di questa soluzione.
 
-**(7.2) ** * [6 punti] * Per un dato valore della conduttività $G$, presumendo che si sappiano che ci sono N canali ($N = 1, 2, 3, \dots$), determinare il minimo assoluto per la potenza del rumore. Indicare anche i valori dei valori di trasmissione di questa soluzione.
+**(7.2)** * [6 punti] * Per un dato valore della conduttività $G$, presumendo che si sappiano che ci sono N canali ($N = 1, 2, 3, \dots$), determinare il minimo assoluto per la potenza del rumore. Indicare anche i valori dei valori di trasmissione di questa soluzione.
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1yO0cxulTSMyIYtGXkAQr8Z5jsgxPPXFl/view)
 **Topic:** [[Modern-Quantum Physics]], [[Mathematics]]
@@ -837,17 +837,17 @@ Un'idea selvaggia nella tecnologia spaziale considera la possibilità di spinger
 > ![[PLANCKS_2015_p8_f1.png]]
 > *Figura.*
 
-**(8.1) ** *[2 punti] * Calcolare l'accelerazione iniziale $a_0$ della vela solare quando la normalità delle vele punta verso il sole e confrontarla con la forza centrifugante in tutti i punti verso il sole nel caso in cui il sole punta sempre verso il sole. Solo nell'ultima domanda consideriamo diversi orientamenti.
+**(8.1)** *[2 punti] * Calcolare l'accelerazione iniziale $a_0$ della vela solare quando la normalità delle vele punta verso il sole e confrontarla con la forza centrifugante in tutti i punti verso il sole nel caso in cui il sole punta sempre verso il sole. Solo nell'ultima domanda consideriamo diversi orientamenti.
 
-**(8.2) ** *[1 punto] * Quanto tempo la vela trascorrerà per fuggire dal sole calcolando la sua velocità di fuga a $r = 2.49 \cdot 10^9$ km, $149\,$m, cioè Come prima approssimazione approssimativa, supponiamo che questa accelerazione sia costante?
+**(8.2)** *[1 punto] * Quanto tempo la vela trascorrerà per fuggire dal sole calcolando la sua velocità di fuga a $r = 2.49 \cdot 10^9$ km, $149\,$m, cioè Come prima approssimazione approssimativa, supponiamo che questa accelerazione sia costante?
 
-**(8.3) ** *[1 punto]* Successivamente, derivare l'equazione di evoluzione completa per la distanza $r(t)$, utilizzando la meccanica classica per determinare la distanza massima della vela.
+**(8.3)** *[1 punto]* Successivamente, derivare l'equazione di evoluzione completa per la distanza $r(t)$, utilizzando la meccanica classica per determinare la distanza massima della vela.
 
-**(8.4) ** *[2 punti] * Sketta la quantità angolare che $\theta$ rappresenta?
+**(8.4)** *[2 punti] * Sketta la quantità angolare che $\theta$ rappresenta?
 
-**(8.5) ** *[2 punti]* Utilizzare le relazioni indicate sopra, calcolare lo stato dopo lo scartatore di fascia. Qual è la probabilità di trovare il fotone in entrambi i fattori di uscita?
+**(8.5)** *[2 punti]* Utilizzare le relazioni indicate sopra, calcolare lo stato dopo lo scartatore di fascia. Qual è la probabilità di trovare il fotone in entrambi i fattori di uscita?
 
-**(8.6) ** *[2 punti] * Come cambierebbe l'esito dell'esperimento descritto in 4 se i fotoni fossero * non * identici? Considerate il caso di due fotoni che hanno lunghezze d'onda diverse, chiamati rosso e blu per semplicità. In questo caso, gli operatori di creazione dovrebbero essere indicizzati con la proprietà del fotone.
+**(8.6)** *[2 punti] * Come cambierebbe l'esito dell'esperimento descritto in 4 se i fotoni fossero * non * identici? Considerate il caso di due fotoni che hanno lunghezze d'onda diverse, chiamati rosso e blu per semplicità. In questo caso, gli operatori di creazione dovrebbero essere indicizzati con la proprietà del fotone.
 
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1yO0cxulTSMyIYtGXkAQr8Z5jsgxPPXFl/view)
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]

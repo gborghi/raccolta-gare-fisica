@@ -194,7 +194,7 @@ Fig. I-C-1. Magnet $M_A$ is located beneath the intersection of the two lines ma
 
 ### Componenti sperimentali
 
-**Sett-C per componenti comuni: **
+**Sett-C per componenti comuni:**
 
  etichettare gli articoli  quantità 
 |---|---|---|
@@ -211,7 +211,7 @@ Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'
 
 ![Componenti comuni di Set-C](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p1_f1.png)
 
-**Sett-I per l'esperimento-I: **
+**Sett-I per l'esperimento-I:**
 
  etichettare gli articoli  quantità 
 |---|---|---|
@@ -224,7 +224,7 @@ Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'
 
 ![Componenti del set-I](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p2_f1.png)
 
-**Instruzioni per il generatore di onde sinologiche: **
+**Instruzioni per il generatore di onde sinologiche:**
 
 - Il pulsante di alimentazione, non mostrato nella foto, è sul lato destro dello strumento.
 - Il "Panel di visualizzazione" mostra la frequenza dell'onda sinusa di uscita.
@@ -236,7 +236,7 @@ Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'
 
 ![Panel di generatore di onde](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p3_f1.png)
 
-**Sett II per l'esperimento-II: **
+**Sett II per l'esperimento-II:**
 
  etichettare gli articoli  quantità 
 |---|---|---|
@@ -264,7 +264,7 @@ Non sono utilizzati i punti II-L-#, II-M e II-V.
 
 L'esperimento I. Sonda di forza magnetica
 
-**Introduzione **
+**Introduzione**
 
 Come mostrato nella figura. I-1, l'estremità libera di una canna può oscillarsi in direzione verticale quando è guidata da una forza oscillante esterna, e la sua frequenza è determinata dal conducente esterno. Se tracciamo la potenza media dissipata nella canna vibratrice, che ha determinati meccanismi di attenuazione, come funzione di frequenza, possiamo trovare una potenza massima dissipata a una certa frequenza chiamata frequenza di risonanza $f_R$, come illustrato nella figura. I-2. La nitidezza della risonanza è descritta dal fattore di qualità $Q$ come:
 
@@ -312,9 +312,9 @@ Fig. - Cosa? I-A-1. Impostazione sperimentale per la ricerca della frequenza di 
 
 Fig. - Cosa? I-A-2. La trama schematica di Fig. I-A-1.
 
-**(1) ** Misurare l'ampiezza $A$ del punto del fascio laser oscillante modificando la frequenza del generatore di onde sinusoide. Registrare l'ampiezza misurata come funzione di frequenza nella tabella di dati della scheda di risposta. *(0,8 punti) *
+**(1)** Misurare l'ampiezza $A$ del punto del fascio laser oscillante modificando la frequenza del generatore di onde sinusoide. Registrare l'ampiezza misurata come funzione di frequenza nella tabella di dati della scheda di risposta. *(0,8 punti) *
 
-**(2) ** Fare un grafico corretto su una delle carte grafiche fornite per determinare la frequenza di risonanza $f_{RO}$ e il fattore di qualità $Q$. Inoltre, registrare i $f_{RO}$ e $Q$ ottenuti nei spazi vuoti appropriati sulla scheda delle risposte. *(1,2 punti) *
+**(2)** Fare un grafico corretto su una delle carte grafiche fornite per determinare la frequenza di risonanza $f_{RO}$ e il fattore di qualità $Q$. Inoltre, registrare i $f_{RO}$ e $Q$ ottenuti nei spazi vuoti appropriati sulla scheda delle risposte. *(1,2 punti) *
 
 - Esplosione. I-B. Frequenza di risonanza contro la forza esterna
 
@@ -330,17 +330,17 @@ Fig. - Cosa? I-B-1. Impostazione sperimentale per la determinazione della relazi
 
 Fig. - Cosa? I-B-2. La trama schematica di Fig. I-B-1.
 
-**(1) ** Sulla scala del schematico verticale, leggere la posizione $z_0$ del piano inferiore del magnete di punta $M_T$ senza l'interazione di $M_C$ spostandosi correttamente $M_C$ lontano da $M_T$. Registrare la misura $z_0$ nella tabella dei dati. *(0,2 punti) *
+**(1)** Sulla scala del schematico verticale, leggere la posizione $z_0$ del piano inferiore del magnete di punta $M_T$ senza l'interazione di $M_C$ spostandosi correttamente $M_C$ lontano da $M_T$. Registrare la misura $z_0$ nella tabella dei dati. *(0,2 punti) *
 
-**(2) ** Aggiusta la posizione del magnete $M_C$ per essere proprio sotto $M_T$. Gli assi dei poli di entrambi i magneti devono essere allineati lungo la stessa linea verticale. Determinare la posizione $z$ del piano superiore del polo N di $M_C$. Calcolare la distanza nominale $d$ definendo $d = z_0 - z$. Registrare $z$ e $d$ nella tabella dati. (Nota: la separazione di equilibrio tra i due magneti non è la stessa di $d$ perché i due magneti si respingono a vicenda.)
+**(2)** Aggiusta la posizione del magnete $M_C$ per essere proprio sotto $M_T$. Gli assi dei poli di entrambi i magneti devono essere allineati lungo la stessa linea verticale. Determinare la posizione $z$ del piano superiore del polo N di $M_C$. Calcolare la distanza nominale $d$ definendo $d = z_0 - z$. Registrare $z$ e $d$ nella tabella dati. (Nota: la separazione di equilibrio tra i due magneti non è la stessa di $d$ perché i due magneti si respingono a vicenda.)
 
-**(3) ** Determinare la frequenza di risonanza $f_R$ per la distanza $d$ regolare la frequenza del generatore di onde sinusoide fino a raggiungere l'ampiezza massima, il tracciamento di amplitudine contro frequenza non è necessario per determinare $f_R$ di ogni distanza $d$. Registrare la frequenza di risonanza determinata $f_R$ nella tabella dei dati.
+**(3)** Determinare la frequenza di risonanza $f_R$ per la distanza $d$ regolare la frequenza del generatore di onde sinusoide fino a raggiungere l'ampiezza massima, il tracciamento di amplitudine contro frequenza non è necessario per determinare $f_R$ di ogni distanza $d$. Registrare la frequenza di risonanza determinata $f_R$ nella tabella dei dati.
 
-**(4) ** Cambiare la posizione verticale del magnete $M_C$ e ripetere i passaggi (2) e (3) per un certo numero di misurazioni di distanze diverse $d$ e della corrispondente frequenza di risonanza $f_R$. *(1,2 punti) *
+**(4)** Cambiare la posizione verticale del magnete $M_C$ e ripetere i passaggi (2) e (3) per un certo numero di misurazioni di distanze diverse $d$ e della corrispondente frequenza di risonanza $f_R$. *(1,2 punti) *
 
-**(5) ** Tracciare un grafico di $f_R$ come funzione di distanza $d$ utilizzando una carta grafica. Guidando con gli occhi, tracciate la linea migliore attraverso i punti dati. *(1,2 punti) *
+**(5)** Tracciare un grafico di $f_R$ come funzione di distanza $d$ utilizzando una carta grafica. Guidando con gli occhi, tracciate la linea migliore attraverso i punti dati. *(1,2 punti) *
 
-**(6) ** Definire $\Delta f_R = f_R - f_{RO}$ e tracciare $\ln(\Delta f_R)$ come funzione di $d$ utilizzando un'altra carta grafica. Guidando con gli occhi, tracciate la linea migliore attraverso i punti dati. *(1,0 punti) *
+**(6)** Definire $\Delta f_R = f_R - f_{RO}$ e tracciare $\ln(\Delta f_R)$ come funzione di $d$ utilizzando un'altra carta grafica. Guidando con gli occhi, tracciate la linea migliore attraverso i punti dati. *(1,0 punti) *
 
 - Esplosione. I-C. Trovare le posizioni e le profondità dei magneti all'interno di una scatola nera
 
@@ -350,13 +350,13 @@ Sono entrati due magneti $M_A$ e $M_B$ nella scatola nera (I-H-#) che è fissata
 
 Fig. - Cosa? I-C-1. Il magnete $M_A$ si trova sotto l'intersezione delle due linee segnate sulla superficie superiore, mentre il magnete $M_B$ si trova da qualche parte lungo la linea più lunga.
 
-**(1) ** Sulla scala del schematico verticale, leggere la posizione $z_0$ (in questa parte, $z_0$ può essere diversa dalla $z_0$ di Exp. I-B) del piano inferiore del magnete di punta $M_T$ senza l'interazione dei magneti all'interno della scatola nera. Sulla scala del cartone scivolante verticale, leggere la posizione $z_{box}$ del piano superiore della scatola nera. Registrare $z_0$ e $z_{box}$ sulla scheda delle risposte. *(0,2 punti) *
+**(1)** Sulla scala del schematico verticale, leggere la posizione $z_0$ (in questa parte, $z_0$ può essere diversa dalla $z_0$ di Exp. I-B) del piano inferiore del magnete di punta $M_T$ senza l'interazione dei magneti all'interno della scatola nera. Sulla scala del cartone scivolante verticale, leggere la posizione $z_{box}$ del piano superiore della scatola nera. Registrare $z_0$ e $z_{box}$ sulla scheda delle risposte. *(0,2 punti) *
 
-**(2) ** Spostare la scatola nera lungo la linea più lunga e osservare la variazione della frequenza di risonanza $f_R$ del canna per trovare la posizione di $M_B$. Registrare le distanze misurate $y$ e le loro corrispondenti frequenze di risonanza $f_R$ nella tabella dati. *(1,4 punti) *
+**(2)** Spostare la scatola nera lungo la linea più lunga e osservare la variazione della frequenza di risonanza $f_R$ del canna per trovare la posizione di $M_B$. Registrare le distanze misurate $y$ e le loro corrispondenti frequenze di risonanza $f_R$ nella tabella dati. *(1,4 punti) *
 
-**(3) ** Inserire $f_R$ come funzione di $y$ su una carta grafica per determinare la posizione del magnete $M_B$. Segnalare le posizioni dei magneti $M_A$ e $M_B$ sull'asse $y$ del grafico e scrivere il valore di $\overline{AB}$ sulla scheda di risposta. *(1,2 punti) *
+**(3)** Inserire $f_R$ come funzione di $y$ su una carta grafica per determinare la posizione del magnete $M_B$. Segnalare le posizioni dei magneti $M_A$ e $M_B$ sull'asse $y$ del grafico e scrivere il valore di $\overline{AB}$ sulla scheda di risposta. *(1,2 punti) *
 
-**(4) ** Determina le profondità $d_A$ e $d_B$ dei magneti $M_A$ e $M_B$ dalla superficie superiore della scatola nera utilizzando i risultati di Exp. I-B. Scrivere i valori di $d_A$ e $d_B$ sulla scheda delle risposte. *(1,6 punti) *
+**(4)** Determina le profondità $d_A$ e $d_B$ dei magneti $M_A$ e $M_B$ dalla superficie superiore della scatola nera utilizzando i risultati di Exp. I-B. Scrivere i valori di $d_A$ e $d_B$ sulla scheda delle risposte. *(1,6 punti) *
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19HHuYSy0G8SUJqM1aPkXqd9n6_9erRdC/view)
 **Topic:** [[Oscillations & Waves]], [[Magnetism]]
@@ -533,9 +533,9 @@ Rettifica la posizione P1 secondo la descrizione del paragrafo precedente. Carat
 
 Fig. - Cosa? IIA-3. Configurazione sperimentale per la caratterizzazione del PC.
 
-**(1) ** Definire $\theta_P$ come angolo relativo tra gli assi di polarizzazione di P1 e P2. Variando l'angolo $\theta_P$ da $0^\circ$ a $180^\circ$ in passo $5^\circ$. Registrare la resistenza misurata del PC e $\theta_P$ nella tabella dei dati. Trasformare i valori di resistenza del PC misurati in valori di conduttività e registrarli nella tabella dati. Non è necessaria alcuna analisi degli errori. *(1,2 punti) *
+**(1)** Definire $\theta_P$ come angolo relativo tra gli assi di polarizzazione di P1 e P2. Variando l'angolo $\theta_P$ da $0^\circ$ a $180^\circ$ in passo $5^\circ$. Registrare la resistenza misurata del PC e $\theta_P$ nella tabella dei dati. Trasformare i valori di resistenza del PC misurati in valori di conduttività e registrarli nella tabella dati. Non è necessaria alcuna analisi degli errori. *(1,2 punti) *
 
-**(2) ** Tracciare i valori di conduttività del PC come funzione di $\theta_P$ su una carta grafica. Non è necessaria alcuna analisi degli errori. *(1,2 punti) *
+**(2)** Tracciare i valori di conduttività del PC come funzione di $\theta_P$ su una carta grafica. Non è necessaria alcuna analisi degli errori. *(1,2 punti) *
 
 - Esplosione. II-B. La frazione della luce laser polarizzata lineare
 
@@ -549,23 +549,23 @@ $J_{max}$ e $J_{min}$ sono l'intensità massima e minima di luce rilevata dal PC
 
 Fig. - Cosa? IIA-2. La preparazione è stata organizzata in modo sperimentale.
 
-**(1) ** Trovare i valori massimi e minimi della resistenza PC ($R_{max}$ e $R_{min}$) rotando P1 $360^\circ$. Trasformare $R_{max}$ e $R_{min}$ in valori minimi e massimi di conduttività del PC $C_{min}$ e $C_{max}$. Registrare i dati nella tabella dati. *(0,8 punti) *
+**(1)** Trovare i valori massimi e minimi della resistenza PC ($R_{max}$ e $R_{min}$) rotando P1 $360^\circ$. Trasformare $R_{max}$ e $R_{min}$ in valori minimi e massimi di conduttività del PC $C_{min}$ e $C_{max}$. Registrare i dati nella tabella dati. *(0,8 punti) *
 
-**(2) ** Utilizzando la conduttività contro $\theta_P$ grafico in Exp. II-A-(2) per determinare le intensità relative $J_{max}$ e $J_{min}$ corrispondenti a $C_{max}$ e $C_{min}$. Scrivi il risultato sulla scheda delle risposte. *(1,6 punti) *
+**(2)** Utilizzando la conduttività contro $\theta_P$ grafico in Exp. II-A-(2) per determinare le intensità relative $J_{max}$ e $J_{min}$ corrispondenti a $C_{max}$ e $C_{min}$. Scrivi il risultato sulla scheda delle risposte. *(1,6 punti) *
 
-**(3) ** Calcolare $\beta$ e scrivere il risultato sulla scheda delle risposte. *(0,2 punti) *
+**(3)** Calcolare $\beta$ e scrivere il risultato sulla scheda delle risposte. *(0,2 punti) *
 
 - Esplosione. II-C. L'efficienza quantistica differenziale della dioda laser collimata
 
 Il compito di questa parte è quello di caratterizzare l'intensità relativa della luce rispetto alla corrente attraverso il diodo laser collimato (CLD) e determinare l'efficienza quantistica differenziale $\eta$, che sarà definita di seguito. Controllare la corrente di CLD nell'intervallo tra 5 mA e 20 mA. Assicurarsi che il PC non sia saturo quando la corrente è vicina a 20 mA. Per evitare la saturazione possono essere utilizzati filtri o polarizzatori.
 
-**(1) ** Controlla la corrente CLD e misura i valori di resistenza PC corrispondenti. Registrare i dati nella tabella dati. Trasforma i dati e disegna la conduttività del PC contro la corrente CLD su una carta grafica. Non è necessaria alcuna analisi degli errori. *(1,3 punti) *
+**(1)** Controlla la corrente CLD e misura i valori di resistenza PC corrispondenti. Registrare i dati nella tabella dati. Trasforma i dati e disegna la conduttività del PC contro la corrente CLD su una carta grafica. Non è necessaria alcuna analisi degli errori. *(1,3 punti) *
 
-**(2) ** Sulla base del grafico di passo (1), scegliere una regione ($\Delta I \sim 3$ mA) incentrata intorno alla pendice massima. Utilizzando il grafico di conduttività contro $\theta_P$ nella parte II-A-(2), trasforma e registra i dati di questa regione nella tabella del passo (1) in intensità relativa della luce ($J$). Tracciare l'intensità relativa della luce ($J$) rispetto alla corrente CLD ($I$) su una carta grafica. Non è necessaria alcuna analisi degli errori. *(0,8 punti) *
+**(2)** Sulla base del grafico di passo (1), scegliere una regione ($\Delta I \sim 3$ mA) incentrata intorno alla pendice massima. Utilizzando il grafico di conduttività contro $\theta_P$ nella parte II-A-(2), trasforma e registra i dati di questa regione nella tabella del passo (1) in intensità relativa della luce ($J$). Tracciare l'intensità relativa della luce ($J$) rispetto alla corrente CLD ($I$) su una carta grafica. Non è necessaria alcuna analisi degli errori. *(0,8 punti) *
 
-**(3) ** Si presume che la potenza radiante massima del CLD sia esattamente $P_{max} = 3.0$ mW. Estrazione della pendenza massima dal grafico in fase (2) e trasferimento al valore di $G \equiv \dfrac{\Delta P_{max}}{\Delta I}$, che è il rapporto massimo tra l'aumento della potenza radiante e l'aumento della corrente di ingresso. Scrivi la tua analisi e il valore calcolato $G$ sulla scheda delle risposte. Calcolare l'errore di $G$. Non include l'errore di $P_{max}$. Scrivi la tua analisi e il valore calcolato $\Delta G$ sulla scheda delle risposte. *(2,0 punti) *
+**(3)** Si presume che la potenza radiante massima del CLD sia esattamente $P_{max} = 3.0$ mW. Estrazione della pendenza massima dal grafico in fase (2) e trasferimento al valore di $G \equiv \dfrac{\Delta P_{max}}{\Delta I}$, che è il rapporto massimo tra l'aumento della potenza radiante e l'aumento della corrente di ingresso. Scrivi la tua analisi e il valore calcolato $G$ sulla scheda delle risposte. Calcolare l'errore di $G$. Non include l'errore di $P_{max}$. Scrivi la tua analisi e il valore calcolato $\Delta G$ sulla scheda delle risposte. *(2,0 punti) *
 
-**(4) ** L'efficienza quantistica è uguale alla probabilità che un fotone venga generato per ogni elettrone iniettato. Da una particolare corrente di bias del laser, un piccolo incremento di elettroni iniettati causerebbe un corrispondente incremento di fotoni. L'efficienza quantistica differenziale $\eta$ è definita come il rapporto tra l'aumento del numero di fotoni e l'aumento del numero di elettroni iniettati. Determina il $\eta$ della tua DCC utilizzando il valore di $G$ ottenuto nella fase (3). Scrivi la tua analisi e il valore calcolato $\eta$ sulla scheda delle risposte. Calcolare l'errore di $\eta$. Scrivi la tua analisi e il valore calcolato $\Delta\eta$ sulla scheda delle risposte. (Lenghe d'onda laser = 650 nm. Costante di Planck = $6.63 \times 10^{-34}\ \text{J}\cdot\text{s}$. Velocità della luce = $3.0 \times 10^{8}\ \text{m/s}$.) *(0,9 punti) *
+**(4)** L'efficienza quantistica è uguale alla probabilità che un fotone venga generato per ogni elettrone iniettato. Da una particolare corrente di bias del laser, un piccolo incremento di elettroni iniettati causerebbe un corrispondente incremento di fotoni. L'efficienza quantistica differenziale $\eta$ è definita come il rapporto tra l'aumento del numero di fotoni e l'aumento del numero di elettroni iniettati. Determina il $\eta$ della tua DCC utilizzando il valore di $G$ ottenuto nella fase (3). Scrivi la tua analisi e il valore calcolato $\eta$ sulla scheda delle risposte. Calcolare l'errore di $\eta$. Scrivi la tua analisi e il valore calcolato $\Delta\eta$ sulla scheda delle risposte. (Lenghe d'onda laser = 650 nm. Costante di Planck = $6.63 \times 10^{-34}\ \text{J}\cdot\text{s}$. Velocità della luce = $3.0 \times 10^{8}\ \text{m/s}$.) *(0,9 punti) *
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18hGZEiCFfniXxRYxdc87AWE8QqKoAbgP/view)
 **Topic:** [[Modern-Quantum Physics]], [[Wave Optics]]

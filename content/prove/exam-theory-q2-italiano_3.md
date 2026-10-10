@@ -304,7 +304,7 @@ Assume for the maximum $T_1$ the value found in D.4, the numerical value for $P_
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Geometry of two sheets at a distance d
+**p.4**  Geometry of two sheets at a distance d
 ![[_attachments/exam-theory-Q2-italiano_3/exam-theory-Q2-italiano_3_p4_f4.png]]
 <!--fig:end-->
 

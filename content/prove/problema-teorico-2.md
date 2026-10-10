@@ -139,13 +139,13 @@ Un certo tempo dopo aver assorbito il fotone l'atomo può emettere un fotone in 
 
 Some time after absorbing the photon the atom can emit a photon in the direction $-x$.
 
-**(2a) ** Write in the laboratory reference the energy $\varepsilon_{-}$ of the photon emitted in the direction $-x$.
+**(2a)** Write in the laboratory reference the energy $\varepsilon_{-}$ of the photon emitted in the direction $-x$.
 
-**(2b) ** Write in the laboratory reference the amount of motion $q_{-}$ of the photon emitted in the direction $-x$.
+**(2b)** Write in the laboratory reference the amount of motion $q_{-}$ of the photon emitted in the direction $-x$.
 
-**(2c) ** Write in the laboratory reference the amount of motion $p_{2-}$ of the atom after the photon emission process in the direction $-x$.
+**(2c)** Write in the laboratory reference the amount of motion $p_{2-}$ of the atom after the photon emission process in the direction $-x$.
 
-**(2d) ** Write in the laboratory reference system the total energy of the atom, $E_{2-}$, after the emission process in the direction $-x$ has taken place.
+**(2d)** Write in the laboratory reference system the total energy of the atom, $E_{2-}$, after the emission process in the direction $-x$ has taken place.
 
 **Topic:** [[Modern-Quantum Physics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
@@ -188,11 +188,11 @@ Un certo tempo dopo l'assorbimento del fotone incidente l'atomo può emettere in
 
 Some time after the absorption of the incident photon the atom can instead emit a photon in the direction $+x$.
 
-**(3a) ** Write in the laboratory reference the energy $\varepsilon_{+}$ of the photon emitted in the direction $+x$.
+**(3a)** Write in the laboratory reference the energy $\varepsilon_{+}$ of the photon emitted in the direction $+x$.
 
-**(3b) ** Write in the laboratory reference the amount of motion $q_{+}$ of the photon emitted in the direction $+x$.
+**(3b)** Write in the laboratory reference the amount of motion $q_{+}$ of the photon emitted in the direction $+x$.
 
-**(3c) ** Write in the laboratory reference the amount of motion $p_{2+}$ of the atom after the photon emission process in the direction $+x$.
+**(3c)** Write in the laboratory reference the amount of motion $p_{2+}$ of the atom after the photon emission process in the direction $+x$.
 
 Write in the laboratory reference system the total energy of the atom, $E_{2+}$, after the emission process in the direction $+x$ has taken place.
 
@@ -279,7 +279,7 @@ In a complete process of absorption and emission of a photon of the type describ
 
 Write down the mean change in energy of the atom, $\langle\Delta E\rangle$, after a complete process of absorption and emission of a photon.
 
-**(5b) ** Write the mean change in the amount of motion of an atom, $\langle\Delta p\rangle$, after a complete process of photonic absorption and emission.
+**(5b)** Write the mean change in the amount of motion of an atom, $\langle\Delta p\rangle$, after a complete process of photonic absorption and emission.
 
 **Topic:** [[Modern-Quantum Physics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
@@ -347,7 +347,7 @@ Write down the mean change in the amount of motion of an atom, $\langle\Delta p\
 
 Part II: Disposition and first foundations of the Otic Melas
 
-We know there's uncertainty in quantum processes. So the fact that the atom can spontaneously emit a photon in a finite amount of time after absorption has the consequence that the resonance condition does not have to be met exactly as it has been done so far. This means that the frequencies of the $\nu_L^{(+)}$ and $\nu_L^{(-)}$ laser beams can have any value and the absorptionemission process does however take place. These processes occur with different (quantum) probabilities and, as one might expect, the maximum probability will be with the exact resonance conditions. The average time between a single absorption process and the emission process is called the ** mean life** of the atom's state at the excited energy level and is indicated by $\tau$.
+We know there's uncertainty in quantum processes. So the fact that the atom can spontaneously emit a photon in a finite amount of time after absorption has the consequence that the resonance condition does not have to be met exactly as it has been done so far. This means that the frequencies of the $\nu_L^{(+)}$ and $\nu_L^{(-)}$ laser beams can have any value and the absorptionemission process does however take place. These processes occur with different (quantum) probabilities and, as one might expect, the maximum probability will be with the exact resonance conditions. The average time between a single absorption process and the emission process is called the **mean life** of the atom's state at the excited energy level and is indicated by $\tau$.
 
 It now considers a certain amount of $N$ atoms at rest in the laboratory reference system, and also considers a laser beam of light with frequency $\nu_L$ that affects the atoms. Atoms absorb and emit continuously so that on average there are $N_e$ atoms in the excited state (and therefore $N - N_e$ atoms are in the minimum energy base state). A calculation made using quantum mechanics results in the following result:
 
@@ -395,7 +395,7 @@ The following information is provided for in the Annex to this Regulation: Two l
 
 #### 7. Force exerted on the atomic beam by lasers
 
-**(7a) ** Taking into account the information so far, it determines the force that lasers exert on the beam of atoms. Devi assumere che $v \ll c$.
+**(7a)** Taking into account the information so far, it determines the force that lasers exert on the beam of atoms. Devi assumere che $v \ll c$.
 
 **Topic:** [[Newtonian Mechanics]], [[Modern-Quantum Physics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -482,7 +482,7 @@ Based on this last result, determine the conditions under which radiation can ac
 
 In the case of a negative force the effect is that of a dissipative friction force. Suppose that at the beginning, at the instant $t = 0$, the atomic gas has a velocity $v_0$. Also with the low speed limit it finds the speed of the atoms after the laser beams have acted on them for a time interval $t$.
 
-**9b) ** Now suppose that the gas of atoms is in thermal equilibrium at $T_0$. Find the temperature $T$ after the laser beams have been acting for a time interval $t$.
+**9b)** Now suppose that the gas of atoms is in thermal equilibrium at $T_0$. Find the temperature $T$ after the laser beams have been acting for a time interval $t$.
 
 > This model is however not valid when temperatures are reached at arbitrarily low temperatures.
 

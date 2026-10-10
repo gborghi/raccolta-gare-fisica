@@ -97,13 +97,13 @@ dove $\rho$ è la distanza dal centro del fascio e $W_0$ è nota come la cintura
 
 L'OT cattura le particelle tramite tre forze diverse: **forze di dispersione** create dal cambiamento di impulso della luce dispersa o assorbita da una particella; **forze gradienti** dovute alla polarizzazione della particella creata dai forti campi elettrici del raggio laser; e, **forze di radiazione** prodotte da una carica accelerante. La potenza totale irradiata da un dipolo elettrico oscillante con momento di dipolo $p_0$ alla frequenza $\omega$ sarà $P_R = \dfrac{\mu_0 p_0^2 \omega^4}{12\pi c}$, dove $c$ è la velocità della luce.
 
-**1. (6 pts.) ** nello spettro di Rayleigh, la dimensione della nanosfera è tale che $\lambda \gg R$. Trova la frequenza di oscillazione $\Omega$ e la posizione di equilibrio della nanosfera quando si spostano leggermente una distanza $d \ll W_0$ nella direzione $x$. Lascia perdere le forze di dispersione in questa parte.
+**1. (6 pts.)** nello spettro di Rayleigh, la dimensione della nanosfera è tale che $\lambda \gg R$. Trova la frequenza di oscillazione $\Omega$ e la posizione di equilibrio della nanosfera quando si spostano leggermente una distanza $d \ll W_0$ nella direzione $x$. Lascia perdere le forze di dispersione in questa parte.
 
 Nel spettro di Mie, la dimensione delle particelle non è più trascurabile come nella parte A, e segue $R \gtrsim \lambda$. [1] Di conseguenza, si verifica un campo elettrico non omogeneo sulla sfera e le forze di dispersione non sono più trascurabili. Le parti B e C esamineranno la nanosfera nello spettro Mie.
 
 [^1]: L'ordine di grandezza di $R$ è maggiore di $\lambda$.
 
-**2. (5 punti) ** Determinare la forza di dispersione e la coppia sulla nanosfera in funzione della distanza $x \ll W_0$ dalla sua origine. Possiamo considerare $x \sim R$. Supponiamo che il 100% della luce sia trasmesso per semplicità. [2] L'indice di rifrazione della nanosfera è $n$ mentre l'indice di rifrazione del mezzo è $m$. Se necessario, potete esprimere la vostra risposta come un'integrale.
+**2. (5 punti)** Determinare la forza di dispersione e la coppia sulla nanosfera in funzione della distanza $x \ll W_0$ dalla sua origine. Possiamo considerare $x \sim R$. Supponiamo che il 100% della luce sia trasmesso per semplicità. [2] L'indice di rifrazione della nanosfera è $n$ mentre l'indice di rifrazione del mezzo è $m$. Se necessario, potete esprimere la vostra risposta come un'integrale.
 
 [^2]: In realtà, una certa luce si rifletterà a causa delle equazioni di Fresnel.
 
@@ -121,7 +121,7 @@ Nelle onde sonore, le perturbazioni di densità sono molto piccole, quindi si pu
 
 [^4]: Non è possibile utilizzare $\Delta\rho$ come variabile in questo problema, ma è possibile utilizzare $\rho_0$.
 
-**5. (4 pts.) ** A causa della compressione, l'aria all'interno dell'onda sonora ha una temperatura superiore $\Delta T \ll T_0$. Trova il cambiamento di temperatura $\Delta T$. Se non è stato possibile risolvere il problema 4, esprimere la potenza media per spostare il pistone come $P$.
+**5. (4 pts.)** A causa della compressione, l'aria all'interno dell'onda sonora ha una temperatura superiore $\Delta T \ll T_0$. Trova il cambiamento di temperatura $\Delta T$. Se non è stato possibile risolvere il problema 4, esprimere la potenza media per spostare il pistone come $P$.
 
 **6. (2 pts.)** Considerare un piccolo oggetto cilindrico di raggio $R < \sqrt{S}$ e larghezza $h \ll R$ nel tubo in cui le variazioni di pressione sulla superficie del cilindro sono trascurabili. Determinare la forza $F$ che agisce sul cilindro quando l'onda sonora lo attraversa. Se il tubo è posizionato su un piano verticale in cui è presente la gravità, descrivere qualitativamente quale posizione (s) il cilindro leviterebbe.
 
@@ -197,19 +197,19 @@ Note: although relativistic effects cannot be ignored, you can assume that the e
 
 T2: Thomas Precession
 
-** Trasformazioni successive**
+**Trasformazioni successive**
 
 In questa sezione, esaminiamo cosa succede quando due successive trasformazioni di Lorentz vengono applicate in direzioni non parallele.
 
-**1. (6 punti) ** Considerate i tre quadri di riferimento $S_1$, $S_2$ e $S_3$. Gli eventi osservati dal quadro $S_i$ saranno etichettati con le coordinate spazio-tempo $(x_i, y_i, z_i, t_i)$, per $i = 1, 2, 3$. Tutti e tre i quadri coincidono a $(0, 0, 0, 0)$. Supponiamo che il telaio $S_2$ viaggi con velocità $\beta c$ nella direzione $x_1$ del telaio $S_1$ e che il telaio $S_3$ viaggi con velocità $\beta'_x c\,\hat{i}_2 + \beta'_y c\,\hat{j}_2$ rispetto al telaio $S_2$.
+**1. (6 punti)** Considerate i tre quadri di riferimento $S_1$, $S_2$ e $S_3$. Gli eventi osservati dal quadro $S_i$ saranno etichettati con le coordinate spazio-tempo $(x_i, y_i, z_i, t_i)$, per $i = 1, 2, 3$. Tutti e tre i quadri coincidono a $(0, 0, 0, 0)$. Supponiamo che il telaio $S_2$ viaggi con velocità $\beta c$ nella direzione $x_1$ del telaio $S_1$ e che il telaio $S_3$ viaggi con velocità $\beta'_x c\,\hat{i}_2 + \beta'_y c\,\hat{j}_2$ rispetto al telaio $S_2$.
 
 Eseguire due trasformazioni di Lorentz successive: una che esprime le coordinate $S_3$ in termini di coordinate $S_2$ e un'altra che esprime le coordinate $S_2$ in termini di coordinate $S_1$. In seguito, come risposta finale, esprimere le coordinate $S_3$ in termini di coordinate $S_1$.
 
 Supponiamo che $\beta' = (\beta'^2_x + \beta'^2_y)^{1/2} \ll \beta$ e lavoriamo al primo ordine.
 
-**2. Ora, trovare la velocità di $S_3$ in $S_1$ con la velocità di aggiunta appropriata. Eseguire una sola trasformazione di Lorentz per esprimere le coordinate $S_3$ in termini di coordinate $S_1$. Ancora una volta, lavoro a primo ordine. La risposta non sarà la stessa della parte 1.
+**2. Ora, trovare la velocità di $S_3$ in $S_1$ con la velocità di aggiunta appropriata. Eseguire una sola trasformazione di Lorentz per esprimere le coordinate $S_3$ in termini di coordinate $S_1$. Ancora una volta, lavoro a primo ordine. La risposta non sarà la stessa della parte 1.**
 
-**3. (3 punti) ** Mostra che la tua risposta al problema 1 differisce dalla tua risposta al problema 2 mediante una rotazione spaziale. In altre parole, due trasformazioni di Lorentz successive in direzioni non parallele non possono essere combinate come una sola trasformazione di Lorentz. Piuttosto, sono la combinazione di una trasformazione di Lorentz e una rotazione spaziale. Determinare la grandezza e la direzione di questa rotazione spaziale nell'impostazione corrente.
+**3. (3 punti)** Mostra che la tua risposta al problema 1 differisce dalla tua risposta al problema 2 mediante una rotazione spaziale. In altre parole, due trasformazioni di Lorentz successive in direzioni non parallele non possono essere combinate come una sola trasformazione di Lorentz. Piuttosto, sono la combinazione di una trasformazione di Lorentz e una rotazione spaziale. Determinare la grandezza e la direzione di questa rotazione spaziale nell'impostazione corrente.
 
 Quindi, discutete e spiegate perché la risposta al problema 1 e non al problema 2 è la giusta trasformazione.
 
@@ -223,13 +223,13 @@ che viene determinata da un esperimento.
 
 In questa sezione, useremo il modello di Bohr dell'atomo di idrogeno, dove l'elettrone circonda il protone a un certo raggio $r$, tirato in con la forza di Coulomb.
 
-**4. (3 pts.) ** Nel quadro di laboratorio, l'elettrone orbita il protone con una certa velocità $v$ nel piano $x$-$y$. Ora passare al sistema di riposo istantaneo dell'elettrone, dove il protone si muove a velocità $v$ rispetto all'elettrone fermo. Il protone in movimento indurrà quindi un campo magnetico nella posizione dell'elettrone.
+**4. (3 pts.)** Nel quadro di laboratorio, l'elettrone orbita il protone con una certa velocità $v$ nel piano $x$-$y$. Ora passare al sistema di riposo istantaneo dell'elettrone, dove il protone si muove a velocità $v$ rispetto all'elettrone fermo. Il protone in movimento indurrà quindi un campo magnetico nella posizione dell'elettrone.
 
 Supponiamo che il momento angolare di spin degli elettroni punti in una direzione diversa dalla direzione del campo magnetico. Poiché l'elettrone possiede anche un momento magnetico spin, precesserà a causa della coppia che viene fatta su di esso. Trova la frequenza angolare della precisione dello spin dell'elettrone in termini di $r$ e di qualsiasi costante fondamentale.
 
 Ignorare qualsiasi effetto relativistico.
 
-**5. (6 punti) ** Questo problema utilizzerà la risposta della parte 1. Ancora una volta, supponiamo che l'elettrone sia in orbita nel piano $x$-$y$.
+**5. (6 punti)** Questo problema utilizzerà la risposta della parte 1. Ancora una volta, supponiamo che l'elettrone sia in orbita nel piano $x$-$y$.
 
 Considerate il frame di riposo istantaneo dell'elettrone in un certo momento $t$, $S_2$. Si consideri anche il quadro di riposo istantaneo dell'elettrone in un certo momento $t + dt$, $S_3$. Relativamente al telaio di laboratorio, $S_1$, $S_2$ avrà velocità $v$. $S_3$ avrà una velocità $dv$ rispetto a $S_2$, ma $v$ e $dv$ non saranno parallele.
 
@@ -237,7 +237,7 @@ Il risultato della parte 1 ci dice che $S_3$ sperimenterà una rotazione infinit
 
 Nota: sebbene gli effetti relativistici non possano essere ignorati, si può presumere che la velocità dell'elettrone $v$ non sia paragonabile alla velocità della luce nel calcolo.
 
-**6. (2 punti) ** Combina le risposte delle parti 4 e 5 e trova la frequenza angolare relativisticamente corretta della precisione dello spin dell'elettrone.
+**6. (2 punti)** Combina le risposte delle parti 4 e 5 e trova la frequenza angolare relativisticamente corretta della precisione dello spin dell'elettrone.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1vwaHW04dv8bo2hUUEJuXjUgvw6pE-BiS/view)
 **Topic:** [[Special Relativity]], [[Modern-Quantum Physics]]
@@ -297,7 +297,7 @@ Supponiamo di avere tre cilindri, due cilindri piccoli e un cilindro grande, di 
 
 **1. (4 pts.)** La lavagna è spostata con velocità $v$ in direzione perpendicolare agli assi dei cilindri. Trova la velocità del sistema cilindrico.
 
-**2. (5 pts.) ** La massa dei cilindri piccoli e grandi è rispettivamente $m$ e $M$. La massa della lavagna è $m'$. Se in un momento il pannello viene spinto con velocità $v$ e accelerazione $a$, trovare la potenza $P$ necessaria per spingere il pannello. Supponiamo che i cilindri abbiano una distribuzione di massa uniforme.
+**2. (5 pts.)** La massa dei cilindri piccoli e grandi è rispettivamente $m$ e $M$. La massa della lavagna è $m'$. Se in un momento il pannello viene spinto con velocità $v$ e accelerazione $a$, trovare la potenza $P$ necessaria per spingere il pannello. Supponiamo che i cilindri abbiano una distribuzione di massa uniforme.
 
 ![[OPhO_2021_Invitational_p8_f4.png]]
 *Figura 4: Una visualizzazione della configurazione dei tre cilindri.*
@@ -427,7 +427,7 @@ Instead of charging one capacitor using the other, we take an ideal parallel-pla
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T4: Energia mancante **
+**T4: Energia mancante**
 
 **Parte A**
 
@@ -495,9 +495,9 @@ $$P_r = \frac{\ddot{m}^2}{4\pi\epsilon_0 c^3}$$
 
 dove $m$ è il momento magnetico del circuito in funzione del tempo. Ignorare tutti gli effetti relativistici e il possibile accumulo di carica nei fili rispetto a quello sulle placche condensatori. Inoltre, si noti che non assume alcuna resistenza o autoinduzione nel circuito nel suo modello.
 
-**5. (4 punti) ** Trova la dissipazione energetica totale $E_r$ dovuta a questa radiazione.
+**5. (4 punti)** Trova la dissipazione energetica totale $E_r$ dovuta a questa radiazione.
 
-**6. Per quale valore di intervallo di tempo $\Delta\tau$ si prendono le cariche per spostarsi da un condensatore all'altro, la teoria di Jackson può essere ragionevole vera?
+**6. Per quale valore di intervallo di tempo $\Delta\tau$ si prendono le cariche per spostarsi da un condensatore all'altro, la teoria di Jackson può essere ragionevole vera?**
 
 **Energia cinetica: Feynman**
 
@@ -507,15 +507,15 @@ Feynman ha la seguente ipotesi:
 
 Supponiamo che il percorso libero medio di collisioni dei vettori sia $\lambda > 2\ell$.
 
-**7. (4 punti) ** Trova l'energia cinetica totale $\Delta K$ acquisita dai vettori durante un trasferimento totale di carica da $C_1$ a $C_2$.
+**7. (4 punti)** Trova l'energia cinetica totale $\Delta K$ acquisita dai vettori durante un trasferimento totale di carica da $C_1$ a $C_2$.
 
 **8. (1 p.t.)** Potrebbe essere una valida ipotesi per spiegare la causa dell'energia mancante? Quando le cariche vengono completamente depositate sulle placche di $C_2$, cosa succede a questa energia cinetica?
 
-**Parte B **
+**Parte B**
 
 Invece di caricare un condensatore utilizzando l'altro, prendiamo un condensatore di piastra parallela ideale in modo tale che la densità di carica superficiale $\pm\sigma$ sulle sue piastre sia uniforme in entrambe le piastre, e che le cariche siano "fissate" sulla superficie man mano che la piastra si espande. Le dimensioni delle lastre sono $a$, $b$ e la distanza di separazione delle lastre è $d$. La piastra è ora estesa quasi-staticamente da un fattore di $\kappa$ in una delle dimensioni in modo tale che le dimensioni delle piastre condensatori sono ora $\kappa a$, $b$, ma la separazione della piastra rimane $d$.
 
-**1. (6 punti) ** Calcolare il lavoro $dW$ svolto durante lo striscio delle lastre di questo condensatore. Scrivere anche una forma semplificata di questa espressione per $d \ll \kappa a, b$.
+**1. (6 punti)** Calcolare il lavoro $dW$ svolto durante lo striscio delle lastre di questo condensatore. Scrivere anche una forma semplificata di questa espressione per $d \ll \kappa a, b$.
 
 **2. (1 pt.)** In questo caso non vi sono carichi resistivi e, poiché il processo di espansione delle piastre è quasi-statico, non vi è alcun aumento dell'energia cinetica dei portatori di carica. Dove scompare l'energia in questo caso?
 

@@ -181,7 +181,7 @@ a) Qual è la massa di acqua in stato di ebollizione che è stata aggiunta al re
 
 b) Ora si tratti da un congelatore tre cubetti di ghiaccio, di massa $20\ \text{g}$ ciascuno e a temperatura $-20\ {}^\circ\text{C}$, e si aggiungono al recipiente. Calcolare la temperatura che il termometro indicherà quando il sistema raggiunge l'equilibrio.
 
-**Dati: ** calore latente di fusione del ghiaccio $\lambda_\text{hielo} = 80\ \text{cal/g}$; calore specifico del ghiaccio $c_\text{hielo} = 0{,}53\ \text{cal}/\!({}^\circ\text{C}\cdot\text{g})$.
+**Dati:** calore latente di fusione del ghiaccio $\lambda_\text{hielo} = 80\ \text{cal/g}$; calore specifico del ghiaccio $c_\text{hielo} = 0{,}53\ \text{cal}/\!({}^\circ\text{C}\cdot\text{g})$.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]

@@ -234,7 +234,7 @@ Domanda 5
 Un grande pollo cattura un piano di carta leggero mentre entrambi sono in mezzo all'aria. Qual è il numero di
 il pollo e il piano di carta subiscono il minor cambiamento di impulso?
 - **A.** Il pollo lo fa.
-- ** B.** Il piano di carta lo fa.
+- **B.** Il piano di carta lo fa.
 - **C.** Il cambiamento di impulso è lo stesso sia per il pollo che per il piano di carta.
 - **D.** Non si può dire senza conoscere la velocità finale della massa di pollo-piano combinato.
 - **E.** Il risultato dipende dall'energia assorbita dal cromparsi del piano di carta nel

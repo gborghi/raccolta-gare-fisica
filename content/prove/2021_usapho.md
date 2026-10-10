@@ -116,7 +116,7 @@ d. Suppose Alice is carrying a radio transmitter set to frequency $f$. To what f
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda A2  Lampada **
+**Domanda A2  Lampada**
 
 Alice la scienziata folle, viaggiando nella sua macchina volante ad un'altezza $h$ sopra il suolo, spara un raggio di muoni al suolo. Bob, osservando da terra a distanza $R \gg h$ dalla macchina di Alice, decide di verificare alcuni fatti sulla special relatività. Supponiamo che i muoni viaggiino molto vicino alla velocità della luce nel quadro di Alice.
 

@@ -321,7 +321,7 @@ c) A partir del análisis teórico realizado y de las mediciones, determine el v
 
 **Obiettivo:** Determinare il calore latente della fusione dell'acqua.
 
-**Elementi: **
+**Elementi:**
 - recipiente isolante (copo di caffè)
 - Seringa scaricabile di $10\,\text{cm}^3$
 - Acqua a temperatura ambiente

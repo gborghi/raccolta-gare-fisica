@@ -25701,7 +25701,7 @@ los posibles errores cometidos y las conclusiones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Massurement anemometer wind speed **
+**Massurement anemometer wind speed**
 
 PE30. San Michele di Tucumán. Blu. 
 Obiettivo: 

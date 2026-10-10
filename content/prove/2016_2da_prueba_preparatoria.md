@@ -1974,7 +1974,7 @@ $\vec{E} = V_A B\,\hat{\jmath} = 1.34\times10^{-10}\ \text{N C}^{-1}\,\hat{\jmat
 ## Figurare
 
 <!--fig:start-->
-**p.9 **  Densimetro in acqua e soluzione
+**p.9**  Densimetro in acqua e soluzione
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p9_f4.png]]
 <!--fig:end-->
 

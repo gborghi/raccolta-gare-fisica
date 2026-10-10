@@ -168,7 +168,7 @@ OAF 2013 - 6
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Dalla Terra alla Luna (Verne) **
+**Dalla Terra alla Luna (Verne)**
 
 Problema 1
 Dalla terra alla luna, di Julio Verne. 
@@ -5969,7 +5969,7 @@ OAF 2013 - 51
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Bot transversale **
+**Bot transversale**
 
 PT10. EET Nro. 1 Cnel M. A. Prado 
 San Pietro, Jujuy. 
@@ -7918,7 +7918,7 @@ hermano menor?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Neve a Catamarca (calorimetria) **
+**Neve a Catamarca (calorimetria)**
 
 PT23. Instituto Superior Enrique Guillermo Hood(1) 
  
@@ -8570,7 +8570,7 @@ d) ¿Cuál es la mejor solución desde el punto de vista social?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Picnic - raffreddamento dell'acqua (calorimetria) **
+**Picnic - raffreddamento dell'acqua (calorimetria)**
 
 PT25. Il numero di EPET. 5 Fray Luis Beltrán 
  
@@ -9637,7 +9637,7 @@ plasma
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Riscaldamento del reattore (Tokamak) **
+**Riscaldamento del reattore (Tokamak)**
 
 PT33. Istituto Politetnico Superiore Gral. San Martino
  
@@ -11596,7 +11596,7 @@ partiendo del reposo desde una altura de 2.45 m.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lanero e banditi (energia/momento) **
+**Lanero e banditi (energia/momento)**
 
 PT50. Istituto Primo Capraro 
  
@@ -11651,7 +11651,7 @@ partendo dal riposo da un'altezza di 2,45 m.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Bands and the Plain (energy/moment) **
+**Bands and the Plain (energy/moment)**
 
 PT50. The first is the Capraro Institute.
  
@@ -11968,7 +11968,7 @@ como ideales
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Compressore a gas **
+**Compressore a gas**
 
 PT53. Il numero di EPET. 4 Juan Agustín Larrús 
  
@@ -13345,7 +13345,7 @@ h) Cuantas veces chocará contra el resorte hasta detenerse. Demuestre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Circolare e scorsa (energia) **
+**Circolare e scorsa (energia)**
 
 PT61. Colegio Paolo l'apostolo 
  
@@ -14035,7 +14035,7 @@ Datos útiles
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sfera in rotaia curva (energia) **
+**Sfera in rotaia curva (energia)**
 
 PT67. Liceo Militare Generale Specchio 
  
@@ -14495,7 +14495,7 @@ OAF 2013 - 92
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Batteria - autonomia (Peukert) **
+**Batteria - autonomia (Peukert)**
 
 PT71. Scuola superiore industriale 
  
@@ -17478,7 +17478,7 @@ e) ¿Cuál sería el período del electrón?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Selettore di velocità (fa elettroni) **
+**Selettore di velocità (fa elettroni)**
 
 PT94. La scuola di agricoltura 
  
@@ -17606,7 +17606,7 @@ OAF 2013 - 105
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Carico in rotta con loop (energia) **
+**Carico in rotta con loop (energia)**
 
 PT95. La scuola di agricoltura 
  
@@ -17857,7 +17857,7 @@ f) Determine el valor del coeficiente   para este experimento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Oscillazioni sulla Luna (risorsa) **
+**Oscillazioni sulla Luna (risorsa)**
 
 PT97. Philips Technical School 
  
@@ -18182,7 +18182,7 @@ atmosférica.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Bottella d'acqua (termodinamica) **
+**Bottella d'acqua (termodinamica)**
 
 PT98. Philips Technical School 
  
@@ -18338,7 +18338,7 @@ L'acqua si bolle a 100°C quando la sua pressione di vapore è la pressione
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Bottle of water (thermodynamics) **
+**Bottle of water (thermodynamics)**
 
 PT98. Philips Technical School 
  
@@ -18616,7 +18616,7 @@ Constante de Planck:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Liberazione di elettroni (fotoelettrico) **
+**Liberazione di elettroni (fotoelettrico)**
 
 PT99. Philips Technical School 
  
@@ -19857,7 +19857,7 @@ m) Y cualquier información que considere relevante
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Rufluzioni di sabbia (clepsidra) **
+**Rufluzioni di sabbia (clepsidra)**
 
 PE2. Scuola superiore di commercio Carlos Pellegrini 
 Città di Buenos Aires. 
@@ -23179,7 +23179,7 @@ en (2)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Constante elastica di una resorte (Hooke) **
+**Constante elastica di una resorte (Hooke)**
 
 PE12. Scuola tecnica Ort Nro. 2 
  
@@ -24621,7 +24621,7 @@ OAF 2013 - 139
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Coppia di resistenza (circuito) **
+**Coppia di resistenza (circuito)**
 
 PE15. Scuola tecnica Alfredo Carlos Passera 
  
@@ -26265,7 +26265,7 @@ diámetro del recipiente y a nivel de la superficie del agua.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Indice di refraczione dell'acqua (varella) **
+**Indice di refraczione dell'acqua (varella)**
 
 PE20. Istituto Primo Capraro 
  
@@ -26662,7 +26662,7 @@ Materiales
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Trumpo-movimento (rottura) **
+**Trumpo-movimento (rottura)**
 
 PE21. Il numero di EPET. 4 Juan Agustín Larrús 
  
@@ -27254,7 +27254,7 @@ OAF 2013 - 150
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo conico (attrazione di fiera) **
+**Pendolo conico (attrazione di fiera)**
 
 PE24. Scuola scozzese San Andrés 
  
@@ -28392,7 +28392,7 @@ Esquema:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Proprio apparente perdita di peso (push) **
+**Proprio apparente perdita di peso (push)**
 
 PE29. - Non lo so. 54 Governatore Juan J. Silva 
  
@@ -29053,7 +29053,7 @@ OAF 2013 - 157
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Indice di refraczione dell'acqua (banco ottico) **
+**Indice di refraczione dell'acqua (banco ottico)**
 
 PE35. - Non lo so. 54 Governatore Juan J. Silva 
  
@@ -29169,7 +29169,7 @@ Resultados y conclusiones:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Densità per Archimede (dinamometro) **
+**Densità per Archimede (dinamometro)**
 
 PE36. - Non lo so. 54 Governatore Juan J. Silva 
  
@@ -29743,7 +29743,7 @@ error.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cp/Cv dell'aria (Clement-Desormes) **
+**Cp/Cv dell'aria (Clement-Desormes)**
 
 PE38. Istituto industriale Luis A. - Hoorgo
  
@@ -32848,7 +32848,7 @@ La densidad del agua utilizada es
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Densità del rame (Archimedes) **
+**Densità del rame (Archimedes)**
 
 PE44. Philips Technical School 
  
@@ -33117,7 +33117,7 @@ con questa procedura?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Gravity with water jet **
+**Gravity with water jet**
 
 PE45. College of the Sun
  

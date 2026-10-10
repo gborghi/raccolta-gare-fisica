@@ -41,6 +41,10 @@ One mole of an ideal monatomic gas performs a process whose chart in $VT$ coordi
 
 Two spheres with the radii $r$ and $R$ ($r < R$) with the common center divide the space into three domains. The interior of the small sphere is uniformly charged with the volume charge density $-\rho$, the domain in between the spheres is uniformly charged with the volume charge density $+\rho$, and there is no charge outside the larger sphere. Find the ratio of the radii $R/r$, at which the potential in the center of the symmetry of the system is equal to the potential at infinity.
 
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Electrostatics]]
+**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Gauss's Law (metodo)|Gauss's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -154,6 +158,10 @@ A bottle is completely filled with water, sealed tightly with the cork and turne
 > $$U = \frac{\pi R^2 h^2}{6}\,\rho g.$$
 
 ![[IZhO-2016-Theory_eng_p4_f6.png]]
+
+**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -276,6 +284,10 @@ Let a source provide a constant voltage with a small portion of alternating volt
 **7.** [4.0 points] Find the dependence of the electric current in the circuit $I(t)$ as a function of time.
 
 **8.** [0.5 points] Find the voltage across the capacitor $U_C(t)$ as a function of time.
+
+**Topic:** [[Circuits]], [[Electrostatics]]
+**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 
 
 <div class="qlang-split" data-lang="it"></div>

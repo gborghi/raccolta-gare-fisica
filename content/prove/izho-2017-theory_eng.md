@@ -42,6 +42,10 @@ Two identical source of coherent monochromatic waves with the wavelength $\lambd
 
 > **Attention!** Make all the necessary drawings in the same sheet of paper provided for this subproblem, collect it together with the answer sheets Writing sheets, incorporating it into the overall numbering. Otherwise, your answer to this subproblem will not be evaluated!
 
+**Topic:** [[Conservation of Momentum]], [[Electrostatics]], [[Wave Optics]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -126,6 +130,10 @@ Making sure that it is impossible to avoid a collision with the cloud, the capta
 Successfully passing the obstacle, the captain and his crew have discovered that the particles of the dust clouds contain valuable elements.
 
 **2.4** [0.6 points] Find the minimum work $A$, which must be performed in order to gradually bring all the dust particles onto a very remote processing plant.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -270,6 +278,10 @@ Consider an arbitrary lateral edge, except zeroth ($k = 0$) and the last ($k = N
 **2.10** [1.0 points] Find the resistance $R_\infty$ of the wire frame at $N \to \infty$.
 
 **2.11** [1.5 points] Find the minimum value of $N$ at which the prism resistance deviation from $R_\infty$ does not exceed 2%.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

@@ -180,7 +180,7 @@ $$X \equiv (24\,\text{L}, 224\,\text{K})$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**3. L'amore è nell'aria
+**3. L'amore è nell'aria**
 
 Un ciclo termodinamico viene eseguito per un mole di gas monoatomo ideale. La rappresentazione di questo ciclo è in forma di "cuore" nel grafico di temperatura ($T$) ($V$) (indicato come la zona ombrata di seguito). Tuttavia, nessuno degli assi è indicato nel grafico. Il grafico è disegnato in scala con 1 cm lungo l'asse $V$ che rappresenta 4 litri e 1 cm lungo l'asse $T$ che rappresenta 80 K.
 
@@ -286,7 +286,7 @@ Plot a suitable linear graph to analyze the data, and from the graph, identify w
 
 <div class="qlang-split" data-lang="it"></div>
 
-**4. La scatola nera magnetica (MBB) **
+**4. La scatola nera magnetica (MBB)**
 
 Un magnetometro è un sensore basato sull'effetto Hall che misura il campo magnetico nella sua posizione. Nella figura seguente, un magnetometro si trova da qualche parte all'interno di una "quadro nero magnetico" chiuso (che da ora in poi si riferirà a come MBB) di spessore trascurabile. Fig. - Cosa? (1) dà una vista in alto, dove il rettangolo rosso raffigura l'MBB. Il piano del rettangolo è preso come il piano delle coordinate $x$–$y$, con l'origine O presa nell'angolo superiore destro. La posizione sconosciuta del magnetometro è indicata dalle coordinate $(x_0, y_0)$. Ad esempio, potrebbe essere situato nella posizione segnata da $\odot$ all'interno dell'MBB. Si noti che la posizione effettiva del magnetometro all'interno del MBB può essere diversa da quella della figura; questo vale anche per tutte le figure successive di questo problema.
 

@@ -43,6 +43,10 @@ Opaque square plate with side $a = 10\,\text{cm}$ is placed horizontally under t
 
 of the light source $b$ and $c$, and the height $h$ of the plate position. Specify the exact orientation of the light source with respect to the plate shadow.
 
+**Topic:** [[Rotational Dynamics]], [[Fluid Mechanics]], [[Geometric Optics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -102,6 +106,10 @@ A long coil of the radius $r$ and the length $h$ has an inertia moment $J_0$. Th
 
 energy $W'$ passing through the lateral surface for the time period while the electric current decreases. Express your answer in terms of $\ell, r, M, J, n, R, m_e, e, \mu_0$.
 
+**Topic:** [[Electromagnetic Induction]], [[Rotational Dynamics]], [[Circuits]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -125,7 +133,9 @@ Una lunga bobina di raggio $r$ e lunghezza $h$ ha un momento d’inerzia $J_0$. 
 5. [1 punto] Determinare l’intensità di corrente massima $I_{\text{max}}$ nella bobina. Esprimi la tua risposta in termini di $J, M, r, \ell, R, m_e, e$. Disegna una rappresentazione qualitativa della dipendenza di $I(t)$.
 6. [1 punto] Determinare l’energia massima $W_0$ immagazzinata nella bobina durante l’esperimento. Esprimi la tua risposta in termini di $J, M, r, \ell, R, m_e, e, n, h$ e della costante magnetica $\mu_0$.
 
-7. [3 punti] Il flusso $S$ di energia elettromagnetica attraverso un’unità di superficie è determinato dal vettore di Poincaré, che è perpendicolare sia al campo elettrico che a quello magnetico; il modulo di $S$ è dato da $S = \dfrac{1}{\mu_0} EB \sin\alpha$, dove $\vec{E}$ rappresenta la intensità del campo elettrico, $\vec{B}$ quella della induzione magnetica e $\alpha$ l’angolo tra loro (vedi la figura a destra). Determina l’energia elettromagnetica $W$ che passa attraverso la superficie laterale nel periodo in cui la corrente aumenta, nonché l’energia $W'$ che passa attraverso la stessa superficie nel periodo in cui la corrente diminuisce. Esprimi le tue risposte in termini di $\ell, r, M, J, n, R, m_e, e, \mu_0$.
+7. [3 punti] Il flusso $S$ di energia elettromagnetica attraverso un’unità di superficie è determinato dal vettore di Poynting (nel testo «Pointing»), che è perpendicolare sia al campo elettrico che a quello magnetico; il modulo di $S$ è dato da $S = \dfrac{1}{\mu_0} EB \sin\alpha$, dove $\vec{E}$ rappresenta la intensità del campo elettrico, $\vec{B}$ quella della induzione magnetica e $\alpha$ l’angolo tra loro (vedi la figura a destra). Determina l’energia elettromagnetica $W$ che passa attraverso la superficie laterale nel periodo in cui la corrente aumenta, nonché l’energia $W'$ che passa attraverso la stessa superficie nel periodo in cui la corrente diminuisce. Esprimi le tue risposte in termini di $\ell, r, M, J, n, R, m_e, e, \mu_0$.
+
+![[IZhO-2010-Theory_eng_f_p3_f6.png]]
 
 
 
@@ -204,6 +214,10 @@ Starting from the obtained results, determine the maximum energy of protons in c
 
 6. Is reaction (2) with the cosmic relic radiation possible, if the initial momenta of the proton and the photon are parallel in the Galaxy system? If the reaction is possible, what is the minimum value of the photon momentum in the Galaxy system?
 
+**Topic:** [[Special Relativity]], [[Astrophysics]], [[Modern-Quantum Physics]]
+**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -225,15 +239,15 @@ p + \gamma \rightarrow \Delta \rightarrow \pi^0 + p
 \tag{2}
 $$
 
-dove $p$ è un protone, $\gamma$ è un fotone residuo, $\Delta$ è il barione più leggero rispetto ai nucleoni, con una massa restante $m_\Delta = 1.232 \times 10^6\ eV/c^2$, che si degrada rapidamente in un mesone pi $\pi^0$ e un protone $p$. ($\Delta$-particella decade anche in un mesone $\pi^+$ e un neutrone. Il neutrone si trasforma rapidamente in protone attraverso decadimento $\beta$, quindi la considerazione di questo canale di reazione non è essenziale in questa domanda). A causa della nascita delle particelle $\Delta$, la probabilità di interazione dei protoni con i quanti $\gamma$ aumenta notevolmente.
+dove $p$ è un protone, $\gamma$ è un fotone residuo, $\Delta$ è il barione più leggero rispetto ai nucleoni, con una massa a riposo $m_\Delta = 1.232 \times 10^6\ eV/c^2$, che si degrada rapidamente in un mesone pi $\pi^0$ e un protone $p$. ($\Delta$-particella decade anche in un mesone $\pi^+$ e un neutrone. Il neutrone si trasforma rapidamente in protone attraverso decadimento $\beta$, quindi la considerazione di questo canale di reazione non è essenziale in questa domanda). A causa della nascita delle particelle $\Delta$, la probabilità di interazione dei protoni con i quanti $\gamma$ aumenta notevolmente.
 
 Lo scopo di questa domanda è determinare il limite superiore dello spettro energetico osservato dei CR, assumendo che la reazione (2) sia il principale meccanismo di perdita di energia dei CR, e confrontare la perdita di energia dei protoni nelle reazioni (1) e (2).
 
-Nelle seguenti domande, dovrai misurare l’energia in elettroni-volt $eV$ e i momenti in $eV/c$, dove $c$ è la velocità della luce nel vuoto. La massa restante del protone è $m_p = 938 \times 10^6\ eV/c^2$, la massa restante del mesone pi è $m_\pi = 140 \times 10^6\ eV/c^2$. La costante di Boltzmann è $k = 1.38 \times 10^{-23}\ J/K$.
+Nelle seguenti domande, dovrai misurare l’energia in elettroni-volt $eV$ e i momenti in $eV/c$, dove $c$ è la velocità della luce nel vuoto. La massa a riposo del protone è $m_p = 938 \times 10^6\ eV/c^2$, la massa a riposo del mesone pi è $m_\pi = 140 \times 10^6\ eV/c^2$. La costante di Boltzmann è $k = 1.38 \times 10^{-23}\ J/K$.
 
 1. Stima l’energia più probabile $E_\gamma$ e il corrispondente momento $p_\gamma$ dei fotoni residui, dato che corrispondono alla radiazione di corpo nero a temperatura $T = 2.7\ K$. Nelle seguenti domande si assume che il fotone iniziale nelle reazioni (1) e (2) abbia l’energia e il momento trovati nella Domanda 1.
 
-2. La massa restante $m$ di una particella è relativa all’energia relativistica totale $E$ e al momento $\vec{p}$ di questa particella in un qualsiasi sistema di riferimento inerziale come $E^2/c^2 - \vec{p}^2 = m^2 c^2$. Qui, la quantità $mc^2$ non dipende dal sistema di riferimento ed è l’energia interna totale della particella. Scrivi un’espressione corrispondente per l’energia interna totale di un sistema costituito da due particelle non interagenti (cioè, l’energia totale nel sistema di riferimento in cui il momento totale del sistema fisico è uguale a zero) che hanno le energie totali $E_1$, $E_2$ e i momenti $\vec{p}_1$, $\vec{p}_2$.
+2. La massa a riposo $m$ di una particella è relativa all’energia relativistica totale $E$ e al momento $\vec{p}$ di questa particella in un qualsiasi sistema di riferimento inerziale come $E^2/c^2 - \vec{p}^2 = m^2 c^2$. Qui, la quantità $mc^2$ non dipende dal sistema di riferimento ed è l’energia interna totale della particella. Scrivi un’espressione corrispondente per l’energia interna totale di un sistema costituito da due particelle non interagenti (cioè, l’energia totale nel sistema di riferimento in cui il momento totale del sistema fisico è uguale a zero) che hanno le energie totali $E_1$, $E_2$ e i momenti $\vec{p}_1$, $\vec{p}_2$.
 
 Per un’analisi più approfondita, potresti aver bisogno della legge di trasformazione relativistica del momento e dell’energia della particella. Nel passaggio dal sistema di riferimento inerziale $S$ a un sistema di riferimento inerziale $S'$, che si muove lungo la direzione positiva dell’asse $Z$ ($OZ \uparrow\uparrow OZ$) con la velocità $V_0$ nel sistema di riferimento, energia e momento si trasformano come le coordinate del punto dello spazio-tempo $(x,y,z,t) \to (x',y',z',t')$:
 

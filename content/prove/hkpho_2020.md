@@ -1235,13 +1235,13 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 ![[HKPhO_2020_p19_f26.png]]
 
-**(a) ** (4 punti) Qual è il tempo $\tau$ per il piccolo cubo di fermarsi sul blocco rettangolare?
+**(a)** (4 punti) Qual è il tempo $\tau$ per il piccolo cubo di fermarsi sul blocco rettangolare?
 
-**(b) ** (4 punti) Dal tempo $t = 0$ al $\tau$ e rispetto alla superficie liscia, quali sono le distanze percorse rispettivamente dal piccolo cubo e dal blocco rettangolare?
+**(b)** (4 punti) Dal tempo $t = 0$ al $\tau$ e rispetto alla superficie liscia, quali sono le distanze percorse rispettivamente dal piccolo cubo e dal blocco rettangolare?
 
-**(c) ** (4 punti) Qual è la lunghezza $L$ del blocco rettangolare? (Esprimi la tua risposta in termini di $v$, $m$, $M$, $\mu$, $g$.)
+**(c)** (4 punti) Qual è la lunghezza $L$ del blocco rettangolare? (Esprimi la tua risposta in termini di $v$, $m$, $M$, $\mu$, $g$.)
 
-**(d) ** (3 punti) Dal tempo $t = 0$ al $\tau$, qual è il lavoro totale svolto dalla forza di attrito sul piccolo cubo e sul blocco rettangolare?
+**(d)** (3 punti) Dal tempo $t = 0$ al $\tau$, qual è il lavoro totale svolto dalla forza di attrito sul piccolo cubo e sul blocco rettangolare?
 
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -1278,9 +1278,9 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 ![[HKPhO_2020_p20_f27.png]]
 
-**(a) ** (7 punti) Supponiamo che ogni molla sia compressa da una quantità di $\Delta x$ di lunghezza con costante molla $k$. Trova la velocità $v$ per il carrello immediatamente dopo il lancio di un marmo. Qual è la distanza che il carrello può percorrere prima di fermarsi se la velocità iniziale del carrello è $u = 0~\text{m s}^{-1}$?
+**(a)** (7 punti) Supponiamo che ogni molla sia compressa da una quantità di $\Delta x$ di lunghezza con costante molla $k$. Trova la velocità $v$ per il carrello immediatamente dopo il lancio di un marmo. Qual è la distanza che il carrello può percorrere prima di fermarsi se la velocità iniziale del carrello è $u = 0~\text{m s}^{-1}$?
 
-**(b) ** (8 punti) Puoi sparare un secondo marmo in qualsiasi momento che desideri, qual sarà la distanza massima e minima che il carrello può percorrere nel sparare due marmi? La velocità iniziale del carrello è ancora zero prima di sparare le due marmi. Per semplificazione, si prega di prendere il limite $m \ll M$.
+**(b)** (8 punti) Puoi sparare un secondo marmo in qualsiasi momento che desideri, qual sarà la distanza massima e minima che il carrello può percorrere nel sparare due marmi? La velocità iniziale del carrello è ancora zero prima di sparare le due marmi. Per semplificazione, si prega di prendere il limite $m \ll M$.
 
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Conservation of Momentum]]
@@ -1327,13 +1327,13 @@ Considerate un tiro a tiro libero in una partita di basket. Proietta il basket c
 
 ![[HKPhO_2020_p21_f28.png]]
 
-**(a) ** (4 punti) Derivare un'espressione esplicita dell'angolo di inclinazione $\theta$ in modo tale che la palla da basket possa colpire il centro del bordo del paniere, che si trova a una distanza orizzontale $x$ e a una distanza verticale $y$.
+**(a)** (4 punti) Derivare un'espressione esplicita dell'angolo di inclinazione $\theta$ in modo tale che la palla da basket possa colpire il centro del bordo del paniere, che si trova a una distanza orizzontale $x$ e a una distanza verticale $y$.
 
 Un professore di fisica ha suggerito che il miglior colpo può essere raggiunto sparando alla palla alla velocità minima possibile, perché ha maggiori possibilità di passare attraverso il cerchio nel caso in cui il colpo non sia preciso e rimbalzi dal bordo del cerchio. Derivare un'espressione per la velocità minima di tiro e l'angolo di tiro corrispondente $\theta$.
 
-**(c) ** (4 punti) Per Kobe Bryant, la palla viene lanciata da un'altezza di $2.47~\text{m}$ e il bordo del cerchio è $3.05~\text{m}$ sopra il terreno. La distanza orizzontale $x$ è $4.44~\text{m}$. Calcolare la velocità e l'angolo di sparata nella parte b).
+**(c)** (4 punti) Per Kobe Bryant, la palla viene lanciata da un'altezza di $2.47~\text{m}$ e il bordo del cerchio è $3.05~\text{m}$ sopra il terreno. La distanza orizzontale $x$ è $4.44~\text{m}$. Calcolare la velocità e l'angolo di sparata nella parte b).
 
-**(d) ** (4 punti) Calcolare l'angolo di avvicinamento $\phi$ quando il basket arriva al cerchio per il colpo nella parte (c).
+**(d)** (4 punti) Calcolare l'angolo di avvicinamento $\phi$ quando il basket arriva al cerchio per il colpo nella parte (c).
 
 Un altro professore di fisica, essendo lui stesso un giocatore di basket, ha suggerito che il colpo di Kobe può essere migliorato sparando con un angolo più alto, in modo che l'angolo di approccio $\phi$ sia più grande e si traduca in un obiettivo più grande del cerchio. Calcolare l'angolo di tiro $\theta$ in modo tale che l'angolo di avvicinamento $\phi = 45°$ del colpo.
 

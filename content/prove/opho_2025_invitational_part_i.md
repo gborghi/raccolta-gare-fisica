@@ -76,21 +76,21 @@ Questo problema consiste in due parti indipendenti.
 
 Il ferro è un materiale * morbido ferromagnetico*, il che significa che ha una relativa permeabilità $\mu_r \gg 1$ e zero magnetizzazione intrinseca.
 
-**(A.1) ** Mostra che il campo magnetico alla superficie di un corpo di ferro è approssimativamente perpendicolare alla superficie. [0,5 pts]
+**(A.1)** Mostra che il campo magnetico alla superficie di un corpo di ferro è approssimativamente perpendicolare alla superficie. [0,5 pts]
 
 Un emisfero di ferro di raggio $R$ si trova faccia a faccia su un piano di ferro molto grande. Supponiamo che ci sia un piccolo spazio aereo tra il piano e il fondo dell'emisfero (con relativa permeabilità 1). Un sottile ciclo di conduttore di raggio $\alpha R$ è centrato a una distanza $\beta R$ sopra l'emisfero e ha una corrente $I$ che fluisce attraverso di esso.
 
 ![[OPhO_2025_Invitational_Part_I_p4_f1.png]]
 
-**(A.2) ** Trova la forza magnetica netta sull'emisfero. [3 punti] *Dare la risposta in termini di integrale*
+**(A.2)** Trova la forza magnetica netta sull'emisfero. [3 punti] *Dare la risposta in termini di integrale*
 
 $$
 J(k) = \int_0^{2\pi} \frac{\cos(\phi)}{(k - \cos(\phi))^{3/2}}\, d\phi.
 $$
 
-**(A.3) ** Trova numericamente il valore massimo di $\alpha$ in modo tale che l'emisfero possa essere sollevato, supponendo che $\beta$ e $I$ possano essere scelti liberamente. [0,5 pts]
+**(A.3)** Trova numericamente il valore massimo di $\alpha$ in modo tale che l'emisfero possa essere sollevato, supponendo che $\beta$ e $I$ possano essere scelti liberamente. [0,5 pts]
 
-**(A.4) ** Trova un'equazione per il valore massimo di $\beta$ tale da poter sollevare l'emisfero, supponendo che $\alpha$ e $I$ possano essere scelti liberamente. [1 pt]
+**(A.4)** Trova un'equazione per il valore massimo di $\beta$ tale da poter sollevare l'emisfero, supponendo che $\alpha$ e $I$ possano essere scelti liberamente. [1 pt]
 
 ### B. World Eater [5 punti]
 
@@ -104,11 +104,11 @@ Qui, $\tau$ è il tempo appropriato della particella e $\ell$ è il suo momento 
 
 Un buco nero di massa $M$ viaggia a velocità $v$ attraverso un mezzo di densità $\rho$, accumulando massa mentre si muove. Vicino al buco nero, il campo gravitazionale è così forte che si può trattare il mezzo come un fluido di particelle non interagiscono. Supponiamo che $(\rho G^3 M^2)^{1/6} \ll v \ll c$.
 
-**(B.1) ** Trova il tasso di aumento della massa del buco nero. [1.5]
+**(B.1)** Trova il tasso di aumento della massa del buco nero. [1.5]
 
-**(B.2) ** Trova la forza di resistenza sul buco nero, trascurando l'interazione gravitazionale del mezzo con se stesso. Spiegate qualitativamente il vostro risultato. [2]
+**(B.2)** Trova la forza di resistenza sul buco nero, trascurando l'interazione gravitazionale del mezzo con se stesso. Spiegate qualitativamente il vostro risultato. [2]
 
-**(B.3) ** Inclusa l'interazione gravitazionale del mezzo con se stesso, si deve dare una stima asimptotica della forza di trazione. [1.5]
+**(B.3)** Inclusa l'interazione gravitazionale del mezzo con se stesso, si deve dare una stima asimptotica della forza di trazione. [1.5]
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Arq_stTYAbJ6dE35XjXGP7LuvPV9C6AZ/view)
 **Topic:** [[Magnetism]], [[Astrophysics]]
@@ -159,15 +159,15 @@ Questo problema consiste in due parti indipendenti.
 
 Che il $S$ sia una stanza bidimensionale, semplicemente connessa con pareti perfettamente riflessive, illuminata da fonti luminose omnidirezionali situate all'interno della stanza. Lavoriamo rigorosamente nel regime dell'ottica geometrica e trascuriamo tutti i riflessi fuori da angoli non differenziabili. Le fonti non influenzano la luce che passa attraverso di loro.
 
-**(A.1) ** Per qualsiasi configurazione di fonti di punto $n \ge 2$ distinte, costruire $S$ in modo tale che le parti della stanza illuminate da ciascuna fonte siano disconseguite e la superficie totale illuminata sia uguale alla superficie di $S$. Segna due esempi concreti della tua costruzione che differiscono in più di un senso banale. [1 pt]
+**(A.1)** Per qualsiasi configurazione di fonti di punto $n \ge 2$ distinte, costruire $S$ in modo tale che le parti della stanza illuminate da ciascuna fonte siano disconseguite e la superficie totale illuminata sia uguale alla superficie di $S$. Segna due esempi concreti della tua costruzione che differiscono in più di un senso banale. [1 pt]
 
-**(A.2) ** Ora, per un numero finito di fonti $n \ge 2$ che sono regioni 2D finite, disconnesse e semplicemente collegate, la cui forma e collocazione sono ** della vostra scelta**, costruire $S$ soddisfacendo le condizioni della parte (a). Sketta la tua costruzione di $S$ e indica la forma e la posizione della fonte scelte. [2 punti]
+**(A.2)** Ora, per un numero finito di fonti $n \ge 2$ che sono regioni 2D finite, disconnesse e semplicemente collegate, la cui forma e collocazione sono **della vostra scelta**, costruire $S$ soddisfacendo le condizioni della parte (a). Sketta la tua costruzione di $S$ e indica la forma e la posizione della fonte scelte. [2 punti]
 
-**(A.3) ** Allo stesso modo, per tutte le fonti ** arbitrarie ** $n \ge 2$ che sono regioni 2D finite, disconnesse e semplicemente connesse, descrivere come generalmente costruire $S$ soddisfacendo le condizioni della parte (a). Sine di un possibile esempio della tua costruzione, che differisce in più di un senso banale dalla tua risposta alla parte (b). [2,5 punti]
+**(A.3)** Allo stesso modo, per tutte le fonti **arbitrarie** $n \ge 2$ che sono regioni 2D finite, disconnesse e semplicemente connesse, descrivere come generalmente costruire $S$ soddisfacendo le condizioni della parte (a). Sine di un possibile esempio della tua costruzione, che differisce in più di un senso banale dalla tua risposta alla parte (b). [2,5 punti]
 
 ### B. Gas Gas Gas [4,5 punti]
 
-**(B.1) ** Considera una nuvola di gas viscosa di portata finita che orbita attorno a una massa centrale dominante. Prove che non esiste una soluzione stabile o periodica. Non assumere alcuna equazione specifica di stato (cioè rapporto tra $P$ e $\rho$). [4.5 punti] *Nota: Le soluzioni che non dimostrano l'assenza di minimi locali non riceveranno punti. Le soluzioni che dimostrano il risultato nel caso di un disco riceveranno metà dei punti.*
+**(B.1)** Considera una nuvola di gas viscosa di portata finita che orbita attorno a una massa centrale dominante. Prove che non esiste una soluzione stabile o periodica. Non assumere alcuna equazione specifica di stato (cioè rapporto tra $P$ e $\rho$). [4.5 punti] *Nota: Le soluzioni che non dimostrano l'assenza di minimi locali non riceveranno punti. Le soluzioni che dimostrano il risultato nel caso di un disco riceveranno metà dei punti.*
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Arq_stTYAbJ6dE35XjXGP7LuvPV9C6AZ/view)
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
@@ -248,11 +248,11 @@ Un pattinatore patina su ghiaccio in una giornata secca con temperatura ambiente
 
 L'obiettivo di questa domanda è quello di considerare gli effetti fisici che influenzano lo scivolo.
 
-**(A.1) ** Calcolare il punto di fusione del ghiaccio direttamente sotto la pattinata in termini di quantità indicate, la densità dell'acqua a $0^\circ C$ $\rho_w = 0.9998 \tfrac{\mathrm{g}}{\mathrm{cm^3}}$, la densità del ghiaccio a $0^\circ C$ $\rho_i = 0.9168 \tfrac{\mathrm{g}}{\mathrm{cm^3}}$, il calore latente di fusione dell'acqua $L_f = 334 \tfrac{\mathrm{kJ}}{\mathrm{kg}}$ e $T_m = 273.15$ K è la temperatura alla quale il ghiaccio si scioglie in condizioni standard. [0,8 pts]
+**(A.1)** Calcolare il punto di fusione del ghiaccio direttamente sotto la pattinata in termini di quantità indicate, la densità dell'acqua a $0^\circ C$ $\rho_w = 0.9998 \tfrac{\mathrm{g}}{\mathrm{cm^3}}$, la densità del ghiaccio a $0^\circ C$ $\rho_i = 0.9168 \tfrac{\mathrm{g}}{\mathrm{cm^3}}$, il calore latente di fusione dell'acqua $L_f = 334 \tfrac{\mathrm{kJ}}{\mathrm{kg}}$ e $T_m = 273.15$ K è la temperatura alla quale il ghiaccio si scioglie in condizioni standard. [0,8 pts]
 
 In quale regime si prevede che la fusione del ghiaccio dovuta alla pressione della lama sia significativa? [0,2 pts]
 
-Per quanto riguarda la parte (B), presumiamo che $T_0$ sia contenuta nel regime in cui l'effetto considerato in (A) sia significativo. Non ** non ** fare questa ipotesi per il resto della domanda.
+Per quanto riguarda la parte (B), presumiamo che $T_0$ sia contenuta nel regime in cui l'effetto considerato in (A) sia significativo. Non **non** fare questa ipotesi per il resto della domanda.
 
 Oltre alla pressione della lama, le forze intermolecolari svolgono anche un ruolo per creare acqua di fusione sulla superficie del ghiaccio. La forza tra una molecola di vapore d'acqua e una molecola di ghiaccio con uno strato liquido che li separa può essere modellata da
 
@@ -262,31 +262,31 @@ $$
 
 dove $C$ è una costante che determina la forza delle forze intermolecolari e $r$ è la separazione tra le due molecole.
 
-**(B.1) ** Considerando solo l'interazione tra i livelli di vapore e ghiaccio, si trova l'energia potenziale per unità di superficie di uno strato di strato liquido di altezza $h$, definendo le quantità necessarie e indicando le ipotesi semplificanti fatte. [1 pt]
+**(B.1)** Considerando solo l'interazione tra i livelli di vapore e ghiaccio, si trova l'energia potenziale per unità di superficie di uno strato di strato liquido di altezza $h$, definendo le quantità necessarie e indicando le ipotesi semplificanti fatte. [1 pt]
 
-**(B.2) ** Estimare lo spessore di equilibrio dello strato liquido $h$ a causa delle forze intermolecolari. Vi viene data la forza di interazione $C = 5.35 \times 10^{-74}\ \mathrm{J\,m^6}$, la massa molare dell' acqua $\mu = 18 \tfrac{\mathrm{g}}{\mathrm{mol}}$, il calore latente della vaporizzazione dell' acqua $L_v = 2260 \tfrac{\mathrm{kJ}}{\mathrm{kg}}$ e la pressione atmosferica $P_0 = 1 \times 10^5$ Pa. [1,4 pts]
+**(B.2)** Estimare lo spessore di equilibrio dello strato liquido $h$ a causa delle forze intermolecolari. Vi viene data la forza di interazione $C = 5.35 \times 10^{-74}\ \mathrm{J\,m^6}$, la massa molare dell' acqua $\mu = 18 \tfrac{\mathrm{g}}{\mathrm{mol}}$, il calore latente della vaporizzazione dell' acqua $L_v = 2260 \tfrac{\mathrm{kJ}}{\mathrm{kg}}$ e la pressione atmosferica $P_0 = 1 \times 10^5$ Pa. [1,4 pts]
 
-**(B.3) ** Estimare lo spessore dello strato liquido causato dalla fusione a pressione. La capacità termica del ghiaccio è $c = 2.09 \tfrac{\mathrm{kJ}}{\mathrm{kg\,K}}$ e la conducibilità termica del ghiaccio è $\kappa = 2.18 \tfrac{\mathrm{W}}{\mathrm{m\,K}}$. Quando ogni effetto domina? [0,8 pts]
+**(B.3)** Estimare lo spessore dello strato liquido causato dalla fusione a pressione. La capacità termica del ghiaccio è $c = 2.09 \tfrac{\mathrm{kJ}}{\mathrm{kg\,K}}$ e la conducibilità termica del ghiaccio è $\kappa = 2.18 \tfrac{\mathrm{W}}{\mathrm{m\,K}}$. Quando ogni effetto domina? [0,8 pts]
 
-**(B.4) ** Sulla base di queste risposte, calcolare la forza di attrito sperimentata dal pattinatore nei pressi di $0^\circ C$. La viscosità dell'acqua è $\nu = 1.79 \times 10^{-3} \tfrac{\mathrm{kg}}{\mathrm{m\,s}}$. Cosa dice questo di quanto gli effetti che regolano la forza di attrito che il pattinatore prova? [0,4 pts]
+**(B.4)** Sulla base di queste risposte, calcolare la forza di attrito sperimentata dal pattinatore nei pressi di $0^\circ C$. La viscosità dell'acqua è $\nu = 1.79 \times 10^{-3} \tfrac{\mathrm{kg}}{\mathrm{m\,s}}$. Cosa dice questo di quanto gli effetti che regolano la forza di attrito che il pattinatore prova? [0,4 pts]
 
 Ora consideriamo la correzione causata dal calore di attrito generato mentre la lama scivola. Questo calore viene condotto nel ghiaccio, che lo scioglie in parte. In precedenti sezioni abbiamo presupposto che lo spessore dello strato liquido sia costante lungo la lunghezza della lama, ma non è così una volta che si tiene conto dell'attrito. In questa parte, si può presumere che la lama scivoli sopra lo strato liquido.
 
-**(C.1) ** Considerando la potenza dissipata da attrito nel flusso di taglio nel strato liquido, scrivete un'espressione per il tasso di variazione dello spessore lungo la lunghezza della lama, ovvero il ghiaccio passa più tempo in contatto con la lama. [0,4 pts]
+**(C.1)** Considerando la potenza dissipata da attrito nel flusso di taglio nel strato liquido, scrivete un'espressione per il tasso di variazione dello spessore lungo la lunghezza della lama, ovvero il ghiaccio passa più tempo in contatto con la lama. [0,4 pts]
 
-**(C.2) ** Supponiamo che quando la lama entra in contatto con il ghiaccio, una componente infinitesimale del ghiaccio si scioglia immediatamente e si riscaldano a $0^\circ C$. Considerando il trasferimento verticale di calore nel blocco di ghiaccio, si trova il tasso di cambiamento di spessore lungo la lunghezza della lama a causa della conduzione del calore nel ghiaccio. [1,4 pts]
+**(C.2)** Supponiamo che quando la lama entra in contatto con il ghiaccio, una componente infinitesimale del ghiaccio si scioglia immediatamente e si riscaldano a $0^\circ C$. Considerando il trasferimento verticale di calore nel blocco di ghiaccio, si trova il tasso di cambiamento di spessore lungo la lunghezza della lama a causa della conduzione del calore nel ghiaccio. [1,4 pts]
 
-**(C.3) ** Combinando i due effetti, si trova un'espressione che relaziona lo spessore dello strato liquido $h(x)$ con la distanza lungo la lama $x$. Come si confronta questo con l'effetto considerato nella parte B? [0,8 pts]
+**(C.3)** Combinando i due effetti, si trova un'espressione che relaziona lo spessore dello strato liquido $h(x)$ con la distanza lungo la lama $x$. Come si confronta questo con l'effetto considerato nella parte B? [0,8 pts]
 
-**(C.4) ** Trova un'espressione per la forza di attrito totale sperimentata dalla lama. Come fa a scalare a temperature basse e alte? [0,6 pts]
+**(C.4)** Trova un'espressione per la forza di attrito totale sperimentata dalla lama. Come fa a scalare a temperature basse e alte? [0,6 pts]
 
-**(C.5) ** Usando questo modello, spiegate perché non possiamo pattinare su cera a temperatura ambiente. [0,4 pts]
+**(C.5)** Usando questo modello, spiegate perché non possiamo pattinare su cera a temperatura ambiente. [0,4 pts]
 
 In precedenti sezioni abbiamo considerato che la lama rimane sopra lo strato liquido. Tuttavia, in realtà non è così. In questa sezione consideriamo le correzioni causate dall'effetto del affondamento della lama nello strato liquido.
 
-**(D.1) ** Considera una lama stazionaria che si affonda in uno strato di acqua di altezza $h$ a velocità $\dot{h}$. Trascurando la variazione della pressione verticale, eventuali ostacoli al lato della lama e il movimento del fluido lungo la lama, trovi $p(y, z)$, il campo di pressione come funzione della coordinata verticale e della coordinata laterale. [1 pt]
+**(D.1)** Considera una lama stazionaria che si affonda in uno strato di acqua di altezza $h$ a velocità $\dot{h}$. Trascurando la variazione della pressione verticale, eventuali ostacoli al lato della lama e il movimento del fluido lungo la lama, trovi $p(y, z)$, il campo di pressione come funzione della coordinata verticale e della coordinata laterale. [1 pt]
 
-**(D.2) ** Trova la condizione per che il flusso laterale abbia un piccolo effetto sul profilo di altezza. Trova la velocità minima per soddisfare questi criteri. [0,8 pts]
+**(D.2)** Trova la condizione per che il flusso laterale abbia un piccolo effetto sul profilo di altezza. Trova la velocità minima per soddisfare questi criteri. [0,8 pts]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Arq_stTYAbJ6dE35XjXGP7LuvPV9C6AZ/view)
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]

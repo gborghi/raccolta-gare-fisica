@@ -251,7 +251,7 @@ evaporation). This Z had the same specific rotation as when obtained from L-tyro
 iv) Draw any one possible structure of thyroxine consistent with the above information, with correct
 stereochemistry.
 
-**During the exam, the following additional was communicated to the students.
+**During the exam, the following additional was communicated to the students.**
 Q 1.7(iii) Draw the structures of compounds G and Z with stereochemistry.
 Indian National Chemistry Olympiad 2019
 

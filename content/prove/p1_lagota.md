@@ -88,7 +88,7 @@ Le piccole gocce (o goccioline) che si formano all'interno delle nuvole variano 
 
 In questo problema, studiamo la fisica di una goccia che cresce mentre scende dentro una nuvola. Useremo un modello di goccia di acqua a sfera, di densità costante $\rho = 1\text{ g/cm}^3$ e di radio $r$, che cade a causa della gravità. Considereremo che la goccia ha un diametro di $100\,\mu\text{m}$ quando inizia il calo, e di $1\text{ mm}$ appena prima di uscire dal nuvo, dove cade a una velocità $v_f = 3\text{ m/s}$.
 
-**a) ** Il movimento di caduta della goccia è opposto alla forza di frizione con l'aria, $F_\eta$, che viene espressa dalla legge di Stokes:
+**a)** Il movimento di caduta della goccia è opposto alla forza di frizione con l'aria, $F_\eta$, che viene espressa dalla legge di Stokes:
 $$F_\eta = 6\pi\eta r v$$
 dove $\eta = 1{,}83\times10^{-5}\text{ Pa·s}$ è il coefficiente di viscosità dell'aria e $v$ è la velocità di gocciolamento. Verifica che la forza di attrito è scarsa per le gocce studiate all'interno del nubo.
 
@@ -104,24 +104,24 @@ $$a = g - \frac{v}{m}\frac{dm}{dt} \quad (1)$$
 
 Il coefficiente $dm/dt$ riportato nell'equazione (1) è il ritmo di accrescimento della goccia (la quantità di massa che acquista per unità di tempo), e dipende da diversi fattori. Studieremo un modello semplice in cui più grande è la sezione e la velocità della goccia, e più acqua contiene il nuvo, più gocce colpiscono la goccia per unità di tempo. Si consideri quindi che il ritmo di accrescimento sia direttamente proporzionale all'area della sezione circolare della goccia, alla sua velocità di caduta e alla densità dell'acqua nel nuvo $\rho_n$.
 
-**d) ** Dimostra che, secondo il modello di crescita proposto, la variazione nel tempo della massa della goccia all'interno della nuvola è
+**d)** Dimostra che, secondo il modello di crescita proposto, la variazione nel tempo della massa della goccia all'interno della nuvola è
 $$\frac{dm}{dt} = \lambda\, m^{2/3}\, v \quad (2)$$
 in cui $\lambda$ è una costante di proporzionalità che dipende da $\rho$ e $\rho_n$.
 
 Dal modello precedente, si può dimostrare che la velocità della goccia in funzione della sua massa (per valori iniziali di massa scarsa) è
 $$v = \left(\frac{6g}{7\lambda}\right)^{1/2} m^{1/6} \quad (3)$$
 
-**e) ** Verifica che l'accelerazione (1) della goccia abbia un valore costante e determina tale valore. Determina anche la velocità di goccia in funzione del tempo, $v(t)$.
+**e)** Verifica che l'accelerazione (1) della goccia abbia un valore costante e determina tale valore. Determina anche la velocità di goccia in funzione del tempo, $v(t)$.
 
 Infine, esamineremo alcuni aspetti energetici della goccia. Considera che la goccia sia scesa a una altezza $h$ all'interno del nuvo, partendo dal riposo.
 
-**f) ** Determina l'energia cinetica finale della goccia dopo aver percorso la distanza verticale $h$.
+**f)** Determina l'energia cinetica finale della goccia dopo aver percorso la distanza verticale $h$.
 
-**g) ** Determina il lavoro effettuato dalla forza di gravità sulla goccia durante il declino di altezza $h$.
+**g)** Determina il lavoro effettuato dalla forza di gravità sulla goccia durante il declino di altezza $h$.
 
 *(Aiuto: $\displaystyle\int x^3\,dx = \frac{x^4}{4} + \text{cte}$) *
 
-**h) ** Confrontando i risultati dei due precedenti paragrafi, si ottiene come la temperatura della goccia varia in funzione dell'altezza $h$ discesa. Il calore specifico dell'acqua è $c$. Quali altri fattori non considerati riteni che potrebbero influenzare tale temperatura?
+**h)** Confrontando i risultati dei due precedenti paragrafi, si ottiene come la temperatura della goccia varia in funzione dell'altezza $h$ discesa. Il calore specifico dell'acqua è $c$. Quali altri fattori non considerati riteni che potrebbero influenzare tale temperatura?
 
 <!--fig:start-->
 ![[_attachments/P1_Lagota/P1_Lagota_p1_f1.png]]
@@ -148,7 +148,7 @@ The size of the tiny droplets (or droplets) that form within the clouds varies f
 
 In this problem we're going to study the physics of a drop growing as it descends into a cloud. We'll use a model of spherical water drop, constant density $\rho = 1\text{ g/cm}^3$ and radius $r$, which falls by gravity. We'll consider that the drop has a diameter of $100\,\mu\text{m}$ when the drop starts, and $1\text{ mm}$ just before it leaves the cloud, where it falls at a speed of $v_f = 3\text{ m/s}$.
 
-**a) ** The droplet's droplet motion is opposed by the air friction force, $F_\eta$, which is expressed by Stokes' law:
+**a)** The droplet's droplet motion is opposed by the air friction force, $F_\eta$, which is expressed by Stokes' law:
 $$F_\eta = 6\pi\eta r v$$
 where $\eta = 1{,}83\times10^{-5}\text{ Pa·s}$ is the coefficient of viscosity of the air and $v$ is the droplet velocity. Check that the friction force is negligible for the droplets studied inside the cloud.
 
@@ -164,24 +164,24 @@ $$a = g - \frac{v}{m}\frac{dm}{dt} \quad (1)$$
 
 The $dm/dt$ coefficient in equation (1) is the rate of accretion of the droplet (the amount of mass it acquires per unit of time), and depends on several factors. Let's study a simple model where the larger the section and the velocity of the drop, and the more water the cloud contains, the more droplets collide with the drop per unit time. Thus, consider that the accretion rate is directly proportional to the area of the circular section of the droplet, its drop rate and the density of water in the cloud $\rho_n$.
 
-**d) ** Demonstrate that, according to the proposed growth model, the change over time in the droplet mass within the cloud is
+**d)** Demonstrate that, according to the proposed growth model, the change over time in the droplet mass within the cloud is
 $$\frac{dm}{dt} = \lambda\, m^{2/3}\, v \quad (2)$$
 where $\lambda$ is a proportionality constant that depends on $\rho$ and $\rho_n$.
 
 From the previous model, it can be proven that the droplet speed based on its mass (for initial values of negligible mass) is
 $$v = \left(\frac{6g}{7\lambda}\right)^{1/2} m^{1/6} \quad (3)$$
 
-**e) ** Check that the drop drop acceleration (1) has a constant value and determine that value. Determine the time-speed of the droplet, $v(t)$.
+**e)** Check that the drop drop acceleration (1) has a constant value and determine that value. Determine the time-speed of the droplet, $v(t)$.
 
 Finally, let's look at some of the energy aspects of the drop. Consider that the drop has descended a height $h$ within the cloud, starting from the rest.
 
-**f) ** Determine the final kinetic energy of the droplet after the vertical distance $h$.
+**f)** Determine the final kinetic energy of the droplet after the vertical distance $h$.
 
-**g) ** Determine the work done by the force of gravity on the drop during the fall from height $h$.
+**g)** Determine the work done by the force of gravity on the drop during the fall from height $h$.
 
 *(Ayuda: $\displaystyle\int x^3\,dx = \frac{x^4}{4} + \text{cte}$)*
 
-**h) ** Comparing the results of the two previous paragraphs, obtain how the droplet temperature varies according to the $h$ drop height. The specific heat of the water is $c$. What other factors not taken into account do you think could affect this temperature?
+**h)** Comparing the results of the two previous paragraphs, obtain how the droplet temperature varies according to the $h$ drop height. The specific heat of the water is $c$. What other factors not taken into account do you think could affect this temperature?
 
 <!--fig:start-->
 ![[_attachments/P1_Lagota/P1_Lagota_p1_f1.png]]

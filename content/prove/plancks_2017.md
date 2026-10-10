@@ -56,7 +56,7 @@ L'ionizzazione a risonanza laser di atomi neutri è una potente tecnica per lo s
 ![[PLANCKS_2017_p1_f1.png]]
 *Figura 1 (a sinistra, schema di livello di energia) e figura 2 (a destra, geometrie dei fasci laser rispetto alla velocità atomica $v_x$).*
 
-**Domande: **
+**Domande:**
 
 - Considera un atomo di $^{63}\mathrm{Cu}$ in movimento a velocità $v_x$. Per il processo di ionizzazione, la lunghezza d'onda della transizione da $|0\rangle$ a $|1\rangle$ di un atomo in riposo è $\lambda_1 = 350\ \mathrm{nm}$. Se l'atomo si muove con $v_x = 550\ \tfrac{\mathrm{m}}{\mathrm{s}}$, calcolare il valore della nuova lunghezza d'onda per eccitare l'atomo neutro (permettendo la transizione $|0\rangle$ a $|1\rangle$) in:
 
@@ -504,7 +504,7 @@ where $N_c$ is the number of electrons in the conduction band.
 
 **Fisica dello stato solido** *
 
-**I, Sottocondo: ** Il colore di una sostanza è causato da selective, cioè di frequenza, di dissipazione e di dispersione delle radiazioni elettromagnetiche. Un potenziale vettoriale $A$ oscillante a frequenza $\omega$ induce una densità di corrente $j$ alla stessa frequenza. Questo è descritto dalla relazione lineare $j = i\omega\sigma(\omega)A$, dove $\sigma(\omega)$ è una funzione complessa a frequenza dipendente chiamata "conduttività ottica" che caratterizza le proprietà ottiche della sostanza. In tutto questo insieme di problemi si può supporre per semplicità che gli elettroni si muovono in uno spazio unidimensionale. La teoria quantistica della materia accoppiata alla radiazione fornisce la seguente espressione per la parte reale (dissipativa) della conduttività ottica
+**I, Sottocondo:** Il colore di una sostanza è causato da selective, cioè di frequenza, di dissipazione e di dispersione delle radiazioni elettromagnetiche. Un potenziale vettoriale $A$ oscillante a frequenza $\omega$ induce una densità di corrente $j$ alla stessa frequenza. Questo è descritto dalla relazione lineare $j = i\omega\sigma(\omega)A$, dove $\sigma(\omega)$ è una funzione complessa a frequenza dipendente chiamata "conduttività ottica" che caratterizza le proprietà ottiche della sostanza. In tutto questo insieme di problemi si può supporre per semplicità che gli elettroni si muovono in uno spazio unidimensionale. La teoria quantistica della materia accoppiata alla radiazione fornisce la seguente espressione per la parte reale (dissipativa) della conduttività ottica
 $$
 \operatorname{Re}\sigma(\omega) = \operatorname{Re}\sigma(-\omega) = \frac{e^2}{V\hbar}\operatorname{Im}\int_0^\infty e^{i\omega t}\,\langle [\hat{x}(t), \hat{v}] \rangle\, dt \tag{1}
 $$
@@ -519,7 +519,7 @@ $$
 \int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi e^2}{2V\hbar^2}\operatorname{Re}\big\langle \big[\hat{x}, [\hat{H}, \hat{x}]\big] \big\rangle \tag{3}
 $$
 
-**II, Sottocfronto: ** L'operatore di impulso $\hat{p}$ e l'operatore di posizione soddisfano la relazione di incertezza di Heisenberg
+**II, Sottocfronto:** L'operatore di impulso $\hat{p}$ e l'operatore di posizione soddisfano la relazione di incertezza di Heisenberg
 $$
 [\hat{x}, \hat{p}] = i\hbar \tag{4}
 $$
@@ -537,23 +537,23 @@ $$
 $$
 La corrente trasportata dagli elettroni nella banda di conduzione descritta da Eq. (6) dà luogo al contributo $\sigma_c(\omega)$, che corrisponde a una modalità a frequenza zero con larghezza finita a causa della dispersione. Il contributo di frequenza finita ("carica vincolata") definito come $\sigma_b(\omega)$, deriva da transizioni ottiche tra le bande (interamente e parzialmente) occupate e (interamente e parzialmente) vuote.
 
-**Questione II: ** Supponiamo che la sostanza contenga un singolo elettrone e che occupi un stato di impulso proprio $|q\rangle$ nella banda di conduzione. Lascia tutte le altre band fuori considerazione e mostra con l'aiuto di Eqs. 3, 4 e 6 che $\sigma_c(\omega)$ soddisfa
+**Questione II:** Supponiamo che la sostanza contenga un singolo elettrone e che occupi un stato di impulso proprio $|q\rangle$ nella banda di conduzione. Lascia tutte le altre band fuori considerazione e mostra con l'aiuto di Eqs. 3, 4 e 6 che $\sigma_c(\omega)$ soddisfa
 $$
 \int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\,\frac{\partial^2\varepsilon_c(q)}{\partial q^2} \tag{8}
 $$
 
-**III, Sottopiede: ** La generalizzazione multi-elettronica di Eq. (8) è un'attività piuttosto lunga che non vi chiediamo di fare. Ha il seguente risultato:
+**III, Sottopiede:** La generalizzazione multi-elettronica di Eq. (8) è un'attività piuttosto lunga che non vi chiediamo di fare. Ha il seguente risultato:
 $$
 \int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\sum_k n_c(k)\,\frac{\partial^2\varepsilon_c(k)}{\partial k^2} \tag{9}
 $$
 in cui $n_c(k) \in \{0;1\}$ è il numero medio di elettroni di conduttività con impulso $k$. Nel limite di temperatura molto elevata, $n_c(k)$ tende verso una costante indipendente da $k$: $\lim_{T\to\infty} n_c(k) = n_c$.
 
-**Questione III: ** Mostra che
+**Questione III:** Mostra che
 $$
 \lim_{T\to\infty}\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = 0 \tag{10}
 $$
 
-**IV, Sostenibile: ** Tuttavia, poiché gli elettroni possono essere eccitati termicamente da una banda all'altra, la limitazione a una singola banda non è giustificata a temperatura finita. Infatti la seguente regola somma per la piena conducibilità ($\sigma = \sigma_c + \sigma_b$) si applica a qualsiasi temperatura
+**IV, Sostenibile:** Tuttavia, poiché gli elettroni possono essere eccitati termicamente da una banda all'altra, la limitazione a una singola banda non è giustificata a temperatura finita. Infatti la seguente regola somma per la piena conducibilità ($\sigma = \sigma_c + \sigma_b$) si applica a qualsiasi temperatura
 $$
 \int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi N e^2}{2 m_e V} \tag{11}
 $$
@@ -563,7 +563,7 @@ $$
 $$
 dove $N_c$ è il numero di elettroni nella banda di conduzione.
 
-**Questa IV: ** Dato che $m_c < m_e$, la natura consentirebbe una situazione in cui la banda di conduttività (rossa nella Figura 1) sarebbe l'unica banda occupata (parzialmente o completamente), implicando che la banda blu sarebbe assente dalla Figura 1? Spiegate il perché o il perché no.
+**Questa IV:** Dato che $m_c < m_e$, la natura consentirebbe una situazione in cui la banda di conduttività (rossa nella Figura 1) sarebbe l'unica banda occupata (parzialmente o completamente), implicando che la banda blu sarebbe assente dalla Figura 1? Spiegate il perché o il perché no.
 
 ![[PLANCKS_2017_p5_f1.png]]
 Figura 2: Sinistra: cristallo unico di bismuto. Pannello medio: Schema delle due bande vicine all'energia Fermi che sono le più rilevanti per lo spettro ottico mostrato nel pannello destro: la banda di conduzione (rosso) attraversa l'energia Fermi $E_F$. Una banda completamente occupata (blu) ha il suo massimo di circa $0.02\ \mathrm{eV}$ inferiore a $E_F$. Pannello a destra: conduttività ottica del bismuto. Si noti la presenza della modalità di frequenza zero, $\sigma_c(\omega)$, sotto $\hbar\omega \sim 0.02\ \mathrm{eV}$ per $T = 20\ \mathrm{K}$ (scensione ad energia superiore per temperature più elevate). L'aumento della conductività superiore a $0.02\ \mathrm{eV}$ corrisponde a $\sigma_b(\omega)$ e è dovuto a transizioni ottiche tra le due bande indicate nel pannello centrale.*
@@ -611,7 +611,7 @@ Marty, the driver in the first (front) locomotive is instructed to ignite his se
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Due locomotive ad acceleratore collegate da un telefono a contenitore ** *(Anton Rebhan, TU Vienna) *
+**Due locomotive ad acceleratore collegate da un telefono a contenitore** *(Anton Rebhan, TU Vienna) *
 
 Su una lunga ferrovia retta, due locomotive stanno per iniziare a muoversi nella stessa direzione a velocità relativistiche accendendo una serie di combustibili ad alta potenza (Presto Logs aka Superzündis) [^1], ognuna delle quali aumenterà istantaneamente la loro velocità della stessa quantità $\Delta v = \tfrac{3}{5}c = 0.6c$ rispetto al loro quadro inerziale attuale. Le due locomotive sono separate da uno spazio chiaro di $9\ \mathrm{m} = 30$ nanosecondi di luce (lns) su cui è speso un filo di gomma, collegando le due estremità di un telefono in latta, che funziona solo quando il filo di gomma è stato allungato alla sua lunghezza massima di $30\ \mathrm{lns}$, ma il filo si romperà se tenuto allungato qualsiasi quantità oltre che dopo la fase di accelerazione.
 

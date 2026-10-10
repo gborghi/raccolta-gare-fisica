@@ -98,23 +98,23 @@ Una delle ipotesi sull'origine degli anelli è che si sono formati dalla disinte
 
 Il satellite ha massa $m$, radio $r$ e densità uniforme $\rho_m$, e orbita, senza ruotare su se stesso, un pianeta di massa $M$, radio $R$ e densità $\rho_M$ a una distanza centro-centro $d$. Supponi $r \ll d$ e semplifica le espressioni risultanti con questo approccio quando possibile.
 
-**(a) ** Considera una massa di prova $\delta m$ sulla superficie del satellite, al punto più vicino al pianeta. Qual è la forza gravitazionale del satellite su $\delta m$?
+**(a)** Considera una massa di prova $\delta m$ sulla superficie del satellite, al punto più vicino al pianeta. Qual è la forza gravitazionale del satellite su $\delta m$?
 
-**(b) ** Calcola la forza di marea del pianeta su questa massa di prova, definita come la differenza tra la forza di attrazione esercitata dal pianeta su $\delta m$ e su una massa uguale al centro del satellite.
+**(b)** Calcola la forza di marea del pianeta su questa massa di prova, definita come la differenza tra la forza di attrazione esercitata dal pianeta su $\delta m$ e su una massa uguale al centro del satellite.
 
-**(c) ** Trova il limite di Roche, $d_{\text{Roche}}$: la distanza dal centro del pianeta al centro del satellite alla quale la massa di prova smette di essere legata al satellite e il satellite inizia a rompersi; esprimelo in termini di $R$, $\rho_M$ e $\rho_m$. Calcola il suo valore numerico per un satellite di ghiaccio poroso attorno a Saturno.
+**(c)** Trova il limite di Roche, $d_{\text{Roche}}$: la distanza dal centro del pianeta al centro del satellite alla quale la massa di prova smette di essere legata al satellite e il satellite inizia a rompersi; esprimelo in termini di $R$, $\rho_M$ e $\rho_m$. Calcola il suo valore numerico per un satellite di ghiaccio poroso attorno a Saturno.
 
 Finora abbiamo ignorato sia la deformazione del satellite che la sua possibile rotazione. Considera ora un satellite fluido e incompressibile un corpo senza rigidità interna, come una goccia d'acqua nello spazio, unita solo dalla sua stessa gravità in orbita circolare e con rotazione sincrona (sempre mostra la stessa faccia al pianeta). In queste condizioni, il satellite si allungerà in uno sferoide prolato (come una palla da rugby), con il suo asse maggiore puntando verso il pianeta.
 
-**(d) ** Per un satellite fluido che si allunga sotto le maree, deduce qualitativamente se il limite di Roche sarà inferiore, pari o superiore a quello calcolato in (c).
+**(d)** Per un satellite fluido che si allunga sotto le maree, deduce qualitativamente se il limite di Roche sarà inferiore, pari o superiore a quello calcolato in (c).
 
 Studieremo la deformazione che il satellite fluido subisce. Per questo è più semplice lavorare su un sistema di riferimento non inerziale che ruota con il satellite, a velocità angolare $\Omega$, intorno al pianeta. In questo sistema corrottivo il satellite è a riposo e l'accelerazione centripetata viene sperimentata come un'accelerazione centrifuga verso l'esterno.
 
-**(e) ** Determina l'accelerazione centrifugata di un punto situato a una distanza $x$ dal centro del satellite, con $x \geq 0$ nella direzione che si allontana dal pianeta  in termini di $G$, $M$, $d$ e $x$.
+**(e)** Determina l'accelerazione centrifugata di un punto situato a una distanza $x$ dal centro del satellite, con $x \geq 0$ nella direzione che si allontana dal pianeta  in termini di $G$, $M$, $d$ e $x$.
 
 Nel sistema corrotto, la deformazione del satellite è dovuta alla combinazione della forza gravitazionale del pianeta e della forza centrifugante.
 
-**(f) ** Dimostra che l'accelerazione netta di un punto situato a distanza $x$ dal centro del satellite, risultante dalla combinazione di accelerazione gravitazionale e centrifugato, può essere derivata da un potenziale di forma
+**(f)** Dimostra che l'accelerazione netta di un punto situato a distanza $x$ dal centro del satellite, risultante dalla combinazione di accelerazione gravitazionale e centrifugato, può essere derivata da un potenziale di forma
 $$V_T(x) = Px^2 + \text{const}$$
 Determina $P$ in termini di $G$, $M$ e $d$.
 
@@ -122,17 +122,17 @@ La superficie di un fluido in equilibrio, come nel caso del satellite, deve esse
 $$V_S(x,y,z) = -G\pi\rho\left(A_a x^2 + A_b y^2 + A_c z^2\right) + \text{const}$$
 in cui $A_a$, $A_b$ e $A_c$ sono coefficienti positivi che dipendono dalle proporzioni degli assi e soddisfano $A_a + A_b + A_c = 2$.
 
-**(g) ** Supponiamo che il satellite si estenda in uno sferoide prolato con semiezza maggiore $a$ (lungo $x$) e semiezza minore uguali, $b = c$ (lungo $y$ e $z$). La superficie è complessiva:
+**(g)** Supponiamo che il satellite si estenda in uno sferoide prolato con semiezza maggiore $a$ (lungo $x$) e semiezza minore uguali, $b = c$ (lungo $y$ e $z$). La superficie è complessiva:
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1,\quad b = c$$
 Dimostra che il potenziale di autogravitazione sulla superficie può essere scritto come
 $$V_S^{\text{superficie}} = -G\pi\rho_m\, f(\epsilon)\, x^2 + \text{const}$$
 dove $\epsilon = 1 - b^2/a^2$ è l'escentricità dello spheroide. Raccogli $f(\epsilon)$ in termini di $A_a$, $A_b$ e $\epsilon$.
 
-**(h) ** Quali sono le forme di $\epsilon = 0$ e $\epsilon \to 1$? Calcola $f(0)$ e $f(1)$. Sapendo che la funzione ha un unico massimo in $\epsilon_c = 0{,}86$ con valore $f_{\max} = 0{,}14$, disegna $f(\epsilon)$.
+**(h)** Quali sono le forme di $\epsilon = 0$ e $\epsilon \to 1$? Calcola $f(0)$ e $f(1)$. Sapendo che la funzione ha un unico massimo in $\epsilon_c = 0{,}86$ con valore $f_{\max} = 0{,}14$, disegna $f(\epsilon)$.
 
-**(i) ** Deriva un'espressione per il limite di Roche di un satellite fluido, $d_{\text{fluido}}$. Calcola il suo valore per un satellite di ghiaccio poroso attorno a Saturno.
+**(i)** Deriva un'espressione per il limite di Roche di un satellite fluido, $d_{\text{fluido}}$. Calcola il suo valore per un satellite di ghiaccio poroso attorno a Saturno.
 
-**(j) ** Considera ora una piccola particella sferica opaca degli anelli, permanentemente esposta al Sole e che riflette una frazione $A = 0{,}6$ della luce che riceve (l'albedo). Come ogni corpo a temperatura $T$, emette anche radiazioni termiche con una potenza per unità di superficie $e\sigma T^4$, dove $\sigma = 5{,}67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$ e, in questo caso, l'emissività è $e \approx 1$. Sapendo che Saturno orbita $d = 9{,}5\,\mathrm{UA}$ sul Sole e che il flusso solare a una distanza equivalente alla distanza dal Sole alla Terra (1 UA) è $F_0 = 1{,}36\,\mathrm{kW/m^2}$, calcola la temperatura della particella.
+**(j)** Considera ora una piccola particella sferica opaca degli anelli, permanentemente esposta al Sole e che riflette una frazione $A = 0{,}6$ della luce che riceve (l'albedo). Come ogni corpo a temperatura $T$, emette anche radiazioni termiche con una potenza per unità di superficie $e\sigma T^4$, dove $\sigma = 5{,}67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$ e, in questo caso, l'emissività è $e \approx 1$. Sapendo che Saturno orbita $d = 9{,}5\,\mathrm{UA}$ sul Sole e che il flusso solare a una distanza equivalente alla distanza dal Sole alla Terra (1 UA) è $F_0 = 1{,}36\,\mathrm{kW/m^2}$, calcola la temperatura della particella.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Thermodynamics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]

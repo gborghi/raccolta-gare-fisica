@@ -102,7 +102,7 @@ Consider each of the four answers and give at least one reason for each of them 
 
 <div class="qlang-split" data-lang="it"></div>
 
-** [8 punti] ** Prof. Saha ha dato il seguente problema a quattro studenti.
+**[8 punti]** Prof. Saha ha dato il seguente problema a quattro studenti.
 
 In questo problema il lavoro svolto da un sistema sul suo ambiente è considerato positivo. Un gas non ideale segue l'equazione di stato di Van der Waals
 
@@ -265,11 +265,11 @@ Quando Amina è in posizione A (come mostrato nella figura), lancia una palla co
 
 a) **[6 marchi]** Determina $u$, $\theta$ e $\phi$, in termini di $R$, $\omega$, $\alpha$ e di altri quantitativi pertinenti.
 
-b) **[3 punti] ** Se Amina lancia la palla con $\phi = 60^\circ$ e i valori appropriati di $\theta$ e $u$ in modo tale che Beena possa catturarla, qual è la magnitudine del spostamento, $s$, della palla quando viene catturata da Beena? Solo per questa parte, si deve prendere $R = 1.5$ m, e basta indicare la risposta entro un intervallo di 0,5 m.
+b) **[3 punti]** Se Amina lancia la palla con $\phi = 60^\circ$ e i valori appropriati di $\theta$ e $u$ in modo tale che Beena possa catturarla, qual è la magnitudine del spostamento, $s$, della palla quando viene catturata da Beena? Solo per questa parte, si deve prendere $R = 1.5$ m, e basta indicare la risposta entro un intervallo di 0,5 m.
 
 c) **[0,5 marchi]** Determina la velocità di lancio $u_D$ se Beena cattura la palla al punto D ($\angle BOD = 90^\circ$), invece di C.
 
-(d) **[3 punti] ** Qual è la velocità angolare $\omega_m$ del merry-go-round per il quale la velocità di lancio $u_D$ sarà minima per Beena per catturare la palla nella posizione D? Qual è la velocità minima di lancio $u_m$?
+(d) **[3 punti]** Qual è la velocità angolare $\omega_m$ del merry-go-round per il quale la velocità di lancio $u_D$ sarà minima per Beena per catturare la palla nella posizione D? Qual è la velocità minima di lancio $u_m$?
 
 (e) **[2,5 punti]** Si consideri il caso in cui Amina lancia la palla quando è in A, e la cattura da sola quando raggiunge il punto B (Beena non è coinvolta in questo caso). Prendete la velocità angolare del merry-go-round da $\omega = \sqrt{g/R}$. In questo caso, si trovano $u$, $\theta$ e $\phi$.
 

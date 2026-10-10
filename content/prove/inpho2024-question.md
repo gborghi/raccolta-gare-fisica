@@ -267,7 +267,7 @@ where $v_r = \dot{r}$ is the "radial" speed and $v_t = r\dot{\theta}$ is the "ta
 
 <div class="qlang-split" data-lang="it"></div>
 
-**3. Chandrayaan-3
+**3. Chandrayaan-3**
 
 Il 14 luglio 2023, il satellite lunare dell'India, Chandrayaan-3, è stato lanciato con successo dall'Organizzazione indiana per la ricerca spaziale (ISRO). Chandrayaan-3 (massa $m = 3900\ \text{kg}$) è stato portato sulla Luna attraverso una serie di orbite Earth Bound Manoeuvres (Eliptica) come descritto nella figura di seguito.
 
@@ -295,7 +295,7 @@ $$\vec{v} = v_r\hat{r} + v_t\hat{\theta} = \dot{r}\hat{r} + r\dot{\theta}\hat{\t
 
 dove $v_r = \dot{r}$ è la velocità "radial" e $v_t = r\dot{\theta}$ è la velocità "tangenziale". Rendere diagrammi schematici delle velocità $v_r$ e $v_t$ come funzioni di $\theta$ su un'orbita completa. Indicare i punti significativi delle parti in termini di $a$, $e$ e di altre variabili.
 
-b) **[1,5 punti] ** Ottenere un'espressione dell'energia totale ($E$) del satellite in orbita in termini di $a$ e di altre costanti.
+b) **[1,5 punti]** Ottenere un'espressione dell'energia totale ($E$) del satellite in orbita in termini di $a$ e di altre costanti.
 
 c) **[1 segni]** Tracciare l'energia cinetica (KE) del satellite come funzione di $\theta$ su un'orbita completa. Indicare i punti significativi in termini di $a$, $e$ e di altre variabili.
 
@@ -303,7 +303,7 @@ d) **[1,5 marchi]** Il perigeo e l'apoggio dell'orbita ellittica nella parte (a)
 
 (e) **[2,5 punti]** Per spostare Chandrayaan-3 dalla prima orbita (parte (d)) verso un'altra orbita ellittica EBN-1, è stato applicato un impulso istantaneo al perigeo cambiando la velocità di $\Delta v$, senza alterare la direzione. Questo ha cambiato l'apoggio a 41800 km sopra la superficie terrestre mantenendo il perigeo invariato. Calcolare $\Delta v$.
 
-(f) **[1,5 punti] ** Dopo una serie di manovre, Chandrayaan-3 è stato posizionato in un'orbita ellittica di ($100 \times 1437$) km intorno alla Luna. Qui le distanze sono calcolate dalla superficie della Luna. Calcolare il cambiamento di velocità $\Delta v'$, applicato al perigeo, che è necessario per portare Chandrayaan-3 da questa orbita ellittica ad un'orbita circolare a una distanza di 100 km dalla superficie della Luna. Per questa parte, supponiamo che Chandrayaan-3 sia solo sotto l'influenza del campo gravitazionale della Luna.
+(f) **[1,5 punti]** Dopo una serie di manovre, Chandrayaan-3 è stato posizionato in un'orbita ellittica di ($100 \times 1437$) km intorno alla Luna. Qui le distanze sono calcolate dalla superficie della Luna. Calcolare il cambiamento di velocità $\Delta v'$, applicato al perigeo, che è necessario per portare Chandrayaan-3 da questa orbita ellittica ad un'orbita circolare a una distanza di 100 km dalla superficie della Luna. Per questa parte, supponiamo che Chandrayaan-3 sia solo sotto l'influenza del campo gravitazionale della Luna.
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
@@ -358,7 +358,7 @@ $$\vec{B} = \begin{cases} B\hat{z} & \text{for } x \le 0 \\ 0 & \text{for } x \g
 
 a) **[5 punti]** Ottenere $x(t)$, la posizione del bordo inferiore del ciclo in tempo $t$, in termini di variabili pertinenti.
 
-b) **[6 punti] ** Immaginate diversi possibili scenari per la natura del movimento del ciclo e del diagramma $x(t)$ per ciascuno.
+b) **[6 punti]** Immaginate diversi possibili scenari per la natura del movimento del ciclo e del diagramma $x(t)$ per ciascuno.
 
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
@@ -421,7 +421,7 @@ Inizialmente, i pistoni sono tenuti in posizione da un meccanismo esterno. Al te
 
 a) **[6 punti]** Determina la velocità ($v_p$) di ciascun pistone in termini di temperatura del gas $T$ e di altre variabili pertinenti. A che temperatura ($T_c$) il processo non è più quasi-istatico? Calcolare $T_c$.
 
-b) **[4 punti] ** Da qui, la nostra analisi è limitata al regime quasi-istatico del processo. Definire $u = T/T_0$. Ottenere la relazione tra $u$ e $t$ nella seguente forma
+b) **[4 punti]** Da qui, la nostra analisi è limitata al regime quasi-istatico del processo. Definire $u = T/T_0$. Ottenere la relazione tra $u$ e $t$ nella seguente forma
 
 $$t = f(u)$$
 
@@ -429,7 +429,7 @@ La risposta può essere lasciata in termini di un'integrale appropriata che coin
 
 c) **[4 segni]** Grafica qualitativa del tasso di variazione della temperatura ($dT/dt$) rispetto a $T$. Indicare qualsiasi punto significativo (s) sull'asse di temperatura del plot.
 
-d) **[4 punti] ** A che ora $t$ la temperatura $T$ del gas raggiunge i 20K? Qual è la velocità del pistone ($v_p$) a questo punto?
+d) **[4 punti]** A che ora $t$ la temperatura $T$ del gas raggiunge i 20K? Qual è la velocità del pistone ($v_p$) a questo punto?
 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]

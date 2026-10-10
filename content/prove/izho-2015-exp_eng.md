@@ -51,6 +51,10 @@ In this part of the experiment it is necessary for you to propose an installatio
 
 **3.2** Plot the calibrating graph for your scales, i.e. the dependence of the voltage on the chosen element as a function of the load weight.
 
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

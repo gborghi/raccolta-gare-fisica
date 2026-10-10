@@ -1250,7 +1250,7 @@ where $k$ and $m$ are integers.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problemi aperti  Problema 5: Energia per rompere completamente il Sole (7 punti). **
+**Problemi aperti  Problema 5: Energia per rompere completamente il Sole (7 punti).**
 
 Considerando l'energia potenziale gravitazionale per separare tutta la massa solare fino all'infinito, stimare l'energia necessaria per rompere completamente il Sole. Esprimete la vostra risposta in termini di $M_S$ (massa del Sole), $R_S$ (radio del Sole) e $G$ (constante gravitazionale). Si può supporre che i) il Sole sia sferico e ii) la densità del Sole sia uniforme.
 

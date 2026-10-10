@@ -492,7 +492,7 @@ $$M_* = \frac{4\pi^2}{G}\left(\frac{T^2}{a^3}\right)^{-1} = \frac{4\pi^2}{6{,}67
 
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p5_f2.png]]
-*orbite stelle intorno a Sagittario A**
+*orbite stelle intorno a Sagittario A
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p6_f3.png]]
@@ -845,7 +845,7 @@ $$M_* = \frac{4\pi^2}{G}\left(\frac{T^2}{a^3}\right)^{-1} = \frac{4\pi^2}{6{,}67
 
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p5_f2.png]]
-*orbite stelle intorno a Sagittario A**
+*orbite stelle intorno a Sagittario A
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p6_f3.png]]

@@ -73,7 +73,7 @@ I spruzzatori d'acqua si trovano in vari luoghi come allevamenti agricoli, parch
 *Fig. 1: Sezione trasversale schematica di un spruzzatore a fontana a forma emisfera.*
 <!--fig:end-->
 
-**Parte A: Buchi uniformemente distribuiti sulla superficie dell'emisfero (6,0 punti) **
+**Parte A: Buchi uniformemente distribuiti sulla superficie dell'emisfero (6,0 punti)**
 
 In primo luogo, si consideri che la distribuzione dei buchi sulla superficie dell'emisfero sia uniforme (cioè: $\rho(\theta)$ è una costante).
 
@@ -87,7 +87,7 @@ In primo luogo, si consideri che la distribuzione dei buchi sulla superficie del
 
 **A.5** Se si lascia $h \to 0$ nella gamma ottenuta in **A.4**, è indicato che $R = \frac{v_o^2}{g}\sin 2\theta$. *(0.5pt)*
 
-**Parte B: Buchi distribuiti non uniformemente sulla superficie dell'emisfero (4,0 punti) **
+**Parte B: Buchi distribuiti non uniformemente sulla superficie dell'emisfero (4,0 punti)**
 
 Ora, si consideri che l'area dei fori per unità di area $\rho(\theta)$ sia distribuita in modo non uniforme e dipenda dall'angolo $\theta$.
 
@@ -201,7 +201,7 @@ se $n_1$ e $n_2$ sono gli indici di rifrazione delle parti inferiori e superiori
 *Fig. 1: Rifrazione della luce da un mezzo dielettrico con indice di rifrazione $n_1$ a un secondo mezzo dielettrico con indice di rifrazione $n_2$.*
 <!--fig:end-->
 
-**Parte A: Propagazione della luce attraverso una semisfera (1.5 punti) **
+**Parte A: Propagazione della luce attraverso una semisfera (1.5 punti)**
 
 **Fig. 2** illustra come la luce costituita da due raggi di colore diverso, $a$ e $b$, si incontra nell'aria lungo il raggio di una semisfera con indice di rifrazione $n_x$, prima di essere rifracciata in fondo ad un angolo di $\theta_a$ e $\theta_b$, rispettivamente.
 
@@ -214,7 +214,7 @@ se $n_1$ e $n_2$ sono gli indici di rifrazione delle parti inferiori e superiori
 
 Quando l'angolo di incidenza, $\theta_i$, è lentamente aumentato a $45^\circ$, il raggio $b$ non esce più dal fondo della semisfera. Quando $\theta_i$ viene ulteriormente aumentato a $50^\circ$, lo stesso accade per il raggio $a$. Qual è la differenza tra l'indice di rifrazione del raggio $a$ e $b$ nella semisfera? *(1.0pt)*
 
-**Parte B: Propagazione della luce attraverso una canna cilindrica (3,5 punti) **
+**Parte B: Propagazione della luce attraverso una canna cilindrica (3,5 punti)**
 
 Una canna cilindrica ha un indice di rifrazione $n_1 = 1.50$. La canna è collocata in aria, con un'estremità rivestita di un polimero con indice di rifrazione $n_2 = 1.40$, come mostrato nella figura **. 3** di seguito. La luce si incide dal polimero nella canna ad un angolo $\theta$. Quando $\theta$ viene modificato, si verifica un caso in cui la luce si riflette completamente sul polimero.
 
@@ -223,15 +223,15 @@ Una canna cilindrica ha un indice di rifrazione $n_1 = 1.50$. La canna è colloc
 *Fig. 3: Una barra cilindrica con un'estremità rivestita di un polimero con indice di rifrazione $n_2$, dove $n_2 < n_1$.*
 <!--fig:end-->
 
-**B.1 ** Determina l'intervallo di angolo di incidenza, $\theta$, per ottenere questa condizione. *(2.0pt)*
+**B.1** Determina l'intervallo di angolo di incidenza, $\theta$, per ottenere questa condizione. *(2.0pt)*
 
 **B.2** Come cambia la condizione di **B.1**,
 
-&nbsp;&nbsp;&nbsp;&nbsp;**(i) ** se l'altra estremità aperta della canna è ora rivestita di uno spessore strato di olio con un indice di rifrazione di 1,60? *(0.6pt)*
+&nbsp;&nbsp;&nbsp;&nbsp;**(i)** se l'altra estremità aperta della canna è ora rivestita di uno spessore strato di olio con un indice di rifrazione di 1,60? *(0.6pt)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;**(ii) ** se l'impianto è messo in acqua con un indice di rifrazione di 1,33? *(0.9pt)*
+&nbsp;&nbsp;&nbsp;&nbsp;**(ii)** se l'impianto è messo in acqua con un indice di rifrazione di 1,33? *(0.9pt)*
 
-**Parte C: Propagazione della luce attraverso una fibra ottica (5,0 punti) **
+**Parte C: Propagazione della luce attraverso una fibra ottica (5,0 punti)**
 
 La fibra ottica si forma circondando il mezzo con un indice di rifrazione $n_1$ con un indice di rifrazione inferiore $n_2$, come mostrato nella figura **. 4** di seguito. Il mezzo con indice di rifrazione $n_1$ è noto come rivestimento a fibra. L'indice di rifrazione, $n_3$, è tipicamente l'indice di rifrazione dell'aria ($n_3 = 1$).
 
@@ -240,7 +240,7 @@ La fibra ottica si forma circondando il mezzo con un indice di rifrazione $n_1$ 
 *Fig. 4: Schema di una fibra ottica e della sua sezione trasversale.*
 <!--fig:end-->
 
-**C.1 ** Per che la luce si diffonda all'interno della fibra ottica, è necessario prima accoppiarla nella fibra ottica. L'angolo massimo dell'incidente luminoso alla fine della fibra, $\theta_a$, in modo che la luce possa essere guidata all'interno della fibra senza essere refratta, è correlato agli indici di refraczione del nucleo della fibra e del rivestimento. Considerate un raggio che si propaga all'interno della fibra ottica come mostrato nella figura **. 4** di seguito. Formulare la relazione tra l'angolo $\theta_a$ e gli indici di rifrazione. *(2.0pt)*
+**C.1** Per che la luce si diffonda all'interno della fibra ottica, è necessario prima accoppiarla nella fibra ottica. L'angolo massimo dell'incidente luminoso alla fine della fibra, $\theta_a$, in modo che la luce possa essere guidata all'interno della fibra senza essere refratta, è correlato agli indici di refraczione del nucleo della fibra e del rivestimento. Considerate un raggio che si propaga all'interno della fibra ottica come mostrato nella figura **. 4** di seguito. Formulare la relazione tra l'angolo $\theta_a$ e gli indici di rifrazione. *(2.0pt)*
 
 Le fibre ottiche non sono sempre allineate in linea retta, ma devono essere piegate per attraversare spazi diversi. Dato il diametro del nucleo della fibra $50\ \mu\text{m}$, se il raggio di piegatura minimo della fibra ottica è $1.0\ \text{cm}$, quanto cambierà $\theta_a$? *(2.6pt)*
 
@@ -358,15 +358,15 @@ The energy density required for the production of such jet can be written in ter
 
 Il primo quasar scoperto: rivelazione dei misteri della fonte astrofisica 3C 273
 
-**Parte A: Movimento apparente della Luna contro le stelle di fondo (1.8 punti) **
+**Parte A: Movimento apparente della Luna contro le stelle di fondo (1.8 punti)**
 
 La Luna richiede 27,3 giorni per completare 1 orbita della Terra rispetto alle stelle, un periodo noto come mese sidereale. Attraverso un telescopio, il movimento della luna è facilmente evidente, ma per l'occhio, richiede una attenta osservazione per diverse ore per notare la posizione cambiante della Luna. Ricordando che 3600 secondi d'arco = 60 minuti d'arco = 1 grado, quindi, attraverso quanti gradi, minuti d'arco e secondi d'arco la Luna si muove contro lo sfondo delle stelle in
 
-**A.1 ** un'ora? - Un minuto? - Un secondo? - No. *(1.3pt)*
+**A.1** un'ora? - Un minuto? - Un secondo? - No. *(1.3pt)*
 
 Quanto tempo ci vuole per spostare la Luna a una distanza pari al suo diametro nel cielo? (Nota: il diametro angolare della luna vista dalla Terra è di 30 minuti d'arco) *(0,5pt) *
 
-**Parte B: Uso delle ocultazioni lunari per determinare con precisione le posizioni della fonte radio: il caso di 3C 273 (1,8 punti) **
+**Parte B: Uso delle ocultazioni lunari per determinare con precisione le posizioni della fonte radio: il caso di 3C 273 (1,8 punti)**
 
 Alla fine degli anni '50 e all'inizio degli anni '60, non erano disponibili misure di posizione radio con questa precisione. Mentre le occultazioni erano state usate in precedenza, Hazard era specificamente interessato alla loro capacità di determinare posizioni radio e struttura con precisione di arco secondo. Tali misurazioni sono state effettuate nel quadro di riferimento ottico, consentendo così un'identificazione ottica affidabile. Hazard aveva notato che la forte fonte radio di classe II 3C 273 sarebbe stata nascosta dalla Luna (noto anche come occultazione) diverse volte durante il 1962 e il 1963.
 
@@ -377,7 +377,7 @@ L'occultamento del 5 agosto 1962 è stato effettuato a 410 e 136 MHz. Sono state
 *Fig. 1: I registri di scomparsa e riapparimenti del 5 agosto 1962 a 410 MHz, prelevati da Hazard et al. (1963). Si noti che il tempo aumenta da destra a sinistra e che la Luna si muove anche da destra a sinistra. Il pannello inferiore mostra le posizioni dei componenti sorgenti A e B rispetto all'arto della Luna alla scomparsa e alla riapparenza.*
 <!--fig:end-->
 
-**B.1 ** Cosa causa l'oscillazione nell'intensità osservata? *(0.6pt)*
+**B.1** Cosa causa l'oscillazione nell'intensità osservata? *(0.6pt)*
 
 &nbsp;&nbsp;&nbsp;A. Il modello di diffrazione del telescopio
 &nbsp;&nbsp;&nbsp;&nbsp;B. Instabilità nel monte del telescopio
@@ -393,7 +393,7 @@ Perché non c'è un'ulteriore urticaria per la componente B nella trama sinistra
 
 Basato sulla risposta di **A.1** a **A.4** e sui dati riportati nella figura **. 1**, stima la separazione angolare apparente (progettata) approssimativa tra i due componenti di 3C 273. *(0.6pt)*
 
-**Parte C: La scoperta rivoluzionaria della vera natura di 3C 273 (1,8 punti) **
+**Parte C: La scoperta rivoluzionaria della vera natura di 3C 273 (1,8 punti)**
 
 Nel 1962, anno delle osservazioni, Maarten Schmidt lavorava al programma di identificazione ottica e spettroscopia degli oggetti ottici identificati con fonti radio. Whiteoak menziona come un pensiero posteriore che il "attuale pensiero di Caltech" è che la potenziale identificazione 3C 273 è con una stella e un strano getto. Dato che nessuna altra stella brillante era stata proposta come fonte di identificazione radio, ha supposto che la stella brillante di magnitudo 13 (la magnitudo conta come un modo per misurare quanto brillante è una stella; più brillante è la stella, minore è il numero) fosse semplicemente una stella di primo piano confusa molto brillante. Per ottenere uno spettro del debole jet, che vedeva come l'identificazione più probabile, era inevitabile che la stella brillante confusa a pochi secondi d'arco si riversasse in qualsiasi spettro del jet che avrebbe ottenuto. Per compensare questo, Maarten Schmidt aveva deciso di ottenere prima uno spettro di questa stella brillante. Nella notte del 29 dicembre è riuscito a ottenere uno spettro della brillante "stella" che mostrava alcune sfavorevoli linee di emissioni (**Fig. 2**), ma senza spiegazioni ovvie in termini di linee stellari attese. Solo quando Schmidt decise di confrontare lo strano spettro con le linee di idrogeno di Balmer, le cose divennero chiare:
 
@@ -404,11 +404,11 @@ Nel 1962, anno delle osservazioni, Maarten Schmidt lavorava al programma di iden
 
 **C.1** Confronta i rapporti di lunghezza d'onda delle linee mostrate nella figura **. 2**. In base a questi rapporti, qual è il spostamento rosso $z = \frac{\lambda - \lambda_0}{\lambda_0}$ di questa fonte? *(0.6pt)*
 
-**C.2 ** Si consideri che questo spostamento rosso sia dovuto agli effetti gravitazionali relativistici della massa dell'oggetto. In questo caso, possiamo stimare il spostamento di rossa gravitazionale come $z = \dfrac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1$. Prova che, se mettiamo 3C 273 a qualsiasi distanza (ad esempio, bordo della Via Lattea, $r \sim 100\ \text{kpc} \sim 3 \times 10^{21}\ \text{m}$; bordo del Sistema Solare, $r \sim 100\ \text{AU} \sim 1.5 \times 10^{13}\ \text{m}$), la massa di 3C 273 sarebbe così grande che interromperebbe l'intero sistema solare. *(0.6pt)*
+**C.2** Si consideri che questo spostamento rosso sia dovuto agli effetti gravitazionali relativistici della massa dell'oggetto. In questo caso, possiamo stimare il spostamento di rossa gravitazionale come $z = \dfrac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1$. Prova che, se mettiamo 3C 273 a qualsiasi distanza (ad esempio, bordo della Via Lattea, $r \sim 100\ \text{kpc} \sim 3 \times 10^{21}\ \text{m}$; bordo del Sistema Solare, $r \sim 100\ \text{AU} \sim 1.5 \times 10^{13}\ \text{m}$), la massa di 3C 273 sarebbe così grande che interromperebbe l'intero sistema solare. *(0.6pt)*
 
 La legge di Hubble afferma che più le galassie si allontanano dalla Terra, più velocemente si allontanano. La costante di Hubble relaziona la velocità di recessione e la distanza di queste galassie, ed è uguale a $H \approx 75\ \text{km/s/Mpc}$. Con questa idea in mente, possiamo considerare invece che il spostamento calcolato al rosso è dovuto all'espansione cosmologica, e possiamo approssimare che $v \approx cz$. In tal caso, qual è la distanza di questo oggetto? Confronta questo con le dimensioni della Via Lattea. *(0.6pt)*
 
-**Parte D: L'illuminazione intrinseca della fonte radio 3C 273 (1,8 punti) **
+**Parte D: L'illuminazione intrinseca della fonte radio 3C 273 (1,8 punti)**
 
 Il flusso della fonte 3C 273 è stato misurato attraverso lo spettro radio e si è scoperto che segue l'equazione $F_\nu \sim 25000\,\nu^{(-0.3)}$ Jy, dove $\nu$ è la frequenza osservata in Hertz e un Jansky è definito come $1\ \text{Jy} = 10^{-26}\ \text{W m}^{-2}\ \text{Hz}^{-1}$. Naturalmente, poiché la fonte irradia su una sfera di raggio la distanza da noi, la luminosità intrinseca sarà data da $L_\nu = 4\pi d^2 F_\nu$. Con questo,
 
@@ -418,15 +418,15 @@ Il flusso della fonte 3C 273 è stato misurato attraverso lo spettro radio e si 
 
 Come si confronta la luminosità di 3C 273 con la luminosità del Sole ($L_{sun} = 3.82 \times 10^{26}\ \text{W}$) e della Via Lattea ($L_{MW} = 1.5 \times 10^{37}\, L_{sun}$) nella stessa gamma di frequenze? *(0.6pt)*
 
-**Parte E: La fonte di alimentazione di 3C 273 (1,4 punti) **
+**Parte E: La fonte di alimentazione di 3C 273 (1,4 punti)**
 
 Abbiamo visto che la luminosità di 3C 273 è troppo grande per una singola stella, anche per un'intera galassia. Pertanto, dovrebbe esserci un altro meccanismo, diverso dalle stelle, che produca tutta questa potenza.
 
-**E.1 ** Controllare che l'annientamento della materia con l'antimateria (ad esempio, $e^+ + e^- \to 2\gamma$) non spieghino questo, poiché produrrebbe raggi X molto energetici piuttosto che emissioni ottiche e radio. *(0.7pt)*
+**E.1** Controllare che l'annientamento della materia con l'antimateria (ad esempio, $e^+ + e^- \to 2\gamma$) non spieghino questo, poiché produrrebbe raggi X molto energetici piuttosto che emissioni ottiche e radio. *(0.7pt)*
 
 Qualcosa che è stato immediatamente proposto è stato l'accrescimento di materia in un buco nero supermassiccio. Controlliamo se l'energia potenziale può dare tutta questa energia: Consideriamo che il buco nero accumula una massa solare ($2 \times 10^{30}$ kg) verso il suo raggio Schwarzschild ($R_s = \frac{2GM}{c^2}$) ogni anno. Qual è la potenza che si può ottenere per l'accrescimento? Questo sarebbe sufficiente a spiegare le osservazioni discusse nelle lettere da D1 a D3? *(0.7pt)*
 
-**Parte F: Osservazioni moderne e natura dei componenti di 3C 273 (1,4 punti) **
+**Parte F: Osservazioni moderne e natura dei componenti di 3C 273 (1,4 punti)**
 
 Immagini moderne da vari telescopi (vedi ad esempio **Fig. 3**) hanno scoperto che le due componenti A e B misurate con l'occultamento lunare si riferiscono in realtà a un nucleo compatto, che ospita il buco nero, e a un getto che estende la distanza che hai calcolato prima. Si pensa che questo getto sia prodotto attraverso l'accelerazione delle particelle accretate attraverso il forte campo magnetico del buco nero, in modo simile le particelle del vento solare colpiscono il campo magnetico della Terra per produrre le aurore vicino ai poli, ma su scala molto più grande.
 

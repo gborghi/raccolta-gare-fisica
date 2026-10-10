@@ -86,20 +86,20 @@ L'orbita della Terra attorno al Sole è quasi circolare, ma quella di Plutone è
 
 En la **Tabla I** se encuentran datos suficientes para resolver las cuestiones que se plantean en este ejercicio.
 
-**a) ** Tenendo conto della terza legge di Kepler, si calcola il periodo di orbita di Plutone attorno al Sole.
+**a)** Tenendo conto della terza legge di Kepler, si calcola il periodo di orbita di Plutone attorno al Sole.
 
 Il piccolo Plutone ha non meno di cinque satelliti: Charonte, Nix, Hidra, Cerbero e Stigia. Il primo di questi è il più vicino a Plutone, e anche il più grande. Tanto è vero che si può considerare che il sistema Plutone-Caronte costituisca un "planeta doppio". Entrambi i corpi orbitano intorno al centro di massa (CM) del sistema a velocità angolare $\omega$, sottoposti all'interazione gravitazionale reciproca (vedi figura 3, con distanze $r_P$ e $r_C$ al CM e separazione totale $D$ tra i centri).
 
-**b) ** Supponendo che le orbite di Plutone e di Caronte intorno al CM siano circolari, determina analisi e calcola i raggi di queste orbite, $r_P$ e $r_C$.
+**b)** Supponendo che le orbite di Plutone e di Caronte intorno al CM siano circolari, determina analisi e calcola i raggi di queste orbite, $r_P$ e $r_C$.
 
 > **Aiuto:** Per risolvere la domanda precedente, basta sapere che è soddisfatta
 > $$M_P\, r_P = M_C\, r_C \quad (1)$$
 
-**c) ** Determina e calcola il periodo di rotazione di Plutone e Caronte attorno al suo CM, $T_{P-C}$. Esprimi il tuo risultato in giorni terrestri.
+**c)** Determina e calcola il periodo di rotazione di Plutone e Caronte attorno al suo CM, $T_{P-C}$. Esprimi il tuo risultato in giorni terrestri.
 
 Cuando la *New Horizons* estaba en las proximidades de Plutón, las señales de radio que enviaba tardaban unas cuatro horas y media en llegar a la Tierra.
 
-**d) ** Fa' una stima della distanza dalla Terra, in unità astronomiche, a cui si trovava la sonda.
+**d)** Fa' una stima della distanza dalla Terra, in unità astronomiche, a cui si trovava la sonda.
 
 Per concludere, aggiungiamo un po' di fantasia e immaginazione. Un giocatore NBA è in grado di saltare verticalmente fino a una altezza di $1{,}2\ \text{m}$.
 
@@ -144,16 +144,16 @@ The Earth's orbit around the Sun is almost circular, but Pluto's is elliptical w
 
 En la **Tabla I** se encuentran datos suficientes para resolver las cuestiones que se plantean en este ejercicio.
 
-**a) ** Taking into account Kepler's third law, calculate the period of Pluto's orbit around the Sun.
+**a)** Taking into account Kepler's third law, calculate the period of Pluto's orbit around the Sun.
 
 The small Pluto has no less than five satellites: Charon, Nix, Hydra, Cerberus, and Stigia. The first of these is the closest to Pluto, and also the largest. So much so that the Pluto-Caronte system can be considered a "double planet". Both bodies orbit around the centre of mass (CM) of the system at angular velocity $\omega$, subject to mutual gravitational interaction (see figure 3, with distances $r_P$ and $r_C$ to the CM and total separation $D$ between centres).
 
-**b) ** Assuming that the orbits of Pluto and Charon around the CM are circular, analytically determines and calculates the radii of these orbits, $r_P$ and $r_C$.
+**b)** Assuming that the orbits of Pluto and Charon around the CM are circular, analytically determines and calculates the radii of these orbits, $r_P$ and $r_C$.
 
 > **Help:** To solve the above question, it is enough to know that it is fulfilled
 > $$M_P\, r_P = M_C\, r_C \quad (1)$$
 
-**c) ** Determines and calculates the period of rotation of Pluto and Charon around their CM, $T_{P-C}$. Express your result in earthly days.
+**c)** Determines and calculates the period of rotation of Pluto and Charon around their CM, $T_{P-C}$. Express your result in earthly days.
 
 Cuando la *New Horizons* estaba en las proximidades de Plutón, las señales de radio que enviaba tardaban unas cuatro horas y media en llegar a la Tierra.
 
@@ -246,13 +246,13 @@ Per farlo, sarà necessario perforare un tunnel che attraversasse diametralmente
 
 Determina:
 
-**a) ** Il campo gravitazionale che agisce sull'oggetto quando passa da un punto di coordinata $x$ rispetto al centro $O$ del pianeta.
+**a)** Il campo gravitazionale che agisce sull'oggetto quando passa da un punto di coordinata $x$ rispetto al centro $O$ del pianeta.
 
-**b) ** La velocità con cui l'oggetto passa attraverso il centro del pianeta.
+**b)** La velocità con cui l'oggetto passa attraverso il centro del pianeta.
 
-**c) ** Il tempo di viaggio da $A$ a $B$.
+**c)** Il tempo di viaggio da $A$ a $B$.
 
-**Dati: **
+**Dati:**
 
 - Costante di gravità universale: $G$
 - Radio del pianeta: $R$
@@ -287,11 +287,11 @@ To do this, it will be necessary to drill a tunnel that would cross the planet d
 
 Determine:
 
-**a) ** The gravitational field acting on the object when it passes through a coordinate point $x$ with respect to the centre $O$ of the planet.
+**a)** The gravitational field acting on the object when it passes through a coordinate point $x$ with respect to the centre $O$ of the planet.
 
-**b) ** The speed at which the object passes through the centre of the planet.
+**b)** The speed at which the object passes through the centre of the planet.
 
-**c) ** Travel time from $A$ to $B$.
+**c)** Travel time from $A$ to $B$.
 
 The data set shall be reported in the following table:
 
@@ -369,13 +369,13 @@ Quando si chiude il interruttore $S$, il condensatore si carica: le due schede a
 
 Supponendo che la capacità di aria sia praticamente uguale a quella di vuoto, $\varepsilon_0$, che la carica sia distribuita uniformemente sulle targhe e che il campo elettrico tra le targhe sia approssimativamente uniforme, determina:
 
-**a) ** Il carico elettrico assoluto su ciascuna delle schede, $Q$, in funzione di $\varepsilon_0$, $A$, $d$ e $\Delta V$.
+**a)** Il carico elettrico assoluto su ciascuna delle schede, $Q$, in funzione di $\varepsilon_0$, $A$, $d$ e $\Delta V$.
 
-**b) ** La forza di attrazione tra le lastre, a seconda di $\varepsilon_0$, $A$, $d$ e $\Delta V$.
+**b)** La forza di attrazione tra le lastre, a seconda di $\varepsilon_0$, $A$, $d$ e $\Delta V$.
 
-**c) ** L'espressione che permette di determinare $\Delta V$ in funzione di $\varepsilon_0$, $A$, $d$, $m$ e $g$.
+**c)** L'espressione che permette di determinare $\Delta V$ in funzione di $\varepsilon_0$, $A$, $d$, $m$ e $g$.
 
-**Aiuto:**Viacenti una distribuzione di carica uniforme e piana, con carica per unità di superficie $\sigma$, il campo elettrico è perpendicolare a tale distribuzione e modulo
+**Aiuto:** Viacenti una distribuzione di carica uniforme e piana, con carica per unità di superficie $\sigma$, il campo elettrico è perpendicolare a tale distribuzione e modulo
 
 $$E = \frac{\sigma}{2\varepsilon_0}$$
 
@@ -387,7 +387,7 @@ $$E = \frac{\sigma}{2\varepsilon_0}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P3. The absolute electrometer of Kelvin is the electrometer of the absolute electrometer of Kelvin.
+**P3. The absolute electrometer of Kelvin is the electrometer of the absolute electrometer of Kelvin.**
 
 The scientific and technological advances of the 19th century required the definition of patterns for electrical magnitudes, based on units of length, mass and time established after the French Revolution. Between 1861 and 1912 numerous experimental works were carried out with this aim in mind. One of them is the one that, in a very simplified way, is presented in this problem.
 
@@ -401,9 +401,9 @@ Assuming that the air permittivity is practically equal to that of the vacuum, $
 
 The absolute electrical charge on each plate, $Q$, according to $\varepsilon_0$, $A$, $d$ and $\Delta V$.
 
-**b) ** The force of attraction between plates, according to $\varepsilon_0$, $A$, $d$ and $\Delta V$.
+**b)** The force of attraction between plates, according to $\varepsilon_0$, $A$, $d$ and $\Delta V$.
 
-**c) ** The expression that allows the determination of $\Delta V$ in relation to $\varepsilon_0$, $A$, $d$, $m$ and $g$.
+**c)** The expression that allows the determination of $\Delta V$ in relation to $\varepsilon_0$, $A$, $d$, $m$ and $g$.
 
 **Help:** In the vicinity of a flat and uniform load distribution, with load per unit area $\sigma$, the electric field is perpendicular to that distribution and module
 

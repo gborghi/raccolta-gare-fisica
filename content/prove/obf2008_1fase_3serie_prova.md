@@ -524,7 +524,7 @@ It is therefore possible to state, with regard to its translation movements in r
 
 08) A 1.0 kg weighted cart moves in a simple horizontal harmonious motion by the action of an irrelevant weighted spring without any friction with the plane on which it rests. As soon as it passes a zero-speed point, three kilograms of freshly prepared concrete mass falls vertically and instantly, and is housed there. Comparing the situation before and after the cart received the concrete load, it can be stated that:
 
-- ** The maximum acceleration of the cart or its total energy does not change.
+-  The maximum acceleration of the cart or its total energy does not change.
 - **B** the total system energy increases but the maximum speed does not change.
 - **C.** the maximum speed does not change, but the period of oscillation of the cart is reduced by half.
 - **D.** neither the period of oscillation nor the amplitude of movement are modified.
@@ -861,7 +861,7 @@ It is correct what is stated only in:
 - **A.** I e IV.
 - **B.** I
 - **C.** II e IV.
-- ** D** II and III.
+- **D** II and III.
 - **E** III.
 
 **Topic:** [[Thermodynamics]]
@@ -1025,7 +1025,7 @@ We can say that it is not correct only a statement is true:
 - **A.** I e II.
 - **B.** II.
 - **C** III.
-- ** D** II and III.
+- **D** II and III.
 - **E.** I.
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]

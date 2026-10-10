@@ -157,7 +157,7 @@ dove $K_i$ e $K_f$ sono rispettivamente le energie cinetiche traslazionali total
 
 Nella parte A, utilizzare la meccanica classica non relativistica per risolvere tutti i problemi. Tutti gli effetti dovuti alla gravità devono essere trascurati.
 
-**(a) ** Come mostrato alla figura. 1, una particella elementare di massa $m$ si muove lungo l'asse $x$ con $x$-componente di impulso $p_1 > 0$. Dopo essere stato disperso da un obiettivo stazionario di massa $M$, il suo impulso diventa $\vec{p}_2$.
+**(a)** Come mostrato alla figura. 1, una particella elementare di massa $m$ si muove lungo l'asse $x$ con $x$-componente di impulso $p_1 > 0$. Dopo essere stato disperso da un obiettivo stazionario di massa $M$, il suo impulso diventa $\vec{p}_2$.
 
 ![[APhO_2010_theory_Q1_p1_f1.png]]
 
@@ -165,7 +165,7 @@ Nella parte A, utilizzare la meccanica classica non relativistica per risolvere 
 
 Dalle informazioni su $\vec{p}_2$ si può determinare se la particella di destinazione è elementare o composta. Presumere che $\vec{p}_2$ si trovi nel piano $x$-$y$ e che i componenti $x$- e $y$ di $\vec{p}_2$ siano dati rispettivamente da $p_{2x}$ e $p_{2y}$.
 
-**(i) ** Trova un'espressione per $Q$ in termini di $m$, $M$, $p_1$, $p_{2x}$ e $p_{2y}$. *[0,2 punto]*
+**(i)** Trova un'espressione per $Q$ in termini di $m$, $M$, $p_1$, $p_{2x}$ e $p_{2y}$. *[0,2 punto]*
 
 **(ii)** If the target particle is elementary, the momenta $p_1$, $p_{2x}$, and $p_{2y}$ are related in a particular way by a condition.
 
@@ -173,7 +173,7 @@ Per un dato $p_1$, tracciare la condizione come curva nel piano $p_{2x}$-$p_{2y}
 
 Per un bersaglio composto stazionario nel suo stato di base prima della dispersione, quale regione di $Q$ contiene i punti di $\vec{p}_2$ consentiti? *[0,2 punto]*
 
-**(b) ** Ora, consideriamo un obiettivo composto costituito da due particelle elementari ognuna con massa $\tfrac{1}{2}M$. Sono collegate da una sorgente di massa trascurabile. Vedi Fig. 2. La molla ha una costante di forza $k$ e non si piega lateralmente. Inizialmente, l'obiettivo è stazionario con il suo centro di massa all'origine $O$, e la molla, inclinata ad un angolo $\theta$ all'asse $x$, è alla sua lunghezza naturale $d_0$. Per semplicità, supponiamo che solo i movimenti vibrazionali e di rotazione possano essere eccitati nell'obiettivo a seguito della dispersione.
+**(b)** Ora, consideriamo un obiettivo composto costituito da due particelle elementari ognuna con massa $\tfrac{1}{2}M$. Sono collegate da una sorgente di massa trascurabile. Vedi Fig. 2. La molla ha una costante di forza $k$ e non si piega lateralmente. Inizialmente, l'obiettivo è stazionario con il suo centro di massa all'origine $O$, e la molla, inclinata ad un angolo $\theta$ all'asse $x$, è alla sua lunghezza naturale $d_0$. Per semplicità, supponiamo che solo i movimenti vibrazionali e di rotazione possano essere eccitati nell'obiettivo a seguito della dispersione.
 
 La particella elementare incidente di massa $m$ si muove nella direzione $x$ sia prima che dopo la dispersione con il suo momento dato rispettivamente da $p_1$ e $p_2$. Nota che $p_2$ è negativo se la particella si ritira e si muove indietro. Una dispersione si verifica solo se la particella incidentale colpisce una delle particelle bersaglio e $p_2 \neq p_1$. Supponiamo che tutte e tre le particelle si muovano nello stesso piano prima e dopo la dispersione.
 
@@ -183,7 +183,7 @@ La particella elementare incidente di massa $m$ si muove nella direzione $x$ sia
 
 **(i)** If the maximum length of the spring after scattering is $d_m$, find an equation which relates the ratio $x = (d_m - d_0)/d_0$ to the quantities $Q$, $\theta$, $d_0$, $m$, $k$, $M$, $p_1$ and $p_2$. *[0,7 punto]*
 
-**(ii) ** Lasciate $\alpha \equiv \sin^2 \theta$. Quando l'angolo di orientamento $\theta$ dell'obiettivo è consentito di variare, la sezione trasversale di dispersione $\sigma$ dà l'area di destinazione effettiva, in un piano normale alla direzione di incidenza, che consente di ottenere determinati risultati a seguito della dispersione. È noto che per tutti i risultati che portano allo stesso valore di $p_2$, il valore di $\alpha$ deve coprire un intervallo $(\alpha_{\min}, \alpha_{\max})$ e possiamo scegliere l'unità di sezione incrociata in modo che $\sigma$ sia semplicemente data dall'intervallo numerico $(\alpha_{\max} - \alpha_{\min})$ dell'intervallo. Si noti che $\alpha_{\min}$, $\alpha_{\max}$ e, di conseguenza, $\sigma$ dipendono da $p_2$. Il valore $p_c$ deve essere il valore soglia di $p_2$ al quale $\sigma$ inizia a diventare indipendente da $p_2$.
+**(ii)** Lasciate $\alpha \equiv \sin^2 \theta$. Quando l'angolo di orientamento $\theta$ dell'obiettivo è consentito di variare, la sezione trasversale di dispersione $\sigma$ dà l'area di destinazione effettiva, in un piano normale alla direzione di incidenza, che consente di ottenere determinati risultati a seguito della dispersione. È noto che per tutti i risultati che portano allo stesso valore di $p_2$, il valore di $\alpha$ deve coprire un intervallo $(\alpha_{\min}, \alpha_{\max})$ e possiamo scegliere l'unità di sezione incrociata in modo che $\sigma$ sia semplicemente data dall'intervallo numerico $(\alpha_{\max} - \alpha_{\min})$ dell'intervallo. Si noti che $\alpha_{\min}$, $\alpha_{\max}$ e, di conseguenza, $\sigma$ dipendono da $p_2$. Il valore $p_c$ deve essere il valore soglia di $p_2$ al quale $\sigma$ inizia a diventare indipendente da $p_2$.
 
 Nel limite di grande $k$, indicare una stima di $p_c$. Esprimere la risposta in termini di $m$, $M$ e $p_1$. *[1.1 punti]*
 
@@ -197,11 +197,11 @@ Considerate una corda elastica estesa tra due estremità fisse A e B, come mostr
 
 *Fig. 3*
 
-**(c) ** Trova il periodo di vibrazione $T$ per la corda. *[0,5 punto]*
+**(c)** Trova il periodo di vibrazione $T$ per la corda. *[0,5 punto]*
 
 Tracciare la forma della stringa a $t = T/8$. Nella trama, specificare lunghezze e angoli che servono a definire la forma della corda. *[1,7 punti]*
 
-**(d) ** Trova l'energia meccanica totale della corda vibrante in termini di $\mu$, $c$, $h$ e $L$. *[0,8 punto]*
+**(d)** Trova l'energia meccanica totale della corda vibrante in termini di $\mu$, $c$, $h$ e $L$. *[0,8 punto]*
 
 ### Parte C. Un universo in espansione
 
@@ -404,9 +404,9 @@ L'appendice alla fine della domanda elenca alcune formule matematiche e dati fis
 
 Supponiamo $b \ll D$ in modo da considerare il filo come una sottile striscia di larghezza $a$. La fonte delle coordinate $x$ è $O$. La direzione del flusso corrente è mostrata nella figura. 1.
 
-**(a) ** Trova la componente $x$ $B(x)$ del campo magnetico sull'asse della bobina come funzione di $x$ quando la corrente costante che attraversa la bobina è $I$. *[1,0 punto]*
+**(a)** Trova la componente $x$ $B(x)$ del campo magnetico sull'asse della bobina come funzione di $x$ quando la corrente costante che attraversa la bobina è $I$. *[1,0 punto]*
 
-**(b) ** Trova la corrente fissa $I_0$ che passa attraverso la bobina se $B(0)$ è $10.0$ T. Utilizzare i dati di cui alla tabella 1 per calcolare i valori numerici. *[0,4 punto]*
+**(b)** Trova la corrente fissa $I_0$ che passa attraverso la bobina se $B(0)$ è $10.0$ T. Utilizzare i dati di cui alla tabella 1 per calcolare i valori numerici. *[0,4 punto]*
 
 ### Parte B. Il limite superiore della corrente
 
@@ -416,13 +416,13 @@ Nella parte B, supponiamo che la lunghezza $\ell$ della bobina sia infinita e $b
 
 *Figura 2*
 
-**(c) ** Supponiamo che, quando la corrente è $I$, il diametro medio della bobina ampliata rimanga a un valore costante $D'$ maggiore di $D$, come mostrato nella figura. 2.
+**(c)** Supponiamo che, quando la corrente è $I$, il diametro medio della bobina ampliata rimanga a un valore costante $D'$ maggiore di $D$, come mostrato nella figura. 2.
 
 Trova la forza normale esterna per lunghezza unitaria $\Delta F_n/\Delta s$. *[1,2 punto]*
 
 Trova la tensione $F_t$ che agisce lungo il filo. *[0,6 punto]*
 
-**(d) ** Trascurare l'accelerazione della bobina durante l'espansione. Supponiamo che la curva si rompa quando l'allungamento unitario del filo (cioè tensione di trazione o variazione frazionaria della lunghezza) è del 60% e tensione di trazione (cioè tensione per unità di superficie trasversale del filo non tenso) è $\sigma_b = 455 \ \mathrm{MPa}$. Let $I_b$ be the current at which the turn will break and $B_b$ the corresponding magnetic field at the center $O$.
+**(d)** Trascurare l'accelerazione della bobina durante l'espansione. Supponiamo che la curva si rompa quando l'allungamento unitario del filo (cioè tensione di trazione o variazione frazionaria della lunghezza) è del 60% e tensione di trazione (cioè tensione per unità di superficie trasversale del filo non tenso) è $\sigma_b = 455 \ \mathrm{MPa}$. Let $I_b$ be the current at which the turn will break and $B_b$ the corresponding magnetic field at the center $O$.
 
 Trova un'espressione per $I_b$ e quindi calcola il suo valore. *[0,8 punto]*
 
@@ -432,13 +432,13 @@ Trova un'espressione per $B_b$ e quindi calcola il suo valore. *[0,4 punto]*
 
 Quando la corrente $I$ è $10.0$ kA e la temperatura $T$ della bobina è $293$ K, supponiamo che la resistività, la capacità termica specifica a pressione costante e la densità di massa del filo della bobina siano, rispettivamente, dati da $\rho_e = 1.72 \times 10^{-8} \ \Omega \cdot \mathrm{m}$, $c_p = 3.85 \times 10^{2} \ \mathrm{J/(kg \cdot K)}$ e $\rho_m = 8.98 \times 10^{3} \ \mathrm{kg \cdot m^{-3}}$.
 
-**(e) ** Trova un'espressione per la densità di potenza ** (cioè potenza per unità di volume) della produzione di calore nella bobina e quindi calcolare il suo valore. Utilizzare i dati riportati nella tabella 1. *[0,5 punto]*
+**(e)** Trova un'espressione per la densità di potenza  (cioè potenza per unità di volume) della produzione di calore nella bobina e quindi calcolare il suo valore. Utilizzare i dati riportati nella tabella 1. *[0,5 punto]*
 
-**(f) ** $\dot{T}$ deve essere il tasso temporale di variazione della temperatura della bobina. Trova un'espressione per $\dot{T}$ e quindi calcola il suo valore. *[0,5 punto]*
+**(f)** $\dot{T}$ deve essere il tasso temporale di variazione della temperatura della bobina. Trova un'espressione per $\dot{T}$ e quindi calcola il suo valore. *[0,5 punto]*
 
 ### Parte D. Un magnete a campo pulsato
 
-Se la corrente elevata necessaria per un magnete forte dura solo per un breve periodo, l'aumento della temperatura causato da un eccessivo riscaldamento Joule può essere notevolmente ridotto. Questa idea è impiegata in un magnete a campo pulsato **.
+Se la corrente elevata necessaria per un magnete forte dura solo per un breve periodo, l'aumento della temperatura causato da un eccessivo riscaldamento Joule può essere notevolmente ridotto. Questa idea è impiegata in un magnete a campo pulsato **.**
 
 Così, come si vede in Figura 1. 3, per guidare la corrente $I$ attraverso la bobina viene utilizzata una banca di condensatori di capacità $C$ caricata inizialmente a un potenziale $V_0$. Il circuito è dotato di un interruttore $K$. Si presume che l'induttanza $L$ e la resistenza $R$ del circuito siano interamente dovute alla bobina. La struttura e le dimensioni della bobina sono le stesse di quelle riportate nella figura. 1 e tabella 1. Supponiamo che $R$, $L$ e $C$ siano indipendenti dalla temperatura e che il campo magnetico sia lo stesso di un solenoide infinito con $\ell \to \infty$.
 
@@ -446,11 +446,11 @@ Così, come si vede in Figura 1. 3, per guidare la corrente $I$ attraverso la bo
 
 *Figura 3*
 
-**(g) ** Trova espressioni per l'induzione $L$ e la resistenza $R$. *[0,6 punto]*
+**(g)** Trova espressioni per l'induzione $L$ e la resistenza $R$. *[0,6 punto]*
 
 Calcolare i valori di $L$ e $R$. Utilizzare i dati riportati nella tabella 1. *[0,4 punto]*
 
-**(h) ** Al momento $t = 0$, il interruttore $K$ viene gettato alla posizione 1 e la corrente inizia a fluire. Per $t \geq 0$, la carica $Q(t)$ sulla piastra positiva del condensatore e la corrente $I(t)$ che entra nella piastra positiva sono indicate da:
+**(h)** Al momento $t = 0$, il interruttore $K$ viene gettato alla posizione 1 e la corrente inizia a fluire. Per $t \geq 0$, la carica $Q(t)$ sulla piastra positiva del condensatore e la corrente $I(t)$ che entra nella piastra positiva sono indicate da:
 
 $$
 Q(t) = \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin(\omega t + \theta_0), \tag{1}
@@ -472,11 +472,11 @@ Trova $\alpha$ e $\omega$ in termini di $R$, $L$ e $C$. *[0,8 punto]*
 
 Calcolare i valori di $\alpha$ e $\omega$ quando $C$ è $10.0$ mF. *[0,4 punto]*
 
-**(i) ** $I_m$ deve essere il valore massimo di $|I(t)|$ per $t > 0$. Trova un'espressione per $I_m$. *[0,6 punto]*
+**(i)** $I_m$ deve essere il valore massimo di $|I(t)|$ per $t > 0$. Trova un'espressione per $I_m$. *[0,6 punto]*
 
 Se $C = 10.0$ mF, qual è il valore massimo $V_{0b}$ della tensione iniziale $V_0$ della banca condensatore per la quale $I_m$ non supererà $I_b$ riscontrato nel problema (d)? *[0,4 punto]*
 
-**(j) ** Supponiamo che il switch $K$ sia spostato istantaneamente dalla posizione 1 alla posizione 2 quando il valore assoluto della corrente $|I(t)|$ raggiunge $I_m$. Il $\Delta E$ è la quantità totale di calore dissipato nella bobina da $t = 0$ a $\infty$ e $\Delta T$ l'aumento di temperatura corrispondente della bobina. Supponiamo che la tensione iniziale $V_0$ assume il valore massimo $V_{0b}$ ottenuto nel problema (i) e che la perdita di energia elettromagnetica sia solo sotto forma di calore dissipato nella bobina.
+**(j)** Supponiamo che il switch $K$ sia spostato istantaneamente dalla posizione 1 alla posizione 2 quando il valore assoluto della corrente $|I(t)|$ raggiunge $I_m$. Il $\Delta E$ è la quantità totale di calore dissipato nella bobina da $t = 0$ a $\infty$ e $\Delta T$ l'aumento di temperatura corrispondente della bobina. Supponiamo che la tensione iniziale $V_0$ assume il valore massimo $V_{0b}$ ottenuto nel problema (i) e che la perdita di energia elettromagnetica sia solo sotto forma di calore dissipato nella bobina.
 
 Trova un'espressione per $\Delta E$ e quindi calcola il suo valore. *[1,0 punto]*
 

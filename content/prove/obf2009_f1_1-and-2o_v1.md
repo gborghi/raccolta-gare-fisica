@@ -72,7 +72,7 @@ Dati sul Sole:
 | Temperatura no Centro | $1{,}5 \times 10^{7}$ K |
  Gravità superficiale  276 m/s2
 
-**01) ** Qualsiasi delle seguenti unità non può essere utilizzata per rappresentare la massa del Sole:
+**01)** Qualsiasi delle seguenti unità non può essere utilizzata per rappresentare la massa del Sole:
 
 - **A** kg (kg)
 - **B.** g (gramo)
@@ -106,7 +106,7 @@ This is the surface temperature.
 | Temperatura no Centro | $1{,}5 \times 10^{7}$ K |
 This is the first time that we've seen this.
 
-**01) ** Which of the following units cannot be used to represent the mass of the Sun:
+**01)** Which of the following units cannot be used to represent the mass of the Sun:
 
 - **A** kg (kg)
 - **B** g (gram)
@@ -145,7 +145,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**02) ** Indicare la temperatura del centro del Sole:
+**02)** Indicare la temperatura del centro del Sole:
 
 - **A.** 15.000.000 K
 - **B.** 1.500.000 K
@@ -161,7 +161,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**02) ** Please indicate below the temperature of the centre of the Sun:
+**02)** Please indicate below the temperature of the centre of the Sun:
 
 - **A.** 15.000.000 K
 - **B.** 1.500.000 K
@@ -200,7 +200,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**03) ** Indicare il valore approssimativo della massa terrestre:
+**03)** Indicare il valore approssimativo della massa terrestre:
 
 - **A.** $6{,}0 \times 10^{30}$ kg
 - **B.** 300.000 kg
@@ -216,12 +216,12 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**03) ** Indicate the approximate value of the mass of the Earth:
+**03)** Indicate the approximate value of the mass of the Earth:
 
 - **A.** $6{,}0 \times 10^{30}$ kg
 - **B.** 300.000 kg
 - **C.** $1{,}9 \times 10^{30}$ kg
-- ** D ** 300,000 tonnes
+- **D** 300,000 tonnes
 - **E.** $6{,}0 \times 10^{24}$ kg
 
 **Topic:** [[Astrophysics]], [[Order-of-Magnitude Estimation]]
@@ -255,7 +255,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**04) ** Una persona di massa pari a 100 kg avrà un peso "solari" di:
+**04)** Una persona di massa pari a 100 kg avrà un peso "solari" di:
 
 - **A.** 100 kg
 - **B** 100 tonnellate
@@ -271,7 +271,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**04) ** A person weighing 100 kg shall have a 'solar' weight of:
+**04)** A person weighing 100 kg shall have a 'solar' weight of:
 
 - **A.** 100 kg
 - **B** 100 tonnes
@@ -310,7 +310,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**05) ** Qual è l'energia totale emessa dal Sole in 100 secondi in kJ:
+**05)** Qual è l'energia totale emessa dal Sole in 100 secondi in kJ:
 
 - **A.** 100
 - **B.** $3{,}9 \times 10^{29}$
@@ -326,7 +326,7 @@ This is the first time that we've seen this.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**05) ** What is the total energy emitted by the Sun in 100 seconds in kJ:
+**05)** What is the total energy emitted by the Sun in 100 seconds in kJ:
 
 - **A.** 100
 - **B.** $3{,}9 \times 10^{29}$
@@ -374,7 +374,7 @@ Um ciclista percorre um percurso plano em linha reta. A distância por ele perco
 
 Un ciclista percorre un percorso piano in linea retta. La distanza percorsa in funzione del tempo è rappresentata nel grafico seguente. L'asse orizzontale rappresenta il tempo (orari) da 0 a 30 h e l'asse verticale rappresenta la distanza (km) da 0 a 70 km.
 
-**06) ** Qual è stato il spostamento totale del ciclista nel corso delle 30 ore dal punto di partenza:
+**06)** Qual è stato il spostamento totale del ciclista nel corso delle 30 ore dal punto di partenza:
 
 - **A.** 10 km
 - **B.** 5 km
@@ -441,7 +441,7 @@ The distance to the rider's time is 030 h*
 
 <div class="qlang-split" data-lang="it"></div>
 
-**07) ** Qual è il valore che meglio rappresenta la velocità media del ciclista durante le 30 ore di percorso:
+**07)** Qual è il valore che meglio rappresenta la velocità media del ciclista durante le 30 ore di percorso:
 
 - **A.** 1 km/h
 - **B.** −0,33 km/h
@@ -457,7 +457,7 @@ The distance to the rider's time is 030 h*
 
 <div class="qlang-split" data-lang="en"></div>
 
-**07) ** What is the value that best represents the average speed of the rider during the 30 hours of the journey:
+**07)** What is the value that best represents the average speed of the rider during the 30 hours of the journey:
 
 - **A.** 1 km/h
 - **B.** −0,33 km/h
@@ -496,7 +496,7 @@ The distance to the rider's time is 030 h*
 
 <div class="qlang-split" data-lang="it"></div>
 
-**08) ** Qual è stata la distanza totale percorsa dal ciclista nelle 30 ore di percorso:
+**08)** Qual è stata la distanza totale percorsa dal ciclista nelle 30 ore di percorso:
 
 - **A.** 110 km
 - **B.** 50 km
@@ -551,7 +551,7 @@ What was the total distance travelled by the rider in the 30 hours of the journe
 
 <div class="qlang-split" data-lang="it"></div>
 
-**09) ** Qual è la velocità del ciclista nelle prime 10 ore del percorso:
+**09)** Qual è la velocità del ciclista nelle prime 10 ore del percorso:
 
 - **A.** 1 km/h
 - **B.** 2 km/h
@@ -567,7 +567,7 @@ What was the total distance travelled by the rider in the 30 hours of the journe
 
 <div class="qlang-split" data-lang="en"></div>
 
-**09) ** What is the speed of the rider in the first 10 hours of the journey:
+**09)** What is the speed of the rider in the first 10 hours of the journey:
 
 - **A.** 1 km/h
 - **B.** 2 km/h
@@ -606,7 +606,7 @@ What was the total distance travelled by the rider in the 30 hours of the journe
 
 <div class="qlang-split" data-lang="it"></div>
 
-**10) ** Quanta energia il ciclista spende (in kJ) durante il percorso, considerando che per mantenere la sua velocità ha dovuto compensare solo lo scosciamento con l'aria utilizzando una forza costante di 1000 N:
+**10)** Quanta energia il ciclista spende (in kJ) durante il percorso, considerando che per mantenere la sua velocità ha dovuto compensare solo lo scosciamento con l'aria utilizzando una forza costante di 1000 N:
 
 - **A.** 10
 - **B.** 110.000
@@ -622,7 +622,7 @@ What was the total distance travelled by the rider in the 30 hours of the journe
 
 <div class="qlang-split" data-lang="en"></div>
 
-**10) ** What energy is spent by the rider (in kJ) during the course, considering that to maintain his speed he only had to compensate for the friction with the air by using a constant force of 1000 N:
+**10)** What energy is spent by the rider (in kJ) during the course, considering that to maintain his speed he only had to compensate for the friction with the air by using a constant force of 1000 N:
 
 - **A.** 10
 - **B.** 110.000
@@ -670,7 +670,7 @@ O gráfico a seguir descreve o movimento de um corpo de massa $M = 10$ kg ao lon
 
 Il grafico seguente descrive il movimento di un corpo di massa $M = 10$ kg lungo una traiettoria orizzontale e reticolare. L'asse orizzontale rappresenta il tempo (secondi) da 0 a 20 s, e l'asse verticale rappresenta la distanza (metri) da 0 a 40 m.
 
-**11) ** Quali sono le velocità del corpo nei tempi $t_1 = 0$ e $t_2 = 10$ s (in m/s):
+**11)** Quali sono le velocità del corpo nei tempi $t_1 = 0$ e $t_2 = 10$ s (in m/s):
 
 - **A.** 0 e 1,0
 - **B.** 0 e 2,0
@@ -693,7 +693,7 @@ Distanza vs tempo corpo M=10 kg
 
 The following graph describes the movement of a body of mass $M = 10$ kg along a horizontal and reticulated trajectory. The horizontal axis represents the time (seconds) from 0 to 20 s, and the vertical axis represents the distance (meters) from 0 to 40 m.
 
-**11) ** What is the body speed at times $t_1 = 0$ and $t_2 = 10$ s (in m/s):
+**11)** What is the body speed at times $t_1 = 0$ and $t_2 = 10$ s (in m/s):
 
 - **A.** 0 e 1,0
 - **B.** 0 e 2,0
@@ -737,7 +737,7 @@ The distance vs body time M=10 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**12) ** Qual è l'alternativa seguente per rappresentare la velocità media del corpo durante il percorso:
+**12)** Qual è l'alternativa seguente per rappresentare la velocità media del corpo durante il percorso:
 
 - **A.** 1,0 m/s
 - **B.** 1,5 m/s
@@ -753,7 +753,7 @@ The distance vs body time M=10 kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-**12) ** Which of the following alternatives represents the average body speed during the journey:
+**12)** Which of the following alternatives represents the average body speed during the journey:
 
 - **A.** 1,0 m/s
 - **B.** 1,5 m/s
@@ -792,7 +792,7 @@ The distance vs body time M=10 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**13) ** Qual è la seguente equazione che rappresenta il movimento $s(t)$ (distanza in funzione del tempo) descritto nel grafico precedente:
+**13)** Qual è la seguente equazione che rappresenta il movimento $s(t)$ (distanza in funzione del tempo) descritto nel grafico precedente:
 
 - **A.** $s(t) = 10t + 5t^2$
 - **B.** $s(t) = 5t^2$
@@ -808,7 +808,7 @@ The distance vs body time M=10 kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-**13) ** Which of the following equations represents the motion $s(t)$ (distance as a function of time) described in the graph above:
+**13)** Which of the following equations represents the motion $s(t)$ (distance as a function of time) described in the graph above:
 
 - **A.** $s(t) = 10t + 5t^2$
 - **B.** $s(t) = 5t^2$
@@ -918,7 +918,7 @@ Considerare un secondo corpo che esce a 30 m di distanza in $t = 0$ e in direzio
 
 <div class="qlang-split" data-lang="en"></div>
 
-**15) ** Consider a second body coming out 30 m away at $t = 0$ and in the opposite direction at constant speed. What is the time of collision between the two bodies, measured from $t = 0$, knowing that body 2 would reach the starting point of body 1 in 20 s if the two did not collide.
+**15)** Consider a second body coming out 30 m away at $t = 0$ and in the opposite direction at constant speed. What is the time of collision between the two bodies, measured from $t = 0$, knowing that body 2 would reach the starting point of body 1 in 20 s if the two did not collide.
 
 - **A.** 11,4 s
 - **B.** 9,1 s
@@ -965,7 +965,7 @@ Il riscaldamento globale si riferisce all'aumento della temperatura media degli 
 
 Rispondi alle domande 16 a 19 considerando che la temperatura dell'acqua negli oceani può variare da 10 °C a 35 °C, intervallo in cui le proprietà fisiche dell'acqua hanno un comportamento lineare.
 
-**16) ** Qual è l'alternativa che non corrisponde ai processi che si verificano quando una certa quantità di acqua ha un aumento della temperatura:
+**16)** Qual è l'alternativa che non corrisponde ai processi che si verificano quando una certa quantità di acqua ha un aumento della temperatura:
 
 - **A.** aumento della velocità media delle molecole nel liquido.
 - **B.** la densità dell'acqua aumenta.
@@ -985,7 +985,7 @@ Global warming refers to the increase in average ocean and near-Earth air temper
 
 Answer questions 16 to 19 considering that the temperature of water in the oceans can vary from 10 °C to 35 °C, an interval where the physical properties of water have a linear behavior.
 
-**16) ** Which of the following alternatives does not correspond to processes that occur when a certain amount of water has a temperature increase:
+**16)** Which of the following alternatives does not correspond to processes that occur when a certain amount of water has a temperature increase:
 
 - **A** increase in the mean velocity of molecules in the liquid.
 - **B** the density of the water increases.
@@ -1045,7 +1045,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 - **A** the level will remain unchanged.
 - **B** the level will decrease.
 - **C** the level will increase.
-- ** D** an increase followed by a decrease.
+- **D** an increase followed by a decrease.
 - **E.** it is not possible to say what may happen because there is insufficient data.
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
@@ -1079,7 +1079,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**18) ** Qual è l'energia consumata da una lampada da 100 W collegata per un'ora:
+**18)** Qual è l'energia consumata da una lampada da 100 W collegata per un'ora:
 
 - **A** 2.000 kWh
 - **B.** 100 J
@@ -1095,7 +1095,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 
 <div class="qlang-split" data-lang="en"></div>
 
-**18) ** What is the energy consumed by a 100 W lamp on for one hour:
+**18)** What is the energy consumed by a 100 W lamp on for one hour:
 
 - **A** 2,000 kWh
 - **B.** 100 J
@@ -1134,7 +1134,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**19) ** Una famiglia consuma in media 100 kWh di energia elettrica al mese. Indicare il valore equivalente in consumo di carbone di questa famiglia:
+**19)** Una famiglia consuma in media 100 kWh di energia elettrica al mese. Indicare il valore equivalente in consumo di carbone di questa famiglia:
 
 - **A.** 4.500 kg
 - **B.** 45.000 kg
@@ -1203,7 +1203,7 @@ Qual è il fenomeno fisico che spiega il principio di funzionamento della galass
 - **A** riflessione.
 - **B.** rifrazione.
 - **C.** difrazione.
-- ** D ** polarizzazione.
+- **D** polarizzazione.
 - **E.** dispersione.
 
 <!--fig:start-->
@@ -1226,8 +1226,8 @@ Which of the following physical phenomena explains the principle of operation of
 - The MRLs for the MRLs are set at:
 - **B** refraction.
 - **C** diffraction.
-- ** D ** polarization.
-- MSK0/>E** dispersion
+- **D** polarization.
+- MSK0/>E dispersion
 
 <!--fig:start-->
 ![[_attachments/OBF2009_F1_1&2o_v1/OBF2009_F1_1&2o_v1_p6_f3.png]]
@@ -1265,7 +1265,7 @@ The following is the list of the main types of locks in the LNG range:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**21) ** Si può affermare con assoluta certezza che i fasci incidendo in parallelo all'asse ottico dell'obiettivo:
+**21)** Si può affermare con assoluta certezza che i fasci incidendo in parallelo all'asse ottico dell'obiettivo:
 
 - **A** convergeranno al punto focale $F_1$.
 - **B.** convergeranno al punto focale $F_2$.
@@ -1336,7 +1336,7 @@ Quando abbiamo la condizione $d = F_1 + F_2$, possiamo affermare che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**22) ** When we have the following condition $d = F_1 + F_2$, we can say that:
+**22)** When we have the following condition $d = F_1 + F_2$, we can say that:
 
 - **A** the rays diverge from the optical axis after crossing the eye.
 - **B.** the rays emerge parallel to the optical axis after crossing the eyelid.
@@ -1396,7 +1396,7 @@ Let's say the lens set is as $F_1 = 100$ cm, $F_2 = 5$ cm and $d = 106$ cm. Wher
 - **A** 10 cm from the eyelid.
 - **B** 10 cm from the lens.
 - **C** 20 cm from the eyelid.
-- ** D** 30 cm from the eyelid.
+- **D** 30 cm from the eyelid.
 - **E** there is no image formation.
 
 **Topic:** [[Geometric Optics]]
@@ -1439,7 +1439,7 @@ Um pêndulo simples é composto por um fio inextensível (de massa desprezível)
 
 Un semplice pendolo è costituito da un filo inestensibile (di massa scarsa) di lunghezza $L$, su cui è appeso un corpo di massa $M$. Dal punto 1 la massa viene rilasciata dal riposo, oscilla fino al punto 3, passando per il punto 2, che è la posizione in cui il pendolo è allineato verticalmente. $H$ e $h$ rappresentano le distanze dal punto in cui il pendolo è fisso al punto 2; $g$ è l'accelerazione gravitazionale e $2\theta$ è il spostamento angolare tra 1 e 3. Non considerare le forze di attrito.
 
-**24) ** Qual è la potenza meccanica totale della massa $M$ di voce 3 a partire dalle variabili riportate in figura:
+**24)** Qual è la potenza meccanica totale della massa $M$ di voce 3 a partire dalle variabili riportate in figura:
 
 - **A.** $+Mg(H+h)$
 - **B.** $-Mg(H+h)$
@@ -1462,7 +1462,7 @@ Un semplice pendolo è costituito da un filo inestensibile (di massa scarsa) di 
 
 A simple pendulum is made up of an unstretchable wire (of negligible mass) $L$ in length, on which a body of $M$ mass is suspended. From position 1 the mass is released from the resting position, oscillates to point 3, passing through point 2, which is the position where the pendulum is aligned with the vertical. $H$ and $h$ represent distances from the point where the pendulum is fixed to the point 2; $g$ is the gravitational acceleration and $2\theta$ is the angular displacement between 1 and 3. Disregard the frictional forces.
 
-**24) ** What is the total mechanical energy of the mass $M$ in heading 3 from the variables shown in Figure:
+**24)** What is the total mechanical energy of the mass $M$ in heading 3 from the variables shown in Figure:
 
 - **A.** $+Mg(H+h)$
 - **B.** $-Mg(H+h)$
@@ -1506,7 +1506,7 @@ A simple pendulum is made up of an unstretchable wire (of negligible mass) $L$ i
 
 <div class="qlang-split" data-lang="it"></div>
 
-**25) ** Considerando due assi ortogonali orientati orizzontalmente e verticalmente, determinare i componenti della velocità del corpo in posizione 2, orizzontale e verticale rispettivamente:
+**25)** Considerando due assi ortogonali orientati orizzontalmente e verticalmente, determinare i componenti della velocità del corpo in posizione 2, orizzontale e verticale rispettivamente:
 
 - **A.** $0$ e $\sqrt{2gh}$
 - **B.** $\sqrt{2gh}$ e $0$
@@ -1522,7 +1522,7 @@ A simple pendulum is made up of an unstretchable wire (of negligible mass) $L$ i
 
 <div class="qlang-split" data-lang="en"></div>
 
-**25) ** Considering two orthogonal axes oriented horizontally and vertically, determine the components of the body speed at position 2, horizontally and vertically respectively:
+**25)** Considering two orthogonal axes oriented horizontally and vertically, determine the components of the body speed at position 2, horizontally and vertically respectively:
 
 - **A.** $0$ e $\sqrt{2gh}$
 - **B.** $\sqrt{2gh}$ e $0$
@@ -1561,7 +1561,7 @@ A simple pendulum is made up of an unstretchable wire (of negligible mass) $L$ i
 
 <div class="qlang-split" data-lang="it"></div>
 
-**26) ** Qual è l'alternativa seguente che fornisce informazioni errate sul movimento del pendolo come descritto sopra:
+**26)** Qual è l'alternativa seguente che fornisce informazioni errate sul movimento del pendolo come descritto sopra:
 
 - **A.** Il tempo di oscillazione del pendolo tra le posizioni 1 e 3 e il tempo di ritorno da posizione 3 a 1 sono uguali.
 - **B.** La massa $M$ ha la massima velocità nella posizione 2.
@@ -1577,7 +1577,7 @@ A simple pendulum is made up of an unstretchable wire (of negligible mass) $L$ i
 
 <div class="qlang-split" data-lang="en"></div>
 
-**26) ** Which of the alternatives below is incorrect information about the movement of the pendulum as described above:
+**26)** Which of the alternatives below is incorrect information about the movement of the pendulum as described above:
 
 - **A.** The pendulum oscillation time between positions 1 and 3 and the return time from position 3 to 1 are equal.
 - **B.** The mass $M$ has maximum speed at position 2.
@@ -1625,7 +1625,7 @@ Um piano é afinado com um instrumento de sopro que produz uma nota Lá pura. Um
 
 Un pianoforte è affine con un soprano che produce una nota pura. Un microfono rileva il segnale sonoro e lo registra su uno strumento elettronico. Il grafico seguente rappresenta il segnale sonoro (in unità arbitrarie) registrato dal microfono in funzione del tempo (in $10^{-3}$ s), con scala temporale da 0 a 2,8 ms e amplitudine da −10 a +10 ua.
 
-**27) ** Qual è l'alternativa seguente che rappresenta meglio la frequenza e il periodo di oscillazione dell'onda sonora emessa dall'apparecchio di sintonia:
+**27)** Qual è l'alternativa seguente che rappresenta meglio la frequenza e il periodo di oscillazione dell'onda sonora emessa dall'apparecchio di sintonia:
 
 - **A.** 285 Hz
 - **B.** 540 Hz
@@ -1648,7 +1648,7 @@ Un pianoforte è affine con un soprano che produce una nota pura. Un microfono r
 
 A piano is tuned with a blowing instrument that produces a pure La note. A microphone detects the sound signal and records it on an electronic instrument. The graph below represents the sound signal (in arbitrary units) recorded by the microphone as a function of time (in $10^{-3}$ s), with a time scale of 0 to 2,8 ms and amplitude of −10 to +10 ua.
 
-**27) ** Which of the following alternatives best represents the frequency and duration of the sound wave oscillation emitted by the tuning equipment:
+**27)** Which of the following alternatives best represents the frequency and duration of the sound wave oscillation emitted by the tuning equipment:
 
 - **A.** 285 Hz
 - **B.** 540 Hz
@@ -1692,7 +1692,7 @@ Sound signal and time 02.8 ms
 
 <div class="qlang-split" data-lang="it"></div>
 
-**28) ** Sapendo che la velocità del suono in aria è di 330 m/s, qual è la lunghezza dell'onda sonora rilevata:
+**28)** Sapendo che la velocità del suono in aria è di 330 m/s, qual è la lunghezza dell'onda sonora rilevata:
 
 - **A.** 0,76 m
 - **B.** 1,0 m
@@ -1708,7 +1708,7 @@ Sound signal and time 02.8 ms
 
 <div class="qlang-split" data-lang="en"></div>
 
-**28) ** Knowing that the speed of sound in the air is 330 m/s, what is the sound wavelength detected:
+**28)** Knowing that the speed of sound in the air is 330 m/s, what is the sound wavelength detected:
 
 - **A.** 0,76 m
 - **B.** 1,0 m
@@ -1747,7 +1747,7 @@ Sound signal and time 02.8 ms
 
 <div class="qlang-split" data-lang="it"></div>
 
-**29) ** Sapendo che l'apparecchio elettronico ha un ritardo nel rilevamento del segnale sonoro equivalente ad un incremento nella fase di 20°, che è il ritardo in tempo tra la produzione del suono e il suo rilevamento:
+**29)** Sapendo che l'apparecchio elettronico ha un ritardo nel rilevamento del segnale sonoro equivalente ad un incremento nella fase di 20°, che è il ritardo in tempo tra la produzione del suono e il suo rilevamento:
 
 - **A.** 0,76 ms
 - **B.** 0,13 ms
@@ -1763,7 +1763,7 @@ Sound signal and time 02.8 ms
 
 <div class="qlang-split" data-lang="en"></div>
 
-**29) ** Knowing that the electronic instrument has a delay in detecting the sound signal equivalent to an increase in the 20° phase, which is the time delay between sound production and its detection:
+**29)** Knowing that the electronic instrument has a delay in detecting the sound signal equivalent to an increase in the 20° phase, which is the time delay between sound production and its detection:
 
 - **A.** 0,76 ms
 - **B.** 0,13 ms
@@ -1819,7 +1819,7 @@ $$A = C\cos^2(\theta + \delta)$$
 
 dove $A$ è la quantità di energia assorbita dalla Terra, $C$ è una costante, $\theta$ la latitudine ($\theta > 0$ nell'emisfero nord e $\theta < 0$ nell'emisfero sud) e $\delta$ l'inclinazione dell'asse di rotazione della Terra rispetto alla sua orbita intorno al Sole. Nel Nord, il modello vale solo quando $\theta \leq \frac{\pi}{2} - \delta$.
 
-**30) ** In base a questo modello, verificare quale delle alternative è errato:
+**30)** In base a questo modello, verificare quale delle alternative è errato:
 
 - **A.** l'assorbimento di energia è massimo all'equatore.
 Questo modello spiega perché in questo periodo dell'anno è inverno nell'emisfero nord.
@@ -1846,7 +1846,7 @@ $$A = C\cos^2(\theta + \delta)$$
 
 where $A$ is the amount of energy absorbed by the Earth, $C$ is a constant, $\theta$ the latitude ($\theta > 0$ in the Northern Hemisphere and $\theta < 0$ in the Southern Hemisphere) and $\delta$ the tilt of the Earth's axis of rotation relative to its orbit around the Sun. In the Northern Hemisphere the model is only valid when $\theta \leq \frac{\pi}{2} - \delta$.
 
-**30) ** According to this model, check which of the alternatives is incorrect:
+**30)** According to this model, check which of the alternatives is incorrect:
 
 - **A.** energy absorption is maximum at the equator.
 This model explains why this time of year it's winter in the Northern Hemisphere.

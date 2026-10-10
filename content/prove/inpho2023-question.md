@@ -92,7 +92,7 @@ Consider a $100$ W small isotropic source of blue light of wavelength $4500\ \te
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2. Basta!
+**2. Basta!**
 
 Si consideri una fonte isotròpica $100$ W di luce blu di lunghezza d'onda $4500\ \text{Å}$. Una superficie metallica di $1.00\ \text{cm}^2$ e funzione di lavoro $2.20$ eV è tenuta a una distanza di $1.00$ m dalla sorgente e orientata a ricevere radiazioni normali.
 
@@ -350,7 +350,7 @@ Using the profile plots, write the radius of the water drop ($R$ in mm) and the 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**5. Se il Prof. Snell aveva uno smartphone.
+**5. Se il Prof. Snell aveva uno smartphone.**
 
 Un tipico schermo di smartphone è composto principalmente da due componenti: un foglio di vetro sensibile al tatto (dove si muove il dito per gestire il telefono) di spessore $t$ in alto e un schermo LCD al di sotto che consiste in una serie regolare di "elementi RGB" che emettono luce. Questi elementi hanno una separazione di $d$ tra loro. C'è un gap di profondità $h$ tra il vetro sensibile al tatto e lo schermo LCD (vedi figura 1. (1) per una visione trasversale). Stimo stimando il valore di $h$ dal seguente esperimento.
 

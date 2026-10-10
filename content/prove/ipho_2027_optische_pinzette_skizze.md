@@ -112,7 +112,7 @@ The polymer sphere is now irradiated at the marked location with a laser of wave
 
 La sfera polimerica è ora irradiata alla posizione segnata con un laser di lunghezza d'onda $\lambda = 530\,\text{nm}$ e una potenza di $P = 1{,}0\,\text{W}$.
 
-**3.c) ** Determine le forze che agiscono sulla sfera polimerica a causa della refrazione della luce laser, lungo la direzione originale di propagazione e perpendicolare a essa.
+**3.c)** Determine le forze che agiscono sulla sfera polimerica a causa della refrazione della luce laser, lungo la direzione originale di propagazione e perpendicolare a essa.
 
 <!--fig:start-->
 ![[_attachments/IPhO_2027_optische_pinzette_skizze/IPhO_2027_optische_pinzette_skizze_p1_f3.png]]

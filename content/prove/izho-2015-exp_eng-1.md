@@ -95,6 +95,10 @@ $$\frac{dT}{dt} = -\frac{1}{\tau}\left(T - \bar{T}\right).$$
 
 Using the experimental data verify the validity of this equation. Calculate the value of the characteristic time $\tau$ of thermal equilibration. Error estimation is not required.
 
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

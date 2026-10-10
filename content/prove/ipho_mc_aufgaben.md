@@ -1270,7 +1270,7 @@ $$A\quad \tfrac{2}{3}\,f \qquad B\quad \tfrac{3}{4}\,f \qquad C\quad \tfrac{4}{5
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ressonanti **
+**Ressonanti**
 
 Un circuito composto da una bobina ideale e da un condensatore ideale è chiamato circuito risonante. I due circuiti elettrici risonanti mostrati sopra, con la stessa induttanza $L$ ma diverse capacità $C_i$, oscillate senza resistenza alle seguenti frequenze:
 

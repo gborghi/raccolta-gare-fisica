@@ -73,7 +73,7 @@ With a good approximation, the radiation you receive from a star is a uniform bl
 **1.2** Using Figure 1 find the ratios $R_1/R_2$ and $T_1/T_2$. *(1.6 punti)*
 
 <!--fig:start-->
-**p.1 **  Curve of light: relative intensity over time
+**p.1**  Curve of light: relative intensity over time
 ![[_attachments/Pink_it/Pink_it_p1_f1.png]]
 <!--fig:end-->
 
@@ -148,7 +148,7 @@ Very accurate wavelength measurements are needed to observe Doppler displacement
 
 In Table 1 we have the wavelengths measured for this line in the light from the two stars in the binary system that we observed.
 
-**Table 1: ** Absorption spectrum for Sodium line D1 of the two stars of the observed binary system.
+**Table 1:** Absorption spectrum for Sodium line D1 of the two stars of the observed binary system.
 
 | $t$ (giorni) | 0.3 | 0.6 | 0.9 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 |
 |---|---|---|---|---|---|---|---|---|

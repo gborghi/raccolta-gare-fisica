@@ -32,7 +32,7 @@ c) Determine o valor do volume de uma célula unitária do sólido.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questione 1 ** Assumi il valore di $d = 10^{-10}\ \text{m}$.
+**Questione 1** Assumi il valore di $d = 10^{-10}\ \text{m}$.
 
 a) Qual è la distanza tra gli atomi 1 e 2? (non dimenticare la unità di lunghezza)
 
@@ -48,7 +48,7 @@ b) Qual è la distanza tra gli atomi 1 e 3? (non dimenticare la unità di lunghe
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Question 1 ** Assume the value of $d = 10^{-10}\ \text{m}$.
+**Question 1** Assume the value of $d = 10^{-10}\ \text{m}$.
 
 (a) What is the distance between atoms 1 and 2? (Do not forget the unit of length)
 
@@ -85,7 +85,7 @@ b) Quantos átomos existem num cristal de $1\ \text{cm}^3$? Neste caso, cada cé
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 2 **
+**Questa 2**
 
 a) Quante cellule unità ha un cristallo $1\ \text{cm}^3$ per un valore $d = 10^{-10}\ \text{m}$?
 
@@ -99,7 +99,7 @@ b) Quanti atomi ci sono in un cristallo $1\ \text{cm}^3$? In questo caso, ogni c
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2 **
+Question 2 
 
 (a) How many units of cells does a crystal of $1\ \text{cm}^3$ have for a value of $d = 10^{-10}\ \text{m}$?
 
@@ -134,7 +134,7 @@ b) Qual(is) o(s) terceiro(s) vizinho(s) do átomo 1?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 3 ** Considerando solo la cellula numerata con atomi da 1 a 8: per l'atomo 1, gli atomi 2, 4 e 5 sono chiamati **primi vicini** perché sono i più vicini a 1. Analogamente si definiscono secondi e terzi vicini. Rispondi a questa cellula:
+**Questa 3** Considerando solo la cellula numerata con atomi da 1 a 8: per l'atomo 1, gli atomi 2, 4 e 5 sono chiamati **primi vicini** perché sono i più vicini a 1. Analogamente si definiscono secondi e terzi vicini. Rispondi a questa cellula:
 
 a) Quale è il secondo vicino dell'atomo 1?
 
@@ -148,7 +148,7 @@ b) Quale è il terzo vicinato dell'atomo 1?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Question 3 ** Considering only the cell numbered with atoms from 1 to 8: for atom 1, atoms 2, 4 and 5 are called **first neighbors** because they are closest to 1. Similarly, second and third neighbors are defined. To this cell, answer:
+**Question 3** Considering only the cell numbered with atoms from 1 to 8: for atom 1, atoms 2, 4 and 5 are called **first neighbors** because they are closest to 1. Similarly, second and third neighbors are defined. To this cell, answer:
 
 (a) Which is the second nearest neighbor to atom 1?
 
@@ -186,10 +186,10 @@ Qual é o padrão de maior densidade de empacotamento?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 4 ** Imballaggio di particelle costituenti un cristallo: si desidera imballare sfere rigide di uguale dimensione. Per semplificare il problema che Kepler ha trattato, supponiamo che invece di sfere abbiamo dischi identici (per esempio monete), e vogliamo metterli vicini l'uno all'altro per ottenere la massima densità possibile. La figura mostra due diversi arrangiamenti:
+**Questa 4** Imballaggio di particelle costituenti un cristallo: si desidera imballare sfere rigide di uguale dimensione. Per semplificare il problema che Kepler ha trattato, supponiamo che invece di sfere abbiamo dischi identici (per esempio monete), e vogliamo metterli vicini l'uno all'altro per ottenere la massima densità possibile. La figura mostra due diversi arrangiamenti:
 
-- **(I) ** imballaggio esagonale
-- **(II) ** imballaggio quadrato
+- **(I)** imballaggio esagonale
+- **(II)** imballaggio quadrato
 
 Per determinare quale delle due configurazioni abbia la densità di imballaggio più alta (frazione di superficie occupata dai dischi), si può disegnare su ciascuno un quadrato contenente un disco iscritto.
 
@@ -203,12 +203,12 @@ Qual è il modello con la maggiore densità di imballaggio?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 ** The packaging of particles that make up a crystal: you want to pack rigid spheres of the same size. To simplify the problem Kepler dealt with, let's say instead of spheres we have identical disks (e.g., coins), and we want to place them next to each other so that we get the maximum possible density. The figure shows two different arrangements:
+Question 4  The packaging of particles that make up a crystal: you want to pack rigid spheres of the same size. To simplify the problem Kepler dealt with, let's say instead of spheres we have identical disks (e.g., coins), and we want to place them next to each other so that we get the maximum possible density. The figure shows two different arrangements:
 
-- **(I) ** hexagonal packaging
-- **(II) ** square packaging
+- **(I)** hexagonal packaging
+- **(II)** square packaging
 
-To decide which of the two configurations has the highest ** packaging density** (fraction of the area occupied by the disks), a square containing an inscribed disk can be drawn on each.
+To decide which of the two configurations has the highest **packaging density** (fraction of the area occupied by the disks), a square containing an inscribed disk can be drawn on each.
 
 What is the highest packing density pattern?
 
@@ -239,7 +239,7 @@ Vamos imaginar uma situação no plano. Qual(is) forma(s) geométrica(s) das apr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 5 ** Un cristallo ideale è una ripetizione di blocchi identici nello spazio tridimensionale. Ognuno di questi blocchi è chiamato base e può essere un atomo, una molecola o anche un gruppo di atomi o molecole. La base è la quantità di materia contenuta in una cellula unitaria  un certo volume nello spazio che può essere trasmessa per distanze discrete nelle tre dimensioni per riempire tutto lo spazio. La simmetria più evidente di un cristallo è la simmetria di traduzione MSK1/.
+**Questa 5** Un cristallo ideale è una ripetizione di blocchi identici nello spazio tridimensionale. Ognuno di questi blocchi è chiamato base e può essere un atomo, una molecola o anche un gruppo di atomi o molecole. La base è la quantità di materia contenuta in una cellula unitaria  un certo volume nello spazio che può essere trasmessa per distanze discrete nelle tre dimensioni per riempire tutto lo spazio. La simmetria più evidente di un cristallo è la simmetria di traduzione MSK1/.
 
 Immaginiamo una situazione sul piano. Qual è la forma geometrica di quelle illustrate nella figura completa il piano quando sono aggregate solo attraverso traduzioni in due direzioni perpendicolari? giustifica la tua risposta con la figura (s).
 
@@ -251,7 +251,7 @@ Immaginiamo una situazione sul piano. Qual è la forma geometrica di quelle illu
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 ** An ideal crystal is a repetition of identical blocks in three-dimensional space. Each of these blocks is called a base and can be an atom, a molecule or even a cluster of atoms or molecules. The basis is the amount of matter contained in a unit cell  a certain volume in space that can be translated by discrete distances in the three dimensions to fill the whole space. The most obvious symmetry of a crystal is the **translation symmetry**.
+Question 5 **An ideal crystal is a repetition of identical blocks in three-dimensional space. Each of these blocks is called a base and can be an atom, a molecule or even a cluster of atoms or molecules. The basis is the amount of matter contained in a unit cell  a certain volume in space that can be translated by discrete distances in the three dimensions to fill the whole space. The most obvious symmetry of a crystal is the** translation symmetry**.**
 
 Let's imagine a situation on the plan. What is the geometrical shape of the figures in the complete figure when grouped together only by translations in two perpendicular directions? Please justify your answer by the figure (s).
 
@@ -341,7 +341,7 @@ b) Qual a velocidade da bola imediatamente após a colisão?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 7 ** Una palla da calcio viene lasciata cadere da una altezza di $2{,}4\ \text{m}$, si incollida con il pavimento rigido e ritorna a $1{,}8\ \text{m}$. Sotto l'aspetto della resistenza all'aria:
+**Questa 7** Una palla da calcio viene lasciata cadere da una altezza di $2{,}4\ \text{m}$, si incollida con il pavimento rigido e ritorna a $1{,}8\ \text{m}$. Sotto l'aspetto della resistenza all'aria:
 
 a) Quanti frazioni dell'energia iniziale vengono persi in collisione?
 
@@ -398,7 +398,7 @@ c) Qual a aceleração média entre $12$ e $18\ \text{s}$?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questa 8 ** Un veicolo che viaggia in linea retta dal punto A al punto B ha un problema motore che causa una perdita di olio. Uma gota de óleo cai do motor a cada $3\ \text{s}$, e a figura abaixo mostra o padrão das marcas de óleo no asfalto da rodovia. Le marchi sono situate nelle seguenti posizioni (in metri a partire da A) corrispondenti a $t = 0,\ 3,\ 6,\ 9,\ 12,\ 15,\ 18\ \text{s}$:
+**Questa 8** Un veicolo che viaggia in linea retta dal punto A al punto B ha un problema motore che causa una perdita di olio. Uma gota de óleo cai do motor a cada $3\ \text{s}$, e a figura abaixo mostra o padrão das marcas de óleo no asfalto da rodovia. Le marchi sono situate nelle seguenti posizioni (in metri a partire da A) corrispondenti a $t = 0,\ 3,\ 6,\ 9,\ 12,\ 15,\ 18\ \text{s}$:
 
 $$0\ \text{m},\quad 30\ \text{m},\quad 60\ \text{m},\quad 120\ \text{m},\quad 210\ \text{m},\quad 330\ \text{m},\quad 420\ \text{m}$$
 

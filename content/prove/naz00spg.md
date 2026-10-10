@@ -39,17 +39,17 @@ La griglia indica inoltre criteri di metodo (uso di un oggetto per "fare bilanci
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Center of mass of a dice system (grid of assessment) **
+**Center of mass of a dice system (grid of assessment)**
 
 > ️ The available PDF is the *grid of assessment* (material reserved to the Commission) of the National Race Experimental Test 2000, not the text of the problem. The full text is not present in this archive.
 
 **Experimental test 2000 (Senigallia, 13 April 2000)  Total points 175.** The grid reconstructs that the problem requires the experimental determination, by means of 'balance' scale measurements, of quantities relating to a system of dice arranged in a box/length of a circumference:
 
-- ** 1. ** Total number of dice (50 points).
-- ** 2. ** Position of the two groups of dice along the circumference (20 points).
+- **1.** Total number of dice (50 points).
+- **2.** Position of the two groups of dice along the circumference (20 points).
 - **3.** Center of mass of the whole system (70 points).
-- ** 4. ** Dart centre of mass (20 points).
-- ** 5. ** Additional general comments (max. 15 points): e.g. The problem of the mass of the paper discs and the scotch added ($\approx 5\,\mathrm{g}$); the problem of the asymmetry due to the junction of the box.
+- **4.** Dart centre of mass (20 points).
+- **5.** Additional general comments (max. 15 points): e.g. The problem of the mass of the paper discs and the scotch added ($\approx 5\,\mathrm{g}$); the problem of the asymmetry due to the junction of the box.
 
 The grid also indicates method criteria (use of an object to 'balance', choice of hang/support, identification of the point of contact of inclined circumference, etc.) and treatment of experimental uncertainties.
 

@@ -48,7 +48,7 @@ Assume at time $t = 0$, the sphere is kept at rest, the line $CD$ makes an angle
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema teorico 1 - Rotolamento avanti e indietro di una sfera piena di liquidi (10 punti) **
+**Problema teorico 1 - Rotolamento avanti e indietro di una sfera piena di liquidi (10 punti)**
 
 Considerate una sfera piena di liquido che rotola avanti e indietro al fondo di una ciotola sferica. Cioè, la sfera sta cambiando periodicamente la sua direzione traslazionale e rotazionale. A causa della viscosità del liquido all'interno, il movimento della sfera sarebbe molto complicato e difficile da gestire. Tuttavia, un modello semplificato presentato qui sarebbe utile per risolvere tale problema.
 
@@ -60,13 +60,13 @@ Supponiamo che una rigida e sottile conchiglia sferica di raggio $r$ e massa $m$
 
 **1.** $W$ si comporta come in stato solido ideale, mentre $W$ contatta la parete interna della conchiglia sferica così strettamente che possono essere prese come sfera solida in tutto il raggio $r$ con un brusco cambiamento di densità nell'interfaccia tra la parete interna della conchiglia e $W$.
 
-**(1) ** Calcolare l'inerzia di rotazione $I$ della sfera rispetto all'asse che attraversa il suo centro $C$. (Si chiede di indicare i passaggi dettagliati.) (1.0 punti)
+**(1)** Calcolare l'inerzia di rotazione $I$ della sfera rispetto all'asse che attraversa il suo centro $C$. (Si chiede di indicare i passaggi dettagliati.) (1.0 punti)
 
-**(2) ** Calcolare il periodo $T_1$ della sfera che va avanti e indietro con una piccola amplitudine senza scivolare in fondo alla tazza sferica. (2,5 punti)
+**(2)** Calcolare il periodo $T_1$ della sfera che va avanti e indietro con una piccola amplitudine senza scivolare in fondo alla tazza sferica. (2,5 punti)
 
 **2.** $W$ si comporta come un liquido ideale senza attrito tra $W$ e la conchiglia sferica. Calcolare il periodo $T_2$ della sfera che va avanti e indietro con una piccola amplitudine senza scivolare in fondo alla ciotola sferica. (2,5 punti)
 
-**3. ** $W$ transiti tra stato solido ideale e stato liquido ideale.
+**3.** $W$ transiti tra stato solido ideale e stato liquido ideale.
 
 Supponiamo che al tempo $t = 0$, la sfera sia tenuta in riposo, la linea $CD$ fa un angolo $\theta_0$ ($\theta_0 \ll 1$ rad) con la linea di piombo $OD$, dove $D$ è il centro della ciotola sferica. La sfera si trova nel punto $A_0$ nella parete interna della ciotola, come mostrato nella figura. Se rilasci la sfera, comincia a rotolare a sinistra. Durante il movimento della sfera da $A_0$ alla sua posizione di equilibrio $O$, $W$ si comporta come liquido ideale. Nel momento in cui la sfera passa attraverso il punto $O$, $W$ cambia improvvisamente in stato solido e si attacca saldamente alla parete interna della conchiglia della sfera fino a quando la sfera raggiunge la posizione più alta sinistra $A_0'$. Una volta che la sfera raggiunge $A_0'$, $W$ cambia improvvisamente di nuovo allo stato liquido. Poi, la sfera ruota a destra; e $W$ cambia improvvisamente in stato solido e si attacca saldamente al muro interno della conchiglia sferica di nuovo quando la sfera passa attraverso la posizione di equilibrio $O$. Quando la sfera raggiunge la posizione più alta giusta $A_1$, $W$ torna a diventare liquida. Poi l'intero cerchio si ripete una volta dopo l'altra. La sfera ruota periodicamente a destra e a sinistra, ma con l'ampiezza angolare diminuita di volta in volta. La direzione di movimento della sfera è indicata con frecce curve nella figura, insieme alle parole "solide" e "liquido" che mostrano lo stato corrispondente di $W$. Si presume che durante tale processo di rotolamento avanti e indietro, non si verifichi alcun scivolo relativo tra la sfera e la parete interna della ciotola (o, in alternativa, il fondo della ciotola può fornire abbastanza attrito come necessario). Calcolare il periodo $T_3$ della sfera che ruota a destra e a sinistra e l'ampiezza angolare $\theta_n$ del centro della sfera, vale a dire l'angolo che la linea $CD$ fa con la linea verticale $OD$ quando la sfera raggiunge la posizione più alta a destra $A_n$ per la $n$-tima volta (solo $A_2$ è mostrato nella figura). (4,0 punti)
 
@@ -183,23 +183,23 @@ Si deve notare che un materiale con simultaneamente negativo $\epsilon$ e $\mu$ 
 
 **1.**
 
-**(1) ** Secondo la proprietà descritta sopra, supponendo che un fascio luminoso colpisca dall'aria la superficie di un materiale così insolito con relativa permissività $\epsilon < 0$ e relativa permeabilità $\mu < 0$, si dimostra che la direzione del fascio luminoso rifraccato raffigurata nella figura. Il 2-1 è ragionevole. 1,2 punti)
+**(1)** Secondo la proprietà descritta sopra, supponendo che un fascio luminoso colpisca dall'aria la superficie di un materiale così insolito con relativa permissività $\epsilon < 0$ e relativa permeabilità $\mu < 0$, si dimostra che la direzione del fascio luminoso rifraccato raffigurata nella figura. Il 2-1 è ragionevole. 1,2 punti)
 
 <!--fig:start-->
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q02_f1.png]]
 *Fig. 2-1*
 <!--fig:end-->
 
-**(2) ** Per la figura. 2-1, indicare la relazione tra l'angolo di rifrazione $\theta_r$ (angolo che il fascio rifraccato fa con la normalità dell'interfaccia tra aria e materiale) e l'angolo di incidenza $\theta_i$. (0,8 punti)
+**(2)** Per la figura. 2-1, indicare la relazione tra l'angolo di rifrazione $\theta_r$ (angolo che il fascio rifraccato fa con la normalità dell'interfaccia tra aria e materiale) e l'angolo di incidenza $\theta_i$. (0,8 punti)
 
-**(3) ** Supponendo che un fascio luminoso colpisca dal materiale insolito all'interfaccia tra esso e l'aria, dimostrare che la direzione del fascio luminoso rifraccato raffigurata nella figura. 2-2 e' ragionevole. 1,2 punti)
+**(3)** Supponendo che un fascio luminoso colpisca dal materiale insolito all'interfaccia tra esso e l'aria, dimostrare che la direzione del fascio luminoso rifraccato raffigurata nella figura. 2-2 e' ragionevole. 1,2 punti)
 
 <!--fig:start-->
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q02_f2.png]]
 *Fig. 2-2*
 <!--fig:end-->
 
-**(4) ** Per la figura. 2-2, indicare la relazione tra l'angolo di rifrazione $\theta_r$ (angolo che il fascio rifraccato fa con la normalità dell'interfaccia tra due supporti) e l'angolo di incidenza $\theta_i$. (0,8 punti)
+**(4)** Per la figura. 2-2, indicare la relazione tra l'angolo di rifrazione $\theta_r$ (angolo che il fascio rifraccato fa con la normalità dell'interfaccia tra due supporti) e l'angolo di incidenza $\theta_i$. (0,8 punti)
 
 **2.** Come mostrato nella figura. 2-3, una lastra di spessore $d$, realizzata in un materiale ottico insolito con $\epsilon = \mu = -1$, viene collocata in aria, con una sorgente luminosa puntata situata davanti alla lastra separata da una distanza di $\tfrac{3}{4}d$. Disegnare con precisione i diagrammi dei raggi dei tre raggi luminosi irradiati dalla fonte di punto. (Signature: in condizioni indicate in questo problema, non si verificerebbe alcun riflesso all'interfaccia tra aria e materiale insolito). 1,0 punti)
 
@@ -228,29 +228,29 @@ Immergendo una serie di piccole particelle dielettriche all'interno di un fluido
 
 Quando ci sono molte sfere dielettriche identiche di raggio $a$ immerse all'interno del fluido, presumiamo che il momento di dipole di ciascuna sfera $\vec{p}$, sia indotto esclusivamente dal campo esterno $\vec{E}_0$, indipendente da qualsiasi altra sfera (Nota: $p = |\vec{p}|$).
 
-**(1) ** Quando due piccole sfere dielettriche identiche esistono all'interno del fluido e contattano tra loro, mentre la linea che collega i loro centri fa un angolo $\theta$ con la direzione del campo esterno (vedi Figura. 2-6), scrivere l'espressione dell'energia di interazione dipolo-dipolo tra le due piccole sfere dielettriche in contatto, in termini di $p$, $a$ e $\theta$. (Nota: nei vostri calcoli ogni sfera dielettrica polarizzata può essere considerata come un dipolo elettrico situato al centro della sfera) (0,5 punti)
+**(1)** Quando due piccole sfere dielettriche identiche esistono all'interno del fluido e contattano tra loro, mentre la linea che collega i loro centri fa un angolo $\theta$ con la direzione del campo esterno (vedi Figura. 2-6), scrivere l'espressione dell'energia di interazione dipolo-dipolo tra le due piccole sfere dielettriche in contatto, in termini di $p$, $a$ e $\theta$. (Nota: nei vostri calcoli ogni sfera dielettrica polarizzata può essere considerata come un dipolo elettrico situato al centro della sfera) (0,5 punti)
 
 <!--fig:start-->
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q02_f6.png]]
 *Fig. 2-6*
 <!--fig:end-->
 
-**(2) ** Calcolare le energie di interazione di dipole-dipolo per le tre configurazioni mostrate nella figura. 2-7. (0,75 punti)
+**(2)** Calcolare le energie di interazione di dipole-dipolo per le tre configurazioni mostrate nella figura. 2-7. (0,75 punti)
 
 <!--fig:start-->
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q02_f7.png]]
 *Fig. 2-7*
 <!--fig:end-->
 
-**(3) ** Indicare quale configurazione del sistema sia la più stabile. (0,25 punti) (Nota: nei tuoi calcoli ogni sfera dielettrica polarizzata può essere vista come un dipolo elettrico situato al centro della sfera, e l'energia dell'interazione dipolo-dipolo può essere espressa in termini di $p$ e $a$.)
+**(3)** Indicare quale configurazione del sistema sia la più stabile. (0,25 punti) (Nota: nei tuoi calcoli ogni sfera dielettrica polarizzata può essere vista come un dipolo elettrico situato al centro della sfera, e l'energia dell'interazione dipolo-dipolo può essere espressa in termini di $p$ e $a$.)
 
 **2.** Nel caso in cui all'interno del fluido esistano tre sfere identiche, basandosi sulla stessa ipotesi della domanda 1,
 
-**(1) ** calcola le energie di interazione di dipole-dipole per le tre configurazioni mostrate nella figura. 2-8; (0,9 punti)
+**(1)** calcola le energie di interazione di dipole-dipole per le tre configurazioni mostrate nella figura. 2-8; (0,9 punti)
 
-**(2) ** identificare quale configurazione del sistema sia la più stabile; (0,3 punti)
+**(2)** identificare quale configurazione del sistema sia la più stabile; (0,3 punti)
 
-**(3) ** identificare quale configurazione del sistema sia la più instabile. (0,3 punti) (Nota: nei tuoi calcoli ogni sfera dielettrica polarizzata può essere vista come un dipolo elettrico situato al centro della sfera, e l'energia dell'interazione dipolo-dipolo può essere espressa in termini di $p$ e $a$.)
+**(3)** identificare quale configurazione del sistema sia la più instabile. (0,3 punti) (Nota: nei tuoi calcoli ogni sfera dielettrica polarizzata può essere vista come un dipolo elettrico situato al centro della sfera, e l'energia dell'interazione dipolo-dipolo può essere espressa in termini di $p$ e $a$.)
 
 <!--fig:start-->
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q02_f8.png]]
@@ -358,9 +358,9 @@ dove $k_B = 1.381 \times 10^{-23}$ J K $^{-1}$ è la costante di Boltzmann e $T$
 ![[_attachments/APhO_2007_theory/APhO_2007_theory_q03_f1.png]]
 <!--fig:end-->
 
-**(1) ** Calcolare $c_V$ a temperatura ambiente secondo $f(E)$. 3,5 punti)
+**(1)** Calcolare $c_V$ a temperatura ambiente secondo $f(E)$. 3,5 punti)
 
-**(2) ** Fornite una ragionevole spiegazione per la deviazione del risultato classico da quello della teoria quantistica. (0,5 punti)
+**(2)** Fornite una ragionevole spiegazione per la deviazione del risultato classico da quello della teoria quantistica. (0,5 punti)
 
 Nota: nel vostro calcolo la variazione del livello di Fermi $E_F$ con la temperatura potrebbe essere trascurata, cioè supponiamo che $E_F = E_{F0}$, $E_{F0}$ sia il livello di Fermi a 0 K. Nel frattempo la funzione di distribuzione di Fermi potrebbe essere semplificata come una funzione lineare in discesa entro un intervallo di energia di $2k_B T$ intorno a $E_F$, altrimenti o 0 o 1, cioè.
 
@@ -384,7 +384,7 @@ Parametri: energia statica dell'elettrone $E_0 = m c^2 = 0.511\ \text{MeV}$, cos
 
 **3.**
 
-**(1) ** Un elettrone di alta energia relativistica di energia totale $E$ e un fotone si muovono in direzioni opposte e si collidono tra loro. Mostra l'energia del fotone incidente, di cui il fotone può ottenere l'energia massima dall'elettrone incidente. Calcolare l'energia del fotone disperso in questo caso. (0,7 punti)
+**(1)** Un elettrone di alta energia relativistica di energia totale $E$ e un fotone si muovono in direzioni opposte e si collidono tra loro. Mostra l'energia del fotone incidente, di cui il fotone può ottenere l'energia massima dall'elettrone incidente. Calcolare l'energia del fotone disperso in questo caso. (0,7 punti)
 
 Un elettrone di alta energia relativistica di energia totale $E$ e un fotone, in movimento rispettivamente in direzioni perpendicolari, collidono tra loro. Mostra l'energia del fotone incidente, di cui il fotone può ottenere l'energia massima dall'elettrone incidente. Calcolare l'energia del fotone disperso in questo caso. (0,7 punti)
 

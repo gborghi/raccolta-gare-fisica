@@ -93,7 +93,7 @@ Per un filo rettilineo infinito situato sull'asse X circola una corrente elettri
 - **A.** Ottieni il valore dell'intensità della seconda corrente sapendo che il campo magnetico generato da entrambi è nullo al punto $(0, -0{,}5, 0)$ m.
 - **B.** Calcola la forza che un elettrone subirà quando passa attraverso il punto $(0, 2, 0)$ m a velocità $\vec{v} = 5 \cdot 10^6\,\hat{\imath}$ m/s. Che velocità, non nulla, dovrebbe portare l'elettrone affinché la forza che prova quando passa attraverso quel punto sia nulla?
 
-**Dati: **
+**Dati:**
 
 Permeabilità magnetica del vuoto: $\mu_0 = 4\pi \cdot 10^{-7}$ N A$^{-2}$
 
@@ -179,7 +179,7 @@ d) determinare quante volte la massa dell'astronauta è maggiore di quella del s
 e) Calcolare l'ampiezza dell'oscillazione se l'accelerazione massima che l'astronauta si trova a "pesare" è $g/2$ quando la frequenza di oscillazione è di 1 Hz.
 f) Con le condizioni precedenti, calcola la massa dell'astronauta, sapendo che l'energia dell'oscilatore è di 221 J.
 
-**Dati: **
+**Dati:**
 
 Costante di gravità universale: $G = 6{,}67 \cdot 10^{-11}$ N m2 kg$^{-2}$
 

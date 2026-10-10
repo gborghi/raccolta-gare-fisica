@@ -840,9 +840,9 @@ Una fonte di calore ha una potenza costante di 30 cal/min. Prendiamo un corpo di
 Qual è l'energia assorbita dal corpo in calorie per 30 minuti?
 
 - **A** 300 cal
-- ** B ** 400 cal
+- **B** 400 cal
 - **C** 500 cal
-- ** D ** 700 cal
+- **D** 700 cal
 - **E** 900 cal
 
 <!--fig:start-->
@@ -867,9 +867,9 @@ This is the first time that I've ever seen a man in a movie.
 What energy is the body absorbing in calories for 30 minutes?
 
 - **A** 300 cal
-- ** B ** 400 cal
+- **B** 400 cal
 - **C** 500 cal
-- ** D ** 700 cal
+- **D** 700 cal
 - **E** 900 cal
 
 <!--fig:start-->

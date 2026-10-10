@@ -286,7 +286,7 @@ I due fili si muovono ora entrambi con velocità $\vec{v}$ parallela ai fili ste
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P4  Two parallel wires loaded ** (50 points)
+**P4  Two parallel wires loaded** (50 points)
 
 On two insulating wires  straight, parallel and infinite length, at a distance $2a$ from each other  opposite sign loads with uniform linear density $\pm\lambda$ are arranged.
 

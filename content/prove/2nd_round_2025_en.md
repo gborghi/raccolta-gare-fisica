@@ -39,7 +39,7 @@ As you know, the Physics Olympiad reimburses participants for the cost of train 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.1 (MC) **
+**Domanda 1.1 (MC)**
 
 Come sapete, l'Olimpiade di Fisica rimborsa i partecipanti per il costo dei biglietti di treno. Cercate un partner di supporto per coprire i costi del secondo round. Quali sono i costi che il partner di sostegno rischia di sostenere?
 
@@ -82,7 +82,7 @@ Mr Fogg and Passepartout took up the challenge to circumnavigate the globe. They
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.2 (MC) **
+**Domanda 1.2 (MC)**
 
 Fogg e Passepartout hanno accettato la sfida di girare il globo. Hanno scelto di seguire l'equatore. Il signor Fix, che li sta inseguendo, è sempre al punto sulla Terra diametralmente opposto ai due compagni. Quante volte Fix e Fogg saranno alla stessa quota allo stesso tempo?
 
@@ -128,7 +128,7 @@ Which of the following setups has the lowest equivalent stiffness $k_{eq}$? All 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.3 (MC) **
+**Domanda 1.3 (MC)**
 
 Qual è la configurazione di cui sopra con la rigidità equivalente $k_{eq}$ più bassa? Tutte le sorgenti individuali hanno la stessa rigidità $k$ e la stessa lunghezza.
 
@@ -174,14 +174,14 @@ Globi has decided to fly to the moon. He would like to visit the extraterrestria
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.4 (MC) **
+**Domanda 1.4 (MC)**
 
 Globi ha deciso di volare sulla luna. Vorrebbe visitare gli extraterrestri che dovrebbero vivere sulla luna. Poiché naturalmente non vuole venire senza nulla, ha deciso di portare con sé una ruota di formaggio svizzero. Poiché vuole dividerla in modo equo, porta anche una scala di primavera con sé. La scala è calibrata sulla Terra e la costante gravitazionale sulla Luna è circa sei volte più piccola di quella terrestre. Cosa scopre quando pesa la ruota del formaggio sulla luna?
 
 - **A** Niente. Le scale mostrano lo stesso peso della terra.
 Le scale mostrano circa sei volte il peso terrestre.
 Le scale mostrano circa un sesto del peso terrestre.
-- ** D.** Non è prevedibile.
+- **D.** Non è prevedibile.
 
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -260,7 +260,7 @@ A coconut with constant velocity explodes and splits into 3 pieces which fly awa
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.6 (MC) **
+**Domanda 1.6 (MC)**
 
 Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che volano via in direzioni diverse. Quale delle seguenti è corretta per i rispettivi vettori di impulso nel quadro di riferimento della noce di cocco?
 
@@ -303,7 +303,7 @@ A motorbike is in a jump midair and its front wheel is turning in the clockwise 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.7 (MC) **
+**Domanda 1.7 (MC)**
 
 Una moto è in un salto in mezzo all'aria e la sua ruota anteriore gira in senso orario per Alice che sta osservando da un lato. La moto non ruota inizialmente e l'asse della ruota anteriore è allineato con quello della ruota posteriore. Quale delle seguenti affermazioni descrive con precisione cosa accade e perché accade quando il conducente frena la ruota anteriore (e la ruota smette completamente di ruotare rispetto alla moto)?
 
@@ -346,7 +346,7 @@ As we have learned in the first round, a person of height $h$ only needs a mirro
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.8 (MC) **
+**Domanda 1.8 (MC)**
 
 Come abbiamo imparato nel primo round, una persona di altezza $h$ ha bisogno solo di uno specchio di altezza $h/2$ per vedersi pienamente. Come si dovrebbe appendere lo specchio in modo che possano vedere se stessi?
 
@@ -438,7 +438,7 @@ Given a one-dimensional slit of width $l = 3\,\text{mm}$, what is the minimal an
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.10 (MC) **
+**Domanda 1.10 (MC)**
 
 Data una fessura unidimensionale di larghezza $l = 3\,\text{mm}$, qual è la separazione angolare minima in arcsecond tra due luci di lunghezza d'onda $\lambda = 500\,\text{nm}$, in modo che possano essere risolte attraverso la fessura?
 
@@ -520,7 +520,7 @@ Alice uses an ice cube to cool her glass of water. Just after adding the ice cub
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.12 (MC) **
+**Domanda 1.12 (MC)**
 
 Alice usa un cubo di ghiaccio per raffreddare il suo bicchiere d'acqua. Appena dopo aver aggiunto il cubo di ghiaccio, l'altezza dell'acqua nel vetro è $h_1$. Dopo un po', il cubo di ghiaccio si è completamente sciolto. Cosa si può dire dell'altezza dell'acqua $h_2$ a questo punto?
 
@@ -606,7 +606,7 @@ A lit candle stands in a basin filled with water up to half the height of the ca
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.14 (MC) **
+**Domanda 1.14 (MC)**
 
 Una candela accesa si trova in un pozzo pieno di acqua fino alla metà dell'altezza della candela. Albertina mette un bicchiere sopra la candela in modo che il bicchiere sia immerso nell'acqua. La candela si spegne. Che succede al livello dell'acqua all'interno del bicchiere?
 
@@ -652,7 +652,7 @@ Look at the circuit in Fig. 1. Through which resistors does the smallest current
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.15 (MC) **
+**Domanda 1.15 (MC)**
 
 Guarda il circuito in Fig. 1. Tra quali resistenti scorre la corrente più piccola (valore di ampere più basso) se tutte hanno la stessa resistenza $R$?
 
@@ -739,7 +739,7 @@ The escape velocity of Earth for a particle of mass $m = 1\,\text{kg}$ and charg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.17 (MC) **
+**Domanda 1.17 (MC)**
 
 La velocità di fuga della Terra per una particella di massa $m = 1\,\text{kg}$ e carica $q = 1\,\text{C}$ è approssimativamente $11.18\,\text{km}\cdot\text{s}^{-1}$. Che cosa sarebbe se la Terra avesse una carica totale di $Q = -44.3\,\text{kC}$? La massa della Terra è $M = 5.97\times10^{24}\,\text{kg}$, il suo raggio è $R = 6371\,\text{km}$, la costante di Coulomb è $\frac{1}{4\pi\varepsilon_0} = 8.99\times10^{9}\,\text{kg}\cdot\text{m}^3\cdot\text{s}^{-2}\cdot\text{C}^{-2}$ e la costante gravitazionale è $G = 6.67\times10^{-11}\,\text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$.
 
@@ -823,7 +823,7 @@ Chef Clara wants to heat her food as quickly as possible. She decides to use her
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.19 (MC) **
+**Domanda 1.19 (MC)**
 
 La chef Clara vuole riscaldare il suo cibo il prima possibile. Decide di usare la sua cucina ad induzione, che genera un campo magnetico in variazione per indurre correnti in vasi metallici. Cosa le suggeriresti?
 
@@ -864,12 +864,12 @@ It is known that it is possible to break a wine glass with the right sound. What
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.20 (MC) **
+**Domanda 1.20 (MC)**
 
 È noto che è possibile rompere un bicchiere di vino con il giusto suono. Che cosa succede al suono necessario per spezzare il vetro se lo riempiamo parzialmente di acqua?
 
 - **A.** La frequenza aumenta.
-- ** B.** La frequenza scende.
+- **B.** La frequenza scende.
 - **C.** Solo l'intensità necessaria cambia.
 - **D.** Niente cambia.
 
@@ -910,7 +910,7 @@ The picture shows a stationary wave on a string between two walls at time $t = 0
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.21 (MC) **
+**Domanda 1.21 (MC)**
 
 L'immagine mostra un'onda stazionaria su una corda tra due muri al tempo $t = 0\,\text{s}$. La corda vibra a una frequenza di $100\,\text{Hz}$. Quale delle seguenti immagini mostra lo stato della stringa a $t = 10\,\text{ms}$?
 

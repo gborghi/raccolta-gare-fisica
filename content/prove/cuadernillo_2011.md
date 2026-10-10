@@ -7330,7 +7330,7 @@ la temperatura di 100 oC, sapendo che il calore specifico del rame è di 0,093 c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The heat of the copper **
+The heat of the copper 
 
 PT40. The Centre for Middle School Nro. 123 
  
@@ -13336,7 +13336,7 @@ de sandías.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Contratto **
+**Contratto**
 
 PT86. - Scuola Nero. 3 Mariano Moreno 
 Città di Buenos Aires. 
@@ -15155,7 +15155,7 @@ hielo:80cal/g
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Meccanico equivalente al calore (Joule) **
+**Meccanico equivalente al calore (Joule)**
 
 PT98. Scuola superiore industriale 
 Città di Santa Fe. 
@@ -15209,7 +15209,7 @@ g. 80 cal/g
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mechanical equivalent of heat (Joule) **
+**Mechanical equivalent of heat (Joule)**
 
 PT98. Higher Industrial School 
 City of Santa Fe. 
@@ -16180,7 +16180,7 @@ xenón se acaba.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Rotante solare (xenone) **
+**Rotante solare (xenone)**
 
 PT107. Scuola di istruzione secondaria San Andrés 
 Olivos, Buenos Aires. 
@@ -16507,7 +16507,7 @@ combustión de 1,0  10–3 m3 de petróleo es de alrededor de 30 MJ.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Bolla di fuoco: rapporto radio-tempo (log-log) **
+**Bolla di fuoco: rapporto radio-tempo (log-log)**
 
 PT109. Istituto San Jorge 
 Quilmes, Buenos Aires. 
@@ -19422,7 +19422,7 @@ OAF 2011 - 98
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Messura dell'indice di refraczione (legge di Snell) **
+**Messura dell'indice di refraczione (legge di Snell)**
 
 PE2. Scuola tecnica ORT Nro. 2 
 Città di Buenos Aires. 
@@ -20309,7 +20309,7 @@ Quindi: =________  _________
 
 <div class="qlang-split" data-lang="en"></div>
 
-The surface tension with Du Nouy pressure gauge is **
+The surface tension with Du Nouy pressure gauge is 
 
 PE5. Technical school No. 27 Hippolytus Yrigoyen 
 City of Buenos Aires. 
@@ -21077,7 +21077,7 @@ de la variación de la resistencia en función de la iluminación.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Resistance dependence on light and temperature (LDR, metalli) **
+**Resistance dependence on light and temperature (LDR, metalli)**
 
 PE9. Collegio Nazionale di Buenos Aires 
 Città di Buenos Aires. 
@@ -26465,7 +26465,7 @@ Resultados y conclusiones:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Velocità di un veicolo **
+**Velocità di un veicolo**
 
 PE36. - Non lo so. 54 Governatore Juan J. Silva 
 Città di Formosa. 

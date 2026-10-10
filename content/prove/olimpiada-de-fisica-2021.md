@@ -191,9 +191,9 @@ Un treno gravitazionale è un ipotetico mezzo di trasporto che collega due punti
 
 Considerate prima una massa perfettamente sferica di densità uniforme e di raggio $R_T$, che possiamo supporre sia la Terra. Per calcolare la forza gravitazionale su un oggetto situato a una distanza $r < R_T$ dal centro del pianeta, saranno utili i seguenti teoremi di Newton:
 
-> **TEOREMA 1. ** La forza di gravità generata da una sfera omogenea all'esterno è la stessa che se tutta la sua massa fosse al centro.
+> **TEOREMA 1.** La forza di gravità generata da una sfera omogenea all'esterno è la stessa che se tutta la sua massa fosse al centro.
 >
-> **TEOREMA 2. ** La forza di gravità all'interno di una corona sferica omogenea è zero (in geometria, una corona sferica è la regione dello spazio compresa tra due sfere concentriche di radius diverso).
+> **TEOREMA 2.** La forza di gravità all'interno di una corona sferica omogenea è zero (in geometria, una corona sferica è la regione dello spazio compresa tra due sfere concentriche di radius diverso).
 
 a) Usando questi due teoremi e conoscendo la massa della Terra $M_T$, la costante gravitazionale $G$ e il raggio terrestre $R_T$, calcoli la forza di gravità che agisce su un treno di massa $m$ situato a una profondità $R_T - r$. (Ricorda che, secondo i teoremi esposti, è rilevante solo la parte della Terra che è sotto il treno.)
 

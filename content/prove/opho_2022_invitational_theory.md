@@ -60,9 +60,9 @@ Pensa che qualsiasi molecola nella camera sinistra incidentale sulla porta entre
 
 Secondo le ipotesi di parte b, il dispositivo di Zed viola la seconda legge della termodinamica. Ora esamineremo perché questo non accade per un particolare tipo di porta. Questa porta, di massa $M$, ha una cerniera che esercita una coppia di ripristino $\tau = K\theta$ quando la porta è aperta ad un angolo $\theta$, dove $\theta$ non è necessariamente piccola (Figura 1).
 
-**(c) (5 punti) ** Spiegare in una o due frasi perché questa porta si comporta in modo efficace come un buco nel muro con superficie $A'$, e quindi non viene violata la seconda legge della termodinamica.
+**(c) (5 punti)** Spiegare in una o due frasi perché questa porta si comporta in modo efficace come un buco nel muro con superficie $A'$, e quindi non viene violata la seconda legge della termodinamica.
 
-**(d) (10 punti) ** Estimare $A'$ in termini di variabili date e costanti fondamentali. Potreste fare le ipotesi semplificate appropriate.
+**(d) (10 punti)** Estimare $A'$ in termini di variabili date e costanti fondamentali. Potreste fare le ipotesi semplificate appropriate.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1_RPnwRYMqph7lfUEYWRE-Iai3hr3-Inm/view)
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
@@ -107,17 +107,17 @@ The disk is then moved onto a special surface with small bumps of height $h$ spr
 
 Un disco sottile e uniforme di massa $m$ e di raggio $a$ è inizialmente fissato in un angolo $\alpha_0$ orizzontale su una superficie senza attrito. Si dà una velocità angolare iniziale $\Omega_0$ rispetto ad un asse verticale che attraversa il suo centro.
 
-**(a) (4 punti) ** Determina $\Omega_0$ per il caso di stato stazionario, dove $\dot{\alpha} = \ddot{\alpha} = \dot{\Omega} = 0$.
+**(a) (4 punti)** Determina $\Omega_0$ per il caso di stato stazionario, dove $\dot{\alpha} = \ddot{\alpha} = \dot{\Omega} = 0$.
 
-**(b) (2 pts) ** Scrivere un'espressione per l'energia totale del disco.
+**(b) (2 pts)** Scrivere un'espressione per l'energia totale del disco.
 
 Il disco viene poi spostato su una superficie speciale con piccoli bump di altezza $h$ diffusi su di esso  ogni bump è separato da $\delta$. Quando il disco si arrampicano su un'orbita e si riprendono, il suo impatto viene assorbito dalla superficie, causando una perdita netta di energia nel sistema. Il disco viene messo in movimento con le stesse condizioni iniziali di prima ma con $\alpha_0 \ll 1$.
 
-**(c) (6 punti) ** Supponendo che questa sia l'unica fonte di perdita di energia, scrivere un'equazione differenziale per $\dot{\alpha}$ in primo ordine a $\alpha$.
+**(c) (6 punti)** Supponendo che questa sia l'unica fonte di perdita di energia, scrivere un'equazione differenziale per $\dot{\alpha}$ in primo ordine a $\alpha$.
 
-**(d) (4 punti) ** Scrivi quindi un'espressione approssimativa per $\Omega$ come funzione del tempo.
+**(d) (4 punti)** Scrivi quindi un'espressione approssimativa per $\Omega$ come funzione del tempo.
 
-**(e) (2 pts.) ** Con questo modello, si determina il tempo necessario per la frequenza del suono che il disco produce contro la superficie per raggiungere la frequenza audibile massima $f_0$.
+**(e) (2 pts.)** Con questo modello, si determina il tempo necessario per la frequenza del suono che il disco produce contro la superficie per raggiungere la frequenza audibile massima $f_0$.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1_RPnwRYMqph7lfUEYWRE-Iai3hr3-Inm/view)
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
@@ -158,7 +158,7 @@ Neglect relativistic effects in part (a) only.
 
 <div class="qlang-split" data-lang="it"></div>
 
-T3: razzo**
+T3: razzo
 
 Gli organizzatori dell'OphO hanno un razzo "senza propulsione", che per semplicità può essere presunto una scatola rettangolare bidimensionale di massa $2M$ e lunghezza orizzontale $L$. Supponiamo che i lati orizzontali della scatola siano senza massa mentre i lati verticali della scatola abbiano massa $M$. Il razzo è inizialmente a riposo. Ora esploreremo il meccanismo di movimento di questo razzo. Supponiamo di avere $N$ particelle di massa $m/N$ ciascuno sui lati sinistro e destro della scatola. Al tempo $t = 0$, lanciamo le particelle $N$ sul lato sinistro della scatola insieme a destra con velocità $\frac{v}{N}$. Inoltre, in intervalli di tempo $\frac{L}{v}$, a partire da $t = 0$, lanciamo una particella dal lato destro della scatola al lato sinistro con velocità $v$. Una volta che una particella raggiunge il lato opposto della scatola, viene fermata. Il particolare meccanismo per sparare e catturare le particelle può essere ignorato qui. Supponiamo che questo meccanismo possa risparmiare energia. Dopo il tempo $t = \frac{NL}{v}$, ci saranno particelle $N$ su ciascun lato della scatola, identiche allo stato iniziale.
 
@@ -166,13 +166,13 @@ Negli effetti relativistici si trascurano solo nella parte (a).
 
 Secondo la meccanica classica (Newtonian), cosa succede al razzo? Si muove?
 
-**(b) (5 punti) ** Se $v \ll c$, fino a che punto si muove il razzo? Risposta nell'ordine non zero più basso in $v/c$.
+**(b) (5 punti)** Se $v \ll c$, fino a che punto si muove il razzo? Risposta nell'ordine non zero più basso in $v/c$.
 
-**(c) (10 pts.) ** Quanto si muove il centro di massa del sistema missilistico? Ancora una volta, rispondere in ordine non zero più basso in $v/c$. giustifica la tua risposta.
+**(c) (10 pts.)** Quanto si muove il centro di massa del sistema missilistico? Ancora una volta, rispondere in ordine non zero più basso in $v/c$. giustifica la tua risposta.
 
-**(d) (6 punti) ** Spiegate perché questo processo non può continuare indefinitamente. Se potesse continuare per sempre, potremmo muovere il razzo indefinitamente senza propulsione.
+**(d) (6 punti)** Spiegate perché questo processo non può continuare indefinitamente. Se potesse continuare per sempre, potremmo muovere il razzo indefinitamente senza propulsione.
 
-**(e) (5 punti) ** Indicare quanto tempo può durare questo processo. Quanto si muove il razzo in questo momento?
+**(e) (5 punti)** Indicare quanto tempo può durare questo processo. Quanto si muove il razzo in questo momento?
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1_RPnwRYMqph7lfUEYWRE-Iai3hr3-Inm/view)
 **Topic:** [[Special Relativity]], [[Conservation of Momentum]]
@@ -209,17 +209,17 @@ A cubical box of mass $M$ and side length $L$ sits on a horizontal, frictionless
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T4: Cassa magica **
+**T4: Cassa magica**
 
 Una scatola cubica di massa $M$ e lunghezza laterale $L$ si trova su un piano orizzontale senza attrito. La scatola è riempita di un gas ideale di massa delle particelle $m$, densità del volume delle particelle $n$ e temperatura iniziale $T_0$. Una delle pareti verticali all'interno del cubo è costituita da un materiale altamente conduttivo, mantenuto a temperatura costante $T_b \gg T_0$. Il muro è così conduttivo che la temperatura del gas cambia istantaneamente a $T_b$ dopo il rimbalzo. Tutti gli altri muri sono fatti di isolanti ideali.
 
-**(a) (1 p.) ** Indicare, con un ragionamento, la direzione in cui la casella inizierà a muoversi.
+**(a) (1 p.)** Indicare, con un ragionamento, la direzione in cui la casella inizierà a muoversi.
 
-**(b) (7 punti) ** Approximare l'accelerazione iniziale $a_0$ della scatola. Per questa domanda, assicurati che la tua equazione sia valida anche per $T_b = T_0$.
+**(b) (7 punti)** Approximare l'accelerazione iniziale $a_0$ della scatola. Per questa domanda, assicurati che la tua equazione sia valida anche per $T_b = T_0$.
 
-**(c) (3 pts.) ** L'accelerazione della scatola diminuisce quindi da $a_0$ a $a_f$ per un breve periodo fino a $t = \tau_0$. Determina $a_f$.
+**(c) (3 pts.)** L'accelerazione della scatola diminuisce quindi da $a_0$ a $a_f$ per un breve periodo fino a $t = \tau_0$. Determina $a_f$.
 
-**(d) (3 pts.) ** Se $\tau_1$ è il tempo necessario per l'accelerazione di un'identica scatola con la parete conduttiva a temperatura $\frac{T_b}{3}$, calcolare $\frac{\tau_1}{\tau_0}$.
+**(d) (3 pts.)** Se $\tau_1$ è il tempo necessario per l'accelerazione di un'identica scatola con la parete conduttiva a temperatura $\frac{T_b}{3}$, calcolare $\frac{\tau_1}{\tau_0}$.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1_RPnwRYMqph7lfUEYWRE-Iai3hr3-Inm/view)
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]

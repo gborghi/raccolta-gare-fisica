@@ -214,7 +214,7 @@ The Lorentz force due to this field and the Coulomb force due to the $\vec{E}(r)
 maximum of this ratio for $\nu = \nu_1$ as determined in point 8.
 
 <!--fig:start-->
-**p.5 **  Conducting cylinder with radius and height
+**p.5**  Conducting cylinder with radius and height
 ![[_attachments/Naz23T/Naz23T_p5_f3.png]]
 <!--fig:end-->
 

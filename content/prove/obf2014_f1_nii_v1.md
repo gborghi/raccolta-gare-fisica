@@ -259,7 +259,7 @@ A wind turbine, or wind generator, is capable of converting the kinetic energy o
 - **A** 44,0 rad/s
 - **B** 48,3 rad/s
 - **C** 32,0 rad/s
-- ** D ** 24,0 rad/s
+- **D** 24,0 rad/s
 - **E** 5,7 rad/s
 
 19. Assuming the wind turbine in the text is capable of producing 6000 J of electrical energy, what is the kinetic energy of the air particles entering the frontal region of the propeller?

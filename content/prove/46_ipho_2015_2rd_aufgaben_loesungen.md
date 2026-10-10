@@ -45,7 +45,7 @@ beträgt. (5 Pkt.)
 
 Es kann angenommen werden, dass der Doppelkegel ohne zu rutschen rollt.
 
-**Bonusaufgabe** (*1.e):** Die Annahme, dass die von den Verbindungslinien zwischen dem Kegelschwerpunkt und den Kontaktpunkten des Doppelkegels mit den Schienen aufgespannte Ebene immer senkrecht auf der Ebene der Schienen steht, ist streng genommen nicht richtig. Untersuchen Sie, an welchen Stellen die Schienen den Doppelkegel in dem in der vorigen Teilaufgabe beschriebenen Fall tatsächlich berühren und finden Sie heraus, was beim Loslassen im Punkt $A$ tatsächlich passiert. (5* Pkt.)
+**Bonusaufgabe** (*1.e): Die Annahme, dass die von den Verbindungslinien zwischen dem Kegelschwerpunkt und den Kontaktpunkten des Doppelkegels mit den Schienen aufgespannte Ebene immer senkrecht auf der Ebene der Schienen steht, ist streng genommen nicht richtig. Untersuchen Sie, an welchen Stellen die Schienen den Doppelkegel in dem in der vorigen Teilaufgabe beschriebenen Fall tatsächlich berühren und finden Sie heraus, was beim Loslassen im Punkt $A$ tatsächlich passiert. (5* Pkt.)
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]

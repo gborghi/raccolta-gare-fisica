@@ -174,7 +174,7 @@ $$x(t) = \frac{a}{b}\left(e^{bt} - 1\right) + x(0)\, e^{bt}.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(la pistola del binario) **
+**(la pistola del binario)**
 
 Un giovane a P e una giovane donna a Q erano profondamente innamorati. Questi due posti sono separati da uno stretto di larghezza $w = 1000$ m. Dopo aver imparato la teoria della pistola ferroviaria in classe, il giovane non poteva aspettare di costruire un tale dispositivo per lanciarsi attraverso lo stretto. Costruì una rampa di angolo $\theta$ regolabile su cui pose in parallelo due binari metallici (la lunghezza di ciascun binario è $D = 35.0$ m), separati da $L = 2.00$ m. He managed to connect a $2424$ V DC power supply to the ends of the rails. Una barra di conduttore può scivolare liberamente sulle rotaie metalliche in modo che possa attaccarla in modo sicuro mentre scivola.
 
@@ -190,17 +190,17 @@ Indicare, utilizzando i passaggi elencati di seguito, se è possibile farlo in t
 
 ![[APhO_2002_theory_Q2_p2_f1.png]]
 
-**(a)** Derive an expression for the acceleration of the young man parallel to the rail. **[3 punti] **
+**(a)** Derive an expression for the acceleration of the young man parallel to the rail. **[3 punti]**
 
-**(b) ** Ottenere un'espressione in termini di $\theta$ per il tempo trascorso
+**(b)** Ottenere un'espressione in termini di $\theta$ per il tempo trascorso
 - i. sui binari, $t_s$ e
 - ii. in volo, $t_f$.
 
-**[3 punti] **
+**[3 punti]**
 
-**(c) ** Tracciare un grafico del tempo totale $T = t_s + t_f$ contro l'angolo di inclinazione $\theta$. **[1,5 punti]**
+**(c)** Tracciare un grafico del tempo totale $T = t_s + t_f$ contro l'angolo di inclinazione $\theta$. **[1,5 punti]**
 
-**(d) ** Considerando i parametri pertinenti di questo dispositivo, si ottiene l'intervallo di angoli che deve impostare. Se necessario, disegnare un altro grafico. ** [2,5 punti] **
+**(d)** Considerando i parametri pertinenti di questo dispositivo, si ottiene l'intervallo di angoli che deve impostare. Se necessario, disegnare un altro grafico. **[2,5 punti]**
 
 Fate le seguenti ipotesi:
 
@@ -288,7 +288,7 @@ $$\int_0^{\infty} x^3 \, e^{-x^2/k}\, dx = -\frac{1}{2}\, e^{-x^2/k}\left(\frac{
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(fabbricazione di onde) **
+**(fabbricazione di onde)**
 
 La fabbricazione di wafer si riferisce alla produzione di chip semiconduttori a partire dal silicio. Le tecnologie moderne hanno più di 20 processi; ci concentreremo sul deposito di pellicole sottili.
 
@@ -308,7 +308,7 @@ $$\bar{v} = \int_0^{\infty} v \, W(v)\, dv = \sqrt{\frac{8 R T}{\pi M}}.$$
 
 **[1,5 punti]**
 
-**(b) ** Supponendo che i gas si comportino come un gas ideale a bassa pressione, $P$, dimostrano che il tasso di impingimento è dato da
+**(b)** Supponendo che i gas si comportino come un gas ideale a bassa pressione, $P$, dimostrano che il tasso di impingimento è dato da
 
 $$J = \frac{P}{\sqrt{2\pi m k T}}$$
 
@@ -316,11 +316,11 @@ dove $m$ è la massa della molecola e $T$ è la temperatura del gas. **[1,5 punt
 
 Se la pressione residuale dell'ossigeno in un sistema a vuoto è $133$ Pa, e modellare la molecola di ossigeno come sfera di raggio approssimativamente $3.6 \times 10^{-10}$ m, calcolare quanto tempo ci vuole per depositare un strato di ossigeno di spessore molecolare sul wafer a $300^{\circ}$ Celsius, supponendo che tutte le molecole di ossigeno che colpiscono la superficie del wafer di silicio siano depositate. Supponiamo anche che le molecole di ossigeno nello strato siano disposte fianco a fianco. **[1,7 punti]**
 
-In realtà non tutte le molecole di ossigeno reagiscono con il silicio. Questo può essere modellato dal concetto di energia di attivazione in cui le molecole che reagiscono devono avere un'energia totale superiore all'energia di attivazione prima di poter reagire. Fisicamente questa energia di attivazione descrive il fatto che i legami chimici tra gli atomi di silicio devono essere spezzati prima che si formi un nuovo legame tra gli atomi di silicio e ossigeno. Supponendo che l'energia di attivazione della reazione sia $1$ eV, calcolare di nuovo quanto tempo ci vorrebbe per depositare uno strato atomico di ossigeno alla temperatura sopra indicata. Potresti supporre che l'area sotto la distribuzione di Maxwell nella parte (a) sia unità. **[2,8 punti] **
+In realtà non tutte le molecole di ossigeno reagiscono con il silicio. Questo può essere modellato dal concetto di energia di attivazione in cui le molecole che reagiscono devono avere un'energia totale superiore all'energia di attivazione prima di poter reagire. Fisicamente questa energia di attivazione descrive il fatto che i legami chimici tra gli atomi di silicio devono essere spezzati prima che si formi un nuovo legame tra gli atomi di silicio e ossigeno. Supponendo che l'energia di attivazione della reazione sia $1$ eV, calcolare di nuovo quanto tempo ci vorrebbe per depositare uno strato atomico di ossigeno alla temperatura sopra indicata. Potresti supporre che l'area sotto la distribuzione di Maxwell nella parte (a) sia unità. **[2,8 punti]**
 
 ![[APhO_2002_theory_Q3_p2_f1.png]]
 
-**(e) ** Per i processi di litografia, la tavola di silicio pulita è rivestita uniformemente con uno strato di polimero trasparente (foto-resistente) di indice di rifrazione $\mu = 1.40$. Per misurare lo spessore di questa foto-resistenza, la vaffa è illuminata con fascio monocromatico collimato di luce di lunghezza d'onda $\lambda = 589$ nm. Per un certo spessore minimo di foto-resistenza, $d$, si verifica un'interferenza distruttiva della luce riflessa, assumendo un'incidenza normale sul rivestimento. Derivare un'espressione per la relazione tra $d$, $\mu$ e $\lambda$. Calcolare $d$ utilizzando i dati forniti. In questo punto si può presumere che il silicio si comporti come un mezzo con un indice di rifrazione superiore a $1.40$ e si possono ignorare molteplici riflessi. ** [2,5 punti] **
+**(e)** Per i processi di litografia, la tavola di silicio pulita è rivestita uniformemente con uno strato di polimero trasparente (foto-resistente) di indice di rifrazione $\mu = 1.40$. Per misurare lo spessore di questa foto-resistenza, la vaffa è illuminata con fascio monocromatico collimato di luce di lunghezza d'onda $\lambda = 589$ nm. Per un certo spessore minimo di foto-resistenza, $d$, si verifica un'interferenza distruttiva della luce riflessa, assumendo un'incidenza normale sul rivestimento. Derivare un'espressione per la relazione tra $d$, $\mu$ e $\lambda$. Calcolare $d$ utilizzando i dati forniti. In questo punto si può presumere che il silicio si comporti come un mezzo con un indice di rifrazione superiore a $1.40$ e si possono ignorare molteplici riflessi. **[2,5 punti]**
 
 I seguenti dati possono essere utili:
 

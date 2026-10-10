@@ -51,7 +51,7 @@ What is the equivalent resistance between points $a$ and $h$?
 
 **A1.** Un gruppo di 12 resistori è disposto lungo i bordi di un cubo. I vertici del cubo sono etichettati ah.
 
-**(a) ** (13 punti) La resistenza tra ciascuna coppia di vertici è la seguente:
+**(a)** (13 punti) La resistenza tra ciascuna coppia di vertici è la seguente:
 
 $$R_{ab} = R_{ac} = R_{ae} = 3.0\ \Omega$$
 
@@ -63,7 +63,7 @@ $$R_{dh} = R_{fh} = R_{gh} = 1.0\ \Omega$$
 
 Qual è la resistenza equivalente tra i punti $a$ e $h$?
 
-**(b) ** (12 punti) Le tre resistenze $12.0\ \Omega$ sono sostituite da condensatori identici: $C_{cd} = C_{bf} = C_{eg} = 15.0\ \mu\text{F}$. Una batteria $12.0\ \text{V}$ è collegata tra i punti $a$ e $h$ e il circuito può funzionare per un lungo periodo di tempo. Qual è la carica ($Q_{cd}$, $Q_{bf}$, $Q_{eg}$) su ciascun condensatore dopo questo lungo periodo di tempo?
+**(b)** (12 punti) Le tre resistenze $12.0\ \Omega$ sono sostituite da condensatori identici: $C_{cd} = C_{bf} = C_{eg} = 15.0\ \mu\text{F}$. Una batteria $12.0\ \text{V}$ è collegata tra i punti $a$ e $h$ e il circuito può funzionare per un lungo periodo di tempo. Qual è la carica ($Q_{cd}$, $Q_{bf}$, $Q_{eg}$) su ciascun condensatore dopo questo lungo periodo di tempo?
 
 <!--fig:start-->
 ![[_attachments/2007 olympiad_2007_semi-final/2007 olympiad_2007_semi-final_p2_f1.png]]
@@ -111,13 +111,13 @@ If the coefficient of static friction between the cork and the cylinder is $\mu$
 
 **A2.** Una pistola semplice può essere realizzata da un cilindro uniforme di lunghezza $L_0$ e di raggio interno $r_c$. Un'estremità del cilindro è sigillata con un punte mobile e l'altra è collegata con un proiettile cilindrico di corteccia. Il proiettile si tiene in posizione mediante attrito con le pareti del cilindro. La pressione esterna al cilindro è la pressione atmosferica $P_0$. Il proiettile inizierà a scivolare fuori dal cilindro se la pressione all'interno del cilindro supera $P_{cr}$.
 
-**(a) ** Ci sono due modi per lanciare il proiettile: riscaldando il gas all'interno del cilindro e mantenendo il puntecchio fisso, o spingendo improvvisamente il puntecchio nel cilindro. In entrambi i casi, supponiamo che un gas monatomo ideale sia all'interno del cilindro, e che originariamente il gas sia a temperatura $T_0$, la pressione all'interno del cilindro sia $P_0$ e la lunghezza del cilindro sia $L_0$.
+**(a)** Ci sono due modi per lanciare il proiettile: riscaldando il gas all'interno del cilindro e mantenendo il puntecchio fisso, o spingendo improvvisamente il puntecchio nel cilindro. In entrambi i casi, supponiamo che un gas monatomo ideale sia all'interno del cilindro, e che originariamente il gas sia a temperatura $T_0$, la pressione all'interno del cilindro sia $P_0$ e la lunghezza del cilindro sia $L_0$.
 
 Supponiamo di lanciare il proiettile riscaldando il gas senza spostare il punte. Trova la temperatura minima del gas necessaria per lanciare il proiettile. Esprimere la risposta in termini di una o tutte le variabili: $T_0$, $L_0$, $P_0$, $P_{cr}$, $r_c$.
 
-**(ii) ** (8 pts) Supponiamo invece che lanciamo il proiettile spingendo nel plunger, e che lo facciamo abbastanza rapidamente in modo che non venga trasferito calore nel gas o fuori. Trova la lunghezza della colonna di gas all'interno del cilindro quando il proiettile comincia a muoversi. Esprimere la risposta in termini di una o tutte le variabili: $T_0$, $L_0$, $P_0$, $P_{cr}$, $r_c$.
+**(ii)** (8 pts) Supponiamo invece che lanciamo il proiettile spingendo nel plunger, e che lo facciamo abbastanza rapidamente in modo che non venga trasferito calore nel gas o fuori. Trova la lunghezza della colonna di gas all'interno del cilindro quando il proiettile comincia a muoversi. Esprimere la risposta in termini di una o tutte le variabili: $T_0$, $L_0$, $P_0$, $P_{cr}$, $r_c$.
 
-**(b) ** (9 pts) È necessario premere il proiettile per inserirlo in primo luogo nel cilindro. Il proiettile ha normalmente un raggio $r_b$ leggermente superiore al raggio interno del cilindro; $r_b - r_c = \Delta r$, che è piccolo rispetto a $r_c$. Il proiettile ha una lunghezza $h$. Le pareti del cilindro applicano una pressione $P$ al proiettile di corteccia. Quando una pressione $P$ viene applicata al proiettile lungo una determinata direzione, le dimensioni del proiettile in tale direzione cambiano di:
+**(b)** (9 pts) È necessario premere il proiettile per inserirlo in primo luogo nel cilindro. Il proiettile ha normalmente un raggio $r_b$ leggermente superiore al raggio interno del cilindro; $r_b - r_c = \Delta r$, che è piccolo rispetto a $r_c$. Il proiettile ha una lunghezza $h$. Le pareti del cilindro applicano una pressione $P$ al proiettile di corteccia. Quando una pressione $P$ viene applicata al proiettile lungo una determinata direzione, le dimensioni del proiettile in tale direzione cambiano di:
 
 $$\frac{\Delta x}{x} = -\frac{P}{E}$$
 
@@ -162,15 +162,15 @@ Your answer to (b) should indicate that the total energy increases with $R$. In 
 
 **A3.** Un volume $V_f$ di fluido con densità di carica uniforme $\rho$ viene spruzzato in una stanza, formando gocce sferiche. Mentre galleggiano intorno alla stanza, le gocce possono rompersi in piccole gocce o fondere in più grandi. Supponiamo che tutte le gocce abbiano un raggio $R$. Ignorare le forze inter-goccia e supporre che $V_f \gg R^3$.
 
-** a) ** (10 punti) Calcolare l'energia potenziale elettrostatica di una singola goccia. (*Insigno*: supponiamo che la sfera abbia un raggio $r$. Quanto lavoro è necessario per aumentare il raggio di $dr$?)
+**a)** (10 punti) Calcolare l'energia potenziale elettrostatica di una singola goccia. (*Insigno*: supponiamo che la sfera abbia un raggio $r$. Quanto lavoro è necessario per aumentare il raggio di $dr$?)
 
-**(b) ** (4 pts) Qual è l'energia elettrostatica totale delle gocce?
+**(b)** (4 pts) Qual è l'energia elettrostatica totale delle gocce?
 
 La risposta alla lettera b) deve indicare che l'energia totale aumenta con $R$. In assenza di tensione superficiale, quindi, il fluido si spezzerebbe in infinite gocce. Supponiamo, tuttavia, che il fluido abbia una tensione superficiale $\gamma$ (energia potenziale per unità di superficie, positiva).
 
-**(c) ** (4 pts) Qual è l'energia totale delle gocce dovuta alla tensione superficiale?
+**(c)** (4 pts) Qual è l'energia totale delle gocce dovuta alla tensione superficiale?
 
-**(d) ** (7 pts) Qual è il raggio di equilibrio delle gocce?
+**(d)** (7 pts) Qual è il raggio di equilibrio delle gocce?
 
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -209,15 +209,15 @@ La risposta alla lettera b) deve indicare che l'energia totale aumenta con $R$. 
 
 **A4.** Un elemento di circuito non lineare può essere realizzato da un condensatore di piastre parallele e da piccole palle, ciascuna di massa $m$, che possono muoversi tra le piastre. Le palle collidono inelasticamente con le lastre, dissipano tutta l'energia cinetica come energia termica e rilasciano immediatamente la carica che portano sulla lastra. Quasi istantaneamente, le palle raccolgono poi una piccola carica di magnitudo $q$ dalla piastra; le palle vengono quindi respinte direttamente verso l'altra piastra solo sotto forze elettrostatiche. Succede un'altra collisione, l'energia cinetica viene dissipata, le palle abbandonano la carica, raccolgono una nuova carica e il ciclo si ripete. Ci sono sfere $n_0$ per unità di superficie della piastra. Il condensatore ha una capacità $C$. La separazione $d$ tra le piastre è molto maggiore del raggio $r$ delle palle. Una batteria è collegata alle piastre per mantenere una differenza di potenziale costante $V$. Ignorare gli effetti di bordo e supporre che le forze magnetiche e le forze gravitazionali possano essere ignorate.
 
-**(a) ** (5 punti) Determina il tempo necessario per un palla per viaggiare tra le piastre in termini di una o tutte le seguenti variabili: $m$, $q$, $d$ e $V$.
+**(a)** (5 punti) Determina il tempo necessario per un palla per viaggiare tra le piastre in termini di una o tutte le seguenti variabili: $m$, $q$, $d$ e $V$.
 
-**(b) ** (5 punti) Calcolare l'energia cinetica dissipata come energia termica quando una palla colpisce inelasticamente con una superficie della piastra in termini di una o tutte le seguenti variabili: $m$, $q$, $d$ e $V$.
+**(b)** (5 punti) Calcolare l'energia cinetica dissipata come energia termica quando una palla colpisce inelasticamente con una superficie della piastra in termini di una o tutte le seguenti variabili: $m$, $q$, $d$ e $V$.
 
-**(c) ** (5 pts) Derivare un'espressione per la corrente tra le piastre in termini di permissività dello spazio libero $\varepsilon_0$, e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
+**(c)** (5 pts) Derivare un'espressione per la corrente tra le piastre in termini di permissività dello spazio libero $\varepsilon_0$, e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
 
-**(d) ** (5 punti) Derivare un'espressione per la resistenza effettiva del dispositivo in termini di $\varepsilon_0$ e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
+**(d)** (5 punti) Derivare un'espressione per la resistenza effettiva del dispositivo in termini di $\varepsilon_0$ e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
 
-**(e) ** (5 punti) Calcolare la velocità con cui l'energia cinetica delle palle viene convertita in energia termica in termini di $\varepsilon_0$, e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
+**(e)** (5 punti) Calcolare la velocità con cui l'energia cinetica delle palle viene convertita in energia termica in termini di $\varepsilon_0$, e di una o tutte le seguenti variabili: $m$, $q$, $n_0$, $C$ e $V$.
 
 **Topic:** [[Circuits]], [[Electrostatics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -259,13 +259,13 @@ La risposta alla lettera b) deve indicare che l'energia totale aumenta con $R$. 
 
 Un certo oscillatore meccanico può essere modellato come una molla ideale senza massa collegata a una piastra mobile inclinata. La molla ha costante $k$, la piastra ha massa $m$ e l'inclinazione fa un angolo $\theta$ con l'orizzontale. Quando il sistema funziona correttamente, la piastra oscilla tra i punti $A$ e $B$ della figura, situati a una distanza $L$. Quando la piastra raggiunge il punto $A$ ha energia cinetica zero, ma poi scatena una piccola leva che carica istantaneamente sul piastra un blocco di massa $M$. Il blocco e la piastra si spostano poi verso il basso verso il punto $B$, dove la forza della sorgente ferma la piastra. A questo punto, il blocco cade attraverso un buco nella pendenza, consentendo alla piastra di muoversi di nuovo su sotto la forza della molla. Al ritorno al punto $A$ viene raccolto un altro blocco e il ciclo si ripete. Sia la piastra che il blocco hanno un coefficiente di attrito $\mu$ con inclinazione sia per la frizione cinetica che per quella statica. È ragionevole che il movimento in entrambe le direzioni sia di natura armonica semplice.
 
-**(a) ** (10 pts) $\mu_c$ sia il valore critico del coefficiente di attrito in cui il blocco comincerà a scivolare sotto la forza di gravità su un'inclinazione (senza che la molla agisca su di esso). Quindi lasciate $\mu = 2\mu_c$. Trova $\mu$ in termini di $g$, l'accelerazione della caduta libera e di una o tutte le seguenti variabili: $\theta$ e $M$.
+**(a)** (10 pts) $\mu_c$ sia il valore critico del coefficiente di attrito in cui il blocco comincerà a scivolare sotto la forza di gravità su un'inclinazione (senza che la molla agisca su di esso). Quindi lasciate $\mu = 2\mu_c$. Trova $\mu$ in termini di $g$, l'accelerazione della caduta libera e di una o tutte le seguenti variabili: $\theta$ e $M$.
 
-**(b) ** (14 pts) Per funzionare correttamente, è necessario avere il corretto rapporto tra la massa del blocco e la massa della piastra. Queste masse sono scelte in modo che il blocco e la piastra in movimento verso il basso si fermi al punto $B$ mentre la piastra in movimento verso l'alto si ferma al punto $A$. Trova il rapporto $R = \dfrac{M}{m}$.
+**(b)** (14 pts) Per funzionare correttamente, è necessario avere il corretto rapporto tra la massa del blocco e la massa della piastra. Queste masse sono scelte in modo che il blocco e la piastra in movimento verso il basso si fermi al punto $B$ mentre la piastra in movimento verso l'alto si ferma al punto $A$. Trova il rapporto $R = \dfrac{M}{m}$.
 
-**(c) ** (13 punti) Il sistema fornisce i blocchi al punto $B$ con periodo $T_0$, fino a quando i blocchi non si esauriscono. Dopo di che, la sola piastra oscilla con un periodo $T'$. Trova il rapporto $\dfrac{T'}{T_0}$.
+**(c)** (13 punti) Il sistema fornisce i blocchi al punto $B$ con periodo $T_0$, fino a quando i blocchi non si esauriscono. Dopo di che, la sola piastra oscilla con un periodo $T'$. Trova il rapporto $\dfrac{T'}{T_0}$.
 
-**(d) ** (13 punti) La piastra oscilla solo qualche volta dopo l'arrivo dell'ultimo blocco. A che distanza in salita, misurata dal punto $B$, la piastra si ferma permanentemente?
+**(d)** (13 punti) La piastra oscilla solo qualche volta dopo l'arrivo dell'ultimo blocco. A che distanza in salita, misurata dal punto $B$, la piastra si ferma permanentemente?
 
 <!--fig:start-->
 ![[_attachments/2007 olympiad_2007_semi-final/2007 olympiad_2007_semi-final_p6_f2.png]]
@@ -335,33 +335,33 @@ Un modello delle proprietà magnetiche dei materiali si basa su piccoli momenti 
 
 Supponiamo che gli elettroni orbitino nel piano $x$-$y$.
 
-**(i) ** (3 punti) Calcolare la forza elettrostatica netta sull'elettrone dal protone. Esprimere la risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $m_p$, $R$ e la permissività dello spazio libero $\varepsilon_0$, dove $\dfrac{1}{4\pi\varepsilon_0} = k$.
+**(i)** (3 punti) Calcolare la forza elettrostatica netta sull'elettrone dal protone. Esprimere la risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $m_p$, $R$ e la permissività dello spazio libero $\varepsilon_0$, dove $\dfrac{1}{4\pi\varepsilon_0} = k$.
 
-**(ii) ** (5 punti) Determinare la velocità angolare $\omega_0$ dell'elettrone attorno al protone in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$ e $\varepsilon_0$.
+**(ii)** (5 punti) Determinare la velocità angolare $\omega_0$ dell'elettrone attorno al protone in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$ e $\varepsilon_0$.
 
-**(iii) ** (8 pts) Derivare un'espressione per la magnitudine del campo magnetico $B_e$ dovuto al movimento orbitale dell'elettrone a una distanza $z$ dal piano $x$-$y$ lungo l'asse di rotazione orbitale dell'elettrone. Esprimere la risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$, $\omega_0$, $z$ e la permeabilità dello spazio libero $\mu_0$.
+**(iii)** (8 pts) Derivare un'espressione per la magnitudine del campo magnetico $B_e$ dovuto al movimento orbitale dell'elettrone a una distanza $z$ dal piano $x$-$y$ lungo l'asse di rotazione orbitale dell'elettrone. Esprimere la risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$, $\omega_0$, $z$ e la permeabilità dello spazio libero $\mu_0$.
 
-**(iv) ** (4 pts) Un piccolo magnete a barre ha un campo magnetico lontano dal magnete dato da
+**(iv)** (4 pts) Un piccolo magnete a barre ha un campo magnetico lontano dal magnete dato da
 
 $$B = \frac{\mu_0}{2\pi} \frac{m}{z^3}$$
 
 se $z$ è la distanza dal magnete sull'asse che collega i poli nord e sud, $m$ è il momento di dipolo magnetico e $\mu_0$ è la permeabilità dello spazio libero. Supponendo che un elettrone che orbita intorno a un protone agisca come un piccolo magnete a barre, si trova il momento di dipole $m$ per un elettrone che orbita intorno ad un atomo in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$ e $\omega_0$.
 
-**b. Diamagnetismo
+**b. Diamagnetismo**
 
 Modelliamo una sostanza diamagnetico per avere tutti gli atomi orientati in modo che le orbite elettroniche siano nel piano $x$-$y$, esattamente la metà delle quali sono in senso orario e la metà in senso contrario quando visto dall'asse positivo $z$ che guarda verso l'origine.
 
-**(i) ** (3 punti) Calcolare il momento magnetico totale di una sostanza diamagnetico con $N$ atomi. Scrivi la tua risposta in termini di uno o tutti i seguenti parametri: $N$, $e$, $m_e$, $R$, $\omega_0$, $\mu_0$.
+**(i)** (3 punti) Calcolare il momento magnetico totale di una sostanza diamagnetico con $N$ atomi. Scrivi la tua risposta in termini di uno o tutti i seguenti parametri: $N$, $e$, $m_e$, $R$, $\omega_0$, $\mu_0$.
 
-**(ii) ** (6 punti) Si applica al sostanza un campo magnetico esterno $\vec{B}_0 = B_0\hat{z}$. Supponiamo che l'introduzione del campo esterno non modifichi il fatto che l'elettrone si muova in un'orbita circolare di raggio $R$. Determinare $\Delta\omega$, la variazione della velocità angolare dell'elettrone, sia per le orbite in senso orario che in senso contrario. In tutto questo problema si può supporre che $\Delta\omega \ll \omega_0$. Scrivi la tua risposta in termini di $e$, $m_e$, $B_0$ solo.
+**(ii)** (6 punti) Si applica al sostanza un campo magnetico esterno $\vec{B}_0 = B_0\hat{z}$. Supponiamo che l'introduzione del campo esterno non modifichi il fatto che l'elettrone si muova in un'orbita circolare di raggio $R$. Determinare $\Delta\omega$, la variazione della velocità angolare dell'elettrone, sia per le orbite in senso orario che in senso contrario. In tutto questo problema si può supporre che $\Delta\omega \ll \omega_0$. Scrivi la tua risposta in termini di $e$, $m_e$, $B_0$ solo.
 
-**(iii) ** (6 punti) Supponiamo che il campo esterno sia attivato a velocità costante in un intervallo di tempo $\Delta t$. Cioè, quando $t = 0$ il campo esterno è zero e quando $t = \Delta t$ il campo esterno è $\vec{B}_0$. Determinare l'emf $\mathcal{E}$ indotto da un elettrone. Scrivi la tua risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$, $N$, $B_0$, $\omega_0$ e $\mu_0$.
+**(iii)** (6 punti) Supponiamo che il campo esterno sia attivato a velocità costante in un intervallo di tempo $\Delta t$. Cioè, quando $t = 0$ il campo esterno è zero e quando $t = \Delta t$ il campo esterno è $\vec{B}_0$. Determinare l'emf $\mathcal{E}$ indotto da un elettrone. Scrivi la tua risposta in termini di uno o tutti i seguenti parametri: $e$, $m_e$, $R$, $N$, $B_0$, $\omega_0$ e $\mu_0$.
 
-**(iv) ** (6 punti) Verificare che la variazione dell'energia cinetica dell'elettrone soddisfi $\Delta K = e\mathcal{E}$. Ciò giustifica il nostro presupposto in ii) che $R$ non cambia.
+**(iv)** (6 punti) Verificare che la variazione dell'energia cinetica dell'elettrone soddisfi $\Delta K = e\mathcal{E}$. Ciò giustifica il nostro presupposto in ii) che $R$ non cambia.
 
-**(v) ** (6 punti) Determina la variazione del momento magnetico totale $\Delta m$ per gli atomi $N$ quando viene applicato il campo esterno, scrivendo la tua risposta in termini di $e$, $m_e$, $R$, $N$, $\mu_0$ e $B_0$.
+**(v)** (6 punti) Determina la variazione del momento magnetico totale $\Delta m$ per gli atomi $N$ quando viene applicato il campo esterno, scrivendo la tua risposta in termini di $e$, $m_e$, $R$, $N$, $\mu_0$ e $B_0$.
 
-**(vi) ** (3 pts) Supponiamo che il campo magnetico uniforme utilizzato nelle parti precedenti di questo problema sia sostituito da un magnete a barre. La sostanza diamagnetico sarebbe attratta o respinta dal magnete di barra? Come la tua risposta lo dimostra?
+**(vi)** (3 pts) Supponiamo che il campo magnetico uniforme utilizzato nelle parti precedenti di questo problema sia sostituito da un magnete a barre. La sostanza diamagnetico sarebbe attratta o respinta dal magnete di barra? Come la tua risposta lo dimostra?
 
 **Topic:** [[Magnetism]], [[Electromagnetic Induction]]
 **Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]

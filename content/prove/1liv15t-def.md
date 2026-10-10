@@ -938,7 +938,7 @@ Where does the image of the candle form?
 - **A.** Dietro lo specchio.
 - **B.** Sullo specchio.
 - **C.** Between the mirror and F.
-- ** D.** Between F and C.
+- **D.** Between F and C.
 - **E.** Between C and the position of the candle.
 <!--fig:start-->
 ![[_attachments/1liv15T def/1liv15T def_p7_f6.png]]

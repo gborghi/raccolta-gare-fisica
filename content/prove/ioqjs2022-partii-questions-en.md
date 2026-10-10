@@ -564,7 +564,7 @@ In quale ordine si deve mescolare questi materiali per ottenere il sapone? Indic
 
 Dopo la formazione e la separazione del sapone, quali componenti della miscela di reazione rimangono al di fuori del glicerolo?
 
-**13.4. ** Il glicerolo non può essere distillato a pressione atmosferica. È rimosso dalla miscela di reazione mediante distillazione a pressione molto bassa. Sulla base di queste informazioni, si deve stimare il livello di ebollizione del glicerolo a pressione atmosferica. Data: punto di ebollizione dell'etanolo: $78\ ^\circ\text{C}$.
+**13.4.** Il glicerolo non può essere distillato a pressione atmosferica. È rimosso dalla miscela di reazione mediante distillazione a pressione molto bassa. Sulla base di queste informazioni, si deve stimare il livello di ebollizione del glicerolo a pressione atmosferica. Data: punto di ebollizione dell'etanolo: $78\ ^\circ\text{C}$.
 
 - (a) $25 - 75\ ^\circ\text{C}$
 - (b) $75 - 90\ ^\circ\text{C}$
@@ -693,7 +693,7 @@ Diversi tipi di strategie di lotta contro gli incendi sono efficaci per diversi 
 
 La prima strategia è quella di spruzzare l'acqua sul fuoco.
 
-**14.1. ** L'acqua di spruzzatura non può spegnere gli incendi a causa della benzina. Quale proprietà dell'acqua e della benzina impedisce all'acqua di spegnere il fuoco di benzina?
+**14.1.** L'acqua di spruzzatura non può spegnere gli incendi a causa della benzina. Quale proprietà dell'acqua e della benzina impedisce all'acqua di spegnere il fuoco di benzina?
 
 Tra gli incendi sostenuti da materiali I  V, che possono essere estinti spruzzando acqua?
 
@@ -736,7 +736,7 @@ Un'altra versione di estintore basato su $\text{CO}_2$ è stata sviluppata negli
 
 Un terzo tipo di estintore viene utilizzato specificamente per incendi con olio vegetale. Questi estintori di fuoco spruzzano un sottile spray di carbonato di potassio alcalino o acetato di potassio sull'olio che brucia. Questo sciacquato finissimo provoca la formazione di schiuma sulle superfici dell'olio.
 
-**14.7. ** (a) In questo caso, quali dei tre componenti del fuoco (i  iii) vengono ridotti? Scrivere una frase per ciascun componente che spiega il meccanismo di riduzione.
+**14.7.** (a) In questo caso, quali dei tre componenti del fuoco (i  iii) vengono ridotti? Scrivere una frase per ciascun componente che spiega il meccanismo di riduzione.
 
 b) Quali altri tipi di incendi (I, II, IV, V) possono essere estinti con questo estintore?
 
@@ -940,7 +940,7 @@ La specificità delle interazioni antigen- anticorpo è utilizzata come strument
 
 Il sistema è sviluppato in modo tale che se gli antigeni sono etichettati, quando si legano agli anticorpi, formano complessi colorati e rilevabili. Il processo di etichettatura prevede l'attaccamento chimico di una molecola colorata all'antigene. Se gli antigeni non sono etichettati, il complesso rimane incolore.
 
-** 17.1.** Supponiamo che questo test sia usato per rilevare un virus dal sangue circolante. Gli antigeni etichettati hanno la stessa capacità di legare agli anticorpi come l'antigene effettivo. Il siero di una persona infetta e di una persona non infetta viene aggiunto come mostrato nella tabella seguente.
+**17.1.** Supponiamo che questo test sia usato per rilevare un virus dal sangue circolante. Gli antigeni etichettati hanno la stessa capacità di legare agli anticorpi come l'antigene effettivo. Il siero di una persona infetta e di una persona non infetta viene aggiunto come mostrato nella tabella seguente.
 
  Bene, i componenti sono stati aggiunti dopo il rivestimento degli anticorpi 
 | --- | --- |

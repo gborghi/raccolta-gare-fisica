@@ -33,7 +33,7 @@ If an axolotl larva of Mexican Salamander is kept in iodine depleted water; then
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (scelta multipla) **  Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un marchio e ogni risposta sbagliata con un marchio $-0.25$.
+**Sezione A (scelta multipla)**  Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un marchio e ogni risposta sbagliata con un marchio $-0.25$.
 
 Se una larva di axolotl di salamandra messicana è tenuta in acqua esaurita da iodio,
 
@@ -2414,9 +2414,9 @@ Four stars A, B, C, D are in space so that the distances (in light years) betwee
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (pieghe domande) **  Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande indicano i segni se sono costituite da più di una parte.
+**Sezione B (pieghe domande)**  Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande indicano i segni se sono costituite da più di una parte.
 
-Quattro stelle A, B, C, D sono nello spazio in modo che le distanze (in anni luce) tra loro sono indicate da AB = 6, BC = 8, AC = 10, AD = 8 e CD = 6. Trova le distanze massime e minime possibili tra B e D. ** [5 Marchi] **
+Quattro stelle A, B, C, D sono nello spazio in modo che le distanze (in anni luce) tra loro sono indicate da AB = 6, BC = 8, AC = 10, AD = 8 e CD = 6. Trova le distanze massime e minime possibili tra B e D. **[5 Marchi]**
 
 **Topic:** [[Astrophysics]], [[Mathematics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -2469,11 +2469,11 @@ Nel sistema di gruppo sanguigno A, B e O, il gruppo sanguigno 'O' è recessivo a
 
 Rispondere alle seguenti domande.
 
-**i.** X (Femminile) è sposato con Y (Maschio). Hanno tre figli: P (figlio maschio), Q (figlio maschio) e R (figlio femmina). Il gruppo sanguigno di X e Y è rispettivamente "A" e "B". Se i gruppi sanguigni di P e R sono 'B' e Q è 'AB', prevedete i possibili genotipi per i gruppi sanguigni di tutti e cinque i membri della famiglia. ** [2 Marchi] **
+**i.** X (Femminile) è sposato con Y (Maschio). Hanno tre figli: P (figlio maschio), Q (figlio maschio) e R (figlio femmina). Il gruppo sanguigno di X e Y è rispettivamente "A" e "B". Se i gruppi sanguigni di P e R sono 'B' e Q è 'AB', prevedete i possibili genotipi per i gruppi sanguigni di tutti e cinque i membri della famiglia. **[2 Marchi]**
 
-**ii.** Quali saranno i possibili fenotipi e genotipi dei figli se il padre ha il gruppo sanguigno "O" e la madre ha il gruppo sanguigno "A"? **[0,5 punti] **
+**ii.** Quali saranno i possibili fenotipi e genotipi dei figli se il padre ha il gruppo sanguigno "O" e la madre ha il gruppo sanguigno "A"? **[0,5 punti]**
 
-**iii.** Qui di seguito sono indicati i diversi gruppi sanguigni e i loro genotipi. Scopri e scrivi gli antigeni presenti sulla superficie del CCR per ciascun gruppo sanguigno (ad es. Antigene A o Antigene B o Antigene nullo) e l' anticorpo prodotto nel siero di ciascun gruppo sanguigno (ad es. Antigene A o Antigene B o Antigene nullo) nella tabella di seguito riportata. ** [2 Marchi] **
+**iii.** Qui di seguito sono indicati i diversi gruppi sanguigni e i loro genotipi. Scopri e scrivi gli antigeni presenti sulla superficie del CCR per ciascun gruppo sanguigno (ad es. Antigene A o Antigene B o Antigene nullo) e l' anticorpo prodotto nel siero di ciascun gruppo sanguigno (ad es. Antigene A o Antigene B o Antigene nullo) nella tabella di seguito riportata. **[2 Marchi]**
 
 ♬ GROUP BLOOD PHENOTYPE ♬ GENOTYPE ♬ ANTIGEN SULLA SUFFACE DEL RBC ♬ SERUM ANTIBODY ♬
 |---|---|---|---|
@@ -2563,7 +2563,7 @@ Osservate il ciclo di azoto riportato di seguito e risponda alle seguenti domand
 - c) Denitrificazione
 - d) Nitrificazione
 
-**ii.** Indicare se le seguenti affermazioni sono vere (T) o false (F). ** [3 Marchi] **
+**ii.** Indicare se le seguenti affermazioni sono vere (T) o false (F). **[3 Marchi]**
 
 a) Le piante ottengono il loro approvvigionamento di azoto come ioni di nitrati e di ammonio disciolti in acqua.
 b) L'ammonificazione si riferisce alla conversione dell'azoto libero in ammoniaca.
@@ -2664,7 +2664,7 @@ A particle is moving on the real line, and its position is observed at four diff
 
 <div class="qlang-split" data-lang="it"></div>
 
-Una particella si muove sulla linea reale e la sua posizione viene osservata a quattro stampi temporali diversi. Al tempo $t = 0$, la particella è a $x = 0$, al tempo $t = 20$ secondi, abbiamo $x = 40$, al tempo $t = 40$ secondi, $x = 60$ e al tempo $t = 60$ secondi, abbiamo $x = 90$. Mostrate che a un certo punto di tempo tra 0 e 60 secondi, l'accelerazione della particella era zero. ** [5 Marchi] **
+Una particella si muove sulla linea reale e la sua posizione viene osservata a quattro stampi temporali diversi. Al tempo $t = 0$, la particella è a $x = 0$, al tempo $t = 20$ secondi, abbiamo $x = 40$, al tempo $t = 40$ secondi, $x = 60$ e al tempo $t = 60$ secondi, abbiamo $x = 90$. Mostrate che a un certo punto di tempo tra 0 e 60 secondi, l'accelerazione della particella era zero. **[5 Marchi]**
 
 **Topic:** [[Newtonian Mechanics]], [[Mathematics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -2720,7 +2720,7 @@ Nelle storie del Panchatantra, una delle storie popolari è dove un corvo siede 
 
 Supponiamo che il contenitore sia rettangolare, con una base di 10 cm x 20 cm e un'altezza di 30 cm. Il corvo ha marmi di 1 cm di raggio per imballare il contenitore. Il corvo imballa la base del contenitore con un insieme di marmi. Tutti gli strati successivi sono simili.
 
-Qual è il livello iniziale dell'acqua in modo tale che ogni imballaggio porti il livello dell'acqua al bordo del contenitore in modo che possa bere l'acqua? ** [2Marchi] **
+Qual è il livello iniziale dell'acqua in modo tale che ogni imballaggio porti il livello dell'acqua al bordo del contenitore in modo che possa bere l'acqua? **[2Marchi]**
 
 **ii.** Qual è il numero minimo di marmi necessari per svolgere il lavoro? **[1Mark]**
 
@@ -2820,7 +2820,7 @@ $$10\ \text{Na}\ (s) + 2\text{KNO}_3\ (s) \to \text{K}_2\text{O}(s) + 5\text{Na}
 
 **i.** Calcolare il rapporto (per massa) in cui l'azido di sodio e il nitrato di potassio devono essere mescolati in modo che non rimanga sodio metallico dopo la reazione. **[1 Marchio]**
 
-**ii.** Scrivere il record di $\text{SiO}_2$ con ossido di sodio e ossido di potassio. **[0,5 punti] **
+**ii.** Scrivere il record di $\text{SiO}_2$ con ossido di sodio e ossido di potassio. **[0,5 punti]**
 
 **iii.** Calcolare la massa totale della miscela solida di azido di sodio e nitrato di potassio necessaria per gonfiare un airbag di 72 dm3 riempito di gas azoto a 3 atm e a temperatura ambiente (27°C). Considera il volume molare del gas azoto come 24,0 dm3 a 300 K e costante universale del gas, R = 0,0821 litri. ATM.mole. K⁻¹. **(Importante: indicare chiaramente tutti i vostri passi di calcolo) [2 Marchi]**
 
@@ -2881,7 +2881,7 @@ Pradip lives in an apartment on $4^\text{th}$ floor of a 6 storey building in Mu
 
 **iv.** In winter the outside temperature is 25°C. Tenendo il flusso d'acqua nel riscaldatore lo stesso che in estate, in che misura dovrebbe aprire il rubinetto d'acqua fredda (se è possibile controllare il flusso) per ottenere la stessa doccia a temperatura che in estate? **[1 segno]**
 
-**v.** Vinayak lives on the second floor of the same building. Sia Vinayak che Pradip hanno rubinetti e riscaldatori identici. Supponendo che tutte le altre condizioni fisiche siano identiche, se Vinayak mantiene le rubine aperte o chiuse durante tutto l'anno seguendo lo stesso modello di Pradip, allora quali sono le temperature dell'acqua che Vinayak riceve in estate e in inverno? ** [2 segno]**
+**v.** Vinayak lives on the second floor of the same building. Sia Vinayak che Pradip hanno rubinetti e riscaldatori identici. Supponendo che tutte le altre condizioni fisiche siano identiche, se Vinayak mantiene le rubine aperte o chiuse durante tutto l'anno seguendo lo stesso modello di Pradip, allora quali sono le temperature dell'acqua che Vinayak riceve in estate e in inverno? **[2 segno]**
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]

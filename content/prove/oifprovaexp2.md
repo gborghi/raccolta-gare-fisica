@@ -71,7 +71,7 @@ g) Determine o valor do $\mu_0$ com respectivo erro. O valor esperado é $4\pi \
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'esperimento n. 2: Determinazione della permeabilità magnetica $\mu_0$ del mezzo. (punto 60) **
+L'esperimento n. 2: Determinazione della permeabilità magnetica $\mu_0$ del mezzo. (punto 60) 
 
 In questo esperimento si intende ottenere il valore della permeabilità magnetica $\mu_0$ utilizzando una bilancia di corrente. Un balanzo di corrente semplificato può essere rappresentato schematicamente come segue:
 

@@ -43,7 +43,7 @@ Calculate the fastest speed it can hit the 'net' without the 'net' toppling over
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(a) **  Problema di rovesciamento della rete nel tennis da tavolo
+**Q1(a)**  Problema di rovesciamento della rete nel tennis da tavolo
 
 La figura 1.a.i mostra la vista laterale e la figura 1.a.ii la vista laterale di un nuovo tipo di rete da tavolo. È costituito da un sottile pezzo di legno sostenuto da due barre di piombo di 100 mm di lunghezza. Lo spessore della "rete" è di 5,0 mm, la larghezza delle barre è di 50,0 mm e lo spessore del piombo è di 3,0 mm. La rete è larga 1600 mm e alta 137 mm (visto di fine-tempo). Durante il gioco, una palla colpisce orizzontalmente la parte superiore della rete con il suo centro in linea con la parte superiore della "rete". Supponiamo che la palla non ruota quando colpisce la "rete". La massa di una palla da tennis da tavolo è $2.7 \times 10^{-3}$ kg. La palla rimbalza con il 20% della sua velocità di incidente.
 
@@ -98,7 +98,7 @@ What is the condition for convection currents to start?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(b) **  riscaldamento solare dell'acqua di mare
+**Q1(b)**  riscaldamento solare dell'acqua di mare
 
 Il sole splende verticalmente verso l'acqua di mare statica (Figura 1.b). La frazione di potenza $P$ assorbita da un sottile strato di acqua di spessore $\delta x$ a profondità $x$, per metro quadrato di superficie, è $P\alpha\,\delta x$.
 
@@ -153,7 +153,7 @@ What type of advantages and disadvantages does this type of mirror have?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(c) **  Specchio parabolico liquido a rotazione
+**Q1(c)**  Specchio parabolico liquido a rotazione
 
 La figura 1.c mostra un cilindro rotativo di vetro contenente un liquido viscoso di densità $\rho$. Il motore elettrico ruota il cilindro a velocità angolare $\omega$.
 
@@ -204,7 +204,7 @@ What quantitative and qualitative information can you obtain from the display?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(d) **  Magnete che cadono attraverso una bobina (legge di Faraday)
+**Q1(d)**  Magnete che cadono attraverso una bobina (legge di Faraday)
 
 Un tubo di magneti a disco è stato lanciato attraverso una bobina. Il computer registra la FEM generata nella bobina (Figura 1.d.i). La bobina è rotata in senso orario verso il basso (Figure 1.d.ii e 1.d.iii). Il display effettivo è mostrato ingrandito nella figura 1.d.i, dove l'asse orizzontale è il tempo in ms (intervallo 0100 ms) e l'asse verticale è il FEM.
 
@@ -253,7 +253,7 @@ Find the effective reflection grating spacing and hence estimate the maximum num
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(e) **  CD-ROM come griglia di diffrazione riflessiva
+**Q1(e)**  CD-ROM come griglia di diffrazione riflessiva
 
 La figura 1.e mostra una foto di un incidente di fascio laser a 90° su un pezzo di CD-ROM. Il laser ha una lunghezza d'onda di 620 nm. Le linee blu puntate indicano le direzioni della luce laser riflessa che colpisce il foglio sulle lunghezza rosse mostrate nella foto.
 
@@ -303,7 +303,7 @@ Calculate the energy stored and the average power output if the circuit was brok
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1(f) **  Energia immagazzinata nei condensatori e negli induttori; elettromagnetico del LHC
+**Q1(f)**  Energia immagazzinata nei condensatori e negli induttori; elettromagnetico del LHC
 
 Indicare che l'energia immagazzinata in un condensatore $C$ che immagazzina una carica $Q$ è
 $$U_C = \frac{1}{2}\frac{Q^2}{C} = \frac{1}{2}CV^2$$
@@ -363,7 +363,7 @@ Using a simple model, or otherwise, find the angular deflection of the light fro
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q2(a) **  Lenti gravitazionali e la deflezione della luce da parte del Sole
+**Q2(a)**  Lenti gravitazionali e la deflezione della luce da parte del Sole
 
 Questa domanda riguarda la materia oscura fredda. La materia oscura fredda colpisce la materia ordinaria solo attraverso l'interazione gravitazionale. Svolterà la luce attraverso l'interazione gravitazionale.
 
@@ -426,7 +426,7 @@ Figure 2.b.2 shows an uncharged massive spherical shell. Show that the gravitati
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q2(b) **  Analogia della legge di Gauss: teoremi della conchiglia elettrica e gravitazionale
+**Q2(b)**  Analogia della legge di Gauss: teoremi della conchiglia elettrica e gravitazionale
 
 La figura 2.b.1 mostra una sfera metallica vuota carica positivamente. Le linee di campo elettrico sono collegate a cariche negative che sono lontane. Indicare che se il campo elettrico $E$ da una carica molto piccola $q$ è dato da
 $$E = \frac{q}{4\pi r^2 \varepsilon_0}$$
@@ -472,7 +472,7 @@ Data: $M_\text{Sun} = 1.99 \times 10^{30}\ \text{kg}$, $R_\text{ES} = 1.50 \time
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q2(c) **  Coerenza della legge di Newton sulla gravità con i dati del sistema solare
+**Q2(c)**  Coerenza della legge di Newton sulla gravità con i dati del sistema solare
 
 Mostrate che, secondo la teoria della gravitazione di Newton, i valori numerici della massa del Sole e del raggio di orbita della Terra, dati sulla pagina dei dati, sono coerenti.
 
@@ -520,7 +520,7 @@ Is your formula consistent with Figure 2.1.e.1 (the rotation curve of a typical 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q2(d) **  Corve di rotazione delle galassie e materia oscura
+**Q2(d)**  Corve di rotazione delle galassie e materia oscura
 
 Per eseguire un'analisi matematica della distribuzione delle stelle e della loro velocità angolare in una galassia è opportuno fare un modello matematico semplice della galassia. Il modello consiste in un sottile disco di stelle (Figura 2.d.1.b), dove la densità delle stelle è praticamente costante nell'area centrale. Al di fuori dell'area centrale la massa delle stelle per unità di volume è data da
 $$\rho(r) = \frac{k}{r}$$

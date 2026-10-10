@@ -33,7 +33,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(45 points) ** Make a balance as explained below. On one face of a ball you make a mark with the pin along the axis of symmetry perpendicular to the base. Make a lead wire with a little yarn and a stopper and hang it on the jaw after passing it through the two eyelids and fastening it with tape to the back of the handle. Lead wire can be useful for controlling the balance of the spine. Stick tape on the table floor to make a hook for a deformed "S" peg. Put the hook in the spring. Stretch the wooden handle with the meter wrapped in the handle. The chest is the yoke of the scales.
+**(45 points)** Make a balance as explained below. On one face of a ball you make a mark with the pin along the axis of symmetry perpendicular to the base. Make a lead wire with a little yarn and a stopper and hang it on the jaw after passing it through the two eyelids and fastening it with tape to the back of the handle. Lead wire can be useful for controlling the balance of the spine. Stick tape on the table floor to make a hook for a deformed "S" peg. Put the hook in the spring. Stretch the wooden handle with the meter wrapped in the handle. The chest is the yoke of the scales.
 
 **a.** Measures the mass of the magnet, with the greatest possible accuracy, using the stoppers as sample masses. What is the result of the measurement? What are the main sources of uncertainty?
 
@@ -88,13 +88,13 @@ con $r$ = raggio della sezione e $a$ = lunghezza del cilindro.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(70 points) ** Fix the magnet at one end of the wire by inserting it between the two contact sections; leave a fifty centimetres of wire hanging and attach it to the top of the wooden ruler by means of the metallic spring without cutting it; wrap the excess part on the ruler itself which must be supported to the table. If you let out only the part where the wire is suspended by the magnet, the whole thing will stay in balance.
+**(70 points)** Fix the magnet at one end of the wire by inserting it between the two contact sections; leave a fifty centimetres of wire hanging and attach it to the top of the wooden ruler by means of the metallic spring without cutting it; wrap the excess part on the ruler itself which must be supported to the table. If you let out only the part where the wire is suspended by the magnet, the whole thing will stay in balance.
 
 **a.** Leaving the vertical wire, deflect the magnet from the equilibrium position of a small angle laterally, evaluating with the eye that it is within $10°$ ($\varphi \leq 10°$), and let it go. What's the swing time worth?
 
 **b.** For $\varphi = 90°$, the torque due to the Earth's magnetic field would be maximum. What is its $M_{\max}$ value? Since the value of $B$ has an order of magnitude of $10^{-5}\ \text{T}$, what is the order of magnitude of $m_0$ in the International System (SI)?
 
-> **Suggest: ** attaches the aluminium scissor to the oscillating magnet with a little rubber; this is cylindrical, while the magnet is rather prism-shaped. It lets everything swing in the Earth's magnetic field. The oscillating system has the same magnetic momentum as the magnet, as aluminium does not alter it.
+> **Suggest:** attaches the aluminium scissor to the oscillating magnet with a little rubber; this is cylindrical, while the magnet is rather prism-shaped. It lets everything swing in the Earth's magnetic field. The oscillating system has the same magnetic momentum as the magnet, as aluminium does not alter it.
 
 The useful formulae for this problem are:
 

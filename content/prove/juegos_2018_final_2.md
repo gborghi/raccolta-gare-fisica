@@ -37,7 +37,7 @@ title: Argentina 2018 Locale Quiz · Juegos 2
 
 **7.** Un arciere è sulla terrazza di un edificio di $30$ m. Da un altro edificio, $20$ m di fronte, c'è un bersaglio alla stessa altezza dell'arciere; lascia un bersaglio nello stesso istante in cui scocca la freccia. Come deve mirare l'arciere per colpire il bersaglio? *(a) Verso l'alto; **(b) Orizzontalmente**; (c) Verso il basso*
 
-**9.** La lunghezza di una molla con un estremo fisso al soffitto aumenta di $60$ cm quando si appende un corpo di $30$ kg. Quanto vale la costante elastica? *(a) $0{,}02$; (b) $0{,}5$; (c) $2$; (d) $50$; **(e) $500$ N/m***
+**9.** La lunghezza di una molla con un estremo fisso al soffitto aumenta di $60$ cm quando si appende un corpo di $30$ kg. Quanto vale la costante elastica? *(a) $0{,}02$; (b) $0{,}5$; (c) $2$; (d) $50$; **(e) $500$ N/m*****
 
 **12.** Un proiettile di $20$ g si muove con velocità $200$ m/s e impatta conficcandosi in un blocco di legno di $1$ kg appoggiato a una molla di costante $k=500$ N/m. Quanto si comprime la molla? *(a) $10{,}4$; (b) $17{,}7$; (c) $48{,}2$; (d) $75{,}4$; (e) $126{,}5$ cm* — **(b) $17{,}7$ cm**
 
@@ -69,7 +69,7 @@ title: Argentina 2018 Locale Quiz · Juegos 2
 
 **10.** Se un fascio di luce passa dal ghiaccio all'aria, qual è l'angolo limite per la riflessione totale interna? (indice del ghiaccio $1{,}315$). *(a) $35{,}2$; (b) $42{,}8$; **(c) $49{,}5$**; (d) $54{,}7$; (e) $65{,}4°$* *(quesito di ottica; v. anche blocco B3).*
 
-**11.** Una barra di $10$ m a $0°$C subisce un cambiamento di $1{,}4$ cm scaldandola fino a $58°$C. Di quale materiale è fatta? (tabella: acciaio $1{,}1\times10^{-5}$, ferro $1{,}2\times10^{-5}$, ottone $1{,}8\times10^{-5}$, argento $2{,}0\times10^{-5}$, alluminio $2{,}4\times10^{-5}\ °\text{C}^{-1}$). *(a) acciaio; (b) ferro; (c) ottone; (d) argento; **(e) alluminio***
+**11.** Una barra di $10$ m a $0°$C subisce un cambiamento di $1{,}4$ cm scaldandola fino a $58°$C. Di quale materiale è fatta? (tabella: acciaio $1{,}1\times10^{-5}$, ferro $1{,}2\times10^{-5}$, ottone $1{,}8\times10^{-5}$, argento $2{,}0\times10^{-5}$, alluminio $2{,}4\times10^{-5}\ °\text{C}^{-1}$). *(a) acciaio; (b) ferro; (c) ottone; (d) argento; **(e) alluminio*****
 
 **17.** In una stanza con aria a $1$ atm e $27°$C, un palloncino di $20$ g su una bilancia è gonfiato con aria fino a $20$ l. Se all'interno l'aria è a $4$ atm, quanto segna la bilancia? (densità aria $1{,}225\ \text{kg/m}^3$, peso molecolare aria $28{,}966$ g/mol). *(a) $20{,}0$; (b) $24{,}5$; (c) $44{,}5$; **(d) $89{,}6$**; (e) $114{,}1$ g*
 
@@ -115,13 +115,13 @@ title: Argentina 2018 Locale Quiz · Juegos 2
 
 **1.** Il circuito in figura è formato da $2$ resistenze di $10\ \Omega$, una lampada e una batteria di $24$ V. Sapendo le specifiche della lampada ($12$ V, $30$ W), qual è la corrente che passa per la batteria? *(a) $0$ A (la lampada si brucia); (b) $0{,}48$; **(c) $0{,}97$**; (d) $1{,}20$; (e) $2{,}40$ A*
 
-**4.** Tre cariche puntiformi identiche ($q = -5\times10^{-9}$ C) sono disposte lungo un cerchio di $3$ m di raggio ad angoli di $30°$, $150°$ e $270°$. Quanto vale il campo elettrico al centro? *(a) $\vec E=(0,-10)$; (b) $\vec E=(0,0)$; (c) $\vec E=(0,10)$; (d) $\vec E=(5,-5)$; **(e) $\vec E=(5,5)$ N/C*** — per simmetria il campo netto è nullo, ma la chiave ufficiale segna l'opzione $(5,5)$.
+**4.** Tre cariche puntiformi identiche ($q = -5\times10^{-9}$ C) sono disposte lungo un cerchio di $3$ m di raggio ad angoli di $30°$, $150°$ e $270°$. Quanto vale il campo elettrico al centro? *(a) $\vec E=(0,-10)$; (b) $\vec E=(0,0)$; (c) $\vec E=(0,10)$; (d) $\vec E=(5,-5)$; **(e) $\vec E=(5,5)$ N/C*** — per simmetria il campo netto è nullo, ma la chiave ufficiale segna l'opzione $(5,5)$.**
 
 **13.** Un elettrone entra in una regione con campo magnetico costante; la velocità iniziale è parallela alla direzione del campo. Indicare l'affermazione corretta. *(a) traiettoria circolare ⊥ al campo, modulo costante; (b) circolare ⊥ al campo, modulo aumenta; (c) circolare ⊥ al campo, modulo diminuisce; **(d) traiettoria rettilinea, modulo costante**; (e) rettilinea, modulo aumenta* — (con $\vec v \parallel \vec B$, $\vec F = q\vec v\times\vec B = 0$).
 
 **18.** Quando carichiamo elettricamente due corpi strofinandoli tra loro: *(a) ugual tipo, diversa quantità; (b) ugual tipo, ugual quantità; (c) tipo diverso, diversa quantità; **(d) tipo diverso, ugual quantità (per conservazione della carica)**; (e) solo uno si carica.*
 
-**20.** Il circuito è formato da una fonte di $12$ V, una resistenza di $100\ \Omega$ e un condensatore di $104$ nF. Qual è la potenza dissipata dalla resistenza $10$ s dopo la chiusura dell'interruttore? ***(a) $0$ W**; (b) $0{,}12$; (c) $0{,}72$; (d) $1{,}00$; (e) $1{,}44$ W* — a regime il condensatore è carico e non passa corrente.
+**20.** Il circuito è formato da una fonte di $12$ V, una resistenza di $100\ \Omega$ e un condensatore di $104$ nF. Qual è la potenza dissipata dalla resistenza $10$ s dopo la chiusura dell'interruttore? ***(a) $0$ W**; (b) $0{,}12$; (c) $0{,}72$; (d) $1{,}00$; (e) $1{,}44$ W* — a regime il condensatore è carico e non passa corrente.**
 
 **Topic:** [[Circuits]], [[Electrostatics]], [[Magnetism]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]

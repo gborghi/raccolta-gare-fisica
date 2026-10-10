@@ -72,7 +72,7 @@ Otro problema práctico es el calentamiento de los raíles por efecto Joule, y l
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il cannone magnetico dei binari **
+**Il cannone magnetico dei binari**
 
 L'idea del cannone di rotaia (*rail gun*) è dovuta a un inventore francese, che lo brevettò nel 1919. Nel corso degli ultimi mesi della seconda guerra mondiale la Germania progettò un prototipo operativo, come base per un'arma antiaerea che non venne costruita. Le potenze militari attuali continuano a svilupparsi come possibile arma navale per sparare proiettili solidi, non esplosivi, a velocità molto elevata. Un'applicazione futuristica più pacifica e naturale sarebbe lanciare carichi di materiale dalla superficie della Luna, sfruttando la velocità di "satellitazione" più bassa intorno a questa stella, il vuoto reinante e la possibilità di generare nello stesso luogo l'elettricità necessaria con pannelli fotovoltaici.
 
@@ -88,13 +88,13 @@ dove $\hat{u}_\theta$ è un vettore unitario normale al piano di figura 2 (regol
 
 Supponiamo che la lunghezza dei binari attraverso i quali circola il corrente $I$ sia in ogni momento molto maggiore della separazione $L$ tra di loro, e che il campo magnetico all'esterno di un corrente cilindrica coincida con quello di un corrente filiforme lungo l'asse del cilindro.
 
-**a) ** Determina il campo magnetico totale, $\vec{B}(y)$, prodotto dal corrente che circola per le due linee in un punto AT situato a una distanza $y$ dall'asse di $A_1$ (figura 3).
+**a)** Determina il campo magnetico totale, $\vec{B}(y)$, prodotto dal corrente che circola per le due linee in un punto AT situato a una distanza $y$ dall'asse di $A_1$ (figura 3).
 
 Per l'armatura trasversale AT circola la stessa corrente $I$, in presenza del campo non uniforme $\vec{B}(y)$. Pertanto, su AT agirà una forza non uniformemente distribuita.
 
-**b) ** Considera un piccolo elemento di corrente in AT, di lunghezza infinitesimale $dy$, situato a una distanza $y$ dall'asse di $A_1$. Determina la forza magnetica $d\vec{F}(y)$ (modulo, direzione e direzione) che agisce su questo elemento di corrente.
+**b)** Considera un piccolo elemento di corrente in AT, di lunghezza infinitesimale $dy$, situato a una distanza $y$ dall'asse di $A_1$. Determina la forza magnetica $d\vec{F}(y)$ (modulo, direzione e direzione) che agisce su questo elemento di corrente.
 
-**c) ** Determina la forza magnetica netta $\vec{F}$ che agisce su AT.
+**c)** Determina la forza magnetica netta $\vec{F}$ che agisce su AT.
 
 *Ausili:* Si noti che la lunghezza dell'armatura scivolante non è $L$, ma $L - 2R$. Le seguenti integrali indefiniti possono essere utili:
 
@@ -106,17 +106,17 @@ Ora facciamo qualche calcolo numerico, per mettere in luce le straordinarie cara
 
 Considera un sistema con $L = 1{,}0\ \text{m}$ e $R = 10\ \text{cm}$, che accelera un carico di massa $m = 200\ \text{kg}$ fino alla velocità di uscita della Luna, con la forza magnetica $F$ agendo lungo una lunghezza di linee $D = 1000\ \text{m}$. Supponi sconsiderate le forze di attrito tra AT e le ferrovie.[^1]
 
-**d) ** Calcola la velocità di scarico dalla superficie della Luna, $v_L$.
+**d)** Calcola la velocità di scarico dalla superficie della Luna, $v_L$.
 
-**e) ** Calcolare l'intensità $I$ del corrente da circolare sulle ferrovie.
+**e)** Calcolare l'intensità $I$ del corrente da circolare sulle ferrovie.
 
 Avrà ottenuto un'enorme corrente, dell'ordine di un milione di amperi. Tutti i valori delle dimensioni coinvolti in questo dispositivo sono molto grandi, causando numerosi problemi pratici di progettazione. Per esempio, esiste una grande forza di interazione tra i due binari, perché da loro circolano forti correnti antiparalleli. Ciò richiede che il montaggio reale debba avere una grande resistenza meccanica, sopportando grandi sforzi senza deformazioni apprezzabili.
 
-**f) ** Fa' una stima della forza magnetica per unità di lunghezza che agisce sulle ferrovie, nelle vicinanze di AT.
+**f)** Fa' una stima della forza magnetica per unità di lunghezza che agisce sulle ferrovie, nelle vicinanze di AT.
 
 Un altro problema pratico è il riscaldamento dei binari per effetto Joule e la conseguente dilatazione termica. Supponiamo che le rail siano di rame, che ha una resistività $\rho = 1{,}7 \times 10^{-8}\ \Omega{\cdot}\text{m}$.
 
-**g) ** Calcola la potenza dissipata in forma di calore nella lunghezza effettiva dei due binari, $2D = 2000\ \text{m}$, quando si circola in entrambi i sentieri il corrente $I$. Calcola anche l'energia totale dissipata durante il lancio e confronta con l'energia cinetica della carica lanciata.
+**g)** Calcola la potenza dissipata in forma di calore nella lunghezza effettiva dei due binari, $2D = 2000\ \text{m}$, quando si circola in entrambi i sentieri il corrente $I$. Calcola anche l'energia totale dissipata durante il lancio e confronta con l'energia cinetica della carica lanciata.
 
 [^1]: Questa ipotesi non è molto realistica. Proprio uno dei problemi pratici di questo dispositivo è l'abrasione meccanica dei binari, dovuta alla frizione durante il lancio.
 
@@ -144,13 +144,13 @@ where $\hat{u}_\theta$ is a normal unit vector to the plane of Figure 2 (cork-ou
 
 Suppose that the length of the rails through which the current $I$ circulates is at all times much greater than the $L$ separation between them, and that the magnetic field on the outside of a cylindrical current coincides with that of a filament current along the cylinder axis.
 
-**a) ** Determine the total magnetic field, $\vec{B}(y)$, produced by the current circulating through the two rails at an AT point located at a distance $y$ from the $A_1$ axis (Figure 3).
+**a)** Determine the total magnetic field, $\vec{B}(y)$, produced by the current circulating through the two rails at an AT point located at a distance $y$ from the $A_1$ axis (Figure 3).
 
 The same current $I$ circulates through the AT cross-sectional armour in the presence of the non-uniform field $\vec{B}(y)$. Therefore, over AT will act an unevenly distributed force.
 
-**b) ** Consider a small current element in AT, infinitesimal length $dy$, located at a distance $y$ from the $A_1$ axis. Determine the magnetic force $d\vec{F}(y)$ (module, direction and direction) acting on this current element.
+**b)** Consider a small current element in AT, infinitesimal length $dy$, located at a distance $y$ from the $A_1$ axis. Determine the magnetic force $d\vec{F}(y)$ (module, direction and direction) acting on this current element.
 
-**c) ** Determine the net magnetic force $\vec{F}$ acting on AT.
+**c)** Determine the net magnetic force $\vec{F}$ acting on AT.
 
 *Aids:* Please note that the length of the sliding armor is not $L$ but $L - 2R$. The following indefinite integers may be useful:
 
@@ -162,17 +162,17 @@ Let's now do some numerical calculations, to highlight the extraordinary feature
 
 Consider a system with $L = 1{,}0\ \text{m}$ and $R = 10\ \text{cm}$, which accelerates a mass charge $m = 200\ \text{kg}$ to the Moon's escape velocity, with the magnetic force $F$ acting along a length of rails $D = 1000\ \text{m}$. Assume the friction forces between AT and the rails are despicable.[^1]
 
-**d) ** Calculate the escape velocity from the surface of the Moon, $v_L$.
+**d)** Calculate the escape velocity from the surface of the Moon, $v_L$.
 
-**e) ** Calculate the current intensity $I$ to be circulated on the rails.
+**e)** Calculate the current intensity $I$ to be circulated on the rails.
 
 It will have obtained a huge current, the order of a million amperes. All the magnitude values involved in this device are very large, which causes numerous practical design problems. For example, there is a great force of interaction between the two rails, as intense antiparallel currents circulate through them. This requires that the actual assembly must have a high mechanical strength, withstanding large efforts without appreciable deformities.
 
-**f) ** Estimate the magnetic force per unit length acting on the rails, in the vicinity of AT.
+**f)** Estimate the magnetic force per unit length acting on the rails, in the vicinity of AT.
 
 Another practical problem is the Joule effect heating of the rails and the resulting thermal dilation. Suppose the rails are copper, which has a resistivity $\rho = 1{,}7 \times 10^{-8}\ \Omega{\cdot}\text{m}$.
 
-**g) ** Calculate the heat dissipation power at the effective length of the two rails, $2D = 2000\ \text{m}$, when the current $I$ is flowing through both. Also calculate the total energy dissipated during launch and compare it with the kinetic energy of the load.
+**g)** Calculate the heat dissipation power at the effective length of the two rails, $2D = 2000\ \text{m}$, when the current $I$ is flowing through both. Also calculate the total energy dissipated during launch and compare it with the kinetic energy of the load.
 
 [^1]: This assumption is not very realistic. One of the practical problems of this device is the mechanical abrasion of the rails due to friction during launch.
 

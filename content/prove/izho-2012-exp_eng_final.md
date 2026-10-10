@@ -101,6 +101,10 @@ Put one spoke into the given plastic tube so that its lower end of a length of a
 
 **5.1** On the basis of the above obtained experimental data (please choose which one to use) estimate the specific resistance of the water $\rho$.
 
+**Topic:** [[Circuits]], [[Electrostatics]], [[Electromagnetism]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Symmetry Argument (metodo)|Symmetry Argument]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

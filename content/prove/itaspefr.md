@@ -101,7 +101,7 @@ In questa parte devi eseguire esperimenti di piccole oscillazioni usando lo MBB 
 
 ♪ The Mechanical Black Box ♪
 
-** Purpose of the test:** Find the mass of a ball and the elastic constant of two springs in the Mechanical Black Box.
+**Purpose of the test:** Find the mass of a ball and the elastic constant of two springs in the Mechanical Black Box.
 
 ---
 

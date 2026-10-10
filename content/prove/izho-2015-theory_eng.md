@@ -40,6 +40,10 @@ In figure 1.2, logarithmic scale is used to show straight lines of two processes
 
 In figure 1.3, positions are shown of the point light source $S$ and its image $S'$ created by a thin lens. In the same figure, $OO_1$ is the main optical axis of the lens. Plot an image of the point source $S_1$ created by the same thin lens.
 
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Geometric Optics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -89,6 +93,10 @@ Now, assume that the walls of the vessel and the tube are coated with a material
 **4.** [1.0 points] Find the temperature $T_m$ to which the air in the vessel must be heated in order to displace all the water from the vessel. Express your answer in terms of $p_0, \rho, g, L, T_0$ and find its numerical value.
 
 **5.** [2.5 points] Find the amount of heat $Q$, which must be given to the air in the vessel in order to displace all the water from the vessel. Express your answer in terms of $p_0, \rho, g, h, L, S$, and find its numerical value.
+
+**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -220,6 +228,10 @@ In the case of ideal conductivity of the disk the oscillations of the ball do no
 **2.2.8.** [0.25 points] Find the characteristic attenuation time of the oscillations of the ball.
 
 **2.2.9.** [1.5 points] Show that the loss of mechanical energy of the ball is equal to the heat generated in the disk for the same time period.
+
+**Topic:** [[Electromagnetic Induction]], [[Oscillations & Waves]], [[Electrostatics]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

@@ -95,7 +95,7 @@ e) Teniendo en cuenta lo anterior y la incertidumbre de la constante $\alpha$ da
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema sperimentale. Coioni di Helmholtz.**
+Il problema sperimentale. Coioni di Helmholtz.
 
 **Modello teorico.**
 

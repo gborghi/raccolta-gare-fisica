@@ -107,7 +107,7 @@ Qui $g$ è l'accelerazione dovuta alla gravità. Si noti che il parametro di amm
 
 **I.1** Ottieni la velocità terminale ($v_T$) del magnete. **[0,5 punto]**
 
-**I.2 ** Ottenere $z(t)$, ovvero posizione del magnete al tempo $t$. Prendete $v(t=0)=0$ e $z(t=0)=0$. **[1,0 punto]**
+**I.2** Ottenere $z(t)$, ovvero posizione del magnete al tempo $t$. Prendete $v(t=0)=0$ e $z(t=0)=0$. **[1,0 punto]**
 
 Cercheremo di capire la dinamica della caduta. Per fare questo consideriamo in parte (I.3)  parte (I.8) un problema semplificato del magnete che cade assiale verso un anello metallico non magneto fisso di raggio $a$, resistenza $R$ e inductanza $L$ come mostrato nella figura. (2). In questo problema, ignoriamo gli effetti delle radiazioni.
 
@@ -122,13 +122,13 @@ in cui $\mu_0$ è la permeabilità dello spazio libero.
 ![[APhO_2012_theory_Q1_p1_f2.png]]
 *Figura 2*
 
-**I.3 ** La velocità istantanea del magnete deve essere $v$. Ottenere la magnitudine dell'emf indotto ($e_i$) nell'anello. **[1,5 punti]**
+**I.3** La velocità istantanea del magnete deve essere $v$. Ottenere la magnitudine dell'emf indotto ($e_i$) nell'anello. **[1,5 punti]**
 
-**I.4 ** Questa emf darà luogo a una corrente indotta ($i$) nell'anello. Ottenere la grandezza della forza elettromagnetica istantanea ($f_{em}$) sull'anello in termini di $i$. **[1,0 punto]**
+**I.4** Questa emf darà luogo a una corrente indotta ($i$) nell'anello. Ottenere la grandezza della forza elettromagnetica istantanea ($f_{em}$) sull'anello in termini di $i$. **[1,0 punto]**
 
 Qual è la grandezza della forza sul magnete dovuta a questo anello? **[0,5 punto]**
 
-**I.6 ** Esprimere l'emf nell'anello in termini di $L$, $R$ e $i$. Non risolvere per $i$. **[0,5 punto]**
+**I.6** Esprimere l'emf nell'anello in termini di $L$, $R$ e $i$. Non risolvere per $i$. **[0,5 punto]**
 
 Quando il magnete cade perde energia gravitazionale potenziale. Identifica le tre principali forme di energia in cui si converte l'energia potenziale gravitazionale e scrivi le espressioni che utilizzerai per calcolare ciascuno dei tre contributi. **[1,0 punto]**
 
@@ -136,7 +136,7 @@ Il campo magnetico del magnete svolge un qualsiasi lavoro in questo processo? - 
 
 In seguito stimeremo il parametro di ammortizzazione $k$ dovuto al tubo (vedere Eq. (1)). Prendi un tubo infinitamente lungo con raggio $a$, spessore $w$ e conduttività elettrica $\sigma$. Per questa e la parte successiva, la inductanza della tubazione è trascurabile. Sarebbe utile se considerasse che il tubo sia costituito da molti anelli, ognuno di altezza $\Delta z'$, raggio $a$, spessore $w$ e conduttività elettrica $\sigma$ (vedere figura 1. (3)). Per semplicità, le due estremità del tubo sono rispettivamente $z = -\infty$ e $z = \infty$.
 
-**I.9 ** Ottenere la resistenza di un singolo anello. **[0,5 punto]**
+**I.9** Ottenere la resistenza di un singolo anello. **[0,5 punto]**
 
 ![[APhO_2012_theory_Q1_p2_f3.png]]
 *Figura 3*
@@ -230,7 +230,7 @@ Quantità, simbolo e valore.
 | Rest mass of electron | $m_e = 9.11 \times 10^{-31}\ \mathrm{kg}$ |
 | Rest mass of proton | $m_p = 1.67 \times 10^{-27}\ \mathrm{kg}$ |
 
-**II.1 ** Considerate una stella sferica di densità uniforme, raggio $R$ e massa $M$. Derivare un'espressione per la sua energia potenziale gravitazionale ($E_G$) dovuta al suo campo gravitazionale (energia gravitazionale di sé). **[1,0 punto]**
+**II.1** Considerate una stella sferica di densità uniforme, raggio $R$ e massa $M$. Derivare un'espressione per la sua energia potenziale gravitazionale ($E_G$) dovuta al suo campo gravitazionale (energia gravitazionale di sé). **[1,0 punto]**
 
 **II.2** We assume that the star is made up of only hydrogen and that all the hydrogen is in ionized form. Consideramo la situazione in cui la produzione di energia della stella a causa della fusione nucleare è stata interrotta. Gli elettroni obbediscono al principio di esclusione di Pauli e la loro energia totale può essere calcolata utilizzando statistiche quantistiche. Si può prendere questa energia elettronica totale (ignorando l' energia protonica) per essere
 
@@ -244,7 +244,7 @@ dove $N_e$ è il numero totale di elettroni e $\hbar = h/2\pi$. Ottenere la cond
 
 **II.5** Let us estimate the speed of electrons. Per questo scopo, supponiamo che ogni elettrone formi un'onda in piedi in una scatola unidimensionale di lunghezza $r_{sep}$. Estimare la velocità di elettrone ($v$) nello stato di energia più basso utilizzando l'ipotesi de-Broglie. **[1,0 punto]**
 
-**II.6 ** Considera ora una modifica dell'analisi in parte (II.2). Se prendiamo gli elettroni nel limite ultrarellativistico ($E = pc$), una analisi simile produce
+**II.6** Considera ora una modifica dell'analisi in parte (II.2). Se prendiamo gli elettroni nel limite ultrarellativistico ($E = pc$), una analisi simile produce
 
 $$E_e^{rel} = \frac{\pi^2}{4^{4/3}}\left(\frac{3}{\pi}\right)^{5/3}\frac{\hbar c}{R}\,N_e^{4/3}$$
 
@@ -390,7 +390,7 @@ Considerate la struttura sperimentale mostrata nella figura. (1). Due fasci di l
 ![[APhO_2012_theory_Q3_p1_f1.png]]
 *Figura 1*
 
-**III.1 ** Lasciate che i fasci 1 e 2 siano polarizzati linearmente a $z = 0$. I vector di campo elettrico corrispondenti sono dati da
+**III.1** Lasciate che i fasci 1 e 2 siano polarizzati linearmente a $z = 0$. I vector di campo elettrico corrispondenti sono dati da
 
 $$
 \vec{E}_1 = \hat{i}\,E_0 \cos(\omega t) \tag{1a}
@@ -402,7 +402,7 @@ $$
 
 se $\hat{i}$ è il vettore unitario lungo l'asse $x$, $\omega$ è la frequenza angolare della luce e $E_0$ è l'ampiezza. Trova l'espressione per l'intensità della luce $I(\theta)$, che verrà osservata sullo schermo dove $\theta$ è l'angolo indicato nella figura. (1). Esprimere la risposta in termini di $\theta$, $d$, $E_0$, $c$ e $\omega$, dove $c$ è la velocità della luce. Si noti inoltre che l'intensità è proporzionale alla media temporale del quadrato del campo elettrico. Qui si fa prendere la costante di proporzionalità a $\beta$. Si può ignorare l' attenuazione della magnitudine dei campi elettrici con la distanza dalle fessure a qualsiasi punto dello schermo. **[1,0 punto]**
 
-**III.2 ** In prima delle fessure viene introdotta nella via del fascio 1 una lastra di vetro perfettamente trasparente di spessore $w$ e indice di rifrazione $\mu$. Trova l'espressione per l'intensità della luce $I(\theta)$ che verrà osservata sullo schermo. Esprimi la tua risposta in termini di $\theta$, $d$, $E_0$, $c$, $\omega$, $\mu$ e $w$. **[1,0 punto]**
+**III.2** In prima delle fessure viene introdotta nella via del fascio 1 una lastra di vetro perfettamente trasparente di spessore $w$ e indice di rifrazione $\mu$. Trova l'espressione per l'intensità della luce $I(\theta)$ che verrà osservata sullo schermo. Esprimi la tua risposta in termini di $\theta$, $d$, $E_0$, $c$, $\omega$, $\mu$ e $w$. **[1,0 punto]**
 
 **III.3** In precedenza delle fessure viene introdotto un dispositivo ottico (noto come piastra a onda di quarto (QWP)) nel percorso del fascio 1, sostituendo la lastra di vetro. Questo dispositivo cambia la polarizzazione del fascio dallo stato di polarizzazione lineare
 
@@ -467,13 +467,13 @@ Lo stato di polarizzazione può anche essere rappresentato da un punto su una sf
 ![[APhO_2012_theory_Q3_p4_f4.png]]
 *Figura 4*
 
-**III.5 ** Considera un punto sull'equatore della sfera Poincare.
+**III.5** Considera un punto sull'equatore della sfera Poincare.
 
 **III.5.a** Indicare il campo elettrico ($\vec{E}_{Eq}$) corrispondente a questo punto.
 
 **III.5.b** Qual è il suo stato di polarizzazione? **[0,5 punto]**
 
-**III.6 ** Considera un punto al polo nord della sfera Poincare.
+**III.6** Considera un punto al polo nord della sfera Poincare.
 
 **III.6.a** Indicare il campo elettrico ($\vec{E}_{NP}$) corrispondente a questo punto.
 

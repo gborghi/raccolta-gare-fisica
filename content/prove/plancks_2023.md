@@ -339,7 +339,7 @@ vi) (3 points) In the continuum model of question ii), how does the presence of 
 
 **Struttura della materia.**
 
-**Contazione di elettroni a rotazione **  Considera un gas elettronico a temperatura $T = 0$. Inizialmente trascurare l'interazione elettrone-elettrone Coulombic. Supponiamo che questo gas elettronico sia immerso in un campo magnetico statico uniforme $B = 8.64\ \text{T}$ accoppiato alle spin elettroniche (cioè negligenza dell'effetto del campo sul movimento orbitale degli elettroni). La quantità di lunghezza $L$ deve avere il seguente valore: $L = 41.1\ \text{nm}$.
+**Contazione di elettroni a rotazione**  Considera un gas elettronico a temperatura $T = 0$. Inizialmente trascurare l'interazione elettrone-elettrone Coulombic. Supponiamo che questo gas elettronico sia immerso in un campo magnetico statico uniforme $B = 8.64\ \text{T}$ accoppiato alle spin elettroniche (cioè negligenza dell'effetto del campo sul movimento orbitale degli elettroni). La quantità di lunghezza $L$ deve avere il seguente valore: $L = 41.1\ \text{nm}$.
 
 i) (0,5 punti) Derivare un'espressione per la densità massima del numero $n = N/V$ in modo tale che, nello stato di base, i momenti magnetici di spin elettronica di tutti gli elettroni $N$ si allineino al campo magnetico e valutare il valore di questa densità (in $\text{m}^{-3}$).
 

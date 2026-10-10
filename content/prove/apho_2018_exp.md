@@ -328,7 +328,7 @@ Before using the sensor, its cable needs to be plugged to the sensor connection 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Gigante Magnetoresistenza (GMR) **
+**Gigante Magnetoresistenza (GMR)**
 
 ### I. Introduzione
 
@@ -350,7 +350,7 @@ Se un campo magnetico sufficientemente forte viene applicato parallelo al piano 
 
 Il programma di valutazione del rischio di rischio è stato sviluppato in base alle informazioni disponibili.
 
-**Figura 1: ** Modello di effetto GMR. (1) magnetizzazione; (2) percorso di elettroni; (3) spin di elettroni
+**Figura 1:** Modello di effetto GMR. (1) magnetizzazione; (2) percorso di elettroni; (3) spin di elettroni
 
 Una delle applicazioni del GMR è il sensore magnetico, chiamato anche magnetometro, che può essere utilizzato per misurare la forza di un campo magnetico applicato. Un sensore magnetico GMR ampiamente utilizzato è costituito da quattro elementi GMR collegati in un ponte di Wheatstone come mostrato nella figura. 2b. Ogni elemento GMR è costituito da una struttura a più strati descritta nel modello sopra. Due di questi elementi sono protetti per impedire che il campo magnetico applicato li raggiunga, quindi non sono sensibili al campo magnetico esterno. Il sensore magnetico è confezionato in un dispositivo a 8 pin come mostrato nella figura. 2a. La tensione di alimentazione è collegata ai pin 4 e 8. La uscita del segnale viene effettuata dai punti 1 e 5. Questo è il normale modo di operare. Tuttavia, durante la risoluzione del problema, è possibile collegare l'alimentazione a qualsiasi altra coppia di pin senza distruggere il sensore. L'asse di sensibilità del sensore è indicato dalla freccia di cui alla figura. 2a. Il sensore magnetico non è sensibile a un campo magnetico applicato perpendicolare a questo asse.
 
@@ -392,7 +392,7 @@ Il programma di valutazione del rischio di rischio è stato sviluppato in base a
 
 *) Per ulteriori dettagli, consultare l'appendice
 
-**Avvertimento: ** La tensione 220 V AC è utilizzata solo per la lampada da tavolo (non mostrata nella figura 3) e l'adattatore (6a) della sorgente di corrente corrente corrente a corrente continua regolabile. Il collegamento di qualsiasi altro dispositivo a questa tensione è severamente vietato.
+**Avvertimento:** La tensione 220 V AC è utilizzata solo per la lampada da tavolo (non mostrata nella figura 3) e l'adattatore (6a) della sorgente di corrente corrente corrente a corrente continua regolabile. Il collegamento di qualsiasi altro dispositivo a questa tensione è severamente vietato.
 
 ### III. Esperimento
 
@@ -446,7 +446,7 @@ Impostare la corrente $I$ nella bobina al massimo valore possibile.
 
 **c. Proprietà degli elementi.**
 
-**B.4 ** *(0,25 pt) * Indicare quali elementi sono sensibili al campo magnetico.
+**B.4** *(0,25 pt) * Indicare quali elementi sono sensibili al campo magnetico.
 
 **2. Caratteristiche di un elemento GMR**
 
@@ -454,9 +454,9 @@ In questa sezione, si studiano le proprietà di uno dei due elementi GMR che non
 
 **B.5** *(0,75 pt)* Indicare il nome dell'elemento GMR scelto. Sketch diagrammi dell'esperimento e trovare le espressioni per calcolare $\delta(B)$ in termini di dati di misura.
 
-**B.6 ** *(1,25 pt) * Eseguire le misurazioni e calcoli per determinare $\delta(B)$ con il campo magnetico esterno $B$, nell'intervallo da zero al valore massimo possibile. Riempire la tabella con i valori delle quantità misurate e determinare $\delta(B)$ corrispondente ai valori della corrente $I$ e del campo magnetico esterno $B$.
+**B.6** *(1,25 pt) * Eseguire le misurazioni e calcoli per determinare $\delta(B)$ con il campo magnetico esterno $B$, nell'intervallo da zero al valore massimo possibile. Riempire la tabella con i valori delle quantità misurate e determinare $\delta(B)$ corrispondente ai valori della corrente $I$ e del campo magnetico esterno $B$.
 
-**B.7 ** *(0,5 pt) * Tracciato su un grafico $\delta(B)$ in funzione del campo magnetico esterno $B$ (grafico 1).
+**B.7** *(0,5 pt) * Tracciato su un grafico $\delta(B)$ in funzione del campo magnetico esterno $B$ (grafico 1).
 
 **B.8** *(0,25 pt) * Determina la pendenza media $\alpha = \dfrac{\triangle\delta(B)}{\triangle B}$ della curva $\delta(B)$ nella regione in cui $\delta(B)$ dipende fortemente da $B$.
 
@@ -490,7 +490,7 @@ e. Cambiare la direzione della corrente $I$ nella bobina. Al tempo che aumenta g
 1. Circolare la regione di saturazione nella curva $S(B)$ e etichettarla con "S".
 2. Circolare la regione di linearità nella curva $S(B)$ e etichettarla con "L". Per questa regione, trovare il valore medio della pendenza $m = \dfrac{\triangle S}{\triangle B}$.
 
-**C.4 ** *(0,5 pt) * Dal grafico $S(B)$, determinare il campo di coercizione $B_C$, che è il campo magnetico esterno necessario per rendere $S$ minimo dopo essere stato magnetizzato nella direzione opposta con un campo di saturazione.
+**C.4** *(0,5 pt) * Dal grafico $S(B)$, determinare il campo di coercizione $B_C$, che è il campo magnetico esterno necessario per rendere $S$ minimo dopo essere stato magnetizzato nella direzione opposta con un campo di saturazione.
 
 Nota: nel caso in cui si desidera utilizzare la regione lineare della curva $S(B)$, è fornita una piccola piastra di magnete permanente [19]. Basta posizionare il magnete permanente sul supporto del sensore [14], vicino al sensore [13], e modificare la posizione relativa del magnete al sensore per scegliere il punto di lavoro sulla curva. Una volta trovato il punto di lavoro adatto, si può fissare il magnete sul supporto con nastro adesivo. Questo processo è chiamato biasing.*
 
@@ -498,9 +498,9 @@ Nota: nel caso in cui si desidera utilizzare la regione lineare della curva $S(B
 
 Il sensore magnetico è fornito dalla batteria [4]. Connette il sensore a diverse prese della batteria, e cambiate la tensione di alimentazione $E$. La corrente $I$ nella bobina circolare è impostata a un valore corrispondente alla regione lineare della curva $S(B)$.
 
-**C.5 ** *(0,25 pt) * Riempire la tabella con i valori di $S$ corrispondenti ai valori di $E$.
+**C.5** *(0,25 pt) * Riempire la tabella con i valori di $S$ corrispondenti ai valori di $E$.
 
-**C.6 ** *(0,25 pt) * Tracciare un grafico di $S$ come funzione di $E$.
+**C.6** *(0,25 pt) * Tracciare un grafico di $S$ come funzione di $E$.
 
 **C.7** *(0,5 pt) * Derivare un'espressione analitica relativa al segnale di uscita $S$ del sensore con la pendenza $\alpha$ dell'elemento GMR trovato in B.8, la tensione di alimentazione $E$ e il campo magnetico applicato $B$. Qui, supponiamo che $\alpha$ sia lo stesso per i due elementi e non vi sia alcuna isteresi nelle caratteristiche degli elementi. Inoltre, supponiamo che in assenza di un campo magnetico, i valori di resistenza di tutti e 4 gli elementi sono gli stessi.
 
@@ -522,7 +522,7 @@ $$
 
 Vi viene chiesto di eseguire un esperimento con il sensore magnetico e i due fogli ferromagnetici [18] per determinare il valore di $n$ nella formula (2).
 
-**C.8 ** *(0,25 pt + 0,75 pt = 1,0 pt) * Quale campo magnetico di seguito userai in questo esperimento?
+**C.8** *(0,25 pt + 0,75 pt = 1,0 pt) * Quale campo magnetico di seguito userai in questo esperimento?
 
 - **A.** Il campo della bobina circolare che trasporta una corrente elettrica
 - **B.** Il campo della bobina piatta che trasporta una corrente elettrica
@@ -557,7 +557,7 @@ L'inclinazione magnetica è definita come l'angolo $\theta$ tra il vettore del c
 
 Fissare la piastra rotonda [15] al polo alto [7], con la piastra rotonda nel piano verticale contenente la direzione SudNord. Il supporto del sensore [14] è vischiato sulla piastra rotonda. Rotando il supporto del sensore sulla piastra rotonda, si può determinare la componente del campo magnetico terrestre in diverse direzioni dell'asse del sensore.
 
-**D.3 ** *(0,75 pt) * Sketch diagrammi dell'esperimento e trovare espressioni per calcolare il campo magnetico della Terra $B_{Earth}$ e l'inclinazione magnetica $\theta$ in termini di dati di misurazione.
+**D.3** *(0,75 pt) * Sketch diagrammi dell'esperimento e trovare espressioni per calcolare il campo magnetico della Terra $B_{Earth}$ e l'inclinazione magnetica $\theta$ in termini di dati di misurazione.
 
 **D.4** *(0,5 pt)* Eseguire misure e calcoli per trovare $B_{Earth}$ e $\theta$.
 
@@ -573,13 +573,13 @@ In molti casi, il ponte Wheatstone del sensore magnetico è squilibrato anche qu
 
 In alcuni casi, l'uso del reostato non può aiutare a bilanciare il ponte. In tali casi è sufficiente ruotare il tenitore del sensore con un angolo piccolo in modo tale che il segnale di uscita $S$ sia ridotto a $S = 0$.
 
-**D.5 ** *(0,5 pt) * Scrittura del diagramma del circuito wattmeter insieme al carico e ai multimetri utilizzati nelle misurazioni.
+**D.5** *(0,5 pt) * Scrittura del diagramma del circuito wattmeter insieme al carico e ai multimetri utilizzati nelle misurazioni.
 
 Utilizzare la casella di connessione [17] per costruire il circuito del wattmeter secondo il diagramma. Varia la resistenza $R_L$ del carico e regola l'uscita della sorgente di corrente continua [6] per cambiare la tensione $U$ nel carico.
 
 **D.6** *(0,75 pt) * Riempire la tabella con i valori del segnale di uscita del sensore $S$ corrispondenti ai valori di $I$ e $U$ e di $P = U \cdot I$.
 
-**D.7 ** *(0,5 pt) * Tracciare un grafico di $P$ come funzione di $S$ (Grafico 5).
+**D.7** *(0,5 pt) * Tracciare un grafico di $P$ come funzione di $S$ (Grafico 5).
 
 La curva $P = f(S)$ è chiamata curva di calibrazione del wattmeter.
 

@@ -196,10 +196,10 @@ $$\delta = \frac{2\pi}{\lambda} L |\Delta n| \quad (2.5)$$
 with $L$ the thickness of the mica strip, $\lambda$ the wavelength of the incident radiation and $|\Delta n|$ the bifurcation.
 
 **Task 2.1** (1.0 total point): Designs the experimental assembly to measure the intensities $I_\parallel$ and $I_\perp$ of the transmitted wave according to the angle $\theta$ of one of the optical axes. It shall show the drawing of the optical bench with the component labels and the signs (+) and (-) of the polarizers:
-- **(a) ** (0.5 pt) Assembly for the measurement of $I_\parallel$.
-- **(b) ** (0.5 pt) Assembly for the measurement of $I_\perp$.
+- **(a)** (0.5 pt) Assembly for the measurement of $I_\parallel$.
+- **(b)** (0.5 pt) Assembly for the measurement of $I_\perp$.
 
-**Task 2.2 ** (0.25 points): The cylinder containing mica has a regular grading. Determine the value in degrees that corresponds to the minimum interval (arc between two consecutive lines).
+**Task 2.2** (0.25 points): The cylinder containing mica has a regular grading. Determine the value in degrees that corresponds to the minimum interval (arc between two consecutive lines).
 
 **Task 2.3** (3.0 points): Measures the intensities $I_\parallel$ and $I_\perp$ for a sufficiently high number of angles $\theta'$ (angles measured from a provisional origin). Report the measures in Table I.
 

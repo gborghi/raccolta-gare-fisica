@@ -32,7 +32,7 @@ Un cannocchiale galileiano per osservazioni astronomiche è dunque realizzato co
 
 <div class="qlang-split" data-lang="en"></div>
 
-**First Part  Question 1. ** In these days, 450 years ago, Galileo Galilei (15.02.1564  08.01.1642) was born in Pisa, universally recognized as the father of modern science. In Sidereus Nuncius he tells the story of the astronomical cannochial:
+**First Part  Question 1.** In these days, 450 years ago, Galileo Galilei (15.02.1564  08.01.1642) was born in Pisa, universally recognized as the father of modern science. In Sidereus Nuncius he tells the story of the astronomical cannochial:
 
 > "About ten months ago we received news that a certain Flemish man had built a spectacle, by means of which visible objects, though far from the eye of the beholder, could be seen distinctly as if they were nearby; (...) I first prepared a lead tube to whose ends two lenses were applied, both flat on one side, and one convex and one concave on the other; and with my eye on the concave side I saw objects quite large and close, three times closer and nine times larger than is not seen with the naked eye"...
 
@@ -157,7 +157,7 @@ What's the thickness of the polystyrene layer?
 - What's the value and which way is the current flowing in the circuit as soon as the switch is closed?
 
 <!--fig:start-->
-**p.3 **  R-resistance circuit and two capacitors
+**p.3**  R-resistance circuit and two capacitors
 
 
 <figure class="tikz-fig">
@@ -414,7 +414,7 @@ Student throws a ball from a dirt road
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part One  Question 7. ** Mr Archimedes decides to use a scale with equal arms to weigh some gold nuggets, but he does so by putting everything (balance, nuggets and reference weights) underwater. He finds that the balance is in perfect balance when one plate has peptides and the other one has a copper block that he knows has a mass $m_{\text{Cu}} = 1.2\ \text{kg}$. He also knows that the density of copper is $\rho_{\text{Cu}} = 8.93\ \text{kg/dm}^3$ and that of gold is $\rho_{\text{Au}} = 19.28\ \text{kg/dm}^3$.
+**Part One  Question 7.** Mr Archimedes decides to use a scale with equal arms to weigh some gold nuggets, but he does so by putting everything (balance, nuggets and reference weights) underwater. He finds that the balance is in perfect balance when one plate has peptides and the other one has a copper block that he knows has a mass $m_{\text{Cu}} = 1.2\ \text{kg}$. He also knows that the density of copper is $\rho_{\text{Cu}} = 8.93\ \text{kg/dm}^3$ and that of gold is $\rho_{\text{Au}} = 19.28\ \text{kg/dm}^3$.
 
 - What's the mass of the peppers?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -597,7 +597,7 @@ The following table shows the number of lamps and the number of lamps and lamps.
 What is the acceleration of each body immediately after opening?
 
 <!--fig:start-->
-**p.4 **  Masses connected by spring over the bolt
+**p.4**  Masses connected by spring over the bolt
 ![[_attachments/2liv14T-Def/2liv14T-Def_p4_f5.png]]
 <!--fig:end-->
 
@@ -654,7 +654,7 @@ A rigid and thin shaft, $P$ in weight and $4h$ in length, shall be supported on 
 *Suggest: a numerical study of the resulting dissection is recommended.*
 
 <!--fig:start-->
-**p.6 **  A pole supported on the top of a step
+**p.6**  A pole supported on the top of a step
 ![[_attachments/2liv14T-Def/2liv14T-Def_p6_f6.png]]
 <!--fig:end-->
 
@@ -765,7 +765,7 @@ Two point-form sources, $S_1$ and $S_2$, emit sound wavelengths of $\lambda$ in 
 *Alternatively, you can see that $d = 60\ \text{m}$, and is therefore much smaller than $D$.*
 
 <!--fig:start-->
-**p.6 **  S1 and S2 sources with distance plane D
+**p.6**  S1 and S2 sources with distance plane D
 
 
 <figure class="tikz-fig">

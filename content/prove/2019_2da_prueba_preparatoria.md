@@ -1213,7 +1213,7 @@ Fabbricazione
 ## Figurare
 
 <!--fig:start-->
-**p.9 **  caloriometro di Bunsen sezione trasversale
+**p.9**  caloriometro di Bunsen sezione trasversale
 <!--fig:end-->
 
 <!--fig:start-->
@@ -1233,11 +1233,11 @@ Fabbricazione
 <!--fig:end-->
 
 <!--fig:start-->
-**p.30 **  foto coperchio dal basso con cannuccia
+**p.30**  foto coperchio dal basso con cannuccia
 <!--fig:end-->
 
 <!--fig:start-->
-**p.31 **  fotocalorimetro in secchio di ghiaccio
+**p.31**  fotocalorimetro in secchio di ghiaccio
 <!--fig:end-->
 
 <!--fig:start-->
@@ -1293,7 +1293,7 @@ Fabbricazione
 <!--fig:end-->
 
 <!--fig:start-->
-**p.41 **  tubo di sezione e foto
+**p.41**  tubo di sezione e foto
 <!--fig:end-->
 
 <div class="qlang-split" data-lang="en"></div>

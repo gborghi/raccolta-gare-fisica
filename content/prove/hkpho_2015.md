@@ -1009,7 +1009,7 @@ iii. Air resistance is negligible.
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Problema aperto 1  Una palla rimbalzante (10 marks) **
+> **Problema aperto 1  Una palla rimbalzante (10 marks)**
 
 Una palla può cadere liberamente dal riposo e ad un'altezza $H_o$ sopra il suolo. Dopo aver colpito il terreno, la palla rimbalza ad un'altezza $H_1$. Il processo di rimbalzo si ripete continuamente fino a quando l'altezza di rimbalzo non è troppo piccola per essere osservata.
 
@@ -1067,7 +1067,7 @@ As shown in Fig. 2, a uniform rectangular platform (length $L$, mass $m$) is sus
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Problema aperto 2  Piattaforma orizzontale sospesa (15 Marks) **
+> **Problema aperto 2  Piattaforma orizzontale sospesa (15 Marks)**
 
 Come mostrato nella figura. 2, una piattaforma rettangolare uniforme (lunga $L$, massa $m$) è sospesa da due corde che fanno angolo $\theta_1$ e $\theta_2$ verso la verticale. Per mantenere la piattaforma orizzontale, viene posto su piattaforma un carico (massa $2m$).
 
@@ -1122,7 +1122,7 @@ where you may consider $x$ as an angular displacement.
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Problema aperto 3  Sfera oscillante in un fondo cilindrico (15 Marks) **
+> **Problema aperto 3  Sfera oscillante in un fondo cilindrico (15 Marks)**
 
 Una sfera solida (radio $R$, massa $m$ e densità uniforme) ruota senza scivolare in un fondo cilindrico (radio $= 5R$) con un angolo piccolo $\theta$ spostato dalla posizione di equilibrio. L'energia cinetica della sfera è $KE = \dfrac{56}{5}mR^2\omega^2$, dove $\omega$ è la velocità angolare istantanea.
 
@@ -1182,7 +1182,7 @@ A typical vehicle has the following dimensions (Fig. 4). Find the maximum gradie
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Problema aperto 4  Gradiente massimo che un veicolo può salire (15 Marks) **
+> **Problema aperto 4  Gradiente massimo che un veicolo può salire (15 Marks)**
 
 Un ingegnere tenta di progettare una strada con un angolo di inclinazione $\theta$ per consentire al veicolo (massa $m$) di salire. Da un lato l'ingegnere desidera massimizzare il gradiente; dall'altro, il progetto deve soddisfare le specifiche che le ruote devono essere adesive al gradiente quando il veicolo è un
 
@@ -1235,7 +1235,7 @@ Hint: You may ignore higher order terms.
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Problema aperto 5  Carburante per propulsione a razzo (5 Marks) **
+> **Problema aperto 5  Carburante per propulsione a razzo (5 Marks)**
 
 Considerate un razzo nello spazio (le forze gravitazionali sono insignificanti). I prodotti di combustione vengono espulsi a velocità costante $v_e$ rispetto al razzo (massa iniziale totale $m_i$).
 

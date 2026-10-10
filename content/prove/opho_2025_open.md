@@ -272,7 +272,7 @@ Si può trattare l'aria e tutti i suoi componenti come un gas diatomico ideale. 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Triccio della bottiglia 2. ** Subito dopo aver torto la bottiglia, si formano goccioline d'acqua sulla parete interna della bottiglia. Trova la minima umidità relativa dell'aria che permette di formare le goccioline d'acqua.
+**Triccio della bottiglia 2.** Subito dopo aver torto la bottiglia, si formano goccioline d'acqua sulla parete interna della bottiglia. Trova la minima umidità relativa dell'aria che permette di formare le goccioline d'acqua.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 
@@ -640,7 +640,7 @@ Un disco in libera rotazione di raggio $R$, fatto di ghiaccio al punto di fusion
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'esagono è il Bestagono.**Consideriamo un universo bidimensionale. Nel centro di una camera esagonale con lunghezza laterale $1\ \mathrm{m}$ si trova una fonte luminosa $10\ \mathrm{W}$. L'interno della camera è perfettamente riflettente. Qual è la pressione al centro di una delle pareti $12\ \mathrm{ns}$ dopo l'apertura della luce? Si noti che la pressione in questo caso indica la forza per lunghezza.
+**L'esagono è il Bestagono.** Consideriamo un universo bidimensionale. Nel centro di una camera esagonale con lunghezza laterale $1\ \mathrm{m}$ si trova una fonte luminosa $10\ \mathrm{W}$. L'interno della camera è perfettamente riflettente. Qual è la pressione al centro di una delle pareti $12\ \mathrm{ns}$ dopo l'apertura della luce? Si noti che la pressione in questo caso indica la forza per lunghezza.
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 **Topic:** [[Electromagnetism]]

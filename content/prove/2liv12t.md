@@ -549,7 +549,7 @@ An electric motor has a thermal capacity $C = 67\ \mathrm{J\,K^{-1}}$. It is hea
 
 How much does the temperature of the electric motor increase as a result of this process?
 
-**NOTE: ** Suppose that the only effect of the process is to heat the engine and that heat dissipation can be neglected.
+**NOTE:** Suppose that the only effect of the process is to heat the engine and that heat dissipation can be neglected.
 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]

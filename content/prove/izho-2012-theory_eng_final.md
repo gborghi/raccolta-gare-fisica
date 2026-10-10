@@ -51,6 +51,10 @@ On the axis of the plate at a distance $a$ ($a \gg h$) the point light source $S
 
 <!-- Kepler 2026-10-08: formula (1), I_0(U), b and the three figures are missing from the official English PDF; taken from the official Russian version (IZhO-2012-Theory_rus_final.pdf, p. 2). The English PDF prints "a<<h"; the Russian version has a >> h, used here. -->
 
+**Topic:** [[Newtonian Mechanics]], [[Circuits]], [[Geometric Optics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -141,6 +145,10 @@ Considering that the flow of heat through the walls and piston is negligible, an
 **2.10 [1 point]** The final temperature of the gas under the piston is of the form $T_3 = C\, h(\alpha)$, where $C$ is a constant that depends on $T_0$, and $h(\alpha)$ is a function of $\alpha$. Find $C$ and $h(\alpha)$. Find the numerical value of $T_3$.
 
 <!-- Kepler 2026-10-08: formulas (1)-(2), the definition alpha = Mg/(p0 S), the unit of S0 (cm^2) and the figure are missing from the official English PDF; taken from the official Russian version (IZhO-2012-Theory_rus_final.pdf, pp. 3-4). "d" in 2.9 is undefined in both versions (as printed). -->
+
+**Topic:** [[Thermodynamics]], [[Kinetic Theory]], [[Oscillations & Waves]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -288,6 +296,10 @@ $$\arcsin(x) \approx x, \quad \text{for } |x| \ll 1,$$
 $$(1+x)^{\alpha} \approx 1 + \alpha x + \frac{\alpha(\alpha-1)}{2}x^2, \quad \text{for } |x| \ll 1.$$
 
 <!-- Kepler 2026-10-08: formulas (1)-(6), the values of a1-a4, E_C^deformed, the constants' values, the two approximation formulas and the figure are missing from the official English PDF; taken from the official Russian version (IZhO-2012-Theory_rus_final.pdf, pp. 4-6). e = 1.609e-19 C as printed. -->
+
+**Topic:** [[Nuclear & Particle Physics]], [[Electrostatics]], [[Conservation of Energy]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 
 
 <div class="qlang-split" data-lang="it"></div>

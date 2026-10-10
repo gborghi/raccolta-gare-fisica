@@ -58,25 +58,25 @@ $$\int \frac{dx}{x^2 + a^2} = \arctan\frac{x}{a} + \text{const}$$
 
 Un sistema composto da due corpi conduttori è immerso in un liquido dielettrico uniforme e debole conduttore. Quando si applica una differenza di tensione costante tra entrambi i conduttori, il sistema ha campi elettrici e magnetici. In questo problema, esamineremo questo sistema.
 
-1. **(0,4 pts) ** Primo consideriamo una linea infinitamente lunga con carica per unità di lunghezza $\lambda$ nel vuoto. Calcolare il campo elettrico $\mathbf{E}(r)$ dovuto alla linea.
+1. **(0,4 pts)** Primo consideriamo una linea infinitamente lunga con carica per unità di lunghezza $\lambda$ nel vuoto. Calcolare il campo elettrico $\mathbf{E}(r)$ dovuto alla linea.
 
-2. **(0,4 pts) ** Il potenziale dovuto alla carica della linea potrebbe essere scritto come
+2. **(0,4 pts)** Il potenziale dovuto alla carica della linea potrebbe essere scritto come
 $$V(r) = f(r) + K,$$
 in cui $K$ è una costante. Determina $f(r)$.
 
-3. **(0,7 pts) ** Calcolare il potenziale in tutto lo spazio $V(x,y,z)$ dovuto a una linea infinitamente lunga con carica per lunghezza unità $\lambda$ a $x = -b,\ y = 0$ e ad un'altra linea infinitamente lunga con carica per lunghezza unità $-\lambda$ a $x = b,\ y = 0$. Entrambe le linee sono parallele all'asse $z$. Prendi $V = 0$ all'origine. Segna le superfici equipotenziali.
+3. **(0,7 pts)** Calcolare il potenziale in tutto lo spazio $V(x,y,z)$ dovuto a una linea infinitamente lunga con carica per lunghezza unità $\lambda$ a $x = -b,\ y = 0$ e ad un'altra linea infinitamente lunga con carica per lunghezza unità $-\lambda$ a $x = b,\ y = 0$. Entrambe le linee sono parallele all'asse $z$. Prendi $V = 0$ all'origine. Segna le superfici equipotenziali.
 
 Per le seguenti domande, ignora gli effetti negativi.
 
-4. **(2,0 pts) ** Ora consideriamo due cilindri conduttori identici, entrambi con raggio $R = 3a$ nel vuoto. La lunghezza di ciascun cilindro è uguale e molto maggiore del suo raggio ($l \gg R$). Gli assi di entrambi i cilindri sono situati sul piano $xz$ e paralleli all'asse $z$, uno a $x = -5a,\ y = 0$ e l'altro a $x = 5a,\ y = 0$. Si applica una differenza di potenziale elettrico di $V_0$ tra i due cilindri (il cilindro a $x = -5a$ ha il potenziale più elevato) collegandoli a una batteria. Calcolare il potenziale in tutte le regioni. Prendi $V = 0$ all'origine.
+4. **(2,0 pts)** Ora consideriamo due cilindri conduttori identici, entrambi con raggio $R = 3a$ nel vuoto. La lunghezza di ciascun cilindro è uguale e molto maggiore del suo raggio ($l \gg R$). Gli assi di entrambi i cilindri sono situati sul piano $xz$ e paralleli all'asse $z$, uno a $x = -5a,\ y = 0$ e l'altro a $x = 5a,\ y = 0$. Si applica una differenza di potenziale elettrico di $V_0$ tra i due cilindri (il cilindro a $x = -5a$ ha il potenziale più elevato) collegandoli a una batteria. Calcolare il potenziale in tutte le regioni. Prendi $V = 0$ all'origine.
 
-5. **(0,5 pts) ** Calcolare la capacità $C$ del sistema.
+5. **(0,5 pts)** Calcolare la capacità $C$ del sistema.
 
 6. Ora entrambi i cilindri sono completamente immersi in un liquido debole con conductività $\sigma$. Calcolare la corrente totale che scorre tra i due cilindri. Supponiamo che la permissività del liquido sia uguale a quella del vuoto, $\epsilon = \epsilon_0$.
 
-7. **(0,5 pts) ** Calcolare la resistenza $R$ del sistema. Calcolare $RC$ del sistema.
+7. **(0,5 pts)** Calcolare la resistenza $R$ del sistema. Calcolare $RC$ del sistema.
 
-8. **(1,5 pts) ** Calcolare il campo magnetico dovuto alla corrente in questione 6. Supponiamo che la permeabilità del liquido sia uguale a quella del vuoto, $\mu = \mu_0$.
+8. **(1,5 pts)** Calcolare il campo magnetico dovuto alla corrente in questione 6. Supponiamo che la permeabilità del liquido sia uguale a quella del vuoto, $\mu = \mu_0$.
 
 **Noti**
 $$\int \frac{dx}{x^2 + a^2} = \arctan\frac{x}{a} + \text{const}$$
@@ -436,10 +436,10 @@ In questo problema, il termine "frequenza" significa frequenza angolare (rad/s),
 
 ### Parte A. Precessione di Larmor (1,6 punti)
 
-1. **(0,8 pts) ** Dimostra che la magnitudine del momento magnetico $\mu$ è sempre costante sotto l'influenza di un campo magnetico $\mathbf{B}$. Per un caso speciale di campo magnetico stazionario (constantino), indicare anche che l'angolo tra $\boldsymbol{\mu}$ e $\mathbf{B}$ è costante.
+1. **(0,8 pts)** Dimostra che la magnitudine del momento magnetico $\mu$ è sempre costante sotto l'influenza di un campo magnetico $\mathbf{B}$. Per un caso speciale di campo magnetico stazionario (constantino), indicare anche che l'angolo tra $\boldsymbol{\mu}$ e $\mathbf{B}$ è costante.
 (Signore: puoi usare le proprietà dei prodotti vettoriali.)
 
-2. **(0,8 pts) ** Esiste un campo magnetico uniforme $\mathbf{B}$ che produce un angolo $\phi$ con il momento magnetico di una particella $\boldsymbol{\mu}$. A causa della coppia del campo magnetico, il momento magnetico $\boldsymbol{\mu}$ ruota intorno al campo $\mathbf{B}$, noto anche come precessione di Larmor. Determinare la frequenza di precisione di Larmor $\omega_0$ del momento magnetico rispetto a $\mathbf{B} = B_0\mathbf{k}$.
+2. **(0,8 pts)** Esiste un campo magnetico uniforme $\mathbf{B}$ che produce un angolo $\phi$ con il momento magnetico di una particella $\boldsymbol{\mu}$. A causa della coppia del campo magnetico, il momento magnetico $\boldsymbol{\mu}$ ruota intorno al campo $\mathbf{B}$, noto anche come precessione di Larmor. Determinare la frequenza di precisione di Larmor $\omega_0$ del momento magnetico rispetto a $\mathbf{B} = B_0\mathbf{k}$.
 
 ### Parte B. Quadro rotativo (3,4 punti)
 
@@ -448,13 +448,13 @@ $$\frac{d\mathbf{A}}{dt} = \frac{dA_{x'}}{dt}\mathbf{i'} + \frac{dA_{y'}}{dt}\ma
 $$\left(\frac{d\mathbf{A}}{dt}\right)_{\mathrm{lab}} = \left(\frac{d\mathbf{A}}{dt}\right)_{\mathrm{rot}} + \omega\mathbf{k} \times \mathbf{A},$$
 dove $\left(\dfrac{d\mathbf{A}}{dt}\right)_{\mathrm{lab}}$ è la derivata temporale del vettore $\mathbf{A}$ osservato da un osservatore nel quadro di laboratorio, e $\left(\dfrac{d\mathbf{A}}{dt}\right)_{\mathrm{rot}}$ è la derivata temporale osservata da un osservatore nel quadro di rotazione. Per tutti i seguenti problemi di questa parte, le risposte sono riportate nel quadro rotativo $S'$.
 
-1. **(0,8 pts) ** Mostra che l'evoluzione temporale del momento magnetico segue l'equazione
+1. **(0,8 pts)** Mostra che l'evoluzione temporale del momento magnetico segue l'equazione
 $$\left(\frac{d\boldsymbol{\mu}}{dt}\right)_{\mathrm{rot}} = -\gamma\,\boldsymbol{\mu} \times \mathbf{B}_{\mathrm{eff}},$$
 dove $\mathbf{B}_{\mathrm{eff}} = \mathbf{B} - \dfrac{\omega}{\gamma}\mathbf{k'}$ è il campo magnetico effettivo.
 
-2. **(0,4 pts) ** Per $\mathbf{B} = B_0\mathbf{k}$, qual è la nuova frequenza di precisione $\Delta$ in termini di $\omega_0$ e $\omega$?
+2. **(0,4 pts)** Per $\mathbf{B} = B_0\mathbf{k}$, qual è la nuova frequenza di precisione $\Delta$ in termini di $\omega_0$ e $\omega$?
 
-3. **(1.2 pts) ** Ora, consideriamo il caso di un campo magnetico variabile nel tempo. Oltre a un campo magnetico costante, applichiamo anche un campo magnetico rotante $\mathbf{b}(t) = b(\cos\omega t\,\mathbf{i} + \sin\omega t\,\mathbf{j})$, quindi $\mathbf{B} = B_0\mathbf{k} + \mathbf{b}(t)$. Mostrare che la nuova frequenza di precisione di Larmor del momento magnetico è
+3. **(1.2 pts)** Ora, consideriamo il caso di un campo magnetico variabile nel tempo. Oltre a un campo magnetico costante, applichiamo anche un campo magnetico rotante $\mathbf{b}(t) = b(\cos\omega t\,\mathbf{i} + \sin\omega t\,\mathbf{j})$, quindi $\mathbf{B} = B_0\mathbf{k} + \mathbf{b}(t)$. Mostrare che la nuova frequenza di precisione di Larmor del momento magnetico è
 $$\Omega = \gamma\sqrt{\left(B_0 - \frac{\omega}{\gamma}\right)^2 + b^2}.$$
 
 4. Invece di applicare il campo $\mathbf{b}(t) = b(\cos\omega t\,\mathbf{i} + \sin\omega t\,\mathbf{j})$, ora applichiamo $\mathbf{b}(t) = b(\cos\omega t\,\mathbf{i} - \sin\omega t\,\mathbf{j})$, che ruota nella direzione opposta e quindi $\mathbf{B} = B_0\mathbf{k} + b(\cos\omega t\,\mathbf{i} - \sin\omega t\,\mathbf{j})$. Qual è il campo magnetico efficace $\mathbf{B}_{\mathrm{eff}}$ per questo caso (in termini di vettori unitari $\mathbf{i'}, \mathbf{j'}, \mathbf{k'}$)? Qual è la sua media temporale, $\overline{\mathbf{B}_{\mathrm{eff}}}$ (ricordate che $\overline{\cos 2\pi t/T} = \overline{\sin 2\pi t/T} = 0$)?
@@ -468,20 +468,20 @@ $$M = (N_\uparrow - N_\downarrow)\mu = N\mu_z.$$
 In un esperimento reale, di solito vengono applicati due campi magnetici, un campo di bias grande $B_0\mathbf{k}$ e un campo oscillante con amplitudine $2b$ perpendicolare al campo di bias ($b \ll B_0$). Inizialmente viene applicato solo il grande bias, causando che tutte le particelle si trovino negli stati di spin up ($\boldsymbol{\mu}$ è orientata nella direzione $z$ a $t = 0$). In seguito, il campo oscillante viene attivato, dove la sua frequenza $\omega$ viene scelto per essere in risonanza con la frequenza di precisione di Larmor $\omega_0$, cioè $\omega = \omega_0$. In altre parole, il campo totale dopo il tempo $t = 0$ è dato da
 $$\mathbf{B}(t) = B_0\mathbf{k} + 2b\cos\omega_0 t\,\mathbf{i}.$$
 
-1. **(1.2 pts) ** Nel quadro rotativo $S'$, mostrare che il campo effettivo può essere approssimato da
+1. **(1.2 pts)** Nel quadro rotativo $S'$, mostrare che il campo effettivo può essere approssimato da
 $$\mathbf{B}_{\mathrm{eff}} \approx b\,\mathbf{i'},$$
 che è comunemente conosciuta come approssimazione delle onde rotanti. Qual è la frequenza di precisione $\Omega$ nel quadro $S'$?
 
-2. **(0,6 pts) ** Determina l'angolo $\alpha$ che $\boldsymbol{\mu}$ fa con $\mathbf{B}_{\mathrm{eff}}$. Inoltre, dimostrare che la magnetizzazione varia con il tempo come
+2. **(0,6 pts)** Determina l'angolo $\alpha$ che $\boldsymbol{\mu}$ fa con $\mathbf{B}_{\mathrm{eff}}$. Inoltre, dimostrare che la magnetizzazione varia con il tempo come
 $$M(t) = N\mu\cos\Omega t.$$
 
-3. **(1.2 pts) ** Con l'applicazione del campo magnetico descritto sopra, determinare la popolazione frazionaria di ogni spin su $P_\uparrow = N_\uparrow/N$ e spin verso il basso $P_\downarrow = N_\downarrow/N$ in funzione del tempo. Il plot $P_\uparrow(t)$ e $P_\downarrow(t)$ sullo stesso grafico vs. tempo $t$. La rotazione alterna in alto e in basso della popolazione in funzione del tempo si chiama oscillazione Rabi.
+3. **(1.2 pts)** Con l'applicazione del campo magnetico descritto sopra, determinare la popolazione frazionaria di ogni spin su $P_\uparrow = N_\uparrow/N$ e spin verso il basso $P_\downarrow = N_\downarrow/N$ in funzione del tempo. Il plot $P_\uparrow(t)$ e $P_\downarrow(t)$ sullo stesso grafico vs. tempo $t$. La rotazione alterna in alto e in basso della popolazione in funzione del tempo si chiama oscillazione Rabi.
 
 ### Parte D. Incompatibilità della misurazione (2,0 punti)
 
 Spin è infatti una quantità vettoriale; ma a causa delle sue proprietà quantistiche, non possiamo misurare ogni componente contemporaneamente (cioè Possiamo conoscere sia $|\boldsymbol{\mu}|$ che $\mu_z$ come nei problemi precedenti; ma non tutti $|\boldsymbol{\mu}|, \mu_x, \mu_y,$ e $\mu_z$ contemporaneamente). In questo problema, faremo un calcolo basato sul principio di incertezza di Heisenberg (usando la relazione $\Delta p_q\,\Delta q \geq \hbar$) per mostrare come queste misurazioni siano incompatibili tra loro.
 
-1. **(1.0 pts) ** Consideriamo una fonte di forno di atomi d'argento, che ha una piccola apertura. Gli atomi scorrono dall'apertura lungo la direzione $-y$ (vedi figura seguente) e sperimentano un campo variabile spaziale $\mathbf{B}_1$. Il campo $\mathbf{B}_1$ ha una componente di campo di forte bias nella direzione $z$, dove gli atomi con un momento magnetico diverso $\mu_z = \pm\gamma\hbar$ sono divisi nella direzione $z$. A distanza $D$ dalla fonte del forno, si pone uno schermo $SC_1$ che permetta di passare solo gli atomi a spin (bloccando gli atomi a spin down). Così, all'istante dopo aver superato lo schermo, gli atomi sono preparati in stati di spin up. Dopo lo schermo, gli atomi entrano in una regione di campo non omogeneo $\mathbf{B}_2$ dove gli atomi percepiscono una forza
+1. **(1.0 pts)** Consideriamo una fonte di forno di atomi d'argento, che ha una piccola apertura. Gli atomi scorrono dall'apertura lungo la direzione $-y$ (vedi figura seguente) e sperimentano un campo variabile spaziale $\mathbf{B}_1$. Il campo $\mathbf{B}_1$ ha una componente di campo di forte bias nella direzione $z$, dove gli atomi con un momento magnetico diverso $\mu_z = \pm\gamma\hbar$ sono divisi nella direzione $z$. A distanza $D$ dalla fonte del forno, si pone uno schermo $SC_1$ che permetta di passare solo gli atomi a spin (bloccando gli atomi a spin down). Così, all'istante dopo aver superato lo schermo, gli atomi sono preparati in stati di spin up. Dopo lo schermo, gli atomi entrano in una regione di campo non omogeneo $\mathbf{B}_2$ dove gli atomi percepiscono una forza
 $$F_x = \mu_x C.$$
 Il campo $\mathbf{B}_2$ ha una componente di campo di forte bias nella direzione $x$, dove gli atomi hanno il momento magnetico $\mu_x = \pm\gamma\hbar$.
 
@@ -491,7 +491,7 @@ Per determinare $\mu_x$ osservando la divisione in direzione $x$, dimostrare che
 $$\frac{1}{\hbar}|\mu_x|\,\Delta x\,C t \gg 1,$$
 dove $t$ è la durata dopo aver lasciato lo schermo $SC_1$ e $\Delta x$ è la larghezza di apertura su $SC_1$.
 
-2. **(1.0 pts) ** Gli atomi sono inizialmente preparati nello stato di spin up subito dopo aver lasciato lo schermo, dove $\mu_z = \gamma\hbar = |\mu_x|$. Ciò significa che gli atomi precesseranno a velocità che coprono una gamma di valori $\Delta\omega$ rispetto alla componente $x$ di $\mathbf{B}_2$, in particolare $B_{2x} = B_0 + Cx$. Prove che lo spread nell'angolo di precisione $\Delta\omega t$ è così grande e quindi non possiamo misurare simultaneamente $\mu_x$ e $\mu_z$. In altre parole, la misurazione di $\mu_x$ distrugge le informazioni su $\mu_z$.
+2. **(1.0 pts)** Gli atomi sono inizialmente preparati nello stato di spin up subito dopo aver lasciato lo schermo, dove $\mu_z = \gamma\hbar = |\mu_x|$. Ciò significa che gli atomi precesseranno a velocità che coprono una gamma di valori $\Delta\omega$ rispetto alla componente $x$ di $\mathbf{B}_2$, in particolare $B_{2x} = B_0 + Cx$. Prove che lo spread nell'angolo di precisione $\Delta\omega t$ è così grande e quindi non possiamo misurare simultaneamente $\mu_x$ e $\mu_z$. In altre parole, la misurazione di $\mu_x$ distrugge le informazioni su $\mu_z$.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1G94XcS6v7yNRnCtL-t6k_OPawTwvbLAS/view)
 

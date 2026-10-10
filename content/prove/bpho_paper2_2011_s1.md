@@ -32,7 +32,7 @@ tags:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 a) ** Il gas è contenuto in un serbatoio a una pressione di 10 atm e a una temperatura di 15°C. Se la metà del gas viene ritirata e la temperatura è aumentata a 65°C, quale è la nuova pressione nel serbatoio?
+**Q1 a)** Il gas è contenuto in un serbatoio a una pressione di 10 atm e a una temperatura di 15°C. Se la metà del gas viene ritirata e la temperatura è aumentata a 65°C, quale è la nuova pressione nel serbatoio?
 
 [3]
 
@@ -70,7 +70,7 @@ tags:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 b) ** Nella figura 1.b, qual è il valore della resistenza $R_3$, in termini di resistenze $R_1$ e $R_2$, espresse nella sua forma più semplice, se la resistenza totale su AB è uguale a $R_1$?
+**Q1 b)** Nella figura 1.b, qual è il valore della resistenza $R_3$, in termini di resistenze $R_1$ e $R_2$, espresse nella sua forma più semplice, se la resistenza totale su AB è uguale a $R_1$?
 
 [2]
 
@@ -108,7 +108,7 @@ tags:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 c) ** Che cos'è una linea di campo elettrico? Segnare le linee di campo a causa di due cariche $3Q$ e $(-Q)$.
+**Q1 c)** Che cos'è una linea di campo elettrico? Segnare le linee di campo a causa di due cariche $3Q$ e $(-Q)$.
 
 [5]
 
@@ -149,7 +149,7 @@ What is:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 d) ** Un cavo uniforme ha una massa di 100 kg e è sospeso tra due punti fissi A e B, allo stesso livello orizzontale (figura 1.d). Ai punti di supporto il cavo fa angoli di 30°.
+**Q1 d)** Un cavo uniforme ha una massa di 100 kg e è sospeso tra due punti fissi A e B, allo stesso livello orizzontale (figura 1.d). Ai punti di supporto il cavo fa angoli di 30°.
 
 Che cos'è:
 
@@ -230,7 +230,7 @@ Quando il Sole è direttamente sopra di sé, un angolo di luce che entra in un a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 f) ** L' isotopo di potassio $^{42}\text{K}_{19}$ si disintegra in $^{42}\text{Ca}_{20}$.
+**Q1 f)** L' isotopo di potassio $^{42}\text{K}_{19}$ si disintegra in $^{42}\text{Ca}_{20}$.
 
 I) Quali sono le probabili fonti di radiazioni prodotte?
 (ii) Quanti protoni, neutroni ed elettroni sono presenti in un atomo del nucleo della figlia $^{42}\text{Ca}_{20}$?
@@ -264,7 +264,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 g) ** Un sottile film di vetro, con un indice di rifrazione di 1,52, e spessore $0.42\ \mu\text{m}$ è visto attraverso riflessione con luce bianca ad incidenza normale. Quale lunghezza d'onda visibile si riflette più fortemente?
+**Q1 g)** Un sottile film di vetro, con un indice di rifrazione di 1,52, e spessore $0.42\ \mu\text{m}$ è visto attraverso riflessione con luce bianca ad incidenza normale. Quale lunghezza d'onda visibile si riflette più fortemente?
 
 [6]
 
@@ -305,7 +305,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 h) ** Una palla da 50 kg è attaccata ad una estremità di un'accordazione da 1,2 m, che ha una massa di 0,13 kg e che inizia a pendere verticalmente in equilibrio. L'altra estremità dell'accordo è attaccata ad un anello che può scivolare su una barra orizzontale liscia (Figura 1.h). Un colpo orizzontale viene dato all'accordo che eccita il suo modo fondamentale. Supponiamo che la palla rimanga fermata mentre l'accordo vibra.
+**Q1 h)** Una palla da 50 kg è attaccata ad una estremità di un'accordazione da 1,2 m, che ha una massa di 0,13 kg e che inizia a pendere verticalmente in equilibrio. L'altra estremità dell'accordo è attaccata ad un anello che può scivolare su una barra orizzontale liscia (Figura 1.h). Un colpo orizzontale viene dato all'accordo che eccita il suo modo fondamentale. Supponiamo che la palla rimanga fermata mentre l'accordo vibra.
 
 (i) Qual è la frequenza, $f$, e il periodo, $T$, della modalità fondamentale?
 (ii) Qual è l'ampiezza, $A$, dell'anello se la sua velocità massima è $15\ \text{ms}^{-1}$?
@@ -350,7 +350,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 i) ** Una sfera, di massa $M$ e velocità $u$, si schianta elasticamente di fronte ad una sfera identica di massa $m$ che è inizialmente in riposo. Dopo la collisione le masse $M$ e $m$ hanno rispettivamente velocità, nella direzione $u$, di $v$ e $w$.
+**Q1 i)** Una sfera, di massa $M$ e velocità $u$, si schianta elasticamente di fronte ad una sfera identica di massa $m$ che è inizialmente in riposo. Dopo la collisione le masse $M$ e $m$ hanno rispettivamente velocità, nella direzione $u$, di $v$ e $w$.
 
 (i) dimostrare o verificare che $u + v = w$.
 (ii) Se $R = (u - v)/u$, provare $R = mw/(Mu)$.
@@ -385,7 +385,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 j) ** Due palle di plastica identiche di massa 5,00 g sono caricate a $+1.00\ \mu\text{C}$ e sospese da un punto fisso da fili non conduttori senza massa, di lunghezza di 1,00 m ciascuno. Verificare che l'angolo tra i fili sia $41.0°$.
+**Q1 j)** Due palle di plastica identiche di massa 5,00 g sono caricate a $+1.00\ \mu\text{C}$ e sospese da un punto fisso da fili non conduttori senza massa, di lunghezza di 1,00 m ciascuno. Verificare che l'angolo tra i fili sia $41.0°$.
 
 [7]
 
@@ -421,7 +421,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 k) ** L'altezza del mercurio, densità $1.35 \times 10^4\ \text{kg m}^{-3}$, in un barometro (Figura 1.k), è di 75,9 cm a 15°C. L'altezza dello spazio evacuato nel barometro è di 8,0 cm. Il diametro interno del barometro è di 6,5 mm. Una piccola quantità di azoto viene introdotta in questo spazio e il livello di mercurio scende a 62,2 cm. Determinare la massa, $m$, dell'azoto presente.
+**Q1 k)** L'altezza del mercurio, densità $1.35 \times 10^4\ \text{kg m}^{-3}$, in un barometro (Figura 1.k), è di 75,9 cm a 15°C. L'altezza dello spazio evacuato nel barometro è di 8,0 cm. Il diametro interno del barometro è di 6,5 mm. Una piccola quantità di azoto viene introdotta in questo spazio e il livello di mercurio scende a 62,2 cm. Determinare la massa, $m$, dell'azoto presente.
 
 [7]
 
@@ -461,7 +461,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 l) ** Per caricare un condensatore, la capacità $C$, si utilizza una batteria composta da due celle, in serie, ciascuna di emf $E$.
+**Q1 l)** Per caricare un condensatore, la capacità $C$, si utilizza una batteria composta da due celle, in serie, ciascuna di emf $E$.
 
 (i) Qual è l'energia del condensatore carico?
 (ii) Quanta energia è stata persa?
@@ -499,7 +499,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 m) ** Due masse di 0,90 kg e 1,10 kg sono appese verticalmente da sorgenti identiche su un supporto comune, ciascuna con costante forza $39.48\ \text{Nm}^{-1}$. Entrambi vengono rilasciati contemporaneamente da una posizione di massima estensione per descrivere un semplice movimento armonico. Calcola:
+**Q1 m)** Due masse di 0,90 kg e 1,10 kg sono appese verticalmente da sorgenti identiche su un supporto comune, ciascuna con costante forza $39.48\ \text{Nm}^{-1}$. Entrambi vengono rilasciati contemporaneamente da una posizione di massima estensione per descrivere un semplice movimento armonico. Calcola:
 
 (i) Le frequenze delle due masse.
 - Il periodo e la frequenza dei battiti.
@@ -533,7 +533,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Q1 n) ** La forza di attrito tangenziale prodotta da un freno a banda su un tamburo metallico rotante di circonferenza 0,25 m è di 20 N. La massa del tamburo è di 0,40 kg e la sua capacità termico specifica è $0.35\ \text{kJ kg}^{-1}\text{K}^{-1}$. Calcolare il numero di rotazioni complete necessarie per aumentare la sua temperatura di 5,0 K.
+**Q1 n)** La forza di attrito tangenziale prodotta da un freno a banda su un tamburo metallico rotante di circonferenza 0,25 m è di 20 N. La massa del tamburo è di 0,40 kg e la sua capacità termico specifica è $0.35\ \text{kJ kg}^{-1}\text{K}^{-1}$. Calcolare il numero di rotazioni complete necessarie per aumentare la sua temperatura di 5,0 K.
 
 [3]
 

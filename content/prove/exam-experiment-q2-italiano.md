@@ -302,7 +302,7 @@ where the thickness of the tube wall and f(d) is a scale factor. In this case, $
 f(2) $\approx1.75$ . As a result, the time taken by the magnet to fall attract
 
 <!--fig:start-->
-**p.1 **  Photographs of metallic materials and bars
+**p.1**  Photographs of metallic materials and bars
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p1_f1.png]]
 <!--fig:end-->
 
@@ -327,7 +327,7 @@ f(2) $\approx1.75$ . As a result, the time taken by the magnet to fall attract
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  Barrel and container apparatus
+**p.6**  Barrel and container apparatus
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p6_f6.png]]
 <!--fig:end-->
 

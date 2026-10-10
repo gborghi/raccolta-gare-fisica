@@ -1110,7 +1110,7 @@ La pressione minima sarà la pressione a una profonda
 ## Figurare
 
 <!--fig:start-->
-**p.9 **  Tensimetro di Lecomte du Noüy con anello
+**p.9**  Tensimetro di Lecomte du Noüy con anello
 ![[_attachments/2017_2da_prueba_preparatoria/2017_2da_prueba_preparatoria_p9_f2.png]]
 <!--fig:end-->
 

@@ -1087,7 +1087,7 @@ A railway car wheel is made by getting a solid steel wheel of diameter $d = 75$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 1 (parte B) **
+**Il problema 1 (parte B)**
 
 Una ruota di auto ferroviaria è realizzata ottenendo una ruota in acciaio solida di diametro $d = 75$ cm e coprendo il bordo della ruota con un anello sottile (0,5 cm) di acciaio duro. Per questo, l'anello viene riscaldato a 400°C. A tale temperatura ha un diametro interno identico a quello della ruota fredda (75 cm). Dopo aver messo l'anello sul volante, è stato raffreddato a temperatura ambiente. Il coefficiente di espansione lineare dell'acciaio è $\alpha = 1.2 \times 10^{-5}$ K$^{-1}$ e la costante elastica di una striscia di acciaio con la stessa sezione e lunghezza del anello è $k = 2.1 \times 10^{7}$ N/m. Che forza è necessaria per scivolare l'anello dal ruota (in direzione parallela all'asse)? Il coefficiente di attrito dell'acciaio sullo acciaio è $\mu = 0.8$.
 
@@ -1128,7 +1128,7 @@ Some people are not satisfied with just driving snowmobiles on snow and try high
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 2 (parte B) **
+**Il problema 2 (parte B)**
 
 Alcune persone non sono soddisfatte solo di guidare motosinn sulla neve e provare a saltare in altezza su di loro. Durante il volo, l'angolo $\theta$ che la motoscafo fa con l'orizzontale può essere modificato utilizzando i freni o l'acceleratore. Spiegate brevemente come si fa questo, citando le leggi fisiche appropriate. Supponendo che la massa della motoscafo con il pilota sia di circa 250 kg e la massa delle parti rotanti di circa 20 kg, calcolare cosa deve fare per inclinare la motoscafo di $\theta = 5°$ in basso (per abbassare la parte anteriore) e quindi mantenere la motoscafo di neve in quell'angolo. Indicare le approssimative e le stime di dimensioni che si fanno.
 
@@ -1190,7 +1190,7 @@ where $M$ is its mass, $R$ the radius of the circles and $C$ is a numerical cons
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 3 (parte B) **
+**Il problema 3 (parte B)**
 
 Un triangolo di Reuleaux è una figura bidimensionale definita come l'intersezione di tre dischi identici posizionati in modo che il centro di ciascun disco si trovi sul confine degli altri due (vedi diagramma).
 

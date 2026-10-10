@@ -64,7 +64,7 @@ $$x = d \cdot \frac{\tan\alpha_i}{\tan\beta_i}$$
 
 Measure the distance $d$ with the paper meter provided. Calculates $x$ for each target and reports mean and semispersion as uncertainty. Use the formula to find $x$ and write it explicitly on the datasheet.
 
-**Data sheet (Part One): ** For each target $(A, B, C, D, E)$ reports the 5 measurements of $\alpha$ and the 5 measurements of $\beta$, the mean, tangent, value of $x$ obtained. Finally, he calculates:
+**Data sheet (Part One):** For each target $(A, B, C, D, E)$ reports the 5 measurements of $\alpha$ and the 5 measurements of $\beta$, the mean, tangent, value of $x$ obtained. Finally, he calculates:
 $$x = \overline{x} \pm \Delta x$$
 
 <!--fig:start-->

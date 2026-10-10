@@ -103,7 +103,7 @@ g) Mediante un tratamiento estadístico, calcula el valor más fiable de la tran
 
 A volte è interessante ridurre l'intensità di un fascio di luce, per cui si può utilizzare un filtro commerciale di gelatina. Quando un fascio di luce di intensità $I_0$ incide su una delle facce piatte del filtro, parte della luce viene trasmessa e viene emessa dall'altra faccia con una intensità inferiore $I_1$.
 
-L'intensità luminosa è ridotta di un fattore $T$ inferiore all'unità, denominato ** trasmissione ** del filtro:
+L'intensità luminosa è ridotta di un fattore $T$ inferiore all'unità, denominato **trasmissione** del filtro:
 
 $$T = \frac{I_1}{I_0} \quad (1)$$
 

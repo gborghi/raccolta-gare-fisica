@@ -66,7 +66,7 @@ Il pilota di un aereo vuole andare in linea retta tra due città (A e B). Le cit
 Distanza $100\ \text{km}$ tra loro e si trovano sul medesimo meridiano. La città da
 dove parte l'aeroplano (città A) è a nord della città di destinazione (città B).
 
-L'aereo ha una velocità, ** rispetto all'aria calma, ** di $200\ \text{km/h}$. Al momento del
+L'aereo ha una velocità, **rispetto all'aria calma,** di $200\ \text{km/h}$. Al momento del
 quando il volo è in partenza, il pilota è informato che vi è un forte vento di $50\ \text{km/h}$ in direzione est-ovest.
 
 a) Sviluppa un diagramma della situazione. In esso indicare il sistema di
@@ -107,7 +107,7 @@ The pilot of an airplane wants to go in a straight line between two cities (A an
 They are $100\ \text{km}$ from each other and are on the same meridian. The city since
 where the aircraft departs (city A) is north of the destination city (city B).
 
-The aircraft has a speed, ** with respect to calm air, ** of $200\ \text{km/h}$. At the time of the
+The aircraft has a speed, **with respect to calm air,** of $200\ \text{km/h}$. At the time of the
 take-off, the pilot is informed that there is a strong east-west wind of $50\ \text{km/h}$.
 
 (a) Draw a diagram of the situation. In the same, indicate the system of
@@ -1001,7 +1001,7 @@ Distanza $d$. Ripettere la misurazione almeno 5 volte.
 Consigne
 - **A.** Dalla misurazione di $p$, determinare $r$.
 - **B.** Segnalare le misure effettuate in una tabella.
-- **C.**Sulla base delle magnitudini misurate e dell'equazione 3, scegli due variabili ($x$ e $y$) di
+- **C.** Sulla base delle magnitudini misurate e dell'equazione 3, scegli due variabili ($x$ e $y$) di
 La relazione tra le due parti è stata definita in modo lineare. Rendi un grafico delle
 variabili scelte.
 d) Aggiusta linealmente i punti graficati e determina la pendenza e la
@@ -1493,7 +1493,7 @@ Apparatto blocchi A e B il suo pianoforte inclinato
 ## Figurare
 
 <!--fig:start-->
-**p.9 **  Cilencro il suo pianoforte inclinato con d, h, theta
+**p.9**  Cilencro il suo pianoforte inclinato con d, h, theta
 <!--fig:end-->
 
 <!--fig:start-->

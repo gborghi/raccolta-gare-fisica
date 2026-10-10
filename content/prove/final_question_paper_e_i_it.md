@@ -217,7 +217,7 @@ The laser is again MSK1/>
 The laser again.
 
 <!--fig:start-->
-**p.2 **  Left mirror and screen
+**p.2**  Left mirror and screen
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p2_f5.png]]
 <!--fig:end-->
 

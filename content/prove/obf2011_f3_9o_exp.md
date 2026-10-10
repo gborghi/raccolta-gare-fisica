@@ -162,7 +162,7 @@ Repita o procedimento anterior para as três configurações abaixo (Posições 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PARTICO II  Proprietà di interazione del magnete con la bussola (misurate in direzione perpendicolare all'asse nord-sud) **
+**PARTICO II  Proprietà di interazione del magnete con la bussola (misurate in direzione perpendicolare all'asse nord-sud)**
 
 Metti la compassa su una foglia di carta (pagina della parte II) del libretto di risposte. Non avvicinare il magnete della bussola. Questa deve essere allineata indicando il Nord nella sua posizione. Tracciare una linea perpendicolare all'asse Nord e Sud come indicato nella figura seguente.
 
@@ -179,7 +179,7 @@ Appostando il magnete alla compassa, l'ago inizia a girare. Misura la distanza $
 
 Ripeti la procedura precedente per le tre configurazioni di seguito (punto 2, 3 e 4). Utilizzare lo stesso montaggio, cambiando solo l'orientamento del magnete come indicato nelle figure. Fai una tavola per ogni posizione.
 
-**Questa:**Sulla base dell'analisi dei risultati ottenuti indicare per le posizioni 3 e 4 quale di esse rappresenta l'attrazione e la repulsione.
+**Questa:** Sulla base dell'analisi dei risultati ottenuti indicare per le posizioni 3 e 4 quale di esse rappresenta l'attrazione e la repulsione.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F3_9o_exp/OBF2011_F3_9o_exp_p3_f2.png]]
@@ -198,7 +198,7 @@ Ripeti la procedura precedente per le tre configurazioni di seguito (punto 2, 3 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part II  Property of the magnetic interaction with the bubble (measured in the direction perpendicular to the North-South axis) **
+**Part II  Property of the magnetic interaction with the bubble (measured in the direction perpendicular to the North-South axis)**
 
 Place the compass on a sheet of paper (page of Part II) of the answer book. Don't move the magnet to the compass. This one should be aligned with the North in its position. Draw a straight line perpendicular to the north and south axis as shown in the figure below.
 
@@ -260,11 +260,11 @@ Repita o mesmo procedimento da PARTE II só que na direção paralela ao eixo No
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PARTOLO III  Proprietà di interazione del magnete con la bussola (misurate in direzione parallela all'asse nord-sud) **
+**PARTOLO III  Proprietà di interazione del magnete con la bussola (misurate in direzione parallela all'asse nord-sud)**
 
 Ripetere la stessa procedura di PARTE II, solo che nella direzione parallela all'asse Nord-Sud per le 4 posizioni indicate nella figura seguente. In questo caso traccia una linea parallela all'asse Nord-Sud con il magnete lontano dalla bussola e poi inizia le sue misurazioni. Indicare i risultati in 4 tabelle sul modello precedente.
 
-**Questa:**Sulla base dell'analisi dei risultati ottenuti indicare per le posizioni 3 e 4 quale di esse rappresenta l'attrazione e la repulsione.
+**Questa:** Sulla base dell'analisi dei risultati ottenuti indicare per le posizioni 3 e 4 quale di esse rappresenta l'attrazione e la repulsione.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F3_9o_exp/OBF2011_F3_9o_exp_p4_f4.png]]

@@ -1951,7 +1951,7 @@ A spectrometer can be used for
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A-2 (una o più correzioni) **
+**Parte A-2 (una o più correzioni)**
 
 Un spettrometro può essere utilizzato per
 

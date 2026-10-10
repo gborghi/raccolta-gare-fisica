@@ -201,7 +201,7 @@ Se c'è una carica $\Delta q$ su una lunghezza $\Delta x$ del nucleo interno del
 
 **A.3** Trova la capacità per unità di lunghezza, $C_x$, del cavo coassiale. Potrebbe essere opportuno considerare una lunghezza $\Delta x$ del cavo. *(0.3pt)*
 
-**A.4 ** Trova l'induttanza per unità di lunghezza, $L_x$, del cavo. *(0.3pt)*
+**A.4** Trova l'induttanza per unità di lunghezza, $L_x$, del cavo. *(0.3pt)*
 
 Un modello di elemento montato del cavo viene costruito tenendo conto dell'induttanza e della capacità di sezioni brevi del cavo. Si presume che l'induttanza sia una proprietà del nucleo interno e che la capacitanza collega il nucleo al schermo. Un diagramma del modello di elementi agglomerati è mostrato di seguito.
 
@@ -267,7 +267,7 @@ Se $\Delta E_{\mathcal{N}} = 0$, il tunnelamento degli elettroni non richiede en
 
 Per mantenere un numero di elettroni nel punto quantistico ben definito, occorrono soddisfare determinate condizioni. In primo luogo, se gli elettroni nella fonte o nel drenaggio hanno energie termiche sufficienti a spostarsi spontaneamente sul punto quantistico, il contrasto tra gli stati ON e OFF scomparirà.
 
-**D.3 ** Trova una condizione sulla temperatura degli elettroni in modo che gli elettroni non possano spostarsi sul punto quantistico mediante eccitazione termica. *(0.5pt)*
+**D.3** Trova una condizione sulla temperatura degli elettroni in modo che gli elettroni non possano spostarsi sul punto quantistico mediante eccitazione termica. *(0.5pt)*
 
 In secondo luogo, il tunnelamento degli elettroni su o fuori il punto limita la durata degli stati energetici. Tale tunnelizzazione può essere modellata utilizzando una resistenza efficace della giunzione del tunnel con il tempo di tunnelamento caratteristico pari al tempo caratteristico per la carica o il scarico del punto quantistico attraverso la giunzione.
 
@@ -512,9 +512,9 @@ Il getto è descritto dai seguenti parametri, tutti dipendenti dalla distanza $s
 
 Qualsiasi di questi parametri può essere utilizzato nelle risposte a A14.
 
-**A.1 ** Trova la densità di numero delle particelle, $n'(s)$, nel quadro dell'AGN, in termini di densità di numero appropriata, $n(s)$ e altri parametri di getto. La densità del numero corretta è la densità del numero nel telaio che si muove localmente con il flusso di plasma a getto, che chiameremo il telaio a jet. *(0.3pt)*
+**A.1** Trova la densità di numero delle particelle, $n'(s)$, nel quadro dell'AGN, in termini di densità di numero appropriata, $n(s)$ e altri parametri di getto. La densità del numero corretta è la densità del numero nel telaio che si muove localmente con il flusso di plasma a getto, che chiameremo il telaio a jet. *(0.3pt)*
 
-**A.2 ** Trovare il flusso di particelle, $F_p(s)$, attraverso una sezione trasversale del getto con superficie $A$, a una distanza $s$ dal GNA. *(0.2pt)*
+**A.2** Trovare il flusso di particelle, $F_p(s)$, attraverso una sezione trasversale del getto con superficie $A$, a una distanza $s$ dal GNA. *(0.2pt)*
 
 **A.3** Scrivere una relazione di continuità tra il flusso di particelle nel jet e fuori dal jet in termini di parametri di jet a $s_1$ e $s_2$, e $V$, il volume totale del jet Centaurus A e altri parametri richiesti. *(0.5pt)*
 
@@ -528,11 +528,11 @@ $$
 
 dove $F_E(s)$ è il flusso di energia attraverso la sezione trasversale del getto a $s$, e $\dot{M}$ è il flusso di massa attraverso la sezione trasversale del getto alla stessa distanza $s$ dall'AGN.
 
-**A.5 ** Usando le risposte alle parti precedenti trovi $\dfrac{dP_j}{ds}$. *(0.6pt)*
+**A.5** Usando le risposte alle parti precedenti trovi $\dfrac{dP_j}{ds}$. *(0.6pt)*
 
-**A.6 ** Trovare valori numerici per i flussi di massa $\dot{M}_1$, nel getto di Centaurus A a $s_1$, e anche $\dot{M}_2$, fuori dal getto di Centaurus A a $s_2$. *(0.4pt)*
+**A.6** Trovare valori numerici per i flussi di massa $\dot{M}_1$, nel getto di Centaurus A a $s_1$, e anche $\dot{M}_2$, fuori dal getto di Centaurus A a $s_2$. *(0.4pt)*
 
-**A.7 ** Trova un'espressione per il flusso di impulso totale, $\Pi$, nel getto Centaurus A. Valutare numericamente anche questa espressione. *(0.5pt)*
+**A.7** Trova un'espressione per il flusso di impulso totale, $\Pi$, nel getto Centaurus A. Valutare numericamente anche questa espressione. *(0.5pt)*
 
 **A.8** Trova un valore numerico per la forza totale dovuta alla pressione esterna, $F_{\text{Pr}}$, sul getto Centaurus A. *(0.5pt)*
 
@@ -542,13 +542,13 @@ dove $F_E(s)$ è il flusso di energia attraverso la sezione trasversale del gett
 
 Considera un gas di elettroni ultra relativistici ($\gamma \gg 1$), con una distribuzione isotròpica delle velocità (non dipende dalla direzione). La densità di numero appropriata delle particelle con energie tra $\epsilon$ e $\epsilon + d\epsilon$ è data da $f(\epsilon)\,d\epsilon$, dove $\epsilon$ è l'energia per particella. Si consideri anche un muro di superficie $\Delta A$, che è in contatto con il gas.
 
-**B.1 ** Scrivere un'espressione integrale per l'energia totale per volume del gas elettronico. *(0.2pt)*
+**B.1** Scrivere un'espressione integrale per l'energia totale per volume del gas elettronico. *(0.2pt)*
 
 **B.2** Trovare un'espressione per il tasso totale di variazione del momento $\Delta p_z/\Delta t$ del gas, nella direzione z normale per la parete, a causa di collisioni con la parete. *(0.8pt)*
 
-**B.3 ** Derivare un'equazione di stato per un gas elettronica ultra relativista, che relaziona la pressione, il volume e l'energia interna totale. *(0.6pt)*
+**B.3** Derivare un'equazione di stato per un gas elettronica ultra relativista, che relaziona la pressione, il volume e l'energia interna totale. *(0.6pt)*
 
-**B.4 ** Derivare una relazione tra la pressione e il volume di un gas elettronico ultra relativistico che subisce un'espansione adiabatica. *(0.6pt)*
+**B.4** Derivare una relazione tra la pressione e il volume di un gas elettronico ultra relativistico che subisce un'espansione adiabatica. *(0.6pt)*
 
 ### Parte C: Emissioni di sincrotroni
 
@@ -563,9 +563,9 @@ Quando l'elettrone viene accelerato a causa del campo magnetico emette radiazion
 *Figure 3: The diagram on the left shows the distribution of power in radiation from an electron accelerating up the page in the frame at which the electron in momentarily at rest. Il diagramma a destra mostra la distribuzione della potenza di radiazione per lo stesso elettrone nel quadro dell'osservatore, dove la maggior parte delle radiazioni viene emessa nel cono anteriore. Nel quadro degli osservatori, la direzione dell'accelerazione dell'elettrone è indicata da un vettore etichettato a e la direzione della sua velocità è indicata da un vettore etichettato v.*
 <!--fig:end-->
 
-**C.2 ** Trova la durata di un impulso, $\Delta t$, di radiazione sincrotronico osservato da un elettrone con fattore lorentz $\gamma$, viaggiando ad un angolo $\phi$ verso il campo magnetico. *(0.5pt)*
+**C.2** Trova la durata di un impulso, $\Delta t$, di radiazione sincrotronico osservato da un elettrone con fattore lorentz $\gamma$, viaggiando ad un angolo $\phi$ verso il campo magnetico. *(0.5pt)*
 
-**C.3 ** Quindi, stima la frequenza caratteristica, $\nu_{\text{chr}}$, della radiazione sincrotronico. *(0.3pt)*
+**C.3** Quindi, stima la frequenza caratteristica, $\nu_{\text{chr}}$, della radiazione sincrotronico. *(0.3pt)*
 
 La potenza totale emessa dal sincrotron è
 
@@ -573,7 +573,7 @@ $$
 P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \right) E^2 \tag{2}
 $$
 
-**C.4 ** Estimare il tempo, $\tau$, per un elettrone di energia $E$ per perdere la sua energia attraverso il raffreddamento a sincrotrone. *(0.2pt)*
+**C.4** Estimare il tempo, $\tau$, per un elettrone di energia $E$ per perdere la sua energia attraverso il raffreddamento a sincrotrone. *(0.2pt)*
 
 ### Parte D: Emissioni di sincrotroni da un getto AGN
 
@@ -606,7 +606,7 @@ La tabella seguente riassume alcune osservazioni di nodi (regioni più luminose)
 
 *(Dati di Snios et al., 2019a; 2019b.) *
 
-**D.4 ** Nella tabella della scheda delle risposte, identificare la causa più probabile di riduzione della luminosità per ogni nodo e identificare quale parte o parti precedenti supportano la tua conclusione. *(0.6pt)*
+**D.4** Nella tabella della scheda delle risposte, identificare la causa più probabile di riduzione della luminosità per ogni nodo e identificare quale parte o parti precedenti supportano la tua conclusione. *(0.6pt)*
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/130cgnyx-vU6Dp2isQNhrySyF_jS-O1Kk/view)
 
@@ -760,7 +760,7 @@ Il terzo angolo di Euler $\psi$ descrive la rotazione della parte superiore into
 
 Il telaio di riferimento della parte superiore di rotazione è definito come un nuovo telaio rotante $123$, che si ottiene ruotando $xyz$ da $\theta$ attorno a $\hat{y}$: "inclinando" l'asse $\hat{z}$ verso il basso di $\theta$ per raggiungere l'asse di simmetria della parte superiore $\hat{3}$. La trasformazione dal telaio $xyz$ al telaio $123$ è mostrata alla figura 3(b). In particolare, $\hat{2} = \hat{y}$.
 
-> **Nota: ** Per un quadro di riferimento $\tilde{K}$ che ruota in quadro inerziale $K$ con velocità angolare $\omega$, le derivate temporali di un vettore $\mathbf{A}$ all'interno di entrambi i quadri $K$ e $\tilde{K}$ sono correlate tramite:
+> **Nota:** Per un quadro di riferimento $\tilde{K}$ che ruota in quadro inerziale $K$ con velocità angolare $\omega$, le derivate temporali di un vettore $\mathbf{A}$ all'interno di entrambi i quadri $K$ e $\tilde{K}$ sono correlate tramite:
 > $$
 > \left(\frac{\partial \mathbf{A}}{\partial t}\right)_K = \left(\frac{\partial \mathbf{A}}{\partial t}\right)_{\tilde{K}} + \omega \times \mathbf{A} \tag{1}
 > $$
@@ -779,15 +779,15 @@ Salvo indicazione contraria, fornire le risposte nel quadro di riferimento $xyz$
 
 **A.2** Trova la coppia esterna totale $\tau_{\text{ext}}$ sulla punta superiore circa il centro di massa. *(0.8pt)*
 
-**A.3 ** Data la condizione di contatto, cioè $(\mathbf{s} + \mathbf{a}) \cdot \hat{z} = 0$, mostrano che la velocità a $A$ non ha componente nella direzione $z$, cioè Possiamo scrivere $\mathbf{v}_A = v_x\hat{x} + v_y\hat{y}$. *(0.4pt)*
+**A.3** Data la condizione di contatto, cioè $(\mathbf{s} + \mathbf{a}) \cdot \hat{z} = 0$, mostrano che la velocità a $A$ non ha componente nella direzione $z$, cioè Possiamo scrivere $\mathbf{v}_A = v_x\hat{x} + v_y\hat{y}$. *(0.4pt)*
 
-**A.4 ** Trova la velocità angolare totale $\omega$ della parte superiore rotante intorno al suo centro di massa $C$ in termini di derivati temporali degli angoli di Euler:
+**A.4** Trova la velocità angolare totale $\omega$ della parte superiore rotante intorno al suo centro di massa $C$ in termini di derivati temporali degli angoli di Euler:
 $$\dot{\theta} = \frac{d\theta}{dt}, \quad \dot{\phi} = \frac{d\phi}{dt}, \quad \text{and} \quad \dot{\psi} = \frac{d\psi}{dt}.$$
 Se è utile, utilizzare la figura 3. Rispondi nel quadro $xyz$ e nel quadro $123$. *(0.8pt)*
 
-**A.5 ** Trova l'energia totale di una tippe top in rotazione, in termini di derivati temporali degli angoli di Euler, $v_x$ e $v_y$. Per i segni parziali, la risposta può essere indicata in $\dot{\mathbf{s}} = \dfrac{d\mathbf{s}}{dt}$. *(1pt)*
+**A.5** Trova l'energia totale di una tippe top in rotazione, in termini di derivati temporali degli angoli di Euler, $v_x$ e $v_y$. Per i segni parziali, la risposta può essere indicata in $\dot{\mathbf{s}} = \dfrac{d\mathbf{s}}{dt}$. *(1pt)*
 
-**A.6 ** Trova il tasso di variazione del momento angolare intorno all'asse $z$. *(0.4pt)*
+**A.6** Trova il tasso di variazione del momento angolare intorno all'asse $z$. *(0.4pt)*
 
 Quale forza opera contro la gravità? Trova un'espressione per il tasso di cambiamento istantaneo dell'energia della parte superiore  puoi lasciare la tua risposta in termini di $\mathbf{v}_A$. Identificare e identificare i componenti della forza e della coppia che causano il cambiamento delle energie in termini di energia in A.5. *(1.4pt)*
 

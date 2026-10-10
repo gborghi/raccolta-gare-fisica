@@ -76,7 +76,7 @@ La portata è la quantità di fluido che attraversa una sezione di area $A$ nell
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A viscous fluid **
+**A viscous fluid**
 
 Viscosity is a property that quantifies the resistance of fluids to the relative flow of one layer of fluid over another. The dynamic viscosity coefficient $\mu$ (hereinafter simply viscosity) is defined by taking into account the force to be applied to a layer of fluid to move at a different speed than another layer adjacent to the first layer, at a distance $\Delta x$, i.e.
 
@@ -123,7 +123,7 @@ The flow rate is the amount of fluid that passes through a section of area $A$ i
 **5.** Si ricavi la portata volumetrica del velo d'acqua, relativamente alla porzione considerata.
 
 <!--fig:start-->
-**Figure (from the text) **
+**Figure (from the text)**
 ![[_attachments/Naz13T/Naz13T_p3_f1.png]]
 <!--fig:end-->
 
@@ -202,7 +202,7 @@ The value of the load $q$ shall be calculated as a function of $m$, $a$ and $\al
 The total amount of induced charge on the conductive plane shall be calculated.
 
 <!--fig:start-->
-**Figure (from the text) **
+**Figure (from the text)**
 ![[_attachments/Naz13T/Naz13T_p4_f2.png]]
 <!--fig:end-->
 

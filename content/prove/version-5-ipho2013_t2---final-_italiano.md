@@ -192,11 +192,11 @@ This problem is concerned with the efficient process of steam production. It als
 
 The Fig. 2.1 describes the schematic of the problem:
 
-- **(a) ** An electrically neutral nanoparticle with a spherical radius shape $R$ with the centre at the origin of a Cartesian reference system.
-- **(b) ** A sphere with a homogeneous positive charge density $\rho$ (red colour) contains a smaller, electrically charged spherical region ($\rho = 0$, yellow colour) with a radius $r_0$ with a centre displaced of $\mathbf{d}$ compared to the origin of the reference system.
-- **(c) ** The positive charge density sphere $\rho$ formed by the silver ions of the nanoparticle is fixed at the origin of the reference system. The centre of the spherical charge region with a density $-\rho$ (in blue) due to the electronic cloud is shifted by $\mathbf{s}$, with $s \ll R$.
-- **(d) ** A homogeneous external electric field $\mathbf{E}_0$ has been applied. For a time-dependent $\mathbf{E}_0$ field, the electronic cloud moves at $\mathbf{v}(t)$ speed.
-- **(e) ** The $L_x \times L_y \times L_z$ size container containing the aqueous nanoparticle solution is illuminated by monochrome light that propagates along the $x$ axis with angular pulse $\omega$ and intensity $I$.
+- **(a)** An electrically neutral nanoparticle with a spherical radius shape $R$ with the centre at the origin of a Cartesian reference system.
+- **(b)** A sphere with a homogeneous positive charge density $\rho$ (red colour) contains a smaller, electrically charged spherical region ($\rho = 0$, yellow colour) with a radius $r_0$ with a centre displaced of $\mathbf{d}$ compared to the origin of the reference system.
+- **(c)** The positive charge density sphere $\rho$ formed by the silver ions of the nanoparticle is fixed at the origin of the reference system. The centre of the spherical charge region with a density $-\rho$ (in blue) due to the electronic cloud is shifted by $\mathbf{s}$, with $s \ll R$.
+- **(d)** A homogeneous external electric field $\mathbf{E}_0$ has been applied. For a time-dependent $\mathbf{E}_0$ field, the electronic cloud moves at $\mathbf{v}(t)$ speed.
+- **(e)** The $L_x \times L_y \times L_z$ size container containing the aqueous nanoparticle solution is illuminated by monochrome light that propagates along the $x$ axis with angular pulse $\omega$ and intensity $I$.
 
 ---
 

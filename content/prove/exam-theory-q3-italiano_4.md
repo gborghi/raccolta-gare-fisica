@@ -139,7 +139,7 @@ Sia $x_a$ la coordinata $x$ del punto di contatto tra la superficie dell’acqua
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Water and articles (10 pts) **
+**Water and articles (10 pts)**
 
 In this problem we consider the phenomena caused by the interaction between water and surface tension-related objects. Part A deals with motor situations, while Parts B and C deal with static situations.
 
@@ -227,7 +227,7 @@ The coordinate $x_a$ of the contact point $x$ between the surface of the water a
 1.0pt
 
 <!--fig:start-->
-**p.1 **  Fusion of two drops of water
+**p.1**  Fusion of two drops of water
 ![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p1_f1.png]]
 <!--fig:end-->
 

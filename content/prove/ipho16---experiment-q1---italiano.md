@@ -165,7 +165,7 @@ The test shall be carried out on the basis of the following information:
 3. 8 pointed plexiglass disc
 
 <!--fig:start-->
-**p.4 **  8 pointed plexiglass disc
+**p.4**  8 pointed plexiglass disc
 ![[_attachments/IPhO16 - Experiment Q1 - Italiano/IPhO16 - Experiment Q1 - Italiano_p4_f3.png]]
 <!--fig:end-->
 

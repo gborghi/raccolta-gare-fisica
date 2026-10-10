@@ -487,7 +487,7 @@ frequency f0. If $2\Delta f$ is the bandwidth then the highest frequency receive
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Figura 2.1 θ R 0.5λ cavi θ Dal Sole **
+**Figura 2.1 θ R 0.5λ cavi θ Dal Sole**
 
 Q2
 Figura 2.1

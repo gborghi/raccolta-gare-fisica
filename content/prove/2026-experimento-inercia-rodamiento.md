@@ -97,7 +97,7 @@ En nuestro experimento, al dejar caer el cilindro desde el reposo, desde distint
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Tempore di inerzia di un dispositivo cilindrico **
+**Tempore di inerzia di un dispositivo cilindrico**
 
 Il momento di inerzia di un corpo viene dato dall'espressione:
 
@@ -145,17 +145,17 @@ Nel nostro esperimento, lasciando cadere il cilindro dal riposo, da diverse dist
 | 0,30 | 0,462 | | | | | |
 | 0,20 | 0,364 | | | | | |
 
-**(a) ** Riempire i valori della tabella (utilizza tre cifre decimali per rendere i risultati più precisi).
+**(a)** Riempire i valori della tabella (utilizza tre cifre decimali per rendere i risultati più precisi).
 
-**(b) ** Con i valori ottenuti nella tabella rappresenta $h$ rispetto a $v^2$ nella carta millimetrica che le è stata fornita.
+**(b)** Con i valori ottenuti nella tabella rappresenta $h$ rispetto a $v^2$ nella carta millimetrica che le è stata fornita.
 
-**(c) ** Ottieni il valore di $A$ tenendo conto dell'equazione (2). Prendi per $g$ il valore di $9{,}81\,\text{m s}^{-2}$.
+**(c)** Ottieni il valore di $A$ tenendo conto dell'equazione (2). Prendi per $g$ il valore di $9{,}81\,\text{m s}^{-2}$.
 
-**(d) ** Ottieni il valore dell'errore commesso in $A$, mediante una procedura grafica.
+**(d)** Ottieni il valore dell'errore commesso in $A$, mediante una procedura grafica.
 
-**(e) ** Conoscendo il valore di $A$, si ottiene il valore del momento di inerzia del cilindro problema mediante l'equazione (1).
+**(e)** Conoscendo il valore di $A$, si ottiene il valore del momento di inerzia del cilindro problema mediante l'equazione (1).
 
-**(f) ** Ottieni infine il valore dell'incertezza calcolata di $I$ e esprimi il risultato correttamente.
+**(f)** Ottieni infine il valore dell'incertezza calcolata di $I$ e esprimi il risultato correttamente.
 
 <!--fig:start-->
 ![[_attachments/2026 Experimento Inercia rodamiento/2026 Experimento Inercia rodamiento_p1_f1.png]]
@@ -222,17 +222,17 @@ In our experiment, by dropping the cylinder from the resting position, from diff
 | 0,30 | 0,462 | | | | | |
 | 0,20 | 0,364 | | | | | |
 
-**(a) ** Fill in the table values (use three decimal places to get the results more accurate).
+**(a)** Fill in the table values (use three decimal places to get the results more accurate).
 
-**(b) ** With the values obtained in the table represent $h$ versus $v^2$ on the millimeter paper provided.
+**(b)** With the values obtained in the table represent $h$ versus $v^2$ on the millimeter paper provided.
 
-**(c) ** Obtain the value of $A$ by taking into account equation (2). Take for $g$ the value of $9{,}81\,\text{m s}^{-2}$.
+**(c)** Obtain the value of $A$ by taking into account equation (2). Take for $g$ the value of $9{,}81\,\text{m s}^{-2}$.
 
-**(d) ** Obtain the value of the error committed in $A$ by a graphical procedure.
+**(d)** Obtain the value of the error committed in $A$ by a graphical procedure.
 
-**(e) ** Knowing the value of $A$, obtain the value of the moment of inertia of the problem cylinder by using equation (1).
+**(e)** Knowing the value of $A$, obtain the value of the moment of inertia of the problem cylinder by using equation (1).
 
-**(f) ** Finally obtain the calculated uncertainty value of $I$ and correctly express the result.
+**(f)** Finally obtain the calculated uncertainty value of $I$ and correctly express the result.
 
 <!--fig:start-->
 ![[_attachments/2026 Experimento Inercia rodamiento/2026 Experimento Inercia rodamiento_p1_f1.png]]

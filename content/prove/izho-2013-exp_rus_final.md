@@ -90,6 +90,10 @@ $$r_k = r_0k^{\gamma}. \qquad (1)$$
 
 **4.2** Оцените показатель преломления материала, из которого изготовлен этот оптический элемент.
 
+**Topic:** [[Geometric Optics]], [[Wave Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

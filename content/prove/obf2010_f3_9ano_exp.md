@@ -70,7 +70,7 @@ antes do início da prova.
 
 <div class="qlang-split" data-lang="it"></div>
 
-** prima dell'inizio della prova**
+**prima dell'inizio della prova**
 
 02) Il Libro delle Risoluzioni contiene istruzioni che devono essere lette con attenzione
 prima dell'inizio della prova.
@@ -83,7 +83,7 @@ prima dell'inizio della prova.
 
 <div class="qlang-split" data-lang="en"></div>
 
-** before the start of the test**
+**before the start of the test**
 
 02) The Resolution Book contains instructions which must be read carefully
 before the start of the test.

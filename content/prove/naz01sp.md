@@ -28,7 +28,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q1.** (Experimental Part 1) If you were to use the thermometer to heat up at temperatures above the maximum measurement, would it be correct to extrapolate the trend of your chart? Under what circumstances would the uncertainty in extrapolation be less?
+Q1. (Experimental Part 1) If you were to use the thermometer to heat up at temperatures above the maximum measurement, would it be correct to extrapolate the trend of your chart? Under what circumstances would the uncertainty in extrapolation be less?
 -
 
 **Topic:** [[Thermodynamics]]
@@ -90,7 +90,7 @@ Q1.** (Experimental Part 1) If you were to use the thermometer to heat up at tem
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q3.** (Experimental Part 3) For what reasons does the temperature distribution change when the lamp is placed horizontally, compared to the vertical lamp?
+Q3. (Experimental Part 3) For what reasons does the temperature distribution change when the lamp is placed horizontally, compared to the vertical lamp?
 -
 
 **Topic:** [[Fluid Mechanics]]

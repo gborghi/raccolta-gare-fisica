@@ -37,13 +37,13 @@ La griglia continua nelle pagine successive con i criteri per le altre parti del
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Override of a pendulum/swinging system (grid of assessment) **
+**Override of a pendulum/swinging system (grid of assessment)**
 
 > ️ The available PDF is the *grid of assessment* (material for the Commission) of the 2002 National Race Experimental Test (18 April 2002), not the text of the problem. The full text is not present in this archive.
 
 **Experimental test 2002  Total 130 points (including 10 bonuses).** From the grid it is reconstructed that the problem concerns the measurement of the oscillation period of a oscillating system (presumably a pendulum with a minimum period at a certain distance $O$):
 
-- **1. ** Question 1 ($36 + 10$ bonus):
+- **1.** Question 1 ($36 + 10$ bonus):
 - **1.a** Determination of experimental data (23 pt): number of data ($\ge 9$ for maximum), their significant positioning (one with negative coordinates, two around the minimum, well-distant), graph (good positioning of the minimum between $15$ and $24\,\mathrm{cm}$ from $O$, choice of scales, bars of uncertainty, curve trace).
 - **1.b** Experimental results (11 pt): uncertainty about periods (medium square gap 'justified', repeating measures  e.g. 7 groups of 10 oscillations, or 3 groups of 2030); absolute uncertainty about periods with significantly consistent figures (e.g. $\Delta T = 0.001\,\mathrm{s}$ → punteggio massimo).
 

@@ -75,7 +75,7 @@ Now suppose we place a detector, that is, a device that counts balls in transit 
 **5.** A time interval $\Delta t$ is considered long enough for a very large number of particles to be affected on the fixed sphere. What is the average value of the force that particles exert on the sphere?
 
 <!--fig:start-->
-**p.1 **  Elastic diffusion: impact parameter and angle
+**p.1**  Elastic diffusion: impact parameter and angle
 ![[_attachments/Naz12T/Naz12T_p1_f1.png]]
 <!--fig:end-->
 <!--fig:start-->
@@ -170,7 +170,7 @@ Consider the heating phase by constructing an analogue model in which an additio
 Using the data extracted from the graph and the ratios calculated between the various coefficients introduced, the ratio of the radiation absorption coefficients in the black and white bottle is estimated. Recalling that for the same body, the absorption coefficients are equal to those of radiation emission, the ratio of energy lost by conduction to that lost by radiation is estimated in each barrel.
 
 <!--fig:start-->
-**p.3 **  Temperature of black and white jars over time
+**p.3**  Temperature of black and white jars over time
 ![[_attachments/Naz12T/Naz12T_p3_f3.png]]
 <!--fig:end-->
 

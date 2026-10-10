@@ -557,7 +557,7 @@ b) Calcolare l'accelerazione di tale movimento
 
 <div class="qlang-split" data-lang="en"></div>
 
-**7. The amount of the loan is EUR 10 million.
+**7. The amount of the loan is EUR 10 million.**
 
 Two prism's bodies A and B lie at rest, supported on a horizontal plane. Its masses are: $m_a=50$kg; $m_b=100$kg and the coefficients of friction are: between A and B $\mu_s=0,5$ and between B and the plane $\mu_b=0,2$. A force $=400$ N acts on A as shown in Figure 1. (Figure)
 Determine:
@@ -661,7 +661,7 @@ Una corda AB è legata in B a un piccolo blocco di peso insignificante, e passa 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**9. C 'ordoba, Green
+**9. C 'ordoba, Green**
 
 An AB rope is tied in B to a small non-negligible weight block, and it passes through a C pole of also negligible dimensions, so that its free end A is 1.5m away. the soil (see figure). If the free end is moved horizontally in a straight line by a man walking at a constant speed of 3 m/s. After a few seconds. The block reaches the pole, if $h=6$m? (Figure)
 
@@ -697,7 +697,7 @@ Tres rociadores A, B, y C est\'an fijos en el suelo, adem\'as est\'an inclinados
 
 <div class="qlang-split" data-lang="it"></div>
 
-**10. La RIOJA, Azul
+**10. La RIOJA, Azul**
 
 Tre spruzzatori A, B e C sono fissati sul suolo, e sono inclinati rispetto ai orizzonti $30^\circ$, $45^\circ$ e $60^\circ$ rispettivamente. I getti d'acqua usciranno a velocità uguale. Qual è la relazione tra le portate dei tre jet?
 
@@ -709,7 +709,7 @@ Tre spruzzatori A, B e C sono fissati sul suolo, e sono inclinati rispetto ai or
 
 <div class="qlang-split" data-lang="en"></div>
 
-**10. The Red, Blue
+**10. The Red, Blue**
 
 Three sprayers A, B and C are fixed to the ground, and are tilted to the horizontal $30^\circ$, $45^\circ$ and $60^\circ$ respectively. The water jets are coming out at the same speed. What is the relationship between the reaches of the three jets?
 
@@ -766,7 +766,7 @@ b) Dopo aver compresso la sorgente, indicare se il blocco può raggiungere la po
 
 <div class="qlang-split" data-lang="en"></div>
 
-**11. The amount of the loan is EUR 10 million.
+**11. The amount of the loan is EUR 10 million.**
 
 A block of 1 kg collides with a horizontal spring without weight whose constant is 2 N/m. The block compresses the spring and deforms it 4m from the resting position. The dynamic friction coefficient between the block and the horizontal surface is $=0,25$.
 (a) Determine the block speed at the instant of impact.
@@ -979,7 +979,7 @@ c) \u00bfA che punto del suo percorso di ritorno la palla avrà la stessa veloci
 
 <div class="qlang-split" data-lang="en"></div>
 
-**15. The amount of the loan is EUR 10 million.
+**15. The amount of the loan is EUR 10 million.**
 
 Electronic games called flippers owe their name to the two or more flippers (in English) with which the player attempts to keep the ball in play. To prevent the ball from falling into the depths of the inside of the machine and, in order to hit the bunch, a foos gives 1,000,000 points; an experienced player hits the ball violently. This one is fired at a speed of 5.5 m/s and climbs up the plane of the flipper towards the bunch, which is 1.5 m above the initial height of the ball and over a sloping game surface an angle $\alpha=25^\circ$. Weight of the ball: 3 N. Height of the propeller fins relative to the floor: 1 metre.
 Based on energy considerations, answer:
@@ -1142,7 +1142,7 @@ Applicando una forza di 15 kgf, sulla periferia di una ruota di 1,5 m di diametr
 
 <div class="qlang-split" data-lang="en"></div>
 
-**18. Other, including:
+**18. Other, including:**
 
 Applying a force of 15 kgf, on the periphery of a wheel of 1.5 m in diameter, a body of 120 kgf, suspended from a rope that rolls on its axis, can be lifted. Knowing that the diameter of this is 15 cm, calculate the actual mechanical advantage, ideal and performance of the machine used. (Figure)
 
@@ -1498,7 +1498,7 @@ f) Realice las gr\'aficas de $v=f(t)$, $v=f(t)$ y $e=f(t)$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**25. Cinco Salto, Rio Negro, Verde
+**25. Cinco Salto, Rio Negro, Verde**
 
 Si lancia verticalmente verso l'alto una pietra con una velocità iniziale di 30m/sec. Calcolo:
 a) Il tempo che sta ascendendo,
@@ -1516,7 +1516,7 @@ f) Rendi le grafiche di $v=f(t)$, $v=f(t)$ e $e=f(t)$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**25. Five jumps, black and green
+**25. Five jumps, black and green**
 
 A stone is thrown vertically upwards at an initial speed of 30m/sec. Calculation of the
 (a) The time it is ascending,
@@ -1553,7 +1553,7 @@ Un bloque de 2 N, se desliza por una superficie horizontal con una velocidad de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**26. Río Cuarto, Cordoba, Azul
+**26. Río Cuarto, Cordoba, Azul**
 
 Un blocco di 2 N, si scivola su una superficie orizzontale a una velocità di 5 m/s, poi inizia a scendere per un piano, la cui inclinazione è di $30^\circ$ e un'altezza di 2,5 m. Calcolare il coefficiente di ruggine tra il blocco e la superficie, se alla fine del piano possiede una velocità di 8,4 m/s, sapendo che ci vogliono 2 secondi per scendere. (Figura)
 
@@ -1643,7 +1643,7 @@ g) Realice las gr\'aficas de $v=f(t)$, $v=f(t)$ y $e=f(t)$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**28. Ucca, Cordoba, Azzurro
+**28. Ucca, Cordoba, Azzurro**
 
 Si lancia verticalmente una pietra verso l'alto, con una velocità iniziale di 30m/s. Calcolo:
 a) Il tempo che sta ascendendo
@@ -1720,7 +1720,7 @@ e) Se la risposta 'c' è negativa, giustificare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**29. Province of Tierra del Fuego, Green
+**29. Province of Tierra del Fuego, Green**
 
 A vehicle leaving Rio Grande is heading for Ushuaia at 7.30min. with a speed of 80 km/h. Another vehicle leaves from Rio Grande in the same direction at 8.00h. with a speed of 100 km/h.
 The distance from Rio Grande to Ushuaia is 250 km. It is assumed to be uniform straight linear motion.
@@ -1843,7 +1843,7 @@ Realizza tutte le applicazioni che ritiene necessarie per realizzare l'esercizio
 
 <div class="qlang-split" data-lang="en"></div>
 
-**31. Comodoro Rivadavia, Chubut, Green and the other
+**31. Comodoro Rivadavia, Chubut, Green and the other**
 
 Calculate the value of the Summary of Moment with respect to the Point "O".
 Perform all types of applications which you consider necessary for the exercise. (Figure)
@@ -2072,7 +2072,7 @@ Un pattinatore di massa 80 Kg applica a un altro di massa 50 Kg una forza di 25 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**36. The Red, Blue
+**36. The Red, Blue**
 
 A skater weighing 80 Kg applies a 25 Kg force to another 50 Kg for 0.5 seconds. What's the speed the second one gets and the speed of the first one back?
 
@@ -2280,7 +2280,7 @@ En un pozo de 600 m de profundidad cae una piedra, luego de 2 s, se arroja otra,
 
 <div class="qlang-split" data-lang="it"></div>
 
-**40. Río Cuarto, Cordoba, Azul
+**40. Río Cuarto, Cordoba, Azul**
 
 In un pozzo di 600 metri di profondità cade una pietra, dopo 2 secondi, viene gettata un'altra, che si incontrerà con la prima quando ha percorso la metà della profondità del pozzo. Con quale velocità si lancia la seconda pietra? Che ora si trovano?
 
@@ -2444,7 +2444,7 @@ Coeficiente de rozamiento$_2=0,3$ (figura)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**43. Cinco Salto, Rio Negro, Verde
+**43. Cinco Salto, Rio Negro, Verde**
 
 Calcolare l'accelerazione a) e tensione t)
 $m_1=300$kg=m$_2$
@@ -2533,7 +2533,7 @@ Arrojo una piedra a un pozo de agua, 5 segundos despu\'es escucho el chasquido. 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**45. San Nicol'as, Buenos Aires, Verde
+**45. San Nicol'as, Buenos Aires, Verde**
 
 Ho gettato una pietra in un pozzo d'acqua, 5 secondi dopo aver sentito il clacson. Che profondità ha il pozzo? $v_s=340$ m/s
 
@@ -2592,7 +2592,7 @@ Un corpo si muove su una linea retta con l'accelerazione indicata sul grafico. D
 
 <div class="qlang-split" data-lang="en"></div>
 
-**46. Province of Tierra del Fuego, Azul
+**46. Province of Tierra del Fuego, Azul**
 
 A body moves on a straight line at the acceleration indicated on the graph. Determine the graphs of speed and displacement in terms of time, considering the initial velocity equal to zero. (Figure)
 
@@ -2628,7 +2628,7 @@ Se desea conocer el peso espec\'ifico de un l\'iquido \u00bfC\'omo hace para ave
 
 <div class="qlang-split" data-lang="it"></div>
 
-**47. Las Heras, Mendoza, Verde
+**47. Las Heras, Mendoza, Verde**
 
 Vuoi sapere il peso specifico di un liquido che un uomo fa per scoprirlo? Se per questo si dispone di un corpo che pesa $235$gf e immerso in olio $180,0$gf ($p_{aceite}=0,92$g/cm$^3$) e che viene immerso nel liquido di $p$ sconosciuto, il suo peso è $161$g.
 
@@ -2640,7 +2640,7 @@ Vuoi sapere il peso specifico di un liquido che un uomo fa per scoprirlo? Se per
 
 <div class="qlang-split" data-lang="en"></div>
 
-**47. The Heras, Mendoza, Green
+**47. The Heras, Mendoza, Green**
 
 You want to know the specific weight of a liquid that a man makes to find out? If for this purpose a body weighing $235$gf in air and immersed in oil $180,0$gf ($p_{aceite}=0,92$g/cm$^3$) and immersed in unknown $p$ liquid is weighed $161$g.
 
@@ -2813,7 +2813,7 @@ Un aereo che vola orizzontalmente a un'altezza di 1.200 metri sul suolo a una ve
 
 <div class="qlang-split" data-lang="en"></div>
 
-**50. Other, including:
+**50. Other, including:**
 
 An aircraft flying horizontally at a height of 1,200 m above the ground at a speed of 200 km/h, drops a bomb on a target on the ground. Determine the angle formed by the vertical and the line connecting the aircraft to the target the moment the bomb is dropped.
 
@@ -3030,7 +3030,7 @@ g) Raccontare la velocità e la forza in funzione per tutto il viaggio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**54. Province of Tucumán, Verde
+**54. Province of Tucumán, Verde**
 
 A 70-kg motorcyclist is training for a motocross race with a 130kg Kawasaki. It is initially pushed until it is released by passing the point O which is the start. All'i speed is 12 m/s and the journey to A is 60 m from a surface of ice, no rubbing. From A the road is rocky and exerts a kinetic braking force of 100 N until it stops at point B. All'i reverses the direction of the path, applying now a constant force as it passes through A again, is where it turns off the engine throughout the entire path with brake. All sections are straight. When passing through O, a fall by a fado begins to the point C located 10 m below O. (Figure)
 (a) The main characteristics of the movements in each section shall be given, justifying them.
@@ -3149,7 +3149,7 @@ Accelerazione, Tempo totale del viaggio, Spazio totale del viaggio, Energia Cine
 
 <div class="qlang-split" data-lang="en"></div>
 
-**56. Comodoro Rivadavia, Chubut, Green and the other
+**56. Comodoro Rivadavia, Chubut, Green and the other**
 
 If a 10 kg steel ball is at rest and a force of 12 NW is applied to it, it is moved to calculate:
 Acceleration, Total travel time, total travel space, kinetic energy, work performed, power. (Figure)
@@ -3208,7 +3208,7 @@ Qual è la distanza dal supporto della barra devo mettere un peso di 150 kg per 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**57. Province of Tierra del Fuego, Azul
+**57. Province of Tierra del Fuego, Azul**
 
 What's the distance from the bar support I should place a 150 kg weight to get the system in balance? (Figure)
 
@@ -3363,7 +3363,7 @@ Qual è la distanza che deve essere nell'asse orizzontale tra il ca~n\'on e il t
 
 <div class="qlang-split" data-lang="en"></div>
 
-**60. The amount of the loan is EUR 10 million.
+**60. The amount of the loan is EUR 10 million.**
 
 What distance must be on the horizontal axis between the car and the tank at the moment of firing for the projectile to impact the tank? (use $g=10$m/s$^2$) (Figure)
 
@@ -3631,7 +3631,7 @@ b) Calcular la energ\'ia potencial inmediatamente antes que el objeto tropiece c
 
 <div class="qlang-split" data-lang="it"></div>
 
-**65. Cinque Salti, Rio Negro, Verde
+**65. Cinque Salti, Rio Negro, Verde**
 
 Lo schema rappresenta una pista senza rottura in forma di un quarto di circonferenza di 1,20 m di radio, che termina in un tratto orizzontale su cui c'è una resorte il cui estremità libera coincide con la fine della curva circolare. Una forza di 6000 kg comprime questo spruzio di 22,5 cm. Un oggetto di 6,25 kg viene abbassato senza rottura, senza velocità iniziale, dall'estremità superiore della pista, essendo fermato dall'accio del molo.
 a) \u00bf\'Qual è la velocità dell'oggetto immediatamente prima di colpire la molla? \u00bf\'Quante volte la molla è stata compressa quando l'oggetto è stato fermato?
@@ -3650,7 +3650,7 @@ b) Calcolare l'energia potenziale immediatamente prima che l'oggetto trattiene l
 
 <div class="qlang-split" data-lang="en"></div>
 
-**65. Five leaps, black river, green
+**65. Five leaps, black river, green**
 
 The scheme represents a roughly square-circle track of 1,20 m radius, ending in a horizontal section over which there is a spring whose free end coincides with the end of the circular curve. A force of 6000kg compresses this spring 22.5cm. An object weighing 6.25 kg is dropped without brushing, without initial speed, from the upper end of the runway, being stopped by the dock.
 (a) \u00bf\What is the speed of the object immediately before it hits the spring? \u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b\u00b and the speed of the spring when the object is stopped?
@@ -3688,7 +3688,7 @@ Elabore un informe explicando como determinar\'ia la densidad de un s\'olido o u
 
 <div class="qlang-split" data-lang="it"></div>
 
-**66. La RIOJA, Azul
+**66. La RIOJA, Azul**
 
 Scrivi un rapporto che spieghi come determinare la densità di un liquido o di un olio utilizzando solo una sorgente, una regola graduata e una prova.
 
@@ -3700,7 +3700,7 @@ Scrivi un rapporto che spieghi come determinare la densità di un liquido o di u
 
 <div class="qlang-split" data-lang="en"></div>
 
-**66. The Red, Blue
+**66. The Red, Blue**
 
 Develop a report explaining how to determine the density of a liquid or liquid using only a spring, a graduated rule and a sample.
 
@@ -3749,7 +3749,7 @@ c) Quale sarebbe l'indicazione della bilancia se il cavo dell'ascensore fosse ro
 
 <div class="qlang-split" data-lang="en"></div>
 
-**67. Province of Tierra del Fuego, Green
+**67. Province of Tierra del Fuego, Green**
 
 A body hangs from a spring scale suspended in turn from the ceiling of an elevator.
 (a) If you have an acceleration upwards of 4 ft/s$^2$ and the scale indicates 45 lb. What's the real body weight?
@@ -3859,7 +3859,7 @@ b) Il spostamento laterale che subisce il raggio di luce quando lo attraversa.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**69. The amount of the loan is EUR 10 million.
+**69. The amount of the loan is EUR 10 million.**
 
 On a wall, you need to make 3 holes 0.8 cm apart from each other. For this purpose a fixed laser is provided, the beam of which is applied to the same surface, and a line of parallel faces. If the angle of incidence is $45^\circ$, and the refractive index of the amine is $\sqrt{2}$. (Figure)
 Calculation of the
@@ -3975,7 +3975,7 @@ Un insetto cammina sull'asse principale di una lente convergente, e quando si tr
 
 <div class="qlang-split" data-lang="en"></div>
 
-**71. Comodoro Rivadavia, Chubut, Green and the other
+**71. Comodoro Rivadavia, Chubut, Green and the other**
 
 An insect walks on the main axis of a convergent lens, and when it's 30 centimeters from the lens, the image forms 10 centimeters from it. Calculate the lens power and the distance the insect must walk on the main axis starting from the initial position, so that it shows direction. (Figure)
 
@@ -4160,7 +4160,7 @@ Si ha un sistema optico convergente e viene indicato nella figura, dove gli assi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**75. The amount of the loan is EUR 10 million.
+**75. The amount of the loan is EUR 10 million.**
 
 You have a convergent optical system and it's shown in the figure where the main axes are matched. Between the two, perpendicular to the main axis, and supported on it, a 10 cm high pin is placed. Both the lens and the mirror have a focal length of 30 cm. The first gives an image located 25 cm from it and the second, an image 20 cm from it. What's the distance between the lens and the mirror? What is the relationship between the dimensions of the images given by the lens and the mirror? Verify the results effectively. (Figure)
 
@@ -4256,7 +4256,7 @@ Calcola l'indice di refraccio del diamante.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**77. Comodoro Rivadavia, Chubut, Green and the other
+**77. Comodoro Rivadavia, Chubut, Green and the other**
 
 Two parallel laser beams impact a diamond body with an angle of $30^\circ$ fully reflected. If the angle is smaller this doesn't happen.
 Calculate the Refraction Index of the Diamond.
@@ -4416,7 +4416,7 @@ Calcula gr\'afica y anal\'iticamente la trayectoria del rayo. (figura)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**80. Ucca, Cordoba, Azzurro
+**80. Ucca, Cordoba, Azzurro**
 
 Nella figura seguente, la faccia C è uno specchio, il mezzo B è vetro e A è aria.
 Calcola in modo efficace e analitico il percorso del raggio. (Figura)
@@ -4558,7 +4558,7 @@ d)\u00bfCu\'al es su densidad?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**83. San Nicol'as, Buenos Aires, Verde
+**83. San Nicol'as, Buenos Aires, Verde**
 
 Una sfera di 36 radii galleggia in un serbatoio di olio ($Pe=0,92\frac{t}{m^3}$).
 Determinare.
@@ -4629,7 +4629,7 @@ Considerare che il peso specifico dell'acqua è $p$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**84. The amount of the loan is EUR 10 million.
+**84. The amount of the loan is EUR 10 million.**
 
 A cylinder of weight (P), radius (r) and height (h), is suspended from a spring (k), the upper end of which is fixed B; the cylinder is submerged in water. In the equilibrium position, assuming that the spring's static constant is equal to "C" and that the water's acceleration is reduced to an additional Archimedes force. Determine the equation of motion of the cylinder around its equilibrium position, assuming that the spring's static constant is equal to "C" and the action of the water is reduced to an additional Archimedes force. (Figure)
 Consider that the specific weight of water is $p$.
@@ -4852,7 +4852,7 @@ Risolvi il circuito successivo. (Figura)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**89. Comodoro Rivadavia, Chubut, Green and the other
+**89. Comodoro Rivadavia, Chubut, Green and the other**
 
 A 1.5 volt flashlight battery can extract 0.5 Amps. for 10 hours. If all that energy is converted into potential gravitational energy for a 1,000-kilogram car, calculate how high we can raise it.
 Solve the next circuit. (Figure)
@@ -4984,7 +4984,7 @@ Data: V=30V; $V_x$=10V; R=1000$\Omega$; R$_1$=5100$\Omega$; R$_2$=2500$\Omega$; 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**91. The amount of the loan is EUR 10 million.
+**91. The amount of the loan is EUR 10 million.**
 
 For the represented circuit and for the values given, calculate:
 (a) The intensities (when LL$_1$ is closed and LL$_2$ is open.
@@ -5038,7 +5038,7 @@ Due sfere uguali e uguali di 0,1 g. di massa sono sospesi da un punto stesso med
 
 <div class="qlang-split" data-lang="en"></div>
 
-**92. Other, including:
+**92. Other, including:**
 
 Two equal and equal weight balls of 0,1 g. The mass shall be suspended from the same point by means of 13 cm thread. of length. Because of their repulsion (between the two), the balls are separated by 10 cm. Find the load on each of them.
 
@@ -5454,7 +5454,7 @@ d) \u00bfQu\'e sucede si el interruptor E, se encuentra abierto y los dem\'as ce
 
 <div class="qlang-split" data-lang="it"></div>
 
-**100. Río Cuarto, Cordoba, Azul
+**100. Río Cuarto, Cordoba, Azul**
 
 Il circuito di cui al seguente figura presenta un collegamento con 5 interruttori e 8 resistenze, al quale viene applicata una differenza di potenziale di 220 v; per circolare un corrente di 3,98 A, per R8 e R7. (Figura)
 Calcolo:
@@ -5633,7 +5633,7 @@ h) Quale è il costo di mantenere le 5 camere accese per 3 ore?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**103. The amount of the loan is EUR 10 million.
+**103. The amount of the loan is EUR 10 million.**
 
 A C.C. engine . The power output of the engine is 84% and is connected in parallel to 5 15 V $\cdot$ 200 V amps, which operate at the rated voltage supplied by an electricity generator. 250 V of internal resistance
 (a) Draw the circuit
@@ -5694,7 +5694,7 @@ La figura 1 mostra la curva della tensione a seconda dell'intensità del corrent
 
 <div class="qlang-split" data-lang="en"></div>
 
-**104. Province of Tucumán, Azul
+**104. Province of Tucumán, Azul**
 
 Figure 1 shows the voltage curve in relation to the electric current intensity, in two resistors. The curve (1) is $R_1$ and the straight (2) is $R_2$. Calculate how long these resistors, connected as shown in Figure 2, will have to be on to melt 500 grams of ice at a temperature of 0$^\circ$C. The heat of ice melting is 80 cal/g. The voltage applied to the circuit is 220 V. Consider that there is no heat loss. (Figure)
 
@@ -5760,7 +5760,7 @@ d) Potenza. (Figura)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**105. Comodoro Rivadavia, Chubut, Green and the other
+**105. Comodoro Rivadavia, Chubut, Green and the other**
 
 In the following circuit calculate:
 (a) The intensity of the circulation.
@@ -5838,7 +5838,7 @@ f) Se per ottenere la stessa quantità di calore è necessario bruciare una mass
 
 <div class="qlang-split" data-lang="en"></div>
 
-**106. The amount of the loan is EUR 10 million.
+**106. The amount of the loan is EUR 10 million.**
 
 A boiler contains nitrogen gas (N$_2$) at an initial temperature of 8 $^\circ$C. It uses coal as fuel and only 70% of the heat produced by its combustion is used to heat the gas. The embryo is initially in equilibrium. The external pressure is 101300 Pa.
 For the N$_2$: $c_p=0,248\frac{cal}{g.{}^\circ K}$, $c_v=0,177\frac{cal}{g.{}^\circ K}$. The molecular weight: M=28$\frac{g}{mol}$ R$=0,082\frac{atm.l}{mol.{}^\circ K}=8,31\frac{joule}{mol.{}^\circ K}$.
@@ -5951,7 +5951,7 @@ Un sistema fisico è costituito da una miscela di 500 g di acqua e 100 g di ghia
 
 <div class="qlang-split" data-lang="en"></div>
 
-**108. Other, including:
+**108. Other, including:**
 
 A physical system is made up of a mixture of 500 g of water and 100 g of melting ice at equilibrium temperature 0$^\circ$C. 200 g of water vapour at 100$^\circ$C is introduced into this system. Find the final temperature and make it into the mixture.
 
@@ -5996,7 +5996,7 @@ a) Quale è la temperatura finale dell'equilibrio termico?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**109. The amount of the loan is EUR 10 million.
+**109. The amount of the loan is EUR 10 million.**
 
 A heat meter of 200 g of laton (C=0,067 cal/g$^\circ$c) contains 600 g of water at 30$^\circ$c. A copper object with a mass of 50 g (Ce=0,093 cal/g$^\circ$c) to 120$^\circ$c is inserted.
 a) \u00bfWhat is the final temperature of the thermal equilibrium?
@@ -6231,7 +6231,7 @@ L'insieme della lunghezza e del volume del bastone dopo l'allungamento, disprezz
 
 <div class="qlang-split" data-lang="en"></div>
 
-**113. Province of Tierra del Fuego, Green
+**113. Province of Tierra del Fuego, Green**
 
 The coefficient of dilatation of a copper rod is 17x10 exp (-6) 1/$^\circ$C. We submerge the rod in a medium whose temperature has the distribution indicated on the chart. If the rod is initially 75 cm. of length and one end corresponds to the origin of the coordinates; calculate: (figure)
 The total length and volume of the rod after dilating, neglecting the curve at the origin of temperature and heat transport by the rod.
@@ -6336,7 +6336,7 @@ b) Quanto tempo ci vuole per iniziare a bollire utilizzando un riscaldatore che 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**115. The amount of the loan is EUR 10 million.
+**115. The amount of the loan is EUR 10 million.**
 
 Mix 1 Kg of boiling water with 1 Kg of ice at 0$^\circ$C. Disregarding heat losses to the environment:
 (a) Calculate the final temperature of the system
@@ -6461,7 +6461,7 @@ c) \u00bfQu\'e valor tiene el campo el\'ectrico? (m=6,68x10$^{-24}$g; q=1,6x10$^
 
 <div class="qlang-split" data-lang="it"></div>
 
-**118. Las Heras, Mendoza, Verde
+**118. Las Heras, Mendoza, Verde**
 
 In un campo elettrico uniforme, un punto A passa a una velocità di 30 m/s un nucleo di elio doppiamente ionizzato e un altro punto B passa 50 cm avanti con un $v=115$m/s.
 a) Quale è l'accelerazione della particella?
@@ -6774,7 +6774,7 @@ c) L'intensità del corrente che circola nel circuito.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**124. Province of Tucumán, Verde
+**124. Province of Tucumán, Verde**
 
 The diagram in the figure represents an electric express machine. Where A is a 3 litre water deposit, R$_C$ and R$_i$ are two resistors and V is the home voltage source (220 V). R$_i$ has the function of supplying heat to deposit A and is made of a wire of 12 $\frac{\Omega mm^2}{m}$ resistivity and 1 mm $^2$ sectionality. For construction reasons R$_c$ works at 180 V. (Figure)
 Calculation of the
@@ -6825,7 +6825,7 @@ Requerimientos: S\'olo podr\'a utilizar los elementos provistos, papel, l\'apiz 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**125. Cordoba, Azul (problema sperimentale)
+**125. Cordoba, Azul (problema sperimentale)**
 
 - Instanze locali. Problema sperimentale, luogo e categoria.
 Obiettivo: Misurare il coefficiente di ruggine tra due superfici. Con gli elementi forniti, si deve progettare un'esperienza di laboratorio adeguata a tale scopo.
@@ -6908,7 +6908,7 @@ Materiali:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**126. Province of Tierra del Fuego, Verde (Experimental problem)
+**126. Province of Tierra del Fuego, Verde (Experimental problem)**
 
 This is an experimental problem.
 Calculate the volume of an iron iped parallel.
@@ -6990,7 +6990,7 @@ Proponga un m\'etodo para hallar el volumen del objeto y calcule el error cometi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**128. Rauch, Buenos Aires, Azul (problema sperimentale)
+**128. Rauch, Buenos Aires, Azul (problema sperimentale)**
 
 Problema sperimentale.
 Datati:
@@ -7085,7 +7085,7 @@ e) Risultato sperimentale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**129. Province of Jujuy, Verde (experimental problem)
+**129. Province of Jujuy, Verde (experimental problem)**
 
 This is an experimental problem.
 Objective: Calculate the density of a liquid.
@@ -7147,7 +7147,7 @@ c) Los resultados y conclusiones obtenidos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**130. Provincia di Neuqu'en, Blu e Verde (problema sperimentale)
+**130. Provincia di Neuqu'en, Blu e Verde (problema sperimentale)**
 
 Problema sperimentale.
 Sono disponibili tre barre di cui al punto 1.2 e 3. Le barre 1 e 2 sono omogenee mentre la 3, è costituita da sezioni delle altre due. L'obiettivo di questo laboratorio è quello di ottenere le proporzioni dei materiali 1 e 2, che costituiscono la barra 3.
@@ -7172,7 +7172,7 @@ c) I risultati e le conclusioni ottenute.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**130. Province of Neuqu'en, Blue and Green (Experimental problem)
+**130. Province of Neuqu'en, Blue and Green (Experimental problem)**
 
 This is an experimental problem.
 Three bars listed in 1.2 and 3 are available. The 1 and 2 bars are homogeneous while the 3 is made up of sections of the other two. The aim of this laboratory is to obtain the proportions of materials 1 and 2, which constitute bar 3.
@@ -7279,7 +7279,7 @@ Requerimientos: S\'olo podr\'a utilizar los elementos provistos, papel, l\'apiz 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**132. Cordoba, Verde (problema sperimentale)
+**132. Cordoba, Verde (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo:
@@ -7376,7 +7376,7 @@ Materiale:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**133. Province of Mendoza, Blue and Green (Experimental Problem)
+**133. Province of Mendoza, Blue and Green (Experimental Problem)**
 
 This is an experimental problem.
 The objective:
@@ -7425,7 +7425,7 @@ c) observaciones y conclusiones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**134. Bahía Blanca, Buenos Aires, Azul (problema sperimentale)
+**134. Bahía Blanca, Buenos Aires, Azul (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo: Determinare il peso di un bastone di alluminio.
@@ -7563,7 +7563,7 @@ c) Le fonti di errore e le analisi di commo influenzano il risultato finale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**136. Current, Blue (Experimental problem)
+**136. Current, Blue (Experimental problem)**
 
 This is an experimental problem.
 Objective: Some of the acceleration of gravity
@@ -7618,7 +7618,7 @@ d) Resultado experimental.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**137. Capitale federale, verde (problema sperimentale)
+**137. Capitale federale, verde (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo:
@@ -7642,7 +7642,7 @@ d) Risultato sperimentale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**137. Federal Capital, Green (Experimental Problem)
+**137. Federal Capital, Green (Experimental Problem)**
 
 This is an experimental problem.
 The objective:
@@ -7719,7 +7719,7 @@ e) Risultato sperimentale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**138. Province of Jujuy, Azul (Experimental Problem)
+**138. Province of Jujuy, Azul (Experimental Problem)**
 
 This is an experimental problem.
 Objective: Determine the speed of a body at the base of an inclined plane.
@@ -7858,7 +7858,7 @@ f) Resultado experimental de lo solicitado.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**140. Ucca, Cordoba, Azul (problema sperimentale)
+**140. Ucca, Cordoba, Azul (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo: determinare il peso specifico di un corpo irregolare.
@@ -7932,7 +7932,7 @@ cables de conexi\'on
 
 <div class="qlang-split" data-lang="it"></div>
 
-**141. Provincia di Tucumán, Verde (problema sperimentale)
+**141. Provincia di Tucumán, Verde (problema sperimentale)**
 
 Problema sperimentale.
 Il problema consiste nel trovare sperimentalmente la dipendenza tra la tensione e l'intensità del corrente elettrica per un determinato conduttore.
@@ -7957,7 +7957,7 @@ Cable di connessione
 
 <div class="qlang-split" data-lang="en"></div>
 
-**141. Province of Tucumán, Verde (experimental problem)
+**141. Province of Tucumán, Verde (experimental problem)**
 
 This is an experimental problem.
 The problem is to experimentally find the dependence between the voltage and the intensity of the electric current for a given conductor.
@@ -8011,7 +8011,7 @@ d) Determinar el error experimental.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**142. Maip\'u, Mendoza, Verde (problema sperimentale)
+**142. Maip\'u, Mendoza, Verde (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo: dimostrare sperimentalmente come variare R l'elettrico con la lunghezza e la sezione.
@@ -8079,7 +8079,7 @@ cables de conexi\'on
 
 <div class="qlang-split" data-lang="it"></div>
 
-**143. Provincia di Tucumán, Azul (problema sperimentale)
+**143. Provincia di Tucumán, Azul (problema sperimentale)**
 
 Problema sperimentale.
 Il problema consiste nel trovare sperimentalmente la dipendenza tra la tensione e l'intensità del corrente elettrica per un determinato conduttore.
@@ -8102,7 +8102,7 @@ Cable di connessione
 
 <div class="qlang-split" data-lang="en"></div>
 
-**143. Province of Tucumán, Azul (Experimental Problem)
+**143. Province of Tucumán, Azul (Experimental Problem)**
 
 This is an experimental problem.
 The problem is to experimentally find the dependence between the voltage and the intensity of the electric current for a given conductor.
@@ -8155,7 +8155,7 @@ Estimar los errores cometidos al medir y cual es la fuente mayor de error. Detal
 
 <div class="qlang-split" data-lang="it"></div>
 
-**144. Las Heras, Mendoza, Verde (problema sperimentale)
+**144. Las Heras, Mendoza, Verde (problema sperimentale)**
 
 Problema sperimentale.
 Obiettivo: conoscere la potenza in watt di un riscaldatore d'acqua, a partire dal calore che è in grado di fornire.
@@ -8310,7 +8310,7 @@ b) Considerando la pr\'actica que realizaste, \u00bfcu\'ales son las ventajas y 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**146. Capitale federale, verde (problema sperimentale)
+**146. Capitale federale, verde (problema sperimentale)**
 
 Problema sperimentale.
 Si desidera misurare la temperatura specifica della vaselina. Per questo abbiamo i seguenti elementi:
@@ -8340,7 +8340,7 @@ b) Considerando la pratica che hai fatto, quali sono i vantaggi e gli svantaggi 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**146. Federal Capital, Green (Experimental Problem)
+**146. Federal Capital, Green (Experimental Problem)**
 
 This is an experimental problem.
 The specific heat of the vaseline is to be measured. We have the following elements at our disposal:
@@ -8398,7 +8398,7 @@ Si tomando el valor del calor experimental intercambiado, indicar que valor de R
 
 <div class="qlang-split" data-lang="it"></div>
 
-**147. Mendoza, Verde (problema sperimentale)
+**147. Mendoza, Verde (problema sperimentale)**
 
 Problema sperimentale.
 In un esperimento si desidera ottenere 1 litro di acqua a una temperatura di 35 $^\circ$C. 750 ml di acqua a 68 $^\circ$ F. a) Indicare a che temperatura è necessario aggiungere i restanti 250 cm$^3$ per raggiungere questo obiettivo. Considerare un C $_e$ dell'acqua di 0,999 $\frac{Kcal}{Kg.C}$

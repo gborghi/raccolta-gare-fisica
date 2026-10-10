@@ -102,17 +102,17 @@ William Thomson, Lord Kelvin (18241907), fu un fisico e inventore britannico che
 
 ### Luce, età e temperatura del Sole
 
-Una grande sfida scientifica del XIX secolo fu spiegare il brillo delle stelle e stimare la loro età. Kelvin studiò la luminosità e l'età del Sole. In astronomia, la luminosità è chiamata ** la potenza emessa in tutte le direzioni da un corpo celeste.
+Una grande sfida scientifica del XIX secolo fu spiegare il brillo delle stelle e stimare la loro età. Kelvin studiò la luminosità e l'età del Sole. In astronomia, la luminosità è chiamata  la potenza emessa in tutte le direzioni da un corpo celeste.
 
 Data per il Sole: luminosità $L_\odot = 3{,}85 \times 10^{26}\,\text{W}$, radio $R_\odot = 6{,}96 \times 10^{8}\,\text{m}$, massa $M_\odot = 1{,}99 \times 10^{30}\,\text{kg}$, $G = 6{,}67 \times 10^{-11}\,\text{N\,m}^2/\text{kg}^2$.
 
 Per spiegare la luminosità solare, Kelvin ha considerato prima l'ipotesi del bombardamento dei meteoriti: l'energia emessa dal Sole proviene dall'energia cinetica di una pioggia di meteoriti che impatterebbero contro di lui a una velocità uguale alla velocità di scarico del Sole.
 
-**(a) ** Ottieni un'espressione (a seconda di $L_\odot$, $R_\odot$, $M_\odot$ e $G$) per la massa dei meteoriti che dovrebbero raggiungere il Sole per unità di tempo per mantenere la loro luminosità. Calcola la massa totale in un anno.
+**(a)** Ottieni un'espressione (a seconda di $L_\odot$, $R_\odot$, $M_\odot$ e $G$) per la massa dei meteoriti che dovrebbero raggiungere il Sole per unità di tempo per mantenere la loro luminosità. Calcola la massa totale in un anno.
 
 Dopo aver scartato l'ipotesi precedente, Kelvin ha sviluppato insieme a Hermann von Helmholtz la teoria conosciuta come contraczione di Kelvin-Helmholtz, secondo la quale la fonte di energia delle stelle è la loro *autoenergia gravitazionale* (l'energia dei campi gravitazionali generati dalle masse stesse che compongono il corpo).
 
-**(b) ** Dimostra che l'autoenergia gravitazionale di una sfera omogenea di massa $M$ e di radio $R$ è
+**(b)** Dimostra che l'autoenergia gravitazionale di una sfera omogenea di massa $M$ e di radio $R$ è
 
 $$U = -\frac{3GM^2}{5R}.$$
 
@@ -138,11 +138,11 @@ $$\frac{P}{\mathcal{V}} = \underbrace{\rho J^2}_{\text{Joule}} - \underbrace{\si
 
 dove $\rho$ è la resistività del materiale, $J$ è la densità di corrente, $\Delta T$ è la differenza di temperatura tra le estremità, e $\sigma$ è il coefficiente di Thomson. $J$ e $\Delta T$ hanno lo stesso segno se il corrente circola dall'estremo freddo al caldo.
 
-**(e) ** Determina (in funzione di $\sigma$ e $\Delta T$) la differenza di potenziale $\Delta V$ da applicare al cavo per non emette o assorbe calore.
+**(e)** Determina (in funzione di $\sigma$ e $\Delta T$) la differenza di potenziale $\Delta V$ da applicare al cavo per non emette o assorbe calore.
 
 Dati numerici: cavo cilindrico di $L = 3\,\text{cm}$ di lunghezza e $r = 5\,\text{mm}$ di radio; estremità $T_1 = 273\,\text{K}$ e $T_2 = 300\,\text{K}$; corrente $I = 2\,\text{A}$ da estremità calda a fredda; materiale semiconduttore di ossido di zinco con resistività $\rho = 5 \times 10^{-5}\,\Omega\,\text{m}$ e coefficiente Thomson $\sigma = 1{,}50 \times 10^{-4}\,\text{V/K}$.
 
-**(f) ** Calcola il calore rilasciato nel cavo in 10 minuti per effetto Joule, per effetto Thomson e calore totale.
+**(f)** Calcola il calore rilasciato nel cavo in 10 minuti per effetto Joule, per effetto Thomson e calore totale.
 
 ---
 
@@ -152,17 +152,17 @@ Kelvin inventò il galvanometro dello specchio, un rilevatore di corrente di alt
 
 Si considera una spira quadrata laterale $L$ attraverso la quale si circola un corrente $I$, all'interno di un campo magnetico uniforme $\vec{B}$. La spira può girare rispetto ad un asse verticale che passa attraverso il suo centro. Il piano della spira è girato un angolo $\alpha$ rispetto alla direzione del campo magnetico.
 
-**(g) ** Determina il momento risultante delle forze che agiscono sul spirale (in funzione di $L$, $I$, $B$ e $\alpha$). Raccontate che se il campo magnetico è radiale (come nella figura 3b), il momento non dipende dall'angolo.
+**(g)** Determina il momento risultante delle forze che agiscono sul spirale (in funzione di $L$, $I$, $B$ e $\alpha$). Raccontate che se il campo magnetico è radiale (come nella figura 3b), il momento non dipende dall'angolo.
 
 El galvanómetro de Kelvin consta de una bobina de $N$ espiras cuadradas de lado $L$ suspendida de un hilo de constante de torsión $k$, al que va adosado un espejo. La bobina è situata in una zona di campo magnetico radial $B$. Passando la corrente, la bobina rimane in equilibrio per un certo angolo $\phi$ in cui il momento magnetico equivale al momento torsionale del filo.
 
-**(h) ** Determina (in funzione di $N$, $L$, $B$, $k$ e $\phi$) l'intensità $I$ che passa attraverso il galvanometro.
+**(h)** Determina (in funzione di $N$, $L$, $B$, $k$ e $\phi$) l'intensità $I$ che passa attraverso il galvanometro.
 
-**(i) ** Per un'intensità $I$, la bobina ha rotato un angolo $\phi$ rispetto alla posizione di corrente zero e il punto di impatto della luce riflessa nello specchio si sposta a una distanza $a$ su una scala circolare di radio $D$. Determina $a$ in funzione di $\phi$ e $D$. Possiamo gradire la scala in modo lineare per misurare l'intensità?
+**(i)** Per un'intensità $I$, la bobina ha rotato un angolo $\phi$ rispetto alla posizione di corrente zero e il punto di impatto della luce riflessa nello specchio si sposta a una distanza $a$ su una scala circolare di radio $D$. Determina $a$ in funzione di $\phi$ e $D$. Possiamo gradire la scala in modo lineare per misurare l'intensità?
 
 Senza variare il peso totale della bobina o le caratteristiche del filo, la sensibilità del galvanometro è definita come il coefficiente $\phi/I$.
 
-**(j) ** Raziona se costruire l'istrumento con una spira minore (e quindi con una dimensione delle spira un po' maggiore) o con una spira maggiore.
+**(j)** Raziona se costruire l'istrumento con una spira minore (e quindi con una dimensione delle spira un po' maggiore) o con una spira maggiore.
 
 **Topic:** [[Gravitation]], [[Thermodynamics]], [[Magnetism]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
@@ -186,11 +186,11 @@ The data for the Sun: luminosity $L_\odot = 3{,}85 \times 10^{26}\,\text{W}$, ra
 
 To explain solar luminosity, Kelvin first considered the hypothesis of  meteoritic bombardment: the energy the Sun emits comes from the kinetic energy of a meteor shower that would impact against it at a speed equal to the Sun's escape velocity.
 
-**(a) ** Obtain an expression (based on $L_\odot$, $R_\odot$, $M_\odot$ and $G$) for the mass of meteorites that should reach the Sun per unit time to maintain their brightness. Calculate the total mass in 1 year.
+**(a)** Obtain an expression (based on $L_\odot$, $R_\odot$, $M_\odot$ and $G$) for the mass of meteorites that should reach the Sun per unit time to maintain their brightness. Calculate the total mass in 1 year.
 
 Tras descartar la hipótesis anterior, Kelvin desarrolló junto a Hermann von Helmholtz la teoría conocida como “contracción de Kelvin-Helmholtz”, según la cual la fuente de energía de las estrellas es su *autoenergía gravitatoria* (la energía de los campos gravitatorios generados por las propias masas que componen el cuerpo).
 
-**(b) ** Demonstrates that the gravitational self-energy of a homogeneous sphere of mass $M$ and radius $R$ is
+**(b)** Demonstrates that the gravitational self-energy of a homogeneous sphere of mass $M$ and radius $R$ is
 
 $$U = -\frac{3GM^2}{5R}.$$
 
@@ -216,11 +216,11 @@ $$\frac{P}{\mathcal{V}} = \underbrace{\rho J^2}_{\text{Joule}} - \underbrace{\si
 
 where $\rho$ is the material resistivity, $J$ is the current density, $\Delta T$ is the temperature difference between the ends, and $\sigma$ is the Thomson coefficient. $J$ and $\Delta T$ have the same sign if the current is flowing from the cold to the hot end.
 
-**(e) ** Determine (based on $\sigma$ and $\Delta T$) the potential difference $\Delta V$ to be applied to the cable so that it does not emit or absorb heat.
+**(e)** Determine (based on $\sigma$ and $\Delta T$) the potential difference $\Delta V$ to be applied to the cable so that it does not emit or absorb heat.
 
 Numerical data: cylindrical cable of $L = 3\,\text{cm}$ length and $r = 5\,\text{mm}$ radius; ends at $T_1 = 273\,\text{K}$ and $T_2 = 300\,\text{K}$; current $I = 2\,\text{A}$ from the hot to the cold end; zinc oxide semiconductor material with resistivity $\rho = 5 \times 10^{-5}\,\Omega\,\text{m}$ and Thomson coefficient $\sigma = 1{,}50 \times 10^{-4}\,\text{V/K}$.
 
-**(f) ** Calculate the heat released in the cable in 10 minutes by Joule effect, by Thomson effect and total heat.
+**(f)** Calculate the heat released in the cable in 10 minutes by Joule effect, by Thomson effect and total heat.
 
 ---
 
@@ -230,17 +230,17 @@ Kelvin invented the mirror galvanometer, a highly sensitive current detector tha
 
 A square side spiral $L$ through which a current $I$ circulates within a uniform magnetic field $\vec{B}$ is considered. The spire can rotate with respect to a vertical axis passing through its centre. The plane of the spindle is rotated at an angle $\alpha$ with respect to the direction of the magnetic field.
 
-**(g) ** Determine the resulting moment of the forces acting on the spindle (depending on $L$, $I$, $B$ and $\alpha$). Justify that if the magnetic field is radial (as in Figure 3b), the moment is not dependent on the angle.
+**(g)** Determine the resulting moment of the forces acting on the spindle (depending on $L$, $I$, $B$ and $\alpha$). Justify that if the magnetic field is radial (as in Figure 3b), the moment is not dependent on the angle.
 
 The Kelvin galvanometer consists of a coil of $N$ square side spirals $L$ suspended from a thread of constant torque $k$, to which a mirror is attached. The coil is located in a radial magnetic field zone $B$. When the current passes, the coil is balanced at a certain angle $\phi$ at which the magnetic momentum equals the torsional momentum of the wire.
 
 **(h)** Determine (en función de $N$, $L$, $B$, $k$ y $\phi$) la intensidad $I$ que pasa por el galvanómetro.
 
-**(i) ** For an intensity $I$, the coil has rotated an angle $\phi$ with respect to the zero current position, and the point of impact of the reflected light in the mirror is shifted a distance $a$ over a circular radius scale $D$. Determine $a$ in terms of $\phi$ and $D$. Can we linearly scale the scale to measure the intensity?
+**(i)** For an intensity $I$, the coil has rotated an angle $\phi$ with respect to the zero current position, and the point of impact of the reflected light in the mirror is shifted a distance $a$ over a circular radius scale $D$. Determine $a$ in terms of $\phi$ and $D$. Can we linearly scale the scale to measure the intensity?
 
 Without variation in the total coil weight or the characteristics of the thread, the sensitivity of the galvanometer is defined as $\phi/I$.
 
-**(j) ** Consider whether to build the instrument with a smaller (and therefore somewhat larger) or a larger (or larger) spindle.
+**(j)** Consider whether to build the instrument with a smaller (and therefore somewhat larger) or a larger (or larger) spindle.
 
 **Topic:** [[Gravitation]], [[Thermodynamics]], [[Magnetism]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]

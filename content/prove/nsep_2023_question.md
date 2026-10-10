@@ -390,7 +390,7 @@ A **can** is a hollow cylinder of radius $R$ and height $h$. Its ends are sealed
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un **can** è un cilindro vuoto di raggio $R$ e altezza $h$. Le sue estremità sono sigillate con fogli circolari dello stesso materiale. La lattina è realizzata in lamiera sottile di massa $\sigma\ (kg/m^2)$. Il momento di inerzia di questo chiuso ** può** circa il suo asse verticale di simmetria è
+Un **can** è un cilindro vuoto di raggio $R$ e altezza $h$. Le sue estremità sono sigillate con fogli circolari dello stesso materiale. La lattina è realizzata in lamiera sottile di massa $\sigma\ (kg/m^2)$. Il momento di inerzia di questo chiuso **può** circa il suo asse verticale di simmetria è
 
 <!--fig:start-->
 **Quesito 6**

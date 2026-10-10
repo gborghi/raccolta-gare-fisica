@@ -1001,11 +1001,11 @@ Nel film *Spider-Man 2*, Spider-Man usa le sue reti di ragno per salvare un tren
 
 ![[HKPhO_2017_p21_f1.png]]
 
-**(a) ** Trova l'estensione di ogni fascia web. L'estensione può essere considerata come la distanza percorsa dal treno durante la sua decelerazione dalle reti.
+**(a)** Trova l'estensione di ogni fascia web. L'estensione può essere considerata come la distanza percorsa dal treno durante la sua decelerazione dalle reti.
 
-**(b) ** Trova la costante di primavera $k$ di ogni fascia web.
+**(b)** Trova la costante di primavera $k$ di ogni fascia web.
 
-**(c) ** Trova la tensione in ogni fascia web poco prima che il treno si ferma.
+**(c)** Trova la tensione in ogni fascia web poco prima che il treno si ferma.
 
 Date le risposte corrette a 3 cifre significative, in unità SI.
 
@@ -1046,13 +1046,13 @@ A smooth snooker ball S is struck from point O of a specially-designed circular 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Un tavolo rotondo per il snooker **
+**Un tavolo rotondo per il snooker**
 
 Una palla da snooker liscia S viene colpita dal punto O di un tavolo da snooker circolare appositamente progettato. La palla si sposta poi orizzontalmente in una direzione che fa un angolo $\varphi$ con il raggio CO. La palla fa $n$ impatti con la parete verticale liscia del tavolo prima di tornare al punto O. If $n = 1$, $\varphi = 0$. Il coefficiente di restituzione tra la palla e la parete è $e$. (Il coefficiente di restituzione è il rapporto tra la velocità normale dopo l'impatto e il suo valore precedente.)
 
 ![[HKPhO_2017_p22_f1.png]]
 
-**(a) ** Se $n = 2$, trovare $\varphi$ in termini di $e$.
+**(a)** Se $n = 2$, trovare $\varphi$ in termini di $e$.
 
 Se $n = 3$, trovare $\varphi$ in termini di $e$.
 
@@ -1107,9 +1107,9 @@ Una scala mobile ha una lunghezza orizzontale $L = 30$ m e un'altezza $H = 18$ m
 
 ![[HKPhO_2017_p23_f1.png]]
 
-**(a) ** Supponiamo che ci sia un passeggero di massa $m = 70$ kg che sta in piedi su gradini alternati della scala mobile (cioè: ci sono 30 passeggeri in ogni momento sulla scala mobile). Qual è la potenza minima del motore elettrico per mantenere la scala mobile in movimento a velocità costante?
+**(a)** Supponiamo che ci sia un passeggero di massa $m = 70$ kg che sta in piedi su gradini alternati della scala mobile (cioè: ci sono 30 passeggeri in ogni momento sulla scala mobile). Qual è la potenza minima del motore elettrico per mantenere la scala mobile in movimento a velocità costante?
 
-**(b) ** Supponiamo che la catena di trazione sia improvvisamente rotta e tutti i dispositivi di frenata funzionino male. La scala mobile inverte la direzione e manda i passeggeri che si arrampicano verso il basso con un'accelerazione. Alla fine, tutti i passeggeri si schiereranno a terra.
+**(b)** Supponiamo che la catena di trazione sia improvvisamente rotta e tutti i dispositivi di frenata funzionino male. La scala mobile inverte la direzione e manda i passeggeri che si arrampicano verso il basso con un'accelerazione. Alla fine, tutti i passeggeri si schiereranno a terra.
 
 Supponiamo che entrambe le ruote abbiano massa $M = 7{,}000$ kg, raggio $R = 1$ m e che ci sia un passeggero su passaggi alternati. Inizialmente, i passeggeri si trovano in piedi come mostrato nella figura quando la catena di propulsione è rotta. Qual è la velocità $v_1$ dei passeggeri quando il primo passeggero (P1) colpisce il terreno?
 
@@ -1156,11 +1156,11 @@ A block of mass $M$ and length $L$ is sliding on the frictionless table and move
 
 Un blocco di massa $M$ e lunghezza $L$ si scivola sulla tavola senza attrito e si muove a velocità costante $V_0$ a destra. All'improvviso, una piccola massa $m$ viene posta all'estremità destra del blocco. La massa $m$ scorre rispetto al blocco e cade dall'estremità sinistra del blocco. Il coefficiente di attrito tra il blocco $M$ e la massa $m$ deve essere $\mu$.
 
-**(a) ** Qual è la perdita totale di energia meccanica durante il processo?
+**(a)** Qual è la perdita totale di energia meccanica durante il processo?
 
-**(b) ** Qual è la velocità finale della massa $m$ e il tempo totale di viaggio della massa $m$ prima che cadda dall'estremità sinistra?
+**(b)** Qual è la velocità finale della massa $m$ e il tempo totale di viaggio della massa $m$ prima che cadda dall'estremità sinistra?
 
-**(c) ** Qual è il valore minimo di $V_0$?
+**(c)** Qual è il valore minimo di $V_0$?
 
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 

@@ -33,7 +33,7 @@ Which of the following organelle is the site for ribosome synthesis?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (scelta multipla) **  Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un punteggio e ogni risposta sbagliata con un punteggio -0,25. [1]
+**Sezione A (scelta multipla)**  Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un punteggio e ogni risposta sbagliata con un punteggio -0,25. [1]
 
 Quale delle seguenti organele è il sito di sintesi del ribosoma?
 
@@ -2382,7 +2382,7 @@ Answer the following questions using options (Yes/No).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (pieghe domande) **  Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
+**Sezione B (pieghe domande)**  Le domande da 61 a 68 sono di 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
 
 Il cervello umano è diviso in emisferi cerebrali destri e sinistri. La parte esterna 2-4 mm degli emisferi cerebrali è conosciuta come corteccia cerebrale. È costituito da materia grigia.
 
@@ -2571,7 +2571,7 @@ write $\sqrt{\dfrac{a+b}{a-b}} + \sqrt{\dfrac{a-b}{a+b}}$ in terms of $\cos x$. 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**a) ** Risolvi:
+**a)** Risolvi:
 
 $$\frac{3 + 2^{3x+2} + 27 + 3^{3x}}{3 \times 5^{3x+1/2} - 1/3 \times 27^{x+1}}$$
 
@@ -2612,9 +2612,9 @@ scrivere $\sqrt{\dfrac{a+b}{a-b}} + \sqrt{\dfrac{a-b}{a+b}}$ in termini di $\cos
 
 <div class="qlang-split" data-lang="it"></div>
 
-**a) ** Un solido inorganico bianco "A" riscaldato con HCl diluito dà una soluzione "B" e un gas "C" con odore di uova marcite. "B" quando trattata con NaOH diluito produce un ppt bianco che si dissolve in eccesso di NaOH. La soluzione "B" è solubile in $\mathrm{NH_4OH}$ diluito. Con un caldo forte nell'aria, "A" dà un gas pungente "D" e un residuo "E" che si dissolve in acqua. Una soluzione diluita di " E " dà una ppt bianca " F " al trattamento con soluzione $\mathrm{BaCl_2}$. Identifica A, B, C, D, E e F. [3]
+**a)** Un solido inorganico bianco "A" riscaldato con HCl diluito dà una soluzione "B" e un gas "C" con odore di uova marcite. "B" quando trattata con NaOH diluito produce un ppt bianco che si dissolve in eccesso di NaOH. La soluzione "B" è solubile in $\mathrm{NH_4OH}$ diluito. Con un caldo forte nell'aria, "A" dà un gas pungente "D" e un residuo "E" che si dissolve in acqua. Una soluzione diluita di " E " dà una ppt bianca " F " al trattamento con soluzione $\mathrm{BaCl_2}$. Identifica A, B, C, D, E e F. [3]
 
-**b) ** Un cloruro metallico "X", sotto trattamento con $\mathrm{H_2S}$ in mezzo acido, dà una ppt nera. Una soluzione acquosa di X, trattata con una soluzione di $\mathrm{SnCl_2}$, dà un ppt bianco che diventa grigio in eccesso $\mathrm{SnCl_2}$. Una soluzione acquosa di "X" quando trattata con soluzione acquosa di KI dà un ppt rosso che si dissolve in eccesso di KI dando una soluzione incolore che viene utilizzata per il rilevamento dei cationi "Y". Indicare "X" e "Y" con giustificazione. e scrivere tutte le reazioni coinvolte. [2]
+**b)** Un cloruro metallico "X", sotto trattamento con $\mathrm{H_2S}$ in mezzo acido, dà una ppt nera. Una soluzione acquosa di X, trattata con una soluzione di $\mathrm{SnCl_2}$, dà un ppt bianco che diventa grigio in eccesso $\mathrm{SnCl_2}$. Una soluzione acquosa di "X" quando trattata con soluzione acquosa di KI dà un ppt rosso che si dissolve in eccesso di KI dando una soluzione incolore che viene utilizzata per il rilevamento dei cationi "Y". Indicare "X" e "Y" con giustificazione. e scrivere tutte le reazioni coinvolte. [2]
 
 **Total 5 marchi**
 
@@ -2647,9 +2647,9 @@ scrivere $\sqrt{\dfrac{a+b}{a-b}} + \sqrt{\dfrac{a-b}{a+b}}$ in termini di $\cos
 
 <div class="qlang-split" data-lang="it"></div>
 
-**a) ** Ci sono due piastre conduttrici A e B tenute a una distanza di 3 mm. La piastra A è di +2 Volt e la piastra B è a terra (0 Volt). Un elettrone inizia a muoversi dalla piastra A con una velocità iniziale di '$v$'. Trova la velocità '$v$' tale che l'elettrone si sposta fino alla piastra B e quando raggiunge la piastra B la sua velocità è zero. [2]
+**a)** Ci sono due piastre conduttrici A e B tenute a una distanza di 3 mm. La piastra A è di +2 Volt e la piastra B è a terra (0 Volt). Un elettrone inizia a muoversi dalla piastra A con una velocità iniziale di '$v$'. Trova la velocità '$v$' tale che l'elettrone si sposta fino alla piastra B e quando raggiunge la piastra B la sua velocità è zero. [2]
 
-**b) ** Un blocco di ghiaccio di peso di 20 gm, a -10°C, viene mescolato con 100 gm di acqua a 10°C, in un flacone isolato. Qual è la quantità di acqua nel flacone quando si raggiunge l'equilibrio? [3]
+**b)** Un blocco di ghiaccio di peso di 20 gm, a -10°C, viene mescolato con 100 gm di acqua a 10°C, in un flacone isolato. Qual è la quantità di acqua nel flacone quando si raggiunge l'equilibrio? [3]
 
 **Total 5 marchi**
 
@@ -2812,13 +2812,13 @@ Find the match sticks required to make the a) 5th diagram, b) the nth diagram [2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**a) ** Trova una soluzione a numeri interi positivi per la seguente equazione. Mostrate il vostro lavoro.
+**a)** Trova una soluzione a numeri interi positivi per la seguente equazione. Mostrate il vostro lavoro.
 
 $$x^2 + 615 = 2^n$$
 
 [3]
 
-**b) ** Esaminare il modello dei fiammiferi
+**b)** Esaminare il modello dei fiammiferi
 
 <!--fig:start-->
 **Quesito 68**

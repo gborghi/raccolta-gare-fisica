@@ -732,7 +732,7 @@ b) Calcular donde cae cada pedazo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'autorità locale - 6. Capitale federale verde**
+L'autorità locale - 6. Capitale federale verde
 
 Una granata di massa $M = 6Kg$ con velocità iniziale $V_0 = 200 \frac{m}{seg}$ viene lanciata formando un angolo $\alpha = 60^\circ$ con la orizzontale. Quando raggiunge la massima altezza esplode in tre pezzi uguali le cui velocità sono mostrate nella figura 2.
 a) Se $v_1 = 10 \frac{m}{seg}$ e $v_2 = 50 \frac{m}{seg}$ calcolano la velocità $v_3$ e l'angolo che forma con la orizzontale.
@@ -860,7 +860,7 @@ b) Desde que altura respecto del punto mas bajo, debera dejarse caer para que la
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'autorità locale - 8. Neuquen Verde**
+L'autorità locale - 8. Neuquen Verde
 
 Un piccolo blocco di massa m = 20 gr. scivola in una via senza rughe in forma di riscia. Parte del riposo da un'altezza h = 5 m.
 
@@ -1885,7 +1885,7 @@ Calcular la tension del cable y las fuerzas vertical y horizontal que actuan sob
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fase locale - 27. Junin, Mendoza Verde
+**Fase locale - 27. Junin, Mendoza Verde**
 
 Calcolare la tensione del cavo e le forze verticali e orizzontali che agiscono sul giosso della gru della figura.
 
@@ -1929,7 +1929,7 @@ Resistencia de la varilla = 1000 $Kg/cm^2$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fase locale - 28. Junin, Mendoza Verde
+**Fase locale - 28. Junin, Mendoza Verde**
 
 Un corpo di 10 Kg è legato a un rotore da un bastone che forma $90^\circ$ con esso. Questo rotore, inizialmente a riposo, inizia a girare con un'accelerazione costante di $1m/s^2$. Calcolare il tempo necessario per tagliare la bacchetta disprezzando il suo peso e la sua estensione.
 Lunghezza della canna = 1 m
@@ -3088,7 +3088,7 @@ Ignorar la interaccion de las cargas de los extremos opuestos de la barra.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fase locale - 49. Junin, Mendoza Verde
+**Fase locale - 49. Junin, Mendoza Verde**
 
 La figura mostra una barra lunga, isolante, senza massa, di lunghezza l, pivotata al centro e sbalzata da un peso W che si trova a una distanza x dal suo estremo sinistro. All'estremità sinistra della barra si pone una carica positiva q, e alla destra un'altra di 2 q.
 A distanza h, direttamente sotto queste cariche, vengono poste due cariche Q positive.
@@ -4917,7 +4917,7 @@ agua
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'Istituto locale di sperimentazione - 79. Buenos Aires Verde**
+L'Istituto locale di sperimentazione - 79. Buenos Aires Verde
 
 Si chiede di calcolare il peso specifico di un pezzo di cork (legno) e di una parte di glicerina.
 Fornisce:

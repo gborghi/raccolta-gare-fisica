@@ -58,7 +58,7 @@ b) Monte o seu kit experimental de acordo com o esquema. Para cada mola (uma de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**ANALISSO STATICO  PARTE I **
+**ANALISSO STATICO  PARTE I**
 
 Un oscillatore di massa-mola in equilibrio sotto l'azione della gravità è utilizzato in questa prova. La molla ha una forza di ripristino contraria e direttamente proporzionale alla sua densità $x$. Questa proprietà della mola è conosciuta come legge di Hooke. Il modulo di forza è rappresentato da:
 
@@ -212,7 +212,7 @@ b) Para cada mola calcule o período médio de oscilação $\bar{T}$. Apresente 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**ANALISSO DINAMICO  PARTE III (a) e (b) **
+**ANALISSO DINAMICO  PARTE III (a) e (b)**
 
 Se il sistema massa-mola viene tolto dall'equilibrio, inizierà a oscillare periodicamente intorno al punto di equilibrio. Il comportamento può essere rappresentato da una funzione armonica a seconda del tempo $t$:
 
@@ -273,7 +273,7 @@ Use $\pi^2 \approx 10$ e, com os resultados obtidos na Parte III, calcule o valo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**ANALISSO DINAMICO  PARTE III (c) **
+**ANALISSO DINAMICO  PARTE III (c)**
 
 L'oscillatore di massa mola dà il valore della frequenza $f$ con l'espressione:
 

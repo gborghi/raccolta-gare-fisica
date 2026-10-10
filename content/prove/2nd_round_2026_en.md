@@ -37,7 +37,7 @@ Estimate how many litres of water fall down the Rhine Falls each year.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.1 (MC) **
+**Domanda 1.1 (MC)**
 
 Calcola quanti litri di acqua cadono ogni anno nelle cascate del Reno.
 
@@ -81,7 +81,7 @@ Three celestial objects approximated as point masses with the masses $m_1$, $m_2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.2 (MC) **
+**Domanda 1.2 (MC)**
 
 Tre oggetti celesti approssimati come masse puntine con le masse $m_1$, $m_2$ e $m_3$ sono in una linea temporale $t_0$. La massa $m_2$ è al centro. Tra $m_1$ e $m_2$ e tra $m_2$ e $m_3$ è una distanza $r$, rispettivamente. Le velocità iniziali di $m_1$ e $m_3$ sono opposte, perpendicolari all'asse attraverso i tre centri di gravità, e hanno la stessa magnitudine $v$. Qual è la massa massima di $m_2$ per ottenere un movimento stabile?
 
@@ -125,7 +125,7 @@ Two semi-transparent mirrors, each reflecting 75% of the incident light, are pos
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.3 (MC) **
+**Domanda 1.3 (MC)**
 
 Due specchi semitransparenti, che riflettono ciascuno il 75% della luce incidente, sono posizionati paralleli l'uno all'altro a una distanza di 1 m. Ora un raggio di luce è diretto verso il primo specchio, che si riflette avanti e indietro tra i specchi in un modello in zigzag. Quale percentuale della luce è stata persa dopo 9 riflessioni?
 
@@ -170,7 +170,7 @@ A particle moves randomly between the three positions A, B and C. From one time 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.4 (MC) **
+**Domanda 1.4 (MC)**
 
 Una particella si muove in modo casuale tra le tre posizioni A, B e C. Da un passo temporale ($t = 1$, unità arbitrarie) all'altro, la probabilità che rimanga nella stessa posizione è $\frac{1}{5}$ e la probabilità che si muova in qualsiasi delle altre posizioni è $\frac{2}{5}$. Diciamo che la nostra particella inizia a $t_0 = 0$ nella posizione A. Qual è la probabilità che sia in posizione B a $t = 2$?
 
@@ -255,7 +255,7 @@ A pendulum is suspended to the ceiling of an elevator. When the elevator starts 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.6 (MC) **
+**Domanda 1.6 (MC)**
 
 Un pendolo è sospeso al soffitto di un ascensore. Quando l'ascensore inizia ad accelerare verso l'alto, la frequenza del pendolo
 
@@ -307,7 +307,7 @@ Which informations does the powermeter use to calculate Remco's power?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.7 (MC) **
+**Domanda 1.7 (MC)**
 
 Mentre Remco guida in bicicletta, il powermeter della sua moto ha accesso ai seguenti dati:
 
@@ -364,7 +364,7 @@ Look at the beam scale below. What does the scale show when the weight on the le
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.8 (MC) **
+**Domanda 1.8 (MC)**
 
 Guarda la scala di raggi qui sotto. Cosa mostra la scala quando il peso sul lato sinistro viene spostato nella posizione più esterna della barra? Gli elementi di scala individuali sono rigidi, con cerniere attaccate ai punti contrassegnati in rosso.
 
@@ -463,7 +463,7 @@ When an electron in an excited atom makes a transition from a higher to a lower 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.10 (MC) **
+**Domanda 1.10 (MC)**
 
 Quando un elettrone in un atomo eccitato fa una transizione da un livello di energia più alto a un livello di energia più basso, l'atomo emette luce la cui frequenza è proporzionale alla differenza di energia tra i due livelli. Consideriamo un atomo con tre stati energetici. La frequenza della luce emessa durante la transizione dallo stato $A$ allo stato $B$ deve essere indicata da $f_{AB}$. Qual è la relazione tra $f_{21}$, $f_{31}$ e $f_{32}$?
 
@@ -565,7 +565,7 @@ A glacier moves at a constant speed over a subsurface. Consider a cuboid ice pla
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.12 (MC) **
+**Domanda 1.12 (MC)**
 
 Un ghiacciaio si muove a una velocità costante sopra un sottosuolo. Considerate una piastra di ghiaccio cuboide con una lunghezza laterale quadrata di base di 100 m e un'altezza di 10 m. Il coefficiente di attrito di scorrere è $\mu = 0.09$, il sottosuolo non rimuove il calore e la parte superiore della calotta glaciale ha una temperatura costante di $-10\,°\text{C}$. La densità del ghiaccio è $\rho = 900\,\text{kg}\cdot\text{m}^{-3}$ e la conducibilità termica del ghiaccio è $\lambda = 2.3\,\text{W}\cdot\text{m}^{-1}\cdot\text{K}^{-1}$. A che velocità inizia a sciogliere il ghiaccio?
 
@@ -665,7 +665,7 @@ $$U(T) = 3N\hbar\omega_E\left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\om
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.14 (MC) **
+**Domanda 1.14 (MC)**
 
 La capacità termica dei solidi è prevista dalla legge di Dulong-Petit come indipendente dalla temperatura. Tuttavia, gli esperimenti hanno dimostrato che a basse temperature, la capacità termico di un solido dipende dalla temperatura. Il modello di Einstein spiega queste osservazioni utilizzando la meccanica quantistica. Quale dei seguenti risultati è la capacità di calore nel modello di Einstein utilizzando l'energia interna data come in (1)?
 
@@ -711,7 +711,7 @@ What current will flow through an electrical overhead power line if a tension of
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.15 (MC) **
+**Domanda 1.15 (MC)**
 
 Qual è la corrente che fluirà attraverso una linea elettrica aerea se viene applicata una tensione di 100 kV? Il cavo cilindrico è lungo $l = 10\,\text{km}$, ha un raggio di 20 mm e una resistenza specifica di $\rho = 3.17 \times 10^{-8}\,\Omega\cdot\text{m}$.
 
@@ -762,7 +762,7 @@ What force acts on the charge $Q$ when one of the charges $q$ is removed from th
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.16 (MC) **
+**Domanda 1.16 (MC)**
 
 Qual è la forza che agisce sulla carica $Q$ quando una delle cariche $q$ viene rimossa dalla configurazione seguente, dove $r$ è la distanza da $Q$ a ciascuna delle cariche $q$?
 
@@ -814,7 +814,7 @@ A particle with mass $m = 3 \times 10^{-15}\,\text{kg}$ and charge $q = e$ enter
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.17 (MC) **
+**Domanda 1.17 (MC)**
 
 Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ entra in un condensatore quadrato di piastra con lunghezza laterale $l = 0.5\,\text{m}$, distanza $d = 10\,\text{cm}$ tra le piastre e carica $Q = 0.2\,\text{C}$. Supponendo che la particella entri nel condensatore perpendicolare al suo lato e a equidistanza delle due lastre, qual è la velocità minima necessaria per non colpire una lastra? Puoi ignorare la gravità e la resistenza dell'aria.
 
@@ -920,7 +920,7 @@ A charged particle with mass $m$ and charge $q$ is located on a circular path wi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.19 (MC) **
+**Domanda 1.19 (MC)**
 
 Una particella carica con massa $m$ e carica $q$ si trova su un percorso circolare con raggio $r$ in un campo magnetico omogeneo di forza $B$. Come cambia il raggio del percorso circolare della particella se la sua energia cinetica è raddoppiata nella direzione del movimento?
 
@@ -973,7 +973,7 @@ In the rope park, Emmy races from one tree to another on a zipline. The contact 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.20 (MC) **
+**Domanda 1.20 (MC)**
 
 Nel parco delle corde, Emmy corre da un albero all'altro su una zipline. Il contatto tra la corda e la polla crea un forte rumore di tormento con una frequenza $f_\text{Emmy}$. Un osservatore al punto di partenza della linea di ritiro sente una frequenza $f_0$ e un osservatore al punto finale della linea di ritiro sente una frequenza $f_1$. Come si relazionano le frequenze $f_\text{Emmy}$, $f_0$ e $f_1$?
 
@@ -1024,7 +1024,7 @@ Three consecutive resonant frequencies of an organ pipe have the values 1310 Hz,
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 1.21 (MC) **
+**Domanda 1.21 (MC)**
 
 Le tre frequenze di risonanza consecutive di un tubo di organo hanno i valori 1310 Hz, 1834 Hz e 2358 Hz. Questa tubazione di organo è chiusa da una parte o aperta da entrambe le estremità?
 
@@ -1163,7 +1163,7 @@ i. (1.5 pts) Calculate how far the water splashes from the centre of the umbrell
 
 Facciamo dei calcoli sulle ombrellone e sull'acqua sulle ombrellone. Il modello dell'ombrello è un disco piatto e rotondo con massa $M$ e raggio $R$. Durante tutto il compito, trascuriamo la tensione superficiale dell'acqua in particolare.
 
-**Parte A. Il parapluvia stazionario / Sta piovendo ** (3,75 punti)
+**Parte A. Il parapluvia stazionario / Sta piovendo** (3,75 punti)
 
 Innanzitutto, consideriamo una goccia di pioggia che cade dal cielo. Le gocce di pioggia sono costituite da acqua (densità: $\rho$) e presumiamo che le gocce di pioggia siano sferiche. La resistenza dell'aria che agisce su una goccia di pioggia cadente in funzione della velocità è $F = -\gamma v^2 A$, dove $\gamma$ è una costante e $A$ è l'area trasversale della goccia di pioggia perpendicolare alla direzione di caduta.
 
@@ -1175,7 +1175,7 @@ ii. (1,25 pts) La forza che deve essere applicata per tenere il parapetto è $F_
 
 iii. (1 pt) Calcolare il numero di gocce sul parabrezza per unità di tempo come funzione di $g$, $\dot{m}$, $\gamma$, $\rho$ e di qualsiasi altra variabile utilizzata.
 
-**Parte B. Il parapenone a rotazione ** (10,75 punti)
+**Parte B. Il parapenone a rotazione** (10,75 punti)
 
 Mentre l'acqua si accumula sullo ombrello piatto di Davide e goccia giù dal bordo, Davide inizia a girare l'ombrello a una velocità angolare costante $\omega$, gettando via l'acqua. Mentre Davide camminava nella pioggia per molto tempo, si è raggiunto uno stato di equilibrio. Per calcoli semplificati, modelliamo il frattamento come segue: il frattamento nella direzione radiale tra l'acqua e l'ombrello è trascurabile, il frattamento tangenziale tra l'acqua e l'ombrello è infinito. Ciò significa che tutta l'acqua può muoversi solo in direzione radial rispetto all'ombrello. Allo stesso modo, si può immaginare l'acqua in solchi radiali sul parapello, che forzano l'acqua su un percorso puro radiale e retto (da una prospettiva di rotazione co-rotante).
 
@@ -1282,7 +1282,7 @@ iv. (1.5 pts) Sketch the temperature $T(y)$ as a function of the height $y$.
 
 **Problema lungo 2.2: Mirage inferiore** (16 punti)
 
-**Parte A. Luce e supporto ** (3 punti)
+**Parte A. Luce e supporto** (3 punti)
 
 i. (1 pt) Un raggio che si propaga nel mezzo 1 con indice di rifrazione $n_1$ colpisce un'interfaccia con un mezzo 2 con indice di rifrazione $n_2$ con un angolo $\theta_1$ rispetto alla superficie normale (vedi figura 2. A.1). Qual è la dipendenza dell'angolo di uscita $\theta_2$ rispetto a $\theta_1$, $n_1$ e $n_2$?
 
@@ -1290,7 +1290,7 @@ ii. (1.5 pts) Let there be $N$ many materials with parallel horizontal interface
 
 iii. (0,5 punti) Trova una funzione $f(\theta_i, n_i)$ tale da $f(\theta_i, n_i) = f(\theta_1, n_1) = C = \text{constant}$.
 
-**Parte B. Indice di rifrazione ** (5,5 punti)
+**Parte B. Indice di rifrazione** (5,5 punti)
 
 Durante un cosiddetto miraggio inferiore la luce si piega a causa di un indice di rifrazione inomogeneo dell'aria. Questo è causato da un gradiente di temperatura tra il terreno caldo e l'aria più fredda sopra di esso. In giornate calde e soleggiate, ciò comporta strisce in strada, che sembrano bagnate o come uno specchio (vedi Figura 1). B.1).
 
@@ -1420,7 +1420,7 @@ $$\text{for } -1 < x < 1:\quad \tanh\!\left(\frac{1}{2}\ln\frac{1-x}{1+x}\right)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema lungo 2.3: cristallo paramagnetico ** (16 punti)
+**Problema lungo 2.3: cristallo paramagnetico** (16 punti)
 
 Un cristallo è costituito da $N$ particelle magnetiche identiche (ma distinguibili), non interagiscono, ognuna con un momento magnetico di intensità $\mu$. Queste particelle sono collocate in un campo magnetico esterno uniforme $B$. Ogni momento magnetico può indicare sia parallelo che antiparallelo alla direzione del campo magnetico. Un esempio di una possibile configurazione di questo cristallo è illustrato nella figura 1. L'energia associata a ciascuna particella dipende dalla sua orientamento: un momento magnetico allineato al campo magnetico ha energia $-\mu B$, mentre uno allineato al campo ha energia $+\mu B$.
 
@@ -1428,7 +1428,7 @@ In questo problema, si studia come le proprietà termodinamiche macroscopiche de
 
 *Signore: Per alcune attività si possono trovare utili identità alla fine del problema.*
 
-** Parte A. Energia del sistema** (4 punti)
+**Parte A. Energia del sistema** (4 punti)
 
 Prima di tutto studiamo l'energia del sistema. Chiamiamo $N_+$ e $N_-$ il numero di particelle con il momento magnetico allineato parallelo e antiparallelo rispettivamente alla direzione del campo magnetico.
 
@@ -1438,7 +1438,7 @@ ii. (2 punti) Per quali valori di $N_+$ e $N_-$ il valore assoluto dell'energia 
 
 iii. (1 pt) Esprimere $N_+$ e $N_-$ come funzioni di $N$ e il parametro $\epsilon = \dfrac{E}{N\mu B}$.
 
-**Parte B. Entropia e temperatura ** (8 punti)
+**Parte B. Entropia e temperatura** (8 punti)
 
 Per un valore fisso dell'energia del sistema $E$ ci sono molteplici configurazioni diverse del cristallo che hanno questa energia. Chiamiamo questo numero di configurazioni per un dato valore di energia $\Omega(E)$.
 

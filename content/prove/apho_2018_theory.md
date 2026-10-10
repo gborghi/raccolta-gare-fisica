@@ -227,7 +227,7 @@ La soluzione di questa equazione è $x = x_0\cos(\omega t + \varphi)$. Qui devon
 
 Infatti il tasso di ammortizzazione dell'energia $\gamma_\omega$ è indipendente dalle orbite degli elettroni. Adotteremo quindi un altro modello semplice in cui il centro nuvola di elettroni esegue un movimento circolare in assenza del campo laser ma con la frequenza $\omega$ e la velocità $v$. Essendo accelerato, l'elettrone irradia un'onda elettromagnetica con potenza data dalla formula di Larmor $P_L = \dfrac{1}{6\pi\varepsilon_0}\dfrac{e^2 a^2}{c^3}$ con $a$ che denota l'accelerazione. Si suppone che la forza di ammortizzazione sia correlata al tasso di ammortizzazione $\gamma_\omega$ come $F_d = -m_e\gamma_\omega v$. Supponiamo anche che l'energia totale dell'elettrone sia grande rispetto alla perdita di energia per ciclo.
 
-**5.1 ** *(1.0pt) * Trova il tasso di ammortizzazione energetica $\gamma_\omega$ in termini di $e$, $\varepsilon_0$, $c$, $m_e$ e $\omega$.
+**5.1** *(1.0pt) * Trova il tasso di ammortizzazione energetica $\gamma_\omega$ in termini di $e$, $\varepsilon_0$, $c$, $m_e$ e $\omega$.
 
 ##### 6 (0,5 punti)
 
@@ -450,7 +450,7 @@ Uno strato monatomo in grafite è chiamato graphene e ha spessore monoatomo. La 
 
 ![[APhO_2018_theory_Q2_p3_f4.png]]
 
-> **Figura 4. ** Graphene.
+> **Figura 4.** Graphene.
 
 ![[APhO_2018_theory_Q2_p4_f5.png]]
 
@@ -462,11 +462,11 @@ Ora esaminiamo alcune proprietà meccaniche di un nanotubo di carbonio che ha 27
 
 **2.2** *(0,25pt) * Calcolare il valore della costante di molla $k$.
 
-**2.3 ** *(0.5pt) * Calcolare il valore del modulo del nanotubo di carbonio Young.
+**2.3** *(0.5pt) * Calcolare il valore del modulo del nanotubo di carbonio Young.
 
 Per stimare la resistenza alla trazione, supponiamo che quando l'atomo di carbonio che collega la "primavera" ha l'estensione massima $x_{max}$ l'energia potenziale armonica sia uguale all'energia di legame.
 
-**2.4 ** *(0.5pt) * Calcolare il valore della estensione massima $x_{max}$ della molla.
+**2.4** *(0.5pt) * Calcolare il valore della estensione massima $x_{max}$ della molla.
 
 **2.5** *(0,5pt) * Estimare la resistenza alla trazione $\sigma_0$ del nanotubo di carbonio.
 
@@ -492,7 +492,7 @@ L'applicazione principale dell'ascensore spaziale è l'uso dell'energia di rotaz
 
 La costruzione di una torre di altezza superiore a $r_C$ è necessaria se vogliamo usarla per lanciare navi spaziali in viaggi verso altri pianeti. Dato che l'altezza della torre è di 107000 km dal centro della Terra.
 
-**4.2 ** *(1.0pt) * Trova le distanze minime e massime dal Sole che una sonda spaziale rilasciata dal riposo dalla cima della torre può raggiungere. Date le vostre risposte in unità astronomiche. Negli aspetti della gravità della Terra a questa altezza.
+**4.2** *(1.0pt) * Trova le distanze minime e massime dal Sole che una sonda spaziale rilasciata dal riposo dalla cima della torre può raggiungere. Date le vostre risposte in unità astronomiche. Negli aspetti della gravità della Terra a questa altezza.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZTXfmssedfjKUCVsaxvwDigX1FbbF-f4/view)
 
@@ -734,13 +734,13 @@ Per il calcolo numerico, i dati sulle proprietà termiche ed elettriche dei mate
 | A | Bi$_2$Te$_{2.7}$Se$_{0.3}$ | $1.0 \times 10^{-5}$ | 1.4 |
 | B | Bi$_{0.5}$Sb$_{1.5}$Te$_3$ | $1.0 \times 10^{-5}$ | 1.4 |
 
-> **Tabella 1: ** Parametri dei materiali utilizzati nella termoparta (a temperatura ambiente)
+> **Tabella 1:** Parametri dei materiali utilizzati nella termoparta (a temperatura ambiente)
 
 | Thermocouple AB | Length (m) | Seebeck's coefficient $\alpha$ ($\mu$V$\cdot$K$^{-1}$) |
 |-----------------|------------|--------------------------------------------------------|
 |  | 0.02 | 420 |
 
-> **Tabella 2: ** Parametri della termopoppia.
+> **Tabella 2:** Parametri della termopoppia.
 
 ### A. Trasferimento di calore e generatore termoelettrico
 

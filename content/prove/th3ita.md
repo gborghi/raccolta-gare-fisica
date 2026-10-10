@@ -54,7 +54,7 @@ M(16O)
 15.99491 a.m.u.
 
 <!--fig:start-->
-**p.1 **  Nucleus as a nucleon ball and cubic lattice
+**p.1**  Nucleus as a nucleon ball and cubic lattice
 ![[_attachments/th3ITA/th3ITA_p1_f1.png]]
 <!--fig:end-->
 

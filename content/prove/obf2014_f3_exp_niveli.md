@@ -43,7 +43,7 @@ b) Monte o kit experimental de acordo com o esquema. Para cada mola, meça o val
 
 <div class="qlang-split" data-lang="it"></div>
 
-**ANALISSO STATICO  PARTE I **
+**ANALISSO STATICO  PARTE I**
 
 Un oscillatore di massa-mola in equilibrio sotto l'azione della gravità è utilizzato in questa prova. La molla ha una forza di ripristino contraria e direttamente proporzionale alla sua distesa (legge di Hooke). Per una molla reale prematuramente tensa, il modulo di forza è:
 

@@ -98,7 +98,7 @@ g) Ottenere l'accelerazione della barra causata dal campo magnetico e, nel caso 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P3. The following table shows the results of the calculations:
+**P3. The following table shows the results of the calculations:**
 
 The circuit shown in the figure contains two parallel metal rails separated by a distance $d$, which are held on a non-conducting horizontal table. Each rail has a length $2L$, a total electrical resistance $r$ and its resistance is uniform throughout the rail. Its ends are connected to the two ideal batteries (without internal resistance) of the figure, of electromotive force $E$ each, by means of scornful resistance cables.
 

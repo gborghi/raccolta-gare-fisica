@@ -187,7 +187,7 @@ Per tutti i compiti della parte C e della parte D, si considera il sistema di tu
 
 #### Parte C. Effetto martello-acqua dovuto alla chiusura rapida della valvola di controllo del flusso (1,8 punti)
 
-Si riferisce al sistema di tubi di riserva in Figura. 1. Quando il flusso di liquido nel tubo viene ostacolato dalla chiusura completa o parziale della valvola, un'onda di pressione inizia a viaggiare a monte. Si riflette all'estremità del serbatoio della tubazione e si riporta alla valvola e si riflette lì. Poi viene generata un'altra onda di pressione e si ripete il processo appena descritto. Questo provoca una sequenza di improvvisi solti di pressione e di scarsezza per l'elemento liquido accanto alla valvola e viene indicato come ** martellamento idrico**.
+Si riferisce al sistema di tubi di riserva in Figura. 1. Quando il flusso di liquido nel tubo viene ostacolato dalla chiusura completa o parziale della valvola, un'onda di pressione inizia a viaggiare a monte. Si riflette all'estremità del serbatoio della tubazione e si riporta alla valvola e si riflette lì. Poi viene generata un'altra onda di pressione e si ripete il processo appena descritto. Questo provoca una sequenza di improvvisi solti di pressione e di scarsezza per l'elemento liquido accanto alla valvola e viene indicato come **martellamento idrico**.
 
 > **C.1** Si riferisce alla figura. 1 e Fig. 2. Trova la pressione $P_0$ e la velocità $v_0$ del flusso costante nel tubo quando la valvola T è completamente aperta ($r = R$). Risposte in termini di $\rho_0$, $g$, $h$ e $P_a$. *(0.6pt)*
 
@@ -329,7 +329,7 @@ Problem **C.3** shows that a photon may split into two photons which when passin
 
 ### Tracciamento dei raggi e generazione di luce intricata
 
-**Figura utile: **
+**Figura utile:**
 
 $$\vec{A} \times (\vec{B} \times \vec{C}) = \vec{B}\,(\vec{A} \cdot \vec{C}) - \vec{C}\,(\vec{A} \cdot \vec{B})$$
 
@@ -345,7 +345,7 @@ Se il mezzo è isotropo, abbiamo $\vec{P} = \chi\epsilon_0\vec{E}$ e $\vec{D} = 
 
 Considera un'onda di luce a piana con frequenza angolare $\omega$ e vettore d'onda $\vec{k}$ in un mezzo dielettrico isotropo omogeneo.
 
-> **A.1 ** Esprimere la sua velocità di fase $v_p$ in termini di $\epsilon$ e $\mu_0$. *(0.4pt)*
+> **A.1** Esprimere la sua velocità di fase $v_p$ in termini di $\epsilon$ e $\mu_0$. *(0.4pt)*
 
 > **A.2** Qual è l'indice di rifrazione $n$ del mezzo dielettrico per l'onda? *(0.2pt)*
 
@@ -357,13 +357,13 @@ We now assume the dielectric medium to be uniaxial, i.e, it is electrically anis
 
 > **B.1** Supponiamo che il vettore d'onda $\vec{k}$ di un'onda di luce a piano monocromatico sia nel piano $xz$ in modo che $\vec{k} = k(\sin\theta, 0, \cos\theta)$. In ciascun angolo $\theta$, quali direzioni di $\vec{D}$ e $\vec{B}$ sono ammesse per l'onda luminosa? Trova tutti gli indici di rifrazione possibili ed esprimere gli indici di rifrazione in termini di $\theta$, $n_o$ e $n_e$. Trova l'angolo $\theta$ per il quale è consentito un solo valore per l'indice di rifrazione. *(1.5pt)*
 
-> **B.2** La polarizzazione di un'onda luminosa, cioè la direzione del suo campo elettrico $\vec{E}$, può essere perpendicolare (chiamata onda ordinaria o raggio *) o parallela (chiamata onda extraordinaria o raggio **) al piano $xz$. Per ciascuna delle onde di luce che si trovano in **B.1**, specificare la sua polarizzazione come vettore unitario e indicare se si tratta di un'onda ordinaria o straordinaria. Calcolare anche $\tan\alpha$, dove $\alpha$ è l'angolo tra $\vec{E}$ e $\vec{D}$ ($\alpha$ è positivo quando si passa da $\vec{E}$ a $\vec{D}$ è nel senso orario). *(0.8pt)*
+> **B.2** La polarizzazione di un'onda luminosa, cioè la direzione del suo campo elettrico $\vec{E}$, può essere perpendicolare (chiamata onda ordinaria o raggio *) o parallela (chiamata onda extraordinaria o raggio **) al piano $xz$. Per ciascuna delle onde di luce che si trovano in** B.1**, specificare la sua polarizzazione come vettore unitario e indicare se si tratta di un'onda ordinaria o straordinaria. Calcolare anche $\tan\alpha$, dove $\alpha$ è l'angolo tra $\vec{E}$ e $\vec{D}$ ($\alpha$ è positivo quando si passa da $\vec{E}$ a $\vec{D}$ è nel senso orario). *(0.8pt)***
 
 > **B.3** Estendere i risultati di **B.1** e **B.2** al caso generale quando l'angolo tra $\vec{k}$ e la direzione positiva $z$ è ancora $\theta$, ma $\vec{k}$ non è nel piano $xz$. Trova tutti i valori possibili degli indici di rifrazione e delle polarizzazioni corrispondenti. *(0.6pt)*
 
 In un mezzo uniaxiale, la direzione di $\vec{k}$ di un'onda luminosa può differire dalla direzione del raggio luminoso. La velocità di fase dell'onda è ancora data da $c/n$ con $n$ essendo l'indice di rifrazione lungo $\vec{k}$, mentre la velocità del raggio è definita congiuntamente dalla direzione e dal tasso di flusso di energia.
 
-> ** B.4 ** Dopo i problemi ** B.1-3 **, si deve considerare un'onda luminosa con $\vec{k} = k(\sin\theta, 0, \cos\theta)$. L'angolo tra $\hat{k} \equiv \vec{k}/k$ e la direzione del raggio, $\hat{S}$, sia $\alpha_r$ ($\alpha_r$ è positivo quando si passa da $\hat{S}$ a $\hat{k}$ in senso orario). Trova tutti i valori possibili di $\tan\alpha_r$, velocità $v_r$ del raggio e $\hat{S}$. Con questi risultati, esprimere l'indice di raggi $n_s = c/v_r$ in termini di $\hat{S}$, $\hat{x}$, $\hat{z}$, $n_o$ e $n_e$. *(0.8pt)*
+> **B.4** Dopo i problemi **B.1-3**, si deve considerare un'onda luminosa con $\vec{k} = k(\sin\theta, 0, \cos\theta)$. L'angolo tra $\hat{k} \equiv \vec{k}/k$ e la direzione del raggio, $\hat{S}$, sia $\alpha_r$ ($\alpha_r$ è positivo quando si passa da $\hat{S}$ a $\hat{k}$ in senso orario). Trova tutti i valori possibili di $\tan\alpha_r$, velocità $v_r$ del raggio e $\hat{S}$. Con questi risultati, esprimere l'indice di raggi $n_s = c/v_r$ in termini di $\hat{S}$, $\hat{x}$, $\hat{z}$, $n_o$ e $n_e$. *(0.8pt)*
 
 Si consideri la propagazione di un raggio luminoso da A a B attraverso un'interfaccia tra un mezzo isotropo, etichettato 1, e un mezzo anisotropo, etichettato 2, come mostrato nella figura. 1. L'interfaccia coincide con il piano $yz$, mentre il piano di incidenza è il piano $xz$. L' angolo di incidenza deve essere $\theta_1$. L'indice di rifrazione del mezzo 1 è $n$, mentre gli indici di rifrazione del mezzo 2 per gli assi $z_2$, $y_2$, $x_2$ sono $n_e$, $n_o$ e $n_o$, rispettivamente. Qui l'asse $y_2$ coincide con l'asse $y$. Il principio di Fermat afferma che il tempo di propagazione per il percorso che il raggio di luce va da A a B è minimo. Per la luce con polarizzazione parallela al piano $xz$ e incidente all'angolo $\theta_1$, il principio di Fermat porta alla seguente equazione:
 
@@ -386,11 +386,11 @@ Supponiamo che, poiché $\chi^{(2)}_{ijk}$ non sono tutti zero, il campo elettri
 
 > **C.1** Trovare tutte le possibili relazioni (conosciute come * condizioni di abbinamento di fase*) tra queste frequenze angolari e vettori d'onda. Considerando la luce come composta da fotoni, quali tipi di leggi di conservazione queste condizioni implicano per i tre fotoni coinvolti? Scrivere le equazioni che esprimono queste leggi di conservazione nel caso in cui un fotone con frequenza angolare $\omega$ e vettore d'onda $\vec{k}$ si divida in due fotoni di frequenze angolari $\omega_1$ e $\omega_2$, che si propaga con vettori d'onda $\vec{k}_1$ e $\vec{k}_2$, rispettivamente. *(0.8pt)*
 
-> **C.2 ** Considera un'onda di luce in un mezzo uniaxiale. Indicare un raggio ordinario come **o** e un raggio straordinario come **e**. Esistono otto possibili modi di divisione per l'onda luminosa: $\mathbf{o} \to \mathbf{o} + \mathbf{o}$, $\mathbf{o} \to \mathbf{e} + \mathbf{o}$, $\mathbf{o} \to \mathbf{o} + \mathbf{e}$, $\mathbf{o} \to \mathbf{e} + \mathbf{e}$, $\mathbf{e} \to \mathbf{o} + \mathbf{o}$, $\mathbf{e} \to \mathbf{e} + \mathbf{o}$, $\mathbf{e} \to \mathbf{o} + \mathbf{e}$ e $\mathbf{e} \to \mathbf{e} + \mathbf{e}$. Supponiamo che gli indici di rifrazione $n_o$ e $n_e$ siano entrambe funzioni di aumento di $\omega$. Utilizzando le stesse notazioni per i vettori d'onda come nel problema **C.1** e considerando che $\vec{k}$, $\vec{k}_1$ e $\vec{k}_2$ sono collineari, indicare quale dei 8 modi di divisione non è possibile. *(0.8pt)*
+> **C.2** Considera un'onda di luce in un mezzo uniaxiale. Indicare un raggio ordinario come **o** e un raggio straordinario come **e**. Esistono otto possibili modi di divisione per l'onda luminosa: $\mathbf{o} \to \mathbf{o} + \mathbf{o}$, $\mathbf{o} \to \mathbf{e} + \mathbf{o}$, $\mathbf{o} \to \mathbf{o} + \mathbf{e}$, $\mathbf{o} \to \mathbf{e} + \mathbf{e}$, $\mathbf{e} \to \mathbf{o} + \mathbf{o}$, $\mathbf{e} \to \mathbf{e} + \mathbf{o}$, $\mathbf{e} \to \mathbf{o} + \mathbf{e}$ e $\mathbf{e} \to \mathbf{e} + \mathbf{e}$. Supponiamo che gli indici di rifrazione $n_o$ e $n_e$ siano entrambe funzioni di aumento di $\omega$. Utilizzando le stesse notazioni per i vettori d'onda come nel problema **C.1** e considerando che $\vec{k}$, $\vec{k}_1$ e $\vec{k}_2$ sono collineari, indicare quale dei 8 modi di divisione non è possibile. *(0.8pt)*
 
 Considera un raggio **e** che viaggia lungo la direzione $z'$ con il vettore d'onda $\vec{k}$ e $\omega = \Omega_p$ in un mezzo uniaxiale con indice di rifrazione $n_e < n_o$. Supponiamo che, in una divisione collineare $\mathbf{e} \to \mathbf{e} + \mathbf{o}$, le condizioni di abbinamento di fase siano realizzate con $k_1 = K_e$, $\omega_1 = \Omega_e$, $k_2 = K_o$ e $\omega_2 = \Omega_o$. Qui i sottoscrizioni 1 e 2 si riferiscono al raggio **e** e al raggio **o**. $\vec{k}_1$, $\vec{k}_2$ e $\vec{k}$ tutti punti nella direzione $z'$. Come mostrato nella figura. 2(a), l'asse ottico (OA) del mezzo si trova nel piano $x'z'$ e fa un angolo $\theta < \pi/2$ con l'asse $z'$. Pertanto, $n_e$ è una funzione di $\omega$ e $\theta$, cioè $n_e = n_e(\omega, \theta)$. Per lo stesso raggio **e** entrante con vettore d'onda $\vec{k}$ e $\omega = \Omega_p$, supponiamo che la sua divisione non collineare in raggi $\mathbf{e} + \mathbf{o}$ faccia separare questi ultimi due raggi ma rimanga su due coni con $\omega_1 = \omega_2 = \Omega$, $k_1 = k_2$, come mostrato alla figura. 2(b). Si noti che nella divisione collineare $\Omega_e$ è già vicino a $\Omega_o$, e qui $\Omega$ è solo leggermente inferiore a $\Omega_e$. In un piano perpendicolare a $\vec{k}$, due cerchi sui coni per $\vec{k}_1$ e $\vec{k}_2$ si intersecano nei punti $a$ e $b$ con la linea $\overline{ab}$ parallela all'asse $y'$. Come mostrato nella figura. 2(a), $\vec{k}_\alpha$ ($\alpha = 1, 2$) fa un angolo $\theta_\alpha$ con l'asse ottica e ha coordinate angolari $(\psi_\alpha, \phi_\alpha)$ con $\vec{k}_{\alpha\perp}$ che è la sua proiezione nel piano $x'y'$. Ogni vettore $\vec{k}_\alpha$ si allontana solo leggermente dall'asse $z'$ in modo che $|(\Omega - \Omega_e)/\Omega_e| \ll 1$, $|\vec{k}_{\alpha\perp}|/k_\alpha \ll 1$ e $|\theta_\alpha - \theta| \ll 1$. Usando approssimazioni che concordano con la componente $z'$ di $\vec{k}_\alpha$ in termini dell'ordine $k^2_{\alpha\perp}$ e l'angolo $\theta_\alpha$ a $(\theta_\alpha - \theta)^2$, si constata che $\vec{k}_{2\perp} = (q_{x'}, q_{y'})$ deve soddisfare $M(q_{x'} + N)^2 + M q^2_{y'} = L$.
 
-> **C.3 ** Lasciate $M > 0$. Valutare $M$, $N$ e $L$ in termini di $\Omega$, $\Omega_e$, $\Omega_o$, $K_e$, $K_o$ e $N_e(\omega, \theta) = \dfrac{1}{n_e(\omega,\theta)}\dfrac{dn_e(\omega,\theta)}{d\theta}$ e le velocità di gruppo $u_o = \dfrac{d\omega_2}{dk_2}$ e $u_e = \dfrac{d\omega_1}{dk_1}$ per i raggi ** o ** e ** e**. Calcolare l'angolo tra l'asse del cono e $z'$, nonché l'angolo del cono in termini di $L$, $M$, $N$ e $K_o$. *(1.3pt)*
+> **C.3** Lasciate $M > 0$. Valutare $M$, $N$ e $L$ in termini di $\Omega$, $\Omega_e$, $\Omega_o$, $K_e$, $K_o$ e $N_e(\omega, \theta) = \dfrac{1}{n_e(\omega,\theta)}\dfrac{dn_e(\omega,\theta)}{d\theta}$ e le velocità di gruppo $u_o = \dfrac{d\omega_2}{dk_2}$ e $u_e = \dfrac{d\omega_1}{dk_1}$ per i raggi **o** e **e**. Calcolare l'angolo tra l'asse del cono e $z'$, nonché l'angolo del cono in termini di $L$, $M$, $N$ e $K_o$. *(1.3pt)*
 
 <!--fig:start-->
 ![[APhO_2021_theory_Q2_p4_f1.png]]
@@ -404,7 +404,7 @@ Il problema **C.3** mostra che un fotone può dividersi in due fotoni che, passa
 *Fig. 3: Due polarizzatori lineari 1 e 2 per la misurazione della coincidenza dei fotoni che passano $a$ e $b$.*
 <!--fig:end-->
 
-> **C.4 ** Considera il campo elettrico totale proiettato dai polarizzatori lineari. Trova le probabilità $P(\alpha, \beta)$, $P(\alpha, \beta_\perp)$, $P(\alpha_\perp, \beta)$ e $P(\alpha_\perp, \beta_\perp)$. *(0.8pt)*
+> **C.4** Considera il campo elettrico totale proiettato dai polarizzatori lineari. Trova le probabilità $P(\alpha, \beta)$, $P(\alpha, \beta_\perp)$, $P(\alpha_\perp, \beta)$ e $P(\alpha_\perp, \beta_\perp)$. *(0.8pt)*
 
 > **C.5** Assegna $\sigma_a = 1$ quando il polarizzatore 1 con angolo $\alpha$ trova un $a$-fotone e $\sigma_a = -1$ quando il polarizzatore 1 con angolo $\alpha_\perp$ trova un $a$-fotone. Allo stesso modo, $\sigma_\beta = 1$ o $-1$ viene assegnato quando il polarizzatore 2 con angolo $\beta$ o $\beta_\perp$ trova un fotone $b$. Se $E(\alpha, \beta)$ indica la media di $\sigma_a\sigma_b$, la quantità $S = |E(\alpha, \beta) - E(\alpha, \beta')| + |E(\alpha', \beta) + E(\alpha', \beta')|$ ha un significato importante. Per le teorie classiche della luce, $S \le 2$. Questa è una variante della disuguaglianza di Bell (la disuguaglianza Clauser-Horne-Shimony-Holt). Trova l'espressione di $S$ e valuta $S$ per il caso $\alpha = \dfrac{\pi}{4}$, $\alpha' = 0$, $\beta = -\dfrac{\pi}{8}$, $\beta' = \dfrac{\pi}{8}$. Indicare se $S$ è coerente con le teorie classiche. *(0.5pt)*
 
@@ -627,13 +627,13 @@ Il calcolo del campo magnetico totale iniziale $\vec{B}(\vec{\rho}, z)$ (a $t_0 
 
 **Resposizione iniziale**
 
-> **A.1 ** Ottieni il campo magnetico totale iniziale $\vec{B}(\vec{\rho}, z)$ in $z \ge 0$ a $t_0 = 0$. *(0.4pt)*
+> **A.1** Ottieni il campo magnetico totale iniziale $\vec{B}(\vec{\rho}, z)$ in $z \ge 0$ a $t_0 = 0$. *(0.4pt)*
 
 > **A.2** Ottieni il campo magnetico totale iniziale $\vec{B}(\vec{\rho}, z)$ in $z \le -d$ a $t_0 = 0$. *(0.2pt)*
 
 > **A.3** Trova il flusso magnetico iniziale $\Phi_B$ attraverso le superfici a $z = 0$ e a $z = -d$. *(0.4pt)*
 
-> **A.4 ** Ottieni la densità iniziale di corrente elettrica indotta $\vec{j}(\vec{\rho})$ nel film sottile conduttore a $t_0 = 0$. *(0.6pt)*
+> **A.4** Ottieni la densità iniziale di corrente elettrica indotta $\vec{j}(\vec{\rho})$ nel film sottile conduttore a $t_0 = 0$. *(0.6pt)*
 
 Per $t > 0$, il campo magnetico totale $\vec{B}$ diventa $\vec{B}(\vec{\rho}, z; t) = \vec{B}_{mp}(\vec{\rho}, z) + \vec{B}'(\vec{\rho}, z; t)$, per superposizione, con $\vec{B}'(\vec{\rho}, z; t)$ a causa della corrente elettrica indotta nel film sottile. Si richiede di ottenere un'equazione per $B'_z(\rho, z; t)$ vicino alla superficie del film sottile $z = 0$. Il comportamento di evoluzione temporale di $B'_z$ rivelerebbe un'immagine in movimento monopole per la descrizione del campo $\vec{B}'$ vicino a $z \approx 0$ in $t > 0$.
 
@@ -647,7 +647,7 @@ Questa equazione è stata ottenuta imponendo all'interno del film sottile l'equa
 
 **Resposizione successiva**
 
-> **A.5 ** Ottenere da Eq. (2) un'equazione di $B'_z(\rho, z; t)$ vicino a $z \approx 0$. L'equazione contiene le prime derivate parziali di $B'_z(\rho, z; t)$ rispetto a $z$ e, separatamente, a $t$. *(0.6pt)*
+> **A.5** Ottenere da Eq. (2) un'equazione di $B'_z(\rho, z; t)$ vicino a $z \approx 0$. L'equazione contiene le prime derivate parziali di $B'_z(\rho, z; t)$ rispetto a $z$ e, separatamente, a $t$. *(0.6pt)*
 
 > **A.6** Risolvi la forma generale di $B'_z(\rho, z; t)$ vicino a $z \approx 0$ in $t > 0$. *(0.4pt)*
 
@@ -674,7 +674,7 @@ Dividendo la traiettoria di $q_m$ in passi temporali discreti (un piccolo passo 
 
 <!--fig:start-->
 ![[APhO_2021_theory_Q3_p4_f1.png]]
-*Fig. 3 Un dipolo con un momento di dipolo magnetico ** puntato verso l'alto ** $\vec{m}$ si muove con una costante $\vec{v}$ e una costante altezza $h$ dal film sottile conduttore. Come mostrato, le sue coordinate sono $t = 0$.*
+*Fig. 3 Un dipolo con un momento di dipolo magnetico **puntato verso l'alto** $\vec{m}$ si muove con una costante $\vec{v}$ e una costante altezza $h$ dal film sottile conduttore. Come mostrato, le sue coordinate sono $t = 0$.*
 <!--fig:end-->
 
 Ora consideriamo un dipolo magnetico in movimento simile a un punto come mostrato nella figura. 3. Il dipolo, con un momento dipolo $\vec{m} = m\hat{z}$, si muove a velocità costante $v\hat{x}$, e a altezza costante ($z = h$) fino al momento presente ($t = 0$), dove le sue coordinate attuali sono a $(0, 0)$. Il dipolo a punto può essere rappresentato da due monopoli leggermente spostati come è stato menzionato nella sezione Introduzione. La posizione del dipolo magnetico è scelta per essere quella del monopolio nord, e $\vec{m}$ è presumita mantenuta fissa.
@@ -697,7 +697,7 @@ $$
 
 Per la considerazione di seguito, prendiamo $\omega = v_L/h$, dove $v_L$ è uguale alla velocità più grande di $v$ e $v_0$.
 
-> **B.5 ** Ottieni la dipendenza $v$ di $v_0(v)$ sia nei regimi $v$ piccoli che grandi. *(0.4pt)*
+> **B.5** Ottieni la dipendenza $v$ di $v_0(v)$ sia nei regimi $v$ piccoli che grandi. *(0.4pt)*
 
 > **B.6** Ottieni la velocità critica $v = v_c$ alla quale i due regimi di **B.5** si incontrano. *(0.3pt)*
 
@@ -705,17 +705,17 @@ Per la considerazione di seguito, prendiamo $\omega = v_L/h$, dove $v_L$ è ugua
 
 La considerazione di cui sopra può essere applicata al caso dei superconduttori di tipo I, in cui i campi magnetici sono completamente respinti dai superconduttori (effetto Meissner) in ogni momento, prendendo il limite di quella conducibilità elettrica $\sigma \to \infty$.
 
-Qui consideriamo un dipolo magnetico a punto con un momento di dipolo magnetico ** orizzontale ** $\vec{m} = m\hat{x}$, una massa $M_0$, e situato a $(x, y, z) = (0, 0, h)$. Ci concentriamo sui movimenti verticali del dipolo magnetico sotto l'azione di un campo gravitazionale, con accelerazione gravitazionale $\vec{g} = -g\hat{z}$. Si assume un debole accoppiamento tra l'orientamento di un dato dipolo e il suo movimento al centro della massa e viene trascurato. Come tale, fissamo il momento di dipolo magnetico, come è dato sopra, per le nostre considerazioni di seguito. Inoltre, presumiamo un ambiente a vuoto ultra-alto in modo che non occorra considerare l'ammortizzazione del movimento dell'aria residua.
+Qui consideriamo un dipolo magnetico a punto con un momento di dipolo magnetico **orizzontale** $\vec{m} = m\hat{x}$, una massa $M_0$, e situato a $(x, y, z) = (0, 0, h)$. Ci concentriamo sui movimenti verticali del dipolo magnetico sotto l'azione di un campo gravitazionale, con accelerazione gravitazionale $\vec{g} = -g\hat{z}$. Si assume un debole accoppiamento tra l'orientamento di un dato dipolo e il suo movimento al centro della massa e viene trascurato. Come tale, fissamo il momento di dipolo magnetico, come è dato sopra, per le nostre considerazioni di seguito. Inoltre, presumiamo un ambiente a vuoto ultra-alto in modo che non occorra considerare l'ammortizzazione del movimento dell'aria residua.
 
-> **C.1 ** Trova la distanza di equilibrio $h_0$ del dipolo dal film sottile superconduttore. *(1.2pt)*
+> **C.1** Trova la distanza di equilibrio $h_0$ del dipolo dal film sottile superconduttore. *(1.2pt)*
 
-> **C.2 ** Trova la frequenza angolare di dipole $\Omega$ delle oscillazioni intorno all'equilibrio. *(0.8pt)*
+> **C.2** Trova la frequenza angolare di dipole $\Omega$ delle oscillazioni intorno all'equilibrio. *(0.8pt)*
 
 I parametri fisici per un magnete permanente sferevole sono i seguenti: raggio $R = 1.0\ \mu\text{m}$, densità di massa $\rho_0 = 7400\ \text{kg m}^{-3}$, $g = 9.8\ \text{m s}^{-2}$, $\mu_0 = 4\pi \times 10^{-7}\ \text{TA}^{-1}\text{m}$ e magnetizzazione $|\vec{M}| = 75 \times 10^{-2}\ \text{T}/\mu_0$.
 
-> **C.3 ** Calcolare il valore di $h_0$. *(0.7pt)*
+> **C.3** Calcolare il valore di $h_0$. *(0.7pt)*
 
-> **C.4 ** Calcolare il valore di $\Omega$. *(0.3pt)*
+> **C.4** Calcolare il valore di $\Omega$. *(0.3pt)*
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1v8fHNf9Y1akgSvCsmcvWpVjprPiQha5_/view)
 

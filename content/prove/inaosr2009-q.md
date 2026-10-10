@@ -33,7 +33,7 @@ If $a^x = b^y = c^z$ and $b^2 = ac$, then $y = ?$ [3]
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A (10 Q × 3 marchi ciascuno) **
+**Parte A (10 Q × 3 marchi ciascuno)**
 
 Se $a^x = b^y = c^z$ e $b^2 = ac$, allora $y = ?$ [3]
 
@@ -447,7 +447,7 @@ Which of the following observations support the statement that "Every system ten
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (4 Q × 5 marchi ciascuno; qualsiasi numero di alternative può essere corretto) **
+**Sezione B (4 Q × 5 marchi ciascuno; qualsiasi numero di alternative può essere corretto)**
 
 Quali delle seguenti osservazioni corrispondono alla affermazione che "Ogni sistema tende ad adattarsi da solo per avere un minimo di energia potenziale". [5]
 
@@ -596,7 +596,7 @@ Quale dei seguenti fenomeni è / sono utili, per stimare le distanze nell'Univer
 
 **Sezione C: Domande analitiche**
 
-**α) ** Qual sarà l'area del più grande quadrilatero ciclico che può essere inserito in un dato cerchio? giustificare qualitativamente la risposta (non necessaria prova formale). [8]
+**α)** Qual sarà l'area del più grande quadrilatero ciclico che può essere inserito in un dato cerchio? giustificare qualitativamente la risposta (non necessaria prova formale). [8]
 
 **Topic:** [[Mathematics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -740,7 +740,7 @@ Mass of the bob of the pendulum was known to be 50 gm.
 
 <div class="qlang-split" data-lang="it"></div>
 
-** (ε) ** Chiraag ha eseguito un esperimento con un semplice pendolo per trovare il valore di $g$. Egli misurò il tempo impiegato per 30 oscillazioni del pendolo per vari valori di lunghezza (ripetuti tre volte per ogni valore di lunghezza), dopo che furono ottenute le letture.
+**(ε)** Chiraag ha eseguito un esperimento con un semplice pendolo per trovare il valore di $g$. Egli misurò il tempo impiegato per 30 oscillazioni del pendolo per vari valori di lunghezza (ripetuti tre volte per ogni valore di lunghezza), dopo che furono ottenute le letture.
 
 | L | $t_1$ (Sec) | $t_2$ (Sec) | $t_3$ (Sec) |
 | --- | --- | --- | --- |

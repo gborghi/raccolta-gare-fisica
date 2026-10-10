@@ -156,7 +156,7 @@ The heater is turned off, and the service mechanism is shut down when the volume
 7. Find the expression of the piston speed in terms of heater power and system state parameters, and calculate its value the instant the volume of gas is doubled.
 
 <!--fig:start-->
-**p.2 **  Pressure-volume graph with axes p and V
+**p.2**  Pressure-volume graph with axes p and V
 ![[_attachments/Naz14F def/Naz14F def_p2_f1.png]]
 <!--fig:end-->
 

@@ -43,7 +43,7 @@ The substance and three activities I – III respectively must be:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (MCQ di un marchio) **
+**Sezione A (MCQ di un marchio)**
 
 Il fegato è un organo che mantiene livelli costanti di diverse sostanze nel sangue. Sono indicati i livelli di una di queste sostanze che entra nel fegato durante tre tipi di attività corporee (I  III).
 

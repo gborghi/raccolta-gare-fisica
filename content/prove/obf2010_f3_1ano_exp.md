@@ -237,7 +237,7 @@ Faça três desenhos para montagens diferentes. Nestas três montagens use valor
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PARTICO III  METTAZIONE DELLE SCEPTI ANGLIARE **
+**PARTICO III  METTAZIONE DELLE SCEPTI ANGLIARE**
 
 Un fascio di luce che attraversa un semicilindro inclinato subirà una deviazione angolare, che denoteremo con $r$. Si veda il diagramma di montaggio illustrato nella figura seguente, che deve essere riprodotto sperimentalmente nella scheda di risposta.
 
@@ -300,7 +300,7 @@ $$n = \frac{\sin(i)}{\sin(r)}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PARTICO III  METTAZIONE DELLE SCEPTI ANGLIARE **
+**PARTICO III  METTAZIONE DELLE SCEPTI ANGLIARE**
 
 Considerando come 1 l'indice di refrazione dell'aria, determina l'indice di refrazione ($n$) del semicilindro per i tre montamenti. Indicare i valori ottenuti per $n$ nella tabella. Calcola il valore medio per l'indice di refrazione dell'acrilico.
 

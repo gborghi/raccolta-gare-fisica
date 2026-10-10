@@ -90,10 +90,10 @@ L'area superficiale di un tappo sferico è data da $A = 2\pi d_m h$, dove $h$ è
 
 ![[PLANCKS_2022_prelim_p3_f1.png]]
 
-**(a) (8 marchi) ** Esaminare la superficie del * grande e luminoso in movimento stella-inatore * che:
+**(a) (8 marchi)** Esaminare la superficie del * grande e luminoso in movimento stella-inatore * che:
 
-- **i) (7 marks) ** soddisfa i criteri del governo.
-- ** (ii) (1 punto) ** richiederebbe il tempo di viaggio più breve.
+- **i) (7 marks)** soddisfa i criteri del governo.
+- **(ii) (1 punto)** richiederebbe il tempo di viaggio più breve.
 
 Indicate le ipotesi che avete formulato per arrivare alla vostra risposta.
 
@@ -102,7 +102,7 @@ Indicate le ipotesi che avete formulato per arrivare alla vostra risposta.
 > $$\langle P_{radiation} \rangle = \begin{cases} \dfrac{I}{c} & \text{Perfect absorber} \\[2mm] \dfrac{2I}{c} & \text{Perfect reflector,} \end{cases}$$
 > dove $I$ è l'intensità allo specchio (fluo) e $c$ è la velocità della luce.
 
-**(b) (2 punti) ** Mostra che la posizione del * grande e luminoso-movente star-inator* non influenzerà la sua capacità di essere statita.
+**(b) (2 punti)** Mostra che la posizione del * grande e luminoso-movente star-inator* non influenzerà la sua capacità di essere statita.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Astrophysics]], [[Gravitation]]
@@ -145,11 +145,11 @@ Un altro gruppo di scienziati di Cheesecake sta studiando una strategia diversa 
 >
 > L'idea principale è quella di sviluppare il combustibile più efficiente e produrre una grande quantità di questo per alimentare il motore a combustione. Come riferimento alla reazione di combustione più efficiente, gli scienziati considerano l'idrogeno, producendo $q = 288\ \text{kJ mol}^{-1}$. Altre reazioni forniranno un livello di efficienza simile.
 
-**(a) (4 marchi) ** Derivare la relazione tra le velocità di scarico raggiungibili e il combustibile. Tale relazione dovrebbe basarsi puramente sulla conservazione del momento in assenza di forza esterna. Indicare come la velocità finale dipenda dalle masse della sonda spaziale vuota ($m_s$) e dal combustibile ($m_f$).
+**(a) (4 marchi)** Derivare la relazione tra le velocità di scarico raggiungibili e il combustibile. Tale relazione dovrebbe basarsi puramente sulla conservazione del momento in assenza di forza esterna. Indicare come la velocità finale dipenda dalle masse della sonda spaziale vuota ($m_s$) e dal combustibile ($m_f$).
 
-**(b) (4 punti) ** Trova la stima limite superiore della velocità raggiungibile in termini di velocità della luce. Potrebbe aiutarvi a sapere che il numero di atomi nell'universo osservabile è supposto di essere $N = 10^{82}$.
+**(b) (4 punti)** Trova la stima limite superiore della velocità raggiungibile in termini di velocità della luce. Potrebbe aiutarvi a sapere che il numero di atomi nell'universo osservabile è supposto di essere $N = 10^{82}$.
 
-**(c) (2 punti) ** Trova l'energia della reazione di combustione $q$ che consente di raggiungere almeno la velocità finale $0.5c$.
+**(c) (2 punti)** Trova l'energia della reazione di combustione $q$ che consente di raggiungere almeno la velocità finale $0.5c$.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Conservation of Momentum]], [[Special Relativity]]
@@ -208,11 +208,11 @@ Dati utili:
 - costante della legge di Coulomb $k = 9 \times 10^{9}\ \text{N m}^2\text{C}^{-2}$;
 - costante elettrica (permissibilità al vuoto) $\varepsilon_0 = 8.85 \times 10^{-12}\ \text{Fm}^{-1}$.
 
-**(a) (5 marchi) ** Determina il raggio "elettrico" dell'elettrone, supponendo che la carica elettronica sia distribuita uniformemente sulla sua superficie.
+**(a) (5 marchi)** Determina il raggio "elettrico" dell'elettrone, supponendo che la carica elettronica sia distribuita uniformemente sulla sua superficie.
 
 > Nei più precisi esperimenti, la legge di Coulomb è stata convalidata per un raggio di $10^{-16}$ m.
 
-**(b) (5 marchi) ** Confronta la massa effettiva degli elettroni e la "massa" effettiva del campo elettrico al di fuori della sfera di $10^{-16}$ raggio m.
+**(b) (5 marchi)** Confronta la massa effettiva degli elettroni e la "massa" effettiva del campo elettrico al di fuori della sfera di $10^{-16}$ raggio m.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
@@ -271,11 +271,11 @@ Per tutte le attività, è possibile che sia necessario il volume di una formula
 ![[PLANCKS_2022_prelim_p7_f1.png]]
 *figura 1, figura 2, figura 3, figura 4*
 
-**(a) (4 marchi) ** Tigger pone il funnel a testa in giù su una base di gomma, quindi la connessione tra il bordo del funnel e la superficie è ermetica. Attraverso il buco in cima, Tigger versò il liquido, misurando il volume totale. In un certo momento, la pressione idrostatica spinge l'imbranaggio e il liquido inizia a perdere. Indicare il volume totale del liquido $V$ quando ciò accade. Supponiamo che questo volume sia strettamente inferiore al volume totale del funnel. Si riferisce alla figura 1.
+**(a) (4 marchi)** Tigger pone il funnel a testa in giù su una base di gomma, quindi la connessione tra il bordo del funnel e la superficie è ermetica. Attraverso il buco in cima, Tigger versò il liquido, misurando il volume totale. In un certo momento, la pressione idrostatica spinge l'imbranaggio e il liquido inizia a perdere. Indicare il volume totale del liquido $V$ quando ciò accade. Supponiamo che questo volume sia strettamente inferiore al volume totale del funnel. Si riferisce alla figura 1.
 
-**(b) (4 punti) ** Un altro esperimento eseguito da Tigger è circa il funnel a metà piena che ruota con una velocità angolare costante $\omega$. Il tuo compito è trovare l'equazione di una superficie libera di liquido che è formata dall'equilibrio tra forze idrostatiche e centrifugate. Poiché il sistema è assimetrico, è sufficiente trovare il livello di liquido $z$ come funzione della coordinata radial $r$. Si riferisce alla figura 2.
+**(b) (4 punti)** Un altro esperimento eseguito da Tigger è circa il funnel a metà piena che ruota con una velocità angolare costante $\omega$. Il tuo compito è trovare l'equazione di una superficie libera di liquido che è formata dall'equilibrio tra forze idrostatiche e centrifugate. Poiché il sistema è assimetrico, è sufficiente trovare il livello di liquido $z$ come funzione della coordinata radial $r$. Si riferisce alla figura 2.
 
-** c) (2 punti) ** Nell'ultimo esperimento, Tigger ha riscaldato l'intero funnel con il riscaldatore di potenza $P$. Il tuo compito è scoprire che il livello del liquido diminuirà nel tempo. Per semplicità, si può presumere che il liquido sia a temperatura di ebollizione e che il calore di massa unitario dell'evaporazione sia $q$. Si riferisce alla figura 3.
+**c) (2 punti)** Nell'ultimo esperimento, Tigger ha riscaldato l'intero funnel con il riscaldatore di potenza $P$. Il tuo compito è scoprire che il livello del liquido diminuirà nel tempo. Per semplicità, si può presumere che il liquido sia a temperatura di ebollizione e che il calore di massa unitario dell'evaporazione sia $q$. Si riferisce alla figura 3.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
@@ -387,7 +387,7 @@ $$\tau_i = \lambda_i \tau.$$
 
 In ogni caso la posizione di equilibrio è definita dalla lunghezza $L$ con $L > l_0$.
 
-**(a) (2 punti) ** Considerate il sistema con due molla come mostrato nella figura 2.
+**(a) (2 punti)** Considerate il sistema con due molla come mostrato nella figura 2.
 
 ![[PLANCKS_2022_prelim_p8_f2.png]]
 *Figura 2: Sistema con due mollacci lungo la direzione di movimento.*
@@ -396,14 +396,14 @@ Trova il valore di $\lambda_1$.
 
 > Per le altre parti, si devono considerare oscillazioni * di piccola amplitudine * nella direzione appropriata $x$, ovvero $|x|/L \ll 1$. Potresti trovare conveniente scrivere $X = x/L$ e valutare le distanze corrette al primo ordine in $X$, ovvero ignorare i termini $X^2$ e superiori, e poi scrivere l'equazione di movimento appropriata.
 
-**(b) (3 punti) ** Questa parte comprende due molle, come mostrato alla figura 3.
+**(b) (3 punti)** Questa parte comprende due molle, come mostrato alla figura 3.
 
 ![[PLANCKS_2022_prelim_p9_f1.png]]
 *Figura 3: Sistema con due molla perpendicolare alla direzione di movimento.*
 
 Trova il valore di $\lambda_2$.
 
-** c) (2 punti) ** Il risultato di questa sezione può essere utile nelle sezioni (iv) e (v).
+**c) (2 punti)** Il risultato di questa sezione può essere utile nelle sezioni (iv) e (v).
 
 ![[PLANCKS_2022_prelim_p9_f2.png]]
 *Figura 4: (a) Definizione di $l_1$, $l_2$, $\alpha$ e $\beta$; (b) forze $F_1$ e $F_2$.*
@@ -418,14 +418,14 @@ Trova il valore di $\lambda_2$.
 > e che la forza di tensione, $F_1$, e la forza di compressione, $F_2$, producono un componente combinato di primo ordine nella direzione $x$
 > $$-2kx\cos^2\theta.$$
 
-**(d) (2 marchi) ** Questa parte comprende quattro molle lungo le diagonali di un quadrato, ABCD, come mostrato alla figura 5.
+**(d) (2 marchi)** Questa parte comprende quattro molle lungo le diagonali di un quadrato, ABCD, come mostrato alla figura 5.
 
 ![[PLANCKS_2022_prelim_p10_f1.png]]
 *Figura 5: Sistema con quattro molle lungo le diagonali di un quadrato.*
 
 Trova il valore di $\lambda_3$.
 
-**(e) (1 segno) ** Questa parte finale comprende sei molle disposte in forma esagonale regolare, ABCDEF, come mostrato alla figura 6.
+**(e) (1 segno)** Questa parte finale comprende sei molle disposte in forma esagonale regolare, ABCDEF, come mostrato alla figura 6.
 
 ![[PLANCKS_2022_prelim_p11_f1.png]]
 *Figura 6: Sistema con sei mollacci in un esagono regolare.*
@@ -533,25 +533,25 @@ In caso di $\Theta$ è preceduto da $\theta$, ovvero $\Theta - \theta \in (0,\pi
 
 We say that the firefly has been **entrained** by the stimulus if it successfully matches the frequency of the stimulus.
 
-**(a) (1 segno) ** Definendo due quantità senza dimensioni $\tau$ (tempo senza dimensioni) e $\mu$, costruire un'equazione differenziale *single* per una funzione $\phi$ che descriva la dinamica di sincronizzazione data dal modello di cui sopra.
+**(a) (1 segno)** Definendo due quantità senza dimensioni $\tau$ (tempo senza dimensioni) e $\mu$, costruire un'equazione differenziale *single* per una funzione $\phi$ che descriva la dinamica di sincronizzazione data dal modello di cui sopra.
 
-Qual è la quantità $\phi$? **(Insigno: ** due parole)
+Qual è la quantità $\phi$? **(Insigno:** due parole)
 
-**(b) (2 marchi) ** Segnare i diagrammi di fase ($\phi', \phi$), dove $\phi' = d\phi/d\tau$ per i tre casi: (i) $\mu = 0$, (ii) $0 < \mu < 1$ e (iii) $\mu > 1$. Sulla parte $x$ di ciascun diagramma, disegnare una freccia a destra se $\phi' > 0$ e a sinistra se $\phi' < 0$. Quindi, dimostrare che per questi punti fissi, uno dei quali è stabile, (ii) ha un punto fisso stabile e uno instabile, mentre (iii) non ha alcun punto fisso.
+**(b) (2 marchi)** Segnare i diagrammi di fase ($\phi', \phi$), dove $\phi' = d\phi/d\tau$ per i tre casi: (i) $\mu = 0$, (ii) $0 < \mu < 1$ e (iii) $\mu > 1$. Sulla parte $x$ di ciascun diagramma, disegnare una freccia a destra se $\phi' > 0$ e a sinistra se $\phi' < 0$. Quindi, dimostrare che per questi punti fissi, uno dei quali è stabile, (ii) ha un punto fisso stabile e uno instabile, mentre (iii) non ha alcun punto fisso.
 
-**(c) (1 segno) ** Utilizzare i risultati finora per sostenere che per $\mu = 0$ la mosca di fuoco infine lampeggia * contemporaneamente*.
+**(c) (1 segno)** Utilizzare i risultati finora per sostenere che per $\mu = 0$ la mosca di fuoco infine lampeggia * contemporaneamente*.
 
-**(d) (1 punto) ** In senso simile alla parte (c), sostenere che per $\mu \in (0,1)$ la mosca di fuoco sarà *fase bloccata * allo stimolo. La risposta dovrebbe spiegare perché il termine "blocco di fase" è usato in questo regime e la natura del blocco di fase stesso.
+**(d) (1 punto)** In senso simile alla parte (c), sostenere che per $\mu \in (0,1)$ la mosca di fuoco sarà *fase bloccata * allo stimolo. La risposta dovrebbe spiegare perché il termine "blocco di fase" è usato in questo regime e la natura del blocco di fase stesso.
 
-**(e) (1 segno) ** Per $\mu > 1$, si dice che la volpe di fuoco sia * a deriva di fase * rispetto allo stimolo. Tuttavia, la deriva di fase non è uniforme. Quando è la deriva di fase, la più veloce e la più lenta in termini di fasi della volpe e dello stimolo?
+**(e) (1 segno)** Per $\mu > 1$, si dice che la volpe di fuoco sia * a deriva di fase * rispetto allo stimolo. Tuttavia, la deriva di fase non è uniforme. Quando è la deriva di fase, la più veloce e la più lenta in termini di fasi della volpe e dello stimolo?
 
-**(f) (2 punti) ** Il modello fa una previsione verificabile e specifica. Indicare che il range di intrattenimento ****, che è il range di frequenza del lampeggiamento della volpe da fuoco per il quale può essere intrattenuto, è dato da
+**(f) (2 punti)** Il modello fa una previsione verificabile e specifica. Indicare che il range di intrattenimento ****, che è il range di frequenza del lampeggiamento della volpe da fuoco per il quale può essere intrattenuto, è dato da
 
 $$\omega - A \leq \Omega \leq \omega + A.$$
 
 Il parametro $A$ è determinato tipicamente da esperimenti.
 
-**(g) (2 marchi) ** Per $\mu > 1$ calcolare il periodo di deriva di fase $T$, che è il tempo necessario per il fulmine dello stimolo e della mosca di fuoco di nuovo contemporaneamente (ma non si sincronizzano mai). Pertanto, spiegare fisicamente perché questo periodo è poco definito o dovrebbe essere considerato come infinito per $\mu \in [0,1)$.
+**(g) (2 marchi)** Per $\mu > 1$ calcolare il periodo di deriva di fase $T$, che è il tempo necessario per il fulmine dello stimolo e della mosca di fuoco di nuovo contemporaneamente (ma non si sincronizzano mai). Pertanto, spiegare fisicamente perché questo periodo è poco definito o dovrebbe essere considerato come infinito per $\mu \in [0,1)$.
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Oscillations & Waves]], [[Mathematics]]
@@ -645,17 +645,17 @@ I ricercatori di Cheesecake stanno sviluppando il concetto di un motore a base d
 > $$V(\mathbf{r}) = \frac{\mu_0}{4\pi r^3}\left[\mathbf{d}_1 \cdot \mathbf{d}_2 - 3(\mathbf{d}_1 \cdot \hat{\mathbf{r}})(\mathbf{d}_2 \cdot \hat{\mathbf{r}})\right]$$
 > dove $r = |\mathbf{r}|$ e $\hat{\mathbf{r}} = \mathbf{r}/r$.
 
-**(a) (2 punti) ** Parametrizzando i vettori $\mathbf{d}_1$ e $\mathbf{d}_2$ nelle coordinate polari sferiche $(d_i, \theta_i, \phi_i)$ nel modo usuale e scegliendo un sistema di coordinate in cui $\mathbf{r}$ è nella direzione $z$, dimostrare che il potenziale può essere parametrizzato come
+**(a) (2 punti)** Parametrizzando i vettori $\mathbf{d}_1$ e $\mathbf{d}_2$ nelle coordinate polari sferiche $(d_i, \theta_i, \phi_i)$ nel modo usuale e scegliendo un sistema di coordinate in cui $\mathbf{r}$ è nella direzione $z$, dimostrare che il potenziale può essere parametrizzato come
 
 $$V(r) = \frac{\mu_0 d_1 d_2}{4\pi r^3}\left(\sin\theta_1 \sin\theta_2 \cos(\phi_1 - \phi_2) - 2\cos\theta_1 \cos\theta_2\right).$$
 
-**(b) (7 marchi) ** Supponiamo che i dipoli siano entrambi in equilibrio termico con un bagno termico a temperatura $T$, e consideriamo il limite di temperatura elevata dove
+**(b) (7 marchi)** Supponiamo che i dipoli siano entrambi in equilibrio termico con un bagno termico a temperatura $T$, e consideriamo il limite di temperatura elevata dove
 
 $$\lambda = \frac{\mu_0 d_1 d_2}{4\pi r^3 k_B T} \ll 1$$
 
 Calcolare la forza media tra i dipoli nella direzione $z$ all'ordine di conduzione in $\lambda$. Questa forza è attraente o repulsiva?
 
-**(c) (1 segno) ** Nella stessa limitazione di cui sopra, spiegare perché la forza media nelle direzioni perpendicolari sarà zero.
+**(c) (1 segno)** Nella stessa limitazione di cui sopra, spiegare perché la forza media nelle direzioni perpendicolari sarà zero.
 
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Magnetism]], [[Thermodynamics]]
@@ -702,11 +702,11 @@ In questo compito non si prevede che si conoscano espressioni esatte per la forz
 >
 > Una goccia sferica in flotta libera (in assenza di gravità) può subire oscillazioni di deformazione, determinate dalle forze di tensione superficiale e dall'inerzia liquida.
 
-**a) (5 punti) ** Il tuo compito è stimare la frequenza propria della oscillazione della goccia in modalità principale.
+**a) (5 punti)** Il tuo compito è stimare la frequenza propria della oscillazione della goccia in modalità principale.
 
 > Lo stesso liquido evaporato si condensa al soffitto della stazione spaziale e forma un gruppo di gocce in crescita. Considerate l'equilibrio tra la forza di tensione superficiale, che mantiene la goccia in posizione, e la forza gravitazionale, che tira giù la goccia.
 
-**(b) (5 punti) ** Il vostro compito è quello di stimare il raggio massimo possibile della goccia che rimane sul soffitto.
+**(b) (5 punti)** Il vostro compito è quello di stimare il raggio massimo possibile della goccia che rimane sul soffitto.
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
@@ -751,13 +751,13 @@ In questo compito non si prevede che si conoscano espressioni esatte per la forz
 >
 > Si è seduti su un treno e si dispone di un oscillatore composto da una massa di punto $m$ che si muove in un pozzo armonico $V(x) = kx^2/2$ nel quadro di riferimento del treno. Il periodo dell'oscillatore $T$ è esattamente di un secondo; e la sua orientamento coincide con la direzione di movimento del treno (cioè il treno si muoverà anche nella direzione $x$). Il treno parte in riposo nella stazione e raggiungerà la sua velocità di crociera di 30 metri al secondo con una costante accelerazione in un minuto. Per questo scenario, si deve prendere la massa della massa puntaria $m$ per essere esattamente *uno standard Anthony*.
 
-**a) (2 marchi) ** Calcolare il periodo dell'oscillatore durante il periodo di accelerazione del viaggio.
+**a) (2 marchi)** Calcolare il periodo dell'oscillatore durante il periodo di accelerazione del viaggio.
 
-**(b) (4 punti) ** Mentre si sta seduto nella stazione, si colloca la massa puntaria in riposo in fondo al pozzo armonico $x = 0$. Quando il treno lascia la stazione e inizia ad accelerare, la massa inizierà a muoversi, subendo oscillazioni. Calcolare l'ampiezza di queste oscillazioni.
+**(b) (4 punti)** Mentre si sta seduto nella stazione, si colloca la massa puntaria in riposo in fondo al pozzo armonico $x = 0$. Quando il treno lascia la stazione e inizia ad accelerare, la massa inizierà a muoversi, subendo oscillazioni. Calcolare l'ampiezza di queste oscillazioni.
 
-**(c) (3 marchi) ** Calcolare l'ampiezza delle oscillazioni dopo che il treno ha raggiunto la sua velocità di crociera.
+**(c) (3 marchi)** Calcolare l'ampiezza delle oscillazioni dopo che il treno ha raggiunto la sua velocità di crociera.
 
-**(d) (1 punto) ** La risposta alla ultima parte dipende solo dalla velocità finale raggiunta, o dipende anche dall'accelerazione utilizzata per arrivare lì? Ravviate brevemente perché questo ha senso.
+**(d) (1 punto)** La risposta alla ultima parte dipende solo dalla velocità finale raggiunta, o dipende anche dall'accelerazione utilizzata per arrivare lì? Ravviate brevemente perché questo ha senso.
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]

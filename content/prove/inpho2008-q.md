@@ -476,7 +476,7 @@ The speed light maybe determined by an electrical circuit using low frequency ac
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Determinazione della velocità della luce: **
+**Determinazione della velocità della luce:**
 
 La velocità della luce potrebbe essere determinata da un circuito elettrico utilizzando solo campi ac a bassa frequenza. Considerate l'organizzazione mostrata nella figura. (4). Un tensione sinusoidale variabile $V_0 \cos(2\pi ft)$ è applicata a un condensatore di piastra parallela $C_1$ di raggio $a$ e di separazione $s$ e anche al condensatore $C_2$. La carica che entra e esce da $C_2$ costituisce la corrente nei due anelli di radii $b$ e di separazione $h$. Quando la tensione viene spenta i due lati (il condensatore $C_1$ da un lato e gli anelli dall'altro) sono esattamente equilibrati. Ignorare la resistenza dei fili, l'induzione e gli effetti gravitazionali.
 

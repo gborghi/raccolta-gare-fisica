@@ -76,7 +76,7 @@ La portata è la quantità di fluido che attraversa una sezione di area $A$ nell
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A viscous fluid **
+**A viscous fluid**
 
 Viscosity is a property that quantifies the resistance of fluids to the relative flow of one layer of fluid over another. The dynamic viscosity coefficient $\mu$ (hereinafter simply viscosity) is defined by taking into account the force to be applied to a layer of fluid to move at a different speed than another layer adjacent to the first layer, at a distance $\Delta x$, i.e.
 

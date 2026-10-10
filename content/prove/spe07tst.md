@@ -317,7 +317,7 @@ The following shall be added:
 distance/measured
 
 <!--fig:start-->
-**p.2 **  Appliance: spring suspended with glass and meter
+**p.2**  Appliance: spring suspended with glass and meter
 ![[_attachments/spe07tst/spe07tst_p2_f1.png]]
 <!--fig:end-->
 

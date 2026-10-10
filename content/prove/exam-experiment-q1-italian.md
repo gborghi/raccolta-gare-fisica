@@ -342,7 +342,7 @@ or -1 (left of the display) for values
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  Paper printed circuit boards and resistance sizes
+**p.6**  Paper printed circuit boards and resistance sizes
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p6_f4.png]]
 <!--fig:end-->
 

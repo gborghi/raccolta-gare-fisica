@@ -71,7 +71,7 @@ $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Determinazione della viscosità assoluta di un liquido (100 punti) **
+**Determinazione della viscosità assoluta di un liquido (100 punti)**
 
 Il movimento di caduta di un corpo all'interno di un fluido può essere analizzato sotto l'azione di tre forze: gravitazionale, spinta e attrito. Chiamiamo questo regime **laminar** quando il numero di Reynolds $R \leq 1$. In questo regime, il fluido si comporta come se fosse composto da strati molto sottili che scivolavano l'uno sull'altro a causa dello scratto. Finché l'azione delle forze gravitazionali e di spinta non dipende dalla velocità, la forza di attrito crescerà dal riposo a una velocità limite $v_{\text{lim}}$, quando la forza totale sul corpo diventerà nulla, mantenendo così il movimento reticolare uniforme (MRU).
 
@@ -98,21 +98,21 @@ Tutte le misure devono essere prese in condizioni di MRU, con due marcatori (ane
 
 Scrivi l'equazione della seconda legge di Newton per questo corpo prima di raggiungere la velocità limite, in termini di dati sopra. 5 punti)
 
-**(b) ** Mostra che $v_{\text{lim}} = k\,r^2$, dove $k$ dipende solo dai dati sopra. (cfr.
+**(b)** Mostra che $v_{\text{lim}} = k\,r^2$, dove $k$ dipende solo dai dati sopra. (cfr.
 
-**(c) ** Mostri che:
+**(c)** Mostri che:
 $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 5 punti)
 
-**(d) ** Scrivi i valori di $\Delta h$, $D$ e i valori del raggio di ciascuna sfera con i loro rispettivi errori (definire l'impianto di misura). (cfr.
+**(d)** Scrivi i valori di $\Delta h$, $D$ e i valori del raggio di ciascuna sfera con i loro rispettivi errori (definire l'impianto di misura). (cfr.
 
-**(e) ** Metti in una tabella i valori di tempo misurati, $v_{\text{limD}}$, $v_{\text{lim}}$ e altri valori necessari con i loro rispettivi errori. (cfr.
+**(e)** Metti in una tabella i valori di tempo misurati, $v_{\text{limD}}$, $v_{\text{lim}}$ e altri valori necessari con i loro rispettivi errori. (cfr.
 
-**(f) ** Traccia una linea utilizzando il metodo grafico o minime quadrati con i rispettivi valori di coefficiente angolare e lineare e le loro deviazioni. Cosa significa il coefficiente lineare diverso da zero in questo esperimento? (cfr.
+**(f)** Traccia una linea utilizzando il metodo grafico o minime quadrati con i rispettivi valori di coefficiente angolare e lineare e le loro deviazioni. Cosa significa il coefficiente lineare diverso da zero in questo esperimento? (cfr.
 
-**(g) ** Determina il valore della costante $k$ con l'errore rispettivo e confronta con il valore fornito. 15 punti)
+**(g)** Determina il valore della costante $k$ con l'errore rispettivo e confronta con il valore fornito. 15 punti)
 
-**(h) ** Come e in che luogo del cilindro è stata definita la quota di marcatura del $\Delta h$? Quali sono state le cure per determinare l'intervallo di tempo di caduta della sfera a questa distanza? 15 punti)
+**(h)** Come e in che luogo del cilindro è stata definita la quota di marcatura del $\Delta h$? Quali sono state le cure per determinare l'intervallo di tempo di caduta della sfera a questa distanza? 15 punti)
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -124,7 +124,7 @@ $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 
 The total viscosity of a liquid shall be determined by the following formula:
 
-The falling motion of a body inside a fluid can be analyzed by the action of three forces: gravitational, push, and friction. We call this **lamin ** when the Reynolds number $R \leq 1$. In this regime, the fluid behaves as if it were composed of very thin layers that slide over each other due to friction. As long as the action of gravitational forces and thrust does not depend on speed, the friction force will increase from rest to a limit speed $v_{\text{lim}}$, when the total force on the body will become zero, thus maintaining uniform reticle movement (MRU).
+The falling motion of a body inside a fluid can be analyzed by the action of three forces: gravitational, push, and friction. We call this **lamin** when the Reynolds number $R \leq 1$. In this regime, the fluid behaves as if it were composed of very thin layers that slide over each other due to friction. As long as the action of gravitational forces and thrust does not depend on speed, the friction force will increase from rest to a limit speed $v_{\text{lim}}$, when the total force on the body will become zero, thus maintaining uniform reticle movement (MRU).
 
 Whereas the viscous friction force is $F_{\text{visc}} = -6\pi\eta r v$, where $\eta$ is the absolute viscosity of the fluid to be determined, $r$ is the radius of the steel sphere and $v$ the speed of the sphere, the Reynolds number is:
 
@@ -149,19 +149,19 @@ All measures shall be taken under MRU condition by adjusting two markers (black 
 
 Write the equation of Newton's second law for this body before it reaches the speed limit, in terms of the data above. (five points)
 
-**(b) ** Show that $v_{\text{lim}} = k\,r^2$ where $k$ depends only on the above data. (Figure 1)
+**(b)** Show that $v_{\text{lim}} = k\,r^2$ where $k$ depends only on the above data. (Figure 1)
 
-**(c) ** Show that:
+**(c)** Show that:
 $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 (five points)
 
-**(d) ** Write the values of $\Delta h$, $D$ and the radius values of each sphere with their respective errors (defining the measuring instrument). (Figure 1)
+**(d)** Write the values of $\Delta h$, $D$ and the radius values of each sphere with their respective errors (defining the measuring instrument). (Figure 1)
 
-**(e) ** Mount a table with the measured time values, $v_{\text{limD}}$, $v_{\text{lim}}$ and other values required with their respective errors. (A) the number of points
+**(e)** Mount a table with the measured time values, $v_{\text{limD}}$, $v_{\text{lim}}$ and other values required with their respective errors. (A) the number of points
 
-**(f) ** Draw a straight line using the graph or least squares method with the respective angular and linear coefficient values and their deviations. What does the linear coefficient other than zero mean in this experiment? (A) the number of points
+**(f)** Draw a straight line using the graph or least squares method with the respective angular and linear coefficient values and their deviations. What does the linear coefficient other than zero mean in this experiment? (A) the number of points
 
-**(g) ** Determine the value of the constant $k$ with the respective error, and compare it with the value provided. (Fifteen points)
+**(g)** Determine the value of the constant $k$ with the respective error, and compare it with the value provided. (Fifteen points)
 
 How and where on the cylinder was the marking height of the $\Delta h$ defined? What care was taken to determine the time interval of the fall of the sphere at this distance? (Fifteen points)
 

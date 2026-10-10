@@ -203,7 +203,7 @@ O) a phenomenon (s) directly related to the position of the Moon relative to the
 - **A.** I.
 - **B** III.
 - **C** I and III.
-- ** D** II and III.
+- **D** II and III.
 - **E.** I e IV.
 
 **Topic:** [[Gravitation]], [[Astrophysics]]

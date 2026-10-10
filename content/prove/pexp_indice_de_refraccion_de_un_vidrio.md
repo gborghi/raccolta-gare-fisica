@@ -162,7 +162,7 @@ Write the expression (4)
 
 $$\frac{V}{V_0} = T^2$$
 
-so that a linear **dependence ** is explicitly displayed between $V$ and $V_0$. Graphically represent the points corresponding to that dependence, with $V_0$ on the axis of the abscises, and draw the line that fits best.
+so that a linear **dependence** is explicitly displayed between $V$ and $V_0$. Graphically represent the points corresponding to that dependence, with $V_0$ on the axis of the abscises, and draw the line that fits best.
 
 (four points)
 
@@ -266,7 +266,7 @@ per cui $(V \pm \Delta V) = (274 \pm 2)$ mV.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Considering only the error bars of the **extreme points ** of the graph (see ANNEX 2), find the slope-maximum and slope-minimum straight lines and the values of those slopes.
+Considering only the error bars of the **extreme points** of the graph (see ANNEX 2), find the slope-maximum and slope-minimum straight lines and the values of those slopes.
 
 The length of the error bars at those two points shall be determined by taking into account the characteristics of the multimeter given by the manufacturer. This indicates that, in measurements of DC voltage in the range of 2 V:
 

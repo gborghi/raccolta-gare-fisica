@@ -74,19 +74,19 @@ dove $c$ e $\gamma$ sono costanti che dipendono dalla forma e dalle dimensioni d
 
 In questo problema si studierà sperimentalmente il cadere in aria di uno o più cappelli superposti, in modo da cambiare la massa dell'oggetto che cade, ma non la sua forma (aerodinamica). Come potete vedere, la velocità di caduta è praticamente uniforme dal momento in cui si rilasciano.
 
-**a) ** Le uniche forze che agiscono sui caschi quando cadono sono il loro peso e la resistenza dell'aria. Tenendo conto di questo, chiamando $n$ al numero di caselle e $m_0$ alla massa di ciascuna, ottieni un'espressione analitica per la velocità uniforme (limit) di caduta, $v_n$. Trasforma questa espressione e dimostra che esiste una dipendenza lineare tra $\ln(t_n)$ e $\ln(n)$, dove $t_n$ è il tempo di caduta di $n$ cappelli da un'altezza $h$:
+**a)** Le uniche forze che agiscono sui caschi quando cadono sono il loro peso e la resistenza dell'aria. Tenendo conto di questo, chiamando $n$ al numero di caselle e $m_0$ alla massa di ciascuna, ottieni un'espressione analitica per la velocità uniforme (limit) di caduta, $v_n$. Trasforma questa espressione e dimostra che esiste una dipendenza lineare tra $\ln(t_n)$ e $\ln(n)$, dove $t_n$ è il tempo di caduta di $n$ cappelli da un'altezza $h$:
 
 $$\ln(t_n) = -\frac{1}{\gamma}\ln(n) - \frac{1}{\gamma}\ln\!\left(\frac{g\,m_0}{c}\right) + \ln(h)$$
 
-**b) ** Basandosi sull'espressione precedente e sulle sue misurazioni sperimentali dei tempi di caduta, $t_n$, per $n = 1, 2, 3$ e $4$, determina il valore di $\gamma$ in questo esperimento.
+**b)** Basandosi sull'espressione precedente e sulle sue misurazioni sperimentali dei tempi di caduta, $t_n$, per $n = 1, 2, 3$ e $4$, determina il valore di $\gamma$ in questo esperimento.
 
-**c) ** Fa' un'estimazione dell'incertezza (margine di errore) del valore di $\gamma$ ottenuto.
+**c)** Fa' un'estimazione dell'incertezza (margine di errore) del valore di $\gamma$ ottenuto.
 
-**d) ** Sulla base delle misure sperimentali che ritiene opportune, determinare la massa $M$ della fornitura metallica da fornire. Per rispondere a questa domanda, si noti che la massa di un capriccio è $m_0 = 0{,}25\ \text{g}$.
+**d)** Sulla base delle misure sperimentali che ritiene opportune, determinare la massa $M$ della fornitura metallica da fornire. Per rispondere a questa domanda, si noti che la massa di un capriccio è $m_0 = 0{,}25\ \text{g}$.
 
 ---
 
-**Materiale di cui dispone: **
+**Materiale di cui dispone:**
 - Quattro cappelli uguali in massa, $m_0$.
 - Un cronometro.
 - Papero millimetrico.
@@ -122,15 +122,15 @@ In this problem, one will experimentally study the fall into the air of one or m
 
 $$\ln(t_n) = -\frac{1}{\gamma}\ln(n) - \frac{1}{\gamma}\ln\!\left(\frac{g\,m_0}{c}\right) + \ln(h)$$
 
-**b) ** Based on the above expression and its experimental measurements of drop times, $t_n$, for $n = 1, 2, 3$ and $4$, determine the value of $\gamma$ in this experiment.
+**b)** Based on the above expression and its experimental measurements of drop times, $t_n$, for $n = 1, 2, 3$ and $4$, determine the value of $\gamma$ in this experiment.
 
-**c) ** Estimate the uncertainty (error margin) of the $\gamma$ value obtained.
+**c)** Estimate the uncertainty (error margin) of the $\gamma$ value obtained.
 
-**d) ** Determine the mass $M$ of the metal cladding supplied from the experimental measures which you consider appropriate. To answer this question, please note that the mass of a capillary is $m_0 = 0{,}25\ \text{g}$.
+**d)** Determine the mass $M$ of the metal cladding supplied from the experimental measures which you consider appropriate. To answer this question, please note that the mass of a capillary is $m_0 = 0{,}25\ \text{g}$.
 
 ---
 
-**Material at your disposal: **
+**Material at your disposal:**
 - Four headgear of equal mass, $m_0$.
 - A timepiece.
 - It's a millimeter piece of paper.

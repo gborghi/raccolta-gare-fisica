@@ -59,7 +59,7 @@ tags:
 **Q2.** The figure shows a mass cart $m$ with engine, on a mass base $4m$ lifted by an air cushion. At a certain moment the cart starts to move to the right. Quando il carrello ha assunto la velocità $v$ rispetto al suolo, la base... (a) remains stationary; (b) moves to the right at $v/5$; (c) moves to the left at $v/5$; (d) moves to the right at $v/4$; (e) moves to the left at $v/4$.
 
 <!--fig:start-->
-**p.2 **  Carriage with base engine with air cushion
+**p.2**  Carriage with base engine with air cushion
 ![[_attachments/loc96 (2 files merged)/loc96 (2 files merged)_p2_f1.png]]
 <!--fig:end-->
 

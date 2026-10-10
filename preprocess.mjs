@@ -11,7 +11,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
-import { fixOptionBold } from "./scripts/bold-labels.mjs"
+import { fixOptionBold, fixBoldSpacing, fixInlineTag } from "./scripts/bold-labels.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
 import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear, sourceLabel, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord } from "./scripts/comp-label.mjs"
@@ -358,6 +358,10 @@ function transform(content) {
   // `**A ** text` (space before the closing **) renders as raw asterisks: close the
   // bold on short option labels A–E only (scripts/bold-labels.mjs).
   content = fixOptionBold(content, BOLD_STATS)
+  // any other bold with inner edge spaces / stray markers (scripts/bold-labels.mjs)
+  content = fixBoldSpacing(content, BOLD_STATS)
+  // one-line $$ … \tag{n} $$ is inline math for remark-math -> make it a display block
+  content = fixInlineTag(content, BOLD_STATS)
   // strip local-vault PDF links (kept as plain text label); external http(s) PDF links
   // survive -- see scripts/pdf-links.mjs (negative lookahead (?!<?https?:) in both regexes)
   content = stripLocalPdfLinks(content)
@@ -765,7 +769,15 @@ async function main() {
       await fs.writeFile(dest, matter.stringify(outContent, data))
       mdWritten++
     }
-    if (data.tipo === "quesito") {
+    // fuori_corpus atoms (exam rules, chemistry/biology papers, hindi duplicate) keep
+    // their section on the prova page (URLs unchanged) but are not quesiti for /cerca.
+    const hrefQ = atomFrag.get(slugFromRel(rel)) || slugFromRel(rel)
+    // NOT_QUESITI: atoms the vault marks in prose as "not a problem" but not yet with
+    // `fuori_corpus: true` (Kepler, 10 Oct: IZhO 2026 stopwatch instructions).
+    const NOT_QUESITI = new Set(["Instruction_Stopwatch_eng__Q01"])
+    const outQ = outOfCorpus.set.has(hrefQ) || outOfCorpus.set.has(String(hrefQ).split("#")[0]) || NOT_QUESITI.has(path.basename(rel, ".md"))
+    if (data.tipo === "quesito" && outQ) outOfCorpus.quesiti = (outOfCorpus.quesiti || 0) + 1
+    if (data.tipo === "quesito" && !outQ) {
       const tags = Array.isArray(data.tags) ? data.tags : []
       const cluster = data.cluster ? String(data.cluster) : ""
       const ans = content.match(/^\*\*Risposta:\*\*\s*\*\*\s*([A-E])\s*\*\*/m)
@@ -1108,7 +1120,8 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
   console.log(`translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkBlocks} blocks, ${sibStats.backlinkLines} lines (${sibStats.backlinkNew} blocks changed vs the trailing-only rule)`)
   console.log(`etichetta: ${provaEti.size} prove, ${atomEti.size} quesiti with their own; soluzioni titles: ${solStats.total} (${solStats.single} from one prova, ${solStats.common} from shared words, ${solStats.folder} from the competition in the file name or PDF folder, ${solStats.none} with no competition)`)
   console.log(`fuori_corpus notes: ${outOfCorpus.set.size} (prove/atoms), ${outOfCorpus.rows} concept-list rows dropped`)
-  console.log(`option-label bold fixed (**A ** -> **A**): ${BOLD_STATS.fixed} (counted per transform() call)`)
+  console.log(`option-label bold fixed (**A ** -> **A**): ${BOLD_STATS.fixed}; bold spacing fixed: ${BOLD_STATS.spacing || 0}, stray ** handled: ${BOLD_STATS.stray || 0}; one-line $$ \\tag -> display: ${BOLD_STATS.tag || 0} (counted per transform() call)`)
+  console.log(`fuori_corpus quesiti left out of quesiti.json: ${outOfCorpus.quesiti || 0}`)
   console.log(`source file names dropped from ${provaLabel.size} prova titles (${[...provaLabel.values()].filter(Boolean).length} with a clean label)`)
 }
 main()

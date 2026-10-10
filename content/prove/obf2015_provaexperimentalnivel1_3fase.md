@@ -73,7 +73,7 @@ do valor principal.
 
 <div class="qlang-split" data-lang="it"></div>
 
-** del valore principale**
+**del valore principale**
 
 2. Prima otteniamo il valore dell'errore per poi ottenere la posizione dell'ultimo algarismo significativo
 il valore principale.

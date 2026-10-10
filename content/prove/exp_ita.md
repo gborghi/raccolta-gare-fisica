@@ -36,7 +36,7 @@ Trovare la direzione di polarizzazione (cioè quale delle due diagonali) del pol
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information shall be provided: Polarizers (0.8 points) **
+The following information shall be provided: Polarizers (0.8 points) 
 
 Find the direction of polarization (i.e. which of the two diagonals) of polarizer 1 and polarizer 2. Show these directions in the figure in the Answer Sheet. (i.e. the number of points)
 
@@ -111,7 +111,7 @@ Determinare approssimativamente a che distanza, prima lungo il righello 1 e poi 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 1.2.2  The reins (0.6 points) **
+**Part 1.2.2  The reins (0.6 points)**
 
 Determine approximately at what distance, first along the rectangle 1 and then along the two rectangles overlapping, the phase for blue light is $2\pi$. (0.6 points)
 
@@ -144,7 +144,7 @@ Trovare le direzioni possibili per l'asse ottico della striscia di plastica fles
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 1.3.1  The plastic strip (0.4 points) **
+**Part 1.3.1  The plastic strip (0.4 points)**
 
 Find the possible directions for the optical axis of the flexible plastic strip. Indicate these directions in the answer sheet. (0.4 points)
 
@@ -341,7 +341,7 @@ Misurare la tensione ai capi del resistore in funzione della sua resistenza per 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.1.2  Study of the photodiode (1.0 points) **
+**Part 2.1.2  Study of the photodiode (1.0 points)**
 
 Measure the voltage to the resistor heads according to its resistance for two incident light intensity values: maximum (without filter: $n=0$) and minimum (with $n=5$ filters). Representing both functions on the same graph. Find the range of resistance for which the difference between the voltages is the greatest possible. The following points are added:
 
@@ -444,7 +444,7 @@ L'intensità luminosa in unità relative è pari alla tensione ai capi del resis
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.2.1  Transmission of light through a plastic relay (2.0 points) **
+**Part 2.2.1  Transmission of light through a plastic relay (2.0 points)**
 
 Place one of the two plastic reels between the two polarizers and fix it with the springs on the screen with the crack. Verify that both reins show the phenomenon of bifrangence.
 
@@ -521,7 +521,7 @@ calcolare, per i righelli 1 e 2, i valori numerici dei coefficienti indicati sop
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.2.3  Transmission of light through a plastic relay (1.0 points) **
+**Part 2.2.3  Transmission of light through a plastic relay (1.0 points)**
 
 Assuming that $\Delta\varphi(x)$ is linear for each reel:
 $$\Delta\varphi_1 = a_1 x + b_1,\quad \Delta\varphi_2 = a_2 x + b_2,$$
@@ -761,7 +761,7 @@ Utilizzando i dati ottenuti nelle parti precedenti, calcolare il raggio di curva
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.4.3  Transmission of light through a curved plastic strip (1.0 points) **
+**Part 2.4.3  Transmission of light through a curved plastic strip (1.0 points)**
 
 In the vicinity of the centre of the strip its shape may be approximated by a circular arc of $R$ radius. The theoretical dependency of $\Delta\varphi$ phase depending on the distance $z$ from the centre of the strip, with $z \ll R$, is as follows:
 $$\Delta\varphi = \Delta\varphi_0\!\left(1 + \frac{z^2}{2n^2 R^2}\right),$$

@@ -55,21 +55,21 @@ Un cilindro a pareti sottili di massa $M$ e superficie interna ruvida di raggio 
 
 ![[APhO_2009_theory_Q1_p1_f1.png]]
 
-**1.1) ** La rotazione di $M$ deve essere avviata dal riposo all'istante $t = 0$ quando $m$ si riposa al punto più basso. In un secondo momento $t$ la posizione angolare del centro di massa di $m$ è $\theta$ e a quel punto $M$ ha attraversato un angolo $\varphi$ radiani. Quanti radiani (denominati $\psi$) avrebbero massa $m$ girata intorno al suo asse centrale rispetto a una linea fissa (ad esempio, l'asse Y negativo)? Rispondi in termini di $\theta$, $\varphi$, $R$ e $r$. *(0,8 punti) *
+**1.1)** La rotazione di $M$ deve essere avviata dal riposo all'istante $t = 0$ quando $m$ si riposa al punto più basso. In un secondo momento $t$ la posizione angolare del centro di massa di $m$ è $\theta$ e a quel punto $M$ ha attraversato un angolo $\varphi$ radiani. Quanti radiani (denominati $\psi$) avrebbero massa $m$ girata intorno al suo asse centrale rispetto a una linea fissa (ad esempio, l'asse Y negativo)? Rispondi in termini di $\theta$, $\varphi$, $R$ e $r$. *(0,8 punti) *
 
-**1.2) ** Qual è l'accelerazione angolare di $m$, $\dfrac{d^2}{dt^2}\psi$, intorno al suo asse attraverso il suo centro di massa? Rispondi in termini di $R$, $r$ e derivati di $\theta$ e $\varphi$. *(0,2 punti) *
+**1.2)** Qual è l'accelerazione angolare di $m$, $\dfrac{d^2}{dt^2}\psi$, intorno al suo asse attraverso il suo centro di massa? Rispondi in termini di $R$, $r$ e derivati di $\theta$ e $\varphi$. *(0,2 punti) *
 
-**1.3) ** Derivare un'equazione per l'accelerazione angolare del centro di massa di $m$, $\dfrac{d^2}{dt^2}\theta$, in termini di $m$, $g$, $R$, $r$, $\dfrac{d^2}{dt^2}\varphi$, e del momento di inerzia $I_{CM}$ di $m$ attorno al suo asse centrale. *(1,8 punti) *
+**1.3)** Derivare un'equazione per l'accelerazione angolare del centro di massa di $m$, $\dfrac{d^2}{dt^2}\theta$, in termini di $m$, $g$, $R$, $r$, $\dfrac{d^2}{dt^2}\varphi$, e del momento di inerzia $I_{CM}$ di $m$ attorno al suo asse centrale. *(1,8 punti) *
 
-**1.4) ** Qual è il periodo di piccola oscillazione di amplitudine di $m$ quando $M$ è costretto a girare a velocità angolare costante? Rispondi solo in termini di $R$, $r$ e $g$. *(1,3 punto) *
+**1.4)** Qual è il periodo di piccola oscillazione di amplitudine di $m$ quando $M$ è costretto a girare a velocità angolare costante? Rispondi solo in termini di $R$, $r$ e $g$. *(1,3 punto) *
 
-**1.5) ** Qual è il valore di $\theta$ per la posizione di equilibrio di $m$ nella domanda 1.4? *(0,2 punti) *
+**1.5)** Qual è il valore di $\theta$ per la posizione di equilibrio di $m$ nella domanda 1.4? *(0,2 punti) *
 
-**1.6) ** Qual è la posizione di equilibrio di $m$ quando $M$ ruota con un'accelerazione angolare costante $\alpha$? Rispondi in termini di $R$, $g$ e $\alpha$. *(0,7 punti) *
+**1.6)** Qual è la posizione di equilibrio di $m$ quando $M$ ruota con un'accelerazione angolare costante $\alpha$? Rispondi in termini di $R$, $g$ e $\alpha$. *(0,7 punti) *
 
-**1.7) ** Ora $M$ può girare (oscillare) liberamente, senza vincoli, intorno al suo asse centrale OZ mentre $m$ esegue un'oscillazione di piccola amplitudine per semplice rotolamento sulla superficie interna di $M$. Trova il periodo di questa oscillazione. *(2,5 punti) *
+**1.7)** Ora $M$ può girare (oscillare) liberamente, senza vincoli, intorno al suo asse centrale OZ mentre $m$ esegue un'oscillazione di piccola amplitudine per semplice rotolamento sulla superficie interna di $M$. Trova il periodo di questa oscillazione. *(2,5 punti) *
 
-**1.8) ** Considerare la situazione in cui $M$ ruota costantemente a velocità angolare $\Omega$ e $m$ ruota (rollando) intorno al suo centro di massa stazionario, nella posizione di equilibrio trovata nella domanda 1.5. Il $M$ viene quindi interromputo improvvisamente. Qual è il valore più basso di $\Omega$ tale che $m$ si arrotoli e raggiunga il punto più alto della superficie cilindrica di $M$? Si presume che il coefficiente di attrito tra $m$ e $M$ sia sufficientemente elevato da consentire alla $m$ di iniziare a rotolare senza scivolare poco dopo un breve scivolamento subito dopo l'arresto di $M$. *(2,5 punti) *
+**1.8)** Considerare la situazione in cui $M$ ruota costantemente a velocità angolare $\Omega$ e $m$ ruota (rollando) intorno al suo centro di massa stazionario, nella posizione di equilibrio trovata nella domanda 1.5. Il $M$ viene quindi interromputo improvvisamente. Qual è il valore più basso di $\Omega$ tale che $m$ si arrotoli e raggiunga il punto più alto della superficie cilindrica di $M$? Si presume che il coefficiente di attrito tra $m$ e $M$ sia sufficientemente elevato da consentire alla $m$ di iniziare a rotolare senza scivolare poco dopo un breve scivolamento subito dopo l'arresto di $M$. *(2,5 punti) *
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tCLHcDOeCfkA8ChrrY80EesIuQe2NAVk/view)
 
@@ -114,23 +114,23 @@ A metallic disc of radius $a$ mounted on a slender axle is rotating with a const
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Un'auto-escitazione magnetica
+**Un'auto-escitazione magnetica**
 
 Un disco metallico di raggio $a$ montato su un asse sottile ruota a velocità angolare costante $\omega$ all'interno di un lungo solenoide di inductanza $L$ le cui estremità sono collegate al disco rotante da due contatti di spazzola come mostrato. La resistenza totale di tutto il circuito è $R$. Un piccolo disturbo magnetico può avviare la crescita di una forza elettromotrice indotta attraverso i terminali P, Q.
 
 ![[APhO_2009_theory_Q2_p1_f1.png]]
 
-**2.1) ** Scrivi l'equazione differenziale per $i(t)$, la corrente attraverso il circuito. Esprimere la risposta in termini di $L$, $R$ e l'e.m.f. indotta. $(E)$ attraverso i terminali P e Q. *(1,0 punto) *
+**2.1)** Scrivi l'equazione differenziale per $i(t)$, la corrente attraverso il circuito. Esprimere la risposta in termini di $L$, $R$ e l'e.m.f. indotta. $(E)$ attraverso i terminali P e Q. *(1,0 punto) *
 
-**2.2) ** Qual è il valore della densità del flusso magnetico $(B)$ in termini di $i$, $N$, $A$ e della permeabilità dello spazio libero $\mu_0$? Ignorare il campo magnetico generato dal disco e dall'asse. *(1,5 punti) *
+**2.2)** Qual è il valore della densità del flusso magnetico $(B)$ in termini di $i$, $N$, $A$ e della permeabilità dello spazio libero $\mu_0$? Ignorare il campo magnetico generato dal disco e dall'asse. *(1,5 punti) *
 
-**2.3) ** Qual è l'espressione per l' e.m.f. indotta? $(E)$ in termini di $\mu_0$, $N$, $a$, $\ell$, $i$ e della velocità angolare $\omega$? *(2,0 punti) *
+**2.3)** Qual è l'espressione per l' e.m.f. indotta? $(E)$ in termini di $\mu_0$, $N$, $a$, $\ell$, $i$ e della velocità angolare $\omega$? *(2,0 punti) *
 
-**2.4) ** Risolvere l'equazione in questione 2.1 per corrente in qualsiasi momento $t$ in termini di corrente iniziale $i(0)$ e altri parametri. *(1,5 punti) *
+**2.4)** Risolvere l'equazione in questione 2.1 per corrente in qualsiasi momento $t$ in termini di corrente iniziale $i(0)$ e altri parametri. *(1,5 punti) *
 
-**2.5) ** Qual è il valore minimo della velocità angolare che permetterà alla corrente di crescere? Rispondere in termini di $R$, $\mu_0$, $N$, $a$ e $\ell$. *(2,0 punti) *
+**2.5)** Qual è il valore minimo della velocità angolare che permetterà alla corrente di crescere? Rispondere in termini di $R$, $\mu_0$, $N$, $a$ e $\ell$. *(2,0 punti) *
 
-**2.6) ** Per mantenere una certa velocità angolare costante $\omega$, qual deve essere il valore della coppia applicata all'asse all'istante $t$? *(2,0 punti) *
+**2.6)** Per mantenere una certa velocità angolare costante $\omega$, qual deve essere il valore della coppia applicata all'asse all'istante $t$? *(2,0 punti) *
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16VoF8DjsZ7wCOoSWpgkU95itez5zBMrE/view)
 
@@ -207,19 +207,19 @@ Per un flusso di vapore newtoniano possiamo approssimare che
 
 $$\eta \frac{d}{dz}v = z\,\frac{dP}{dr}$$
 
-**3.1) ** Mostra che
+**3.1)** Mostra che
 
 $$\eta\, v(z) = \frac{z^2}{2}\frac{dP}{dr} + C$$
 
 dove $C$ è una costante di integrazione arbitraria. *(0,5 punto) *
 
-**3.2) ** Si riferisce alla figura 2, trova il valore di $C$ in termini di $\eta$, $\dfrac{dP}{dr}$ e $b$ utilizzando la condizione di confine $v = 0$ per $z = \pm\dfrac{b}{2}$. *(0,5 punto) *
+**3.2)** Si riferisce alla figura 2, trova il valore di $C$ in termini di $\eta$, $\dfrac{dP}{dr}$ e $b$ utilizzando la condizione di confine $v = 0$ per $z = \pm\dfrac{b}{2}$. *(0,5 punto) *
 
-**3.3) ** Calcolare il volume di flusso di vapore attraverso la superficie cilindrica definita da $r$. (Signore: il cilindro ha un raggio $r$ e un'altezza $b$ sotto la goccia). *(1,0 punto) *
+**3.3)** Calcolare il volume di flusso di vapore attraverso la superficie cilindrica definita da $r$. (Signore: il cilindro ha un raggio $r$ e un'altezza $b$ sotto la goccia). *(1,0 punto) *
 
-**3.4) ** Supponendo che il tasso di produzione di vapori di densità $\rho_V$ sia dovuto al flusso di calore dalla superficie calda alla goccia, si trova l'espressione per la pressione $P(r)$. Per rappresentare la pressione atmosferica utilizzare $P_a$ e per la differenza di temperatura tra quella della superficie calda e quella della goccia utilizzare $\Delta T$. Supponiamo che il sistema abbia raggiunto lo stato di stabilità. *(2,0 punti) *
+**3.4)** Supponendo che il tasso di produzione di vapori di densità $\rho_V$ sia dovuto al flusso di calore dalla superficie calda alla goccia, si trova l'espressione per la pressione $P(r)$. Per rappresentare la pressione atmosferica utilizzare $P_a$ e per la differenza di temperatura tra quella della superficie calda e quella della goccia utilizzare $\Delta T$. Supponiamo che il sistema abbia raggiunto lo stato di stabilità. *(2,0 punti) *
 
-**3.5) ** Calcolare il valore di $b$ equiparando il peso della caduta alla forza netta dovuta alla differenza di pressione tra il fondo e la parte superiore della caduta. La densità della goccia è $\rho_0$. *(2,0 punti) *
+**3.5)** Calcolare il valore di $b$ equiparando il peso della caduta alla forza netta dovuta alla differenza di pressione tra il fondo e la parte superiore della caduta. La densità della goccia è $\rho_0$. *(2,0 punti) *
 
 Ora, qual è il tasso totale di vaporizzazione? *(2,0 punti) *
 

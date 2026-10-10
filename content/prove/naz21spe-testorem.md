@@ -97,12 +97,12 @@ The following table shows the results of the tests:
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Collar of sporadic points above
+**p.3**  Collar of sporadic points above
 ![[_attachments/Naz21Spe-TestoREM/Naz21Spe-TestoREM_p3_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  List with mounted points
+**p.3**  List with mounted points
 ![[_attachments/Naz21Spe-TestoREM/Naz21Spe-TestoREM_p3_f5.png]]
 <!--fig:end-->
 
@@ -112,7 +112,7 @@ The manufacturer shall ensure that the manufacturer is able to provide the manuf
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Particular assembly of the corner
+**p.4**  Particular assembly of the corner
 ![[_attachments/Naz21Spe-TestoREM/Naz21Spe-TestoREM_p4_f7.png]]
 <!--fig:end-->
 

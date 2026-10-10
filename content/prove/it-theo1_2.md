@@ -72,7 +72,7 @@ Calculate, with four significant digits:
 (b) the necessary phase difference produced by the phase regulator.
 
 <!--fig:start-->
-**p.2 **  Characteristic of klystron with cavity and electron beam
+**p.2**  Characteristic of klystron with cavity and electron beam
 ![[_attachments/IT-Theo1_2/IT-Theo1_2_p2_f1.png]]
 <!--fig:end-->
 

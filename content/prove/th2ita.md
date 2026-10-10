@@ -169,7 +169,7 @@ Radiazione solare $G$
 (b) How many kilograms per second of air passes through the system? (0.5 points)
 
 <!--fig:start-->
-**p.1 **  Sketch of a chimney with a furnace
+**p.1**  Sketch of a chimney with a furnace
 ![[_attachments/th2ITA/th2ITA_p1_f1.png]]
 <!--fig:end-->
 

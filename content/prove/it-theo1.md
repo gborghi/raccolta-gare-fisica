@@ -68,15 +68,15 @@ The signal consists of a square wave voltage with period $T = 1{,}0 \times 10^{-
 
 Calculate, with four significant digits:
 
-**a) ** The distance $b$ at which electrons cluster.
+**a)** The distance $b$ at which electrons cluster.
 
-**b) ** The required phase difference produced by the phase regulator.
+**b)** The required phase difference produced by the phase regulator.
 
 
 ---
 
 <!--fig:start-->
-**p.2 **  Scheme of the clystron with cavity and regulator
+**p.2**  Scheme of the clystron with cavity and regulator
 ![[_attachments/IT-Theo1/IT-Theo1_p2_f1.png]]
 <!--fig:end-->
 
@@ -177,17 +177,17 @@ Si può ottenere una tensione a dente di sega $V_0$ ai capi del condensatore $C$
 **SEMPLICE GENERATORE DI SEGNALI A DENTE DI SEGA**
 A welding tooth voltage $V_0$ can be obtained at the capacitor heads $C$ in the circuit shown below. $R$ is a variable resistance, $V_i$ is an ideal battery, SG (*spark gap*) is a pair of adjustable distance electrodes between which a spark can be triggered. When the potential difference between the electrodes reaches the discharge voltage $V_f$, a discharge in the air is produced that shortens the electrodes. The discharge remains until the potential difference between the same electrodes becomes very small.
 
-**a) ** Draw the waveform of $V_0$ as a function of the time $t$ after the switch is closed.
+**a)** Draw the waveform of $V_0$ as a function of the time $t$ after the switch is closed.
 
-**b) ** What condition must be met to obtain a wave $V_0$ with sawdust that grows in a practically linear manner?
+**b)** What condition must be met to obtain a wave $V_0$ with sawdust that grows in a practically linear manner?
 
-**c) ** Derives a simplified expression for the period $T$ of the waveform, valid when this condition is met.
+**c)** Derives a simplified expression for the period $T$ of the waveform, valid when this condition is met.
 
 **d)** Cosa dovresti variare ($R$ e/o SG) per cambiare soltanto il periodo?
 
 **e)** Cosa dovresti variare ($R$ e/o SG) per cambiare soltanto l'ampiezza?
 
-**f) ** You are provided with an additional variable continuous voltage source. Design and draw a new circuit indicating the terminals where to obtain a voltage that is shaped like a wave of sawdust transferred vertically (as shown in Figure 2).
+**f)** You are provided with an additional variable continuous voltage source. Design and draw a new circuit indicating the terminals where to obtain a voltage that is shaped like a wave of sawdust transferred vertically (as shown in Figure 2).
 
 
 ---

@@ -559,8 +559,8 @@ of ceramic in the configuration shown in Figure 1. The set is carefully taken to
 oven and heated $300\ ^\circ\text{C}$.
 Since the dilatation of ceramics is negligible compared with that of metal, it is correct to state that the
 on the variation of distances $d_1$ and $d_2$:
-- MSK1/>A** both increase.
-- MSK0/>B** both decrease.
+- MSK1/>A both increase.
+- MSK0/>B both decrease.
 - **C.** both remain constant.
 - **D** $d_1$ increases and $d_2$ decreases.
 - **E** $d_1$ decreases and $d_2$ increases.

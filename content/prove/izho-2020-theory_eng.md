@@ -45,6 +45,10 @@ Consider only two specific cases:
 
 **1.3.2** $r_1 = 10\ mm$ and $r_2 = 0{,}1\ mm$.
 
+**Topic:** [[Gravitation]], [[Circuits]], [[Geometric Optics]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Gauss's Law (metodo)|Gauss's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -158,6 +162,10 @@ Consider another pair of immiscible liquids, water and fluoroketone.
 Fluoroketone, sometimes called "dry water", is used to extinguish fires in libraries, museums, and offices because it does not wet paper. It is a heavy (density $\rho = 1{,}72\ g/sm^3$) transparent liquid with a molar mass $\mu = 316\ g/mol$, which practically does not dissolve in water. The boiling point of fluoroketone at atmospheric pressure is $t_f = 49{,}2\ ^\circ\mathrm{C}$, its specific heat of vaporization is $r = 95{,}0\ J/g$. If water is poured over the fluoroketone into the vessel, a clear water-fluoroketone border is also formed.
 
 **2.10** Estimate the boiling point $t_x$ of liquids at the water-fluoroketone border if the saturated vapor pressure of water is known at the volume boiling point of fluoroketone to be $P_w(t_f) = 89{,}0\ mm\ Hg$.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -287,6 +295,10 @@ Find the constants $A_2, B_2$ and $\gamma_2$.
 > $$\int\frac{dx}{ax+b} = \frac{1}{a}\ln|ax+b|,$$
 > $$\int x^n\,dx = \frac{x^{n+1}}{n+1},\ \text{where } n \text{ is integer},$$
 > $$(1+x)^{\gamma} \approx 1 + \gamma x + \frac{\gamma(\gamma-1)}{2}x^2,\ \text{for } x \ll 1 \text{ and any } \gamma.$$
+
+**Topic:** [[Electromagnetic Induction]], [[Magnetism]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

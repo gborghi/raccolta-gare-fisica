@@ -145,7 +145,7 @@ e) Considerando quanto sopra, si deve calcolare l'incertezza $\Delta k$ del valo
 
 f) Determina il valore della costante $\alpha$.
 
-**Dati: ** Massa del molo, $m = 800$ g; massa della piattaforma, $M_p = 6{,}80$ kg.
+**Dati:** Massa del molo, $m = 800$ g; massa della piattaforma, $M_p = 6{,}80$ kg.
 
 <!--fig:start-->
 ![[_attachments/2024 35 OAF 2024 PRUEBA EXPERIMENTAL/2024 35 OAF 2024 PRUEBA EXPERIMENTAL_p2_f1.png]]

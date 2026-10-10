@@ -85,7 +85,7 @@ In this question we will investigate various aspects of a hypothetical aerostati
 
 Prendi la permisione dell'aria circostante per essere unita'.
 
-**2. ** Trova quale carica superficiale $\sigma$ controbilancerà esattamente la pressione atmosferica $P$. Potete procedere come segue:
+**2.** Trova quale carica superficiale $\sigma$ controbilancerà esattamente la pressione atmosferica $P$. Potete procedere come segue:
 
 - (a) Considerare un piccolo contratto su una superficie conduttiva generalmente carica. Mostra che il campo elettrico effettivo che agisce sul patch è
 $$\mathbf{E}_{\text{effective}} = \tfrac{1}{2}(\mathbf{E}_+ + \mathbf{E}_-)$$
@@ -103,7 +103,7 @@ dove $\mathbf{E}_+$ e $\mathbf{E}_-$ sono i campi elettrici immediatamente sopra
 - b) energia $W$ [si riferisce al problema 1.(d) ]
 - (c) potenza $\Pi$ [Problema 3.(b)].
 
-**5. ** Considerate un palloncino a aria calda convenzionale. Supponiamo che sia sferica. Un bruciatore di gas riscalda l'aria, in modo che la sua densità diminuisca all'interno del palloncino e la forza di Archimede fornisca la flottabilità. Utilizzare ragionamenti fisici e considerazioni pratiche per stimare come la potenza del bruciatore richiesto dipenda dal carico utile di massa $M$. Supponiamo che il volume di massa $M$ non contribuisca alla forza di galleggiamento. Commenta su quale tipo di tecnologia sia più adatta al volo. Qualsiasi risposta valida sarà riconosciuta.
+**5.** Considerate un palloncino a aria calda convenzionale. Supponiamo che sia sferica. Un bruciatore di gas riscalda l'aria, in modo che la sua densità diminuisca all'interno del palloncino e la forza di Archimede fornisca la flottabilità. Utilizzare ragionamenti fisici e considerazioni pratiche per stimare come la potenza del bruciatore richiesto dipenda dal carico utile di massa $M$. Supponiamo che il volume di massa $M$ non contribuisca alla forza di galleggiamento. Commenta su quale tipo di tecnologia sia più adatta al volo. Qualsiasi risposta valida sarà riconosciuta.
 
 **6.** In practice one can expect the electrostatic balloon to be not perfectly hermetic. Di conseguenza, il vuoto all'interno si riempirà lentamente di aria proveniente dall'atmosfera. Possiamo modellare la situazione immaginando che nel palloncino ci siano piccoli buchi con una superficie totale $S \ll R^2$. Supponiamo che il volume di massa $M$ non contribuisca alla forza di galleggiamento.
 
@@ -211,7 +211,7 @@ $$\dot{f} \equiv \frac{df}{dt} \qquad \text{and} \qquad f' \equiv \frac{df}{d\th
 
 Per quanto riguarda la parte 1, supponiamo che l'orlo sia sempre in contatto con la cintura trasportatrice e che $X$ e $\theta$ siano indipendenti (cioè: non assumono alcuna limitazione come la condizione di non scivolare, ecc.).
 
-**1.A. Accelerazione: ** Esprimere le componenti orizzontali e verticali, $a_x$ e $a_y$, dell'accelerazione del carico nel telaio di laboratorio in termini di $R$, $\ddot{X}$, $\theta$, $\dot{\theta}$ e $\ddot{\theta}$.
+**1.A. Accelerazione:** Esprimere le componenti orizzontali e verticali, $a_x$ e $a_y$, dell'accelerazione del carico nel telaio di laboratorio in termini di $R$, $\ddot{X}$, $\theta$, $\dot{\theta}$ e $\ddot{\theta}$.
 
 **1.B. Energia:** Utilizzare la convenzione che l'energia potenziale gravitazionale del cerchio carico è zero quando il carico è al fondo. Esprimere l'energia meccanica totale, $E$, del cerchio carico in termini di $M$, $m$, $g$, $R$, $\theta$, $\dot{\theta}$ e $\dot{X}$.
 
@@ -219,9 +219,9 @@ Per quanto riguarda la parte 1, supponiamo che l'orlo sia sempre in contatto con
 
 Per la parte 2, supponiamo che la cintura di trasporto sia in riposo. Se il cerchio carico viene spostato in un angolo piccolo dalla verticale e rilasciato dal riposo il sistema oscilla.
 
-**2.A. Periodo in cui l'attrito è trascurabile: ** Supponendo che l'attrito sia trascurabile, determinare il periodo della piccola oscillazione, $T_A$ del cerchio carico.
+**2.A. Periodo in cui l'attrito è trascurabile:** Supponendo che l'attrito sia trascurabile, determinare il periodo della piccola oscillazione, $T_A$ del cerchio carico.
 
-**2.B. Periodo in cui l'orlo non scivola: ** Supponendo che l'attrito sia sufficientemente elevato per garantire che non vi sia un scivolo, determinare il periodo di piccola oscillazione, $T_B$ dell'orlo carico.
+**2.B. Periodo in cui l'orlo non scivola:** Supponendo che l'attrito sia sufficientemente elevato per garantire che non vi sia un scivolo, determinare il periodo di piccola oscillazione, $T_B$ dell'orlo carico.
 
 ### Parte 3. Orientazioni angolari stabili su una cintura di trasporto accelerata
 
@@ -247,8 +247,8 @@ Per quanto riguarda la parte 4, supponiamo quanto segue:
 
 **4.A.** Quando il coefficiente di attrito statico è estremamente elevato (come presumerebbero qui), possono verificarsi due tipi di movimento:
 
-- **Typ A: ** L' arco carico subisce oscillazioni angolari per sempre e non scivola mai.
-- **Typ B: ** L' arco carico completa almeno una rotazione senza scivolare.
+- **Typ A:** L' arco carico subisce oscillazioni angolari per sempre e non scivola mai.
+- **Typ B:** L' arco carico completa almeno una rotazione senza scivolare.
 
 (4.A.1) **Typ A Motion.** Per la parte 4.A.1, supponiamo che l'orlo carico sia osservato sottoporsi a Motion di tipo A e che il spostamento angolare massimo del carico sia osservato come $\theta_{\text{maximum}} \equiv \beta = 30^\circ$. Riduzione di un'espressione algebrica per $K/g$ in termini di $\beta$ e determinazione del suo valore numerico.
 
@@ -379,7 +379,7 @@ L = n\hbar. \tag{2}
 $$
 
 ![[WoPhO_2012_Q3_p1_f1.png]]
-**Figura 1: ** Orbit elettroniche stazionarie per diverse molecole come suggerito da Niels Bohr nel 1913.
+**Figura 1:** Orbit elettroniche stazionarie per diverse molecole come suggerito da Niels Bohr nel 1913.
 
 Ispirato all'accordo tra le previsioni teoriche del suo modello e i dati sperimentali per l'atomo di idrogeno, Niels Bohr ha tentato di applicare il concetto di orbita stazionaria a sistemi più complessi come atomi e molecole a molti elettroni. La figura 1 rappresenta uno sketch originale di Niels Bohr di possibili orbite di elettroni stazionari in un certo numero di molecole. Per i modelli molecolari suggeriti, tuttavia, Bohr non osservò un accurato accordo con i dati sperimentali riguardanti le distanze tra i protoni atomici e le energie di legame molecolare.
 
@@ -390,7 +390,7 @@ L'interesse per il modello molecolare di Bohr, tuttavia, è risvegliato dopo una
 Nella figura 2 è mostrato uno schizzo dettagliato del modello della molecola di idrogeno proposto da Niels Bohr. I due protoni ($p^+$) sono separati da una distanza $R$. I due elettroni ($e^-$) ruotano con la stessa velocità angolare intorno alla stessa orbita circolare, che è perpendicolare e divide la linea che collega i due protoni. Le distanze tra elettroni e protoni sono indicate da $r$ e il raggio dell'orbita circolare da $\rho$.
 
 ![[WoPhO_2012_Q3_p2_f2.png]]
-**Figura 2: ** Una rappresentazione schematica del modello di Bohr per la molecola di idrogeno. Sono mostrate tutte le distanze pertinenti.
+**Figura 2:** Una rappresentazione schematica del modello di Bohr per la molecola di idrogeno. Sono mostrate tutte le distanze pertinenti.
 
 Si presume che:
 
@@ -543,7 +543,7 @@ Quando sono fabbricati o utilizzati, i corpi solidi porosi possono essere espost
 Il solido poroso considerato nel problema contiene solo pori chiusi con una piccola quantità di acqua (Fig. 1). Un volume di acqua liquida è insignificante rispetto a quello del poro. L'acqua è in equilibrio con la fase di vapore. Per semplicità, i pori sono considerati privi di qualsiasi altro gas. Anche l'espansione del calore dei pori può essere trascurata.
 
 ![[WoPhO_2012_Q4_p1_f1.png]]
-**Figura 1: ** solido poroso e poroso singolo.
+**Figura 1:** solido poroso e poroso singolo.
 
 ### Parte 1. Contenuto delle porche
 
@@ -681,7 +681,7 @@ $$\frac{d}{dx}\arcsin(x) = \frac{1}{\sqrt{1-x^2}}$$
 L'arcobaleno è uno spettacolare spettacolo del fenomeno della dispersione. Ci sono molte belle storie sull'arcobaleno, ma qui vedremo l'arcobaleno dal punto di vista della fisica. Dopo la pioggia, ci sono ancora un sacco di piccole gocce d'acqua nell'aria. Se il sole appare da dietro le nuvole in questo momento, allora l'arcobaleno può essere formato dalla luce solare refrattata e riflessa da queste piccole gocce d'acqua. Le goccioline d'acqua nell'aria possono avere forme diverse. Solo gocce di acqua sferiche contribuiscono alla formazione dell'arcobaleno. Quando cade attraverso l'aria, la forma di una goccia d'acqua dipende dalla sua dimensione. Durante questo processo, la tensione superficiale dell'acqua tende a ridurre al minimo la superficie della goccia e a rendere la goccia sferica, ma allo stesso tempo, il peso della goccia e la forza resistente all'aria fanno deformare la goccia dall'aspetto sferica. La tensione superficiale predominante nelle piccole goccioline d'acqua, quindi le piccole goccioline d'acqua sono sferiche. Per le gocce d'acqua più grandi, il peso della goccia e la forza resistente all'aria sono più forti della tensione superficiale, quindi le gocce d'acqua più grandi non sono sferiche.
 
 ![[WoPhO_2012_Q5_p1_f1.png]]
-**Figura 1: ** L'arcobaleno
+**Figura 1:** L'arcobaleno
 
 ### Parte 1. Il diametro massimo di una goccia d'acqua sferica
 
@@ -690,10 +690,10 @@ Considerate ora una goccia di acqua sferica che cade nell'aria a una velocità c
 **1.A.** Calcolare la forza resistente all'aria per unità di superficie della goccia d'acqua $f$. Esprimere il risultato in termini di densità dell'acqua $\rho$, accelerazione gravitazionale $g$ e di diametro della goccia d'acqua $D$.
 
 ![[WoPhO_2012_Q5_p2_f2.png]]
-**Figura 2: ** La forza resistente all'aria sulla superficie di una goccia d'acqua.
+**Figura 2:** La forza resistente all'aria sulla superficie di una goccia d'acqua.
 
 ![[WoPhO_2012_Q5_p2_f3.png]]
-**Figura 3: ** La componente orizzontale $F_a$ della forza resistente all'aria e la componente orizzontale $F_t$ della forza di tensione superficiale che agisce su un quarto della sfera nella parte inferiore della goccia d'acqua.
+**Figura 3:** La componente orizzontale $F_a$ della forza resistente all'aria e la componente orizzontale $F_t$ della forza di tensione superficiale che agisce su un quarto della sfera nella parte inferiore della goccia d'acqua.
 
 **1.B.** Calcolare la componente orizzontale $F_a$ della forza resistente all'aria che agisce su un quarto della sfera nella parte inferiore della goccia d'acqua come mostrato nella figura. 3. Esprimere il risultato in termini di $\rho$, $g$ e $D$.
 
@@ -706,14 +706,14 @@ Considerate ora una goccia di acqua sferica che cade nell'aria a una velocità c
 **2.A.** Considerate un raggio di luce che viene refrattato nella goccia d'acqua, poi riflettuto una volta nella goccia d'acqua e infine refrattato nell'aria, come mostrato nella figura. 4. $\alpha$ è l'angolo centrale del punto di incidenza. Trova l'angolo $\theta$ tra il raggio riflesso e la direzione inversa del raggio incidente. Esprimere il risultato in termini di $\alpha$ e indice di rifrazione dell'acqua $n$.
 
 ![[WoPhO_2012_Q5_p3_f4.png]]
-**Figura 4: ** Rifrazione e riflessione dei raggi luminosi in una goccia d'acqua sferica.
+**Figura 4:** Rifrazione e riflessione dei raggi luminosi in una goccia d'acqua sferica.
 
 **2.B.** Supponiamo che la luce incidente sia una luce parallela con un'intensità ottica (potenza ottica per sezione unità) uguale a $I_0$. Trova la distribuzione angolare di potenza ottica della luce riflessa
 $$J(\theta) = \lim_{\substack{\Delta\theta\to 0 \\ \Delta\varphi\to 0}} \frac{\Delta P}{\Delta\theta\,\Delta\varphi},$$
 in cui $\Delta P$ è la potenza ottica all'interno di un piccolo intervallo angolare $\Delta\varphi\,\Delta\theta$ intorno a una determinata direzione (Fig. 5). Esprimete il risultato in termini di $\alpha$, $n$, $I_0$, il diametro della goccia d'acqua $D$, la trasmissione da aria ad acqua $T_1$, la trasmissione da acqua ad aria $T_2$, la riflettività nella goccia d'acqua $R$.
 
 ![[WoPhO_2012_Q5_p3_f5.png]]
-**Figura 5: ** La distribuzione angolare della potenza della luce riflessa.
+**Figura 5:** La distribuzione angolare della potenza della luce riflessa.
 
 **2.C.** Per le luci monocromatiche con lunghezza d'onda $\lambda = 550\ \text{nm}$ calcolare l'angolo $\theta_M$ in cui si verifica il massimo per $J(\theta)$ e il valore massimo $J(\theta_M)$ di $J(\theta)$. L'indice di rifrazione dell'acqua a $\lambda = 550\ \text{nm}$ è $n_g = 1.3342$.
 
@@ -838,7 +838,7 @@ Let us explore this drawback effect by the following model. Assume that we put a
 
 **Tsunami**  Data limite 31 maggio 2012
 
-**Constanti: **
+**Constanti:**
 - Accelerazione gravitazionale: $g = 9.8\ \text{m/s}^2$
 - densità dell'acqua: $\rho = 1000\ \text{kg/m}^3$
 
@@ -847,14 +847,14 @@ Il tsunami è un enorme fenomeno di onde oceaniche generato da un improvviso spo
 In questo problema esploreremo le basi fisiche del tsunami che ci aiuteranno a comprendere alcune delle sue caratteristiche fondamentali e a diffondere alcune conoscenze che potrebbero salvare vite in caso di catastrofe. In questo problema useremo alcuni dati stimati del tsunami dell'Oceano Indiano del 2004 prodotto da un terremoto al largo della costa di Sumatra, in Indonesia come mostrato di seguito.
 
 ![[WoPhO_2012_Q6_p1_f1.png]]
-**Figura 1: ** (a-c) La sequenza di un evento tsunami. d) La struttura delle onde del tsunami dell'Oceano Indiano del 2004. L'onda rossa viaggia verso ovest e l'onda blu verso est. Cassa puntata: area effettiva $L \times W$ per l'onda iniziale di tsunami generata lungo la linea di rottura (vedi domanda 1).
+**Figura 1:** (a-c) La sequenza di un evento tsunami. d) La struttura delle onde del tsunami dell'Oceano Indiano del 2004. L'onda rossa viaggia verso ovest e l'onda blu verso est. Cassa puntata: area effettiva $L \times W$ per l'onda iniziale di tsunami generata lungo la linea di rottura (vedi domanda 1).
 
 ### Parte 1. Energia dello tsunami
 
 La rottura sismica del fondo oceanico sposta improvvisamente un grande corpo d'acqua sopra di esso lungo la linea di rottura come mostrato nella Figura 1. Questo eccesso di acqua si disperderà come onde di tsunami che si propagano principalmente a sinistra e a destra. Fate un modello semplice del corpo d'acqua in eccesso con sezione trasversale triangolare come mostrato alla Figura 2. Il spostamento iniziale dell'acqua è $h = 5\ \text{m}$ che copre una grande area di linea di rottura di $L = 1400\ \text{km}$ e larghezza $W = 150\ \text{km}$. (Ricorda che $h$ è realmente in metro, molto piccolo rispetto a $L$ e $W$).
 
 ![[WoPhO_2012_Q6_p2_f2.png]]
-**Figura 2: ** Un modello del spostamento iniziale di un'onda di tsunami.
+**Figura 2:** Un modello del spostamento iniziale di un'onda di tsunami.
 
 **1.A.** Calculate the excess energy that will be dissipated as tsunami! Supponiamo che questo eccesso di acqua sia in riposo subito dopo l'evento sismico.
 
@@ -870,7 +870,7 @@ $$
 Facciamo una derivazione molto semplice della velocità del tsunami utilizzando un modello semplice di una metà di onda di tsunami utilizzando un modello di serbatoio d'acqua come mostrato di seguito. L'acqua si tende avanti e indietro da sinistra a destra, dato un lieve squilibrio iniziale di altezza. In questo modo l'altezza $a$ oscilla nel tempo. Let us assume that the width of the water tank is half the wavelength of the tsunami wave $\lambda$. La lunghezza del serbatoio d'acqua è $L$. Nota: per l'onda di tsunami (acqua bassa) supponiamo: $a \ll d \ll \lambda$.
 
 ![[WoPhO_2012_Q6_p3_f3.png]]
-**Figura 3: ** Modello di serbatoio d'acqua di un'onda di tsunami per stimare la sua velocità d'onda.
+**Figura 3:** Modello di serbatoio d'acqua di un'onda di tsunami per stimare la sua velocità d'onda.
 
 **2.A.** Scrivere la velocità orizzontale dell'elemento acqua come funzione della posizione orizzontale $x$, $a$ e/o della sua derivata. Suggerimento: la velocità al bordo del serbatoio d'acqua è zero.
 
@@ -879,7 +879,7 @@ Facciamo una derivazione molto semplice della velocità del tsunami utilizzando 
 **2.C.** Mostri che il sistema presenta un semplice oscillatore armonico. Calcolare il periodo di oscillazione $T$ dell'acqua!
 
 ![[WoPhO_2012_Q6_p4_f4.png]]
-**Figura 4: ** Un sistema di allarme tsunami in una zona costiera.
+**Figura 4:** Un sistema di allarme tsunami in una zona costiera.
 
 **2.D.** Lo tsunami spostano l'onda con lunghezza d'onda $\lambda$ in un periodo di tempo $T$. La velocità d'onda o "velocità di fase" è data come: $v = \lambda/T$. Indicare che: $v \propto \sqrt{gd}$ ($\propto$ significa proporzionale a).
 
@@ -896,7 +896,7 @@ Utilizzare l'equazione di velocità del tsunami come indicato in Eq. Uno sopra.
 Nell'oceano dove la profondità del fondo marino è costante (regione I) le onde di tsunami hanno un'altezza caratteristica $h$ e arrivano sulla terra con un aumento lineare del fondo oceanico (regione II).
 
 ![[WoPhO_2012_Q6_p5_f5.png]]
-**Figura 5: ** Caratteristiche dei tsunami sull'impatto sul suolo.
+**Figura 5:** Caratteristiche dei tsunami sull'impatto sul suolo.
 
 **4.A.** Investigare cosa accade all'altezza delle onde di tsunami $h$ quando si schianta a terra. Esprimere la relazione di $h$ come funzione di profondità $d$. L'epoca dell'onda tsunami è costante ovunque.
 
@@ -911,7 +911,7 @@ Un segno di avvertimento precoce del tsunami in arrivo è l'"effetto di ritiro" 
 Esploriamo questo effetto svantaggio con il modello seguente. Supponiamo di mettere una boia di prova $B$ sulla superficie dell'acqua che traccia la particella d'acqua lì. Si noti che ci sono due movimenti: primo è il movimento ciclico su e giù con un periodo $T = v_0/\lambda$ dove $v_0$ è la velocità di fase dell'onda, e secondo: il movimento orizzontale perché la boia è trascinata dall'onda in movimento, ma con la velocità inferiore alla velocità di fase dell'onda $v_0$. Per quindi tracciare la traiettoria della boia $B$ possiamo utilizzare un modello Yo-Yo che ruota con periodo $T$ ma il centro si muove a velocità inferiore a $v_0$.
 
 ![[WoPhO_2012_Q6_p6_f6.png]]
-**Figura 6: ** (a) Modello di boia di prova e (b) Modello di yo-yo per indagare sull'"effetto di avversità dei tsunami".
+**Figura 6:** (a) Modello di boia di prova e (b) Modello di yo-yo per indagare sull'"effetto di avversità dei tsunami".
 
 **5.A.** Segnare la traiettoria della boia $B$ in funzione della distanza in cui i rulli "Yo-Yo" ruotano.
 
@@ -1283,7 +1283,7 @@ dove $G = 6.67 \times 10^{-11}\ \text{N·m}^2/\text{s}^2$ è costante gravitazio
 La costante arbitraria è governata dalle condizioni della normalizzazione potenziale. Il valore della costante non conta, quindi, mentre si risolve il problema, si possono eliminare tutte le costanti dalle espressioni per il potenziale gravitazionale.
 
 ![[WoPhO_2012_Q10_p1_f1.png]]
-**Figura 1: ** Terra e Luna.
+**Figura 1:** Terra e Luna.
 
 **Parametri del sistema Terra-Luna:**
 - Massa terrestre: $M_E = 6.0 \times 10^{24}\ \text{kg}$

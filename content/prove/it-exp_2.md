@@ -193,7 +193,7 @@ where the summit is in $V(0,\,y_0)$ and the fire is in $F\!\left(0,\,y_0+C\right
 - It's a level of air bubble.
 - Protective glasses.
 
-> **ICHTE NOTES: ** Do not look directly at the laser beam. The laser light can be dangerous even when reflected from a bright surface. Use the provided glasses. Carefully handle the container with the glycerin. The rotating platform is already horizontal; use the bubble level only to horizontally position the screen. Change the speed gradually and wait for the liquid to reach equilibrium before performing the measurements.
+> **ICHTE NOTES:** Do not look directly at the laser beam. The laser light can be dangerous even when reflected from a bright surface. Use the provided glasses. Carefully handle the container with the glycerin. The rotating platform is already horizontal; use the bubble level only to horizontally position the screen. Change the speed gradually and wait for the liquid to reach equilibrium before performing the measurements.
 
 ---
 
@@ -235,7 +235,7 @@ In this section, the properties of the "image" (which can be seen on the screen)
 4. On the horizontal screen, placed directly above the container, place a semi-transparent sheet of paper so that the beam of direct light does not hit the paper, but that the paper is hit by the reflected beam.
 5. Observe the size and orientation of the image produced by both the laser beam and the beam reflected by the fluid when it does not rotate.
 6. Rotate the liquid and gradually increase $\omega$ to the maximum possible, looking at the screen. The $\omega$ growth observes different frequency ranges where the image properties are distinctly different. To describe the observations, complete the table in the answer sheet by adding a row for each interval, using the following notations:
-- ** Orientation ** (in relation to the figure of the incident beam): Inverted = INV, Direct = ER
+- **Orientation** (in relation to the figure of the incident beam): Inverted = INV, Direct = ER
 - **Variation of size** to increase of $\omega$: Increase = I, Decrease = D, No Change = NC
 - Indicates if the screen is above or below the fire.
 

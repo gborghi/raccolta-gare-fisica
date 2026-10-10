@@ -44,7 +44,7 @@ Express the following physical quantities in SI units (rationalized MKSA units).
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 1.1. I sistemi SI e cgs**
+Il problema 1.1. I sistemi SI e cgs
 
 Esprimere le seguenti quantità fisiche in unità SI (unità MKSA razionalizzate).
 
@@ -181,7 +181,7 @@ At noon on the summer solstice, the altitude angle of the Sun (angle above the h
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema è il 1.4. L'angolo di altitudine del Sole**
+Il problema è il 1.4. L'angolo di altitudine del Sole
 
 Al mezzogiorno del solstizio estivo, l'angolo di altitudine del Sole (angolo sopra l'orizzonte) in una città situata a latitudine $35°\text{N}$ si trova a essere $\theta$. L'inclinazione assiale della Terra è $\varepsilon = 23.4°$.
 
@@ -338,7 +338,7 @@ A person on a bicycle moving at constant horizontal velocity $v_0$ drops a ball 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.1. Palla cadente da una bicicletta**
+Il problema 2.1. Palla cadente da una bicicletta
 
 Una persona in bicicletta che si muove a velocità orizzontale costante $v_0$ lancia una palla da un'altezza $h$ al di sopra del terreno.
 
@@ -434,7 +434,7 @@ A ball is thrown with initial speed $v_0$ at angle $\theta$ above the horizontal
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.3. Traettoria di una palla**
+Il problema 2.3. Traettoria di una palla
 
 Una palla viene lanciata con velocità iniziale $v_0$ all'angolo $\theta$ sopra l'orizzontale dall'origine.
 
@@ -489,7 +489,7 @@ A second train of length $L$ passes by a station platform of length $d$ at speed
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.4. Movimento di un treno**
+Il problema 2.4. Movimento di un treno
 
 Un treno parte dal riposo e accelera uniformemente per il tempo $t_1$, quindi viaggia a velocità costante $v$ per il tempo $t_2$, e infine decelera uniformemente per riposare nel tempo $t_3$.
 
@@ -542,7 +542,7 @@ A skydiver of mass $m$ falls through air with a drag force proportional to the s
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.5. Scavo in cielo**
+Il problema 2.5. Scavo in cielo
 
 Un paracadutista di massa $m$ cade attraverso l'aria con una forza di trazione proporzionale al quadrato della velocità: $F_{\text{drag}} = bv^2$.
 
@@ -593,7 +593,7 @@ Two smooth inclined planes have the same height $h$. Plane A has inclination ang
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.6. I piccoli oggetti che scivolano su percorsi discendenti diversi**
+Il problema 2.6. I piccoli oggetti che scivolano su percorsi discendenti diversi
 
 Due piani a inclinazione liscia hanno la stessa altezza $h$. Il piano A ha un angolo di inclinazione $\alpha$ e il piano B è un arco di quartiere di radio $R$ (dove $R = h/\sin\alpha$ per altezza equivalente).
 
@@ -642,7 +642,7 @@ A block of mass $m$ is on an inclined plane of angle $\theta$. The coefficient o
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.7. Piano inclinato**
+Il problema 2.7. Piano inclinato
 
 Un blocco di massa $m$ è situato su un piano inclinato di angolo $\theta$. Il coefficiente di attrito statico è $\mu_s$ e il coefficiente di attrito cinetico è $\mu_k$.
 
@@ -693,7 +693,7 @@ Given: Earth–Sun distance $r_E = 1.50 \times 10^{11}\,\text{m}$; Jupiter–Sun
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.8. Sonda spaziale a Plutone**
+Il problema 2.8. Sonda spaziale a Plutone
 
 Una sonda spaziale viene lanciata dalla Terra per volare verso Plutone utilizzando l'effetto di gravità attorno a Giove.
 
@@ -744,7 +744,7 @@ An Atwood machine consists of two masses $m_1$ and $m_2$ ($m_1 > m_2$) connected
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.9. Macchine a legno a friczione**
+Il problema 2.9. Macchine a legno a friczione
 
 Una macchina Atwood è composta da due masse $m_1$ e $m_2$ ($m_1 > m_2$) collegate da una corda su una pollice. La pollice ha massa $M$ e raggio $R$ e può essere modellata come un disco uniforme. L'asse della pollice ha una coppia di attrito $\tau_f$.
 
@@ -797,7 +797,7 @@ Now consider two identical rods connected end-to-end at a frictionless hinge, wi
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.10. Rotare le barre**
+Il problema 2.10. Rotare le barre
 
 Una barra sottile uniforme di massa $m$ e lunghezza $L$ è rotata ad una estremità. Si tiene orizzontale e viene rilasciata dal riposo.
 
@@ -852,7 +852,7 @@ The Hubble law states that distant galaxies recede from us with velocity $v = H_
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2.11. Universo in espansione**
+Il problema 2.11. Universo in espansione
 
 La legge di Hubble afferma che le galassie lontane si allontanano da noi con velocità $v = H_0 d$, dove $d$ è la distanza e $H_0 = 72\,\text{km/s/Mpc}$ è la costante di Hubble ($1\,\text{Mpc} = 3.09 \times 10^{22}\,\text{m}$).
 
@@ -905,7 +905,7 @@ A transverse sinusoidal wave on a string is described by $y(x,t) = A\sin(kx - \o
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 3.1. Grafico di onde sinusoidali**
+Il problema 3.1. Grafico di onde sinusoidali
 
 Un'onda sinusoidale trasversale su una stringa è descritta da $y(x,t) = A\sin(kx - \omega t + \phi)$, dove $A = 2.0\,\text{cm}$, lunghezza d'onda $\lambda = 40\,\text{cm}$, periodo $T = 0.20\,\text{s}$ e $\phi = 0$.
 
@@ -1009,7 +1009,7 @@ Consider surface gravity waves on deep water. The phase velocity depends on wave
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 3.3. Velocità di propagazione di un'onda d'acqua**
+Il problema 3.3. Velocità di propagazione di un'onda d'acqua
 
 Considerate le onde gravitazionali superficiali in acque profonde. La velocità di fase dipende dalla lunghezza d'onda: $v_p = \sqrt{g\lambda/(2\pi)}$.
 
@@ -1113,7 +1113,7 @@ A circuit contains two batteries with EMFs $\varepsilon_1 = 12\,\text{V}$ (inter
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4.1. Circuito con due batterie**
+Il problema 4.1. Circuito con due batterie
 
 Un circuito contiene due batterie con FEM $\varepsilon_1 = 12\,\text{V}$ (resistenza interna $r_1 = 2\,\Omega$) e $\varepsilon_2 = 6\,\text{V}$ (resistenza interna $r_2 = 1\,\Omega$), collegate in serie con una resistenza esterna $R = 5\,\Omega$.
 
@@ -1215,7 +1215,7 @@ A hand-cranked generator (dynamo) consists of a rectangular coil of $N$ turns, a
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4.3. Dinamo a mano**
+Il problema 4.3. Dinamo a mano
 
 Un generatore a mano (dynamo) è costituito da una bobina rettangolare di giri $N$, superficie $A$, che ruota a velocità angolare $\omega$ in un campo magnetico uniforme $B$.
 
@@ -1274,7 +1274,7 @@ Un generatore a mano (dynamo) è costituito da una bobina rettangolare di giri $
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4.4. Legge di Biot e Savart**
+Il problema 4.4. Legge di Biot e Savart
 
 **I** Un lungo filo retto porta corrente $I$.
 
@@ -1333,7 +1333,7 @@ Maxwell's equations in vacuum predict electromagnetic waves.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4.5. Propagazione delle onde elettromagnetiche**
+Il problema 4.5. Propagazione delle onde elettromagnetiche
 
 Le equazioni di Maxwell nel vuoto prevedono onde elettromagnetiche.
 
@@ -1384,7 +1384,7 @@ A charged particle of mass $m$, charge $q > 0$, enters a region of uniform magne
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4.6. Movimento di particelle cariche in un campo magnetico**
+Il problema 4.6. Movimento di particelle cariche in un campo magnetico
 
 Una particella carica di massa $m$, carica $q > 0$, entra in una regione di campo magnetico uniforme $\mathbf{B} = B\hat{z}$ con velocità iniziale $\mathbf{v}_0 = v_0\hat{x}$.
 
@@ -1429,7 +1429,7 @@ Una particella carica di massa $m$, carica $q > 0$, entra in una regione di camp
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 5.1. Proprietà della temperatura**
+Il problema 5.1. Proprietà della temperatura
 
 (1) Convertire $100°\text{C}$ (punto di ebollizione dell'acqua) in Kelvin e Fahrenheit. Indicare la relazione che definisce le scale Celsius, Kelvin e Fahrenheit.
 
@@ -1667,17 +1667,17 @@ Relazione Einstein Smoluchowski.
 
 (4) Il coefficiente di diffusione di una particella sferica di raggio $r$ in un fluido di viscosità $\eta$ è dato dalla relazione di Einstein $D = k_B T/(6\pi\eta r)$. Per una particella di raggio $r = 1\,\mu\text{m}$ in acqua ($\eta = 10^{-3}\,\text{Pa}\cdot\text{s}$) a $T = 300\,\text{K}$, trovare $D$.
 
-**III ** Equilibrio di sedimentazione.
+**III** Equilibrio di sedimentazione.
 
 (5) In una sospensione in un campo gravitazionale, la densità di numero delle particelle ad altezza $h$ segue la formula barometrica $n(h) = n(0)\exp(-mgh/k_B T)$. Derivare questa condizione utilizzando che il flusso di diffusione verso l'alto è uguale al flusso di sedimentazione verso il basso.
 
-**IV ** Collisione con molecole di acqua.
+**IV** Collisione con molecole di acqua.
 
 (6) Sfruttando la teoria cinetica, si stima la velocità media delle molecole d'acqua a $T = 300\,\text{K}$ (massa della molecola d'acqua $m_w = 3.0 \times 10^{-26}\,\text{kg}$).
 
 (7) Estimare il momento trasferito alla particella di Brownian per ogni collisione con una molecola d'acqua. Si stima quindi il spostamento di radice-media quadrata dopo il tempo $t$.
 
-**V ** Via libera media per le particelle di Brownian.
+**V** Via libera media per le particelle di Brownian.
 
 (8) Il percorso libero medio della particella di Brownian tra collisioni con molecole è $l = \langle v \rangle t_m$, dove $t_m$ è il tempo medio tra collisioni. Se si utilizza $6D = \langle v \rangle l$ e il risultato di $D$ sopra, indicare che $\langle x^2 \rangle = 2Dt$.
 
@@ -1744,7 +1744,7 @@ Suppose $N$ gas molecules of mass $m$ are in a box of volume $V = LS$ (length $L
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 5.6. Conduzione termica**
+Il problema 5.6. Conduzione termica
 
 Questo problema esplora la teoria cinetica dei gas e della conduzione termica, motivata dalla comprensione del funzionamento di una bottiglia termosa.
 
@@ -1817,7 +1817,7 @@ Note: In 1960, Pound and Rebka measured this gravitational redshift using a heig
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 6.1 Test di relatività generale**
+Il problema 6.1 Test di relatività generale
 
 I raggi gamma emessi dai nuclei atomici mostrano proprietà quantiche e simili a particelle. L'energia di un fotone di frequenza $\nu$ è $h\nu$ e la sua dinamica è $h\nu/c$.
 
@@ -1827,7 +1827,7 @@ I raggi gamma emessi dai nuclei atomici mostrano proprietà quantiche e simili a
 
 (3) L'energia dei fotoni emessa è $E = h\nu_0 - K$, mentre $h\nu_0 = E_H - E_L$ è la differenza di energia nucleare. Calcolare il rapporto $K/E$, dato $h\nu/(Mc^2) = 1/(4 \times 10^6)$.
 
-(4) **Schiamo di frequenza gravitazionale (teste di GR) **: Supponiamo di essere in caduta libera e di rilevare un fotone emesso da un'altezza $H$ sopra il terreno. Il fotone richiede tempo $t = H/c$ per raggiungerti. Durante questo periodo si ottiene velocità $v = gH/c$. Usando la formula di Doppler per $v/c \ll 1$, trovare $\Delta\nu/\nu_0$ (il cambiamento frazionario di frequenza dovuto alla gravità).
+(4) **Schiamo di frequenza gravitazionale (teste di GR)**: Supponiamo di essere in caduta libera e di rilevare un fotone emesso da un'altezza $H$ sopra il terreno. Il fotone richiede tempo $t = H/c$ per raggiungerti. Durante questo periodo si ottiene velocità $v = gH/c$. Usando la formula di Doppler per $v/c \ll 1$, trovare $\Delta\nu/\nu_0$ (il cambiamento frazionario di frequenza dovuto alla gravità).
 
 Nota: nel 1960, Pound e Rebka misurarono questo spostamento gravitazionale al rosso utilizzando una differenza di altezza di 22 m, confermando la relatività generale.
 
@@ -1913,11 +1913,11 @@ Two satellites move at velocity $v = 3.8 \times 10^3\,\text{m/s}$ in the same or
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 6.2. Teoria della relatività speciale e sua applicazione al GPS**
+Il problema 6.2. Teoria della relatività speciale e sua applicazione al GPS
 
 Questo problema sviluppa la trasformazione di Lorentz da zero utilizzando esperimenti di pensiero con il suono e la luce.
 
-**I ** Suoni su un veicolo in movimento (casso galileano classico).
+**I** Suoni su un veicolo in movimento (casso galileano classico).
 
 Un veicolo con due carri separati da una distanza $L$ si muove a velocità $v$ verso destra. A $t = 0$ il carrello sinistro emette un impulso sonoro. Il suono viaggia a velocità $V$ rispetto al suolo (aria in riposo a terra).
 
@@ -1956,7 +1956,7 @@ $$t' = \frac{t - (v/c^2)x}{\sqrt{1-(v/c)^2}}, \quad x' = \frac{x - vt}{\sqrt{1-(
 
 (12) Per $(v/c)^2 \ll 1$, approssimare $t'$ e $x'$ al primo ordine in $c^{-2}$.
 
-Applicazione GPS **V **
+Applicazione GPS **V**
 
 Due satelliti si muovono a velocità $v = 3.8 \times 10^3\,\text{m/s}$ nella stessa orbita della vettura. Un impulso proveniente dal satellite 1 alla posizione $x_1$, tempo $t_1$ e dal satellite 2 alla posizione $x_2$, $t_2$ arriva contemporaneamente all'auto a $(x, t)$: $|x - x_1| = c(t - t_1)$, $|x - x_2| = c(t - t_2)$.
 
@@ -2045,11 +2045,11 @@ In a sodium cluster of $N$ atoms, electrons are confined in a sphere of radius $
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 6.3. Modello Bohr e super-capo**
+Il problema 6.3. Modello Bohr e super-capo
 
 Questo problema si applica alla teoria quantistica semi-classica ai sistemi atomici e a quelli di ammassi.
 
-**I ** Atomo di idrogeno  Modello Bohr.
+**I** Atomo di idrogeno  Modello Bohr.
 
 (1) Scrivere la condizione di quantizzazione di Bohr relativa alla lunghezza d'onda de Broglie $\lambda$ e al raggio orbitale $r_n$.
 
@@ -2057,7 +2057,7 @@ Questo problema si applica alla teoria quantistica semi-classica ai sistemi atom
 
 (3) Trova l'energia $E_n$ dell'elettrone nello stato stazionario $n$-th.
 
-**II ** Electrone tra due pareti.
+**II** Electrone tra due pareti.
 
 (4) Per un rimbalzo di elettroni tra le pareti a $x = 0$ e $x = L$, con $n\lambda = 2L$, si trova la velocità $v_n$.
 
@@ -2158,7 +2158,7 @@ Il problema 6.4. Il destino del sole
 
 Questo problema introduce il principio di incertezza di Heisenberg, lo spazio di fase, la pressione degli elettroni degenerati e la fisica delle nane bianche.
 
-**Staggio **: Le nane bianche (come Sirio B) hanno densità $\sim 10^6\,\text{g/cm}^3$, ben oltre la materia ordinaria. La loro stabilità è fornita dalla pressione di degenerazione degli elettroni.
+**Staggio**: Le nane bianche (come Sirio B) hanno densità $\sim 10^6\,\text{g/cm}^3$, ben oltre la materia ordinaria. La loro stabilità è fornita dalla pressione di degenerazione degli elettroni.
 
 **Elettroni degenerati in 1D** (elettroni nell'intervallo $-R \le x \le R$):
 
@@ -2312,7 +2312,7 @@ A fixed amount of air is confined in a cylinder closed by a rubber plug. The cyl
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 8.2. Confirmare la legge di Carlo (esercizio pratico)
+**Il problema 8.2. Confirmare la legge di Carlo (esercizio pratico)**
 
 Una quantità fissa di aria è contenuta in un cilindro chiuso da un tappo di gomma. Il cilindro è immerso in acqua riscaldata su una stufa a gas. La legge di Charles afferma $V = k \cdot T$ (proporzionale alla temperatura assoluta $T$).
 
@@ -2464,7 +2464,7 @@ An LED emits light when the applied voltage $V$ satisfies $eV \ge h\nu$, where $
 
 <div class="qlang-split" data-lang="it"></div>
 
-Esercizio pratico 2. Misurazione della costante di Planck**
+Esercizio pratico 2. Misurazione della costante di Planck
 
 **Sopporto**: Misurare la lunghezza d'onda $\lambda$ della luce dei LED utilizzando una griglia di diffrazione, quindi misurare l'energia fotonica $E$ della tensione di attivazione del LED e utilizzare $E = h\nu = hc/\lambda$ per determinare la costante di Planck $h$.
 

@@ -33,7 +33,7 @@ If $a^x = b^y = c^z$ and $b^2 = ac$, then $y = ?$ [3]
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (10 domande × 3 punti ciascuno). **
+**Sezione A (10 domande × 3 punti ciascuno).**
 
 Se $a^x = b^y = c^z$ e $b^2 = ac$, allora $y = ?$ [3]
 

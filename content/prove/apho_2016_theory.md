@@ -89,7 +89,7 @@ Il movimento di tutto il sistema è confinato nel piano $x$-$y$. Il momento di i
 ![[APhO_2016_theory_Q1_p2_f1.png]]
 *Figura 2*
 
-**Sezione A: ** Quando $N=2$ (come mostrato alla figura 3):
+**Sezione A:** Quando $N=2$ (come mostrato alla figura 3):
 
 ![[APhO_2016_theory_Q1_p2_f2.png]]
 *Figura 3*

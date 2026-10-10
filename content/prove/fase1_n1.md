@@ -310,11 +310,11 @@ Queensland
 l'alloggio in fondo al recipiente e l'effettivo inizio dell'esperimento potrebbe essere molto inferiore
 che tre anni.
 Le affermazioni vere sono:
-- **A ** tutti
+- **A** tutti
 - **B.** solo 1 e 2
 - **C.** solo 1 e 3
-- **D ** solo 2 e 3
-- **E ** nessuna
+- **D** solo 2 e 3
+- **E** nessuna
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -615,7 +615,7 @@ hours between high and low tide. Consider the following phenomena.
 2. Earth's rotation around its own axis.
 3. Rotation of the moon around its axis.
 The above phenomena that influence the described tidal regime are:
-- **A ** none;
+- **A** none;
 - **B.** only 1 and 2;
 - **C.** only 1 and 3;
 - **D** only 2 and 3;
@@ -735,9 +735,9 @@ La piastra di metallo e poi quella di plastica, e ha la sensazione che quella di
 Su ogni piastra si pone un cubo di ghiaccio di massa uguale e si osserva che il ghiaccio si scioglie di più
 velocemente sulla targa di metallo. Sejam $T_m$ e $T_p$, respectivamente, as temperaturas iniciais das
 le lastre di metallo e di plastica, possiamo affermare che:
-- **A ** $T_m = T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
+- **A** $T_m = T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
 - **B.** $T_m = T_p$ e o plástico é melhor condutor de calor que o metal.
-- **C ** $T_m < T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
+- **C** $T_m < T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
 - **D.** $T_m < T_p$ e o plástico é melhor condutor de calor que o metal.
 - **E.** $T_m > T_p$ e o metal é melhor condutor de calor que o plástico.
 
@@ -758,11 +758,11 @@ You get the metal plate and then the plastic plate and you get the feeling that 
 On each plate, you put a cube of ice of the same mass and you notice that the ice melts more.
 quickly on the metal plate. Sejam $T_m$ e $T_p$, respectivamente, as temperaturas iniciais das
 metal and plastic plates, we can state that:
-- **A ** $T_m = T_p$ and metal is a better heat conductor than plastic.
+- **A** $T_m = T_p$ and metal is a better heat conductor than plastic.
 - **B.** $T_m = T_p$ e o plástico é melhor condutor de calor que o metal.
-- **C ** $T_m < T_p$ and metal is better conductor of heat than plastic.
+- **C** $T_m < T_p$ and metal is better conductor of heat than plastic.
 - **D.** $T_m < T_p$ e o plástico é melhor condutor de calor que o metal.
-- **E ** $T_m > T_p$ and metal is better conductor of heat than plastic.
+- **E** $T_m > T_p$ and metal is better conductor of heat than plastic.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -841,7 +841,7 @@ the following assertions on the situation described.
 3. Water gave off heat to melt the ice.
 The true assertions are:
 - **A** only 1;
-- **B ** only 2;
+- **B** only 2;
 - **C.** only 1 and 3;
 - **D** only 2 and 3;
 - All of them.
@@ -1040,9 +1040,9 @@ Le frecce sono state sovrapposte. Quali delle frecce indicano:
 Approximativamente, la direzione verticale e sopra il
 ambiente in cui le foto sono state scattate?
 - **A** solo 2 e 4.
-- **B ** solo 2 e 5.
+- **B** solo 2 e 5.
 - **C.** solo 3 e 4.
-- **D ** solo 12 e 3.
+- **D** solo 12 e 3.
 - **E.** solo 1, 3 e 4.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -1063,10 +1063,10 @@ They've overlaid arrows. Which arrows indicate,
 approximately the vertical direction and up the
 the environment in which the photos were taken?
 - **A** only 2 and 4.
-- **B ** only 2 and 5.
+- **B** only 2 and 5.
 - **C** only 3 and 4.
 - **D** only 12 and 3.
-- **E ** only 1, 3 and 4.
+- **E** only 1, 3 and 4.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]

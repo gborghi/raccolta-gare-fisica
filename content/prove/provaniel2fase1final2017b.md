@@ -684,7 +684,7 @@ a) massa;
 
 - **B.** tempo;
 - **C.** accelerazione;
-- **E ** variazione del tempo.
+- **E** variazione del tempo.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -702,9 +702,9 @@ pulled by four horses will go faster than the same chariot pulled by just two ho
 So our intuition tells us that the applied force is a function of (do):
 (a) mass;
 
-- **B ** time;
+- **B** time;
 - **C.** acceleration;
-- **E ** time change.
+- **E** time change.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -821,7 +821,7 @@ a) L'energia meccanica in entrambe le situazioni non è
 conservati.
 
 - La palla A.
-- **C ** Entrambi portano lo stesso tempo.
+- **C** Entrambi portano lo stesso tempo.
 - D. La palla B.
 
 (e) Per le curve, A e B hanno la stessa

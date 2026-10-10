@@ -927,10 +927,10 @@ The following table shows the number of lines of the line:
 
 15) Considere um navio de volume $V$ flutuando numa piscina quadrada (cheia de água — vide figura abaixo) de forma que uma fração $f$ do volume do navio se encontra abaixo do nível da água $h$. Consider that the surface area of the pool is $A$. Determine how much the $h$ level rises/decreases if the ship sinks.
 
-- **A ** increases by $V/A$
+- **A** increases by $V/A$
 - **B** decreases by $V/A$
 - **C** decreases by $fV/A$
-- **D ** increases by $fV/A$
+- **D** increases by $fV/A$
 - **E.** does not change
 
 <!--fig:start-->

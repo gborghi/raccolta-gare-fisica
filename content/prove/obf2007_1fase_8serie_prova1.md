@@ -153,8 +153,8 @@ Domanda 2
 Osservando le quattro fotografie dei fiocchi di
 la neve, si noti un comune schema geometrico, che è:
 
-- **A ** Octogonale.
-- **B ** Esagonale.
+- **A** Octogonale.
+- **B** Esagonale.
 - MSK1 Pentagonale.
 - ** D** Heptagonale.
 - MSK0/>E.
@@ -172,7 +172,7 @@ Question 2
 Looking at the four photographs of the flocks of
 snow, a common geometric pattern is noted, which is:
 
-- **A ** Octogonal.
+- **A** Octogonal.
 - ** B ** Hexagonal.
 - The Pentagon.
 - MSK1 - Heptagonal.
@@ -398,7 +398,7 @@ A few minutes after you get the soda
 With ice, you could say:
 
 - **A** The set is at the same temperature.
-- **B ** The ice is at a temperature below
+- **B** The ice is at a temperature below
 the soda.
 (c) Ice provides energy to the soda and will
 melting.
@@ -610,7 +610,7 @@ exists on Earth itself?
 (a) Two hundred times, because the density of the Earth is
 Greater than water
 - **B.** Thirty times
-- **C ** Less than once since 70% of the surface of the
+- **C** Less than once since 70% of the surface of the
 Earth is occupied by water.
 (d) 70% of water.
 (e) More than 4000 times.
@@ -1513,7 +1513,7 @@ $h = h_0 - \frac{1}{2} g t^2$.
 
 Allora,
 
-- **A ** II e III sono corretti.
+- **A** II e III sono corretti.
 - B, tutte giuste.
 Solo II ha ragione.
 Solo III è vero.

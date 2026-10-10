@@ -78,7 +78,7 @@ $d$. Consider that the sludge completely fills the
 space between the bricks.
 - **A.** If $d$ is despicable, how many bricks are used on the wall?
 - **B.** In the case of $d = 2{,}00$ cm, how many bricks are used approximately on the wall?
-- **C ** In the case of $d = 2{,}00$ cm, which is the mass of the alloy approximately in kg, used in the
+- **C** In the case of $d = 2{,}00$ cm, which is the mass of the alloy approximately in kg, used in the
 The wall?
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Newtonian Mechanics]]

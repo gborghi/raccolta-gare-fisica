@@ -696,7 +696,7 @@ Una macchina fotografica ha un obiettivo con una distanza focale pari a 35,0 mm 
 
 A camera has a lens with a focal length of 35.0 mm and the film has a width of 36.0 mm. When photographing a sailing vessel 12 m long, it turns out that the image of the sailing vessel covers only a quarter of the film's width. Calculate:
 
-- **A ** the distance between the photographer and the sailor.
+- **A** the distance between the photographer and the sailor.
 - **B.** the distance the photographer must move from the position of item (a) so that the image of the sailboat fully fills the width of the film.
 
 **Topic:** [[Geometric Optics]]

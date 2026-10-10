@@ -154,10 +154,10 @@ tags:
 03) Tre blocchi "A", "B" e "C" della stessa dimensione e forma hanno masse rispettivamente uguali a $m_A = 1\,\mathrm{kg}$, $m_B = 2\,\mathrm{kg}$ e $m_C = 3\,\mathrm{kg}$. Sono abbandonate da un punto P della rampa rappresentata, scivolavano senza attrito e finalmente cadono colludendo contro il pavimento piatto e orizzontale. Dopo essere stato rilasciato, il blocco "B" cade in 1 secondo e subisce l'impatto sul punto indicato dalla lettera O. Considera che tutte le forze dissipative sono irrilevanti nell'evento. Si può affermare che il blocco:
 
 - **A.** "C" cade a destra del punto O.
-- **B ** "C" cade a sinistra del punto O.
+- **B** "C" cade a sinistra del punto O.
 - **C.** "A" cade anche al punto O.
-- **D ** "A" cade in meno di 1s.
-- **E ** "A" cade in più di 1 secondi.
+- **D** "A" cade in meno di 1s.
+- **E** "A" cade in più di 1 secondi.
 
 <!--fig:start-->
 ![[_attachments/OBF2008_1Fase_3serie_prova/OBF2008_1Fase_3serie_prova_p2_f1.png]]
@@ -174,11 +174,11 @@ tags:
 
 03) Three blocks 'A', 'B' and 'C' of the same size and shape have masses equal to $m_A = 1\,\mathrm{kg}$, $m_B = 2\,\mathrm{kg}$ and $m_C = 3\,\mathrm{kg}$ respectively. They are abandoned from the same P point of the ramp represented, slip without friction and finally falling into collision with the flat, horizontal floor. After being released, block 'B' falls within 1 second and is impacted at the point marked with the letter 'O'. Consider that all dissipative forces are irrelevant to the event. It is possible to state that the block:
 
-- **A ** "C" falls to the right of point O.
-- **B ** "C" falls to the left of point O.
+- **A** "C" falls to the right of point O.
+- **B** "C" falls to the left of point O.
 - **C.** "A" also falls in point O.
-- **D ** "A" falls in less than 1s.
-- **E ** "A" falls in more than 1s.
+- **D** "A" falls in less than 1s.
+- **E** "A" falls in more than 1s.
 
 <!--fig:start-->
 ![[_attachments/OBF2008_1Fase_3serie_prova/OBF2008_1Fase_3serie_prova_p2_f1.png]]
@@ -327,7 +327,7 @@ It is correct to state that:
 - **B.** the angular rotational speeds of the A and B poles are the same.
 - **C.** the rotation period of the C-pole is half the rotation period of the A-pole.
 - **D** when polymer B is 4 turns, polymer D is 3 turns.
-- **E ** the peripherals of the C and D poles have different scalar speeds.
+- **E** the peripherals of the C and D poles have different scalar speeds.
 
 <!--fig:start-->
 ![[_attachments/OBF2008_1Fase_3serie_prova/OBF2008_1Fase_3serie_prova_p2_f2.png]]
@@ -459,7 +459,7 @@ The moon is said to revolve around the earth. In fact, both the Earth and the Mo
 
 It is therefore possible to state, with regard to its translation movements in relation to this mass centre, that:
 
-- **A ** its centrifugal accelerations are equal in intensity.
+- **A** its centrifugal accelerations are equal in intensity.
 - **B.** its angular velocities are proportional to the square of the ratio 1 to 81.
 - **C.** the centrifugal forces applied to each of them are equal in intensity.
 - **D.** their translation periods are proportional to numbers 1 and 81.
@@ -503,7 +503,7 @@ It is therefore possible to state, with regard to its translation movements in r
 
 08) Un carrello di massa di 1,0 kg si muove in un semplice movimento armonioso orizzontale, per l'azione di una molla di massa irrilevante, senza attrito con il piano su cui si appoggia. Appena passa da un punto di velocità zero, 3,0 kg di massa di cemento appena preparato cadono verticalmente e istantaneamente, e vengono ospitati. Considerando le situazioni prima e dopo che il carrello ha ricevuto il carico di cemento, si può affermare che:
 
-- **A ** né la velocità massima del carrello né la sua energia totale cambiano.
+- **A** né la velocità massima del carrello né la sua energia totale cambiano.
 - **B.** l'energia totale del sistema aumenta, ma la velocità massima non cambia.
 - **C.** la velocità massima non cambia, ma il periodo di oscillazione del carrello viene ridotto di metà.
 - **D.** né il periodo di oscillazione né l'ampiezza del movimento subiscono modificazioni.
@@ -525,7 +525,7 @@ It is therefore possible to state, with regard to its translation movements in r
 08) A 1.0 kg weighted cart moves in a simple horizontal harmonious motion by the action of an irrelevant weighted spring without any friction with the plane on which it rests. As soon as it passes a zero-speed point, three kilograms of freshly prepared concrete mass falls vertically and instantly, and is housed there. Comparing the situation before and after the cart received the concrete load, it can be stated that:
 
 - ** The maximum acceleration of the cart or its total energy does not change.
-- **B ** the total system energy increases but the maximum speed does not change.
+- **B** the total system energy increases but the maximum speed does not change.
 - **C.** the maximum speed does not change, but the period of oscillation of the cart is reduced by half.
 - **D.** neither the period of oscillation nor the amplitude of movement are modified.
 - **E.** the range of motion does not change but the maximum speed of the cart is reduced by half.
@@ -836,7 +836,7 @@ IV  A pressioni superiori a 218 atm l'acqua può esistere solo in un unico stato
 - **B.** I
 - **C.** II e IV.
 - **D** II e III.
-- **E ** III.
+- **E** III.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
@@ -862,7 +862,7 @@ It is correct what is stated only in:
 - **B.** I
 - **C.** II e IV.
 - ** D** II and III.
-- **E ** III.
+- **E** III.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
@@ -943,9 +943,9 @@ III  When you fill the tyres of a bicycle with a manual pump, it heats up, becau
 
 We can point out that only the following statements are incorrect:
 
-- **A ** II and III.
+- **A** II and III.
 - **B.** I e II.
-- **C ** I and III.
+- **C** I and III.
 - **D.** I
 - **E.** II
 
@@ -1024,7 +1024,7 @@ We can say that it is not correct only a statement is true:
 
 - **A.** I e II.
 - **B.** II.
-- **C ** III.
+- **C** III.
 - ** D** II and III.
 - **E.** I.
 
@@ -1073,7 +1073,7 @@ Possiamo affermare che sono sistemi ottici convergenti:
 - **A** solo $S_3$.
 - **B.** solo $S_1$ e $S_3$.
 - MSK1/C tutti e tre.
-- **D ** solo $S_2$.
+- **D** solo $S_2$.
 - **E.** solo $S_1$ e $S_2$.
 
 <!--fig:start-->
@@ -1096,7 +1096,7 @@ We can say that they are convergent optical systems:
 - **A** only $S_3$.
 - **B.** only $S_1$ and $S_3$.
 - All three of them.
-- **D ** only $S_2$.
+- **D** only $S_2$.
 - **E.** only $S_1$ and $S_2$.
 
 <!--fig:start-->
@@ -1201,7 +1201,7 @@ We can say that they are convergent optical systems:
 
 Le forze gravitazionali e elettrostatiche risultanti hanno la stessa direzione e la stessa direzione.
 - **B.** i vettori che rappresentano le forze gravitazionali e elettrostatiche risultanti sono ortogonali tra loro.
-- **C ** i risultati gravitazionali e elettrostatici hanno la stessa direzione, ma hanno sentimenti opposti.
+- **C** i risultati gravitazionali e elettrostatici hanno la stessa direzione, ma hanno sentimenti opposti.
 - **D.** l'angolo tra le forze gravitazionali e elettrostatiche risultanti è 45°.
 - E la forza elettrostatica risultante è nulla, ma la forza gravitazionale no.
 
@@ -1278,9 +1278,9 @@ Le forze gravitazionali e elettrostatiche risultanti hanno la stessa direzione e
 17) Three equal, electrically charged particles, each with mass $m$ and module charge $Q$, are in the plane $xy$ occupying the vertices of an isosceles triangle, as shown in the figure. Consider the interactions, gravitational and electrical, just between them. The action of these interactions on the particle at the origin of the coordinate system makes it possible to correctly state that:
 
 The resulting gravitational and electrostatic forces have the same direction and direction.
-- **B ** the vectors representing the resulting gravitational and electrostatic forces are orthogonal to each other.
+- **B** the vectors representing the resulting gravitational and electrostatic forces are orthogonal to each other.
 The resulting gravitational and electrostatic results have the same direction but have opposite senses.
-- **D ** the angle between the resulting gravitational and electrostatic forces is 45°.
+- **D** the angle between the resulting gravitational and electrostatic forces is 45°.
 The resulting electrostatic force is zero, but gravitational force is not.
 
 <!--fig:start-->
@@ -1491,9 +1491,9 @@ From these statements it can be concluded that:
 
 - **A** dispersion and refraction.
 - **B.** diffraction and dispersion.
-- **C ** refraction and interference.
-- **D ** diffraction and refraction.
-- **E ** diffraction and interference.
+- **C** refraction and interference.
+- **D** diffraction and refraction.
+- **E** diffraction and interference.
 
 <!--fig:start-->
 ![[_attachments/OBF2008_1Fase_3serie_prova/OBF2008_1Fase_3serie_prova_p6_f9.png]]

@@ -297,11 +297,11 @@ In a spacecraft orbiting around the Earth, an astronaut has a feeling of weightl
 
 In una sonda spaziale che orbita intorno alla Terra, un astronauta ha una sensazione di assenza di peso. Nel quadro di riferimento della Terra, l'esplicazione è
 
-- **(A) ** il peso dell'astronauta diventa zero.
-- **(B) ** il campo gravitazionale all'interno della sonda diventa zero.
-- **(C) ** la forza netta che agisce sull'astronauta diventa zero.
+- **(A)** il peso dell'astronauta diventa zero.
+- **(B)** il campo gravitazionale all'interno della sonda diventa zero.
+- **(C)** la forza netta che agisce sull'astronauta diventa zero.
 - L'astronauta sta cadendo liberamente.
-- **(E) ** non c'è cambiamento nell'impulso dell'astronauta.
+- **(E)** non c'è cambiamento nell'impulso dell'astronauta.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Gravitation]]
@@ -455,11 +455,11 @@ Una particella viene proiettata orizzontalmente dal bordo di una tavola liscia c
 
 
 
-- **(A) ** $v$ e $D$
-- **(B) ** $v^2$ e $D$
-- **(C) ** $v$ e $D^2$
-- **(D) ** $v$ e $\dfrac{1}{D}$
-- **(E) ** $v$ e $\dfrac{1}{\sqrt{D}}$
+- **(A)** $v$ e $D$
+- **(B)** $v^2$ e $D$
+- **(C)** $v$ e $D^2$
+- **(D)** $v$ e $\dfrac{1}{D}$
+- **(E)** $v$ e $\dfrac{1}{\sqrt{D}}$
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -502,11 +502,11 @@ Quali dei seguenti fatti sono/sono prove dirette a sostegno della prima legge di
 (2) Un satellite orbita intorno alla Terra con velocità uniforme senza fornitura di combustibile.
 (3) Un uomo viene gettato avanti su un autobus che si ferma improvvisamente.
 
-- solo **(A) ** (3)
-- solo **(B) ** (1) e (2)
-- solo **(C) ** (1) e (3)
-- solo **(D) ** (2) e (3)
-- **(E) ** (1), (2) e (3)
+- solo **(A)** (3)
+- solo **(B)** (1) e (2)
+- solo **(C)** (1) e (3)
+- solo **(D)** (2) e (3)
+- **(E)** (1), (2) e (3)
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -633,11 +633,11 @@ Un autobus gira intorno a un angolo su una strada orizzontale. Il diagramma most
 
 ![[HKPhO_2013_p6_f12b.png]]
 
-- **(A) ** Le forze di reazione su entrambe le ruote, il peso verso il basso, l'attrito che punta a destra (in direzione del centro della curva).
-- **(B) ** Le forze di reazione su entrambe le ruote, il peso verso il basso, la frizione puntando a destra (verso il centro della curva).
-- **(C) ** Le forze di reazione sono verso l'alto su entrambe le ruote, il peso verso il basso, nessuna attrito orizzontale.
-- **(D) ** Le forze di reazione sono in salita su entrambe le ruote, il peso in discesa, la frizione puntando a sinistra.
-- **(E) ** Le forze di reazione sono verso l'alto su entrambe le ruote, il peso verso il basso, la frizione puntando a sinistra.
+- **(A)** Le forze di reazione su entrambe le ruote, il peso verso il basso, l'attrito che punta a destra (in direzione del centro della curva).
+- **(B)** Le forze di reazione su entrambe le ruote, il peso verso il basso, la frizione puntando a destra (verso il centro della curva).
+- **(C)** Le forze di reazione sono verso l'alto su entrambe le ruote, il peso verso il basso, nessuna attrito orizzontale.
+- **(D)** Le forze di reazione sono in salita su entrambe le ruote, il peso in discesa, la frizione puntando a sinistra.
+- **(E)** Le forze di reazione sono verso l'alto su entrambe le ruote, il peso verso il basso, la frizione puntando a sinistra.
 
 (Vedi figura: opzioni AC nella riga superiore, DE nella riga inferiore).
 
@@ -678,11 +678,11 @@ Un fondo cilindrico è posizionato su un piano orizzontale. I due bordi della pa
 
 ![[HKPhO_2013_p6_f13.png]]
 
-- **(A) ** raggiunge un'altezza inferiore a $A$
-- **(B) ** arriva solo alla posizione $A$
-- **(C) ** passa $A$ e raggiunge un'altezza inferiore a $h$
-- **(D) ** passa $A$ e raggiunge l'altezza $h$
-- **(E) ** passa $A$ e raggiunge l'altezza $2h$
+- **(A)** raggiunge un'altezza inferiore a $A$
+- **(B)** arriva solo alla posizione $A$
+- **(C)** passa $A$ e raggiunge un'altezza inferiore a $h$
+- **(D)** passa $A$ e raggiunge l'altezza $h$
+- **(E)** passa $A$ e raggiunge l'altezza $2h$
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Conservation of Energy]]
@@ -791,11 +791,11 @@ It is known that the gravitational acceleration is $g = GM_E/R_E^2$ and is direc
 
 Si sa che l'accelerazione gravitazionale è $g = GM_E/R_E^2$ ed è diretta verticalmente verso il centro della Terra. A causa della rotazione terrestre, l'accelerazione $f$ di un oggetto che cade liberamente a Hong Kong ha una magnitudine $f$ diversa da $g$, e $f$ non punta più verticalmente verso il basso. In effetti,
 
-- **(A) ** $f < g$ e $f$ hanno una componente verso nord
-- **(B) ** $f < g$ e $f$ hanno una componente sudorientale
-- **(C) ** $f > g$ e $f$ hanno una componente verso nord
-- **(D) ** $f > g$ e $f$ hanno una componente suddetta
-- **(E) ** $f > g$ e $f$ hanno una componente orientata verso est
+- **(A)** $f < g$ e $f$ hanno una componente verso nord
+- **(B)** $f < g$ e $f$ hanno una componente sudorientale
+- **(C)** $f > g$ e $f$ hanno una componente verso nord
+- **(D)** $f > g$ e $f$ hanno una componente suddetta
+- **(E)** $f > g$ e $f$ hanno una componente orientata verso est
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Newtonian Mechanics]]

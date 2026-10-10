@@ -241,7 +241,7 @@ Question five.
 A copper metal strip $L = 1{,}00\ \text{cm}$ wide and $d = 10\ \mu\text{m}$ thick is run by a current of $i = 2{,}0\ \text{A}$ as shown in the figure. The tape is in the presence of a uniform magnetic field $\vec{B}$ perpendicular to the plane of the tape and therefore in the direction of the thickness of the tape. At terminals a and b, each connected to one side of the tape, a voltmeter (not shown in figure) is connected which measures the potential difference $V_a - V_b = 12\ \mu\text{V}$. Consider that copper has $8{,}5\times10^{28}$ conductive electrons by $\text{m}^3$ and adopt the convention that $B > 0$ if $\vec{B}$ is leaving the paper. Determine:
 - **A.** The electron drift speed $v_d$, i.e. the speed associated with current i, in m/s.
 - **B.** $\dfrac{B}{|B|}$ (Reply 1 if $\vec{B}$ is coming out of the paper and $-1$ otherwise.)
-- **C ** $|B|$ in tesla.
+- **C** $|B|$ in tesla.
 
 **Topic:** [[Magnetism]], [[Electromagnetism]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]

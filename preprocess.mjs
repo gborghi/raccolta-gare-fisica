@@ -11,6 +11,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
+import { fixOptionBold } from "./scripts/bold-labels.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
 import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear, sourceLabel, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord } from "./scripts/comp-label.mjs"
@@ -352,7 +353,11 @@ function injectFigSvg(content) {
   })
 }
 
+const BOLD_STATS = { fixed: 0 }
 function transform(content) {
+  // `**A ** text` (space before the closing **) renders as raw asterisks: close the
+  // bold on short option labels A–E only (scripts/bold-labels.mjs).
+  content = fixOptionBold(content, BOLD_STATS)
   // strip local-vault PDF links (kept as plain text label); external http(s) PDF links
   // survive -- see scripts/pdf-links.mjs (negative lookahead (?!<?https?:) in both regexes)
   content = stripLocalPdfLinks(content)
@@ -1103,6 +1108,7 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
   console.log(`translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkBlocks} blocks, ${sibStats.backlinkLines} lines (${sibStats.backlinkNew} blocks changed vs the trailing-only rule)`)
   console.log(`etichetta: ${provaEti.size} prove, ${atomEti.size} quesiti with their own; soluzioni titles: ${solStats.total} (${solStats.single} from one prova, ${solStats.common} from shared words, ${solStats.folder} from the competition in the file name or PDF folder, ${solStats.none} with no competition)`)
   console.log(`fuori_corpus notes: ${outOfCorpus.set.size} (prove/atoms), ${outOfCorpus.rows} concept-list rows dropped`)
+  console.log(`option-label bold fixed (**A ** -> **A**): ${BOLD_STATS.fixed} (counted per transform() call)`)
   console.log(`source file names dropped from ${provaLabel.size} prova titles (${[...provaLabel.values()].filter(Boolean).length} with a clean label)`)
 }
 main()

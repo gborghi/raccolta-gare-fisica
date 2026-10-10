@@ -178,7 +178,7 @@ Globi has decided to fly to the moon. He would like to visit the extraterrestria
 
 Globi ha deciso di volare sulla luna. Vorrebbe visitare gli extraterrestri che dovrebbero vivere sulla luna. Poiché naturalmente non vuole venire senza nulla, ha deciso di portare con sé una ruota di formaggio svizzero. Poiché vuole dividerla in modo equo, porta anche una scala di primavera con sé. La scala è calibrata sulla Terra e la costante gravitazionale sulla Luna è circa sei volte più piccola di quella terrestre. Cosa scopre quando pesa la ruota del formaggio sulla luna?
 
-- **A ** Niente. Le scale mostrano lo stesso peso della terra.
+- **A** Niente. Le scale mostrano lo stesso peso della terra.
 Le scale mostrano circa sei volte il peso terrestre.
 Le scale mostrano circa un sesto del peso terrestre.
 - ** D.** Non è prevedibile.

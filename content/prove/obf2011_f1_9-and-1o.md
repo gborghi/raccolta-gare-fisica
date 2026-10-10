@@ -306,11 +306,11 @@ forma di grasso, un'altra fonte di energia chimica.
 
 In una passeggiata si consumano circa 4,0 kcal/min. Se una persona consuma 1000 kcal in più in
 la sua dieta quotidiana, per non ingrassare deve camminare per giorno intorno a:
-- **A ** 1 ora e 30 minuti
-- **B ** 2 ore e 40 minuti
-- **C ** 3 ore e 20 minuti
-- **D ** 4 ore e 10 minuti
-- **E ** 5 ore e 15 minuti
+- **A** 1 ora e 30 minuti
+- **B** 2 ore e 40 minuti
+- **C** 3 ore e 20 minuti
+- **D** 4 ore e 10 minuti
+- **E** 5 ore e 15 minuti
 
 Le domande 06 e 07 riguardano il testo seguente:
 I piloti di F1 subiscono un rigoroso allenamento fisico per sopportare gli effetti delle enormi

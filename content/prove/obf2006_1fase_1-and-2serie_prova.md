@@ -164,7 +164,7 @@ V - Decomposizione della luce bianca in un prisma ottico di vetro.
 
 L'alternativa che risponde alla richiesta è:
 
-- **A ** I solo
+- **A** I solo
 - **B.** II solo
 - **C.** III solo
 - **D.** II e IV solo
@@ -188,11 +188,11 @@ V - The decomposition of white light in an optical glass prism.
 
 The alternative to the request is:
 
-- **A ** I only
-- **B ** II only
+- **A** I only
+- **B** II only
 - **C.** III only
 - **D** II and IV only
-- **E ** II, IV and V only
+- **E** II, IV and V only
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
@@ -242,7 +242,7 @@ L'alternativa corretta è:
 - **A.** I e III solo
 - **B.** I e II solo
 - **C.** I solo
-- **D ** II solo
+- **D** II solo
 - **E.** III solo
 
 **Topic:** [[Fluid Mechanics]]
@@ -261,9 +261,9 @@ III - The density of the 'T' ball is equal to the density of the water.
 
 The right alternative is:
 
-- **A ** I and III only
+- **A** I and III only
 - **B.** I and II only
-- **C ** I only
+- **C** I only
 - ** D** II only
 - **E** III only
 
@@ -393,8 +393,8 @@ III - Since the effect of friction at this altitude is virtually negligible, the
 It is possible to say that it is not correct:
 
 - **A** only the I
-- **B ** only to II
-- **C ** only the III
+- **B** only to II
+- **C** only the III
 - **D.** only I and III
 - **E.** I, II and III
 
@@ -539,7 +539,7 @@ These statements are incorrect:
 - **B.** only II and III
 - **C.** only I and III
 - **D** only III
-- **E ** only II
+- **E** only II
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1101,7 +1101,7 @@ While holding a wooden board and squeezing it between his hands, one person noti
 
 - **A** decrease the reaction force perpendicular to the larger side of the plate, thus increasing the friction force between the plate and the hands.
 - **B.** increase the reaction force perpendicular to the larger side of the plate, thus increasing the friction force between the plate and the hands.
-- **C ** increase the friction force perpendicular to the upper face of the plate.
+- **C** increase the friction force perpendicular to the upper face of the plate.
 - **D** decrease the reaction force, parallel to the upper side of the plate, thus increasing the friction force between the plate and the hands.
 - **E** increase the reaction force, parallel to the upper side of the plate, thereby increasing the friction force between the plate and the hands.
 
@@ -1152,7 +1152,7 @@ IV - aumentare la lunghezza del tubo che va dal vassoio all'acqua fino al doccia
 
 È corretto:
 
-- **A ** I solo
+- **A** I solo
 - **B.** II solo
 - **C.** III solo
 - **D.** IV solo
@@ -1175,11 +1175,11 @@ IV - increase the length of the pipe running from the water tank to the shower.
 
 It is not correct:
 
-- **A ** I only
-- **B ** II only
+- **A** I only
+- **B** II only
 - **C.** III only
 - **D** IV only
-- **E ** II and IV only
+- **E** II and IV only
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
@@ -1335,10 +1335,10 @@ Uma esfera metálica é solta e cai até o chão. As relações entre a posiçã
 
 Una sfera metallica viene rilasciata e cade al pavimento. I rapporti tra la posizione $x$ della sfera rispetto al luogo da cui è stata abbandonata, la sua velocità $v$, la sua accelerazione $a$, la sua energia cinetica $E_c$ e il tempo trascorso dall'inizio della caduta $t$ sono graficamente correlati con rettilineo o con parabole di secondo grado. Il grafico che descrive **incorrectamente** la dipendenza tra tali dimensioni corrisponde all'alternativa:
 
-- **A ** $v$ vs $t$ (rete)
+- **A** $v$ vs $t$ (rete)
 - **B.** $a$ vs $t$ (rete orizzontale)
 - **C.** $x$ vs $t$ (parabola)
-- **D ** $x$ vs $t^2$ (rete)
+- **D** $x$ vs $t^2$ (rete)
 - **E.** $E_c$ vs $t$ (rete)
 
 <!--fig:start-->
@@ -1356,11 +1356,11 @@ Una sfera metallica viene rilasciata e cade al pavimento. I rapporti tra la posi
 
 A metal ball is loose and falls to the ground. The relationships between the position $x$ of the sphere relative to the place from which it was abandoned, its speed $v$, its acceleration $a$, its kinetic energy $E_c$ and the time since the start of the fall $t$ are graphically related to straight or second-degree parabolas. The graph which describes ** incorrectly** the dependence between such quantities corresponds to the alternative:
 
-- **A ** $v$ vs $t$ (network)
-- **B ** $a$ vs $t$ (horizontal network)
-- **C ** $x$ vs $t$ (paraphrase)
-- **D ** $x$ vs $t^2$ (network)
-- **E ** $E_c$ vs $t$ (network)
+- **A** $v$ vs $t$ (network)
+- **B** $a$ vs $t$ (horizontal network)
+- **C** $x$ vs $t$ (paraphrase)
+- **D** $x$ vs $t^2$ (network)
+- **E** $E_c$ vs $t$ (network)
 
 <!--fig:start-->
 ![[_attachments/OBF2006_1Fase_1&2serie_prova/OBF2006_1Fase_1&2serie_prova_p6_f6.png]]
@@ -1469,7 +1469,7 @@ IV - Il peso dell'aria spostata dal pallone è inferiore al suo impatto.
 
 Solo le affermazioni sono corrette:
 
-- **A ** I solo
+- **A** I solo
 - **B.** II solo
 - **C.** I e II solo
 - **D.** I e III solo
@@ -1492,11 +1492,11 @@ IV - The weight of the air displaced by the balloon is less than the thrust acti
 
 Only the statements are correct:
 
-- **A ** I only
-- **B ** II only
+- **A** I only
+- **B** II only
 - **C.** I and II only
 - ** D** I and III only
-- **E ** II, III and IV only
+- **E** II, III and IV only
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -1829,7 +1829,7 @@ Please indicate the only correct alternative:
 
 - **A.** The visibility of 6 km corresponds to the displacement magnitude.
 - **B.** The relative humidity size is non-dimensional.
-- **C ** 25 oC is a temperature measurement on an absolute scale.
+- **C** 25 oC is a temperature measurement on an absolute scale.
 - **D.** The wind speed module is 10 m/s and its direction is north-south.
 - **E.** 1010 hPa is the same as $1{,}010 \times 10^2$ Pa.
 

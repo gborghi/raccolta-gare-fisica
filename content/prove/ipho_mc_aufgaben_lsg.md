@@ -44,7 +44,7 @@ Quando un corpo solido di densità $1{,}80\,\text{g\,cm}^{-3}$ si scende a veloc
 - **A.** … no gravitational force acts on the body.
 - **B.** … la massa del corpo equivale alla massa del fluido dislocato.
 - **C.** … la forza gravitazionale sul corpo è in equilibrio con la forza frizionale.
-- **D ** … la forza buoyant sul corpo equivale alla forza fratturale.
+- **D** … la forza buoyant sul corpo equivale alla forza fratturale.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
@@ -760,7 +760,7 @@ Cosa c'è ora circa la forza tra loro?
 - **A.** $0{,}25\,F$
 - **B.** $0{,}33\,F$
 - **C.** $0{,}50\,F$
-- **D ** La forza rimane la stessa.
+- **D** La forza rimane la stessa.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
@@ -2327,7 +2327,7 @@ I grafici I, II, III rappresentano la tempo di evoluzione delle attività di ent
 Quale delle tre coppie di nuclidi appartiene a quale diagramma?
 
 - **A.** 1→I, 2→II, 3→III
-- **B ** 1→II, 2→III, 3→I
+- **B** 1→II, 2→III, 3→I
 - **C.** 1→III, 2→II, 3→I
 - **D.** 1→III, 2→I, 3→II
 

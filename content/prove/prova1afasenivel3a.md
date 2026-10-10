@@ -47,10 +47,10 @@ di $120{,}0\ \text{mmHg}$ e di una pressione minima (diastólica) di $80{,}0\ \t
 con un ritmo di 120 battiti al minuto, il cuore riesce a pompare ogni
 contrazione del suo ventrículo sinistro intorno a $80\ \text{cm}^3$ di sangue. Ciò significa che per cinque minuti di
 Esercizi che questo ventricolo ha pompato:
-- **A ** 48 litri
-- **B ** 480 litri
+- **A** 48 litri
+- **B** 480 litri
 - **C.** 40 litri d) 96 litri
-- **E ** 50 litri
+- **E** 50 litri
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -67,10 +67,10 @@ de $120{,}0\ \text{mmHg}$ e uma pressão mínima (diastólica) com valor de $80{
 intense physical exertion, at a rate of 120 beats/min, the heart can pump each
 contraction of your left ventricle around $80\ \text{cm}^3$ of blood. This means that for five minutes of
 exercises that ventricle will have pumped:
-- **A ** 48 litres
-- **B ** 480 litres
-- **C ** 40 litres d) 96 litres
-- **E ** 50 litres
+- **A** 48 litres
+- **B** 480 litres
+- **C** 40 litres d) 96 litres
+- **E** 50 litres
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -946,7 +946,7 @@ $1450{,}0\ \text{m/s}$, la frequenza d'onda minima da usare nell'apparecchio per
 con un diametro di $2\ \text{mm}$ è di:
 a) 1,45 MHz
 
-- **B ** 10,0 MHz
+- **B** 10,0 MHz
 - **C.** 7,25 MHz
 
 d) 14,5 MHz
@@ -970,7 +970,7 @@ a diameter of $2\ \text{mm}$ is of:
 (a) 1,45 MHz
 
 - ** B ** 10,0 MHz
-- **C ** 7,25 MHz
+- **C** 7,25 MHz
 
 (d) 14,5 MHz
 (e) 3,25 MHz

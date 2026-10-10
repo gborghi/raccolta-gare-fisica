@@ -41,11 +41,11 @@ La figura mostra la posizione di un oggetto (movendo lungo una linea retta) come
 
 ![[HKPhO_2019_p4_f1.png]]
 
-- **(A) ** L'oggetto si sta accelerando a destra.
-- **(B) ** La velocità media dell'oggetto è $1.0\ \mathrm{m/s}$.
-- **(C) ** L'accelerazione dell'oggetto è nella stessa direzione della sua velocità.
-- **(D) ** L'oggetto si sta accelerando verso sinistra.
-- **(E) ** L'accelerazione dell'oggetto è nella stessa direzione del suo spostamento.
+- **(A)** L'oggetto si sta accelerando a destra.
+- **(B)** La velocità media dell'oggetto è $1.0\ \mathrm{m/s}$.
+- **(C)** L'accelerazione dell'oggetto è nella stessa direzione della sua velocità.
+- **(D)** L'oggetto si sta accelerando verso sinistra.
+- **(E)** L'accelerazione dell'oggetto è nella stessa direzione del suo spostamento.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -115,10 +115,10 @@ You are standing in a moving bus, facing forward, and you suddenly fall forward 
 
 Stai in un autobus in movimento, rivolto in avanti, e improvvisamente ti trovi cadendo in avanti quando l'autobus si ferma. La forza che agisce sul tuo corpo per farti cadere in avanti è
 
-- **(A) ** la forza dovuta a attrito statico tra te e il pavimento dell'autobus
-- **(B) ** la forza dovuta alla frizione cinetica tra te e il pavimento dell'autobus
-- **(C) ** la forza di gravità
-- **(D) ** la forza normale dovuta al tuo contatto con il pavimento dell'autobus
+- **(A)** la forza dovuta a attrito statico tra te e il pavimento dell'autobus
+- **(B)** la forza dovuta alla frizione cinetica tra te e il pavimento dell'autobus
+- **(C)** la forza di gravità
+- **(D)** la forza normale dovuta al tuo contatto con il pavimento dell'autobus
 - Non ci sono forze che ti influenzano per farti cadere.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
@@ -172,11 +172,11 @@ Un lavoratore del negozio di alimentari locale ha un lavoro composto dai seguent
 
 In quale dei cinque segmenti del lavoro il gestore di magazzini fa un lavoro positivo sulle scatole?
 
-- solo **(A) ** (1)
-- **(B) ** (1) e (5)
-- **(C) ** (1), (2), (4) e (5)
-- **(D) ** (1) e (2)
-- **(E) ** (2) e (3)
+- solo **(A)** (1)
+- **(B)** (1) e (5)
+- **(C)** (1), (2), (4) e (5)
+- **(D)** (1) e (2)
+- **(E)** (2) e (3)
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -221,7 +221,7 @@ La culla di Newton è costituita da quattro sfere solide di massa uguale appese 
 - **(B)** $v_2$
 - **(C)** $v_1 - v_2$
 - **(D)** $v_1 + v_2$
-- **(E) ** nessuna delle seguenti:
+- **(E)** nessuna delle seguenti:
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -258,11 +258,11 @@ A bunch of bananas hangs at the end of a rope which passes over a pulley fixed t
 
 Un mucchio di banane appesa alla fine di una corda che passa sopra una polla fissata ad un albero. La polla è molto leggera e senza attriti. Una scimmia di massa uguale alla massa delle banane è appesa all'altra estremità della corda. La scimmia e le banane sono inizialmente equilibrate e a riposo. Ora la scimmia inizia a salire la corda, allontanandosi dal terreno con velocità $v$. Che succede alle banane?
 
-- **(A) ** Si muovono a velocità $2v$.
-- **(B) ** Si muovono verso il basso a velocità $v$.
-- **(C) ** Si muovono in salita a velocità $v/2$.
-- **(D) ** Restano fermi.
-- **(E) ** Si muovono a velocità $v$.
+- **(A)** Si muovono a velocità $2v$.
+- **(B)** Si muovono verso il basso a velocità $v$.
+- **(C)** Si muovono in salita a velocità $v/2$.
+- **(D)** Restano fermi.
+- **(E)** Si muovono a velocità $v$.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -303,11 +303,11 @@ Supponiamo che la stella della morte della serie Star Wars possa essere modellat
 
 ![[HKPhO_2019_p6_f7.png]]
 
-- **(A) ** Il proiettile si piega verso l'alto e accelera con una velocità maggiore.
-- **(B) ** Il proiettile si muove con velocità costante lungo la linea tracciata.
+- **(A)** Il proiettile si piega verso l'alto e accelera con una velocità maggiore.
+- **(B)** Il proiettile si muove con velocità costante lungo la linea tracciata.
 Il proiettile rallenta e accelera alla velocità originale quando colpisce l'altro lato del muro.
 Il proiettile accelera e rallenta alla velocità originale quando colpisce l'altro lato del muro.
-- **(E) ** Nessuna delle indicazioni sopra esposte è corretta.
+- **(E)** Nessuna delle indicazioni sopra esposte è corretta.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -883,7 +883,7 @@ Un proiettile di massa $0.01\ \mathrm{kg}$ viene sparato verso un blocco di legn
 - **(B)** $\dfrac{1000}{1001}$
 - **(C)** $\dfrac{999}{1000}$
 - **(D)** $\dfrac{4000}{1002001}$
-- **(E) ** Non sufficiente informazione
+- **(E)** Non sufficiente informazione
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -924,7 +924,7 @@ Il periodo di orbita della Luna è $T_M$ (27 giorni), orbitando ad un'altezza di
 - **(B)** $T_M/T_S$
 - **(C)** $T_S/T_M$
 - **(D)** $(T_M/T_S)^{2/3}$
-- **(E) ** Nessuna delle seguenti:
+- **(E)** Nessuna delle seguenti:
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -969,7 +969,7 @@ Una palla di massa $1\ \mathrm{kg}$ colpisce un blocco rettangolare senza attrit
 - **(B)** $2\ \mathrm{kg}$
 - **(C)** $3\ \mathrm{kg}$
 - **(D)** $5\ \mathrm{kg}$
-- **(E) ** Massa infinita
+- **(E)** Massa infinita
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 

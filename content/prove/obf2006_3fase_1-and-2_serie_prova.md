@@ -73,7 +73,7 @@ $K_A=400\ \text{W.m}^{-1}.^\circ\text{C}^{-1}$ and aluminium $K_B=200\ \text{W.m
 one of the parts has a section S area perpendicular to the axis of the
 cilindro igual a $2{,}00.10^{-4}\ \text{m}^2$ e comprimento $L=8{,}00.10^{-2}\ \text{m}$, calcule:
 - **A** the temperature value $\theta_J$ of the junction between A and B.
-- **B ** the amount of energy E, in joules, that passes through the pieces in 1 second.
+- **B** the amount of energy E, in joules, that passes through the pieces in 1 second.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
@@ -310,7 +310,7 @@ heat that is initially retained in the projectile. As the projectile is made up 
 50 g of copper and taking into account that the latent heat of lead melting is $L_f=23000\ \text{J/kg}$, that the heat of the
 specific to solid lead is $c_{Pb}= 130\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$, that of solid copper is $c_{Cu}=400\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$
 and the melting temperature $\theta_f$ of lead is equal to $327\ ^\circ\text{C}$,
-- **A ** calculates the value of the amount of heat absorbed by the projectile in joules.
+- **A** calculates the value of the amount of heat absorbed by the projectile in joules.
 - **B** calculate the lead mass of the projectile that melts with impact.
 
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]

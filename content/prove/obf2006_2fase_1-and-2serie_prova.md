@@ -37,8 +37,8 @@ mecânicas devidas ao circuito hidráulico, calcule:
 Quesito 01 (solo per la prima classe) - A intervalli di 4 minuti, una pompa idraulica deve alzare
 $1\ \text{m}^3$ di acqua per un serbatoio situato ad un'altezza di 12 metri. Scommettere le resistenze
 meccaniche dovute al circuito idraulico, calcolare:
-- **A ** in joules, il lavoro $\tau$ sviluppato dalla pompa per eseguire il compito.
-- **B ** in watts, la potenza meccanica $P$ sviluppata dalla pompa.
+- **A** in joules, il lavoro $\tau$ sviluppato dalla pompa per eseguire il compito.
+- **B** in watts, la potenza meccanica $P$ sviluppata dalla pompa.
 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -51,8 +51,8 @@ meccaniche dovute al circuito idraulico, calcolare:
 Question 01 (for 1st class only) - At intervals of 4 minutes, a hydraulic pump shall lift
 $1\ \text{m}^3$ of water for a reservoir situated at a height of 12 metres. Disregarding Resistance
 mechanics due to the hydraulic circuit, calculate:
-- **A ** in joules, the $\tau$ work developed by the pump to perform the task.
-- **B ** in watts, the mechanical power $P$ developed by the pump.
+- **A** in joules, the $\tau$ work developed by the pump to perform the task.
+- **B** in watts, the mechanical power $P$ developed by the pump.
 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -259,7 +259,7 @@ mass of 180 kg (the balloon itself, pilot, basket, equipment, etc.) above the gr
 which, at a pressure of 1,0 atm, the specific mass of the air is $\mu_{AR} = 1{,}300\ \text{kg/m}^3$ and that of the hydrogen gas
 $\mu_{H2} = 0{,}090\ \text{kg/m}^3$, determine:
 - **A** in $\text{m}^3$, the minimum volume $V$ of the balloon sufficient to perform the task;
-- **B ** in m, the radius $R$ of this balloon, admitting it to be spherical and remembering that the volume of a sphere is given
+- **B** in m, the radius $R$ of this balloon, admitting it to be spherical and remembering that the volume of a sphere is given
 by $V = (4\pi R^3)/3$ (leave the cubic root indicated!)
 
 **Topic:** [[Fluid Mechanics]]

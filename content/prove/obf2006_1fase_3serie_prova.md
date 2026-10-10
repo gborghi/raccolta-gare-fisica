@@ -251,11 +251,11 @@ In this respect, it can be stated that:
 
 04) Una fonte laser è caratterizzata da emissioni di radiazioni monocromatiche. Un tipo ben noto di questa fonte è il cosiddetto "canetino laser", che emette luce rossa. A differenza della "luce bianca" di una fonte comune, si può verificare che con la luce di questo laser non è possibile ottenere:
 
-- **A ** riflessione in uno specchio piatto.
+- **A** riflessione in uno specchio piatto.
 - **B.** rifrazione in vetro trasparente.
 - **C.** interferenza con una rete di diffrazione.
 - **D.** difrazione su un oggetto di piccole dimensioni.
-- **E ** decomposizione in prisma ottico.
+- **E** decomposizione in prisma ottico.
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -268,10 +268,10 @@ In this respect, it can be stated that:
 04) A laser source is characterized by emitting monochrome radiation. A well-known type of this source is the so-called "laser canette", which emits red light. Unlike 'white light' from a common source, it can be found that with the light of this laser it is not possible to obtain:
 
 - A reflection in a flat mirror.
-- **B ** refraction in clear glass.
+- **B** refraction in clear glass.
 - interference with a diffraction network.
-- **D ** diffraction in a small object.
-- **E ** decomposition in an optical prism.
+- **D** diffraction in a small object.
+- **E** decomposition in an optical prism.
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -602,11 +602,11 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 10) La principale fonte di rumore che si sente quando una serra circolare sta tagliando un pezzo di legno è dovuta all'impatto successivo dei "denti" del disco della serra con il legno. Se un disco di serratura ha 50 denti, diametro di 25 cm e è collegato a un motore che ruota a 2400 rpm (rotate al minuto), la frequenza del suono emesso dal disco di tale serratura è di:
 
-- **A ** 1,0 kHz
+- **A** 1,0 kHz
 - ** B ** 40 kHz
-- **C ** 2,0 kHz
+- **C** 2,0 kHz
 - ** D ** 2,4 kHz
-- **E ** 1,2 kHz
+- **E** 1,2 kHz
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -618,11 +618,11 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 10) The main source of noise heard when a circular saw is cutting a piece of wood is due to the successive impact of the saw's "tooth" disc with the wood. If a saw disc has 50 teeth, 25 cm in diameter and is connected to a motor that rotates at 2400 rpm (rotations per minute), the sound frequency of the saw disc shall be:
 
-- **A ** 1,0 kHz
-- **B ** 40 kHz
-- **C ** 2,0 kHz
+- **A** 1,0 kHz
+- **B** 40 kHz
+- **C** 2,0 kHz
 - ** D ** 2.4 kHz
-- **E ** 1.2 kHz
+- **E** 1.2 kHz
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -892,7 +892,7 @@ Only the following statement is correct:
 
 - **A.** I
 - **B** II and III
-- **C ** III
+- **C** III
 - **D.** I e II
 - **E.** II
 
@@ -955,7 +955,7 @@ IV - Il studente non sentirà freddo se il ghiaccio è al posto della fiamma per
 
 È corretto o affermativo:
 
-- **A ** I solo
+- **A** I solo
 - **B.** III solo
 - **C.** II e IV solo
 - **D.** I e III solo
@@ -984,11 +984,11 @@ IV - The student will not feel cold if the ice is in the place of the flame beca
 
 It is not correct to say yes:
 
-- **A ** I only
+- **A** I only
 - **B** III only
 - **C.** II and IV only
 - ** D** I and III only
-- **E ** II only
+- **E** II only
 
 <!--fig:start-->
 ![[_attachments/OBF2006_1Fase_3serie_prova/OBF2006_1Fase_3serie_prova_p5_f5.png]]

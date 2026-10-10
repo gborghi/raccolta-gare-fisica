@@ -50,7 +50,7 @@ velocità costante. Considerate le seguenti forze:
 (III) una forza nella direzione del movimento del monocolo
 (IV) una forza diretta verso l'esterno, lontano dal centro del cerchio
 Quale delle forze sopra indicate agisce sul monocolo?
-- **A ** Solo io.
+- **A** Solo io.
 - **B.** I e II.
 - **C.** I e III.
 - **D.** I, II e III.

@@ -37,11 +37,11 @@ The orbital period of the Moon around the Earth is 27.3 days. The orbital period
 
 Il periodo orbitale della Luna intorno alla Terra è di 27,3 giorni. Il periodo orbitale della Terra intorno al Sole è di 365,3 giorni. Qual è la differenza di tempo tra due lune piene?
 
-- **(A) ** 25,3 giorni
-- **(B) ** 25,4 giorni
-- **(C) ** 27,3 giorni
-- **(D) ** 29,3 giorni
-- **(E) ** 29,5 giorni
+- **(A)** 25,3 giorni
+- **(B)** 25,4 giorni
+- **(C)** 27,3 giorni
+- **(D)** 29,3 giorni
+- **(E)** 29,5 giorni
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -172,7 +172,7 @@ Un ciclo di catena di massa $M$ e lunghezza (circumferenza) $L$ si posa sulla su
 - **(B)** $\pi^2 M g \sec^2 \vartheta$
 - **(C)** $\dfrac{M g}{\pi}\sin\vartheta\cos\vartheta$
 - **(D)** $\dfrac{M g}{2\pi}\cot\vartheta$
-- **(E) ** Nessuna delle seguenti.
+- **(E)** Nessuna delle seguenti.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -217,7 +217,7 @@ La particella 1 di massa $m_1$ richiede tempo $t_1$ per scivolare dal riposo su 
 - **(B)** $t_1 = t_2 > t_3$.
 - **(C)** $t_1 > t_2 > t_3$.
 - **(D)** $t_2 > t_1 > t_3$.
-- **(E) ** Dipende dai valori relativi delle masse.
+- **(E)** Dipende dai valori relativi delle masse.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -254,11 +254,11 @@ A satellite is orbiting around the Earth on a circular orbit at velocity $v$. It
 
 Un satellite sta orbitando intorno alla Terra in orbita circolare a velocità $v$. E' stato colpito da un asteroide. Dopo l'impatto, la velocità radial del satellite diventa $v/2$ e la velocità tangenziale rimane al valore $v$. La nuova orbita del satellite è
 
-- **(A) ** un'orbita circolare con un raggio orbitale maggiore
-- **(B) ** un'orbita ellittica
-- **(C) ** un'orbita parabolica
-- **(D) ** un'orbita iperbolica
-- **(E) ** un'orbita oscillante su una traiettoria circolare
+- **(A)** un'orbita circolare con un raggio orbitale maggiore
+- **(B)** un'orbita ellittica
+- **(C)** un'orbita parabolica
+- **(D)** un'orbita iperbolica
+- **(E)** un'orbita oscillante su una traiettoria circolare
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -340,11 +340,11 @@ A large piece of granite is put on board a boat, which floats in a swimming pool
 
 Un grande pezzo di granito viene messo a bordo di una barca, che galleggia in una piscina, e il livello iniziale dell'acqua della piscina viene registrato in equilibrio. Ora, se il granito viene gettato oltre mare e affonda nella piscina, cosa accadrà al livello dell'acqua della piscina?
 
-- **(A) ** Il livello dell'acqua aumenta.
-- **(B) ** Il livello dell'acqua scende.
-- **(C) ** Il livello dell'acqua aumenta prima e poi scende al livello iniziale.
-- **(D) ** Il livello dell'acqua scende prima e poi sale al livello iniziale.
-- **(E) ** Non può essere determinato senza i valori esatti delle densità di granito e acqua.
+- **(A)** Il livello dell'acqua aumenta.
+- **(B)** Il livello dell'acqua scende.
+- **(C)** Il livello dell'acqua aumenta prima e poi scende al livello iniziale.
+- **(D)** Il livello dell'acqua scende prima e poi sale al livello iniziale.
+- **(E)** Non può essere determinato senza i valori esatti delle densità di granito e acqua.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -645,10 +645,10 @@ Due blocchi di massa rispettivamente di 10 kg e 1 kg si trovano sul tavolo senza
 
 
 
-- **(A) ** $6.77\ \text{m s}^{-2}$ a sinistra
-- **(B) ** $6.77\ \text{m s}^{-2}$ a destra
-- **(C) ** $4.6177\ \text{m s}^{-2}$ a sinistra
-- **(D) ** $4.6177\ \text{m s}^{-2}$ a destra
+- **(A)** $6.77\ \text{m s}^{-2}$ a sinistra
+- **(B)** $6.77\ \text{m s}^{-2}$ a destra
+- **(C)** $4.6177\ \text{m s}^{-2}$ a sinistra
+- **(D)** $4.6177\ \text{m s}^{-2}$ a destra
 - **(E)** $0\ \text{m s}^{-2}$
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
@@ -690,8 +690,8 @@ Una canna sottile uniforme di massa $M$ e lunghezza $L$ è inizialmente tenuta i
 
 ![[HKPhO_2017_p14_f1.png]]
 
-- **(A) ** In tutti gli angoli
-- **(B) ** In nessun angolo
+- **(A)** In tutti gli angoli
+- **(B)** In nessun angolo
 - **(C)** $\sin^{-1}\left(\dfrac{3}{4}\sin\theta_0\right)$
 - **(D)** $\sin^{-1}\left(\dfrac{3}{2}\sin\theta_0\right)$
 - **(E)** $\cos^{-1}\left(\dfrac{3}{2}\sin\theta_0\right)$

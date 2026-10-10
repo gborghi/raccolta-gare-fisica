@@ -86,7 +86,7 @@ It's the same vertical from the Earth's surface.
 Determine:
 
 - **A.** the angular velocity in rad/s at which the geostationary satellite rotates;
-- **B ** the height from the Earth's surface at which we must position the
+- **B** the height from the Earth's surface at which we must position the
 the satellite;
 (c) the linear velocity of the satellite in its orbit.
 

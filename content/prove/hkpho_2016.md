@@ -116,7 +116,7 @@ La figura seguente illustra un sistema di pollice con masse $m_1$ e $m_2$, e è 
 - **(B)** $\dfrac{m_2\left(M+m_1+m_2\right)g}{m_1}$
 - **(C)** $\dfrac{m_1\left(M-m_1+m_2\right)g}{m_2}$
 - **(D)** $\dfrac{m_2\left(M-m_1+m_2\right)g}{m_1}$
-- **(E) ** Nessuno di questi, poiché esiste un movimento relativo tra $m_1$, $m_2$ e/o $M$.
+- **(E)** Nessuno di questi, poiché esiste un movimento relativo tra $m_1$, $m_2$ e/o $M$.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -237,11 +237,11 @@ What is the period of the spacecraft as mentioned above (Problema 3)?
 
 Qual è il periodo della sonda spaziale come accennato sopra (problema 3)?
 
-- **(A) ** 0,4 anni.
-- **(B) ** 0,8 anni.
-- **(C) ** 1,2 anni.
-- **(D) ** 1,6 anni.
-- **(E) ** 2,0 anni.
+- **(A)** 0,4 anni.
+- **(B)** 0,8 anni.
+- **(C)** 1,2 anni.
+- **(D)** 1,6 anni.
+- **(E)** 2,0 anni.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
 **Topic:** [[Gravitation]]
@@ -323,11 +323,11 @@ Una macchina a quattro ruote si muove in salita senza scivolare, come mostra la 
 
 ![[HKPhO_2016_p7_f1.png]]
 
-- **(A) ** Ruote posteriori: in salita, ruote anteriori: in salita.
-- **(B) ** Ruote posteriori: in discesa, ruote anteriori: in salita.
-- **(C) ** Ruote posteriori: in salita, ruote anteriori: in discesa.
-- **(D) ** Ruote posteriori: in discesa, ruote anteriori: in discesa.
-- **(E) ** Le frizioni non agiscono sulle ruote perché l'auto si muove a velocità costante.
+- **(A)** Ruote posteriori: in salita, ruote anteriori: in salita.
+- **(B)** Ruote posteriori: in discesa, ruote anteriori: in salita.
+- **(C)** Ruote posteriori: in salita, ruote anteriori: in discesa.
+- **(D)** Ruote posteriori: in discesa, ruote anteriori: in discesa.
+- **(E)** Le frizioni non agiscono sulle ruote perché l'auto si muove a velocità costante.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -512,11 +512,11 @@ Una macchina Atwood è composta da masse $n$ (masse $m$, $m/2$, $m/4$, ……, r
 
 ![[HKPhO_2016_p8_f2.png]]
 
-- **(A) ** Accelerazione zero.
+- **(A)** Accelerazione zero.
 - **(B)** $g/4$.
 - **(C)** $g/3$.
 - **(D)** $g/2$.
-- **(E) ** Più grande o uguale a $2^{100}g$.
+- **(E)** Più grande o uguale a $2^{100}g$.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -562,7 +562,7 @@ Considerate i seguenti 3 cerchi pianari con densità di massa identica per unit�
 - **(A)** $\dfrac{\sigma\pi R^2}{2\sin\theta}\dfrac{(1-\sin\theta)^2}{\cos\theta}\,g$
 - **(B)** $\dfrac{\sigma\pi R^2}{2\sin\theta}\dfrac{(1-\cos\theta)^2}{\cos\theta}\,g$
 - **(C)** $\dfrac{\sigma\pi R^2}{2\cos\theta}\dfrac{(1-\sin\theta)^2}{\sin\theta}\,g$
-- **(D) ** *Riviso a: * $\dfrac{\sigma\pi R^2}{2\cos\theta}\dfrac{(1-\cos\theta)^2}{\tan\theta}\,g$
+- **(D)** *Riviso a: * $\dfrac{\sigma\pi R^2}{2\cos\theta}\dfrac{(1-\cos\theta)^2}{\tan\theta}\,g$
 - **(E)** $\dfrac{\sigma\pi R^2}{2(\sin\theta+\cos\theta)}(1-\tan\theta)^2\,g$
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
@@ -895,11 +895,11 @@ Un blocco di legno (massa 1 kg) è collegato a 2 sorgenti senza massa (sorgente 
 
 ![[HKPhO_2016_p13_f1.png]]
 
-- **(A) ** $\pi$ secondi.
-- **(B) ** $3\pi/4$ secondi.
-- **(C) ** $\pi/2$ secondi.
-- **(D) ** $\pi/4$ secondo.
-- **(E) ** $\pi/8$ secondo.
+- **(A)** $\pi$ secondi.
+- **(B)** $3\pi/4$ secondi.
+- **(C)** $\pi/2$ secondi.
+- **(D)** $\pi/4$ secondo.
+- **(E)** $\pi/8$ secondo.
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1CHccFSp5F3rdiUmBQR3Zq2lj6cn486hH/view)
 **Topic:** [[Oscillations & Waves]]

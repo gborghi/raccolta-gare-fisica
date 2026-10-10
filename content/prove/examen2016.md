@@ -176,7 +176,7 @@ I Brooklyn Nets, i cosiddetti Draft-Combine. Il giocatore dell'Università di Me
 alla fama grazie alla sua capacità di saltare. Nonostante la sua altezza, 1,95 metri, questo giovane alero
 Il primo di questi due campioni, il Tigers, ha superato i 116,8 centimetri. (Il 24 maggio)
 - **A.** Qual è stata la velocità iniziale del salto di D. J. - Stephens? - Cosa?
-- **B ** Supponendo che sia in grado di sviluppare esattamente la stessa potenza di salto, quale altezza sarebbe
+- **B** Supponendo che sia in grado di sviluppare esattamente la stessa potenza di salto, quale altezza sarebbe
 raggiunto D. J. Stephens sulla superficie della luna?
 I dati: $g = 9{,}8\ \text{m/s}^2$; $M_L = 7{,}349\times10^{22}\ \text{kg}$; $R_L = 1{,}737\times10^6\ \text{m}$; $G = 6{,}637\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
 Questioni

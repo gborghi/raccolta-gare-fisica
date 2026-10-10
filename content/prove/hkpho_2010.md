@@ -440,11 +440,11 @@ As shown, two parallel plate capacitors are placed horizontally and connected to
 
 Come illustrato, due condensatori di piastre parallele sono posizionati orizzontalmente e collegati a una batteria $E$. Dopo aver caricato i condensatori, il interruttore $K$ è aperto. Una particella carica viene collocata nel condensatore sinistro e rimane a riposo. Se si riduce la distanza tra le piastre del condensatore giusto, la particella ________.
 
-- **(A) ** si muove orizzontalmente
-- **(B) ** si muove verso l'alto
-- **(C) ** spostarsi verso il basso
-- **(D) ** restano in riposo
-- **(E) ** muoversi in senso contrario all'orologio
+- **(A)** si muove orizzontalmente
+- **(B)** si muove verso l'alto
+- **(C)** spostarsi verso il basso
+- **(D)** restano in riposo
+- **(E)** muoversi in senso contrario all'orologio
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1IEHcKQUKdIv-BXw8-24-qrEpFkryF07s/view)
 **Topic:** [[Electrostatics]] ; [[Circuits]]

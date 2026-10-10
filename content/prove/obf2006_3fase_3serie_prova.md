@@ -100,7 +100,7 @@ $1210\ \Omega$, calcule:
 (a) the amount of heat $Q_1$ absorbed by the gaseous mass so that the plunger E is only
 the anchorage in part F.
 - **B.** the time interval $\Delta t$ for the resistor to remain on.
-- **C ** the output $\eta$ of the device considering the work performed and the energy consumption
+- **C** the output $\eta$ of the device considering the work performed and the energy consumption
 electrical.
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]], [[Circuits]]

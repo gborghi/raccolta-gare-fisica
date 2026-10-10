@@ -1041,9 +1041,9 @@ Qual è l'ordine di grandezza del numero di elettroni che si assumono bevendo un
 What is the order of magnitude of the number of electrons taken up by drinking a glass of water?
 
 - **A.** $10^{30}$ elettroni
-- **B ** $10^{26}$ electrons
+- **B** $10^{26}$ electrons
 - **C.** $10^{22}$ electrons
-- **D ** $10^{18}$ electrons
+- **D** $10^{18}$ electrons
 - **E.** Nessun elettrone perché l'acqua è neutra.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]

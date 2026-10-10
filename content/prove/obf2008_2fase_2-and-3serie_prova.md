@@ -565,8 +565,8 @@ Figure 6
 <div class="qlang-split" data-lang="it"></div>
 
 14. Un insieme di luci natalizie contiene 100 piccole lampadine identiche. Sono disposte in forma di 10 ram associati in parallelo e in ogni ramo ci sono 10 lampadine associate in serie. La potenza elettrica totale dissipata in questo set è $P_0$. Supponiamo che 10 lampade siano bruciate e che abbiamo 10 lampade a disposizione la cui potenza singola, sottoposta alla stessa tensione, è 4 volte superiore a quella di ogni lampada originale. Qual è la potenza totale, in funzione di $P_0$ se:
-- **A ** Sostituire su tutti i rami solo una lampada.
-- **B **Sostituire 10 lampade di un solo ramo, lasciando gli altri rami invariati.
+- **A** Sostituire su tutti i rami solo una lampada.
+- **B** Sostituire 10 lampade di un solo ramo, lasciando gli altri rami invariati.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]

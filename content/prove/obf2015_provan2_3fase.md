@@ -108,7 +108,7 @@ south of the pass, traveling north-south, northward, at a constant speed of 72
 km/h. And the car is 60 meters west of the pass, traveling east-west, heading towards
 east with a speed of 36 km/h and acceleration of $4{,}0\ \text{m/s}^2$. In the instant $t = 2$ s, determine the following:
 - **A.** distance between the locomotive and the automobile
-- **B ** speed of the locomotive in relation to the automobile.
+- **B** speed of the locomotive in relation to the automobile.
 You despise the dimensions of the car and the locomotive.
 
 $\vec{v}_L$, $x$, $\vec{v}_A$, $\vec{a}_A$, $y$

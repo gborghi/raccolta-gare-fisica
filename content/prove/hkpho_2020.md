@@ -36,11 +36,11 @@ A $1.0$-kg block and a $2.0$-kg block are pressed together on a horizontal frict
 
 Un blocco $1.0$-kg e un blocco $2.0$-kg sono premuti insieme su una superficie orizzontale senza attrito con una sorgente luminosa compressa tra di loro. Non sono attaccate alla sorgente. Dopo che saranno stati liberati e separati dalla sorgente,
 
-- **(A) ** entrambi i blocchi avranno la stessa quantità di energia cinetica.
-- **(B) ** entrambi i blocchi avranno velocità uguali.
-- **(C) ** il blocco più leggero avrà più energia cinetica del blocco più pesante.
-- **(D) ** la grandezza del momento del blocco più pesante sarà maggiore della grandezza del momento del blocco più leggero.
-- **(E) ** il blocco più pesante avrà più energia cinetica del blocco più leggero.
+- **(A)** entrambi i blocchi avranno la stessa quantità di energia cinetica.
+- **(B)** entrambi i blocchi avranno velocità uguali.
+- **(C)** il blocco più leggero avrà più energia cinetica del blocco più pesante.
+- **(D)** la grandezza del momento del blocco più pesante sarà maggiore della grandezza del momento del blocco più leggero.
+- **(E)** il blocco più pesante avrà più energia cinetica del blocco più leggero.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Conservation of Momentum]]
@@ -79,11 +79,11 @@ Una pesante palla è appesa con una corda dal soffitto. Un'altra corda è attacc
 
 ![[HKPhO_2020_p3_f2.png]]
 
-- **(A) ** Se la corda inferiore viene tirata improvvisamente da una grande forza, la corda superiore si rompe prima.
-- **(B) ** Se la corda inferiore viene tirata improvvisamente da una forza grande, la corda inferiore si rompe prima.
-- **(C) ** Se la corda inferiore viene tirata improvvisamente da una grande forza, le due corde si romperanno contemporaneamente.
-- **(D) ** Se la corda inferiore viene tirata da una forza che aumenta lentamente, la corda inferiore si rompe prima.
-- **(E) ** Se la corda inferiore viene tirata da una forza che aumenta lentamente, nessuna della corda finirà per rompersi.
+- **(A)** Se la corda inferiore viene tirata improvvisamente da una grande forza, la corda superiore si rompe prima.
+- **(B)** Se la corda inferiore viene tirata improvvisamente da una forza grande, la corda inferiore si rompe prima.
+- **(C)** Se la corda inferiore viene tirata improvvisamente da una grande forza, le due corde si romperanno contemporaneamente.
+- **(D)** Se la corda inferiore viene tirata da una forza che aumenta lentamente, la corda inferiore si rompe prima.
+- **(E)** Se la corda inferiore viene tirata da una forza che aumenta lentamente, nessuna della corda finirà per rompersi.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -118,11 +118,11 @@ Which of the following statements is true in describing two satellites orbiting 
 
 Quale delle seguenti affermazioni è vera nel descrivere due satelliti che orbitano in orbite circolari con lo stesso raggio intorno alla Terra?
 
-- **(A) ** I satelliti potrebbero avere masse diverse.
-- **(B) ** I satelliti potrebbero avere periodi diversi.
-- **(C) ** I satelliti potrebbero avere velocità lineari diverse.
+- **(A)** I satelliti potrebbero avere masse diverse.
+- **(B)** I satelliti potrebbero avere periodi diversi.
+- **(C)** I satelliti potrebbero avere velocità lineari diverse.
 I satelliti potrebbero avere magnitudini di accelerazione diverse.
-- **(E) ** L'accelerazione gravitazionale misurata all'interno dei satelliti potrebbe essere diversa.
+- **(E)** L'accelerazione gravitazionale misurata all'interno dei satelliti potrebbe essere diversa.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Gravitation]]
@@ -157,11 +157,11 @@ A roller-coaster cart full of water is moving at a constant speed along a horizo
 
 Un carrello di montagna russa pieno di acqua si muove a una velocità costante lungo una lunghezza orizzontale e senza attrito. Improvvisamente, viene rimosso un tappo in fondo al carrello e l'acqua inizia a scorrere verso il basso. Che succede alla velocità del carro mentre l'acqua scorre? Ignora la resistenza dell'aria nella tua risposta.
 
-- **(A) ** Il carrello si accelera.
-- **(B) ** Il carrello rallenta.
-- **(C) ** Il carrello accelera fino a quando la metà dell'acqua non è più presente, poi rallenta.
-- **(D) ** Il carrello rallenta fino a quando la metà dell'acqua non è più presente, poi si accelera.
-- **(E) ** La velocità del carrello non cambia.
+- **(A)** Il carrello si accelera.
+- **(B)** Il carrello rallenta.
+- **(C)** Il carrello accelera fino a quando la metà dell'acqua non è più presente, poi rallenta.
+- **(D)** Il carrello rallenta fino a quando la metà dell'acqua non è più presente, poi si accelera.
+- **(E)** La velocità del carrello non cambia.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Conservation of Momentum]]
@@ -198,11 +198,11 @@ A cylinder half-filled with water is hung from the ceiling by a long cable and s
 
 Un cilindro mezzo riempito di acqua è appeso al soffitto da un lungo cavo e oscilla con un angolo piccolo come un pendolo. Al punto indicato nella figura, si osserva che il livello dell'acqua è (vedi figura seguente per la descrizione delle opzioni)
 
-- **(A) ** curvo
-- **(B) ** orizzontale
-- **(C) ** inclinato verso l'interno
-- **(D) ** inclinato verso l'esterno
-- **(E) ** inclinato verso l'esterno quando il pendolo si sta svolgendo verso l'esterno e inclinato verso l'interno quando il pendolo si sta svolgendo verso l'interno
+- **(A)** curvo
+- **(B)** orizzontale
+- **(C)** inclinato verso l'interno
+- **(D)** inclinato verso l'esterno
+- **(E)** inclinato verso l'esterno quando il pendolo si sta svolgendo verso l'esterno e inclinato verso l'interno quando il pendolo si sta svolgendo verso l'interno
 
 ![[HKPhO_2020_p5_f5.png]]
 
@@ -253,11 +253,11 @@ Considerate la collisione unidimensional di due oggetti $A$ e $B$ con masse $m_A
 - III  $A$: $4.6~\text{m/s}$ a sinistra, $B$: $3.4~\text{m/s}$ a destra
 - IV  $A$: $0.2~\text{m/s}$ a destra, $B$: $0.2~\text{m/s}$ a destra
 
-- solo **(A) ** II
-- **(B) ** III solo
-- solo **(C) ** II e III
-- **(D) ** I, II e III soltanto
-- solo **(E) ** II, III e IV
+- solo **(A)** II
+- **(B)** III solo
+- solo **(C)** II e III
+- **(D)** I, II e III soltanto
+- solo **(E)** II, III e IV
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Conservation of Momentum]]
@@ -1131,11 +1131,11 @@ Quale delle seguenti parti corrisponde alla potenza del motore?
 
 ![[HKPhO_2020_p14_f24b.png]]
 
-- **(A) ** Plot A
-- **(B) ** Plot B
-- **(C) ** Plot C
-- **(D) ** Trama D
-- **(E) ** Plot E
+- **(A)** Plot A
+- **(B)** Plot B
+- **(C)** Plot C
+- **(D)** Trama D
+- **(E)** Plot E
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Newtonian Mechanics]]

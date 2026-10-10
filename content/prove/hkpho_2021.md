@@ -37,11 +37,11 @@ A mass $m$ hangs from a massless spring connected to the roof of a lift. When th
 
 Una massa $m$ è appesa a una sorgente senza massa collegata al tetto di un ascensore. Quando l'ascensore è stazionario, il sistema di massspring oscilla verticalmente con frequenza angolare $\omega$. Se l'ascensore si muove verso il basso a una velocità costante, come cambierà la frequenza angolare?
 
-- **(A) ** $\omega$ resterà invariato.
-- **(B) ** $\omega$ aumenterà.
-- **(C) ** $\omega$ diminuirà.
-- **(D) ** Le oscillazioni sono impossibili in queste condizioni.
-- **(E) ** $\omega$ aumenterà o diminuirà a seconda dei valori di $m$ e della costante di molla della molla senza massa.
+- **(A)** $\omega$ resterà invariato.
+- **(B)** $\omega$ aumenterà.
+- **(C)** $\omega$ diminuirà.
+- **(D)** Le oscillazioni sono impossibili in queste condizioni.
+- **(E)** $\omega$ aumenterà o diminuirà a seconda dei valori di $m$ e della costante di molla della molla senza massa.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -186,11 +186,11 @@ Un satellite geosincrono è un satellite artificiale in orbita circolare intorno
 - **II.** Tutti i satelliti geostazionari sono geosincroni.
 - **III.** È possibile avere un satellite geostazionario al zenit (direttamente in alto nel cielo) del cielo locale di Hong Kong.
 
-- **(A) ** I solo
-- **(B) ** II solo
-- solo **(C) ** III
-- **(D) ** I e II solo
-- **(E) ** I, II e III
+- **(A)** I solo
+- **(B)** II solo
+- solo **(C)** III
+- **(D)** I e II solo
+- **(E)** I, II e III
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -239,11 +239,11 @@ Un anello circolare e un disco circolare hanno la stessa massa e il medesimo rag
 
 Le tre velocità di rotazione sono le stesse. Rendi le energie cinetiche a causa della rotazione, dalla più piccola alla più grande.
 
-- **(A) ** I, II, III
-- **(B) ** I, III, II
-- **(C) ** II, III, I
-- **(D) ** III, I, II
-- **(E) ** III, II, I
+- **(A)** I, II, III
+- **(B)** I, III, II
+- **(C)** II, III, I
+- **(D)** III, I, II
+- **(E)** III, II, I
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -280,11 +280,11 @@ An object is launched vertically upwards somewhere on the Earth's surface not at
 
 Un oggetto viene lanciato verticalmente verso l'alto da qualche parte sulla superficie terrestre non al polo nord e sud. Per quanto riguarda la velocità verticale iniziale minima che l'oggetto deve avere per poter sfuggire alla gravità terrestre, e tenendo conto dell'auto-rottamento terrestre, come si confronta con la velocità di fuga alla superficie terrestre?
 
-- **(A) ** È leggermente inferiore alla velocità di fuga.
-- **(B) ** È uguale alla velocità di fuga.
-- **(C) ** È leggermente superiore alla velocità di fuga.
-- **(D) ** Quale di A, B e C è corretto dipende dalla longitudine della posizione.
-- **(E) ** Quale di A, B e C sia corretto dipende dalla latitudine della posizione.
+- **(A)** È leggermente inferiore alla velocità di fuga.
+- **(B)** È uguale alla velocità di fuga.
+- **(C)** È leggermente superiore alla velocità di fuga.
+- **(D)** Quale di A, B e C è corretto dipende dalla longitudine della posizione.
+- **(E)** Quale di A, B e C sia corretto dipende dalla latitudine della posizione.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -366,11 +366,11 @@ An ice is floating on water in a cup. At the beginning, part of the ice submerge
 
 Un ghiaccio galleggia sull'acqua in una tazza. All'inizio, una parte del ghiaccio submerge sotto la superficie dell'acqua. Finalmente il ghiaccio si scioglie completamente. Ignorando l'evaporazione e l'espansione termica. Quale di queste affermazioni è vera?
 
-- **(A) ** Il livello dell'acqua aumenta dopo che il ghiaccio è sciolto.
-- **(B) ** Il livello dell' acqua scende dopo che il ghiaccio è sciolto.
-- **(C) ** Il livello dell'acqua rimane invariato dopo che il ghiaccio è stato sciolto.
-- **(D) ** Il ghiaccio non è stato completamente sciolto in quanto non è stato fornito calore.
-- **(E) ** Per determinare cosa potrebbe accadere sono necessarie ulteriori informazioni.
+- **(A)** Il livello dell'acqua aumenta dopo che il ghiaccio è sciolto.
+- **(B)** Il livello dell' acqua scende dopo che il ghiaccio è sciolto.
+- **(C)** Il livello dell'acqua rimane invariato dopo che il ghiaccio è stato sciolto.
+- **(D)** Il ghiaccio non è stato completamente sciolto in quanto non è stato fornito calore.
+- **(E)** Per determinare cosa potrebbe accadere sono necessarie ulteriori informazioni.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -411,11 +411,11 @@ Un blocco di 1,0 kg e un blocco di 2,0 kg sono premuti insieme su una superficie
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p7_f1.png]]
 
-- **(A) ** entrambi i blocchi avranno la stessa quantità di energia cinetica.
-- **(B) ** entrambi i blocchi avranno velocità uguali.
-- **(C) ** il blocco più leggero avrà più energia cinetica del blocco più pesante.
-- **(D) ** la grandezza del momento del blocco più pesante sarà maggiore della grandezza del momento del blocco più leggero.
-- **(E) ** il blocco più pesante avrà più energia cinetica del blocco più leggero.
+- **(A)** entrambi i blocchi avranno la stessa quantità di energia cinetica.
+- **(B)** entrambi i blocchi avranno velocità uguali.
+- **(C)** il blocco più leggero avrà più energia cinetica del blocco più pesante.
+- **(D)** la grandezza del momento del blocco più pesante sarà maggiore della grandezza del momento del blocco più leggero.
+- **(E)** il blocco più pesante avrà più energia cinetica del blocco più leggero.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -501,11 +501,11 @@ A particle sliding on a curved track (similar to surface of a bowl) is under the
 
 Una particella che scivola su una pista curva (simile alla superficie di una ciotola) è sotto la forza netta costituita da gravità, forza normale e attrito. L'energia meccanica totale è definita come la somma dell'energia cinetica e dell'energia potenziale gravitazionale. Quale delle seguenti affermazioni è vera?
 
-- **(A) ** Il cambiamento di energia meccanica equivale al lavoro effettuato da attrito e gravità.
-- **(B) ** Il cambiamento di energia meccanica equivale al lavoro effettuato solo con attrito.
-- **(C) ** Il cambiamento di energia cinetica equivale al lavoro effettuato da attrito e gravità.
-- **(D) ** La forza normale non fa alcun lavoro.
-- **(E) ** Il lavoro effettuato con attrito deve essere negativo.
+- **(A)** Il cambiamento di energia meccanica equivale al lavoro effettuato da attrito e gravità.
+- **(B)** Il cambiamento di energia meccanica equivale al lavoro effettuato solo con attrito.
+- **(C)** Il cambiamento di energia cinetica equivale al lavoro effettuato da attrito e gravità.
+- **(D)** La forza normale non fa alcun lavoro.
+- **(E)** Il lavoro effettuato con attrito deve essere negativo.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -546,11 +546,11 @@ Considera che un impulso con uno spostamento verso l'alto di forma di mezzo cosi
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p9_f1.png]]
 
-- **(A) ** Il polso si riflette con la larghezza del polso dimezzata.
-- **(B) ** Il polso si riflette con spostamento verso l'alto della stessa forma.
-- **(C) ** Il polso si riflette con spostamento verso il basso della stessa forma.
-- **(D) ** Il polso è assorbito dall' estremità fissa.
-- **(E) ** Nessuna delle seguenti.
+- **(A)** Il polso si riflette con la larghezza del polso dimezzata.
+- **(B)** Il polso si riflette con spostamento verso l'alto della stessa forma.
+- **(C)** Il polso si riflette con spostamento verso il basso della stessa forma.
+- **(D)** Il polso è assorbito dall' estremità fissa.
+- **(E)** Nessuna delle seguenti.
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -640,7 +640,7 @@ Un proiettile viene lanciato a velocità $v$ dal bordo di una scogliera di altez
 - **(B)** $\theta = 45°$
 - **(C)** $0° < \theta < 45°$
 - **(D)** $\theta = 0°$
-- **(E) ** Informazioni insufficienti. A seconda dei valori di $h$ e $v$.
+- **(E)** Informazioni insufficienti. A seconda dei valori di $h$ e $v$.
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -681,11 +681,11 @@ Una corda senza massa passa sopra una polla senza attrito. Le particelle di mass
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p11_f1.png]]
 
-- **(A) ** Rimane costante
-- **(B) ** Si riduce a una costante non zero
-- **(C) ** Riduce a zero
-- **(D) ** Aumenta a una costante finita
-- **(E) ** Aumenta fino all'infinito
+- **(A)** Rimane costante
+- **(B)** Si riduce a una costante non zero
+- **(C)** Riduce a zero
+- **(D)** Aumenta a una costante finita
+- **(E)** Aumenta fino all'infinito
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -726,11 +726,11 @@ Se il sistema solare si riduce in modo tale che la distanza media tra la terra e
 
 ![[_attachments/HKPhO_2021/HKPhO_2021_p11_f2.png]]
 
-- **(A) ** $0.25$ anno
-- **(B) ** $0.5$ anno
-- **(C) ** $1$ anno
-- **(D) ** $2$ anni
-- **(E) ** $4$ anni
+- **(A)** $0.25$ anno
+- **(B)** $0.5$ anno
+- **(C)** $1$ anno
+- **(D)** $2$ anni
+- **(E)** $4$ anni
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -820,11 +820,11 @@ Due piccole palle, $A$ e $B$, sono attaccate alle due estremità di una canna ri
 - **II.** $(x_A, y_A) = (0,1),\ (x_B, y_B) = (0,-1),\ (v_{Ax}, v_{Ay}) = (1,1),\ (v_{Bx}, v_{By}) = (1,2)$
 - **III.** $(x_A, y_A) = \left(\tfrac{1}{\sqrt{2}}, \tfrac{1}{\sqrt{2}}\right),\ (x_B, y_B) = \left(-\tfrac{1}{\sqrt{2}}, -\tfrac{1}{\sqrt{2}}\right),\ (v_{Ax}, v_{Ay}) = (2,0),\ (v_{Bx}, v_{By}) = (1,1)$
 
-- **(A) ** I solo
-- **(B) ** II solo
-- solo **(C) ** III
-- **(D) ** I e III
-- **(E) ** II e III
+- **(A)** I solo
+- **(B)** II solo
+- solo **(C)** III
+- **(D)** I e III
+- **(E)** II e III
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 
@@ -1135,7 +1135,7 @@ La legge di Hubble afferma che le galassie si allontanano l'una dall'altra a dis
 - **(B)** $3H^2/(4\pi G)$
 - **(C)** $H^2/(8\pi G)$
 - **(D)** $3H^2/(8\pi G)$
-- **(E) ** Nessuna delle seguenti.
+- **(E)** Nessuna delle seguenti.
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1rlf1jlUSgNXaAhg3T-vOpjARn4Bib997/view)
 

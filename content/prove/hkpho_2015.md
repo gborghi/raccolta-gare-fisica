@@ -250,11 +250,11 @@ Suppose you are standing in an elevator, the elevator is moving upward at a cons
 
 Supponiamo che tu stia in un ascensore, che si muova verso l'alto a una velocità costante di $0.5\ \text{m/s}$, la forza netta su di te è
 
-- **(A) ** zero.
+- **(A)** zero.
 - **(B)** $+ 0.5\ \text{N}$.
 - **(C)** $- 9.8\ \text{N}$.
 - **(D)** $+ 9.8\ \text{N}$.
-- **(E) ** il peso.
+- **(E)** il peso.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/17xkm5vvLpnWhIeBVNjro8JWnyknzQtlR/view)
 
@@ -504,11 +504,11 @@ A binary star system consists of 2 stars orbiting around their common center of 
 
 Un sistema stellare binario è composto da 2 stelle che orbitano attorno al loro comune centro di massa. Le due stelle hanno massa identica. La velocità orbitale di ciascuna stella è $200\ \text{km/s}$ e il periodo orbitale di ciascuna è $12.2$ giorni. Trova la massa di ogni stella.
 
-- **(A) ** $0.00010$ Massa solare
-- **(B) ** $0.00020$ Massa solare
-- **(C) ** $10.1$ Massa solare
-- **(D) ** $20.2$ Massa solare
-- **(E) ** $40.4$ Massa solare
+- **(A)** $0.00010$ Massa solare
+- **(B)** $0.00020$ Massa solare
+- **(C)** $10.1$ Massa solare
+- **(D)** $20.2$ Massa solare
+- **(E)** $40.4$ Massa solare
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/17xkm5vvLpnWhIeBVNjro8JWnyknzQtlR/view)
 
@@ -557,11 +557,11 @@ ii. Il blocco non si sta accelerando.
 
 iii. La grandezza della tensione della corda è proporzionale a $\omega^2$.
 
-- solo **(A) ** (i).
-- solo **(B) ** (ii).
-- **(C) ** (i) e (iii).
-- **(D) ** (ii) e (iii).
-- **(E) ** (i), (ii) e (iii).
+- solo **(A)** (i).
+- solo **(B)** (ii).
+- **(C)** (i) e (iii).
+- **(D)** (ii) e (iii).
+- **(E)** (i), (ii) e (iii).
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/17xkm5vvLpnWhIeBVNjro8JWnyknzQtlR/view)
 

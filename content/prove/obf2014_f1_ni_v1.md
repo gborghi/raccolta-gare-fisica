@@ -39,9 +39,9 @@ Qual é a unidade de energia no sistema internacional de medidas (SI)?
 Qual è l'unità di energia nel sistema internazionale di misure (SI)?
 
 - **A.** British thermal unit (Btu)
-- **B ** watt (W)
+- **B** watt (W)
 - **C.** watt-ora (W-h)
-- **D ** joule (J)
+- **D** joule (J)
 - **E.** calorie (cal)
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Newtonian Mechanics]]
@@ -55,9 +55,9 @@ Qual è l'unità di energia nel sistema internazionale di misure (SI)?
 What is the energy unit in the International System of Measures (SI)?
 
 - **A** British thermal unit (Btu)
-- **B ** watt (W)
-- **C ** watt-hour (W-h)
-- **D ** joule (J)
+- **B** watt (W)
+- **C** watt-hour (W-h)
+- **D** joule (J)
 - **E** calories (cal)
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Newtonian Mechanics]]
@@ -93,10 +93,10 @@ Qual das alternativas apresenta apenas fontes de energias consideradas renováve
 
 Qual è l'alternativa che presenta solo fonti di energia considerate rinnovabili?
 
-- **A ** sole, gas naturale, biomassa
+- **A** sole, gas naturale, biomassa
 - **B.** ondate del mare, carbone minerale, vento
 - **C.** sole, uranio, fiumi e laghi
-- **D ** mares, biocarburanti, calore terrestre
+- **D** mares, biocarburanti, calore terrestre
 - **E.** biomassa, marea, uranio
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Conservation of Energy]]
@@ -109,11 +109,11 @@ Qual è l'alternativa che presenta solo fonti di energia considerate rinnovabili
 
 Which of the alternatives only has renewable energy sources?
 
-- **A ** sun, natural gas, biomass
-- **B ** sea waves, coal mineral, wind
-- **C ** sun, uranium, rivers and lakes
+- **A** sun, natural gas, biomass
+- **B** sea waves, coal mineral, wind
+- **C** sun, uranium, rivers and lakes
 - D. Flood, biofuels, heat from the earth
-- **E ** biomass, tides, uranium
+- **E** biomass, tides, uranium
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Conservation of Energy]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -358,7 +358,7 @@ The generation of electrical energy in hydroelectric power plants is based on th
 
 - **A.** conservation of mechanical energy; thermal energy
 - **B.** dissipation of mechanical energy; kinetic energy
-- **C ** conservation of mechanical energy; gravitational potential energy
+- **C** conservation of mechanical energy; gravitational potential energy
 - **D.** electromagnetic induction; mechanical energy
 - **E.** electromagnetic induction; thermal energy
 
@@ -395,11 +395,11 @@ Pilhas ou baterias que compramos no supermercado convertem energia ____________ 
 
 Le batterie o le batterie che acquistiamo al supermercato convertono l'energia in elettricità.
 
-- **A ** eolico
+- **A** eolico
 - **B.** termico
-- **C ** chimica
+- **C** chimica
 - D. Magnetico
-- **E ** idraulica
+- **E** idraulica
 
 **Topic:** [[Electrostatics]], [[Conservation of Energy]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -412,10 +412,10 @@ Le batterie o le batterie che acquistiamo al supermercato convertono l'energia i
 Batteries or batteries that we buy in the supermarket convert ____________ energy into electricity.
 
 - A. Wind power
-- **B ** thermal
-- **C ** chemical
+- **B** thermal
+- **C** chemical
 - ** D** magnetic
-- **E ** hydraulic
+- **E** hydraulic
 
 **Topic:** [[Electrostatics]], [[Conservation of Energy]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -452,8 +452,8 @@ Il _____________ è un combustibile alternativo e rinnovabile prodotto a partire
 
 - **A** Ethanolo
 - **B.** GNV
-- **C ** Gasolina
-- **D ** Idrogeno
+- **C** Gasolina
+- **D** Idrogeno
 - **E.** Biodiesel
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Conservation of Energy]]
@@ -467,10 +467,10 @@ Il _____________ è un combustibile alternativo e rinnovabile prodotto a partire
 _____________ is an alternative and renewable fuel produced from animal or vegetable fat.
 
 - **A** Ethanol
-- **B ** GNV
-- **C ** Gasoline
-- **D ** Hydrogen
-- **E ** Biodiesel
+- **B** GNV
+- **C** Gasoline
+- **D** Hydrogen
+- **E** Biodiesel
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Conservation of Energy]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]

@@ -1524,7 +1524,7 @@ A cook knows that using a pressure vessel greatly reduces the cooking time of fo
 
 **24) ** Considera il diagramma di fasi dell'acqua riportato nella figura seguente. A che temperatura e pressione si trova l'acqua nei tre stati: liquido, vapore e solido?
 
-- **A ** 0° C e 4,5 Torr
+- **A** 0° C e 4,5 Torr
 - **B.** 0° C e 10 Torr
 - **C.** 10° C e 10 Torr
 - **D.** −10° C e 2 Torr
@@ -1545,11 +1545,11 @@ A cook knows that using a pressure vessel greatly reduces the cooking time of fo
 
 **24) ** Consider the water phase diagram shown in the figure below. At what temperature and pressure can we find water in the three states: liquid, steam and solid?
 
-- **A ** 0° C and 4,5 Torr
-- **B ** 0° C and 10 Torr
-- **C ** 10° C and 10 Torr
+- **A** 0° C and 4,5 Torr
+- **B** 0° C and 10 Torr
+- **C** 10° C and 10 Torr
 - **D** −10° C and 2 Torr
-- **E ** 8° C and 8 Torr
+- **E** 8° C and 8 Torr
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F1_9&1o_v1/OBF2010_F1_9&1o_v1_p7_f8.png]]

@@ -47,7 +47,7 @@ Il seguente grafico mostra l'evoluzione della posizione di due oggetti. Quale af
 
 Il seguente grafico mostra l'evoluzione della posizione dei due oggetti. Quale affermazione è corretta?
 
-- **A ** In ogni istante $t_1$ entrambi gli oggetti hanno la stessa velocità.
+- **A** In ogni istante $t_1$ entrambi gli oggetti hanno la stessa velocità.
 - **B.** C'è almeno un istante $t < t_1$ in cui entrambi gli oggetti hanno la stessa velocità.
 - Entrambi gli oggetti accelerano tutto il tempo.
 - ** D ** C'è un istante in cui entrambi gli oggetti hanno la stessa accelerazione.
@@ -265,7 +265,7 @@ Due mass $m_1$ e $m_2$, con $m_1 > m_2$, sono in caduta libera da un'altezza $h$
 - **A.** $E_1 > E_2$
 - **B.** $E_1 < E_2$
 - **C.** $E_1 = E_2$
-- **D ** Abbiamo bisogno di più informazioni.
+- **D** Abbiamo bisogno di più informazioni.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -350,11 +350,11 @@ La distanza tra la Terra e il Sole è solitamente espressa come 1 UA per 1 unit�
 
 La distanza tra la Terra e il Sole è solitamente espressa come 1 UA per 1 unità astronomica (circa 150 milioni di km). Sapendo che il pianeta Marte si trova a una distanza di 1.524 UA dal Sole, approssimativamente quanto mette Marte per effettuare una rotazione completa attorno al Sole?
 
-- **A ** 157 giorni
+- **A** 157 giorni
 - **B.** 483 giorni
 - **C.** 556 giorni
-- **D ** 686 giorni
-- **E ** 772 giorni
+- **D** 686 giorni
+- **E** 772 giorni
 1025 giorni
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
@@ -1462,7 +1462,7 @@ Dopo il 19 maggio 2019, secondo il Sistema Internazionale (SI), il chilogrammo s
 
 Dopo il 19 maggio 2019, secondo il Sistema Internazionale (SI), il chilogrammo sarà definito da:
 
-- **A ** una massa modello situata vicino a Parigi
+- **A** una massa modello situata vicino a Parigi
 - **B.** la costante di Planck $h$
 - **C.** la costante di Boltzmann $k_B$
 - **D.** il numero di Avogadro $N_A$

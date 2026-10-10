@@ -372,7 +372,7 @@ J.
 Whether $\eta = (m_p - m_r)/m_r$ the relative change in mass involved in a nuclear reaction or
 - It's chemistry.
 - **A.** Qual a variação de massa que ocorreu na explosão da "Little Boy"?
-- **B ** Determine $\eta$ of the explosion of the Little Boy considering that all fissile material was
+- **B** Determine $\eta$ of the explosion of the Little Boy considering that all fissile material was
 consumed.
 (c) Estimate $\eta$ for a TNT explosion with energy equal to the energy released by "Little"
 Boy". Consider that the only reagent of the TNT explosion is TNT itself.

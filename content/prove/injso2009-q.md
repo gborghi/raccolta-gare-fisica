@@ -2752,7 +2752,7 @@ $3$ dots, $1$ triangle; $4$ dots, $3$ triangles; $5$ dots, $6$ triangles. Comple
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(A) ** Diagramma 1, Diagramma 2, Diagramma 3 ... Diagramma $n$.
+**(A)** Diagramma 1, Diagramma 2, Diagramma 3 ... Diagramma $n$.
 
 <!--fig:start-->
 **Quesito 66**

@@ -291,7 +291,7 @@ The following table shows the results of the tests:
 *(For Year 1 only) * A particle mass $m = 0{,}5\,\text{kg}$ has a horizontal starting speed of $6\,\text{m/s}$. When receiving a pulse of a constant force $F$, it changes its speed to $8\,\text{m/s}$ in the direction perpendicular to the start, at a time interval $\Delta t = 0{,}1\,\text{s}$.
 
 - **A** What is the strength of the force pulse $F$?
-- **B ** What is the strength $F$?
+- **B** What is the strength $F$?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -743,7 +743,7 @@ Uma máquina térmica tem rendimento $20\%$ menor do que uma máquina de Carnot 
 Una macchina termico ha un rendimento $20\%$ inferiore a quello di una macchina Carnot che opera tra le temperature $T_1 = 300\,\text{K}$ e $T_2 = 600\,\text{K}$. La quantità di calore per unità di tempo ricevuta dalla macchina è pari a quella che si verifica quando un muro di $10\,\text{cm}$ di spessore, area $2\,\text{m}^2$ e conducibilità termico di $50\,\text{W/(m K)}$ è sottoposto a una differenza di temperatura di $500\,\text{K}$.
 
 - **A.** Determina la potenza di questa macchina.
-- **B ** Che quantità di ghiaccio a $-20^\circ\text{C}$ potrebbe essere fuso utilizzando la quantità di calore scartata dalla macchina per un tempo di $10$ minuti?
+- **B** Che quantità di ghiaccio a $-20^\circ\text{C}$ potrebbe essere fuso utilizzando la quantità di calore scartata dalla macchina per un tempo di $10$ minuti?
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]

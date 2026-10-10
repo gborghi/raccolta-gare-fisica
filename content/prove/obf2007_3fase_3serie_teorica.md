@@ -653,7 +653,7 @@ la macchina è uguale a quella che si verifica quando un muro di $10\ \text{cm}$
 area $2\ \text{m}^2$ e conducibilità termico $50\ \text{W/(m K)}$ è sottoposta a una
 differenziazione di temperatura di $500\ \text{K}$.
 - **A.** Determina la potenza di questa macchina.
-- **B ** Che quantità di ghiaccio a $-20\ ^\circ\text{C}$ potrebbe essere fuso utilizzando la
+- **B** Che quantità di ghiaccio a $-20\ ^\circ\text{C}$ potrebbe essere fuso utilizzando la
 quantità di calore scartata dalla macchina per un periodo di tempo
 - Dici minuti?
 
@@ -732,7 +732,7 @@ machine is equal to that which occurs when a wall of $10\ \text{cm}$ thickness,
 The area of $2\ \text{m}^2$ and thermal conductivity of $50\ \text{W/(m K)}$ is subjected to a
 the temperature difference of $500\ \text{K}$.
 - **A** Determine the power of this machine.
-- **B ** What amount of ice at $-20\ ^\circ\text{C}$ could be melted using the
+- **B** What amount of ice at $-20\ ^\circ\text{C}$ could be melted using the
 amount of heat discarded by the machine during a time
 10 minutes?
 

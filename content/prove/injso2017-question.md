@@ -2201,7 +2201,7 @@ The labeled region designated as 'A' in the figure above is/are the epidermal ce
 - c) Lo spessore disunibile della parete cellulare di guardia favorisce il movimento stomatico.
 
 **40.II) ** Quando uno dei numeri e riempire i vuoti. **[1.75]**
-La regione etichettata designata come "A" nella figura di cui sopra è/sono la cellula epidermale con (i) ___ (cloroplast/modoplast/leucoplast), durante il giorno (la regione etichettata come "A") produce carboidrati mediante il processo di (ii) ___ (chemosintesi/fotosintesi/respirazione). Questo (iii) ___ (aumenta/diminuisce) il potenziale idrico della regione "A" **. L'acqua entra nella cellula con (iv) ___ (endosmosi/diffusione/pinocitosi) in cui l'acqua passa da (v) ___ (potenziale superiore/inferio) all'acqua (vi) ___ (potenziale superiore/inferio). Ora, la regione **B ** raggiunge lo stato 1 a causa di (vii) ___ (aumento/diminuizione) della turgidità.
+La regione etichettata designata come "A" nella figura di cui sopra è/sono la cellula epidermale con (i) ___ (cloroplast/modoplast/leucoplast), durante il giorno (la regione etichettata come "A") produce carboidrati mediante il processo di (ii) ___ (chemosintesi/fotosintesi/respirazione). Questo (iii) ___ (aumenta/diminuisce) il potenziale idrico della regione "A" **. L'acqua entra nella cellula con (iv) ___ (endosmosi/diffusione/pinocitosi) in cui l'acqua passa da (v) ___ (potenziale superiore/inferio) all'acqua (vi) ___ (potenziale superiore/inferio). Ora, la regione **B** raggiunge lo stato 1 a causa di (vii) ___ (aumento/diminuizione) della turgidità.
 
 **40.III) ** Chiusura dello stomaco è probabile che provochi i seguenti cambiamenti fisiologici EXCETTO **[0.25] **
 - a) Diminuzione del tasso di fotosintesi.

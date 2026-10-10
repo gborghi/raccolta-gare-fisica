@@ -128,7 +128,7 @@ Quali di queste spiegazioni sono corrette fisicamente?
 - **B.** I e IV
 - **C.** II e III
 - **D.** II e IV
-- **E ** Tutti
+- **E** Tutti
 
 **Topic:** [[Newtonian Mechanics]], [[Geometric Optics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -353,9 +353,9 @@ The solid lines show lines of coexistence. T is the triple point of water (where
 Consider water samples in regions I, II and III. The phases in which they are found are,
 respectively:
 - **A** solid, liquid and gas
-- **B ** solid, gas and liquid
-- **C ** liquid, solid and gas
-- **D ** liquid, gas and solid
+- **B** solid, gas and liquid
+- **C** liquid, solid and gas
+- **D** liquid, gas and solid
 - **E** gas, liquid and solid
 
 **Topic:** [[Thermodynamics]]
@@ -407,11 +407,11 @@ L'equatore terrestre.
 III. I satelliti in orbita geossincronica e geostazionaria girano necessariamente nello stesso
 senso della rotazione della Terra.
 Le sentenze vere sono:
-- **A ** Nessun
+- **A** Nessun
 - **B.** I e II
 - **C.** I e III
 - **D.** II e III
-- **E ** Tutti
+- **E** Tutti
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
@@ -564,7 +564,7 @@ Sono corrette le affermazioni:
 - **B.** II
 - **C.** III
 - **D.** II e III
-- **E ** Tutti
+- **E** Tutti
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -621,7 +621,7 @@ Domanda 9. Supponiamo che il piano dell'orbita della Luna intorno alla Terra coi
 con il piano dell'equatore terrestre.
 In queste condizioni, il periodo tra due eclissi solari
 consecutive sarebbe approssimativamente:
-- **A ** mezza giornata
+- **A** mezza giornata
 - **B.** 1 giorno
 - **C.** 7 giorni
 - **D.** 15 giorni
@@ -639,7 +639,7 @@ Question nine. Suppose the plane of the moon's orbit around the earth matched ex
 with the plane of the Earth's equator.
 Under these conditions, the period between two solar eclipses
 consecutive would be approximately:
-- **A ** half day
+- **A** half day
 - **B.** 1 day
 - **C.** 7 days
 - **D** 15 days
@@ -704,9 +704,9 @@ submerged beneath the surface of the water.
 Please indicate the alternative that presents the physical reason for this phenomenon.
 less:
 - **A** The density of salt water is higher than that of fresh water.
-- **B ** The density of ice is less than the density of water.
+- **B** The density of ice is less than the density of water.
 - **C.** The approximately conical shape of the submerged part of the iceberg.
-- **D ** Extremely cold temperatures at the poles.
+- **D** Extremely cold temperatures at the poles.
 - **E.** The difference in salinity between sea water layers.
 
 **Topic:** [[Fluid Mechanics]]
@@ -1399,10 +1399,10 @@ Question number 19. When water boils in a boiler, you can see a smoke
 White coming out of the nose.
 Which of the alternatives below best describes what is actually being observed?
 - **A** It is water vapour in the gaseous state, which is visible to the naked eye.
-- **B ** It is a mixture of carbon dioxide and water vapor that forms a mist.
+- **B** It is a mixture of carbon dioxide and water vapor that forms a mist.
 - **C.** They are solid water particles formed by sublimation.
 - **D.** Is the oxygen released by water when it reaches $100\ ^\circ\text{C}$.
-- **E ** It is water vapor that condenses when it leaves the boiler, forming suspended liquid droplets
+- **E** It is water vapor that condenses when it leaves the boiler, forming suspended liquid droplets
 in the air, which, like the clouds in the sky, are visible to the naked eye.
 
 **Topic:** [[Thermodynamics]]

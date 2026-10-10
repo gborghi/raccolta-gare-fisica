@@ -2257,8 +2257,8 @@ When electromagnetic radiation of $f$ frequency hits the cathode of a photoemiss
 
 - If the cell threshold frequency is $f_0$, the maximum kinetic energy of the electrons emitted is directly proportional
 
-- **A ** to the extraction work from the cathode.
-- **B ** at the wavelength of the incident radiation.
+- **A** to the extraction work from the cathode.
+- **B** at the wavelength of the incident radiation.
 - **C.** alla frequenza $f$ della radiazione incidente.
 - **D.** at the threshold frequency $f_0$.
 - **E.** to the difference $f - f_0$ between frequencies.

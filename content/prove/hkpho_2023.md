@@ -37,11 +37,11 @@ Suppose that all collisions are instantaneous and **completely elastic**. After 
 
 Supponiamo che tutte le collisioni siano istantanee e ** completamente elastica **. Dopo tanto tempo, quale di queste parole è vero?
 
-- **(A) ** Il blocco centrale si sta spostando a sinistra.
-- **(B) ** Il blocco centrale si sta spostando a destra.
-- **(C) ** Il blocco centrale è in riposo da qualche parte a sinistra della sua posizione iniziale.
-- **(D) ** Il blocco centrale è in riposo nella sua posizione iniziale.
-- **(E) ** Il blocco centrale è in riposo da qualche parte a destra della sua posizione iniziale.
+- **(A)** Il blocco centrale si sta spostando a sinistra.
+- **(B)** Il blocco centrale si sta spostando a destra.
+- **(C)** Il blocco centrale è in riposo da qualche parte a sinistra della sua posizione iniziale.
+- **(D)** Il blocco centrale è in riposo nella sua posizione iniziale.
+- **(E)** Il blocco centrale è in riposo da qualche parte a destra della sua posizione iniziale.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -78,11 +78,11 @@ Suppose, instead, that all collisions are instantaneous and **perfectly inelasti
 
 Supponiamo invece che tutte le collisioni siano istantanee e **perfettamente inelasche**. Dopo tanto tempo, quale di queste parole è vero?
 
-- **(A) ** Il blocco centrale si sta spostando a sinistra.
-- **(B) ** Il blocco centrale si sta spostando a destra.
-- **(C) ** Il blocco centrale è in riposo da qualche parte a sinistra della sua posizione iniziale.
-- **(D) ** Il blocco centrale è in riposo nella sua posizione iniziale.
-- **(E) ** Il blocco centrale è in riposo da qualche parte a destra della sua posizione iniziale.
+- **(A)** Il blocco centrale si sta spostando a sinistra.
+- **(B)** Il blocco centrale si sta spostando a destra.
+- **(C)** Il blocco centrale è in riposo da qualche parte a sinistra della sua posizione iniziale.
+- **(D)** Il blocco centrale è in riposo nella sua posizione iniziale.
+- **(E)** Il blocco centrale è in riposo da qualche parte a destra della sua posizione iniziale.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -119,11 +119,11 @@ An object is thrown with a fixed initial speed $v_0$ at angle $\alpha$ relative 
 
 Un oggetto viene lanciato con una velocità iniziale fissa $v_0$ all'angolo $\alpha$ rispetto all'orizzonte. A una certa altezza $h$ sopra il punto di lancio, la velocità $v$ dell'oggetto viene misurata in funzione dell'angolo iniziale $\alpha$. Qual è la descrizione migliore della dipendenza di $v$ da $\alpha$? (Supponiamo che non ci sia alcuna resistenza all'aria.)
 
-- **(A) ** $v$ aumenterà monotonamente con $\alpha$.
-- **(B) ** $v$ aumenterà a un certo valore critico $v_\text{max}$ e diminuirà.
-- **(C) ** $v$ rimarrà costante, indipendente da $\alpha$.
-- **(D) ** $v$ diminuirà a un certo valore critico $v_\text{min}$ e poi aumenterà.
-- **(E) ** Nessuna delle seguenti.
+- **(A)** $v$ aumenterà monotonamente con $\alpha$.
+- **(B)** $v$ aumenterà a un certo valore critico $v_\text{max}$ e diminuirà.
+- **(C)** $v$ rimarrà costante, indipendente da $\alpha$.
+- **(D)** $v$ diminuirà a un certo valore critico $v_\text{min}$ e poi aumenterà.
+- **(E)** Nessuna delle seguenti.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -160,11 +160,11 @@ In a lightweight seesaw, Albert (mass $70\ \text{kg}$), Isaac (mass $80\ \text{k
 
 In un seggiolino leggero, Albert (massa $70\ \text{kg}$), Isaac (massa $80\ \text{kg}$) e Marie (massa $60\ \text{kg}$) sono seduti in ordine con spaziamento uguale di $2\ \text{m}$ tra loro. Isaac si trova tra Albert e Marie in modo da bilanciare il segno. Trascurando la massa della scatola, si determina quale persona esercita la maggiore magnitudine di coppia (relativamente al centro della scatola) sulla scatola.
 
-- **(A) ** Albert
-- **(B) ** Isaac
-- **(C) ** Marie
-- **(D) ** Esercitano tutti la stessa coppia.
-- **(E) ** Non ci sono informazioni sufficienti per rispondere alla domanda.
+- **(A)** Albert
+- **(B)** Isaac
+- **(C)** Marie
+- **(D)** Esercitano tutti la stessa coppia.
+- **(E)** Non ci sono informazioni sufficienti per rispondere alla domanda.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -269,11 +269,11 @@ Una massa è sospesa dal soffitto di una scatola da una sorgente ideale. La mass
 *Una massa sospesa dal soffitto di una scatola da una molla ideale; la scatola può cadere sotto gravità $g$.*
 <!--fig:end-->
 
-- **(A) ** L'ampiezza dell'oscillazione
-- **(B) ** Il periodo di oscillazione
-- **(C) ** La velocità massima raggiunta dalla massa
-- **(D) ** L'altezza alla quale la massa raggiunge la sua velocità massima
-- **(E) ** L'altezza massima raggiunta dalla massa
+- **(A)** L'ampiezza dell'oscillazione
+- **(B)** Il periodo di oscillazione
+- **(C)** La velocità massima raggiunta dalla massa
+- **(D)** L'altezza alla quale la massa raggiunge la sua velocità massima
+- **(E)** L'altezza massima raggiunta dalla massa
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -365,11 +365,11 @@ $$\text{II.}\quad \vec{v}_A = \hat{\imath} + \hat{\jmath}, \qquad \vec{v}_B = \h
 $$\text{III.}\quad \vec{v}_A = \hat{\jmath}, \qquad \vec{v}_B = \hat{\imath} + \hat{\jmath}$$
 $$\text{IV.}\quad \vec{v}_A = \hat{\imath} + \hat{\jmath}, \qquad \vec{v}_B = \hat{\imath} - 2\hat{\jmath}$$
 
-- **(A) ** I solo
-- **(B) ** II solo
-- **(C) ** Nessuna
-- **(D) ** solo II e III
-- solo **(E) ** II e IV
+- **(A)** I solo
+- **(B)** II solo
+- **(C)** Nessuna
+- **(D)** solo II e III
+- solo **(E)** II e IV
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -418,11 +418,11 @@ $$\text{I.}\quad \vec{v}_A = \hat{\imath} - 2\hat{\jmath}, \qquad \vec{v}_B = 4\
 $$\text{II.}\quad \vec{v}_A = -\hat{\imath} - 6\hat{\jmath}, \qquad \vec{v}_B = 5\hat{\imath}$$
 $$\text{III.}\quad \vec{v}_A = -3\hat{\jmath}, \qquad \vec{v}_B = \tfrac{5}{2}\hat{\imath} - \tfrac{1}{2}\hat{\jmath}$$
 
-- **(A) ** I solo
-- **(B) ** II solo
-- solo **(C) ** III
-- **(D) ** Nessuna
-- solo **(E) ** II e III
+- **(A)** I solo
+- **(B)** II solo
+- solo **(C)** III
+- **(D)** Nessuna
+- solo **(E)** II e III
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -821,11 +821,11 @@ A rectangular block with dimensions $1.5\ \text{m} \times 1\ \text{m} \times 1\ 
 
 Un blocco rettangolare con dimensioni $1.5\ \text{m} \times 1\ \text{m} \times 1\ \text{m}$ è posizionato su una pendice che fa un angolo di $30^\circ$ con l'orizzontale. Il lato quadrato del blocco rettangolare è inizialmente posto sulla pendenza. Il coefficiente di attrito statico tra il blocco e la pendenza è $0.5$. Il blocco scivola per la pendenza, si rovescia o non si rovescia?
 
-- **(A) ** Il blocco scivolerà lungo la pendenza, ma non si ribalterà.
-- **(B) ** Il blocco si rovescerà, ma non scivolerà verso il basso pendio.
-- **(C) ** Il blocco scivola in discesa e si rovescia.
-- **(D) ** Il blocco non scivolerà sulla pendice né si ribalterà.
-- **(E) ** Non ci sono informazioni sufficienti per decidere.
+- **(A)** Il blocco scivolerà lungo la pendenza, ma non si ribalterà.
+- **(B)** Il blocco si rovescerà, ma non scivolerà verso il basso pendio.
+- **(C)** Il blocco scivola in discesa e si rovescia.
+- **(D)** Il blocco non scivolerà sulla pendice né si ribalterà.
+- **(E)** Non ci sono informazioni sufficienti per decidere.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -958,7 +958,7 @@ Il rotore di una centrifugatrice ruota a $12{,}000\ \text{rpm}$ (torsioni al min
 - **(B)** $10.0\ \text{m/s}^2$
 - **(C)** $2000.\ \text{m/s}^2$
 - **(D)** $79.0 \times 10^3\ \text{m/s}^2$
-- **(E) ** Nessuna delle seguenti:
+- **(E)** Nessuna delle seguenti:
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 

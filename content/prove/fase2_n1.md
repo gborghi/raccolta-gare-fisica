@@ -43,7 +43,7 @@ altezza $H = 6{,}00\ \text{cm}$, pareti sottili e massa $m = 160\ \text{g}$.
 Quando è completamente vuoto flotta in un vasello
 con acqua con il bordo del recipiente ad un'altezza superiore a $h$
 di livello dell'acqua, come mostra la figura qui accanto.
-- **A ** Qual è la altezza $h$ in cm?
+- **A** Qual è la altezza $h$ in cm?
 - **B.** Qual è la massima massa d'acqua in g che si può aggiungere al recipiente in modo che continui a fluttuare?
 
 **Topic:** [[Fluid Mechanics]]
@@ -229,7 +229,7 @@ $d$. Consider that the sludge completely fills the
 space between the bricks.
 - **A.** If $d$ is despicable, how many bricks are used on the wall?
 - **B.** In case of $d = 2{,}00\ \text{cm}$, how many bricks are used approximately on the wall?
-- **C ** Case $d = 2{,}00\ \text{cm}$, which is the mass of the alloy approximately in kg, used in the
+- **C** Case $d = 2{,}00\ \text{cm}$, which is the mass of the alloy approximately in kg, used in the
 The wall?
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Newtonian Mechanics]]

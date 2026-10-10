@@ -203,89 +203,71 @@ l'intero foglio e non lo inserire nel numero.
 
 
 
-7. At the end of the exam, arrange all sheets for each problem in the following order:
-• Used Writing sheets in order;
-• The sheets you do not wish to be evaluated
-• Unused sheets and the printed question.
-Place the papers inside the envelope and leave everything on your desk. You are not allowed to
-take any paper or equipment out of the room
-Magnetic interactions (15 points)
+<!-- Kepler blocco3: testo ripulito dal PDF eng1.pdf (formula (1), 30°, figure); tolte le righe della regola d'esame n.7 -->
 
-Instruments and equipment: tripod, pendulum with a bead magnet, clay, ruler, magnetic beads,
-stopwatch, power supply (battery of the voltage 4.5V) , 6 Ohm rheostat, coil, multimeter, switch,
-connecting wires, nails, piece of chocolate.
+**Magnetic interactions (15 points)**
 
-The pendulum consists of two wooden chopsticks stuck into the eraser. There are two pieces
-of clay fixed at the free ends of both chopsticks, the lower piece of clay contains a metal
-magnetized bead inside. Pendulum axis is simply a steel needle piercing the eraser.
+*Experimental competition — 15 January 2014 (X IZhO). The experimental competition consists of one problem and lasts 3 hours.*
+
+**Instruments and equipment:** tripod, pendulum with a bead magnet, clay, ruler, magnetic beads, stopwatch, power supply (battery of the voltage 4.5V), 6 Ohm rheostat, coil, multimeter, switch, connecting wires, nails, piece of chocolate.
+
+The pendulum consists of two wooden chopsticks stuck into the eraser. There are two pieces of clay fixed at the free ends of both chopsticks, the lower piece of clay contains a metal magnetized bead inside. Pendulum axis is simply a steel needle piercing the eraser.
+
 Another magnetized bead is mounted on another piece of clay provided.
-Attention! Do not change the orientation of magnetized beads during the experiment!
 
-Part 1. Interaction with the magnetic field of a coil
+> **Attention!** *Do not change the orientation of magnetized beads during the experiment!*
 
-Put the pendulum axis on the rack of the tripod. Make sure that the
-pendulum can make free oscillations without touching the tripod with the
-wooden chopsticks or the eraser. By changing the clay masses at the ends of
-the chopsticks make the oscillation period larger than 2 seconds. In the
-equilibrium position both chopsticks should be vertical.
-1.1. Measure the oscillation period of the pendulum. Evaluate the
-corresponding experimental error.
-Attention! In the subsequent parts error estimation is not
-required!
-Place the coil under the pendulum so that the distance from the center
-of the coil to the magnetized bead in the pendulum to be approximately equal
-to half the radius of the coil.
-Connect the coil to the power supply so that you could change and
-measure the strength of the current flowing through it.
-Attention! Be sure to use the key, switch it on while doing
-measurements only, otherwise the battery will quickly discharge!
-1.2. Draw schematically an electric circuit that you have used for making
-measurements.
-1.3. Measure the dependence of the oscillation period of the pendulum on the
-current in the coil. Plot the corresponding graph.
-1.4. Based on the experimental data obtained prove that the force, acting on
-the magnetic bead, is proportional to the current in the coil. Justify your conclusion graphically.
-Part 2. Pointlike interactions
+### Part 1. Interaction with the magnetic field of a coil
 
-Place the magnetized bead fixed on a piece of clay right under the
-pendulum. The beads should attract each other!
-It can be assumed that the interaction force is central, i.e. it is directed
-along the line connecting the centers of the two beads. The magnitude of that
-force depends on the distance between the centers of the beads according to the
-law
-$\gamma r$
-C
-F =
- .
+![[_attachments/eng1/eng1_p2_f1.png]]
 
-(1)
-2.1. Put down the equation of motion of the pendulum in this case. Obtain the
-formula for the period of small oscillations.
-2.2. Measure the dependence of the period of small oscillations on the distance
-between the centers of the beads. Plot the corresponding graph.
-2.3. Using the experimental data obtained, evaluate the exponent $\gamma$ in formula
-(1). Justify formula (1) graphically.
+Put the pendulum axis on the rack of the tripod. Make sure that the pendulum can make free oscillations without touching the tripod with the wooden chopsticks or the eraser. By changing the clay masses at the ends of the chopsticks make the oscillation period larger than 2 seconds. In the equilibrium position both chopsticks should be vertical.
 
-Part 3. Magnetic piece of chocolate
+**1.1.** Measure the oscillation period of the pendulum. Evaluate the corresponding experimental error.
 
-Let us reduce the damping by changing the design of the
-pendulum. Stick the upper chopstick into the eraser to make an angle of
-approximately
-$^{\circ}$
-30 . Stick two nails into the eraser to play the role of
-two legs on which the oscillations are performed. Attach two beads to
-the bottom of the pendulum. Make sure that the pendulum is steadily
-balanced on its legs while performing oscillations. To adjust the
-pendulum you can mount the ruler in the rack as a support.
-Place a piece of chocolate under the pendulum, but do not take
-off its wrap! The lower end of the pendulum should move along the
-piece of chocolates at a distance of 1-2 mm.
-It turns out that a piece of chocolate can affect the pendulum
-motion.
-3.1. Establish experimentally which physical characteristics of the
-pendulum are affected by the piece of chocolate.
-3.2. Take necessary measurements to confirm your assumption. Justify
-your answer graphically.
+> **Attention! In the subsequent parts error estimation is not required!**
+
+Place the coil under the pendulum so that the distance from the center of the coil to the magnetized bead in the pendulum to be approximately equal to half the radius of the coil.
+
+Connect the coil to the power supply so that you could change and measure the strength of the current flowing through it.
+
+> **Attention!** *Be sure to use the key, switch it on while doing measurements only, otherwise the battery will quickly discharge!*
+
+**1.2.** Draw schematically an electric circuit that you have used for making measurements.
+
+**1.3.** Measure the dependence of the oscillation period of the pendulum on the current in the coil. Plot the corresponding graph.
+
+**1.4.** Based on the experimental data obtained prove that the force, acting on the magnetic bead, is proportional to the current in the coil. Justify your conclusion graphically.
+
+### Part 2. Pointlike interactions
+
+![[_attachments/eng1/eng1_p3_f2.png]]
+
+Place the magnetized bead fixed on a piece of clay right under the pendulum. The beads should attract each other!
+
+It can be assumed that the interaction force is central, i.e. it is directed along the line connecting the centers of the two beads. The magnitude of that force depends on the distance between the centers of the beads according to the law
+
+$$F = \frac{C}{r^{\gamma}}. \qquad (1)$$
+
+**2.1.** Put down the equation of motion of the pendulum in this case. Obtain the formula for the period of small oscillations.
+
+**2.2.** Measure the dependence of the period of small oscillations on the distance between the centers of the beads. Plot the corresponding graph.
+
+**2.3.** Using the experimental data obtained, evaluate the exponent $\gamma$ in formula (1). Justify formula (1) graphically.
+
+### Part 3. Magnetic piece of chocolate
+
+![[_attachments/eng1/eng1_p3_f3.png]]
+
+Let us reduce the damping by changing the design of the pendulum. Stick the upper chopstick into the eraser to make an angle of approximately $30^{\circ}$. Stick two nails into the eraser to play the role of two legs on which the oscillations are performed. Attach two beads to the bottom of the pendulum. Make sure that the pendulum is steadily balanced on its legs while performing oscillations. To adjust the pendulum you can mount the ruler in the rack as a support.
+
+Place a piece of chocolate under the pendulum, but do not take off its wrap! The lower end of the pendulum should move along the piece of chocolates at a distance of 1-2 mm.
+
+It turns out that a piece of chocolate can affect the pendulum motion.
+
+**3.1.** Establish experimentally which physical characteristics of the pendulum are affected by the piece of chocolate.
+
+**3.2.** Take necessary measurements to confirm your assumption. Justify your answer graphically.
 
 **Topic:** [[Oscillations & Waves]], [[Magnetism]], [[Circuits]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -296,89 +278,71 @@ your answer graphically.
 
 <div class="qlang-split" data-lang="it"></div>
 
-7. Alla fine dell'esame, organizzare tutti i fogli per ogni problema nell'ordine seguente:
-• Strati di scrittura utilizzati in ordine;
-• Le foglie che non desiderate essere valutate
-• fogli non usati e la domanda stampata.
-Metti i documenti dentro la busta e lascia tutto sulla scrivania. Non ti è permesso
-portate fuori dalla stanza qualsiasi carta o attrezzatura
-Interazioni magnetiche (15 punti)
+<!-- Kepler blocco3: testo ripulito dal PDF eng1.pdf (formula (1), 30°, figure); tolte le righe della regola d'esame n.7 -->
 
-Strumenti e attrezzature: tripod, pendolo con magnete per perle, argilla, reggente, perle magnetiche,
-orologio fermo, alimentazione (batteria di tensione 4,5V), 6 Ohm reostat, bobina, multimetro, interruttore,
-collegare fili, chiodi, un pezzo di cioccolato.
+**Interazioni magnetiche (15 punti)**
 
-Il pendolo è costituito da due bastoncini di legno attaccati all'asciugatrice. Ci sono due pezzi
-di argilla fissata alle estremità libere di entrambe le bacche, il pezzo inferiore di argilla contiene un metallo
-Magnetizzata perla all'interno. L'asse del pendolo è semplicemente un ago di acciaio che perfora il cancellatore.
-Un'altra perla magnetica viene montata su un altro pezzo di argilla fornito.
-Attenzione! Non cambiare l'orientamento delle perle magnetizzate durante l'esperimento!
+*Prova sperimentale — 15 gennaio 2014 (X IZhO). La prova sperimentale consiste in un unico problema e dura 3 ore.*
 
-Parte 1. Interazione con il campo magnetico di una bobina
+**Strumenti ed attrezzature:** treppiede, pendolo munito di una perlina magnetizzata, argilla, righello, perline magnetizzate, cronometro, alimentatore (batteria da 4,5 V), reostato da 6 Ohm, bobina elettrica, multimetro, interruttore, cavi di collegamento, chiodi, un pezzo di cioccolato.
 
-Metti l'asse del pendolo sul rack del tripod. Assicurarsi che
-il pendolo può fare oscillazioni libere senza toccare il tripod con il
-bastoncini di legno o l'asciugatrice. Cambiando le masse di argilla alle estremità di
-i bastoni di cioccolatura rendono il periodo di oscillazione superiore a 2 secondi. Nel
-posizione di equilibrio entrambe le bacche devono essere verticali.
-1.1. Misurare il periodo di oscillazione del pendolo. Valutare i
-errore sperimentale corrispondente.
-Attenzione! Nella parte successiva, l'errore non è
-- E' necessario!
-Metti la bobina sotto il pendolo in modo che la distanza dal centro
-di una bobina di circa uguale entità alla maniglia magnetica del pendolo
-fino alla metà del raggio della bobina.
-Collegare la bobina alla alimentazione in modo da poter cambiare e
-misura la forza della corrente che attraversa.
-Attenzione! Assicurati di usare la chiave, accendetela mentre fate
-Solo le misure, altrimenti la batteria si scarica rapidamente!
-1.2. Disegna schematicamente un circuito elettrico che hai usato per realizzare
-misurazioni.
-1.3. Misurare la dipendenza del periodo di oscillazione del pendolo dal
-corrente nella bobina. Tracciare il grafico corrispondente.
-1.4. In base ai dati sperimentali ottenuti, si dimostra che la forza che agisce su
-la perla magnetica, è proporzionale alla corrente della bobina. Giustifica la tua conclusione in modo grafico.
-Parte 2. Interazioni puntuali
+Il pendolo è costituito da due bacchette di legno fissati all’interno di una gomma da cancellare. Alle estremità libere di entrambi gli stuzzicadenti sono fissati due pezzi di argilla; il pezzo inferiore contiene al suo interno una perlina magnetizzata metallica. L’asse del pendolo è rappresentato da un ago di acciaio che passa attraverso la gomma da cancellare.
 
-Metti la perla magnetica fissata su un pezzo di argilla proprio sotto il
-pendolo. Le perle dovrebbero attirarsi l'una l'altra!
-Si può presumere che la forza di interazione sia centrale, cioè è diretto
-lungo la linea che collega i centri delle due perle. L'entità di questo
-La forza dipende dalla distanza tra i centri delle perle secondo il
-Legge
-$\gamma r$
-C
-F =
- .
+Un’altra perlina magnetizzata viene fissata su un altro pezzo di argilla fornito.
 
-(1)
-2.1. In questo caso, metti giù l'equazione di movimento del pendolo. Ottenere il
-formula per il periodo di piccole oscillazioni.
-2.2. Misurare la dipendenza del periodo di piccole oscillazioni dalla distanza
-tra i centri delle perle. Tracciare il grafico corrispondente.
-2.3. Con i dati sperimentali ottenuti, valutare l'esponente $\gamma$ nella formula
-(1). giustificare la formula (1) in modo grafico.
+> **Attenzione!** *Durante l’esperimento, non modificare l’orientamento delle perline magnetizzate!* 
 
-Parte 3. Magnetico di cioccolato
+### Parte 1. Interazione con il campo magnetico di una bobina
 
-Riduciamo l'ammortizzazione modificando il design del
-pendolo. Infichi la bacchetta superiore nel cancellatore per creare un angolo di
-approssimativamente
-$^{\circ}$
-30 . Infichi due chiodi nel cancellatore per svolgere il ruolo di
-due gambe su cui sono effettuate le oscillazioni. Aggiungete due perle
-il fondo del pendolo. Assicurarsi che il pendolo sia costante
-in equilibrio sulle gambe mentre esegue oscillazioni. Per regolare il
-Pendole, puoi montare la regola nel rack come supporto.
-Metti un pezzo di cioccolato sotto il pendolo, ma non prendere
-- Non ti preoccupare! L'estremità inferiore del pendolo deve muoversi lungo il
-un pezzo di cioccolato a una distanza di 1-2 mm.
-Si scopre che un pezzo di cioccolato può influenzare il pendolo
-- Il movimento.
-3.1. Esperienziale stabilire quali caratteristiche fisiche
-il pendolo è influenzato dal pezzo di cioccolato.
-3.2. Prendi le misure necessarie per confermare la tua ipotesi. Giustificare
-la tua risposta graficamente.
+![[_attachments/eng1/eng1_p2_f1.png]]
+
+Posizionare l’asse del pendolo sull’asta del treppiede. Assicurarsi che il pendolo possa eseguire oscillazioni libere senza toccare il treppiede con le bacchette di legno o la gomma da cancellare. Modificando le masse di argilla alle estremità delle bacchette, fare in modo che il periodo di oscillazione sia maggiore di 2 secondi. Nella posizione di equilibrio, entrambe le bacchette devono essere verticali.
+
+**1.1.** Misurare il periodo di oscillazione del pendolo e valutare l’errore sperimentale corrispondente.
+
+> **Attenzione! Nei seguenti passaggi non è necessaria la stima dell’errore!**
+
+Posizionare la bobina sotto il pendolo in modo che la distanza dal centro della bobina alla perlina magnetizzata del pendolo sia approssimativamente uguale a metà del raggio della bobina.
+
+Collegare la bobina alla fonte di alimentazione in modo da poter modificare e misurare l’intensità della corrente che vi scorre attraverso.
+
+> **Attenzione!** *Assicurarsi di usare l’interruttore e di accenderlo solo durante le misurazioni, altrimenti la batteria si scaricherà rapidamente!*
+
+**1.2.** Disegnare schematicamente il circuito elettrico utilizzato per effettuare le misurazioni.
+
+**1.3.** Misurare la dipendenza del periodo di oscillazione del pendolo dall’intensità della corrente nella bobina e tracciare il grafico corrispondente.
+
+**1.4.** Sulla base dei dati sperimentali ottenuti, dimostrare che la forza che agisce sulla perlina magnetizzata è proporzionale all’intensità della corrente nella bobina. Giustificare la conclusione in modo grafico.
+
+### Parte 2. Interazioni puntiformi
+
+![[_attachments/eng1/eng1_p3_f2.png]]
+
+Posizionare la perlina magnetizzata su un pezzo di argilla, esattamente sotto il pendolo; le due perline dovrebbero attrarsi a vicenda!
+
+Si può assumere che la forza di interazione sia di tipo centrale, cioè che sia diretta lungo la linea che collega i centri delle due perline. L’intensità di questa forza dipende dalla distanza tra i loro centri, secondo la legge
+
+$$F = \frac{C}{r^{\gamma}}. \qquad (1)$$
+
+**2.1.** Scrivere l’equazione del moto del pendolo in questo caso. Ottenere la formula per il periodo delle piccole oscillazioni.
+
+**2.2.** Misurare la dipendenza del periodo delle piccole oscillazioni dalla distanza tra i centri delle perline. Tracciare il grafico corrispondente.
+
+**2.3.** Utilizzando i dati sperimentali ottenuti, determinare l’esponente $\gamma$ nella formula (1). Giustificare graficamente la formula (1).
+
+### Parte 3. Un pezzo di cioccolato magnetico
+
+![[_attachments/eng1/eng1_p3_f3.png]]
+
+Ridurre lo smorzamento modificando la progettazione del pendolo. Infilare la bacchetta superiore nella gomma in modo che formi un angolo di circa $30^{\circ}$. Infilare due chiodi nella gomma per farne le “gambe” su cui avviene il movimento oscillatorio. Attaccare due perline alla parte inferiore del pendolo e assicurarsi che rimanga in equilibrio stabile mentre oscilla. Per regolare il pendolo, si può montare il righello sull’asta come supporto.
+
+Posizionare un pezzo di cioccolato sotto il pendolo, senza togliere l’involucro! L’estremità inferiore del pendolo dovrebbe muoversi lungo il pezzo di cioccolato mantenendo una distanza di 1-2 mm.
+
+Si scopre che un pezzo di cioccolato può influenzare il movimento del pendolo.
+
+**3.1.** Determinare sperimentalmente quali caratteristiche fisiche del pendolo vengono modificate dal pezzo di cioccolato.
+
+**3.2.** Effettuare le misurazioni necessarie per confermare le ipotesi. Giustificare la risposta attraverso grafici.
 
 **Topic:** [[Oscillations & Waves]], [[Magnetism]], [[Circuits]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]

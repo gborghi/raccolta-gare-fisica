@@ -1311,7 +1311,7 @@ seeking in trade a vessel made of a material which has:
 - **B.** high specific heat and low thermal conductivity.
 - **C** low specific heat and high thermal conductivity.
 - **D** low specific heat and low thermal conductivity.
-- **E ** the desired pot characteristic does not depend on these parameters.
+- **E** the desired pot characteristic does not depend on these parameters.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]

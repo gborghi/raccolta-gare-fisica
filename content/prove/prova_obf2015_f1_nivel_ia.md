@@ -315,10 +315,10 @@ Orbita più vicina al Sole, si dice che abbia raggiunto:
 
 Fonte: http://www.infoescola.com/fisica/gravitazione-universale/
 
-- **A ** è aumentata
+- **A** è aumentata
 - **B.** affilo
 - **C.** perielli
-- **D ** apastro
+- **D** apastro
 - **E.** equinozio
 
 4. Il radar fisso è un'apparecchiatura elettronica, computerizzata, che mira a monitorare un

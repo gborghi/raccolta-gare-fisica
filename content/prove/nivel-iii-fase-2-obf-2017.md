@@ -61,7 +61,7 @@ Speed sensor installed near the base of this plane records the values
 The speed of the block: $V_1 = 4$ m/s, in the ascending and $V_2 = 3$ m/s, in the descending phase. Determine
 
 - **A** the friction coefficient between the block and the plane, if any.
-- **B ** distance d, in metres, travelled by the block as it ascends the plane.
+- **B** distance d, in metres, travelled by the block as it ascends the plane.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]

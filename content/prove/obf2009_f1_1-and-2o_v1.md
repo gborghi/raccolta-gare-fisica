@@ -76,7 +76,7 @@ Dati sul Sole:
 
 - **A** kg (kg)
 - **B.** g (gramo)
-- **C ** tonnellate
+- **C** tonnellate
 - **D** mg (miligramma)
 - **E.** kgf (kg/forza)
 
@@ -108,11 +108,11 @@ This is the first time that we've seen this.
 
 **01) ** Which of the following units cannot be used to represent the mass of the Sun:
 
-- **A ** kg (kg)
-- **B ** g (gram)
-- **C ** tonne (tonne)
+- **A** kg (kg)
+- **B** g (gram)
+- **C** tonne (tonne)
 - **D** mg (milligrams)
-- **E ** kgf (kg/force)
+- **E** kgf (kg/force)
 
 **Topic:** [[Astrophysics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -258,7 +258,7 @@ This is the first time that we've seen this.
 **04) ** Una persona di massa pari a 100 kg avrà un peso "solari" di:
 
 - **A.** 100 kg
-- **B ** 100 tonnellate
+- **B** 100 tonnellate
 - **C.** 276 N
 - **D.** 27.600 N
 - **E.** 2,76 N
@@ -274,7 +274,7 @@ This is the first time that we've seen this.
 **04) ** A person weighing 100 kg shall have a 'solar' weight of:
 
 - **A.** 100 kg
-- **B ** 100 tonnes
+- **B** 100 tonnes
 - **C.** 276 N
 - **D.** 27.600 N
 - **E.** 2,76 N
@@ -988,10 +988,10 @@ Answer questions 16 to 19 considering that the temperature of water in the ocean
 **16) ** Which of the following alternatives does not correspond to processes that occur when a certain amount of water has a temperature increase:
 
 - **A** increase in the mean velocity of molecules in the liquid.
-- **B ** the density of the water increases.
+- **B** the density of the water increases.
 - **C.** the amount of heat absorbed by the water is proportional to the increase in temperature.
 - **D.** the water mass remains unchanged.
-- **E ** the volume of water increases.
+- **E** the volume of water increases.
 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
@@ -1043,8 +1043,8 @@ Senza considerare il fatto che il ghiaccio si scioglie nei poli, cosa possiamo d
 Without considering the melting of the ice sheet at the poles, what can we say about the effect of global warming on ocean levels:
 
 - **A** the level will remain unchanged.
-- **B ** the level will decrease.
-- **C ** the level will increase.
+- **B** the level will decrease.
+- **C** the level will increase.
 - ** D** an increase followed by a decrease.
 - **E.** it is not possible to say what may happen because there is insufficient data.
 
@@ -1081,7 +1081,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 
 **18) ** Qual è l'energia consumata da una lampada da 100 W collegata per un'ora:
 
-- **A ** 2.000 kWh
+- **A** 2.000 kWh
 - **B.** 100 J
 - **C.** 3.600 J
 - **D.** 1.000 J
@@ -1097,7 +1097,7 @@ Without considering the melting of the ice sheet at the poles, what can we say a
 
 **18) ** What is the energy consumed by a 100 W lamp on for one hour:
 
-- **A ** 2,000 kWh
+- **A** 2,000 kWh
 - **B.** 100 J
 - **C.** 3.600 J
 - **D.** 1.000 J
@@ -1200,7 +1200,7 @@ Un telescopio chiamato luneta di Kepler è costituito da due obiettivi convergen
 
 Qual è il fenomeno fisico che spiega il principio di funzionamento della galassia di Kepler:
 
-- **A ** riflessione.
+- **A** riflessione.
 - **B.** rifrazione.
 - **C.** difrazione.
 - ** D ** polarizzazione.
@@ -1224,8 +1224,8 @@ A telescope called a Kepler lens is made up of two converging lenses, objective 
 Which of the following physical phenomena explains the principle of operation of the Kepler lunar system:
 
 - The MRLs for the MRLs are set at:
-- **B ** refraction.
-- **C ** diffraction.
+- **B** refraction.
+- **C** diffraction.
 - ** D ** polarization.
 - MSK0/>E** dispersion
 
@@ -1271,7 +1271,7 @@ The following is the list of the main types of locks in the LNG range:
 - **B.** convergeranno al punto focale $F_2$.
 - **C.** convergono al punto $F_1 + F_2$ misurato dall'obiettivo sull'asse ottico.
 - **D.** convergono al punto $2F_1$ misurato dall'obiettivo sull'asse ottico.
-- **E ** in questa situazione particolare i fasci non convergono in nessun punto.
+- **E** in questa situazione particolare i fasci non convergono in nessun punto.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
@@ -1284,10 +1284,10 @@ The following is the list of the main types of locks in the LNG range:
 It can be stated with absolute certainty that beams touching parallel to the optical axis of the lens:
 
 - **A** converge to the focal point $F_1$.
-- **B ** converge to the focal point $F_2$.
+- **B** converge to the focal point $F_2$.
 - **C.** will converge to the $F_1 + F_2$ point measured from the lens on the optical axis.
 - **D.** will converge to the $2F_1$ point measured from the lens on the optical axis.
-- **E ** in this particular situation the beams do not converge to any point.
+- **E** in this particular situation the beams do not converge to any point.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
@@ -1380,7 +1380,7 @@ Supponiamo che il set di lenti sia in grado di ottenere $F_1 = 100$ cm, $F_2 = 5
 - **A** a 10 cm dall'occhio.
 - **B.** a 10 cm dal mirino.
 - **C.** a 20 cm dall'occhio.
-- **D ** a 30 cm dall'occhio.
+- **D** a 30 cm dall'occhio.
 - **E.** non si presenta alcuna formazione dell'immagine.
 
 **Topic:** [[Geometric Optics]]
@@ -1397,7 +1397,7 @@ Let's say the lens set is as $F_1 = 100$ cm, $F_2 = 5$ cm and $d = 106$ cm. Wher
 - **B** 10 cm from the lens.
 - **C** 20 cm from the eyelid.
 - ** D** 30 cm from the eyelid.
-- **E ** there is no image formation.
+- **E** there is no image formation.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]

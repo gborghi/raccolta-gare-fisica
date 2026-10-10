@@ -47,7 +47,7 @@ Quando un corpo cade vicino alla superficie della Terra, l'unica forza che agisc
 - **B.** grafico B
 - **C.** grafico C
 - **D** grafico D
-- **E ** grafico E
+- **E** grafico E
 
 <!--fig:start-->
 ![[_attachments/OBF-2023-F1-NJr/OBF-2023-F1-NJr_p2_f1.png]]
@@ -65,10 +65,10 @@ Quando un corpo cade vicino alla superficie della Terra, l'unica forza che agisc
 When a body falls close to the Earth's surface, the only force acting on it is the earth's gravitational interaction force. Consider a situation like this where all the effects of friction with air are neglected. Which of the following graphs best represents the change in potential energy over time?
 
 - **A** chart A
-- **B ** chart B
+- **B** chart B
 - **C** chart C
-- **D ** chart D
-- **E ** Graph E
+- **D** chart D
+- **E** Graph E
 
 <!--fig:start-->
 ![[_attachments/OBF-2023-F1-NJr/OBF-2023-F1-NJr_p2_f1.png]]
@@ -289,11 +289,11 @@ La velocità e l'accelerazione sono grandi dimensioni vetoriali, quindi è possi
 
 Speed and acceleration are vector quantities, so you can analyze their module, direction and direction separately. If an object is moving eastward at a decreasing speed, we can say about its speed $\vec{v}$ and its acceleration $\vec{a}$:
 
-- **A ** $\vec{v}$ and $\vec{a}$ pointing east.
-- **B ** $\vec{v}$ and $\vec{a}$ point to the west.
+- **A** $\vec{v}$ and $\vec{a}$ pointing east.
+- **B** $\vec{v}$ and $\vec{a}$ point to the west.
 - **C.** $\vec{v}$ points to the east and $\vec{a}$ to the west.
 - **D.** $\vec{v}$ points to the east and $\vec{a}$ to the east.
-- **E ** $\vec{v}$ points east and $a = 0$.
+- **E** $\vec{v}$ points east and $a = 0$.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -691,7 +691,7 @@ An open-air container at a location at sea level contains 1 kg of water at 10 °
 - **A.** The water temperature decreases and the lead temperature does not change.
 - **B.** The water temperature rises and the lead temperature does not change.
 - **C.** The water temperature does not change and that of lead decreases.
-- **D ** The water temperature rises and that of lead decreases.
+- **D** The water temperature rises and that of lead decreases.
 - **E.** The water temperature does not change and lead temperature increases.
 
 **Topic:** [[Thermodynamics]]
@@ -907,7 +907,7 @@ Um satélite artificial de massa muito pequena (insignificante) respeito ao plan
 
 Un satellite artificiale di massa molto piccola (insignificante) rispetto al pianeta intorno al quale si trova a rotare, è osservato da un astronomo. Le distanze minime e massime tra il satellite e il pianeta sono misurate, così come la velocità massima orbitale del satellite. Quali delle seguenti quantità non possono essere ottenute dai dati misurati?
 
-- **A ** La massa del satellite.
+- **A** La massa del satellite.
 - B. La massa del pianeta.
 - **C.** La velocità orbitale minima del satellite.
 - **D.** Il semiaixo più grande dell'orbita del satellite.
@@ -926,8 +926,8 @@ An artificial satellite of very small mass (minor) relative to the planet around
 - The mass of the satellite.
 - The mass of the planet.
 - **C.** The minimum orbital speed of the satellite.
-- **D ** The greater half-axis of the satellite's orbit.
-- **E ** The period of orbit of the satellite.
+- **D** The greater half-axis of the satellite's orbit.
+- **E** The period of orbit of the satellite.
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
@@ -980,7 +980,7 @@ In physics, order of magnitude and units of measurement are very important for c
 
 - A sheet of paper.
 - A currency.
-- **C ** One liter of water.
+- **C** One liter of water.
 - A tennis ball.
 - MSK1 A physics student.
 
@@ -1088,10 +1088,10 @@ Le grandi vetrici in fisica sono grandi dimensioni che hanno, oltre a modulo, di
 
 Vector quantities in physics are quantities that have, in addition to modulus, direction and direction. Which of the following alternatives represents a vector quantity with its unit in the International System (SI)?
 
-- **A ** weight  kg
-- **B ** weight  kg
+- **A** weight  kg
+- **B** weight  kg
 - **C.** weight  Newton
-- **D ** energy  Newton
+- **D** energy  Newton
 - **E** pressure  Pascal
 
 **Topic:** [[Newtonian Mechanics]]
@@ -1154,7 +1154,7 @@ Un sistema composto da un misto di acqua e ghiaccio è riscaldato. Quale dei gra
 A system composed of a mixture of water and ice is heated. Which of the following graphs correctly represents the relationship between the system temperature and the heat supplied?
 
 - **A** Graph A
-- **B ** Graph B
+- **B** Graph B
 - **C.** Graph C
 - **D** Graph D
 - **E** Graph E
@@ -1214,7 +1214,7 @@ Quando due corpi a temperature diverse entrano in contatto termico, si verifica 
 When two bodies at different temperatures come into contact, there is heat exchange between them. This heat exchange ends when the bodies enter thermal equilibrium, that is, they reach the same temperature. A mass of 5 kg of water at 10 °C is added to a mass, also 5 kg of water at 60 °C. The heat balance temperature (in °C) shall be the temperature of the container, regardless of the heat capacity and heat losses.
 
 - **A** less than 10 °C.
-- **B ** less than 40 °C.
+- **B** less than 40 °C.
 - **C.** between 10 °C and 40 °C, nearest to 10 °C.
 - **D.** between 10 °C and 40 °C, nearest to 40 °C.
 - **E.** equal to 35 °C.

@@ -63,7 +63,7 @@ trajectory indicated by the traced line. What is the speed of the ball:
 
 - **A** when passing the lowest point of the trajectory (05)
 - When you reach the highest point of the trajectory after the rope touches the pin? (10)
-- **C ** Show that for the ball to make a full spin around the pine we must have $d > 3L/5$.
+- **C** Show that for the ball to make a full spin around the pine we must have $d > 3L/5$.
 (10).
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]

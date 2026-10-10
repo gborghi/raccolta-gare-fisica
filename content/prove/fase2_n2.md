@@ -78,7 +78,7 @@ $d$. Consider that the sludge completely fills the
 space between the bricks.
 - **A.** If $d$ is despicable, how many bricks are used on the wall?
 - **B.** In the case of $d = 2{,}00$ cm, how many bricks are used approximately on the wall?
-- **C ** In the case of $d = 2{,}00$ cm, which is the mass of the alloy approximately in kg, used in the
+- **C** In the case of $d = 2{,}00$ cm, which is the mass of the alloy approximately in kg, used in the
 The wall?
 
 **Topic:** [[Order-of-Magnitude Estimation]]
@@ -387,7 +387,7 @@ altezza $H = 6{,}00$ cm, pareti sottili e massa $m = 160$ g.
 Quando è completamente vuoto flotta in un vasello
 con acqua con il bordo del recipiente ad un'altezza superiore a $h$
 di livello dell'acqua, come mostra la figura qui accanto.
-- **A ** Qual è la altezza $h$ in cm?
+- **A** Qual è la altezza $h$ in cm?
 - **B.** Qual è la massima massa d'acqua in g che si può aggiungere al recipiente in modo che continui a fluttuare?
 
 **Topic:** [[Fluid Mechanics]]
@@ -538,7 +538,7 @@ It's in static equilibrium. The diameter of the wire is
 $0{,}40$ mm e a densidade do aço é $8\,000\ \text{kg/m}^3$.
 Determine:
 - **A.** The linear density of the wire mass in g/m.
-- **B ** The lower frequency, in Hz, of the transverse stationary wave than the horizontal stretch of the
+- **B** The lower frequency, in Hz, of the transverse stationary wave than the horizontal stretch of the
 The wire can present.
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]

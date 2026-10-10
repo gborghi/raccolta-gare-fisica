@@ -761,11 +761,11 @@ A massless rope is passed over a frictionless tree branch. A box of mass 12 kg i
 
 Una corda senza massa viene passata sopra un ramo di albero senza attrito. Una scatola di massa di 12 kg è appesa da un'altra estremità e una scimmia di massa di 10 kg è appesa dall'altra. Cosa dovrebbe fare la scimmia per sollevare la scatola? (Scegli tutte le risposte valide. I marchi saranno dati solo se tutte le risposte valide sono le uniche scelte.)
 
-- **(A) ** Sali la corda con velocità accelerata.
-- **(B) ** Sali sulla corda con velocità decelerante.
-- **(C) ** Sali giù la corda con velocità accelerata.
-- **(D) ** Sali giù la corda con velocità decelerante.
-- **(E) ** Climb con velocità costante.
+- **(A)** Sali la corda con velocità accelerata.
+- **(B)** Sali sulla corda con velocità decelerante.
+- **(C)** Sali giù la corda con velocità accelerata.
+- **(D)** Sali giù la corda con velocità decelerante.
+- **(E)** Climb con velocità costante.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 
@@ -812,11 +812,11 @@ Come mostrato nella figura, le masse $m_1 = m$ e $m_2 = 2m$ sono collegate da un
 La pollice B è appesa al soffitto e porta massa $m_3$ da un lato e pollice A dall'altro; la pollice A porta $m_1$ e $m_2$. (Le etichette figurative sono contorte nel carattere sorgente: la pollice superiore è B, la pollice inferiore è A.)*
 <!--fig:end-->
 
-- **(A) ** $\dfrac{5}{17}g$ in su
-- **(B) ** $\dfrac{5}{17}g$ verso il basso
-- **(C) ** $\dfrac{7}{17}g$ in su
-- **(D) ** $\dfrac{7}{17}g$ verso il basso
-- **(E) ** $\dfrac{9}{17}g$ in su
+- **(A)** $\dfrac{5}{17}g$ in su
+- **(B)** $\dfrac{5}{17}g$ verso il basso
+- **(C)** $\dfrac{7}{17}g$ in su
+- **(D)** $\dfrac{7}{17}g$ verso il basso
+- **(E)** $\dfrac{9}{17}g$ in su
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 
@@ -1000,11 +1000,11 @@ Una pietra di 2,00 kg scivola a destra su una superficie orizzontale senza attri
 *Magnitude della forza sinistra $F$ (in $\times10^3\ \text{N}$) contro il tempo $t$ (in $\times10^{-3}\ \text{s}$): la forza sale a $10.0$ a $t = 15.0$, poi diminuisce linearmente a $6.0$ a $t = 16.0$, dove scende a zero.*
 <!--fig:end-->
 
-- **(A) ** $1\ \text{m s}^{-1}$ a sinistra
-- **(B) ** $1\ \text{m s}^{-1}$ a destra
-- **(C) ** $7\ \text{m s}^{-1}$ a sinistra
-- **(D) ** $7\ \text{m s}^{-1}$ a destra
-- **(E) ** $5\ \text{m s}^{-1}$ a sinistra
+- **(A)** $1\ \text{m s}^{-1}$ a sinistra
+- **(B)** $1\ \text{m s}^{-1}$ a destra
+- **(C)** $7\ \text{m s}^{-1}$ a sinistra
+- **(D)** $7\ \text{m s}^{-1}$ a destra
+- **(E)** $5\ \text{m s}^{-1}$ a sinistra
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 
@@ -1123,11 +1123,11 @@ An astronaut lands on a spherical planet in a distant galaxy. He throws a 2.50 k
 
 Un astronauta atterra' su un pianeta sferico in una galassia lontana. Il pilota lancia una pietra da 2,50 kg verso l'alto dal suolo a $12.0\ \text{m s}^{-1}$ e ritorna al suolo a $6.00\ \text{s}$. La circonferenza del pianeta è $2.00\times10^5\ \text{km}$ e non c'è atmosfera sul pianeta. Se una nave spaziale entra in un'orbita circolare $30\,000\ \text{km}$ sopra la superficie del pianeta, quante ore ci vorranno per completare una orbita?
 
-- **(A) ** $11.3$ ore
-- **(B) ** $12.7$ ore
-- **(C) ** $13.3$ ore
-- **(D) ** $14.5$ ore
-- **(E) ** $15.6$ ore
+- **(A)** $11.3$ ore
+- **(B)** $12.7$ ore
+- **(C)** $13.3$ ore
+- **(D)** $14.5$ ore
+- **(E)** $15.6$ ore
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 

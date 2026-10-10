@@ -230,7 +230,7 @@ IV)  E il peso della BMW 325i Touring è diviso in 6.000 N su ogni asse della su
 
 Si può dire dalle affermazioni precedenti che:
 
-- **A ** Tutti errati
+- **A** Tutti errati
 - **B.** A II e III sono corrette.
 - **C.** Solo II è corretto.
 - **D.** Solo II e IV sono corretti.
@@ -326,7 +326,7 @@ Possiamo dire dalle tre affermazioni precedenti che:
 - **B.** Solo I e III sono corretti.
 Solo l'I è giusto.
 - **D.** Solo III è corretto.
-- **E ** II e III sono corretti.
+- **E** II e III sono corretti.
 
 <!--fig:start-->
 ![[_attachments/OBF2007_1Fase_1&2serie_prova1/OBF2007_1Fase_1&2serie_prova1_p4_f1.png]]
@@ -417,7 +417,7 @@ III) L'intervallo di tempo di circa 120-180 secondi è stato il momento in cui l
 
 In relazione a queste affermazioni possiamo dire che:
 
-- **A ** Sono tutte errate.
+- **A** Sono tutte errate.
 - **B.** Solo I e III sono corretti.
 - **C.** Solo II è corretto.
 - D. Tutti corretti.
@@ -922,10 +922,10 @@ II) Quando ruotiamo il volante dell'auto e facciamo una curva, usiamo un acceler
 III) Su una strada piana, aumentando la velocità, ovviamente stiamo usando un acceleratore.
 
 - MSK1/ A solo I è sbagliato.
-- **B ** I e II sono sbagliati.
+- **B** I e II sono sbagliati.
 Solo III è giusto.
 - D. Tutti corretti.
-- **E ** I e III sono corretti.
+- **E** I e III sono corretti.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1241,7 +1241,7 @@ In relazione a queste affermazioni possiamo dire che:
 - **A.** Solo l'affermazione III è corretta.
 - **B.** Le affermazioni I e II sono corrette.
 - **C.** Le affermazioni I e III sono corrette.
-- **D ** Tutte le affermazioni sono corrette.
+- **D** Tutte le affermazioni sono corrette.
 - **E.** Solo l'affermazione II è sempre corretta.
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
@@ -1370,11 +1370,11 @@ Un autista imprudente e in fretta guidava un'auto di massa totale $m$, con veloc
 
 Con una scossa inelastica, a che velocità è andata l'insieme?
 
-- **A ** 25/11 m/s a sinistra.
-- **B ** 75/11 m/s a sinistra.
+- **A** 25/11 m/s a sinistra.
+- **B** 75/11 m/s a sinistra.
 - **C.** 75/11 m/s a destra.
 - **D.** 25/11 m/s a destra.
-- **E ** 25/9 m/s a sinistra.
+- **E** 25/9 m/s a sinistra.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
@@ -1672,7 +1672,7 @@ Supponiamo che il motore a 4 cilindri (testo 5) abbia un'efficienza di 0.21 come
 
 - MSK1/> 300 minuti.
 - B, 360 minuti.
-- **C ** 280 minuti.
+- **C** 280 minuti.
 - 320 minuti.
 - 240 minuti.
 
@@ -1731,11 +1731,11 @@ Il numero di persone che hanno ricevuto il diploma è stato di circa un milione 
 
 Connesso al radiatore attraverso un tubo, c'è il serbatoio di espansione. Questo serbatoio ha il ruolo di accumulare l'acqua in eccesso, che è inizialmente 10 °C e che si scarica quando la temperatura dell'acqua posta nel radiatore aumenta a causa delle esplosioni del combustibile nei cilindri del motore. Supponendo che l'acqua sia 90 °C e abbia il coefficiente di espansione volumetrica $\gamma = 4{,}0 \times 10^{-4}$ °C$^{-1}$ e che il radiatore sia di rame con coefficiente lineare di espansione $\alpha = 2{,}0 \times 10^{-5}$ °C$^{-1}$, completamente riempito con 20 litri di acqua. La quantità di acqua che verserà sarà di:
 
-- **A ** 629 cm3
-- **B ** 544 cm3
-- **C ** 822 cm3
+- **A** 629 cm3
+- **B** 544 cm3
+- **C** 822 cm3
 - ** D ** 472 cm3
-- **E ** 252 cm3
+- **E** 252 cm3
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]

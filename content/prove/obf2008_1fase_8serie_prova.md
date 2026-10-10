@@ -105,10 +105,10 @@ Un corpo cade, vicino alla superficie della Terra, con un'accelerazione approssi
 
 A body falls near the Earth's surface at an acceleration approximately equal to $9{,}8\ \text{m/s}^{2}$. We can say that in this fall, this body:
 
-- **A ** travels in $2{,}0$ seconds twice the distance travelled in $1$ second.
+- **A** travels in $2{,}0$ seconds twice the distance travelled in $1$ second.
 - **B.** increases the distance travelled in $9{,}8\ \text{m}$ every second.
 - **C.** increases its speed by $4{,}9\ \text{m/s}$ every second.
-- **D ** increases its speed by $9{,}8\ \text{m/s}$ every second.
+- **D** increases its speed by $9{,}8\ \text{m/s}$ every second.
 - **E** increases the distance travelled by $4{,}9\ \text{m}$ every second.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -157,7 +157,7 @@ III. Non è possibile cambiare la velocità di un corpo in assenza di forze este
 È corretto solo ciò che si afferma in:
 
 - **A.** II.
-- **B ** I e III.
+- **B** I e III.
 - **C.** II e III.
 - **D.** I e II.
 - **E.** I.
@@ -324,11 +324,11 @@ A convecção é uma forma de transferência de calor que pode ocorrer apenas:
 
 La convezione è una forma di trasferimento di calore che può verificarsi solo:
 
-- **A ** nei solidi.
+- **A** nei solidi.
 - **B.** nei liquidi.
 - **C.** nei fluidi.
 - **D.** nel vuoto.
-- **E ** nei gas.
+- **E** nei gas.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -340,11 +340,11 @@ La convezione è una forma di trasferimento di calore che può verificarsi solo:
 
 Convection is a form of heat transfer that can only occur:
 
-- **A ** in solids.
-- **B ** in liquids.
+- **A** in solids.
+- **B** in liquids.
 - **C** in the fluids.
 - **D** in the vacuum.
-- **E ** in the gases.
+- **E** in the gases.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -379,8 +379,8 @@ A energia recebida do Sol e que aqui se transforma em calor, chega até a Terra 
 
 L'energia che viene ricevuta dal Sole e che qui viene trasformata in calore arriva sulla Terra attraverso:
 
-- **A ** delle onde ultrasonore continuamente emesse dal Sole.
-- **B ** delle onde elettromagnetiche.
+- **A** delle onde ultrasonore continuamente emesse dal Sole.
+- **B** delle onde elettromagnetiche.
 - **C.** della diffusione delle particelle emesse dal Sole.
 - ** D.** della conduzione del calore attraverso lo spazio esterno.
 - **E** solo dalle onde luminose.
@@ -395,11 +395,11 @@ L'energia che viene ricevuta dal Sole e che qui viene trasformata in calore arri
 
 The energy received from the sun and converted here into heat reaches the Earth through:
 
-- **A ** of the ultrasound waves continuously emitted by the Sun.
-- **B ** of electromagnetic waves.
-- **C ** of the propagation of particles ejected by the Sun.
+- **A** of the ultrasound waves continuously emitted by the Sun.
+- **B** of electromagnetic waves.
+- **C** of the propagation of particles ejected by the Sun.
 - ** D** of the conduction of heat through outer space.
-- **E ** only from light waves.
+- **E** only from light waves.
 
 **Topic:** [[Electromagnetism]], [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -576,8 +576,8 @@ Prendendo come riferimento le grandi dimensioni fisiche che si relazionano attra
 
 - ** la sua massa e la sua velocità.
 - **B.** la forza applicata per farlo muoversi e la sua velocità.
-- **C ** il suo peso e la sua velocità.
-- **D ** la sua massa e la sua accelerazione.
+- **C** il suo peso e la sua velocità.
+- **D** la sua massa e la sua accelerazione.
 - **E.** la forza applicata per farlo muoversi e la sua accelerazione.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -591,10 +591,10 @@ Prendendo come riferimento le grandi dimensioni fisiche che si relazionano attra
 Taking as a reference the physical quantities that relate through Newton's second law, it can be said that for a body of a given mass, there is a direct ratio between:
 
 - Its mass and speed.
-- **B ** the force applied to move it and its speed.
-- **C ** its weight and speed.
+- **B** the force applied to move it and its speed.
+- **C** its weight and speed.
 - ** D ** its mass and its acceleration.
-- **E ** the force applied to move it and its acceleration.
+- **E** the force applied to move it and its acceleration.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -641,11 +641,11 @@ III. Nel movimento in questione, il peso agisce come una forza dissipatrice di e
 
 È corretto quanto affermato in:
 
-- **A ** I e II solo.
+- **A** I e II solo.
 - ** B.** II solo.
-- **C ** I solo.
+- **C** I solo.
 - ** D ** I e III solo.
-- **E ** I, II e III.
+- **E** I, II e III.
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -983,11 +983,11 @@ Uma colher contém $50$ grãos de arroz que ocupam um volume igual a $8000\ \tex
 
 Un cucchiaio contiene $50$ grano di riso che occupano un volume pari a $8000\ \text{mm}^{3}$, il che ci permette di dire che un singolo grano di riso, in media, occupano insieme allo spazio vuoto intorno a sé un volume pari a $160\ \text{mm}^{3}$. Per formare una strata di $20\ \text{cm}$ di altezza su una superficie quadrata di $0{,}200\ \text{km}$ di lato, occorrono intorno a:
 
-- **A ** $5 \times 10^{8}$ grano di riso.
-- **B ** $5 \times 10^{10}$ grano di riso.
-- **C ** $5 \times 10^{6}$ grano di riso.
-- **D ** $5 \times 10^{7}$ grano di riso.
-- **E ** $5 \times 10^{5}$ grano di riso.
+- **A** $5 \times 10^{8}$ grano di riso.
+- **B** $5 \times 10^{10}$ grano di riso.
+- **C** $5 \times 10^{6}$ grano di riso.
+- **D** $5 \times 10^{7}$ grano di riso.
+- **E** $5 \times 10^{5}$ grano di riso.
 
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -999,11 +999,11 @@ Un cucchiaio contiene $50$ grano di riso che occupano un volume pari a $8000\ \t
 
 One spoon contains $50$ rice grains which occupy a volume equal to $8000\ \text{mm}^{3}$, which allows us to say that a single grain of rice occupies, on average, together with the empty space around it, a volume equal to $160\ \text{mm}^{3}$. To form a layer of $20\ \text{cm}$ height on a square surface of $0{,}200\ \text{km}$ side, around:
 
-- **A ** $5 \times 10^{8}$ rice grains.
-- **B ** $5 \times 10^{10}$ rice grains.
-- **C ** $5 \times 10^{6}$ rice grains.
-- **D ** $5 \times 10^{7}$ rice grains.
-- **E ** $5 \times 10^{5}$ rice grains.
+- **A** $5 \times 10^{8}$ rice grains.
+- **B** $5 \times 10^{10}$ rice grains.
+- **C** $5 \times 10^{6}$ rice grains.
+- **D** $5 \times 10^{7}$ rice grains.
+- **E** $5 \times 10^{5}$ rice grains.
 
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]

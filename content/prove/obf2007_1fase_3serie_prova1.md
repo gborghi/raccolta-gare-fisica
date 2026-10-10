@@ -943,7 +943,7 @@ Per spendere un serbatoio da 40 litri?
 
 - MSK1/> 300 minuti.
 - B, 360 minuti.
-- **C ** 280 minuti.
+- **C** 280 minuti.
 - 320 minuti.
 - 240 minuti.
 
@@ -1086,7 +1086,7 @@ In relazione a queste affermazioni, diciamo che:
 - **B.** Solo II) è corretta.
 - **C.** I) e III) è corretto.
 - **D.** Solo la III) è corretta.
-- **E ** II) e III) sono corrette.
+- **E** II) e III) sono corrette.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1292,7 +1292,7 @@ Attirato da carichi di segnali opposti sulla Terra si verifica
 
 Quale delle alternative qui sotto è la giusta?
 
-- **A ** I e III sono corretti.
+- **A** I e III sono corretti.
 - **B.** Solo I è corretto.
 - **C.** Solo III è corretto.
 - D. Tutti corretti.

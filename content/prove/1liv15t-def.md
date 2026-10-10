@@ -268,8 +268,8 @@ A monochrome beam of light hits two slits and the resulting figure is collected 
 
 Which of the above statements is correct?
 
-- **A ** Only the 1.
-- **B ** Only the 2.
+- **A** Only the 1.
+- **B** Only the 2.
 - **C.** Only 1 and 2.
 - **D.** Solo la 2 e la 3.
 - **E.** Tutte e tre.
@@ -534,9 +534,9 @@ A cook inadvertently droppes two eggs from the same height. The first one falls 
 
 Compared to the impulse of the first egg in the impact with the ground, the impulse of the second is...
 
-- **A ** ...minor but not zero.
-- **B ** ... is equal.
-- **C ** ... major.
+- **A** ...minor but not zero.
+- **B** ... is equal.
+- **C** ... major.
 - **D.** ...nullo.
 - **E.** There are not enough data to answer.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
@@ -979,9 +979,9 @@ Tra tutte le macchine termiche che scambiano calore con due sorgenti a temperatu
 Between all heat exchanging machines with two fixed temperature sources $T_1$ and $T_2$, the performance of those using the Carnot cycle...
 
 - **A.** ... is equal to 1 (i.e. 100%).
-- **B ** ...is the largest.
+- **B** ...is the largest.
 - **C.** ...is the same as that of any other heat engine.
-- **D ** ...is the minor.
+- **D** ...is the minor.
 - **E.** ...depends on the engine design.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1295,8 +1295,8 @@ One student writes the following statements about electric fields.
 
 Which of the above statements is always correct?
 
-- **A ** Only the 1.
-- **B ** Only the 2.
+- **A** Only the 1.
+- **B** Only the 2.
 - **C.** Only the 1 and 2.
 - **D.** Only the 1 and 3.
 - **E.** Tutte e tre.
@@ -1336,7 +1336,7 @@ Heat can flow from a lower-temperature region to a higher-temperature region if.
 
 - **A.** ...the specific heat of the coldest region is higher than that of the warmer region.
 - **B.** ...the temperature of the coldest region is close to absolute zero.
-- **C ** ...work is being done to generate the heat flow.
+- **C** ...work is being done to generate the heat flow.
 - **D.** ...the coldest region is liquid, the warmest region is solid.
 - **E.** ...the coldest source is placed below the hot one.
 **Topic:** [[Thermodynamics]]
@@ -1510,11 +1510,11 @@ A student, in his report on an optical experiment, inserts the figure shown next
 
 The student's figure is wrong because...
 
-- **A ** ...the red and purple ends of the spectrum have been exchanged.
+- **A** ...the red and purple ends of the spectrum have been exchanged.
 - **B.** ... on the first surface the beam shall be deflected.
 - **C.** ... on the first surface the beam widens fan-like, breaking down into various colours.
 - **D.** ...the beam is fully reflected in the prism.
-- **E ** ...the beam emerges from the prism without any deviation.
+- **E** ...the beam emerges from the prism without any deviation.
 <!--fig:start-->
 ![[_attachments/1liv15T def/1liv15T def_p9_f10.png]]
 *White light incident on 60° glass prism*

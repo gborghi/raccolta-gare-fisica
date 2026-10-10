@@ -169,8 +169,8 @@ of a crossroads. At the initial moment, as shown in the following figure, the lo
 south of the pass, travelling north-south, northward, at a constant speed of
 72 km/h. And the car is 60 meters west of the pass, traveling east-west, heading towards the
 east with a speed of 36 km/h and acceleration of $4{,}0\ \text{m/s}^2$. In the instant $t = 2$ s, determine the following:
-- **A ** distance between the locomotive and the car.
-- **B ** speed of the locomotive in relation to the car.
+- **A** distance between the locomotive and the car.
+- **B** speed of the locomotive in relation to the car.
 You despise the dimensions of the car and the locomotive.
 
 Level I

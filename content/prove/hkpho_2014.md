@@ -123,11 +123,11 @@ Un'auto (massa $200\ \mathrm{kg}$) si sposta con saggezza intorno a un rotonde p
 
 ![[HKPhO_2014_p5_f1.png]]
 
-- **(A) ** Zero
-- **(B) ** $5\ \mathrm{m/s^2}$ Est
-- **(C) ** $5\ \mathrm{m/s^2}$ Occidente
-- **(D) ** $10\ \mathrm{m/s^2}$ Est
-- **(E) ** $10\ \mathrm{m/s^2}$ Occidente
+- **(A)** Zero
+- **(B)** $5\ \mathrm{m/s^2}$ Est
+- **(C)** $5\ \mathrm{m/s^2}$ Occidente
+- **(D)** $10\ \mathrm{m/s^2}$ Est
+- **(E)** $10\ \mathrm{m/s^2}$ Occidente
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fGPi5j_LaEL_waft6JtShz1PLKnbumtC/view)
 
@@ -582,7 +582,7 @@ Three identical blocks of mass $m$ are stacked vertically. Block 1 is on top and
 
 Tre blocchi identici di massa $m$ sono impilati verticalmente. Il blocco 1 è in cima e si riposa sul blocco 2, che si riposa sul blocco 3, che si riposa su un tavolo. Qual è la forza di rete che agisce sul blocco 1? Il peso dei 3 blocchi è misurato a $3\ \mathrm{N}$.
 
-- **(A) ** Zero.
+- **(A)** Zero.
 - **(B)** $1/3\ \mathrm{N}$.
 - **(C)** $1\ \mathrm{N}$.
 - **(D)** $2\ \mathrm{N}$.
@@ -627,11 +627,11 @@ La figura seguente è una schiuma di stiro sferica di raggio $R$. Nella sfera vi
 
 ![[HKPhO_2014_p8_f1.png]]
 
-- **(A) ** $R/2$ verso l'alto dal centro della sfera di scopa di stiro.
-- **(B) ** $R/3$ verso l'alto dal centro della sfera di stifola.
-- **(C) ** $R/4$ verso l'alto dal centro della sfera di scopa di stiro.
-- **(D) ** $R/5$ verso l'alto dal centro della sfera di stifola.
-- **(E) ** $R/6$ verso l'alto dal centro della sfera di stifola.
+- **(A)** $R/2$ verso l'alto dal centro della sfera di scopa di stiro.
+- **(B)** $R/3$ verso l'alto dal centro della sfera di stifola.
+- **(C)** $R/4$ verso l'alto dal centro della sfera di scopa di stiro.
+- **(D)** $R/5$ verso l'alto dal centro della sfera di stifola.
+- **(E)** $R/6$ verso l'alto dal centro della sfera di stifola.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fGPi5j_LaEL_waft6JtShz1PLKnbumtC/view)
 
@@ -668,11 +668,11 @@ What is the potential energy for a tide cycle per square meter of ocean surface,
 
 Qual è l'energia potenziale per un ciclo di marea per metro quadrato di superficie oceanica, se la differenza di livello dell'acqua di marea tra una marea alta e una bassa è $h$ (in metro)?
 
-- **(A) ** $1.0\,h^2$ Watt-ora.
-- **(B) ** $1.2\,h^2$ Watt-ora.
-- **(C) ** $1.4\,h^2$ Watt-ora.
-- **(D) ** $1.6\,h^2$ Watt-ora.
-- **(E) ** $1.8\,h^2$ Watt-ora.
+- **(A)** $1.0\,h^2$ Watt-ora.
+- **(B)** $1.2\,h^2$ Watt-ora.
+- **(C)** $1.4\,h^2$ Watt-ora.
+- **(D)** $1.6\,h^2$ Watt-ora.
+- **(E)** $1.8\,h^2$ Watt-ora.
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fGPi5j_LaEL_waft6JtShz1PLKnbumtC/view)
 
@@ -791,11 +791,11 @@ In comparison of a pendulum with large-angle oscillations (period $T_L$ and magn
 
 Nel confronto di un pendolo con oscillazioni ad angolo ampio (periodo $T_L$ e magnitudo $A_L$, tensione massima nella corda $F_L$) con un pendolo con oscillazioni ad angolo piccolo (periodo $T_S$ e amplitudine $A_S$, tensione massima nella corda $F_S$), quale delle seguenti è vero?
 
-- **(A) ** $T_L > T_S$ e $F_L < F_S$.
-- **(B) ** $T_L < T_S$ e $F_L > F_S$.
-- **(C) ** $T_L > T_S$ e $F_L > F_S$.
-- **(D) ** $T_L < T_S$ e $F_L < F_S$.
-- **(E) ** $T_L = T_S$ e $F_L = F_S$.
+- **(A)** $T_L > T_S$ e $F_L < F_S$.
+- **(B)** $T_L < T_S$ e $F_L > F_S$.
+- **(C)** $T_L > T_S$ e $F_L > F_S$.
+- **(D)** $T_L < T_S$ e $F_L < F_S$.
+- **(E)** $T_L = T_S$ e $F_L = F_S$.
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1fGPi5j_LaEL_waft6JtShz1PLKnbumtC/view)
 
@@ -840,11 +840,11 @@ La figura seguente è probabilmente un'intesa di
 
 ![[HKPhO_2014_p10_f1.png]]
 
-- **(A) ** quadrato del periodo orbitale di un pianeta contro il cubo dell'asse semimejor della sua orbita.
-- **(B) ** cubo del periodo orbitale di un pianeta contro il quadrato dell'asse semimejor della sua orbita.
-- **(C) ** gravità superficiale di un pianeta contro $(M/R^2)$, dove $M$ è la massa e $R$ è il raggio equatoriale di un pianeta.
-- **(D) ** gravità superficiale di un pianeta contro $(M^2/R)$, dove $M$ è la massa e $R$ è il raggio equatoriale di un pianeta.
-- **(E) ** distanza di un pianeta dal Centro Galattico nell'Unità Astronomica rispetto alla massa di un pianeta.
+- **(A)** quadrato del periodo orbitale di un pianeta contro il cubo dell'asse semimejor della sua orbita.
+- **(B)** cubo del periodo orbitale di un pianeta contro il quadrato dell'asse semimejor della sua orbita.
+- **(C)** gravità superficiale di un pianeta contro $(M/R^2)$, dove $M$ è la massa e $R$ è il raggio equatoriale di un pianeta.
+- **(D)** gravità superficiale di un pianeta contro $(M^2/R)$, dove $M$ è la massa e $R$ è il raggio equatoriale di un pianeta.
+- **(E)** distanza di un pianeta dal Centro Galattico nell'Unità Astronomica rispetto alla massa di un pianeta.
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1fGPi5j_LaEL_waft6JtShz1PLKnbumtC/view)
 

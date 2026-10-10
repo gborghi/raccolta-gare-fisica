@@ -363,10 +363,10 @@ Basandosi sulle leggi di Newton, quale diagramma rappresenta meglio la forza che
 
 Based on Newton's laws, which diagram best represents the force acting on the cart at point C of the roller coaster (circular area)?
 
-- **A ** [diagram a]
-- **B ** [diagram b]
+- **A** [diagram a]
+- **B** [diagram b]
 - **C.** [diagram c]
-- **D ** [diagram d]
+- **D** [diagram d]
 - **E.** [diagram and]
 
 <!--fig:start-->
@@ -839,11 +839,11 @@ Una fonte di calore ha una potenza costante di 30 cal/min. Prendiamo un corpo di
 
 Qual è l'energia assorbita dal corpo in calorie per 30 minuti?
 
-- **A ** 300 cal
+- **A** 300 cal
 - ** B ** 400 cal
-- **C ** 500 cal
+- **C** 500 cal
 - ** D ** 700 cal
-- **E ** 900 cal
+- **E** 900 cal
 
 <!--fig:start-->
 ![[_attachments/Prova_OBF2015_F1_Nivel_IIa/Prova_OBF2015_F1_Nivel_IIa_p5_f4.png]]
@@ -866,11 +866,11 @@ This is the first time that I've ever seen a man in a movie.
 
 What energy is the body absorbing in calories for 30 minutes?
 
-- **A ** 300 cal
+- **A** 300 cal
 - ** B ** 400 cal
-- **C ** 500 cal
+- **C** 500 cal
 - ** D ** 700 cal
-- **E ** 900 cal
+- **E** 900 cal
 
 <!--fig:start-->
 ![[_attachments/Prova_OBF2015_F1_Nivel_IIa/Prova_OBF2015_F1_Nivel_IIa_p5_f4.png]]
@@ -1292,7 +1292,7 @@ Considerate la formazione di immagini in uno specchio concavo. Un oggetto si tro
 
 Consider the formation of images in a concave mirror. An object is 20 cm from the mirror that has a radius of curvature of 60 cm. Which of the alternatives represents the correct characteristics of the image produced by the mirror?
 
-- **A ** Real, reversed and minor
+- **A** Real, reversed and minor
 - **B.** Real, right and equal
 - **C.** Improper
 - **D.** Virtual, inverted and larger

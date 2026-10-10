@@ -444,10 +444,10 @@ Question seven.
 The three resistors, A, B and C, of the circuit
 The resistance shown in the figure is the same. The power dissipation in resistors A and B shall be $P_A$ and $P_B$ respectively. When closing
 the key S, it is correct to state that:
-- **A ** $P_A$ decreases, $P_B$ decreases.
-- **B ** $P_A$ increases, $P_B$ increases.
-- **C ** $P_A$ increases, $P_B$ decreases and $P_A + P_B$ decreases.
-- **D ** $P_A$ increases, $P_B$ decreases and $P_A + P_B$ increases.
+- **A** $P_A$ decreases, $P_B$ decreases.
+- **B** $P_A$ increases, $P_B$ increases.
+- **C** $P_A$ increases, $P_B$ decreases and $P_A + P_B$ decreases.
+- **D** $P_A$ increases, $P_B$ decreases and $P_A + P_B$ increases.
 - **E.** $P_A$ decreases, $P_B$ increases and $P_A + P_B$ remains constant.
 
 **Topic:** [[Circuits]]
@@ -548,7 +548,7 @@ Quando un corrente continua percorre una mola elicida, il campo magnetico genera
 la preponderanza combinata di queste interazioni tra le spirali produce:
 - **A** contrazione della mola.
 - **B.** allungamento della mola.
-- **C ** riscaldamento della mola.
+- **C** riscaldamento della mola.
 - **D.** rotazione della molla in direzione dell'elicoidale.
 - **E.** rotazione della mola nella direzione opposta a quella dell'elicoidale.
 
@@ -564,8 +564,8 @@ Question nine.
 When a continuous current travels through a helicoidal spring, the magnetic field generated in a spindle interacts with the currents present in the adjacent spindles. The effect
 The combined predominant of these interactions between the spindles produces:
 - **A** shrinkage of the spring.
-- **B ** lengthening of the spring.
-- **C ** heating of the spring.
+- **B** lengthening of the spring.
+- **C** heating of the spring.
 - **D.** rotation of the spring in the direction of the helicoidal.
 - **E.** rotation of the spring in the opposite direction to that of the helicoidal spring.
 
@@ -845,9 +845,9 @@ Le frecce sono state sovrapposte. Quali delle frecce indicano:
 Approximativamente, la direzione verticale e sopra il
 ambiente in cui le foto sono state scattate?
 - **A** solo 2 e 4.
-- **B ** solo 2 e 5.
+- **B** solo 2 e 5.
 - **C.** solo 3 e 4.
-- **D ** solo 12 e 3.
+- **D** solo 12 e 3.
 - **E.** solo 1, 3 e 4.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
@@ -868,10 +868,10 @@ They've overlaid arrows. Which arrows indicate,
 approximately the vertical direction and up the
 the environment in which the photos were taken?
 - **A** only 2 and 4.
-- **B ** only 2 and 5.
+- **B** only 2 and 5.
 - **C** only 3 and 4.
 - **D** only 12 and 3.
-- **E ** only 1, 3 and 4.
+- **E** only 1, 3 and 4.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -1071,8 +1071,8 @@ configurazione mostrata nella figura. L'insieme viene attentamente portato in un
 de $300\ ^\circ\text{C}$.
 Considerando che la dilatazione della ceramica è scarsa rispetto a quella del metallo, è corretto affermare che
 sulla variazione delle distanze $d_1$ e $d_2$:
-- **A ** entrambi aumentano.
-- **B ** entrambi diminuiscono.
+- **A** entrambi aumentano.
+- **B** entrambi diminuiscono.
 - **C.** entrambi rimangono costanti.
 - **D.** $d_1$ aumenta e $d_2$ diminuisce.
 - **E.** $d_1$ diminuisce e $d_2$ aumenta.
@@ -1095,8 +1095,8 @@ on the variation of distances $d_1$ and $d_2$:
 - MSK1/>A** both increase.
 - MSK0/>B** both decrease.
 - **C.** both remain constant.
-- **D ** $d_1$ increases and $d_2$ decreases.
-- **E ** $d_1$ decreases and $d_2$ increases.
+- **D** $d_1$ increases and $d_2$ decreases.
+- **E** $d_1$ decreases and $d_2$ increases.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1139,7 +1139,7 @@ di lei. Considerare che il frenaggio produce un'accelerazione di intensità cost
 Per quanto riguarda l'istante di inizio del frenaggio, è corretto affermare, approssimativamente, che:
 - Dopo 1,5 secondi la macchina si è fermata.
 - Dopo 2,0 secondi la macchina si incontra sull'albero.
-- **C ** dopo 2,0 secondi la macchina, con una velocità di 10 m/s, si schianta contro l'albero.
+- **C** dopo 2,0 secondi la macchina, con una velocità di 10 m/s, si schianta contro l'albero.
 - Dopo 4,0 secondi la macchina si è fermata.
 - Dopo 6,0 secondi la macchina si è fermata.
 
@@ -1308,7 +1308,7 @@ the ratio to the starting balance position
 the time value $t$.
 About the movement of the body is correct
 to state that
-- **A ** the initial phase is zero.
+- **A** the initial phase is zero.
 - **B.** the period is approximately 5 s.
 - **C.** frequency is approximately 0.4 s.
 - **D.** the width is approximately 2 cm.
@@ -1379,8 +1379,8 @@ the fish is seen at a horizontal distance $d$ from the edge.
 The actual horizontal distance from the fish to the edge is $d_o$,
 it is correct to state that:
 - **A** $d_o > d$ due to the refraction of light from the fish.
-- **B ** $d_o < d$ due to refraction of light from the fish.
-- **C ** $d_o < d$, due to the refraction of sunlight.
+- **B** $d_o < d$ due to refraction of light from the fish.
+- **C** $d_o < d$, due to the refraction of sunlight.
 - **D** $d_o > d$, due to the refraction of sunlight.
 - **E.** $d_o = d$, as the refraction only affects the vertical distance (apparent depth).
 

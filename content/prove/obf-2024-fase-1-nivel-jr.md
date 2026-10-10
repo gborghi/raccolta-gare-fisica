@@ -401,11 +401,11 @@ Queensland
 l'alloggio in fondo al recipiente e l'effettivo inizio dell'esperimento potrebbe essere molto inferiore
 che tre anni.
 Le affermazioni vere sono:
-- **A ** tutti
+- **A** tutti
 - **B.** solo 1 e 2
 - **C.** solo 1 e 3
-- **D ** solo 2 e 3
-- **E ** nessuna
+- **D** solo 2 e 3
+- **E** nessuna
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -622,9 +622,9 @@ e poi la plastica e ha la sensazione che quella metallica sia più fredda. Poi s
 mette un cubo di ghiaccio di massa uguale e osserva che il ghiaccio si scioglie più rapidamente nella
 - Una targa di metallo. Si tratta di $T_m$ e $T_p$, rispettivamente, delle temperature iniziali delle lastre metalliche
 e della plastica, possiamo affermare che:
-- **A ** $T_m = T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
+- **A** $T_m = T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
 - **B.** $T_m = T_p$ e o plástico é melhor condutor de calor que o metal.
-- **C ** $T_m < T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
+- **C** $T_m < T_p$ e il metallo è un migliore conduttore di calore rispetto al plastica.
 - **D.** $T_m < T_p$ e o plástico é melhor condutor de calor que o metal.
 - **E.** $T_m > T_p$ e o metal é melhor condutor de calor que o plástico.
 
@@ -643,11 +643,11 @@ And then the plastic one, and you get the feeling that the metal one is colder. 
 Put a cube of ice of the same mass and notice that the ice melts faster in the
 metal plate. The initial temperatures of the metal plates are $T_m$ and $T_p$ respectively
 And plastic, we can say that:
-- **A ** $T_m = T_p$ and metal is a better heat conductor than plastic.
+- **A** $T_m = T_p$ and metal is a better heat conductor than plastic.
 - MSK1/>B ** $T_m = T_p$ and plastic is better conductor of heat than metal.
-- **C ** $T_m < T_p$ and metal is better conductor of heat than plastic.
+- **C** $T_m < T_p$ and metal is better conductor of heat than plastic.
 - MSK1/>D ** $T_m < T_p$ and plastic is better conductor of heat than metal.
-- **E ** $T_m > T_p$ and metal is better conductor of heat than plastic.
+- **E** $T_m > T_p$ and metal is better conductor of heat than plastic.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -726,7 +726,7 @@ the following assertions on the situation described.
 3. Water gave off heat to melt the ice.
 The true assertions are:
 - **A** only 1;
-- **B ** only 2;
+- **B** only 2;
 - **C.** only 1 and 3;
 - **D** only 2 and 3;
 - All of them.
@@ -792,8 +792,8 @@ Figure is fixed.
 Identify the gears that
 rotate in the same direction (clockwise or counterclockwise)
 the gear C.
-- **A ** only B and D.
-- **B ** only A and E.
+- **A** only B and D.
+- **B** only A and E.
 - **C.** only A, E and G.
 - ** D ** only B, D and F.
 - **E.** only A, E, F and G.
@@ -947,9 +947,9 @@ the situation described and the following statements:
 2. The dry ice in contact with the water is sublimating.
 3. Sublimation of dry ice is an exothermic process that makes water boil.
 The true affirmations are:
-- **A ** only 1;
-- **B ** only 2;
-- **C ** only 3;
+- **A** only 1;
+- **B** only 2;
+- **C** only 3;
 - **D.** 1 e 2;
 - **E.** 2 e 3.
 
@@ -1018,7 +1018,7 @@ As
 Units of mass and energy in the International System (SI)
 are respectively:
 - **A** gram (g) and calorie (cal)
-- **B ** gram (g) and joule (J)
+- **B** gram (g) and joule (J)
 - **C.** kg and calories (cal)
 - ** D** kg and joule (J)
 - ** kg and kilojoule (kJ)
@@ -1071,9 +1071,9 @@ Le frecce sono state sovrapposte. Quali delle frecce indicano:
 Approximativamente, la direzione verticale e sopra il
 ambiente in cui le foto sono state scattate?
 - **A** solo 2 e 4.
-- **B ** solo 2 e 5.
+- **B** solo 2 e 5.
 - **C.** solo 3 e 4.
-- **D ** solo 12 e 3.
+- **D** solo 12 e 3.
 - **E.** solo 1, 3 e 4.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -1094,10 +1094,10 @@ They've overlaid arrows. Which arrows indicate,
 approximately the vertical direction and up the
 the environment in which the photos were taken?
 - **A** only 2 and 4.
-- **B ** only 2 and 5.
+- **B** only 2 and 5.
 - **C** only 3 and 4.
 - **D** only 12 and 3.
-- **E ** only 1, 3 and 4.
+- **E** only 1, 3 and 4.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]

@@ -719,7 +719,7 @@ I concetti scientifici. Tra questi, è comune avere idee intuitive o aristotelic
 Relato agli atti di spinta, sollevamento o tiratura. Quindi possiamo capire che un carro
 tirata da quattro cavalli andrà più veloce di una stessa carrozza tirata da due cavalli.
 Quindi la nostra intuizione ci dice che la forza applicata è una funzione di (do):
-- **A ** tempo;
+- **A** tempo;
 - **B.** velocità;
 - **C.** accelerazione; d) variazione del tempo;
 - massa ** E ** massa.

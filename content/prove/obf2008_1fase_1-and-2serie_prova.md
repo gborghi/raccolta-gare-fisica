@@ -344,7 +344,7 @@ They're the same.
 04) Consider a point on the earth's surface that is not located either at the equator or on the
 rotation of the Earth. Only because of the earth's rotation can it be said that it is subjected to
 at an acceleration:
-- **A ** zero, because the angular velocity of the Earth is constant.
+- **A** zero, because the angular velocity of the Earth is constant.
 - **B.** tangente à superfície da Terra, mas que não passa pelo eixo terrestre.
 - **C.** voltada para o centro da Terra.
 - **D** perpendicular to the axis of rotation of the Earth.
@@ -371,7 +371,7 @@ the distance between their application points.
 Is it correct to say:
 - **A** II only.
 - ** B ** I only.
-- **C ** I and III only.
+- **C** I and III only.
 - **D.** II e III apenas.
 - **E.** II e IV apenas.
 07) The gravitational field on the surface of Mars is approximately equal to one third of the field
@@ -430,9 +430,9 @@ the point at which the pressure is to be increased. This will increase the hydro
 The suggestions given are correct:
 - **A.** todas elas.
 - **B.** only I, and II
-- **C ** only the III.
+- **C** only the III.
 - ** D** only II and III.
-- **E ** only the II.
+- **E** only the II.
 12) A balloon is designed to be filled with helium gas to carry a person. A
 mass of the balloon material, accommodation structure, individual and equipment to be carried,
 The total volume of gas will be 200 kg and its volumes will be considered irrelevant to the volume of gas contained in the

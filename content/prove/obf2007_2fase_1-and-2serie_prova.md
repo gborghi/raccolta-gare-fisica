@@ -539,7 +539,7 @@ si trova a riposo in un lago di acque ferme. In un determinato
 In questo momento, si muove a velocità v da un'estremità della barca all'altra.
 Scommetto gli effetti dissipatori,
 Qual è la velocità della barca rispetto al margine?
-- **B ** Se la barca fosse trasformata in una nave, quale sarebbe la velocità di
+- **B** Se la barca fosse trasformata in una nave, quale sarebbe la velocità di
 - Una nave?
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
@@ -555,7 +555,7 @@ He finds himself resting in a lake of still water. In a particular
 moment he's moving at v speed from one end of the boat to the other.
 Disregarding the dissipative effects,
 - What will the speed of the boat be in relation to the shore?
-- **B ** If the boat were to be converted into a ship, what would be the speed of the
+- **B** If the boat were to be converted into a ship, what would be the speed of the
 ship?
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]

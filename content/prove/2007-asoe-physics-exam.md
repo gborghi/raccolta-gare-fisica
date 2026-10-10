@@ -228,7 +228,7 @@ Domanda 4.
 Un autobus grande e una piccola auto si scontrano e si attaccano. Qual è il cambiamento più grande in
 - Impulso?
 
-- **A ** L'auto.
+- **A** L'auto.
 - **B.** L'autobus.
 - **C.** Il cambiamento di impulso è lo stesso per entrambi i veicoli.
 - **D.** Non si può dire senza conoscere la velocità finale delle masse combinate.
@@ -380,7 +380,7 @@ II. una forza diretta verso il ragazzo al centro del cerchio
 III. Il una forza nella direzione del movimento della palla
 IV. una forza diretta verso l'esterno lontano dal ragazzo al centro del cerchio
 Quale delle forze sopra indicate agisce sulla palla?
-- **A ** Solo io.
+- **A** Solo io.
 - **B.** I e II.
 - **C.** I e III.
 - **D.** I, II e III.

@@ -159,17 +159,17 @@ Una turbina eolica, o aerogeneratore, è in grado di convertire l'energia cineti
 - **E.** 15 m/s
 
 17. Il generatore elettrico di una turbina eolica deve funzionare a alte velocità. Molti aerogeneratori hanno quindi installato sul corpo un sistema di ingranaggi per moltiplicare la velocità dell'asse del rotore. Questo sistema viene posizionato nella cassetta dei guanti. La figura mostra un sistema di trasmissione semplice. Per raddoppiare la velocità dell'asse del generatore dobbiamo:
-- **A ** collegare l'asse del rotore a A e l'asse del generatore a B con il raggio A doppio del raggio B.
+- **A** collegare l'asse del rotore a A e l'asse del generatore a B con il raggio A doppio del raggio B.
 - **B.** collegare l'asse del rotore in B e l'asse del generatore in A con il raggio A doppio del raggio B.
 - **C.** collegare l'asse del rotore in A e l'asse del generatore in B con il raggio B quadruplo del raggio A.
-- **D ** collegare l'asse del rotore a B e l'asse del generatore a A con il raggio di B quadruplo del raggio di A.
+- **D** collegare l'asse del rotore a B e l'asse del generatore a A con il raggio di B quadruplo del raggio di A.
 - **E.** necessariamente utilizzare tre ingranaggi
 
 18. Supponiamo che il cambio A abbia un'accelerazione angolare costante di $4\ \text{rad/s}^2$ e il triplo del raggio del cambio B. Se il cambio B è inizialmente in rotazione a 20 rad/s, determinare la velocità angolare del cambio B dopo 2 secondi.
 - **A.** 44,0 rad/s
 - **B.** 48,3 rad/s
-- **C ** 32,0 rad/s
-- **D ** 24,0 rad/s
+- **C** 32,0 rad/s
+- **D** 24,0 rad/s
 - **E.** 5,7 rad/s
 
 19. Supponendo che la turbina eolica del testo sia in grado di produrre 6000 J di energia elettrica, qual è l'energia cinetica delle particelle d'aria che entrano nella regione frontale delle elicette?
@@ -249,18 +249,18 @@ A wind turbine, or wind generator, is capable of converting the kinetic energy o
 - **E.** 15 m/s
 
 17. The electrical generator of a wind turbine must operate at high speeds. Thus, many wind turbines have a gear system installed on their body to multiply the speed of the rotor axis. That system is positioned in the gearbox. The figure shows a simple transmission system. To double the speed of the generator shaft we must:
-- **A ** connect the rotor axis at A and the generator axis at B with radius A twice the radius B.
-- **B ** connect the rotor axis in B and the generator axis in A with radius A twice the radius of B.
-- **C ** connect the rotor axis at A and the generator axis at B with the radius of B four times the radius of A.
-- **D ** connect the rotor axis at B and the generator axis at A with the radius of B four times the radius of A.
+- **A** connect the rotor axis at A and the generator axis at B with radius A twice the radius B.
+- **B** connect the rotor axis in B and the generator axis in A with radius A twice the radius of B.
+- **C** connect the rotor axis at A and the generator axis at B with the radius of B four times the radius of A.
+- **D** connect the rotor axis at B and the generator axis at A with the radius of B four times the radius of A.
 - **E.** necessarily use three gears
 
 18. Suppose gear A has a constant angular acceleration of $4\ \text{rad/s}^2$ and is triple the radius of gear B. If the gear B is initially rotating at 20 rad/s, determine the angular speed of the gear B after 2 s.
-- **A ** 44,0 rad/s
-- **B ** 48,3 rad/s
-- **C ** 32,0 rad/s
+- **A** 44,0 rad/s
+- **B** 48,3 rad/s
+- **C** 32,0 rad/s
 - ** D ** 24,0 rad/s
-- **E ** 5,7 rad/s
+- **E** 5,7 rad/s
 
 19. Assuming the wind turbine in the text is capable of producing 6000 J of electrical energy, what is the kinetic energy of the air particles entering the frontal region of the propeller?
 - **A.** 60 kJ

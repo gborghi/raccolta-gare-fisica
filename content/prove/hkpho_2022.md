@@ -40,11 +40,11 @@ Come mostrato di seguito, Bob usa la corda attraverso una polla fissa per sposta
 
 ![[_attachments/HKPhO_2022/HKPhO_2022_p1_f1.png]]
 
-- **(A) ** La forza sulla corda è costante.
-- **(B) ** L'entità della frizione tra il terreno e la scatola sta diminuendo.
-- **(C) ** L'entità della forza normale del terreno sulla scatola è in aumento.
-- **(D) ** La pressione della scatola sul terreno aumenta.
-- **(E) ** La pressione della scatola sul terreno è costante.
+- **(A)** La forza sulla corda è costante.
+- **(B)** L'entità della frizione tra il terreno e la scatola sta diminuendo.
+- **(C)** L'entità della forza normale del terreno sulla scatola è in aumento.
+- **(D)** La pressione della scatola sul terreno aumenta.
+- **(E)** La pressione della scatola sul terreno è costante.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -110,11 +110,11 @@ A basketball is dropped from the height and bounces on the ground. Considering o
 
 Una pallacanestro viene abbassata dall'altezza e rimbalza sul terreno. Considerando solo la palla appena prima e subito dopo il rimbalzo, quale delle seguenti affermazioni deve essere vera?
 
-- **(A) ** Il momento e l'energia meccanica totale della palla sono conservati.
-- **(B) ** L'impulso della palla è conservato, ma non l'energia cinetica.
-- **(C) ** L'energia meccanica totale della palla è conservata, ma non l'impulso.
-- **(D) ** L'energia cinetica della palla è conservata, ma non l'impulso.
-- **(E) ** L'impulso della palla non è conservato.
+- **(A)** Il momento e l'energia meccanica totale della palla sono conservati.
+- **(B)** L'impulso della palla è conservato, ma non l'energia cinetica.
+- **(C)** L'energia meccanica totale della palla è conservata, ma non l'impulso.
+- **(D)** L'energia cinetica della palla è conservata, ma non l'impulso.
+- **(E)** L'impulso della palla non è conservato.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Conservation of Momentum]]
@@ -290,11 +290,11 @@ A projectile is launched at an angle of $25.0^\circ$ from the horizontal. Is the
 
 Un proiettile viene lanciato ad un angolo di $25.0^\circ$ dall'orizzontale. C'è un punto sulla traiettoria dove la velocità $\vec{v}$ e l'accelerazione $\vec{a}$ sono parallele tra loro? Se sì, dove?
 
-- **(A) ** Un istante prima dell'impatto sul terreno.
-- **(B) ** Al punto più alto.
-- **(C) ** Non sono mai parallele.
-- **(D) ** Un istante dopo il lancio.
-- **(E) ** Da qualche parte nel mezzo quando il proiettile sta scendendo.
+- **(A)** Un istante prima dell'impatto sul terreno.
+- **(B)** Al punto più alto.
+- **(C)** Non sono mai parallele.
+- **(D)** Un istante dopo il lancio.
+- **(E)** Da qualche parte nel mezzo quando il proiettile sta scendendo.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -330,10 +330,10 @@ A cannon car can fire a cannonball in any direction at a fixed speed $u$ with re
 Un'auto con cannoni può sparare una palla di cannone in qualsiasi direzione a una velocità fissa $u$ rispetto a se stessa. Ora la carrozza, inizialmente in riposo, può muoversi verso nord sparando due palline di cannone per spingere se stessa. Ignora tutte le frizioni. Quale delle seguenti situazioni darà alla macchina del cannone la massima velocità dopo aver sparato le due palline?
 
 - Scaricate entrambi i cannoni orizzontalmente verso sud allo stesso tempo.
-- **(B) ** Sparare una palla di cannone orizzontalmente verso sud, quindi aspettare per 5 secondi e sparare un altro verso sud di nuovo.
-- **(C) ** Sparare una palla di cannone a $45^\circ$ al suolo verso sud, quindi aspettare per 5 secondi e sparare un altro verso sud di nuovo.
-- **(D) ** Sparate una palla di cannone orizzontalmente verso sud-ovest e un'altra verso sud-est allo stesso tempo.
-- **(E) ** Entrambi A e B danno alla macchina la stessa velocità.
+- **(B)** Sparare una palla di cannone orizzontalmente verso sud, quindi aspettare per 5 secondi e sparare un altro verso sud di nuovo.
+- **(C)** Sparare una palla di cannone a $45^\circ$ al suolo verso sud, quindi aspettare per 5 secondi e sparare un altro verso sud di nuovo.
+- **(D)** Sparate una palla di cannone orizzontalmente verso sud-ovest e un'altra verso sud-est allo stesso tempo.
+- **(E)** Entrambi A e B danno alla macchina la stessa velocità.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Conservation of Momentum]]
@@ -392,11 +392,11 @@ II. Per salire 2 metri, il lavoro svolto dal ragazzo nel caso A è inferiore al 
 
 III. Il La tensione sulla corda in entrambi i casi è la stessa.
 
-- **(A) ** I solo
-- **(B) ** I e II solo
-- solo **(C) ** II e III
-- **(D) ** I, II e III
-- **(E) ** Nessuno di essi
+- **(A)** I solo
+- **(B)** I e II solo
+- solo **(C)** II e III
+- **(D)** I, II e III
+- **(E)** Nessuno di essi
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Conservation of Energy]]
@@ -560,7 +560,7 @@ Una scala uniforme di 15 kg, di 2,5 m di lunghezza, è posta in riposo all'angol
 - **(B)** 42.4 N
 - **(C)** 84.9 N
 - **(D)** 127.3 N
-- **(E) ** Nessuna delle seguenti:
+- **(E)** Nessuna delle seguenti:
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Rigid Body Statics]]
@@ -599,7 +599,7 @@ Anche se un fotone non ha massa, porta un momento $p$ lungo la sua direzione di 
 - **(B)** $2E/\sqrt{A}$
 - **(C)** $pnA$
 - **(D)** $2pnA$
-- **(E) ** Nessuna delle seguenti:
+- **(E)** Nessuna delle seguenti:
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Modern-Quantum Physics]]
@@ -1064,11 +1064,11 @@ III. Il $\vec{a}_A = 3\hat{\imath} - \hat{\jmath}, \quad \vec{a}_B = -6\hat{\ima
 
 IV. $\vec{a}_A = 2\hat{\imath} - 2\hat{\jmath}, \quad \vec{a}_B = -3\hat{\imath} + 3\hat{\jmath}$
 
-- solo **(A) ** III
-- solo **(B) ** IV
-- solo **(C) ** III e IV
-- **(D) ** solo II, III e IV
-- **(E) ** I, II, III e IV
+- solo **(A)** III
+- solo **(B)** IV
+- solo **(C)** III e IV
+- **(D)** solo II, III e IV
+- **(E)** I, II, III e IV
 
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Conservation of Momentum]]
@@ -1119,11 +1119,11 @@ III. Il $0$
 
 IV. $A/2$
 
-- **(A) ** I solo
-- **(B) ** II solo
-- solo **(C) ** IV
+- **(A)** I solo
+- **(B)** II solo
+- solo **(C)** IV
 - **(D)** I or IV
-- **(E) ** II o III
+- **(E)** II o III
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1aZM3O769F8j80mJzjgu7BM5a3ly91fNc/view)
 **Topic:** [[Oscillations & Waves]]

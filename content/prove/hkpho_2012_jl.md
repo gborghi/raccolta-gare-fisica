@@ -40,10 +40,10 @@ As shown in Fig. 1, a boy is riding on a bus. The bus moves with a uniform speed
 
 Come mostrato nella figura. Uno, un ragazzo è in autobus. L'autobus si muove con una velocità uniforme di $20\ \mathrm{km/h}$ in un cerchio orizzontale e il semaforo si trova al centro del cerchio. Qual è la velocità del semaforo rispetto al ragazzo?
 
-- **(A) ** $20\ \mathrm{km/h}$ nella direzione anteriore dell'autobus
-- **(B) ** $20\ \mathrm{km/h}$ nella direzione anteriore dell'autobus
-- **(C) ** $20\ \mathrm{km/h}$ perpendicolare alla direzione in avanti dell'autobus e diretto lontano dall'autobus
-- **(D) ** $20\ \mathrm{km/h}$ perpendicolare alla direzione in avanti dell'autobus e diretta verso l'autobus
+- **(A)** $20\ \mathrm{km/h}$ nella direzione anteriore dell'autobus
+- **(B)** $20\ \mathrm{km/h}$ nella direzione anteriore dell'autobus
+- **(C)** $20\ \mathrm{km/h}$ perpendicolare alla direzione in avanti dell'autobus e diretto lontano dall'autobus
+- **(D)** $20\ \mathrm{km/h}$ perpendicolare alla direzione in avanti dell'autobus e diretta verso l'autobus
 - **(E)** $0\ \mathrm{km/h}$
 
 > [figura] Figura 1
@@ -84,11 +84,11 @@ A tennis ball machine is installed on the bus in Fig. 1. It projects tennis ball
 
 Un'apparecchiatura per pallone da tennis è installata sull'autobus a Fig. 1. Proietta palline da tennis a velocità $100\ \mathrm{km/h}$ in direzione perpendicolare alla direzione in avanti dell'autobus e sul lato esterno del percorso circolare. Le traiettorie delle palle da tennis osservate dal ragazzo sono:
 
-- **(A) ** linee rette perpendicolari alla direzione in avanti dell'autobus
-- **(B) ** linee rette leggermente inclinate verso la direzione in avanti dell'autobus
-- **(C) ** linee rette leggermente inclinate verso l'indietro dell'autobus
-- **(D) ** curve leggermente inclinate verso la direzione in avanti dell'autobus
-- **(E) ** curve leggermente inclinate verso l'indietro del bus
+- **(A)** linee rette perpendicolari alla direzione in avanti dell'autobus
+- **(B)** linee rette leggermente inclinate verso la direzione in avanti dell'autobus
+- **(C)** linee rette leggermente inclinate verso l'indietro dell'autobus
+- **(D)** curve leggermente inclinate verso la direzione in avanti dell'autobus
+- **(E)** curve leggermente inclinate verso l'indietro del bus
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -125,11 +125,11 @@ A man sits in the back of a canoe in still water. He then moves to the front of 
 
 Un uomo siede sul retro di una canoa in acqua ferma. Poi si sposta verso la parte anteriore della canoa e si siede lì. Nonostante l'ammortizzazione dell'acqua, la posizione finale e il movimento della canoa sono:
 
-- **(A) ** avanti della sua posizione iniziale e in avanti
-- **(B) ** avanti della sua posizione originaria e in ritardo
-- **(C) ** verso l'indietro della sua posizione iniziale e in avanti
-- **(D) ** verso l'indietro della sua posizione originaria e in ritardo
-- **(E) ** verso l'indietro della sua posizione originale e non si muove
+- **(A)** avanti della sua posizione iniziale e in avanti
+- **(B)** avanti della sua posizione originaria e in ritardo
+- **(C)** verso l'indietro della sua posizione iniziale e in avanti
+- **(D)** verso l'indietro della sua posizione originaria e in ritardo
+- **(E)** verso l'indietro della sua posizione originale e non si muove
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 

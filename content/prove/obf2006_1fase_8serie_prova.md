@@ -42,10 +42,10 @@ Qual é a fonte de energia primária mais abundante na Terra?
 camminare, riscaldare l'acqua, accendere una lampada e illuminare la nostra stanza, proviene
 basicamente da una fonte primaria che subisce varie trasformazioni fino a quando non la utilizziamo.
 Qual è la fonte di energia primaria più abbondante sulla Terra?
-- **A ** Energia elettrica.
+- **A** Energia elettrica.
 - B. Energia solare.
-- **C ** Energia eolica.
-- **D ** Energia meccanica.
+- **C** Energia eolica.
+- **D** Energia meccanica.
 - **E.** Nessuna delle alternative precedenti.
 
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]
@@ -62,7 +62,7 @@ basically from a primary source that undergoes several transformations until we 
 What is the most abundant primary energy source on Earth?
 - A. Electrical power.
 - The energy efficiency of the system shall be determined by the following criteria:
-- **C ** Wind power.
+- **C** Wind power.
 - Mechanical energy.
 - **E.** None of the above alternatives.
 
@@ -105,9 +105,9 @@ direta de qual forma de energia citada abaixo:
 Generatori elettrici che si trovano nella parte inferiore del diga del
 - Il serbatoio. Quindi l'energia elettrica prodotta dalla centrale viene ottenuta attraverso la trasformazione
 di quale forma di energia si tratta:
-- **A ** Termica.
+- **A** Termica.
 - **B.** Meccanica.
-- **C ** Solari.
+- **C** Solari.
 - D. Chimica.
 - **E.** nessuna delle alternative precedenti.
 
@@ -201,8 +201,8 @@ IV - lightning.
 O) a phenomenon (s) directly related to the position of the Moon relative to the Earth is
 (song):
 - **A.** I.
-- **B ** III.
-- **C ** I and III.
+- **B** III.
+- **C** I and III.
 - ** D** II and III.
 - **E.** I e IV.
 
@@ -241,7 +241,7 @@ igual ao peso do fluído deslocado por este corpo. Esta afirmação é conhecida
 pari al peso del fluido spostato da questo corpo. Questa affermazione è nota come:
 - Il principio di Bernoulli.
 - **B.** Principio della sovrapposizione.
-- **C ** Legge di Poiseuilli.
+- **C** Legge di Poiseuilli.
 - D. Principio di Pascal.
 - MSK1/E Principio di Archimede.
 
@@ -256,7 +256,7 @@ pari al peso del fluido spostato da questo corpo. Questa affermazione è nota co
 4) A body immersed in a fluid will suffer a force contrary to the force of weight and intensity
 equal to the weight of the fluid displaced by this body. This statement is known as:
 - The Bernoulli principle.
-- **B ** Principle of superposition.
+- **B** Principle of superposition.
 - The Poiseuilli Act.
 - The basic principle of Pascal.
 - The principle of Archimedes.
@@ -322,7 +322,7 @@ The heat transfer occurring in these phenomena is respectively:
 - **A** Convection, conduction, irradiation.
 - **B.** Convection, driving, driving.
 - **C.** Radiation, conduction, convection.
-- **D ** Conduct, irradiation, convection.
+- **D** Conduct, irradiation, convection.
 - **E.** Driving, driving, convection.
 
 **Topic:** [[Thermodynamics]]
@@ -420,7 +420,7 @@ Pode-se afirmar que, em módulo, a força que A exerce sobre B é:
 si posa su una superficie orizzontale.
 
 Si può affermare che, nel modulo, la forza che A esercita su B è:
-- **A ** Nulo.
+- **A** Nulo.
 - **B.** Più grande della forza che B esercita su A.
 - **C.** Minore della forza che B esercita su A.
 - **D.** Iguale alla forza che B esercita su A.
@@ -438,7 +438,7 @@ Non c'è forza tra i corpi.
 rests on a horizontal surface.
 
 It can be stated that in a module, the force A exerts on B is:
-- **A ** Null.
+- **A** Null.
 - **B.** Greater than the force B exerts on A.
 - **C.** Less than the force B exerts on A.
 - **D.** Equal to the force B exerts on A.
@@ -599,7 +599,7 @@ formazione delle stazioni durante l'anno.
 - **B.** solo l'affirmativo II è corretto.
 - **C.** solo l'affirmativo III è corretto
 - **D.** le affermazioni I e III sono corrette.
-- **E ** nessuna delle affermazioni è corretta.
+- **E** nessuna delle affermazioni è corretta.
 
 **Topic:** [[Astrophysics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -620,8 +620,8 @@ the formation of seasons throughout the year.
 - **A** only the affirmative I is correct.
 - **B.** only affirmative II is correct.
 - **C.** only affirmative III is correct
-- **D ** the affirmations I and III are correct.
-- **E ** none of the affirmations is correct.
+- **D** the affirmations I and III are correct.
+- **E** none of the affirmations is correct.
 
 **Topic:** [[Astrophysics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -832,8 +832,8 @@ duração das aulas neste dia no colégio foi:
 13) Le lezioni di un'università iniziano alle 7:30 ogni giorno. Un giorno o due
 Il mio orologio ha avuto un mal funzionamento e il segnale di fine è stato segnalato alle 1:15:20 di oggi. A
 durata delle lezioni di questo giorno al college era:
-- **A ** 6h 15min 20s.
-- **B ** 6h 45min 20s.
+- **A** 6h 15min 20s.
+- **B** 6h 45min 20s.
 - MSK1/C. Esattamente 6 ore.
 - D. 5h 45min 40s.
 - 5h 45min 20s.
@@ -904,11 +904,11 @@ se si tratta di un'incidenza, è corretto affermare che la forza che il carro es
 
 14) Consider the frontal collision between an automobile and a truck. At the time of
 In the event of a collision, it is correct to state that the force exerted by the carriage on the car is:
-- **A ** Greater than the force exerted by the car on the wagon and vice versa.
+- **A** Greater than the force exerted by the car on the wagon and vice versa.
 - **B.** Greater than the force exerted by the car on the wagon and in the same direction.
 - **C.** Equal to the force exerted by the car on the wagon and in the same direction.
 - **D.** Equal to the force exerted by the car on the wagon and vice versa.
-- **E ** Less than the force exerted by the car on the wagon and in the same direction.
+- **E** Less than the force exerted by the car on the wagon and in the same direction.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
@@ -1007,8 +1007,8 @@ Il numero di persone che si trovano in questo paese è di circa un milione di pe
 rappresenta il movimento del corpo descritto dall'equazione oraria precedente.
 - **A.** il corpo parte ($t=0$) dalla provenienza ($s=0$) del percorso.
 - **B.** la velocità media del corpo è di 4m/s.
-- **C ** in $t=2$s il corpo è a 8 m dall'origine.
-- **D ** in $t=4$s il corpo è a 16 m dall'origine.
+- **C** in $t=2$s il corpo è a 8 m dall'origine.
+- **D** in $t=4$s il corpo è a 16 m dall'origine.
 - **E.** tutte le alternative precedenti sono corrette.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -1148,7 +1148,7 @@ Indicare l'alternativa corretta rispetto all'interpretazione del grafico precede
 as described by the straights in the following graph:
 
 Please indicate the correct alternative to the interpretation of the previous chart.
-- **A ** Cyclists move in uniform motion.
+- **A** Cyclists move in uniform motion.
 - **B.** The two cyclists never meet during the journey.
 - **C.** The speed of cyclist B is higher than the speed of cyclist A.
 - **D.** The speed of cyclist A is less than the speed of cyclist B.

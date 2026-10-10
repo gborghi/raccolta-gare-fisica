@@ -173,10 +173,10 @@ Nel 1960 è apparso il primo laser, 44 anni dopo che Albert Einstein aveva previ
 La luce viaggia a una velocità di circa 300.000 km/s. Poiché le distanze astronomiche sono molto grandi, è spesso conveniente esprimerele in anno luce (lo spazio percorso dalla luce in un anno corrisponde approssimativamente a $9{,}5\times10^{12}$ km). Immaginate che un laser inviasse informazioni al sistema Alfa Centauri e percorrisse una distanza di $4{,}1\times10^{16}$ m.
 1. Basandosi sulle informazioni contenute nel testo, che informazione sarebbe stata data sul tempo impiegato per la luce a percorrere tale distanza in giorni circa?
 
-- **A ** $1{,}62\times10^3$ giorni
+- **A** $1{,}62\times10^3$ giorni
 - **B.** $2{,}47\times10^4$ giorni
 - **C.** $3{,}00\times10^5$ giorni
-- **D ** $5{,}00\times10^6$ giorni
+- **D** $5{,}00\times10^6$ giorni
 - **E.** $6{,}12\times10^7$ giorni
 
 Il testo seguente riguarda la questione 2

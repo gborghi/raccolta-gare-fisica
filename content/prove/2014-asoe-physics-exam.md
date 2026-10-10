@@ -413,9 +413,9 @@ Le posizioni di due corridori, Helen e Con, sono mostrate sotto. I corridori son
 0,20 secondi, e si muovono a destra.
 Quale delle seguenti affermazioni descrive meglio come le accelerazioni dei corridori sono correlate.
 - **A.** L'accelerazione di Con in maggiore dell'accelerazione di Helen.
-- ** B.** L'accelerazione di Helen è maggiore dell'accelerazione di Con.
+- **B.** L'accelerazione di Helen è maggiore dell'accelerazione di Con.
 - **C.** Le accelerazioni di Helen e Con sono uguali. Entrambe le accelerazioni sono uguali a zero.
-- ** D.** Le accelerazioni di Helen e Con sono uguali. Entrambe le accelerazioni sono superiori a zero.
+- **D.** Le accelerazioni di Helen e Con sono uguali. Entrambe le accelerazioni sono superiori a zero.
 - **E.** Non sono fornite informazioni sufficienti per rispondere alla domanda.
 
 **Topic:** [[Newtonian Mechanics]]

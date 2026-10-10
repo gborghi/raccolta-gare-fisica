@@ -1918,7 +1918,7 @@ a) Suggerisce un modo in cui McGyver potrebbe usare gli elementi a sua disposizi
 
 b) Determina, mediante calcoli espliciti, se McGyver riesce effettivamente a liberarsi usando il metodo che tu hai utilizzato. ha suggerito. Se necessario, includere qualsiasi ipotesi supplementare debitamente giustificata.
 
-**Dati: **
+**Dati:**
 
 - Costante dei gas: $R = 0{,}082\,\text{L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$
 - Calore specifico dell'elio a volume costante: $C_V = 0{,}75\,\text{cal}/(\text{g}\cdot\text{K})$
@@ -1953,7 +1953,7 @@ Un goccia aggiunge una goccia di mercurio ogni $2\,\text{s}$ nello spazio tra l'
 
 Supponendo che l'aria all'interno dell'inflatore si comporti come gas ideale e che la temperatura sia mantenuta costante, calcoli la dimensione massima della goccia in modo che il contatto non si chiuda prima che si transcorra $20\,000\,\text{s}$ (5 ore 33 min 20 s) dal momento in cui è stata depositata la prima goccia.
 
-**Dati: **
+**Dati:**
 
 - Accelerazione gravitatoria: $g = 9{,}80\,\text{m/s}^2$
 - $1\,\text{atm} = 760\,\text{mmHg}$
@@ -1996,7 +1996,7 @@ Calcola la altezza fino a cui è salito il pallone.
 
 e) Mentre era a metà strada, sul canale della Mancha, si verificò un guasto nel sistema di riscaldamento che produsse una diminuzione di $5\,\text{K}$ nella temperatura dell'aria del globo. A che altezza sarebbe scesa? L'agente deve aver fatto qualcosa per rimanere in aria?
 
-**Dati: **
+**Dati:**
 
 - $\delta_0 = 1{,}2256\,\text{kg/m}^3$ (densità dell'aria a $15\,^\circ\text{C}$ e a livello di terra)
 - $R = 8{,}314\,\text{J}/(\text{mol}\cdot\text{K})$
@@ -2037,7 +2037,7 @@ Supponiamo che il goccio di fine fine tubo (che è all'interno dell'ampolla) sia
 
 b) Calcolare la quantità minima di acqua che deve contenere la bottiglia per assicurare un'irrigazione giornaliera per 30 giorni.
 
-**Dati: **
+**Dati:**
 
 - Pressione di vapore di acqua satura a $10\,^\circ\text{C}$: $9{,}16\,\text{mmHg}$; idem a $25\,^\circ\text{C}$: $23{,}55\,\text{mmHg}$.
 - La pressione atmosferica è pari a $760\,\text{mmHg}$ o a $10{,}33\,\text{m}$ di colonna d'acqua.
@@ -2088,7 +2088,7 @@ f) Considerando il frattamento tra il pistone e il cilindro, determinare la gamm
 
 g) Supponiamo che la pressione del gas sia la massima pressione che permette di mantenere il carico a riposo. In queste condizioni la cavità del gas si sigilla perfettamente, chiudendo un volume pari a $1\,\text{L}$. Tenendo l'intero sistema a temperatura di lavoro costante, quanto può spostare l'embolo verso l'alto in modo che, quando viene rilasciato, il carico rimanga a riposo? Considera che il gas si comporta come un gas ideale.
 
-**Dati: **
+**Dati:**
 
 # Proprietà # Acciaio # Piombo #
 |---|---|---|
@@ -2134,7 +2134,7 @@ d) Quanto deve valere $L$ per far corrispondere la divisione corrispondente a $0
 
 e) In queste condizioni, fino a che temperatura può essere utilizzato il termometro?
 
-**Dati: **
+**Dati:**
 
 - $R = 8{,}31\,\text{J}/(\text{mol}\cdot\text{K})$
 - $P_0 = 1{,}013 \times 10^5\,\text{N/m}^2$
@@ -2174,7 +2174,7 @@ b) Se $H > h_s$, quale percentuale di aria, rispetto all'aria iniziale contenuta
 
 Per fare i calcoli senza assegnare valori numerici, sostituisci i dati seguenti per dare la risposta numerosa.
 
-**Dati numerici: **
+**Dati numerici:**
 
 - Pressione atmosferica a livello del mare: $p_0 = 1{,}033 \times 10^5\,\text{Pa}$
 - $a = 2{,}0\,\text{m}$

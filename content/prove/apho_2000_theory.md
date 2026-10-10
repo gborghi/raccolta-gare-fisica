@@ -150,7 +150,7 @@ Per il monitoraggio delle radiazioni $\alpha$ si può utilizzare una camera di i
 
 Le camere di ionizzazione hanno una geometria come un contatore cilindrico, dove il filo metallico centrale (anodo) e la cassa metallica sottile esterna (catodo) hanno diametri $d$ e $D$, rispettivamente. Derivare l'espressione per il campo elettrico $E(r)$ e il potenziale $V(r)$ a distanza radial $r$ con $\dfrac{d}{2} \le r \le \dfrac{D}{2}$ dall'asse centrale quando il filo porta una carica per unità di lunghezza $\lambda$. Quindi dedurre la capacità per unità di lunghezza del tubo. La resistenza del campo di rottura dell'aria $E_b$ è di 3 MV·m−1 (rottura per le resistenze del campo superiori a $E_b$, il campo elettrico massimo nella sostanza). Se $d = 1$ mm e $D = 1$ cm, calcolare la differenza potenziale tra filo e guaina a cui si verifica il guasto.
 
-**Dati: ** $1\ \text{MeV} = 10^6\ \text{eV}$; $1\ \text{picofarad} = 10^{-12}\ \text{F}$; $1\ \text{Ci} = 3.7 \times 10^{10}$ disintegrazione/secondo $= 10^6\ \mu\text{Ci}$ (Curie, unità di attività SI fondamentale $A$); $\displaystyle\int \frac{dr}{r} = \ln r + C$.
+**Dati:** $1\ \text{MeV} = 10^6\ \text{eV}$; $1\ \text{picofarad} = 10^{-12}\ \text{F}$; $1\ \text{Ci} = 3.7 \times 10^{10}$ disintegrazione/secondo $= 10^6\ \mu\text{Ci}$ (Curie, unità di attività SI fondamentale $A$); $\displaystyle\int \frac{dr}{r} = \ln r + C$.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16yujiSPU8hR0c6t1ws0iTCe4vsysThms/view)
 

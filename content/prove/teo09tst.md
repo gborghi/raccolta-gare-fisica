@@ -268,7 +268,7 @@ The experiment is repeated (Figure 3) by eliminating the external force and tilt
 **4.** Determine the cart speed immediately after impact with the ball, assuming that the impact is also $5\ \text{ms}$ strong.
 
 <!--fig:start-->
-**p.3 **  F-strength horizontal plane rail
+**p.3**  F-strength horizontal plane rail
 ![[_attachments/Teo09tst/Teo09tst_p3_f2.png]]
 <!--fig:end-->
 

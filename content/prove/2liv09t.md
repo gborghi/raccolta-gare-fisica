@@ -73,7 +73,7 @@ Nell'Agosto 1609 Galileo presentò al Doge e al Senato della Repubblica di Venez
 
 In August 1609, Galileo presented to the Doge and Senate of the Republic of Venice his cannochial, consisting of two lenses aligned on the same axis: the first convergent (called objective), the other divergent (ocular). The system can be easily reconstructed by having two focal lenses $f_1 > 0$ and $f_2 < 0$ with $|f_2| < f_1$ at the two ends of a cardboard tube of $\ell = f_1 + f_2$ length; the system is called **afocal** because a beam of parallel entering rays (when the source is pointed, such as a star or a particular feature of the lunar surface) emerge from the instrument still parallel.
 
-**BEN NOTE: ** The two lenses can be treated as "thin" and the angles of inclination of the beams relative to the optical axis are always "small angles", so the usual approximations can be used: $\sin\theta \approx \tan\theta \approx \theta$, etc.
+**BEN NOTE:** The two lenses can be treated as "thin" and the angles of inclination of the beams relative to the optical axis are always "small angles", so the usual approximations can be used: $\sin\theta \approx \tan\theta \approx \theta$, etc.
 
 1. Consider a beam from a star $S$ off axis, or a beam that propagates obliquely, at an angle $\alpha$ to the optical axis; assume that, after crossing the lens at a point $h$ away from the optical axis, it passes through the centre of the eye. Determine the angle $\alpha$ as a function of $h$ and the focal lengths of the two lenses.
 
@@ -84,7 +84,7 @@ In August 1609, Galileo presented to the Doge and Senate of the Republic of Veni
 4. Sapendo che Galileo aveva usato due lenti di focale $f_1 = 98\ \text{cm}$ ed $f_2 = -4{,}8\ \text{cm}$, e che la Luna si trova a circa $380\,000\ \text{km}$ dalla Terra, a che distanza sembra essere quel cratere lunare quando lo si osserva attraverso questo cannocchiale?
 
 <!--fig:start-->
-**p.4 **  Photovoltaic panel with lamp and voltmeter
+**p.4**  Photovoltaic panel with lamp and voltmeter
 ![[_attachments/2liv09t/2liv09t_p4_f2.png]]
 <!--fig:end-->
 

@@ -112,7 +112,7 @@ The first extra-solar system discovered in 1995 consists of a solar type star an
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il primo sistema extra-solare scoperto nel 1995 è costituito da una stella di tipo solare e da un pianeta con una massa simile a quella di Giove nel sistema solare. Il periodo dell'orbita circolare del pianeta è $4.2$ giorni. Trova la distanza tra la stella e il suo pianeta (in termini di unità astronomica ** (A. U.)**). La massa della stella è $1.2$ volte quella del Sole.
+Il primo sistema extra-solare scoperto nel 1995 è costituito da una stella di tipo solare e da un pianeta con una massa simile a quella di Giove nel sistema solare. Il periodo dell'orbita circolare del pianeta è $4.2$ giorni. Trova la distanza tra la stella e il suo pianeta (in termini di unità astronomica **(A. U.)**). La massa della stella è $1.2$ volte quella del Sole.
 
 - **(A)** 0.2
 - **(B)** 9.5
@@ -1009,7 +1009,7 @@ As shown in Fig. (a), a charged particle enters a region of uniform electric fie
 > [!nota] Problemi aperti
 > 5 problemi complessivi. Il problema aperto con il segno "*" può richiedere informazioni sulla pagina 3.
 
-**(15 punti) **
+**(15 punti)**
 
 Come mostrato nella figura. a) una particella carica entra in una regione di campo elettrico uniforme $E$ con velocità orizzontale iniziale $v$. Quando esce dalla regione, la sua velocità è $v_a$. Nel secondo caso, la stessa particella con la stessa velocità iniziale entra nella regione in cui un campo magnetico $B$ ($v < E/B$) viene aggiunto perpendicolare al campo elettrico originale $E$, come mostrato nella figura. (b). Quando esce dalla regione, la sua velocità è $v_b$. Confronta $v_a$ con $v_b$, quale è più grande? In breve spiegazione non più di 5 righe.
 
@@ -1046,7 +1046,7 @@ Air is filled in a vertical cylinder of length $L$. The lower end of the cylinde
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) **
+**(15 punti)**
 
 L'aria viene riempita in un cilindro verticale di lunghezza $L$. L'estremità inferiore del cilindro è sigillata e l'estremità superiore è aperta. La pressione dell'aria esterna è $p_0$. Un pistone, che può muoversi liberamente su e giù dal cilindro senza perdita di gas, viene posizionato dall'estremità aperta e si si siede sulla colonna di gas. In equilibrio la lunghezza dalla parte superiore del cilindro alla superficie esterna del pistone è $L/4$. La temperatura dell'aria all'interno è mantenuta a $T_1$ durante il processo. Ora, abbassate la temperatura dell'aria all'interno a $T_2 = T_1/2$ e mantenete la temperatura costante mentre girate il cilindro a testa in giù. Al punto di equilibrio la superficie esterna del pistone è proprio al bordo di punta aperta del cilindro. Trova lo spessore e la densità di massa del pistone.
 
@@ -1145,7 +1145,7 @@ As shown in the figure, the pages of two identical books $A$ and $B$ are overlap
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) **
+**(15 punti)**
 
 Come mostrato nella figura, le pagine di due libri identici $A$ e $B$ si sovrappongono. La massa di ogni libro è $1000\ \mathrm{g}$ e il numero di pagine di ogni libro è $200$. Il coefficiente di attrito tra le pagine è $\mu = 0.3$. Il libro-$A$ è fissato sul tavolo. Si applica una forza orizzontale $F$ al libro-$B$. Determinare il valore minimo di $F$ per estrarre il libro-$B$.
 
@@ -1246,7 +1246,7 @@ As shown in the figure, an astronaut of total mass $m = 110\ \mathrm{kg}$ was do
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(15 punti) **
+**(15 punti)**
 
 Come mostrato nella figura, un astronauta di massa totale $m = 110\ \mathrm{kg}$ stava facendo una passeggiata spaziale quando il suo jetpack ha fallito. La sua unica connessione con la nave spaziale era il cavo di comunicazione di lunghezza $L = 100\ \mathrm{m}$. Supponiamo che il raggio di orbita $R$ sia quello della Terra. Supponiamo anche che l'astronauta e la nave spaziale abbiano subito un movimento circolare con la velocità angolare comune di $\omega$ e siano rimasti su una linea retta proiettata dal centro della Terra. La massa della nave spaziale è molto più grande di quella dell'astronauta. Trova la tensione nel cavo.
 
@@ -1288,13 +1288,13 @@ A photon of angular frequency $\omega$ carries energy $\hbar\omega/2\pi$ and mom
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(10 punti) **
+**(10 punti)**
 
-Un fotone di frequenza angolare $\omega$ porta energia $\hbar\omega/2\pi$ e impulso $\hbar\omega/2\pi c$, dove $h$ è la costante di Planck e $c$ è la velocità della luce nel vuoto. Quando un fotone incontra un atomo, può essere assorbito dall'atomo. La probabilità $P$ che un atomo assorba un fotone dipende dalla frequenza fotonica ** nel quadro di riposo ** dell'atomo $\omega_a$, vale a dire $P(\omega_a) = \dfrac{A}{(\omega_a - \omega_0)^2 + \gamma^2}$, dove $A$, $\gamma$ e $\omega_0$ sono costanti. Poco dopo aver assorbito il fotone, l'atomo emette di nuovo un fotone della stessa frequenza in una direzione arbitraria. In un breve periodo l'atomo assorbe molti fotoni da un raggio laser in una direzione e emette di nuovo fotoni in tutte le direzioni. Pertanto, in media nel tempo, l'atomo sperimenta una forza che può rallentare la sua velocità. Questo è il principio del raffreddamento degli atomi con il laser.
+Un fotone di frequenza angolare $\omega$ porta energia $\hbar\omega/2\pi$ e impulso $\hbar\omega/2\pi c$, dove $h$ è la costante di Planck e $c$ è la velocità della luce nel vuoto. Quando un fotone incontra un atomo, può essere assorbito dall'atomo. La probabilità $P$ che un atomo assorba un fotone dipende dalla frequenza fotonica **nel quadro di riposo** dell'atomo $\omega_a$, vale a dire $P(\omega_a) = \dfrac{A}{(\omega_a - \omega_0)^2 + \gamma^2}$, dove $A$, $\gamma$ e $\omega_0$ sono costanti. Poco dopo aver assorbito il fotone, l'atomo emette di nuovo un fotone della stessa frequenza in una direzione arbitraria. In un breve periodo l'atomo assorbe molti fotoni da un raggio laser in una direzione e emette di nuovo fotoni in tutte le direzioni. Pertanto, in media nel tempo, l'atomo sperimenta una forza che può rallentare la sua velocità. Questo è il principio del raffreddamento degli atomi con il laser.
 
-- **(a) ** Un atomo si muove nella direzione positiva $x$ con velocità $v$ ($v \ll c$), e un fotone con frequenza $\omega$ si muove nella direzione negativa $x$. Qual è la frequenza del fotone $\omega_a$ nel quadro di riposo dell'atomo? (2 punti)
-- **(b) ** Supponiamo che l'atomo si muova nella direzione positiva $x$ con velocità $v$, e due fasci laser identici brillano lungo la direzione positiva $x$ e la direzione negativa $x$, rispettivamente. Ci sono $n$ fotoni da ogni fascio che collidono con l'atomo per unità di tempo. Trova l'espressione per la forza media $F$ che agisce sull'atomo. Se l'espressione contiene $\omega_a$, è necessario sostituirla con la risposta di cui alla lettera a). (6 punti)
-- **(c) ** Per $v$, abbiamo $|\omega - \omega_a| \ll |\omega - \omega_0|$, la forza in (b) può quindi essere espressa come $F = -\beta v$. Trova l'espressione per $\beta$. (2 punti)
+- **(a)** Un atomo si muove nella direzione positiva $x$ con velocità $v$ ($v \ll c$), e un fotone con frequenza $\omega$ si muove nella direzione negativa $x$. Qual è la frequenza del fotone $\omega_a$ nel quadro di riposo dell'atomo? (2 punti)
+- **(b)** Supponiamo che l'atomo si muova nella direzione positiva $x$ con velocità $v$, e due fasci laser identici brillano lungo la direzione positiva $x$ e la direzione negativa $x$, rispettivamente. Ci sono $n$ fotoni da ogni fascio che collidono con l'atomo per unità di tempo. Trova l'espressione per la forza media $F$ che agisce sull'atomo. Se l'espressione contiene $\omega_a$, è necessario sostituirla con la risposta di cui alla lettera a). (6 punti)
+- **(c)** Per $v$, abbiamo $|\omega - \omega_a| \ll |\omega - \omega_0|$, la forza in (b) può quindi essere espressa come $F = -\beta v$. Trova l'espressione per $\beta$. (2 punti)
 
 (Signore: per i piccoli $\delta\omega$, $\dfrac{A}{(\omega + \delta\omega)^2 + \gamma^2} = \dfrac{A}{\omega^2 + \gamma^2} - \dfrac{2\omega A\,\delta\omega}{\left(\omega^2 + \gamma^2\right)^2}$.)
 

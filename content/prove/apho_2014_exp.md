@@ -314,7 +314,7 @@ Inoltre, si apprenderà che si possono effettuare esperimenti molto interessanti
 #### 2. Precauzioni di sicurezza e consigli generali
 
 1. Non fissare direttamente il raggio laser.
-2. Il trasduttore piezoelettrico deve essere acceso ** solo dopo essere stato inserito in modo sicuro all'interno dell'acqua nella cella di vetro **.
+2. Il trasduttore piezoelettrico deve essere acceso **solo dopo essere stato inserito in modo sicuro all'interno dell'acqua nella cella di vetro**.
 3. Non immergere la mano nella cella di vetro riempita d' acqua se il trasduttore piezoelettrico è acceso.
 4. Fai attenzione a non versare l'acqua, specialmente sulla presa elettrica.
 5. Manipola il contenitore di vetro e i giacche di laboratorio in modo sicuro.
@@ -484,7 +484,7 @@ Alcune raccomandazioni per la procedura sperimentale sono:
 
 - Per ottenere un'onda ultrasonica in piedi per il metodo di proiezione, immergere l'impianto regolabile (D2) nell'acqua.
 - regolare attentamente le viti di livellamento, per ottenere un modello stabile e ben definito come mostrato alla figura 6 (b).
-- Sono fornite due lenti a lunghezza focale di 5,0 cm e 15,0 cm. Per l'esperimento B utilizzare **solo uno di questi obiettivi **.
+- Sono fornite due lenti a lunghezza focale di 5,0 cm e 15,0 cm. Per l'esperimento B utilizzare **solo uno di questi obiettivi**.
 
 > [!questione] B2. (2.0)
 > Segnalare i modelli di onde in piedi proiettati sulla scheda B2. Scrivere chiaramente il numero delle regioni luminose contate, $m_B$, e il corrispondente spread $D_B$. Nota la temperatura dell'acqua minerale.
@@ -508,7 +508,7 @@ Per l'analisi degli errori nella parte successiva, per semplificare il calcolo, 
 
 In questo esperimento, vi viene fornita una bottiglia (L) etichettata come "Concentrazione sconosciuta" che contiene una soluzione di sale con una quantità sconosciuta di sale dissoluta in acqua minerale. L'esperimento C ha lo scopo di determinare la concentrazione della soluzione di sale.
 
-L'approccio di questo metodo consiste nel dissolvere quantità crescenti e conosciute di sale in 1,5 litri di acqua minerale nella Cella di vetro (A) e successivamente misurare la velocità del suono in acqua con la concentrazione di sale conosciuta utilizzando la frequenza delle onde ultrasoniche determinata nell'esperimento A o B. Dopo aver sciolto una quantità nota di sale nell'acqua, misurare la velocità del suono nella soluzione salina utilizzando **SOLO uno ** dei due metodi descritti nell'esperimento A e nell'esperimento B.
+L'approccio di questo metodo consiste nel dissolvere quantità crescenti e conosciute di sale in 1,5 litri di acqua minerale nella Cella di vetro (A) e successivamente misurare la velocità del suono in acqua con la concentrazione di sale conosciuta utilizzando la frequenza delle onde ultrasoniche determinata nell'esperimento A o B. Dopo aver sciolto una quantità nota di sale nell'acqua, misurare la velocità del suono nella soluzione salina utilizzando **SOLO uno** dei due metodi descritti nell'esperimento A e nell'esperimento B.
 
 Dovrete tracciare un grafico della velocità del suono rispetto alla concentrazione della soluzione salina $C_s$ (dove $C_s$ è la massa del sale dissoluto in acqua divisa per massa combinata di acqua e sale). Questa sarà la curva di calibrazione.
 
@@ -550,7 +550,7 @@ Ora eseguire l'esperimento per determinare la concentrazione di sale sconosciuta
 
 In questo esperimento, viene fornito una soluzione di siroppo di mais (M) che si deve versare in una delle nuove Celle di vetro (A).
 
-La velocità del suono nella soluzione di siroppo di mais verrà misurata ** utilizzando il metodo di diffrazione illustrato nell'esperimento A**. Tuttavia, per calcolare la velocità del suono occorre prima determinare l'indice di rifrazione del siroppo di mais.
+La velocità del suono nella soluzione di siroppo di mais verrà misurata **utilizzando il metodo di diffrazione illustrato nell'esperimento A**. Tuttavia, per calcolare la velocità del suono occorre prima determinare l'indice di rifrazione del siroppo di mais.
 
 Utilizzando le risorse fornite, progettare e effettuare un esperimento per determinare l'indice di rifrazione del siroppo di mais.
 

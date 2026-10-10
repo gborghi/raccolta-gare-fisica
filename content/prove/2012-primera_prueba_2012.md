@@ -61,17 +61,17 @@ Tal como se ha dicho anteriormente, para pasar a la órbita elíptica se acciona
 
 Un satellite artificiale, di massa $M$, descrive un'orbita circolare ad un'altezza $h$ sulla superficie terrestre.
 
-**a) ** Deduce l'espressione del modulo di velocità del satellite, $V_1$, e calcola il suo valore, nonché quello del suo periodo di rivoluzione, $T$.
+**a)** Deduce l'espressione del modulo di velocità del satellite, $V_1$, e calcola il suo valore, nonché quello del suo periodo di rivoluzione, $T$.
 
 Quando il satellite è nella posizione indicata nella figura 1.a, mediante un motore di razzo che si attiva per un breve intervallo di tempo, il modulo di velocità è aumentato di un $0{,}250\%$, mantenendo la sua direzione e senso, cioè $V_2 = \alpha V_1$ con $\alpha = 1{,}0025$. Di conseguenza, il satellite passa dall'orbita circolare iniziale all'orbita elliptica della figura 1.b, il cui punto di culmine è $A$.
 
-**b) ** Deduce le espressioni del modulo di velocità, $V_A$, e della sua altezza sulla superficie terrestre, $h_A$, all'apoggio $A$, e ne calcola i valori.
+**b)** Deduce le espressioni del modulo di velocità, $V_A$, e della sua altezza sulla superficie terrestre, $h_A$, all'apoggio $A$, e ne calcola i valori.
 
 Come già detto, per passare in orbita elliptica si attiva il motore della razza che brucia rapidamente una massa di combustibile $\Delta m = M/50$. I gas di combustione sono espulsi in direzione parallela alla velocità del satellite e in direzione opposta, con una velocità modulare $v_J$ relativa al satellite nella sua orbita circolare iniziale. Il processo è rappresentato nella figura 2.
 
-**c) ** Determina $v_J$ affinché la velocità del satellite all'inizio dell'orbita elliptica sia la $V_2$ indicata, e calcola il suo valore.
+**c)** Determina $v_J$ affinché la velocità del satellite all'inizio dell'orbita elliptica sia la $V_2$ indicata, e calcola il suo valore.
 
-**Dati: **
+**Dati:**
 - Radio della Terra: $R_T = 6{,}37 \times 10^6\ \text{m}$
 - Accelerazione gravitatoria: $g = 9{,}81\ \text{m/s}^2$
 - Massa del satellite con il suo combustibile: $M = 1{,}25 \times 10^3\ \text{kg}$
@@ -98,15 +98,15 @@ Come già detto, per passare in orbita elliptica si attiva il motore della razza
 
 An artificial satellite, with a mass of $M$, describes a circular orbit at a height $h$ above the Earth's surface.
 
-**a) ** Subtracts the expression of the satellite's speed module, $V_1$, and calculates its value, as well as its revolution period, $T$.
+**a)** Subtracts the expression of the satellite's speed module, $V_1$, and calculates its value, as well as its revolution period, $T$.
 
 Cuando el satélite se encuentra en la posición indicada en la figura 1.a, mediante un motor cohete que se acciona durante un breve intervalo de tiempo, se incrementa el módulo de su velocidad un $0{,}250\%$, manteniendo su dirección y sentido, es decir $V_2 = \alpha V_1$ con $\alpha = 1{,}0025$. As a consequence, the satellite changes from the initial circular orbit to the elliptical orbit in Figure 1.b, the apex of which is the point $A$.
 
-**b) ** Subtracts the expressions of the speed module, $V_A$, and its height above the Earth's surface, $h_A$, at the apex $A$, and calculates their values.
+**b)** Subtracts the expressions of the speed module, $V_A$, and its height above the Earth's surface, $h_A$, at the apex $A$, and calculates their values.
 
 As mentioned above, to pass into elliptical orbit the rocket engine is activated which burns a fuel mass $\Delta m = M/50$ rapidly. The combustion gases are ejected in a direction parallel to the satellite's speed and in the opposite direction, at a module speed $v_J$, relative to the satellite in its initial circular orbit. The process is shown in Figure 2.
 
-**c) ** Determine $v_J$ so that the speed of the satellite at the start of the elliptical orbit is the $V_2$ indicated, and calculate its value.
+**c)** Determine $v_J$ so that the speed of the satellite at the start of the elliptical orbit is the $V_2$ indicated, and calculate its value.
 
 **Data:**
 - Radio of the Earth: $R_T = 6{,}37 \times 10^6\ \text{m}$
@@ -190,11 +190,11 @@ dove $R = 8{,}3145\ \text{J/(mol·K)}$ e $T$ è la temperatura assoluta.
 
 **Dati:** Il sapone di un arzio contiene $1\%$ in massa di sacarosio in acqua; la massa molecolare del sacarosio è $342\ \text{g/mol}$; la densità della soluzione è $\rho = 1{,}0 \times 10^3\ \text{kg/m}^3$; la temperatura è $T = 300\ \text{K}$. Calcola:
 
-**I.a) ** La concentrazione di succhuro soluto in acqua, espressa in $\text{mol/m}^3$.
+**I.a)** La concentrazione di succhuro soluto in acqua, espressa in $\text{mol/m}^3$.
 
-**I.b) ** La pressione osmotica.
+**I.b)** La pressione osmotica.
 
-**I.c) ** La altezza raggiunta dalla sapone negli arci.
+**I.c)** La altezza raggiunta dalla sapone negli arci.
 
 ---
 
@@ -204,11 +204,11 @@ Se nell'ambiente con maggiore concentrazione di soluto si aumenta la pressione s
 
 Supponiamo che a una temperatura di $300\ \text{K}$ si desidera desalinizzare $1\ \text{m}^3$ di acqua di mare, con una concentrazione di $5{,}8\ \text{g}$ di sale (NaCl) per litro d'acqua. La massa molecolare del sale è $58\ \text{g/mol}$.
 
-**II.a) ** Per calcolare la pressione osmotica della dissoluzione, si deve considerare che il sale dissoluto sia completamente dissociato nei suoi ioni $\text{Na}^+$ e $\text{Cl}^-$ e che nessuno dei due sia in grado di attraversare la membrana. Si noti che la pressione osmotica è una proprietà coligativa, cioè proporzionale al numero totale di particelle dissolte.
+**II.a)** Per calcolare la pressione osmotica della dissoluzione, si deve considerare che il sale dissoluto sia completamente dissociato nei suoi ioni $\text{Na}^+$ e $\text{Cl}^-$ e che nessuno dei due sia in grado di attraversare la membrana. Si noti che la pressione osmotica è una proprietà coligativa, cioè proporzionale al numero totale di particelle dissolte.
 
-**II.b) ** Supponiamo che la pressione esercitata attraverso l'imbolo sia praticamente uguale alla pressione osmotica. Calcola il lavoro da svolgere per disalinizzare $1\ \text{m}^3$ acqua di mare.
+**II.b)** Supponiamo che la pressione esercitata attraverso l'imbolo sia praticamente uguale alla pressione osmotica. Calcola il lavoro da svolgere per disalinizzare $1\ \text{m}^3$ acqua di mare.
 
-**II.c) ** Il prezzo del $\text{kW·h}$ elettrico è di $0{,}142\ €$. ¿Cuánto cuesta desalinizar $1\ \text{m}^3$ de agua de mar?
+**II.c)** Il prezzo del $\text{kW·h}$ elettrico è di $0{,}142\ €$. ¿Cuánto cuesta desalinizar $1\ \text{m}^3$ de agua de mar?
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -230,11 +230,11 @@ where $R = 8{,}3145\ \text{J/(mol·K)}$ and $T$ is the absolute temperature.
 
 **Data:** A maple syrup contains $1\%$ in sucrose mass in water; the molecular mass of sucrose is $342\ \text{g/mol}$; the density of the solution is $\rho = 1{,}0 \times 10^3\ \text{kg/m}^3$; the temperature is $T = 300\ \text{K}$. Calculate:
 
-**I.a) ** The concentration of sucrose dissolved in water, expressed in $\text{mol/m}^3$.
+**I.a)** The concentration of sucrose dissolved in water, expressed in $\text{mol/m}^3$.
 
 **I.b)** La presión osmótica.
 
-**I.c) ** The height at which the sap can reach in the maple.
+**I.c)** The height at which the sap can reach in the maple.
 
 ---
 
@@ -244,9 +244,9 @@ If the pressure above the osmotic pressure is increased in the compound with the
 
 Suppose at a temperature of $300\ \text{K}$ $1\ \text{m}^3$ of seawater is desalinated with a concentration of $5{,}8\ \text{g}$ of salt (NaCl) per litre of water. The molecular mass of the salt is $58\ \text{g/mol}$.
 
-**II.a) ** Assuming that the dissolved salt is completely dissociated into its $\text{Na}^+$ and $\text{Cl}^-$ ions and that neither can pass through the membrane, the osmotic pressure of the solution is calculated. Note that osmotic pressure is a coligative property, i.e. it is proportional to the total number of dissolved particles.
+**II.a)** Assuming that the dissolved salt is completely dissociated into its $\text{Na}^+$ and $\text{Cl}^-$ ions and that neither can pass through the membrane, the osmotic pressure of the solution is calculated. Note that osmotic pressure is a coligative property, i.e. it is proportional to the total number of dissolved particles.
 
-**II.b) ** Suppose the pressure exerted by the embolism is practically equal to the osmotic pressure. Calculate the work to be done to desalinate $1\ \text{m}^3$ seawater.
+**II.b)** Suppose the pressure exerted by the embolism is practically equal to the osmotic pressure. Calculate the work to be done to desalinate $1\ \text{m}^3$ seawater.
 
 **II.c)** El precio del $\text{kW·h}$ eléctrico es de $0{,}142\ €$. ¿Cuánto cuesta desalinizar $1\ \text{m}^3$ de agua de mar?
 
@@ -306,13 +306,13 @@ Supponiamo che il fondo marino sia irregolare, come quello rappresentato nella f
 
 Considera che le onde siano onde piane e che la loro direzione di diffusione (l'orraggio) nella regione 1 raggiunga la regione 2 con un angolo di incidenza $\theta_1 = 25°$. Si veda la figura 3, che rappresenta una vista aerea del mare.
 
-**a) ** Determina le direzioni di diffusione delle onde nelle regioni 2 e 3, cioè gli angoli rispetto alla norma $\theta_2$ e $\theta_3$.
+**a)** Determina le direzioni di diffusione delle onde nelle regioni 2 e 3, cioè gli angoli rispetto alla norma $\theta_2$ e $\theta_3$.
 
-**b) ** Qual è il valore minimo dell'angolo di incidenza nella regione 1, $\theta_L$, per il quale non esistono onde nella regione 3?
+**b)** Qual è il valore minimo dell'angolo di incidenza nella regione 1, $\theta_L$, per il quale non esistono onde nella regione 3?
 
 In quelle coste in cui la profondità del fondo marino diminuisce progressivamente con una pendice morbida (come la spiaggia di figura 4), si osserva che la direzione finale di diffusione delle onde è perpendicolare alla linea costiera.
 
-**c) ** Sulla base del risultato di cui al paragrafo (a), ragionare per giustificare che la direzione di diffusione delle onde che arrivano sulla spiaggia sia perpendicolare alla linea di costa.
+**c)** Sulla base del risultato di cui al paragrafo (a), ragionare per giustificare che la direzione di diffusione delle onde che arrivano sulla spiaggia sia perpendicolare alla linea di costa.
 
 <!--fig:start-->
 ![[_attachments/2012 primera_prueba_2012/2012 primera_prueba_2012_p8_f3.png]]
@@ -339,13 +339,13 @@ Assume that the seabed is irregular, as shown in Figure 2, in which there are th
 
 Consider that the waves are flat waves and that their direction of propagation (ray) in region 1 reaches region 2 with an angle of incidence $\theta_1 = 25°$. See Figure 3, which shows aerial views of the sea.
 
-**a) ** Determines the direction of propagation of waves in regions 2 and 3, i.e. the angles with respect to the normal $\theta_2$ and $\theta_3$.
+**a)** Determines the direction of propagation of waves in regions 2 and 3, i.e. the angles with respect to the normal $\theta_2$ and $\theta_3$.
 
-**b) ** What is the minimum angle of incidence in region 1, $\theta_L$ for which no waves exist in region 3?
+**b)** What is the minimum angle of incidence in region 1, $\theta_L$ for which no waves exist in region 3?
 
 On shorelines where the depth of the seabed decreases gradually with a gentle slope (such as the beach in Figure 4), it is observed that the final direction of wave propagation is perpendicular to the shoreline.
 
-**c) ** Based on the result of paragraph (a), make a reasoning to justify that the direction of propagation of the waves reaching the beach is perpendicular to the coastline.
+**c)** Based on the result of paragraph (a), make a reasoning to justify that the direction of propagation of the waves reaching the beach is perpendicular to the coastline.
 
 <!--fig:start-->
 ![[_attachments/2012 primera_prueba_2012/2012 primera_prueba_2012_p8_f3.png]]

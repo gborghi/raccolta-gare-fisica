@@ -134,7 +134,7 @@ In the presence of a non-zero moment of force, the angular moment $L$ of the ele
 7. Finally, find the current $I_\text{min}$ over which the electron does not strike the solenoid, depending on the initial velocity $v_0$ of the electron and the radius $R$ of the solenoid.
 
 <!--fig:start-->
-**p.5 **  Solenoid, plane and electron-speed ring
+**p.5**  Solenoid, plane and electron-speed ring
 ![[_attachments/Naz16teoT/Naz16teoT_p5_f2.png]]
 <!--fig:end-->
 

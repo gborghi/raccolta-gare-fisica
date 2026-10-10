@@ -61,7 +61,7 @@ Il comportamento della barra è totalmente elastico e soddisfa la legge generale
 $$\sigma = Y\varepsilon \quad (1)$$
 dove $\sigma = F/S$ è la tensione (forza per unità di area), $\varepsilon = \Delta l / l$ è l'allungamento unitario, e $Y$ è il modulo di Young.
 
-**(a) ** Calcola il peso di un pezzo di barra compreso tra i punti $x_1$ e $x_2$. Calcola poi il peso totale della barra. Aiuto: considera la forza gravitazionale $dF_g$ esercitata da Giove su un elemento di massa differenziale $dm$ situato a distanza $x$ dalla fonte, e integra.
+**(a)** Calcola il peso di un pezzo di barra compreso tra i punti $x_1$ e $x_2$. Calcola poi il peso totale della barra. Aiuto: considera la forza gravitazionale $dF_g$ esercitata da Giove su un elemento di massa differenziale $dm$ situato a distanza $x$ dalla fonte, e integra.
 
 Nel caso di Io si ha $L_0 \ll r_0$, quindi nel resto del problema si suppone $g_0 \approx GM/r_0^2$, costante lungo la barra.
 
@@ -82,7 +82,7 @@ Nel caso di Io si ha $L_0 \ll r_0$, quindi nel resto del problema si suppone $g_
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P2. The following conditions shall apply:
+**P2. The following conditions shall apply:**
 
 Tide heating is a complex mechanism in which tidal forces cause bodies to heat up orbiting around others. The tidal force is the difference between the gravitational force on the nearest and farthest end of the body. An initially spherical body takes on an ellipsoidal shape and the stretching warms the body due to internal friction.
 
@@ -92,7 +92,7 @@ The bar's behavior is fully elastic and complies with the generalized Hooke's la
 $$\sigma = Y\varepsilon \quad (1)$$
 where $\sigma = F/S$ is the voltage (force per unit area), $\varepsilon = \Delta l / l$ is the unit length, and $Y$ is the Young module.
 
-**(a) ** Calculate the weight of a bar piece between $x_1$ and $x_2$. Then calculate the total weight of the bar. Assistance: consider the gravitational force $dF_g$ exercised by Jupiter on a mass differential element $dm$ located at a distance $x$ from the source, and integrate.
+**(a)** Calculate the weight of a bar piece between $x_1$ and $x_2$. Then calculate the total weight of the bar. Assistance: consider the gravitational force $dF_g$ exercised by Jupiter on a mass differential element $dm$ located at a distance $x$ from the source, and integrate.
 
 In the case of Io, $L_0 \ll r_0$ is given, so in the rest of the problem, $g_0 \approx GM/r_0^2$ is given, constant along the bar.
 
@@ -137,7 +137,7 @@ Ayuda: obtenga con la ecuación (1) el alargamiento unitario $\varepsilon(x)$ y 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(b) ** Calcola la deformazione $\Delta L = L - L_0$ della barra.
+**(b)** Calcola la deformazione $\Delta L = L - L_0$ della barra.
 
 Aiuto: ottenere con l'equazione (1) l'allungamento unitario $\varepsilon(x)$ e si noti che ogni elemento $dx$ si allunga fino a una lunghezza $du = dx + \varepsilon\, dx$.
 
@@ -184,7 +184,7 @@ Ayuda: la dilatación lineal para un incremento de temperatura $\Delta T$ viene 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(c) ** Calcola il calore che dovrebbe essere comunicato alla barra per produrre una dilatazione termica equivalente all'allungamento creato dalla forza gravitazionale.
+**(c)** Calcola il calore che dovrebbe essere comunicato alla barra per produrre una dilatazione termica equivalente all'allungamento creato dalla forza gravitazionale.
 
 Aiuto: la dilatazione lineare per un aumento di temperatura $\Delta T$ viene data dall'espressione $l = l_0(1 + \alpha\Delta T)$.
 
@@ -196,7 +196,7 @@ Aiuto: la dilatazione lineare per un aumento di temperatura $\Delta T$ viene dat
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(c) ** Calculate the heat that would have to be communicated to the bar to produce a thermal dilation equivalent to the elongation created by the gravitational force.
+**(c)** Calculate the heat that would have to be communicated to the bar to produce a thermal dilation equivalent to the elongation created by the gravitational force.
 
 Help: the linear dilation for a temperature increase $\Delta T$ is given by the expression $l = l_0(1 + \alpha\Delta T)$.
 
@@ -234,11 +234,11 @@ Ahora se tiene en cuenta el movimiento orbital, sin el pivote. La barra tiene su
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'elastico in orbita (d) **
+**L'elastico in orbita (d)**
 
 Ora si tiene conto del movimento orbitale, senza il pivote. La barra ha il suo centro a $x=0$ a distanza $r_0$ da Giove. Si suppone che l'intera barra ruota alla stessa velocità angolare $\omega$ del suo centro di massa. Il pezzo di massa $m_2$ è compreso tra $x$ e $L_0/2$.
 
-**(d) ** Scrivi l'espressione della velocità angolare $\omega$. Quanto vale il periodo orbitale di Io? Scrivere l'espressione della forza centripeta $F_{c2}$ che agisce sul pezzo di massa $m_2$ considerando che tutta la massa $m_2$ è situata nel centro di massa del pezzo.
+**(d)** Scrivi l'espressione della velocità angolare $\omega$. Quanto vale il periodo orbitale di Io? Scrivere l'espressione della forza centripeta $F_{c2}$ che agisce sul pezzo di massa $m_2$ considerando che tutta la massa $m_2$ è situata nel centro di massa del pezzo.
 
 <!--fig:start-->
 ![[_attachments/P2_Calentamiento_mare_io/P2_Calentamiento_mare_io_p2_f4.png]]
@@ -288,7 +288,7 @@ Now orbital motion is considered, without the pivot. The rod has its center at $
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(e) ** Calcola di nuovo la deformazione $\Delta L$ quando la barra orbita, tenendo conto che ora la forza di trazione su $dm$ è $F_T = P_2 - F_{c2}$.
+**(e)** Calcola di nuovo la deformazione $\Delta L$ quando la barra orbita, tenendo conto che ora la forza di trazione su $dm$ è $F_T = P_2 - F_{c2}$.
 
 <!--fig:start-->
 ![[_attachments/P2_Calentamiento_mare_io/P2_Calentamiento_mare_io_p2_f5.png]]
@@ -303,7 +303,7 @@ Now orbital motion is considered, without the pivot. The rod has its center at $
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(e) ** Calculate the $\Delta L$ deformation again when the bar is in orbit, taking into account that the current traction force on $dm$ is $F_T = P_2 - F_{c2}$.
+**(e)** Calculate the $\Delta L$ deformation again when the bar is in orbit, taking into account that the current traction force on $dm$ is $F_T = P_2 - F_{c2}$.
 
 <!--fig:start-->
 ![[_attachments/P2_Calentamiento_mare_io/P2_Calentamiento_mare_io_p2_f5.png]]
@@ -351,7 +351,7 @@ Se Io è supposto da una barra di lunghezza $L_0$ pari al suo diametro, calcola 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(f) ** If Io is assumed to be a length bar $L_0$ equal to its diameter, calculate its variation in length from periastral to apoastral. Use the numerical data:
+**(f)** If Io is assumed to be a length bar $L_0$ equal to its diameter, calculate its variation in length from periastral to apoastral. Use the numerical data:
 
 - Mass of Jupiter: $M = 1{,}9 \times 10^{27}$ kg, $G = 6{,}67 \times 10^{-11}$ N·m2/kg2
 - Iodine data: $m = 8{,}9 \times 10^{22}$ kg, diameter $= 3643$ km, $\rho = 3550$ kg/m3, $Y = 10^{10}$ Pa, $\eta = 5 \times 10^{15}$ Pa·s, orbital radius of the periastral and apoastral axes: $r_{\rm peri} = 420000$ km and $r_{\rm apo} = 423400$ km.
@@ -391,11 +391,11 @@ $$\sigma = Y\varepsilon + \eta\,\frac{d\varepsilon}{dt} \quad (2)$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Barra viscoelastica in orbita (g) **
+**Barra viscoelastica in orbita (g)**
 
 I corpi viscoelasti presentano un comportamento mix di partialmente elastico e viscoso. Per Io viene utilizzato il modello di Kelvin, formato da una resorte elastica che agisce in parallelo con un ammortizzatore. La tensione di uscita è $\sigma_Y = Y\varepsilon_Y$. La tensione sul cuscinetto è $\sigma_\eta = \eta\, d\varepsilon_\eta/dt$.
 
-**(g) ** Dimostra che la tensione nel corpo viscoelastico segue l'equazione costitutiva:
+**(g)** Dimostra che la tensione nel corpo viscoelastico segue l'equazione costitutiva:
 $$\sigma = Y\varepsilon + \eta\,\frac{d\varepsilon}{dt} \quad (2)$$
 
 <!--fig:start-->
@@ -415,7 +415,7 @@ The following is a list of the types of air conditioning systems used:
 
 Viscoelastic bodies exhibit a mixed partially elastic and viscous behaviour. The Kelvin model is used for Io, formed by an elastic spring acting in parallel with a shock absorber. The spring voltage is $\sigma_Y = Y\varepsilon_Y$. The voltage in the damper is $\sigma_\eta = \eta\, d\varepsilon_\eta/dt$.
 
-**(g) ** Demonstrate that the tension in the viscoelastic body follows the constitutive equation:
+**(g)** Demonstrate that the tension in the viscoelastic body follows the constitutive equation:
 $$\sigma = Y\varepsilon + \eta\,\frac{d\varepsilon}{dt} \quad (2)$$
 
 <!--fig:start-->
@@ -450,7 +450,7 @@ Calcule el trabajo a lo largo de una órbita y la potencia disipada.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(h) ** Io subisce una variazione della tensione periodicamente: $\sigma(t) = \sigma_0 \sin\omega t$. Nel caso di Io, per il quale si soddisfa $\eta\omega \gg Y$, il termine elastico dell'equazione (2) è molto piccolo e può essere disprezzato.
+**(h)** Io subisce una variazione della tensione periodicamente: $\sigma(t) = \sigma_0 \sin\omega t$. Nel caso di Io, per il quale si soddisfa $\eta\omega \gg Y$, il termine elastico dell'equazione (2) è molto piccolo e può essere disprezzato.
 
 Calcola il lavoro lungo un'orbita e la potenza dissipata.
 
@@ -495,7 +495,7 @@ Datos: Masa de Júpiter: $M = 1{,}9 \times 10^{27}$ kg, $G = 6{,}67 \times 10^{-
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(i) ** Con i dati numerici calcoli il valore della potenza dissipata.
+**(i)** Con i dati numerici calcoli il valore della potenza dissipata.
 
 Aiuto: calcolare l'ampiezza $\sigma_0$ con l'espressione di una forza effettiva che produce la deformazione ottenuta dal punto (e), e valutare tale forza nel periastro e nell'apostrato. (Togli, ancora una volta, $L_0$ pari al diametro di Io.)
 
@@ -509,7 +509,7 @@ Datos: Masa de Júpiter: $M = 1{,}9 \times 10^{27}$ kg, $G = 6{,}67 \times 10^{-
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(i) ** Calculate the value of the dissipated power with the numerical data.
+**(i)** Calculate the value of the dissipated power with the numerical data.
 
 Assistance: calculate the $\sigma_0$ width by the expression of an effective force producing the deformation obtained in paragraph (e) and evaluate this force in the peristalsis and the apostratus. (Take again $L_0$ equal to the diameter of Io.)
 

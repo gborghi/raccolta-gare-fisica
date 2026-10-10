@@ -63,7 +63,7 @@ d) Un astronauta che viaggia in capsula desidera lanciare un oggetto di massa $m
 
 e) Un pendolo oscilla con un periodo $T = 2\,\text{s}$ sulla superficie della Terra. Qual è il suo periodo di oscillazione a bordo della capsula spaziale?
 
-**Dati: ** Radio della Terra, $R_T = 6{,}37 \times 10^6\,\text{m}$. Accelerazione della gravità sulla superficie terrestre, $g = 9{,}8\,\text{m/s}^2$.
+**Dati:** Radio della Terra, $R_T = 6{,}37 \times 10^6\,\text{m}$. Accelerazione della gravità sulla superficie terrestre, $g = 9{,}8\,\text{m/s}^2$.
 
 <!--fig:start-->
 ![[_attachments/2019 prueba_teorica_2019/2019 prueba_teorica_2019_p2_f1.png]]
@@ -151,7 +151,7 @@ g) Se dispone de un picnómetro lleno de agua que «pesa» $250{,}00\,\text{g}$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P2. E Archimede disse eureka!
+**P2. E Archimede disse eureka!**
 
 Principio di Archimede: Un corpo completamente o parzialmente immerso in un fluido in riposo prova una spinta da sotto verso l'alto uguale al peso del volume che lo allontana.
 
@@ -188,7 +188,7 @@ g) Si dispone di un picnometro pieno di acqua che pesa $250{,}00\,\text{g}$ e si
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P2. And Archimedes said eureka!
+**P2. And Archimedes said eureka!**
 
 Archimedes' principle: A body totally or partially submerged in a resting fluid experiences a downward upward thrust equal to the weight of the volume it displaces.
 

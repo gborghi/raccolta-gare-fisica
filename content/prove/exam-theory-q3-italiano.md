@@ -413,7 +413,7 @@ The pressure and volume balance values of the p0 , V0 portion and the cos
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Hot and cold spring scheme with stack
+**p.3**  Hot and cold spring scheme with stack
 ![[_attachments/exam-theory-Q3-italiano/exam-theory-Q3-italiano_p3_f3.png]]
 <!--fig:end-->
 

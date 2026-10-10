@@ -148,7 +148,7 @@ $$h_{\max} \propto G^{-1}\,\omega^{\beta}\,M_E^{\gamma}\,R^{\delta},$$
 
 dove $G$ è la costante gravitazionale e $\beta$, $\gamma$ e $\delta$ sono esponenti costanti.
 
-**A.1 ** *(0,8 pt) * Trova i valori degli esponenti $\beta$, $\gamma$ e $\delta$.
+**A.1** *(0,8 pt) * Trova i valori degli esponenti $\beta$, $\gamma$ e $\delta$.
 
 **A.2** *(0,2 pt)* Calcolare il valore numerico di $h_{\max}$ supponendo che il fattore dimensionato nella relazione indicata sopra sia uguale a $1$.
 
@@ -172,7 +172,7 @@ Per calcolare la coppia media esercitata dal Sole sulla Terra, determineremo pri
 
 Che il nostro sistema di coordinate cilindriche abbia l'origine al centro della Terra, e che l'asse $z$ sia perpendicolare al piano eclittico (cioè il piano dell'anello). L'asse di rotazione della Terra fa un angolo di $\alpha = 23.5^\circ$ con l'asse $z$.
 
-**B.1 ** *(1.0 pt) * Trova la direzione e la grandezza del campo gravitazionale generato dall'anello solare in un punto sull'asse $z$. Scrivi la tua risposta in termini di $M_S$, $d_{SE}$ e la coordinata $z$. Supponiamo che $|z| \ll d_{SE}$.
+**B.1** *(1.0 pt) * Trova la direzione e la grandezza del campo gravitazionale generato dall'anello solare in un punto sull'asse $z$. Scrivi la tua risposta in termini di $M_S$, $d_{SE}$ e la coordinata $z$. Supponiamo che $|z| \ll d_{SE}$.
 
 **B.2** *(2.2 pt) * Trova la direzione e la grandezza del campo gravitazionale generato dall'anello solare in un punto del piano eclittico la cui distanza dall'origine è $r$. Supponiamo che $r \ll d_{SE}$.
 
@@ -196,13 +196,13 @@ L'asse di rotazione della Terra si muove molto lentamente intorno all'asse $z$ i
 
 **D.1** *(1.8 pt)* Indicare un'espressione per il periodo $T_1$ di precisione dell'asse terrestre. Esprimere la risposta in termini di $M_S$, $d_{SE}$, velocità angolare $\omega$ della rotazione terrestre, $h_{\max}$, $R$ e $\alpha$.
 
-**D.2 ** *(0,2 pt) * Calcolare il periodo di precessione $T_1$ in anni.
+**D.2** *(0,2 pt) * Calcolare il periodo di precessione $T_1$ in anni.
 
 #### Parte E. L'effetto della Luna (1.2 punti)
 
 Il valore ottenuto nella parte D è molto più grande del valore osservato. La ragione è che finora abbiamo considerato solo la coppia esercitata dal Sole, e abbiamo trascurato l'effetto della Luna. Nei seguenti calcoli, supponiamo che l'orbita della Luna sia nel piano eclittico e che l'orbita della Luna attorno alla Terra sia un cerchio di raggio $d_{ME}$. Indichiamo la massa della Luna con $M_M$ e il periodo di precessione in questo modello modificato con $T_2$.
 
-**E.1 ** *(1.0 pt) * Con quale fattore $T_2/T_1$ cambia il periodo di precesione dell'asse terrestre se si tiene conto anche della coppia esercitata dalla Luna? Rispondi in termini di $d_{ME}$, $d_{SE}$, $M_S$ e $M_M$.
+**E.1** *(1.0 pt) * Con quale fattore $T_2/T_1$ cambia il periodo di precesione dell'asse terrestre se si tiene conto anche della coppia esercitata dalla Luna? Rispondi in termini di $d_{ME}$, $d_{SE}$, $M_S$ e $M_M$.
 
 **E.2** *(0,2 pt) * Sostituendo i dati, calcolare il periodo di precisione $T_2$ in anni.
 

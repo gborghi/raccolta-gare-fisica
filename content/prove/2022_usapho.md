@@ -46,11 +46,11 @@ Quando si tiene una matita orizzontale dalla punta, si devono esercitare due tip
 
 Prendiamo più precisamente una canna orizzontale. Immaginate di fare un taglio da qualche parte nel mezzo della canna, e pensate al momento di piegatura a quel punto come la coppia che la metà sinistra della canna esercita sulla metà destra (o equivalentemente, la coppia che la metà destra esercita sulla metà sinistra), misurata intorno al punto di taglio.
 
-**(a) ** Si consideri una canna di lunghezza $\ell$ e massa uniforme per unità di lunghezza $\lambda$, tenuta orizzontale. Qual è la grandezza del momento di piega $M$ che si deve esercitare alla fine della canna per tenerla orizzontale (cioè il momento di piega alla fine sostenuta)?
+**(a)** Si consideri una canna di lunghezza $\ell$ e massa uniforme per unità di lunghezza $\lambda$, tenuta orizzontale. Qual è la grandezza del momento di piega $M$ che si deve esercitare alla fine della canna per tenerla orizzontale (cioè il momento di piega alla fine sostenuta)?
 
-**(b) ** Ora supponiamo che la stessa canna sia sostenuta alle entrambe le estremità, formando un ponte. I supporti sono semplici (eserciziano solo forze verso l'alto, nessun momento di piegatura). La canna ha una massa uniforme per unità di lunghezza $\lambda$, lunghezza $\ell$ e può sostenere un momento di piegatura massimo di magnitudo $M_0$ in qualsiasi punto prima di rompersi. Trova il valore massimo di $\lambda$ per il quale il ponte non crolla.
+**(b)** Ora supponiamo che la stessa canna sia sostenuta alle entrambe le estremità, formando un ponte. I supporti sono semplici (eserciziano solo forze verso l'alto, nessun momento di piegatura). La canna ha una massa uniforme per unità di lunghezza $\lambda$, lunghezza $\ell$ e può sostenere un momento di piegatura massimo di magnitudo $M_0$ in qualsiasi punto prima di rompersi. Trova il valore massimo di $\lambda$ per il quale il ponte non crolla.
 
-**(c) ** Supponiamo che un supporto sia all'estremità sinistra ($x = 0$) e l'altro sia situato a una distanza $d$ dall'estremità destra (cioè, in posizione $x = \ell - d$), quindi l'estremità destra si sovrasta di una distanza $d$. La canna ha ancora una volta una massa uniforme per lunghezza unità $\lambda$ e un momento di piegatura massimo tollerato $M_0$. Trova il valore di $d$ (in termini di $\ell$) che massimizza il carico $\lambda$ che il ponte può trasportare senza crollare, e trova il corrispondente massimo $\lambda$.
+**(c)** Supponiamo che un supporto sia all'estremità sinistra ($x = 0$) e l'altro sia situato a una distanza $d$ dall'estremità destra (cioè, in posizione $x = \ell - d$), quindi l'estremità destra si sovrasta di una distanza $d$. La canna ha ancora una volta una massa uniforme per lunghezza unità $\lambda$ e un momento di piegatura massimo tollerato $M_0$. Trova il valore di $d$ (in termini di $\ell$) che massimizza il carico $\lambda$ che il ponte può trasportare senza crollare, e trova il corrispondente massimo $\lambda$.
 
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
@@ -95,13 +95,13 @@ Una goccia di metallo liquido ha una densità di massa costante $\rho$ e una ten
 
 C'è un valore critico della carica, $Q_0$, che fa scendere la goccia in due. Ogni metà assume la metà della carica totale ($Q_0/2$) e la metà della massa della goccia originale. La "metà espulsa" viene respinta lontano dall'altra metà, che rimane in contatto con il filo.
 
-**(a) ** Per semplicità, supponiamo che la goccia si dividi appena lo stato finale (dopo che la goccia si sia divisa a metà e le due metà siano ben separate) ha un'energia totale inferiore rispetto alla goccia singola iniziale. Trova la carica critica $Q_0$. Esprimere la risposta in termini di $\sigma$, $R$ e $\varepsilon_0$.
+**(a)** Per semplicità, supponiamo che la goccia si dividi appena lo stato finale (dopo che la goccia si sia divisa a metà e le due metà siano ben separate) ha un'energia totale inferiore rispetto alla goccia singola iniziale. Trova la carica critica $Q_0$. Esprimere la risposta in termini di $\sigma$, $R$ e $\varepsilon_0$.
 
 *Suggetta: quando la goccia si sparti, ogni nuova metà ha un raggio $R_1 = R/2^{1/3}$ (dal momento che il volume totale è conservato).*
 
-**(b) ** Man mano che la fonte corrente aggiunge più carica alla goccia, la goccia rimanente continua a dividersi in metà ripetutamente. Qual è la carica $q_n$ sulla goccia $n$-th espulsa (in termini di $Q_0$ e $n$)?
+**(b)** Man mano che la fonte corrente aggiunge più carica alla goccia, la goccia rimanente continua a dividersi in metà ripetutamente. Qual è la carica $q_n$ sulla goccia $n$-th espulsa (in termini di $Q_0$ e $n$)?
 
-**(c) ** Nel limite in cui è stata espulsa tutta la massa iniziale della goccia (infinitamente molte divisioni), qual è il lavoro totale $W$ svolto dalla fonte corrente? Rispondi nella forma $W = B\, \sigma^\alpha R^\beta \varepsilon_0^\gamma$, specifica gli esponenti e diita il valore numérico di $B$ a tre cifre significative.
+**(c)** Nel limite in cui è stata espulsa tutta la massa iniziale della goccia (infinitamente molte divisioni), qual è il lavoro totale $W$ svolto dalla fonte corrente? Rispondi nella forma $W = B\, \sigma^\alpha R^\beta \varepsilon_0^\gamma$, specifica gli esponenti e diita il valore numérico di $B$ a tre cifre significative.
 
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]], [[Coulomb's Law (metodo)|Coulomb's Law]]
@@ -146,13 +146,13 @@ Una **caustica** è una curva luminosa di luce che appare quando molti raggi lum
 
 Si consideri una goccia di liquido sferica di raggio $r$ con indice di rifrazione $n$ ($1 < n < 2$), sospesa in aria. Un raggio luminoso entra nella goccia con parametro di impatto $b$ (distanza perpendicolare dal centro della goccia al raggio in entrata). Il raggio si rifracca all'ingresso, si riflette una volta dalla superficie interna, poi si rifracca all'uscita. Tutte le risposte devono essere espresse in termini di parametro di impatto senza dimensioni $x = b/r\in[0,1]$.
 
-**(a) ** Trova l'angolo $\theta_r$ con cui il raggio si devia alla prima rifrazione (cioè il cambiamento di direzione all'entrata nella goccia), in termini di $x$ e $n$.
+**(a)** Trova l'angolo $\theta_r$ con cui il raggio si devia alla prima rifrazione (cioè il cambiamento di direzione all'entrata nella goccia), in termini di $x$ e $n$.
 
-**(b) ** Trova l'angolo di deviazione totale $\Phi(x, n)$ del raggio di luce (misurato dalla sua direzione di spostamento iniziale) dopo aver subito una riflessione interna e due rifrazioni.
+**(b)** Trova l'angolo di deviazione totale $\Phi(x, n)$ del raggio di luce (misurato dalla sua direzione di spostamento iniziale) dopo aver subito una riflessione interna e due rifrazioni.
 
-**(c) ** L'angolo dell'arcobaleno $\phi_0$ corrisponde all'angolo minimo di deviazione totale (cioè il valore di $\Phi$ al punto di stazione $d\Phi/dx = 0$). Trova $\phi_0$ in termini di $n$.
+**(c)** L'angolo dell'arcobaleno $\phi_0$ corrisponde all'angolo minimo di deviazione totale (cioè il valore di $\Phi$ al punto di stazione $d\Phi/dx = 0$). Trova $\phi_0$ in termini di $n$.
 
-**(d) ** Per l'acqua, l'indice di rifrazione per la luce rossa è $n_{\text{red}} = 1.331$ e per la luce viola è $n_{\text{violet}} = 1.343$. Calcolare la larghezza angolare dell'arcobaleno (differenza negli angoli dell'arcobaleno per la luce rossa e viola) in gradi.
+**(d)** Per l'acqua, l'indice di rifrazione per la luce rossa è $n_{\text{red}} = 1.331$ e per la luce viola è $n_{\text{violet}} = 1.343$. Calcolare la larghezza angolare dell'arcobaleno (differenza negli angoli dell'arcobaleno per la luce rossa e viola) in gradi.
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
@@ -225,15 +225,15 @@ La tabella seguente fornisce i valori misurati del secondo coefficiente viriale 
 | 500 | $+16.9$ |
 | 600 | $+21.3$ |
 
-**(a) ** Con la legge dei gas ideali calcolare il volume molare $V_m$ a $T = 100\,\text{K}$, $T = 300\,\text{K}$ e $T = 600\,\text{K}$. Date le vostre risposte in unità SI.
+**(a)** Con la legge dei gas ideali calcolare il volume molare $V_m$ a $T = 100\,\text{K}$, $T = 300\,\text{K}$ e $T = 600\,\text{K}$. Date le vostre risposte in unità SI.
 
-**(b) ** L'equazione di stato di van der Waals implica che $B(T) \approx b - a/(RT)$, dove $a$ e $b$ sono le costanti di van der Waals. Descrivere come linearizzare i dati per ottenere $a$ e $b$ da un grafico e disegnare la forma prevista del grafico.
+**(b)** L'equazione di stato di van der Waals implica che $B(T) \approx b - a/(RT)$, dove $a$ e $b$ sono le costanti di van der Waals. Descrivere come linearizzare i dati per ottenere $a$ e $b$ da un grafico e disegnare la forma prevista del grafico.
 
-**(c) ** Con i dati riportati nella tabella, determinare le costanti di van der Waals $a$ e $b$ per l'azoto applicando la linearizzazione della parte (b). (Si prevede un'analisi grafica precisa o una regressione lineare.)
+**(c)** Con i dati riportati nella tabella, determinare le costanti di van der Waals $a$ e $b$ per l'azoto applicando la linearizzazione della parte (b). (Si prevede un'analisi grafica precisa o una regressione lineare.)
 
-**(d) ** Usando le costanti di van der Waals di cui alla parte (c), si stima la gamma di temperature entro la quale la correzione del volume dovuta a $B(T)/V_m$ è massima del 10% alla pressione atmosferica.
+**(d)** Usando le costanti di van der Waals di cui alla parte (c), si stima la gamma di temperature entro la quale la correzione del volume dovuta a $B(T)/V_m$ è massima del 10% alla pressione atmosferica.
 
-**(e) ** Commento brevemente sul fatto che l'approssimazione di van der Waals sia coerente con i dati relativi a tutta la gamma di temperature data.
+**(e)** Commento brevemente sul fatto che l'approssimazione di van der Waals sia coerente con i dati relativi a tutta la gamma di temperature data.
 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
@@ -274,9 +274,9 @@ A uniformly charged ring of radius $d$ with total charge $Q$ is fixed in place. 
 
 Se la carica puntologica è data una piccola velocità lungo l'asse di simmetria dell'anello, subirà una semplice oscillazione armonica intorno al centro. Trova il periodo $T$ di queste oscillazioni in termini di $Q$, $q$, $m$, $d$ e $\varepsilon_0$.
 
-**(b) ** Ora consideriamo il sistema da un quadro di riferimento che si muove con una piccola velocità $v$ lungo l'asse di simmetria dell'anello (cioè, l'anello e la carica si muovono insieme con velocità $v$ nel quadro di laboratorio, con la carica oscillante ulteriormente intorno al centro dell'anello). In questo quadro, le cariche $Q$ e $q$ appaiono come correnti. Calcolando le correnti efficaci e usando la forza magnetica risultante, trovare la forza di ripristino sulla carica oscillante in questo quadro in movimento. Esprimere la risposta in termini di $q'$, $Q'$, $v$, $d$, $\Delta x$ (piccolo spostamento dal centro lungo l'asse) e costanti fondamentali, dove $q'$ e $Q'$ sono le cariche misurate nel telaio in movimento.
+**(b)** Ora consideriamo il sistema da un quadro di riferimento che si muove con una piccola velocità $v$ lungo l'asse di simmetria dell'anello (cioè, l'anello e la carica si muovono insieme con velocità $v$ nel quadro di laboratorio, con la carica oscillante ulteriormente intorno al centro dell'anello). In questo quadro, le cariche $Q$ e $q$ appaiono come correnti. Calcolando le correnti efficaci e usando la forza magnetica risultante, trovare la forza di ripristino sulla carica oscillante in questo quadro in movimento. Esprimere la risposta in termini di $q'$, $Q'$, $v$, $d$, $\Delta x$ (piccolo spostamento dal centro lungo l'asse) e costanti fondamentali, dove $q'$ e $Q'$ sono le cariche misurate nel telaio in movimento.
 
-**(c) ** Usando il risultato delle parti a) e b), dimostrare che il periodo di oscillazione misurato nel quadro in movimento è coerente con la formula di dilatazione temporale della relatività speciale: $T' = \gamma T$, dove $\gamma = (1-v^2/c^2)^{-1/2}$. Questa è una dimostrazione che l'elettrostatica più la relatività speciale implica la dilatazione temporale.
+**(c)** Usando il risultato delle parti a) e b), dimostrare che il periodo di oscillazione misurato nel quadro in movimento è coerente con la formula di dilatazione temporale della relatività speciale: $T' = \gamma T$, dove $\gamma = (1-v^2/c^2)^{-1/2}$. Questa è una dimostrazione che l'elettrostatica più la relatività speciale implica la dilatazione temporale.
 
 **Topic:** [[Electrostatics]], [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
@@ -325,11 +325,11 @@ $$E(p) = V\left(1 - \cos\!\left(\frac{pb}{\hbar}\right)\right)$$
 
 dove $V$ e $b$ sono costanti che dipendono dal metallo, e $\hbar$ è la costante di Planck ridotta.
 
-**(a) ** Trova la velocità $v$ dell'elettrone in funzione del suo impulso $p$.
+**(a)** Trova la velocità $v$ dell'elettrone in funzione del suo impulso $p$.
 
-**(b) ** Definire la massa effettiva **** $m^*$ dell'elettrone da $F = m^* a$, dove $F$ è una forza applicata e $a$ è l'accelerazione risultante (entrambi lungo la direzione unidimensionale del movimento). Trova $m^*$ come funzione di $p$.
+**(b)** Definire la massa effettiva **** $m^*$ dell'elettrone da $F = m^* a$, dove $F$ è una forza applicata e $a$ è l'accelerazione risultante (entrambi lungo la direzione unidimensionale del movimento). Trova $m^*$ come funzione di $p$.
 
-**(c) ** Un campo elettrico uniforme $E_0$ viene applicato lungo la canna (così la forza sull'elettrone è $F = eE_0$). L'elettrone subisce collisioni con la reticola di cristallo ogni intervallo di tempo $\tau$, che ripristina istantaneamente la sua dinamica a $p = 0$. Supponendo che l'elettrone si riposi dopo ogni collisione e $eE_0 b\tau/\hbar \ll 1$, si trova la densità media di corrente (corente per unità di area trasversale per elettrone) $\langle J \rangle$ nel limite delle collisioni frequenti.
+**(c)** Un campo elettrico uniforme $E_0$ viene applicato lungo la canna (così la forza sull'elettrone è $F = eE_0$). L'elettrone subisce collisioni con la reticola di cristallo ogni intervallo di tempo $\tau$, che ripristina istantaneamente la sua dinamica a $p = 0$. Supponendo che l'elettrone si riposi dopo ogni collisione e $eE_0 b\tau/\hbar \ll 1$, si trova la densità media di corrente (corente per unità di area trasversale per elettrone) $\langle J \rangle$ nel limite delle collisioni frequenti.
 
 Se $\tau$ può essere regolato liberamente, trovare il valore di $\tau$ (in termini di costanti dati) che massimizzi la corrente media $\langle J \rangle$ e trovare la corrente massima corrispondente.
 

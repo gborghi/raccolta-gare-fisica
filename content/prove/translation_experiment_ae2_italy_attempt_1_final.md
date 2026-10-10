@@ -99,34 +99,34 @@ tags:
 
 ### A. Basic characteristics of the PDL trap
 **1. Determination of magnetization of the magnet ($M$) (2.5 pt)**
-- **A.1 ** (0.1 pt): return the magnetic field meter reading of $B_0$ to zero (to be subtracted from subsequent measurements).
+- **A.1** (0.1 pt): return the magnetic field meter reading of $B_0$ to zero (to be subtracted from subsequent measurements).
 - **A.2** (1.15 pt): measure the field $B$ as a function of $x$ in the near field region ($7 \le x \le 16\,\mathrm{mm}$, with $x$ position from the centre of the magnet) and plot it.
-- **A.3 ** (0.75 pt): use the data to determine the value of the $p$ exponent.
-- **A.4 ** (0.5 pct): determine the magnetization of the magnet $M$.
+- **A.3** (0.75 pt): use the data to determine the value of the $p$ exponent.
+- **A.4** (0.5 pct): determine the magnetization of the magnet $M$.
 
 **2. Magnetic levitation effect and magnetic susceptibility ($\chi$) (1.0 pt)**
-- **A.5 ** (0.1 pt): place the graphite bar (HB/0.5, length $8\,\mathrm{mm}$) in the trap and measure the levity height $y_0$.
-- **A.6 ** (0.8 pt): determine the magnetic susceptibility $\chi$ of graphite.
-- **A.7 ** (0.1 pt): to determine whether graphite is (i) ferromagnetic, (ii) paramagnetic or (iii) diamagnetic.
+- **A.5** (0.1 pt): place the graphite bar (HB/0.5, length $8\,\mathrm{mm}$) in the trap and measure the levity height $y_0$.
+- **A.6** (0.8 pt): determine the magnetic susceptibility $\chi$ of graphite.
+- **A.7** (0.1 pt): to determine whether graphite is (i) ferromagnetic, (ii) paramagnetic or (iii) diamagnetic.
 
 **3. The potential for camel shell oscillation and magnetic susceptibility ($\chi$)**
-- **A.8 ** (0.2 pt): make small oscillations (amplitude $A < 4\,\mathrm{mm}$) and determine the period (neglecting the attenuation).
-- **A.9 ** (0.8 pt): calculate the graphite $\chi$ from this oscillation.
+- **A.8** (0.2 pt): make small oscillations (amplitude $A < 4\,\mathrm{mm}$) and determine the period (neglecting the attenuation).
+- **A.9** (0.8 pt): calculate the graphite $\chi$ from this oscillation.
 
 **4. Quality factor ($Q$) and estimate of air viscosity $\mu_A$ (4.0 points)**
-- **A.10 ** (0.5 pt): illustrate with a diagram how to measure the dampening time constant $\tau$ in a simple way.
+- **A.10** (0.5 pt): illustrate with a diagram how to measure the dampening time constant $\tau$ in a simple way.
 - **A.11** (1.5 pt): determine $\tau$ for bars of different diameters (length $8\,\mathrm{mm}$).
 - **A.12** (1.0 pt): determine the viscosity of the air $\mu_A$.
 
 ### B. Applications of the PDL trap as a sensor
-**5. The following information shall be provided:
-- **B.1 ** (0.2 pt): which bar diameter was chosen?
-- **B.2 ** (0.3 pt): calculate the background noise of the seismograph $a_n$ for the chosen bar.
+**5. The following information shall be provided:**
+- **B.1** (0.2 pt): which bar diameter was chosen?
+- **B.2** (0.3 pt): calculate the background noise of the seismograph $a_n$ for the chosen bar.
 
 **6. PDL as tiltmeter (2 pt)**
-- **B.3 ** (0.5 pt): theoretically obtain the relation between the $\Delta z$ shift, the $S$ speed of the screw and the number of turns $N$.
+- **B.3** (0.5 pt): theoretically obtain the relation between the $\Delta z$ shift, the $S$ speed of the screw and the number of turns $N$.
 - **B.4** (1.25 pt): by rotating the screw, determine $\Delta z$ as a function of $N$ and determine the step $S$.
-- **B.5 ** (0.25 pt): what is the ideal $Q$ factor for a tiltmeter (so that the bar reaches equilibrium as quickly as possible without oscillating)?
+- **B.5** (0.25 pt): what is the ideal $Q$ factor for a tiltmeter (so that the bar reaches equilibrium as quickly as possible without oscillating)?
 
 **Topic:** [[Magnetism]], [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]

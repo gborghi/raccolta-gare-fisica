@@ -103,7 +103,7 @@ En la siguiente tabla se recogen los valores de longitud libre del tubo, $L_n$, 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema sperimentale. Valve stazionarie in un tubo**
+Il problema sperimentale. Valve stazionarie in un tubo
 
 **Modello teorico.**
 
@@ -155,15 +155,15 @@ La tabella seguente rileva i valori di lunghezza libera del tubo, $L_n$, misurat
 |---|---|---|---|---|---|---|---|---|---|---|
 | $L_n$ (mm) | 31 | 91 | 157 | 218 | 271 | 341 | 411 | 468 | 526 | 579 |
 
-**(a) ** Rappresenta graficamente i punti $(x,y) = (2n-1,\, L_n)$ su carta millimetrica.
+**(a)** Rappresenta graficamente i punti $(x,y) = (2n-1,\, L_n)$ su carta millimetrica.
 
-**(b) ** Determina la pendenza, $p$, della retta che meglio si adatta a questi punti.
+**(b)** Determina la pendenza, $p$, della retta che meglio si adatta a questi punti.
 
-**(c) ** Dalla pendenza $p$ e dalle espressioni (2) e (3) si deduce il valore della velocità del suono, $v$, e della lunghezza d'onda $\lambda$.
+**(c)** Dalla pendenza $p$ e dalle espressioni (2) e (3) si deduce il valore della velocità del suono, $v$, e della lunghezza d'onda $\lambda$.
 
-**(d) ** Fa' una ragionevole stima dell'incertezza $\Delta p$ della pendenza ottenuta in (b).
+**(d)** Fa' una ragionevole stima dell'incertezza $\Delta p$ della pendenza ottenuta in (b).
 
-**(e) ** Considerando quanto precede e l'incertezza di $f$, si deve calcolare l'incertezza $\Delta v$ della velocità del suono ottenuta in c).
+**(e)** Considerando quanto precede e l'incertezza di $f$, si deve calcolare l'incertezza $\Delta v$ della velocità del suono ottenuta in c).
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_experimental_oaf_2020/2020 prueba_experimental_oaf_2020_p1_f1.png]]
@@ -238,15 +238,15 @@ The following table summarizes the tube free length values, $L_n$, measured for 
 |---|---|---|---|---|---|---|---|---|---|---|
 | $L_n$ (mm) | 31 | 91 | 157 | 218 | 271 | 341 | 411 | 468 | 526 | 579 |
 
-**(a) ** Graphically represents the $(x,y) = (2n-1,\, L_n)$ points on the millimeter paper.
+**(a)** Graphically represents the $(x,y) = (2n-1,\, L_n)$ points on the millimeter paper.
 
-**(b) ** Determine the slope, $p$, of the straight line that best fits these points.
+**(b)** Determine the slope, $p$, of the straight line that best fits these points.
 
-**(c) ** From the slope $p$ and the expressions (2) and (3) deduces the value of the sound speed, $v$, and the wavelength $\lambda$.
+**(c)** From the slope $p$ and the expressions (2) and (3) deduces the value of the sound speed, $v$, and the wavelength $\lambda$.
 
-**(d) ** Make a reasoned estimate of the slope uncertainty $\Delta p$ obtained in paragraph (b).
+**(d)** Make a reasoned estimate of the slope uncertainty $\Delta p$ obtained in paragraph (b).
 
-**(e) ** Considering the above and the uncertainty of $f$, estimate the uncertainty $\Delta v$ of the sound speed you have obtained in c).
+**(e)** Considering the above and the uncertainty of $f$, estimate the uncertainty $\Delta v$ of the sound speed you have obtained in c).
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_experimental_oaf_2020/2020 prueba_experimental_oaf_2020_p1_f1.png]]

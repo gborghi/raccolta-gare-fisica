@@ -53,7 +53,7 @@ The following shall be added to the list of the following:
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Clip chain fixed to the edge of the table
+**p.3**  Clip chain fixed to the edge of the table
 ![[_attachments/Naz24SpeT/Naz24SpeT_p3_f2.png]]
 <!--fig:end-->
 

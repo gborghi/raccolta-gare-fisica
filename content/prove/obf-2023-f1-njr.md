@@ -347,7 +347,7 @@ With respect to the concepts of displacement and distance, for a reticle motion,
 - They're always the same.
 - **B.** The distance is always greater than the displacement.
 - **C.** The distance is always positive while the displacement can be negative.
-- MSK1/>D ** The displacement is always greater.
+- MSK1/>D  The displacement is always greater.
 - The displacement and distance always have the same signal.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -606,7 +606,7 @@ I punti rappresentati nel grafico seguente sono stati ottenuti dal registro dell
 In relazione a questo movimento possiamo dire che...
 
 - **A.** È un movimento reticolo e uniforme.
-- MSK0/>B.** È un movimento bidimensionale.
+- MSK0/>B. È un movimento bidimensionale.
 - **C.** È un movimento a variabile accelerazione.
 - **D.** È un movimento con costante accelerazione.
 Non possiamo dire nulla sul movimento del corpo.

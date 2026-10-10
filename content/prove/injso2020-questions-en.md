@@ -34,7 +34,7 @@ A body with a density $\rho$ is attached to a spring that is known to stretch li
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione I (correzione di una sola opzione) **
+**Sezione I (correzione di una sola opzione)**
 
 Un corpo con una densità $\rho$ è attaccato a una molla che si estende linearmente con la forza applicata. La molla è tenuta verticalmente in modo che il corpo sia completamente immerso in un liquido di densità $\rho_1$ ($< \rho$). In questo caso, la molla si estende per una lunghezza $x_1$. Quando lo stesso corpo è completamente immerso in un liquido di densità $\rho_2$ ($< \rho_1$), la molla si estende di $x_2$. Ciò implica che la densità del corpo ($\rho$) è data dall'espressione
 
@@ -688,7 +688,7 @@ A student was given this situation and was asked to draw lines of force through 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione II (correzione di una o più opzioni) **
+**Sezione II (correzione di una o più opzioni)**
 
 La figura a destra mostra una carica di punto negativo $(-Q)$ e una spessa piastra metallica non carica. Nella figura bidimensionale, MN è una sezione trasversale della piastra. Come si vede nella figura, la carica si trova sulla normale tratto dal centro della piastra.
 
@@ -1140,7 +1140,7 @@ Le piramidi (P), (Q), (R), (S), (T) sono illustrate nella figura.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione III (analisi) **
+**Sezione III (analisi)**
 
 [6 voti] Prendiamo un modello di giocattolo di E. cellula di coli (cellula batterica) come corpo cilindrico con tappe emisferiche alle entrambe estremità del cilindro. Il diametro di questo cilindro è preso come $1\,\mu\text{m}$ e la lunghezza della sua parte cilindrica è anche $1\,\mu\text{m}$.
 

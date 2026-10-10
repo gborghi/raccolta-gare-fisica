@@ -91,9 +91,9 @@ In questo problema viene analizzata la manovra orbitale di Hohmann che consente 
 
 Prendiamo in considerazione prima due orbite ecuatoriali circolari diverse da un satellite, la prima a bassa altitudine, che chiameremo LEO$_1$, e la seconda in un'orbita ecuatoriale geoestazionaria, che chiameremo GEO$_3$.
 
-**a) ** Considera prima che l'orbita LEO$_1$ sia ad un'altezza $z_1$ sulla superficie terrestre. Scrivi (sopra $G$, $M_\oplus$, $m$ e il raggio di orbita $r_1$) le espressioni della velocità del satellite $v_1$, il suo periodo $T_1$, la sua energia totale $E_1$ e il suo momento angolare rispetto alla Terra $L_1$.
+**a)** Considera prima che l'orbita LEO$_1$ sia ad un'altezza $z_1$ sulla superficie terrestre. Scrivi (sopra $G$, $M_\oplus$, $m$ e il raggio di orbita $r_1$) le espressioni della velocità del satellite $v_1$, il suo periodo $T_1$, la sua energia totale $E_1$ e il suo momento angolare rispetto alla Terra $L_1$.
 
-**b) ** Considera ora il satellite in orbita geostationaria GEO$_3$. Scrivi (in funzione di $G$, $M_\oplus$, $m$ e della durata del giorno terrestre $T_\oplus$) le espressioni della sua velocità $v_3$, radio $r_3$, energia totale $E_3$ e momento angolare rispetto alla Terra $L_3$.
+**b)** Considera ora il satellite in orbita geostationaria GEO$_3$. Scrivi (in funzione di $G$, $M_\oplus$, $m$ e della durata del giorno terrestre $T_\oplus$) le espressioni della sua velocità $v_3$, radio $r_3$, energia totale $E_3$ e momento angolare rispetto alla Terra $L_3$.
 
 In seguito, si studierà la manovra di Hohmann che consente al satellite di passare dall'orbita circolare iniziale LEO$_1$ alla circolazione finale GEO$_3$ viaggiando attraverso la cosiddetta **orbita di trasferimento**.
 
@@ -103,15 +103,15 @@ In sintesi, la manovra richiede che $r_P = r_1$ e $r_A = r_3$, essendo $r_P$ e $
 
 Ricordate che in ogni tracciato del satellite non si conserva solo l'energia totale. Quando si muove a causa di una forza centrale si conserva anche il suo momento angolare.
 
-**c) ** Determina l'energia totale $E$ e il momento angolare $L$ del satellite, nonché le sue velocità $v_P$ e $v_A$ nei punti $P$ e $A$ nell'orbita elliptica di trasferimento $\textcircled{2}$. Scrivi i tuoi risultati in termini di $G$, $M_\oplus$, $m$, $r_P$ e $r_A$ solo.
+**c)** Determina l'energia totale $E$ e il momento angolare $L$ del satellite, nonché le sue velocità $v_P$ e $v_A$ nei punti $P$ e $A$ nell'orbita elliptica di trasferimento $\textcircled{2}$. Scrivi i tuoi risultati in termini di $G$, $M_\oplus$, $m$, $r_P$ e $r_A$ solo.
 
 L'improvvisa spinta tangenziale $\Delta v_{1P}$ alla velocità $v_1$ del satellite (che è in orbita LEO$_1$), darà la velocità $v_P$, trasferendolo all'orbita elliptica di trasferimento $\textcircled{2}$ (il cui apio $A$ sarà a un punto dell'orbita circolare GEO$_3$).
 
 La manovra non è ancora conclusa; una volta raggiunto il punto di culmine $A$ dell'orbita di trasferimento $\textcircled{2}$, deve essere applicata un'altra spinta brusca aggiuntiva $\Delta v_{A3}$ per passare da tale orbita elliptica all'orbita geoestazionaria finale GEO$_3$.
 
-**d) ** Determina i pulsi $\Delta v_{1P} = v_P - v_1$ e $\Delta v_{A3} = v_3 - v_A$ necessari per mettere il satellite in orbita geoestazionaria GEO$_3$ dall'orbita iniziale LEO$_1$, e calcola i suoi valori in metri per secondo.
+**d)** Determina i pulsi $\Delta v_{1P} = v_P - v_1$ e $\Delta v_{A3} = v_3 - v_A$ necessari per mettere il satellite in orbita geoestazionaria GEO$_3$ dall'orbita iniziale LEO$_1$, e calcola i suoi valori in metri per secondo.
 
-**e) ** Attraverso la seconda legge di Kepler (la velocità areolare è costante) dimostra che il periodo dell'orbita di trasferimento è
+**e)** Attraverso la seconda legge di Kepler (la velocità areolare è costante) dimostra che il periodo dell'orbita di trasferimento è
 
 $$T_2 = \sqrt{\frac{4\pi^2 a^3}{GM_\oplus}},$$
 
@@ -121,7 +121,7 @@ Determina il tempo $t_{PA}$ impiegato dal satellite nell'orbita di trasferimento
 
 ---
 
-**Dati: **
+**Dati:**
 - Massa del satellite $m$.
 - Costante di gravità universale $G$.
 - Massa terrestre $M_\oplus$, $\;GM_\oplus = 398\,600\ \text{km}^3\,\text{s}^{-2}$.
@@ -154,9 +154,9 @@ In this problem, the Hohmann orbital maneuver is analyzed, which allows a satell
 
 Let's first consider two different circular equatorial orbits of a satellite, the first at low altitude, which we'll call LEO$_1$, and the second in a geostationary equatorial orbit, which we'll call GEO$_3$.
 
-**a) ** Consider first that the LEO$_1$ orbit is at an altitude $z_1$ above the earth's surface. Write (based on $G$, $M_\oplus$, $m$ and the radius of orbit $r_1$) the expressions of the satellite's speed $v_1$, its period $T_1$, its total energy $E_1$ and its angular moment with respect to the Earth $L_1$.
+**a)** Consider first that the LEO$_1$ orbit is at an altitude $z_1$ above the earth's surface. Write (based on $G$, $M_\oplus$, $m$ and the radius of orbit $r_1$) the expressions of the satellite's speed $v_1$, its period $T_1$, its total energy $E_1$ and its angular moment with respect to the Earth $L_1$.
 
-**b) ** Consider now the satellite in the geostationary orbit GEO$_3$. Write (based on $G$, $M_\oplus$, $m$ and the length of the Earth day $T_\oplus$) the expressions of its speed $v_3$, radius $r_3$, total energy $E_3$ and angular moment with respect to Earth $L_3$.
+**b)** Consider now the satellite in the geostationary orbit GEO$_3$. Write (based on $G$, $M_\oplus$, $m$ and the length of the Earth day $T_\oplus$) the expressions of its speed $v_3$, radius $r_3$, total energy $E_3$ and angular moment with respect to Earth $L_3$.
 
 Next, we will study the Hohmann maneuver that allows the satellite to pass from the initial circular orbit LEO$_1$ to the final circular GEO$_3$ by traveling through the so-called **transfer orbit**.
 
@@ -166,13 +166,13 @@ In summary, the maneuver requires that $r_P = r_1$ and $r_A = r_3$, being $r_P$ 
 
 Remember, every satellite's path is not just about total energy. When moving due to a central force, its angular momentum is also preserved.
 
-**c) ** Determine the total energy $E$ and angular moment $L$ of the satellite, as well as its speeds $v_P$ and $v_A$ at the points $P$ and $A$ in the elliptical transfer orbit $\textcircled{2}$. Write your results in terms of $G$, $M_\oplus$, $m$, $r_P$ and $r_A$ only.
+**c)** Determine the total energy $E$ and angular moment $L$ of the satellite, as well as its speeds $v_P$ and $v_A$ at the points $P$ and $A$ in the elliptical transfer orbit $\textcircled{2}$. Write your results in terms of $G$, $M_\oplus$, $m$, $r_P$ and $r_A$ only.
 
 The sudden tangential push $\Delta v_{1P}$ at the satellite's $v_1$ speed (which is in LEO$_1$ orbit), will give it the speed $v_P$, transferring it to the elliptical transfer orbit $\textcircled{2}$ (whose apogee $A$ will be at some point in the GEO$_3$ circular orbit).
 
 The manoeuvre is not yet complete; once the $A$ of the transfer orbit has reached its peak $\textcircled{2}$ another additional sudden push $\Delta v_{A3}$ must be applied to move from that elliptical orbit to the final geo-stationary orbit GEO$_3$.
 
-**d) ** Determine the $\Delta v_{1P} = v_P - v_1$ and $\Delta v_{A3} = v_3 - v_A$ pulses needed to put the satellite into geostationary orbit GEO$_3$ from initial orbit LEO$_1$, and calculate their values in meters per second.
+**d)** Determine the $\Delta v_{1P} = v_P - v_1$ and $\Delta v_{A3} = v_3 - v_A$ pulses needed to put the satellite into geostationary orbit GEO$_3$ from initial orbit LEO$_1$, and calculate their values in meters per second.
 
 **e)** Mediante la segunda ley de Kepler (la velocidad areolar es constante) demuestre que el periodo de la órbita de transferencia es
 

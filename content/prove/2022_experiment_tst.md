@@ -77,9 +77,9 @@ Per simulare le imperfezioni del meccanismo di scarica del disco, i valori inizi
 - Velocità angolare iniziale: incertezza relativa del 5%, composta da incertezza assoluta di 0,2 rad/s.
 - angolo di incidenza: incertezza assoluta 1°.
 
-**(a) ** Trova il coefficiente di restituzione $c$ tra disco e muro.
+**(a)** Trova il coefficiente di restituzione $c$ tra disco e muro.
 
-**(b) ** Trova il raggio $R$ del disco e i valori di $\mu$ e $\beta$.
+**(b)** Trova il raggio $R$ del disco e i valori di $\mu$ e $\beta$.
 
 <!--fig:start-->
 ![[_attachments/2022_Experiment_TST/2022_Experiment_TST_p3_f1.png]]
@@ -152,11 +152,11 @@ I parametri che specifica sono influenzati dalle seguenti incertezze:
 - $v$: relativo 1%, più assoluto 0,05 m/s.
 - $\Theta$: assoluto 0.1°.
 
-**(a) ** Trova la posizione iniziale $(x_0, y_0)$ del disco nascosto.
+**(a)** Trova la posizione iniziale $(x_0, y_0)$ del disco nascosto.
 
-**(b) ** Trova il raggio $R$ del disco nascosto.
+**(b)** Trova il raggio $R$ del disco nascosto.
 
-**(c) ** Trova la massa $M$ del disco nascosto e il coefficiente di restituzione $c$ tra i dischi.
+**(c)** Trova la massa $M$ del disco nascosto e il coefficiente di restituzione $c$ tra i dischi.
 
 <!--fig:start-->
 ![[_attachments/2022_Experiment_TST/2022_Experiment_TST_p4_f2.png]]

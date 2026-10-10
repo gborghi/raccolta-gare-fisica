@@ -219,7 +219,7 @@ It 's there .
 $$\alpha = \frac{d\omega}{dt} = \frac{d\omega}{d\theta}\frac{d\theta}{dt} = \frac{d\omega}{d\theta}\omega = \frac{6g\,\text{sen}\,\theta/(5L)}{2\omega}\omega = \frac{3g}{5L}\text{sen}\,\theta.$$
 
 <!--fig:start-->
-**p.1 **  Tilted handle with spheres 1 and 2, angle theta
+**p.1**  Tilted handle with spheres 1 and 2, angle theta
 ![[_attachments/Teo06sol/Teo06sol_p1_f1.png]]
 <!--fig:end-->
 
@@ -712,7 +712,7 @@ The text of the problem can only be made in the first sentence, as shown in the 
 - Right to left.
 
 <!--fig:start-->
-**p.5 **  Cartesian axes and two solenoid-condenser circuits
+**p.5**  Cartesian axes and two solenoid-condenser circuits
 ![[_attachments/Teo06sol/Teo06sol_p5_f2.png]]
 <!--fig:end-->
 

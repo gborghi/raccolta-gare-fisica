@@ -1443,7 +1443,7 @@ Which of the following is an *ex situ* method of conservation? [1]
 
 <div class="qlang-split" data-lang="it"></div>
 
-Quale dei seguenti è un metodo di conservazione ex situ **? [1]
+Quale dei seguenti è un metodo di conservazione ex situ **? [1]**
 
 - a) Agroforestazione
 - b) Rifugio
@@ -2463,7 +2463,7 @@ B) In which direction will water move by osmosis? (1 Mark)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (interrogazioni analisiche / lunghe). ** Le domande da 61 a 68 contengono 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
+**Sezione B (interrogazioni analisiche / lunghe).** Le domande da 61 a 68 contengono 5 punti ciascuno. Le domande sono inoltre segnalate se sono costituite da più di una parte.
 
 L'osmosi è il movimento delle molecole d'acqua da una regione della loro maggiore concentrazione (solvente diluito) a una regione della loro concentrazione inferiore (solvente concentrata) attraverso una membrana semipermeabile. Il potenziale dell'acqua è la tendenza delle molecole d'acqua a spostarsi da un luogo all'altro attraverso le membrane. È indicato da $\psi$ ed è misurato in termini di unità denominate "pascals".
 

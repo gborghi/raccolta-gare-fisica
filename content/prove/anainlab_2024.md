@@ -145,7 +145,7 @@ $$\mu_d = \frac{\Delta a}{g} \quad (8)$$
 
 Report all results with the correct SI units. and the appropriate number of significant figures.
 
-In addition, ** explains how you determined the uncertainties ** on the various measures (both Table 1 and Table 2). Finally, the mean $\mu_d = \overline{\mu_d} \pm \Delta\mu_d$ obtained from the $M$ variable is calculated.
+In addition, **explains how you determined the uncertainties** on the various measures (both Table 1 and Table 2). Finally, the mean $\mu_d = \overline{\mu_d} \pm \Delta\mu_d$ obtained from the $M$ variable is calculated.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Error Propagation (metodo)|Error Propagation]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]]

@@ -47,9 +47,9 @@ Repita o procedimento usando o pêndulo com comprimento de 60 cm e 90 cm, e anot
 
 <div class="qlang-split" data-lang="it"></div>
 
-**A  Procedura sperimentale I: dipendenza del periodo da **
+**A  Procedura sperimentale I: dipendenza del periodo da**
 
-Usando una ruola come massa $m$, rilasciare il pendolo da una delle estremità (usare un angolo $\theta$ piccolo). Poiché non è facile misurare il periodo di una sola oscillazione  il periodo $T$ è definito come il tempo trascorso dal momento in cui il pendolo esce dalla mano fino al momento in cui ritorna , si misurerà per ogni pendolo, con il cronometro, il tempo ** di 10 oscillazioni complete**. Inizia con un pendolo lungo 30 cm, eseguite la misura tre volte e annotate i risultati nel registro dei dati sperimentali I.
+Usando una ruola come massa $m$, rilasciare il pendolo da una delle estremità (usare un angolo $\theta$ piccolo). Poiché non è facile misurare il periodo di una sola oscillazione  il periodo $T$ è definito come il tempo trascorso dal momento in cui il pendolo esce dalla mano fino al momento in cui ritorna , si misurerà per ogni pendolo, con il cronometro, il tempo **di 10 oscillazioni complete**. Inizia con un pendolo lungo 30 cm, eseguite la misura tre volte e annotate i risultati nel registro dei dati sperimentali I.
 
 Ripeti la procedura con il pendolo di 60 cm e 90 cm di lunghezza e annotate i risultati nel registro dei dati sperimentali I.
 
@@ -84,7 +84,7 @@ Using a routine as the mass $m$, release the pendulum from one end (use a small 
 
 Repeat the procedure using the 60 cm and 90 cm length pendulum and note the results in the experimental data log I.
 
-> ** Important note: ** You should make the angle $\theta$ as small as possible.
+> **Important note:** You should make the angle $\theta$ as small as possible.
 
 **Experimental data record I**
 
@@ -176,10 +176,10 @@ L'obiettivo di questo procedimento è di verificare se il periodo $T$ dipende da
 
 **B  Experimental procedure II: period dependence on the mass**
 
-(a) Using the length pendulum $l = 90\,\text{cm}$, attach **two rows ** and measure the time of 10 oscillations as done in Experimental Procedure I. Do this measurement three times and write the results in the Experimental Data Registry II.
+(a) Using the length pendulum $l = 90\,\text{cm}$, attach **two rows** and measure the time of 10 oscillations as done in Experimental Procedure I. Do this measurement three times and write the results in the Experimental Data Registry II.
 
 - **B.** Repeat the procedure
-- **A.** using ** three rows** and write the results in the Experimental Data Registry II.
+- **A.** using **three rows** and write the results in the Experimental Data Registry II.
 
 (c) Copy in the table below the data from the previous table (Experimental Data Record I) for the length $l = 90\,\text{cm}$ (one row).
 

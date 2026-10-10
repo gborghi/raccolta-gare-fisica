@@ -2432,8 +2432,8 @@ PT25. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-  Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 En un día de verano catamarqueño, en una tienda de telas, un empleado tiene “un metro” 
 (regla metálica para medir) graduado a 20°C. Suponga que el empleado está utilizando 
@@ -2465,7 +2465,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Un giorno di estate catamarcano, in un negozio di tessuti, un dipendente ha un metro.
@@ -2497,8 +2497,8 @@ PT25. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-  Escuela Municipal N° 1 Fray Mamerto Esquiu**
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
 
 On a summer day in Catamarca, in a fabric shop, an employee has "a meter" (metal measuring ruler) graduated at 20°C. Suppose the employee is using his "meter" at an ambient temperature of almost 40°C. On that day:
 
@@ -2523,8 +2523,8 @@ PT26. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-  Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Un cuerpo de 80 kg se desea levantar hasta una altura de 10m sobre un plano inclinado 
 que forma un ángulo de 30° con la horizontal. Si la fuerza (paralela al plano inclinado) que 
@@ -2552,7 +2552,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Un corpo di 80 kg è desideroso di essere sollevato fino a 10 m di altezza su un piano inclinato.
@@ -2580,8 +2580,8 @@ PT26. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-  Escuela Municipal N° 1 Fray Mamerto Esquiu**
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
 
 An 80 kg body is to be lifted to a height of 10 m on an inclined plane that forms an angle of 30° with the horizontal. If the force (parallel to the inclined plane) exerted through a rope is 600 N and the coefficient of kinetic friction between the surface and the mass is 0.2. It is asked to:
 a) Draw the inclined plane and all the forces acting on the body (free-body diagram).
@@ -2604,8 +2604,8 @@ PT27. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-  Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Nave con propulsión iónica 
 Una nave espacial emplea en su propulsión el Principio de acción y reacción de las 
@@ -2672,7 +2672,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Nave a propulsione ionica
@@ -2739,8 +2739,8 @@ PT27. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-  Escuela Municipal N° 1 Fray Mamerto Esquiu**
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Ion-Propelled Spacecraft
 A spacecraft uses the principle of action and reaction of forces (F= - F') for its propulsion. Gases at very high speed are expelled through the spacecraft's nozzle with great force; in turn, the air propels the spacecraft in the opposite direction with the same force. If an ion engine is used, neutral argon gas atoms (although xenon, cesium, or mercury atoms could also be used) enter a first chamber where they are ionized by a microwave beam that strips one electron from each atom. The Ar+ ions are conducted by a weak electric field to another chamber, where an intense electric field accelerates them to a high speed and expels them into outer space. To create this field, a potential difference is established between two grids, through which the ions pass. The spacecraft must remain electrically neutral, so a circuit collects the electrons produced in the ionization and, by means of a hollow cathode, also expels them into space, where they recombine with the Ar+ ions, forming neutral gas again and emitting a beautiful glow. Electrons are much lighter than ions, so their propulsion effect is irrelevant. (see figure)
@@ -9582,8 +9582,8 @@ b) The period of oscillation of the spring
 **Gane el premio**
 
 PT85. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada* 
- EES N° 149** 
- *Resistencia - **Puerto Vilelas, Chaco. 
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco. 
  
 Gane el premio 
 En una feria, se gana una jirafa de peluche 
@@ -9643,8 +9643,8 @@ OAF 2019- 73
 **Win the prize**
 
 PT85. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada*
- EES N° 149**
- *Resistencia - **Puerto Vilelas, Chaco.
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco.
 
 Win the prize
 At a fair, one wins a stuffed giraffe by throwing a coin into a little plate, which is on a shelf 1.5 m higher than where the coin leaves the hand. If the coin is thrown at
@@ -9668,8 +9668,8 @@ OAF 2019- 73
 **Cuatro cargas**
 
 PT86. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada* 
- EES N° 149** 
- *Resistencia - **Puerto Vilelas, Chaco. 
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco. 
  
 Cuatro cargas 
 Cuatro cargas puntuales se encuentran ubicadas en 
@@ -9725,8 +9725,8 @@ e) Calcolare l'angolo della forza risultante.
 **Four charges**
 
 PT86. EES No. 75 Julio Cortázar* - UEGP No. 16 José Manuel Estrada*
- EES No. 149**
- *Resistencia - **Puerto Vilelas, Chaco.
+ EES No. 149
+***Resistencia -** Puerto Vilelas, Chaco.
 
 Four charges
 Four point charges are located at the vertices of a square, taking as value q
@@ -9750,8 +9750,8 @@ e) Calculate the angle of the resultant force.
 **Tanque de nitrogeno**
 
 PT87. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada* 
- EES N° 149** 
- *Resistencia - **Puerto Vilelas, Chaco. 
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco. 
  
 Tanque de nitrógeno 
 Un tanque cilíndrico grande contiene 0,75m3 de nitrógeno gaseoso a 300 K y 1,50x105 
@@ -9797,8 +9797,8 @@ b) Calcolare la pressione finale del sistema.
 **Nitrogen tank**
 
 PT87. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada*
- EES N° 149**
- *Resistencia - **Puerto Vilelas, Chaco.
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco.
 
 Nitrogen tank
 A large cylindrical tank contains 0.75 m3 of nitrogen gas at 300 K and 1.50x105
@@ -23858,8 +23858,8 @@ Escuela Preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
 Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
 Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-*San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Densidad de un sólido irregular 
  
@@ -23971,7 +23971,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Densità di un solido irregolare 
@@ -24083,8 +24083,8 @@ Escuela Preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
 Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
 Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-Escuela Municipal N° 1 Fray Mamerto Esquiu**
-*San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
+Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
 
 Density of an irregular solid
 
@@ -24182,8 +24182,8 @@ PE10. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-  Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Pendulo fisico 
 Objetivo 
@@ -24323,7 +24323,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Pendolo fisico
@@ -24463,8 +24463,8 @@ PE10. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-  Escuela Municipal N° 1 Fray Mamerto Esquiu**
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
 
 Physical pendulum
 Objective
@@ -24572,8 +24572,8 @@ PE11. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana* 
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert* 
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu* 
-  Escuela Municipal N° 1 Fray Mamerto Esquiu** 
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca. 
  
 Ley  de ohm- circuitos electricos 
  
@@ -24697,7 +24697,7 @@ Scuola preuniversitaria ENET N° 1 Prof. Vicente Aguilera*
 Scuola secondaria N° 3 Gustavo Levene* - Scuola Padre R. di Quintana* 
 Istituzione Pía Didomenico* - EPET N° 7 Alsina Alcobert* 
 Scuola Provinciale di Mineria* - Scuola Preuniversitaria Fray M. Squaw* 
-Scuola Comunale N° 1 Fray Mamerto Esquiu** 
+Scuola Comunale N° 1 Fray Mamerto Esquiu 
 San Fernando del Valle - Fraie Mamerto Esquiu - Pietra Bianca, Catamarca. 
  
 Legge di Ohm - circuiti elettrici 
@@ -24821,8 +24821,8 @@ PE11. Colegio del Carmen y San José* - Escuela Secundaria N° 2 Clara Amstrong*
   Escuela Secundaria N° 3 Gustavo Levene* - Colegio Padre R. de la Quintana*
   Instituto Pía Didoménico* - EPET N° 7 Alsina Alcobert*
   Escuela Provincial de Minería* - Escuela PreUniversitaria Fray M. Esquiu*
-  Escuela Municipal N° 1 Fray Mamerto Esquiu**
-  *San Fernando del Valle - **Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
+  Escuela Municipal N° 1 Fray Mamerto Esquiu
+***San Fernando del Valle -** Fray Mamerto Esquiu- Piedra Blanca, Catamarca.
 
 Ohm's Law - electrical circuits
 
@@ -27500,7 +27500,7 @@ la massa deve correggere la lunghezza del filo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The simple pendulum is **
+The simple pendulum is 
 
 PE19. Provincial School of Technical Education No 24 
 Commander Andresito, missions. 
@@ -28880,7 +28880,7 @@ la gravedad (g).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Messura dell'accelerazione della gravità (g) **
+**Messura dell'accelerazione della gravità (g)**
 
 PE24. IMPETIMENTO N° 65 Giovanni Antonio di Mena 
 Vicina Mackenna, Cordoba. 
@@ -30209,8 +30209,8 @@ According to equation (1), a linear dependence between 2 T and L is expected.
 **Cinematica. Determinacion de la aceleracion de un cuerpo en un plano inclinado**
 
 PE31. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada* 
- EES N° 149** 
- *Resistencia - **Puerto Vilelas, Chaco. 
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco. 
  
 Cinemática. Determinación de la aceleración de un cuerpo en un plano inclinado 
 Introducción 
@@ -30309,8 +30309,8 @@ e) Presente todo lo pedido en los puntos anteriores de forma escrita.
 **Cinematica. Determinazione dell'accelerazione di un corpo su un piano inclinato**
 
 PE31. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada*
- EES N° 149**
- *Resistencia - **Puerto Vilelas, Chaco.
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco.
 
 Cinematica. Determinazione dell'accelerazione di un corpo su un piano inclinato
 Introduzione
@@ -30382,8 +30382,8 @@ e) Presenti tutto quanto richiesto nei punti precedenti in forma scritta.
 **Kinematics. Determination of the acceleration of a body on an inclined plane**
 
 PE31. EES N° 75 Julio Cortázar* - UEGP N° 16 José Manuel Estrada*
- EES N° 149**
- *Resistencia - **Puerto Vilelas, Chaco.
+ EES N° 149
+***Resistencia -** Puerto Vilelas, Chaco.
 
 Kinematics. Determination of the acceleration of a body on an inclined plane
 Introduction
@@ -37612,7 +37612,7 @@ g = 9,8 m/s2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sale jet (PARTE 2) **
+**Sale jet (PARTE 2)**
 
 PE56. Istituto Privato Rivadavia - Collegio svizzero 
 Alderetes, Tucumán. 

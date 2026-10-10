@@ -115,7 +115,7 @@ valid up to the upper end of the atmosphere where $T = 0\ \text{K}$. In the form
 
 **A.1** (2,0 pt)  Determine the free fall acceleration $g$ on the planet by performing an appropriate series of measurements and drawing an appropriate chart. Provide an analysis of the uncertainty in the outcome.
 
-**A.2 ** (0.5 pt)  Moving away from the tower along the equator, you discover that you can see the tower up to a certain distance $L = 230\ \text{km}$ (measured as the distance between you and the top of the tower). Qual è il raggio $R$ del pianeta? You can assume your height is much lower than the height of the tower.
+**A.2** (0.5 pt)  Moving away from the tower along the equator, you discover that you can see the tower up to a certain distance $L = 230\ \text{km}$ (measured as the distance between you and the top of the tower). Qual è il raggio $R$ del pianeta? You can assume your height is much lower than the height of the tower.
 
 **A.3** (0,5 pt) — Stimare la massa $M$ del pianeta. Provide an analysis of the uncertainty in the outcome. What physical effect contributes most to the accuracy of your estimate for $M$? Point to the appropriate effect in the reply sheet.
 

@@ -863,7 +863,7 @@ risultato $T_0$. Ignora la resistenza e l'attrito dell'aria.
 - **A.** La tensione è maggiore al punto $\theta_g = \theta_0$.
 - **B.** La tensione è maggiore al punto $\theta_g = 0$.
 - **C.** La tensione è maggiore ad un angolo $\theta_g$ con $0 < \theta_g < \theta_0$.
-- ** D.** La tensione è costante.
+- **D.** La tensione è costante.
 - **E.** Nessuno di questi elementi è valido per tutti i valori di $\theta_0$ con $0 < \theta_0 < \pi/2$.
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]

@@ -104,13 +104,13 @@ Una galassia a spirale comune come la Via Lattea è costituita da un bulbo centr
 
 Una de las primeras evidencias de la materia oscura se observó en las llamadas **curvas de rotación**, que representan la velocidad orbital de una estrella en su movimiento de rotación alrededor del centro de su galaxia.
 
-**a) ** Considera una stella situata a $r$ distanza dal centro galattico. Ottieni la sua velocità orbitale $v_{\mathrm{orb}}(r)$ in funzione di $r$, $R_b$, $M_b$ e $G$ (constante di gravità), nelle due regioni $r < R_b$ e $r > R_b$.
+**a)** Considera una stella situata a $r$ distanza dal centro galattico. Ottieni la sua velocità orbitale $v_{\mathrm{orb}}(r)$ in funzione di $r$, $R_b$, $M_b$ e $G$ (constante di gravità), nelle due regioni $r < R_b$ e $r > R_b$.
 
 *Aiuto:* Solo la materia contenuta all'interno della sfera radio $r$ contribuisce al calcolo della forza gravitazionale a distanza $r$.
 
 Per la Via Lattea, la rappresentazione grafica di $v_{\mathrm{orb}}(r)$ del precedente paragrafo corrisponde alla curva A della figura allegata. Tuttavia, si osservano sperimentalmente i punti indicati, per diverse stelle, che si adattano bene alla curva B. Come si può notare, la velocità orbitale non è diminuente per $r > R_b$, ma è circa costante.
 
-**b) ** Ottieni dal grafico il raggio $R_b$ del bulbo di materia visibile della Via Lattea e la velocità orbitale di una stella situata a $r = R_b$. A partire da questi valori, calcoli la massa $M_b$ della materia ordinaria della Via Lattea. Esprimere il risultato in masse solari.
+**b)** Ottieni dal grafico il raggio $R_b$ del bulbo di materia visibile della Via Lattea e la velocità orbitale di una stella situata a $r = R_b$. A partire da questi valori, calcoli la massa $M_b$ della materia ordinaria della Via Lattea. Esprimere il risultato in masse solari.
 
 Il fatto che la velocità orbitale sia costante lontano dal bulbo può essere spiegato se, oltre alla materia visibile, consideriamo la materia oscura, che non possiamo rilevare se non per i suoi effetti gravitazionali. Supponiamo che la densità di materia oscura sia così:
 
@@ -118,9 +118,9 @@ $$\rho(r) = \begin{cases} \dfrac{k}{r^2} & \text{si } r \leq R_g \\ 0 & \text{si
 
 dove $k$ è una costante e $R_g$ è il raggio che fissa il bordo della galassia fino a dove la materia oscura si estende. È stato stimato che per la Via Lattea $R_g \approx 58\,\text{kpc}$. Considereremo le grandi distanze fuori dal bulbo, per poter disprezzare l'effetto della materia visibile, ma inferiori al raggio galattico di materia oscura, cioè $R_b \leq r \leq R_g$.
 
-**c) ** Dimostra che, con la densità (1), la massa della materia oscura contenuta in una sfera radio $r$ cresce linealmente come $M(r) = 4\pi k\, r$. Inoltre, dimostra che si ottiene una velocità orbitale costante di valore $v_c = \sqrt{4\pi G k}$.
+**c)** Dimostra che, con la densità (1), la massa della materia oscura contenuta in una sfera radio $r$ cresce linealmente come $M(r) = 4\pi k\, r$. Inoltre, dimostra che si ottiene una velocità orbitale costante di valore $v_c = \sqrt{4\pi G k}$.
 
-**d) ** Considerando il valore di $v_c$ per la Via Lattea ottenuto dal grafico, calcola la massa $M_g$ (in masse solari) di tutta la materia oscura della Via Lattea.
+**d)** Considerando il valore di $v_c$ per la Via Lattea ottenuto dal grafico, calcola la massa $M_g$ (in masse solari) di tutta la materia oscura della Via Lattea.
 
 **e)** Sabiendo que el Sol se encuentra a 8 kpc del centro galáctico, calcule la densidad de materia oscura en el Sistema Solar. Compara con il valore della densità della materia ordinaria nello spazio interplanetario nel Sistema Solare, che è di circa 5 atomi di H per ogni cm$^3$.
 
@@ -130,11 +130,11 @@ $$F = m\,a\,\mu(x) \quad (2)$$
 
 dove $x = a/a_0$, $a_0$ è una costante, e $\mu(x)$ è una funzione che tende a 1 quando $x \gg 1$ e tende a $x$ quando $x \ll 1$. Quindi, quando le accelerazioni sono molto più alte della costante $a_0$ si trova nel classico regime newtoniano, mentre se le accelerazioni sono molto più piccole di $a_0$ domina il cosiddetto regime MOND.
 
-**f) ** Assumendo il regime MOND nella nostra galassia, determina la velocità orbitale costante $v_c$ in funzione di $M_b$, $a_0$ e $G$, e calcola il valore di $a_0$. Calcola anche l'accelerazione della Terra in orbita attorno al Sole. Confrontando i due valori, indicare se è coerente applicare la teoria MOND nel Sistema Solare.
+**f)** Assumendo il regime MOND nella nostra galassia, determina la velocità orbitale costante $v_c$ in funzione di $M_b$, $a_0$ e $G$, e calcola il valore di $a_0$. Calcola anche l'accelerazione della Terra in orbita attorno al Sole. Confrontando i due valori, indicare se è coerente applicare la teoria MOND nel Sistema Solare.
 
 Torniamo all'ipotesi della materia oscura e alla densità data dall'Ec. (1).
 
-**g) ** Dimostra che la velocità di fuga della galassia, da un punto distante $r$ dal centro, è:
+**g)** Dimostra che la velocità di fuga della galassia, da un punto distante $r$ dal centro, è:
 
 $$v_{\mathrm{esc}}^2(r) = 2v_c^2\left(1 + \ln\frac{R_g}{r}\right) \quad (3)$$
 
@@ -148,7 +148,7 @@ Ci chiedevamo se la velocità orbitale delle stelle della Via Lattea fosse suffi
 
 ---
 
-**Dati: **
+**Dati:**
 - Un kpc è un "kilo parsec", dove 1 parsec (pc) = 3,26 anni-luce
 - $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2\cdot\text{kg}^{-2}$
 - $M_{\odot} = 1{,}99 \times 10^{30}\,\text{kg}$
@@ -178,15 +178,15 @@ Since the 1930s, physicists have believed that there must be much more matter in
 
 A common spiral galaxy like the Milky Way is made up of a central bulb that is roughly spherical where most of the ordinary mass of the galaxy accumulates, and a flattened disk with a spiral shape. En este problema vamos a suponer que toda la masa ordinaria está concentrada en el bulbo central de radio $R_b$ y masa $M_b$ (es decir, despreciaremos la masa del disco galáctico). Let's assume that the bulb density is constant.
 
-One of the first evidence of dark matter was observed in the so-called ** rotation curves**, which represent the orbital velocity of a star in its rotational motion around the center of its galaxy.
+One of the first evidence of dark matter was observed in the so-called **rotation curves**, which represent the orbital velocity of a star in its rotational motion around the center of its galaxy.
 
-**a) ** Consider a star located at a distance $r$ from the galactic center. It obtains its orbital velocity $v_{\mathrm{orb}}(r)$ in terms of $r$, $R_b$, $M_b$ and $G$ (gravity constant), in the two regions $r < R_b$ and $r > R_b$.
+**a)** Consider a star located at a distance $r$ from the galactic center. It obtains its orbital velocity $v_{\mathrm{orb}}(r)$ in terms of $r$, $R_b$, $M_b$ and $G$ (gravity constant), in the two regions $r < R_b$ and $r > R_b$.
 
 *Help:* Only the matter contained within the radius sphere $r$ contributes to the calculation of the gravitational force at the distance $r$.
 
 For the Milky Way, the graphical representation of $v_{\mathrm{orb}}(r)$ in the previous section corresponds to the curve A of the figure attached. However, experimentally, the points indicated for different stars are observed, which fit well to the B curve. As can be seen, the orbital velocity is not decreasing for $r > R_b$, but is approximately constant.
 
-**b) ** Get from the graph the radius $R_b$ of the Milky Way visible-matter bulb and the orbital velocity of a star located at $r = R_b$. From these values, calculate the mass $M_b$ of ordinary Milky Way matter. Express the result in solar masses.
+**b)** Get from the graph the radius $R_b$ of the Milky Way visible-matter bulb and the orbital velocity of a star located at $r = R_b$. From these values, calculate the mass $M_b$ of ordinary Milky Way matter. Express the result in solar masses.
 
 The fact that the orbital velocity is constant away from the bulb can be explained by considering dark matter, which we cannot detect except by its gravitational effects. Let's say the density of dark matter is like this:
 
@@ -194,11 +194,11 @@ $$\rho(r) = \begin{cases} \dfrac{k}{r^2} & \text{si } r \leq R_g \\ 0 & \text{si
 
 where $k$ is a constant and $R_g$ is the radius that fixes the edge of the galaxy to where dark matter extends. It has been estimated that for the Milky Way $R_g \approx 58\,\text{kpc}$. We'll consider large distances outside the bulb, so we can disregard the effect of visible matter, but less than the galactic radius of dark matter, that is, $R_b \leq r \leq R_g$.
 
-**c) ** Demonstrate that, with density (1), the mass of dark matter contained in a radius sphere $r$ grows linearly as $M(r) = 4\pi k\, r$. It also demonstrates that a constant orbital velocity of $v_c = \sqrt{4\pi G k}$ is indeed obtained.
+**c)** Demonstrate that, with density (1), the mass of dark matter contained in a radius sphere $r$ grows linearly as $M(r) = 4\pi k\, r$. It also demonstrates that a constant orbital velocity of $v_c = \sqrt{4\pi G k}$ is indeed obtained.
 
-**d) ** Taking into account the value of $v_c$ for the Milky Way obtained from the graph, calculate the mass $M_g$ (in solar masses) of all dark matter in the Milky Way.
+**d)** Taking into account the value of $v_c$ for the Milky Way obtained from the graph, calculate the mass $M_g$ (in solar masses) of all dark matter in the Milky Way.
 
-**e) ** Knowing that the Sun is 8 kpc from the galactic center, calculate the density of dark matter in the Solar System. Compare it to the density value of ordinary matter in interplanetary space in the Solar System, which is about 5 H atoms per cm$^3$.
+**e)** Knowing that the Sun is 8 kpc from the galactic center, calculate the density of dark matter in the Solar System. Compare it to the density value of ordinary matter in interplanetary space in the Solar System, which is about 5 H atoms per cm$^3$.
 
 There are alternative models to explain the flatness of the rotation curve that do not resort to dark matter. One of them is the so-called MOND theory (by Modified Newtonian Dynamics), which proposes a modification of Newton's second law, $F = ma$, replacing it with a more general law of the type:
 
@@ -206,11 +206,11 @@ $$F = m\,a\,\mu(x) \quad (2)$$
 
 where $x = a/a_0$, $a_0$ is a constant, and $\mu(x)$ is a function that tends to 1 when $x \gg 1$ and tends to $x$ when $x \ll 1$. Thus, when the accelerations are much higher than the constant $a_0$ it is in the classical Newtonian regime, while if the accelerations are much lower than $a_0$ it dominates the so-called MOND regime.
 
-**f) ** Assuming the MOND regime in our galaxy, determine the constant orbital velocity $v_c$ based on $M_b$, $a_0$ and $G$, and calculate the value of $a_0$. Also calculate the acceleration of the Earth in its orbit around the Sun. By comparing the two values, indicate whether it is consistent to apply the MOND theory in the Solar System.
+**f)** Assuming the MOND regime in our galaxy, determine the constant orbital velocity $v_c$ based on $M_b$, $a_0$ and $G$, and calculate the value of $a_0$. Also calculate the acceleration of the Earth in its orbit around the Sun. By comparing the two values, indicate whether it is consistent to apply the MOND theory in the Solar System.
 
 Let's go back to the hypothesis of dark matter and the density given by the Ec. (1).
 
-**g) ** Demonstrate that the velocity of escape of the galaxy from a point at a distance $r$ from the center is:
+**g)** Demonstrate that the velocity of escape of the galaxy from a point at a distance $r$ from the center is:
 
 $$v_{\mathrm{esc}}^2(r) = 2v_c^2\left(1 + \ln\frac{R_g}{r}\right) \quad (3)$$
 

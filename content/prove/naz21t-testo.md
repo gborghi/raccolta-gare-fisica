@@ -99,7 +99,7 @@ $$\text{tg}\,\alpha = \frac{2s\sqrt{1 - s^2}}{2s^2 + \mu - 1}. \qquad (1)$$
 7. The graph of $\alpha_\text{max}$ is plotted as a function of $\mu$.
 
 <!--fig:start-->
-**p.4 **  Collision between two rigid spheres
+**p.4**  Collision between two rigid spheres
 ![[_attachments/Naz21T-testo/Naz21T-testo_p4_f1.png]]
 <!--fig:end-->
 

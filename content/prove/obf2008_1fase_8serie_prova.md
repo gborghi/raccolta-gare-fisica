@@ -382,7 +382,7 @@ L'energia che viene ricevuta dal Sole e che qui viene trasformata in calore arri
 - **A** delle onde ultrasonore continuamente emesse dal Sole.
 - **B** delle onde elettromagnetiche.
 - **C.** della diffusione delle particelle emesse dal Sole.
-- ** D.** della conduzione del calore attraverso lo spazio esterno.
+- **D.** della conduzione del calore attraverso lo spazio esterno.
 - **E** solo dalle onde luminose.
 
 **Topic:** [[Electromagnetism]], [[Thermodynamics]]
@@ -398,7 +398,7 @@ The energy received from the sun and converted here into heat reaches the Earth 
 - **A** of the ultrasound waves continuously emitted by the Sun.
 - **B** of electromagnetic waves.
 - **C** of the propagation of particles ejected by the Sun.
-- ** D** of the conduction of heat through outer space.
+- **D** of the conduction of heat through outer space.
 - **E** only from light waves.
 
 **Topic:** [[Electromagnetism]], [[Thermodynamics]]
@@ -574,7 +574,7 @@ Tomando como referência as grandezas físicas que se relacionam através da seg
 
 Prendendo come riferimento le grandi dimensioni fisiche che si relazionano attraverso la seconda legge di Newton, si può dire che, per un corpo di determinata massa, esiste un rapporto di proporzione diretto tra:
 
-- ** la sua massa e la sua velocità.
+-  la sua massa e la sua velocità.
 - **B.** la forza applicata per farlo muoversi e la sua velocità.
 - **C** il suo peso e la sua velocità.
 - **D** la sua massa e la sua accelerazione.
@@ -593,7 +593,7 @@ Taking as a reference the physical quantities that relate through Newton's secon
 - Its mass and speed.
 - **B** the force applied to move it and its speed.
 - **C** its weight and speed.
-- ** D ** its mass and its acceleration.
+- **D** its mass and its acceleration.
 - **E** the force applied to move it and its acceleration.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -642,9 +642,9 @@ III. Nel movimento in questione, il peso agisce come una forza dissipatrice di e
 È corretto quanto affermato in:
 
 - **A** I e II solo.
-- ** B.** II solo.
+- **B.** II solo.
 - **C** I solo.
-- ** D ** I e III solo.
+- **D** I e III solo.
 - **E** I, II e III.
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -931,7 +931,7 @@ Per una stazione spaziale in orbita intorno alla Terra è corretto affermare che
 - **A** viene sottoposta a una forza risultante mirata al centro della Terra.
 Gli astronauti, all'interno, sono indipendenti dalla forza di gravità terrestre.
 La forza gravitazionale sulla stazione è nulla, perché è nel vuoto.
-- ** D.** essa è soggetta ad un'accelerazione costante tangente al percorso.
+- **D.** essa è soggetta ad un'accelerazione costante tangente al percorso.
 - **E.** necessariamente deve girare intorno alla Terra in un periodo pari a $1$ di un giorno terrestre.
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
@@ -947,7 +947,7 @@ About a space station orbiting the Earth it is correct to say that:
 - MSK1 it is subjected to a resulting force pointing towards the center of the Earth.
 The astronauts inside the spacecraft are independent of the Earth's gravitational force.
 The gravitational force over the station is zero because it's in the vacuum.
-- ** D ** it is subject to a constant acceleration tangent to the trajectory.
+- **D** it is subject to a constant acceleration tangent to the trajectory.
 - **E** it must necessarily orbit the Earth in a period equal to $1$ Earth day.
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]

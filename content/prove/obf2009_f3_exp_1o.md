@@ -84,7 +84,7 @@ Para o segundo experimento repita os procedimentos experimentais do Experimento 
 
 **Tritto statico sul piano inclinato**
 
-**Materiale sperimentale disponibile: **
+**Materiale sperimentale disponibile:**
 
 Con la seguente lista e la foto, controlla il materiale che hai ricevuto:
 - Fino di prugna (barbento e ruola);

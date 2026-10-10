@@ -79,29 +79,29 @@ In our analysis, we have neglected several factors, whose corresponding energy s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'effetto Hall quantistico frazionato (FQHE) **
+**L'effetto Hall quantistico frazionato (FQHE)**
 
 L'effetto Hall quantistico frazionario (FQHE) è stato scoperto da D. C. Tsui e H. Stormer al Bell Labs nel 1981. Nell'esperimento gli elettroni sono stati confinati in due dimensioni sul lato delle GaAs dal potenziale di interfaccia di un eterogeno GaAs/AlGaAs fabbricato da A. C. Gossard (qui si trascura lo spessore dello strato elettronica bidimensionale). Un forte campo magnetico uniforme $B$ è stato applicato perpendicolare al sistema di elettroni bidimensionali. Come illustrato nella figura 1, quando un corrente $I$ passava attraverso il campione, la tensione $V_H$ lungo il percorso corrente presentava un inaspettato piano quantizzato (corrispondente a una resistenza Hall $R_H = 3h/e^2$) a temperature sufficientemente basse. L'aspetto dell'altopiano implicerebbe la presenza di quasiparticelle frazionatamente cariche nel sistema, che analizziamo di seguito. Per semplicità, trascuriamo la dispersione degli elettroni da potenziale casuale, così come lo spin degli elettroni.
 
 In un modello classico, gli elettroni bidimensionali si comportano come palline di biliardo cariche su un tavolo. Nel campione GaAs/AlGaAs, tuttavia, la massa degli elettroni è ridotta a una massa effettiva $m^*$ a causa della loro interazione con gli ioni.
 
-(i) **(2 punto) ** Scrivere l'equazione del movimento di un elettrone nel campo elettrico perpendicolare $\vec{E} = -E_y \hat{y}$ e nel campo magnetico $\vec{B} = B \hat{z}$.
+(i) **(2 punto)** Scrivere l'equazione del movimento di un elettrone nel campo elettrico perpendicolare $\vec{E} = -E_y \hat{y}$ e nel campo magnetico $\vec{B} = B \hat{z}$.
 
-(ii) **(1 punto) ** Determina la velocità $v_s$ degli elettroni nel caso stazionario.
+(ii) **(1 punto)** Determina la velocità $v_s$ degli elettroni nel caso stazionario.
 
-(iii) **1 punto) ** In quale direzione punta la velocità?
+(iii) **1 punto)** In quale direzione punta la velocità?
 
-**(b) ** **(2 punti) ** La resistenza Hall è definita come $R_H = V_H/I$. Nel modello classico, trovare $R_H$ come funzione del numero di elettroni $N$ e del flusso magnetico $\phi = BWL$, dove $A$ è l'area del campione, e $W$ e $L$ rispettivamente la larghezza e la lunghezza effettive del campione.
+**(b)** **(2 punti)** La resistenza Hall è definita come $R_H = V_H/I$. Nel modello classico, trovare $R_H$ come funzione del numero di elettroni $N$ e del flusso magnetico $\phi = BWL$, dove $A$ è l'area del campione, e $W$ e $L$ rispettivamente la larghezza e la lunghezza effettive del campione.
 
-**(c) ** **(2 punti) ** Sappiamo che gli elettroni si muovono in orbite circolari nel campo magnetico. Nell'immagine meccanica quantistica, il campo magnetico impingente $B$ potrebbe essere visto come la creazione di piccoli turbolini, i cosiddetti vortici, nel mare di elettroni  un turbolino per ogni flusso quantistico $h/e$ del campo magnetico. Per il caso di $R_H = 3h/e^2$, scoperto da Tsui e Stormer, derivare il rapporto tra il numero di elettroni $N$ e il numero dei quanti di flusso $N_\phi$, noto come fattore di riempimento $\nu$.
+**(c)** **(2 punti)** Sappiamo che gli elettroni si muovono in orbite circolari nel campo magnetico. Nell'immagine meccanica quantistica, il campo magnetico impingente $B$ potrebbe essere visto come la creazione di piccoli turbolini, i cosiddetti vortici, nel mare di elettroni  un turbolino per ogni flusso quantistico $h/e$ del campo magnetico. Per il caso di $R_H = 3h/e^2$, scoperto da Tsui e Stormer, derivare il rapporto tra il numero di elettroni $N$ e il numero dei quanti di flusso $N_\phi$, noto come fattore di riempimento $\nu$.
 
 ![[APhO_2015_theory/APhO_2015_theory_Q1_p2_f1.png]]
 
 *Figura 1: a) Sketto dell'impianto sperimentale per l'osservazione della FQHE. Come indicato, una corrente $I$ passa attraverso un sistema di elettroni bidimensionali nella direzione longitudinale con una lunghezza effettiva $L$. La tensione di Hall $V_H$ è misurata in direzione trasversale con una larghezza effettiva $W$. Inoltre, viene applicato un campo magnetico uniforme $B$ perpendicolare al piano. La direzione della corrente è data solo per scopi illustrativi, che potrebbero non essere corretti. b) Resistenza di sala $R_H$ rispetto a $B$ a quattro temperature diverse (corve spostate per la chiarezza) nella pubblicazione originale sul FQHE. Le caratteristiche di $R_H = 3h/e^2$ sono dovute alla FQHE.*
 
-**(d) ** **(2 punti) ** Si scopre che legare un numero intero di vortici ($n > 1$) con ogni elettrone genera un urlo più grande circostante, spingendo quindi via tutti gli altri elettroni. Pertanto, il sistema può ridurre notevolmente la sua energia elettrostatica di Coulomb al corrispondente fattore di riempimento. Determinare l'esponente di scalazione $\alpha$ della quantità di guadagno energetico per ogni elettrone $\Delta U(B) \propto B^\alpha$.
+**(d)** **(2 punti)** Si scopre che legare un numero intero di vortici ($n > 1$) con ogni elettrone genera un urlo più grande circostante, spingendo quindi via tutti gli altri elettroni. Pertanto, il sistema può ridurre notevolmente la sua energia elettrostatica di Coulomb al corrispondente fattore di riempimento. Determinare l'esponente di scalazione $\alpha$ della quantità di guadagno energetico per ogni elettrone $\Delta U(B) \propto B^\alpha$.
 
-**(e) ** **(2 punti) ** Mentre il campo magnetico si allontana dall'esatto riempimento $\nu = 1/n$ a un campo più alto, si creano più vortici (torcicoli nel mare di elettroni). Non sono legati agli elettroni e si comportano come particelle che portano cariche positive efficacemente, quindi conosciute come quasi-buchi, rispetto agli elettroni carichi negativamente. L'importo del deficit di carico in uno di questi quasi-pericoli è esattamente $1/n$ di un carico elettronico. Un argomento analogo può essere fatto per campi magnetici leggermente inferiori a $\nu$ e la creazione di quasielettroni di carica negativa $e^* = -e/n$. Al piano di Hall quantizzato di $R_H = 3h/e^2$, calcolare la quantità di variazione in $B$ che corrisponde all'introduzione di esattamente un quasi-luco carico frazionalmente. (Quando la loro densità è bassa, le quasiparticelle sono confinate dal potenziale casuale generato da impurità e imperfezioni, quindi la resistenza di Hall rimane quantizzata per un intervallo finito di $B$.)
+**(e)** **(2 punti)** Mentre il campo magnetico si allontana dall'esatto riempimento $\nu = 1/n$ a un campo più alto, si creano più vortici (torcicoli nel mare di elettroni). Non sono legati agli elettroni e si comportano come particelle che portano cariche positive efficacemente, quindi conosciute come quasi-buchi, rispetto agli elettroni carichi negativamente. L'importo del deficit di carico in uno di questi quasi-pericoli è esattamente $1/n$ di un carico elettronico. Un argomento analogo può essere fatto per campi magnetici leggermente inferiori a $\nu$ e la creazione di quasielettroni di carica negativa $e^* = -e/n$. Al piano di Hall quantizzato di $R_H = 3h/e^2$, calcolare la quantità di variazione in $B$ che corrisponde all'introduzione di esattamente un quasi-luco carico frazionalmente. (Quando la loro densità è bassa, le quasiparticelle sono confinate dal potenziale casuale generato da impurità e imperfezioni, quindi la resistenza di Hall rimane quantizzata per un intervallo finito di $B$.)
 
 In questo esperimento, il campo magnetico corrispondente al centro del piatto Hall quantizzato è:
 
@@ -125,11 +125,11 @@ Costante di Boltzmann, $k_B = 1.38 \times 10^{-23}$ J/K.
 
 Nella nostra analisi abbiamo trascurato diversi fattori, le cui scale energetiche corrispondenti, rispetto a $\Delta U(B)$ discusse nella lettera d), sono troppo grandi per eccitare o troppo piccole per essere rilevanti.
 
-(i) **(1 punto) ** Calcolare l'energia termica $E_{th}$ a temperatura $T = 1.0$ K.
+(i) **(1 punto)** Calcolare l'energia termica $E_{th}$ a temperatura $T = 1.0$ K.
 
-(ii) **(2 punti) ** Gli elettroni confinati spazialmente nei turbolini (o vortici) hanno una grande energia cinetica. Utilizzando la relazione di incertezza, stimare l'ordine di grandezza dell'energia cinetica $E_k$ di un tale elettrone. (Questa quantità sarebbe anche la penalità di energia aggiuntiva se mettiamo due elettroni nello stesso turbolino, invece di due turbolini separati, a causa del principio di esclusione di Pauli.)
+(ii) **(2 punti)** Gli elettroni confinati spazialmente nei turbolini (o vortici) hanno una grande energia cinetica. Utilizzando la relazione di incertezza, stimare l'ordine di grandezza dell'energia cinetica $E_k$ di un tale elettrone. (Questa quantità sarebbe anche la penalità di energia aggiuntiva se mettiamo due elettroni nello stesso turbolino, invece di due turbolini separati, a causa del principio di esclusione di Pauli.)
 
-**(g) ** Ci sono anche una serie di altopiani a $R_H = h/ie^2$, dove $i = 1, 2, 3, \dots$ in Tsui *et al.* esperimento, come mostrato nella Figura 1(b). Questi pianeti, noti come effetto Hall quantistico interi (IQHE), sono stati precedentemente riportati da K. Von Klitzing nel 1980. Ripetendo (c) - (f) per gli altopiani interi, si capisce che la novità della FQHE risiede criticamente nell'esistenza di quasiparticelle cariche frazionalmente, $R$.
+**(g)** Ci sono anche una serie di altopiani a $R_H = h/ie^2$, dove $i = 1, 2, 3, \dots$ in Tsui *et al.* esperimento, come mostrato nella Figura 1(b). Questi pianeti, noti come effetto Hall quantistico interi (IQHE), sono stati precedentemente riportati da K. Von Klitzing nel 1980. Ripetendo (c) - (f) per gli altopiani interi, si capisce che la novità della FQHE risiede criticamente nell'esistenza di quasiparticelle cariche frazionalmente, $R$.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Gwlr3JVKylfXB8X9j-In-ud2TkIeLz6l/view)
 
@@ -234,7 +234,7 @@ $$f_i(x, v_x, v_y) = n_i(x)\left(\frac{m_i}{2\pi kT}\right)^{3/2} e^{-m_i(v_x^2 
 
 please calculate the constant $\beta$ in the magnetization $M = \beta n(x)\dfrac{kT}{B}$, where the magnetization $M$is the magnetic moment per unit volume. (Hint: We have $\displaystyle\int_0^\infty x\exp(-x)dx = 1$ and $\displaystyle\int_{-\infty}^\infty \exp(-x^2)dx = \sqrt{\pi}$.)
 
-**(c)** **(1 Point)**Now let's go back to the Earth's dipole magnetic field. Please apply the result from Question(b) to calculate the ratio of the diamagnetic field and the Earth's dipole magnetic field in Equation (1) at the position ($x=10R_0$, $y=0$, $z=1$ $R_0$). The plasma pressure is assumed to be
+**(c)** **(1 Point)** Now let's go back to the Earth's dipole magnetic field. Please apply the result from Question(b) to calculate the ratio of the diamagnetic field and the Earth's dipole magnetic field in Equation (1) at the position ($x=10R_0$, $y=0$, $z=1$ $R_0$). The plasma pressure is assumed to be
 
 $$p(z) = p_0 e^{-z/z\sigma^2},\quad \text{where } p_0 = 3 \times 10^{-10}\ \text{pa} \text{ and } a = 2R_E.$$
 
@@ -262,7 +262,7 @@ The magnetic field around this position is also assumed to be uniform. Be aware 
 
   (i) **(2 Points)** Please give the atmospheric density as a function of the altitude and the ratio of the oxygen density at the altitudes H=160km and H=220km. For simplicity, we assume that the atmospheric temperature is independent of the altitude and the air is an ideal gas. ($\rho_a g/P_a = 0.13$ / km, where $\rho_a$ and $P_a$ the atmospheric density and pressure at sea level.)
 
-  (ii) **(2 Points)**Please give the colors of auroras at the altitudes H=160km and H=220km. (Hint: The collision frequency of the collision frequency of atmosphericmolecules at the atmospheric density is independent of the altitude and the air is an ideal gas. $\nu_c = v_{re}\rho_a/p_a$, where $v_0 \approx 10^9$ /s is the collision frequency of atmosphericmolecules at sea level.The excited oxygen atom will lose a part of its energy when it collides with other neutral molecules.)
+  (ii) **(2 Points)** Please give the colors of auroras at the altitudes H=160km and H=220km. (Hint: The collision frequency of the collision frequency of atmosphericmolecules at the atmospheric density is independent of the altitude and the air is an ideal gas. $\nu_c = v_{re}\rho_a/p_a$, where $v_0 \approx 10^9$ /s is the collision frequency of atmosphericmolecules at sea level.The excited oxygen atom will lose a part of its energy when it collides with other neutral molecules.)
 
 **(g)** **(2 points)** As mentioned above, a powerful solar wind can push the dayside magnetopause tovery close to the Earth, which could cause a high-orbit satelliteto be fully exposed to the solar wind. The energetic particles in the solar wind could damage high-tech electronic components in a satellite.For simplicity, the Earth's dipole magnetic field is assumed to remain unchanged when the solar wind compresses it and that the plasma density is ignorable in the magnetosphere. Please give the minimum solar wind speed to cause a damage of a geosynchronous satellite if the magnetic field strength and the plasma density of the solar wind are $B_s = 5 \times 10^{-9}$ T and $\rho_s = 50\ \text{proton}/\text{cm}^3$, respectively. (Hint: The force per unit area associated with the magnetic field is $f = B^2/2\mu_0$. We only consider the variation in $x$ for all physical quantities, i.e., the physical quantities are independent of $y$ and $z$.)
 
@@ -292,7 +292,7 @@ Le seguenti domande sono progettate per aiutarti a trovare la risposta passo dop
 
 *Figura 2*
 
-La superficie curva in cui il vento solare viene deviato per la prima volta si chiama scossa dell'arco **. The corresponding region behind the bow shock andfront of the Earth's magnetic field is called the *magnetosheath*. The region surroundedby the solar wind is called the *magnetosphere*.The Earth's magnetic field largely prevents the solar wind from enteringthe magnetosphere. La regione di contatto tra il vento solare e il campo magnetico terrestre è chiamata *magnetopause*. La posizione della magnetopausa è determinata principalmente dall'intensità e dalla direzione del campo magnetico del vento solare. Quando il campo magnetico del vento solare è antiparallelle al campo magnetico terrestre, la riconnessione magnetica come mostrato nella figura 4 si verifica alla magnetopausa di giorno, che consente alle particelle cariche di entrare nella magnetosfera. Il "punto A" segnato nella magnetopausa, che significa particelle cariche del vento solare che entrano nella magnetosfera, è la regione "A" per spostarsi nella regione "P". Le particelle energetiche del vento solare potrebbero causare un trasferimento di grandezza dell'energia cinetica. (Questa quantità sarebbe anche la penalità di energia aggiuntiva se mettiamo due elettroni nello stesso turbolino, invece di due turbolini separati a causa del principio di esclusione di Pauli?)
+La superficie curva in cui il vento solare viene deviato per la prima volta si chiama scossa dell'arco **. The corresponding region behind the bow shock andfront of the Earth's magnetic field is called the *magnetosheath*. The region surroundedby the solar wind is called the *magnetosphere*.The Earth's magnetic field largely prevents the solar wind from enteringthe magnetosphere. La regione di contatto tra il vento solare e il campo magnetico terrestre è chiamata *magnetopause*. La posizione della magnetopausa è determinata principalmente dall'intensità e dalla direzione del campo magnetico del vento solare. Quando il campo magnetico del vento solare è antiparallelle al campo magnetico terrestre, la riconnessione magnetica come mostrato nella figura 4 si verifica alla magnetopausa di giorno, che consente alle particelle cariche di entrare nella magnetosfera. Il "punto A" segnato nella magnetopausa, che significa particelle cariche del vento solare che entrano nella magnetosfera, è la regione "A" per spostarsi nella regione "P". Le particelle energetiche del vento solare potrebbero causare un trasferimento di grandezza dell'energia cinetica. (Questa quantità sarebbe anche la penalità di energia aggiuntiva se mettiamo due elettroni nello stesso turbolino, invece di due turbolini separati a causa del principio di esclusione di Pauli?)**
 
 ![[APhO_2015_theory/APhO_2015_theory_Q2_p2_f3.png]]
 
@@ -338,7 +338,7 @@ dove $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T e $\hat{x}, \hat
 
 ### Domande:
 
-**(a) ** **(3 punti) **
+**(a)** **(3 punti)**
 
   (i) **(1 Point)** Before we study the motion of a charged particle in the Earth's dipole magnetic field, we first considerthe motion of an electron in a uniform magnetic field $\vec{B}$. When the initial electron velocity $\vec{v}$ is perpendicular to the uniform magnetic field as shown in Figure 6, please calculate the electron trajectory.The electron is initially located at $(x,y,z)=(0,0,0)$.
 
@@ -346,25 +346,25 @@ dove $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T e $\hat{x}, \hat
 
 *Figura 6*
 
-(ii) **(1 punto) ** Determina la corrente elettrica del movimento degli elettroni e calcola il momento magnetico $\vec{\mu} = i\vec{A}$, dove $\vec{A}$ è l'area dell'orbita circolare degli elettroni e la direzione di $\vec{A}$ è determinata dalla regola destra della corrente elettrica.
+(ii) **(1 punto)** Determina la corrente elettrica del movimento degli elettroni e calcola il momento magnetico $\vec{\mu} = i\vec{A}$, dove $\vec{A}$ è l'area dell'orbita circolare degli elettroni e la direzione di $\vec{A}$ è determinata dalla regola destra della corrente elettrica.
 
-(iii) **(1 Punto) ** Se la velocità iniziale degli elettroni $\vec{v}$ non è perpendicolare al campo magnetico uniforme, cioè l'angolo $\theta$ tra $\vec{B}$ e $\vec{v}$ è $0° < \theta < 90°$, indicare il punto di visatura (la distanza lungo l'asse $z$ tra le orbite successive) della traiettoria degli elettroni.
+(iii) **(1 Punto)** Se la velocità iniziale degli elettroni $\vec{v}$ non è perpendicolare al campo magnetico uniforme, cioè l'angolo $\theta$ tra $\vec{B}$ e $\vec{v}$ è $0° < \theta < 90°$, indicare il punto di visatura (la distanza lungo l'asse $z$ tra le orbite successive) della traiettoria degli elettroni.
 
-**(b) ** **(4 punti) ** Nel campo magnetico di fondo uniforme come illustrato nella figura 6, la densità plasmatica non è uniforme in $x$. Per semplicità, supponiamo che la temperatura e la distribuzione degli ioni e degli endelettoni siano uguali. La pressione plasmatica può quindi essere espressa come
+**(b)** **(4 punti)** Nel campo magnetico di fondo uniforme come illustrato nella figura 6, la densità plasmatica non è uniforme in $x$. Per semplicità, supponiamo che la temperatura e la distribuzione degli ioni e degli endelettoni siano uguali. La pressione plasmatica può quindi essere espressa come
 
 $$p(x) = kT[n_i(x) + n_e(x)] = 2kT n(x) = 2kT(n_0 + \alpha x),$$
 
 Se $B, T, k, n_0$ e $\alpha$ sono costanti positive, $n_i(x)$ e $n_e(x)$ sono le densità numeriche degli ioni ed elettroni.
 
-(i) **(2 punti) ** Per favore, spiegate il meccanismo di generazione della corrente elettrica mediante un disegno schematico.
+(i) **(2 punti)** Per favore, spiegate il meccanismo di generazione della corrente elettrica mediante un disegno schematico.
 
-(ii) **(2 punti) ** Se sia gli ioni che gli elettroni hanno una distribuzione maxwelliana, la distribuzione degli ioni è
+(ii) **(2 punti)** Se sia gli ioni che gli elettroni hanno una distribuzione maxwelliana, la distribuzione degli ioni è
 
 $$f_i(x, v_x, v_y) = n_i(x)\left(\frac{m_i}{2\pi kT}\right)^{3/2} e^{-m_i(v_x^2 + v_y^2)/2kT},$$
 
 Calcolare la costante $\beta$ nella magnetizzazione $M = \beta n(x)\dfrac{kT}{B}$, dove la magnetizzazione $M$ è il momento magnetico per unità di volume. (Signore: abbiamo $\displaystyle\int_0^\infty x\exp(-x)dx = 1$ e $\displaystyle\int_{-\infty}^\infty \exp(-x^2)dx = \sqrt{\pi}$.)
 
-**(c)** **(1 Point)**Now let's go back to the Earth's dipole magnetic field. Si prega di applicare il risultato della domanda ((b) per calcolare il rapporto tra il campo diamagnetico e il campo magnetico di dipole terrestre nell'equazione (1) alla posizione ($x=10R_0$, $y=0$, $z=1$ $R_0$). Si presume che la pressione plasmatica sia
+**(c)** **(1 Point)** Now let's go back to the Earth's dipole magnetic field. Si prega di applicare il risultato della domanda ((b) per calcolare il rapporto tra il campo diamagnetico e il campo magnetico di dipole terrestre nell'equazione (1) alla posizione ($x=10R_0$, $y=0$, $z=1$ $R_0$). Si presume che la pressione plasmatica sia
 
 $$p(z) = p_0 e^{-z/z\sigma^2},\quad \text{where } p_0 = 3 \times 10^{-10}\ \text{pa} \text{ and } a = 2R_E.$$
 
@@ -376,23 +376,23 @@ Si presume anche che il campo magnetico attorno a questa posizione sia uniforme.
 
 *Figura 7*
 
-(i) **(3 punti) ** Date la forza giromediata del campo magnetico lungo le linee del campo magnetico su un elettrone e mostrate che il momento magnetico è una costante di movimento, cioè $\dfrac{d\mu}{dt} = 0$, basata sulla legge della conservazione totale dell'energia cinetica.
+(i) **(3 punti)** Date la forza giromediata del campo magnetico lungo le linee del campo magnetico su un elettrone e mostrate che il momento magnetico è una costante di movimento, cioè $\dfrac{d\mu}{dt} = 0$, basata sulla legge della conservazione totale dell'energia cinetica.
 
-(ii) **(1 Punto) ** In base alla costante di movimento del momento magnetico, si prega di determinare quale condizione deve essere soddisfatta per l'angolo $\theta$ tra la velocità iniziale degli elettroni $\vec{v}$ e il campo magnetico al punto "$P_2$"
+(ii) **(1 Punto)** In base alla costante di movimento del momento magnetico, si prega di determinare quale condizione deve essere soddisfatta per l'angolo $\theta$ tra la velocità iniziale degli elettroni $\vec{v}$ e il campo magnetico al punto "$P_2$"
 
-**(e) ** **(1 punto) ** Ogni linea di campo magnetico (linea blu) è mostrata nella figura 8. Si presume che la traiettoria a spirale di una particella carica (curva rossa) sia confinata nel piano $(x-y)$ poiché il gradiente e la curvatura del campo magnetico possono essere ignorati. Se una particella carica con massa $m$, carica $q$ e velocità $\vec{v}$ si trova inizialmente al punto equatoriale [$x=4R_E$, $y=0$, $z=0$] e si sposta verso l'asse positivo $y$, dove il campo magnetico è $\theta$. Innanzitutto, si prega di determinare quale condizione deve essere soddisfatta per $\theta$ se la particella carica arriva a 200 km di altitudine alla latitudine 60°.
+**(e)** **(1 punto)** Ogni linea di campo magnetico (linea blu) è mostrata nella figura 8. Si presume che la traiettoria a spirale di una particella carica (curva rossa) sia confinata nel piano $(x-y)$ poiché il gradiente e la curvatura del campo magnetico possono essere ignorati. Se una particella carica con massa $m$, carica $q$ e velocità $\vec{v}$ si trova inizialmente al punto equatoriale [$x=4R_E$, $y=0$, $z=0$] e si sposta verso l'asse positivo $y$, dove il campo magnetico è $\theta$. Innanzitutto, si prega di determinare quale condizione deve essere soddisfatta per $\theta$ se la particella carica arriva a 200 km di altitudine alla latitudine 60°.
 
 ![[APhO_2015_theory/APhO_2015_theory_Q2_p6_f8.png]]
 
-**(f) ** **(5 Punti) ** Come mostrato nella figura 5, quando si verifica la riconnessione magnetica alla magnetopausa di giorno, le linee di campo magnetico riconnesse si allontanano verso la regione di notte perché il vento solare scorre verso la coda. Pertanto, alcuni elettroni del vento solare nella regione "A" si spostano anche verso la magnetotesta nella regione "P". Dopo che gli elettroni arrivano nella regione "P", alcuni elettroni possono essere accelerati fino a circa 1keV. Se gli elettroni energetici si allontanano verso la termosfera (l'altitudine della termosfera è di circa 85km-800km), gli elettroni energetici possono collidere con gli atomi neutri, che potrebbero causare gli atomi neutri a saltare in stati eccitati. Un fotone viene emesso quando lo stato eccitato più alto di un atomo anetrale ritorna allo stato eccitato più basso o allo stato di base. L'aurora splendida (Figura 1) viene generata nell'ovalo dell'aurora a causa di fotoni con lunghezze d'onda diverse. Si constata che l'aurora è principalmente derivata da fotoni emessi dagli atomi di ossigeno. I livelli di energia nei primi e secondi stati eccitati rispetto allo stato di terra sono rispettivamente di 1,96 eV e 4,17 eV. Le vite dei due stati eccitati di un atomo di ossigeno sono di 110 e 0,8 secondi come mostrato nella Figura 9.
+**(f)** **(5 Punti)** Come mostrato nella figura 5, quando si verifica la riconnessione magnetica alla magnetopausa di giorno, le linee di campo magnetico riconnesse si allontanano verso la regione di notte perché il vento solare scorre verso la coda. Pertanto, alcuni elettroni del vento solare nella regione "A" si spostano anche verso la magnetotesta nella regione "P". Dopo che gli elettroni arrivano nella regione "P", alcuni elettroni possono essere accelerati fino a circa 1keV. Se gli elettroni energetici si allontanano verso la termosfera (l'altitudine della termosfera è di circa 85km-800km), gli elettroni energetici possono collidere con gli atomi neutri, che potrebbero causare gli atomi neutri a saltare in stati eccitati. Un fotone viene emesso quando lo stato eccitato più alto di un atomo anetrale ritorna allo stato eccitato più basso o allo stato di base. L'aurora splendida (Figura 1) viene generata nell'ovalo dell'aurora a causa di fotoni con lunghezze d'onda diverse. Si constata che l'aurora è principalmente derivata da fotoni emessi dagli atomi di ossigeno. I livelli di energia nei primi e secondi stati eccitati rispetto allo stato di terra sono rispettivamente di 1,96 eV e 4,17 eV. Le vite dei due stati eccitati di un atomo di ossigeno sono di 110 e 0,8 secondi come mostrato nella Figura 9.
 
 ![[APhO_2015_theory/APhO_2015_theory_Q2_p7_f9.png]]
 
 *Figura 9*
 
-(i) **(2 punti) ** Indicare la densità atmosferica in funzione dell'altitudine e del rapporto della densità di ossigeno alle altitudini H=160km e H=220km. Per semplicità, supponiamo che la temperatura atmosferica sia indipendente dall'altitudine e che l'aria sia un gas ideale. ($\rho_a g/P_a = 0.13$ / km, dove $\rho_a$ e $P_a$ la densità atmosferica e la pressione al livello del mare.)
+(i) **(2 punti)** Indicare la densità atmosferica in funzione dell'altitudine e del rapporto della densità di ossigeno alle altitudini H=160km e H=220km. Per semplicità, supponiamo che la temperatura atmosferica sia indipendente dall'altitudine e che l'aria sia un gas ideale. ($\rho_a g/P_a = 0.13$ / km, dove $\rho_a$ e $P_a$ la densità atmosferica e la pressione al livello del mare.)
 
-(ii) **(2 punti) **Si prega di indicare i colori delle aurore alle altitudini H=160km e H=220km. (Signore: la frequenza di collisione della frequenza di collisione delle molecole atmosferiche alla densità atmosferica è indipendente dall'altitudine e l'aria è un gas ideale. $\nu_c = v_{re}\rho_a/p_a$, dove $v_0 \approx 10^9$ /s è la frequenza di collisione delle molecole atmosferiche al livello del mare. L'atomo di ossigeno eccitato perderà una parte della sua energia quando colpisce con altre molecole neutre.)
+(ii) **(2 punti)** Si prega di indicare i colori delle aurore alle altitudini H=160km e H=220km. (Signore: la frequenza di collisione della frequenza di collisione delle molecole atmosferiche alla densità atmosferica è indipendente dall'altitudine e l'aria è un gas ideale. $\nu_c = v_{re}\rho_a/p_a$, dove $v_0 \approx 10^9$ /s è la frequenza di collisione delle molecole atmosferiche al livello del mare. L'atomo di ossigeno eccitato perderà una parte della sua energia quando colpisce con altre molecole neutre.)
 
 **(g)** **(2 points)** As mentioned above, a powerful solar wind can push the dayside magnetopause tovery close to the Earth, which could cause a high-orbit satelliteto be fully exposed to the solar wind. Le particelle energetiche del vento solare potrebbero danneggiare componenti elettronici high-tech in un satellite. Per semplicità, si presume che il campo magnetico dipole terrestre rimanga invariato quando il vento solare lo compresse e che la densità plasmatica sia ignorabile nella magnetosfera. Indicare la velocità minima del vento solare per causare danni a un satellite geosincrono se la forza del campo magnetico e la densità plasmatica del vento solare sono $B_s = 5 \times 10^{-9}$ T e $\rho_s = 50\ \text{proton}/\text{cm}^3$, rispettivamente. (Signore: la forza per unità di area associata al campo magnetico è $f = B^2/2\mu_0$. Si considera solo la variazione in $x$ per tutte le quantità fisiche, cioè le quantità fisiche sono indipendenti da $y$ e $z$.)
 
@@ -485,9 +485,9 @@ La lampada a sodio emette linee spettrali D1 ($\lambda = 589.6\,nm$) e D2 ($589\
 
 Alcune costanti fisiche: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-19}$ C, $m_e = 9.1 \times 10^{-31}$ kg, $\varepsilon = 3.0 \times 10^8\ ms^{-1}$.
 
-**(a) ** **(3 punti) ** La linea D1 ($\lambda = 589.6\,nm$) è collimata all'etalon F-P. Per il caso di vuoto (n=1.0), calcolare i) ordini di interferenza $m_i$, ii) angolo di incidenza $\theta_i$ e iii) diametro $D_i$ per i primi tre ($i=1, 2, 3$) margini dal centro dei modelli dell'anello sul piano focale.
+**(a)** **(3 punti)** La linea D1 ($\lambda = 589.6\,nm$) è collimata all'etalon F-P. Per il caso di vuoto (n=1.0), calcolare i) ordini di interferenza $m_i$, ii) angolo di incidenza $\theta_i$ e iii) diametro $D_i$ per i primi tre ($i=1, 2, 3$) margini dal centro dei modelli dell'anello sul piano focale.
 
-**(b) ** **(3 punti) ** Come mostrato alla figura. 2, la larghezza $\varepsilon$ della linea spettrale è definita come la larghezza completa della metà massima (FWHM) della trasmissibilità luminosa T rispetto al passaggio di fase $\delta$. La risoluzione dell'etalon F-P è definita come segue: per due lunghezze d'onda $\lambda$ e $\lambda + \Delta\lambda$, quando la differenza di fase centrale $\Delta\delta$ di entrambe le linee spettrali è maggiore di $\varepsilon$, si ritiene che siano risolvibili; allora la risoluzione dell'etalon è $\lambda/\Delta\lambda$ quando $\Delta\delta = \varepsilon$. Per il caso di vuoto, la linea D1 ($\lambda = 589.6\,nm$), e a causa dell'angolo di incidenza $\theta \approx 0$, prendere $\cos\theta \approx 1.0$, calcolare:
+**(b)** **(3 punti)** Come mostrato alla figura. 2, la larghezza $\varepsilon$ della linea spettrale è definita come la larghezza completa della metà massima (FWHM) della trasmissibilità luminosa T rispetto al passaggio di fase $\delta$. La risoluzione dell'etalon F-P è definita come segue: per due lunghezze d'onda $\lambda$ e $\lambda + \Delta\lambda$, quando la differenza di fase centrale $\Delta\delta$ di entrambe le linee spettrali è maggiore di $\varepsilon$, si ritiene che siano risolvibili; allora la risoluzione dell'etalon è $\lambda/\Delta\lambda$ quando $\Delta\delta = \varepsilon$. Per il caso di vuoto, la linea D1 ($\lambda = 589.6\,nm$), e a causa dell'angolo di incidenza $\theta \approx 0$, prendere $\cos\theta \approx 1.0$, calcolare:
 
 - la larghezza $\varepsilon$ della linea spettrale;
 
@@ -497,25 +497,25 @@ Alcune costanti fisiche: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-
 
 *Figura 2*
 
-**(c) ** **(1 punto) ** Come mostrato alla figura. 1, la pressione iniziale dell'aria è zero. Con l'adattamento lento della valvola a pin, l'aria viene gradualmente iniettata nell'etalon F-P e infine la pressione dell'aria raggiunge la pressione atmosferica standard. Allo stesso tempo, vengono osservati dieci nuovi margini che producono da un centro degli anelli modelli sul piano focale. Sulla base di questo fenomeno calcolare l'indice di rifrazione dell'aria $n_{air}$ alla pressione atmosferica standard.
+**(c)** **(1 punto)** Come mostrato alla figura. 1, la pressione iniziale dell'aria è zero. Con l'adattamento lento della valvola a pin, l'aria viene gradualmente iniettata nell'etalon F-P e infine la pressione dell'aria raggiunge la pressione atmosferica standard. Allo stesso tempo, vengono osservati dieci nuovi margini che producono da un centro degli anelli modelli sul piano focale. Sulla base di questo fenomeno calcolare l'indice di rifrazione dell'aria $n_{air}$ alla pressione atmosferica standard.
 
-**(d) ** **(2 punti) ** Livelli energetici La divisione degli atomi di sodio si verifica quando vengono posizionati in un campo magnetico. Questo è chiamato effetto Zeeman. Il cambiamento di energia dato da $\Delta E = m_j g_L \mu_B B$, dove il numero quantistico $m_j$ può essere J, J-1, …, -J+1, -J. J è il numero quantistico angolare totale. $g_L$ è il fattore Landé, $\mu_B = \dfrac{he}{4\pi m_e}$ è il magnetone di Bohr, h è la costante di Planck, e è la carica di elettroni, $m_e$ è la massa di elettroni, B è il campo magnetico. Come mostrato nella figura. 3, la linea spettrale D1 viene emessa quando gli atomi di sodio saltano dal livello di energia $^2P_{1/2}$ a $^2S_{1/2}$. Abbiamo $J = \dfrac{1}{2}$ per entrambi $^2P_{1/2}$ e $^2S_{1/2}$. Pertanto, nel campo magnetico, ogni livello di energia sarà diviso in due livelli. Definitiamo il divario energetico di due livelli di divisione come $\Delta E_1$ per $^2P_{1/2}$ e $\Delta E_2$ per $^2S_{1/2}$ rispettivamente ($\Delta E_1 < \Delta E_2$). Di conseguenza, la linea D1 è divisa in 4 linee spettrali (a, b, c e d), come mostrato in Figura. 3. Si prega di annotare l'espressione della frequenza ($\nu$) di quattro linee a, b, c e d.
+**(d)** **(2 punti)** Livelli energetici La divisione degli atomi di sodio si verifica quando vengono posizionati in un campo magnetico. Questo è chiamato effetto Zeeman. Il cambiamento di energia dato da $\Delta E = m_j g_L \mu_B B$, dove il numero quantistico $m_j$ può essere J, J-1, …, -J+1, -J. J è il numero quantistico angolare totale. $g_L$ è il fattore Landé, $\mu_B = \dfrac{he}{4\pi m_e}$ è il magnetone di Bohr, h è la costante di Planck, e è la carica di elettroni, $m_e$ è la massa di elettroni, B è il campo magnetico. Come mostrato nella figura. 3, la linea spettrale D1 viene emessa quando gli atomi di sodio saltano dal livello di energia $^2P_{1/2}$ a $^2S_{1/2}$. Abbiamo $J = \dfrac{1}{2}$ per entrambi $^2P_{1/2}$ e $^2S_{1/2}$. Pertanto, nel campo magnetico, ogni livello di energia sarà diviso in due livelli. Definitiamo il divario energetico di due livelli di divisione come $\Delta E_1$ per $^2P_{1/2}$ e $\Delta E_2$ per $^2S_{1/2}$ rispettivamente ($\Delta E_1 < \Delta E_2$). Di conseguenza, la linea D1 è divisa in 4 linee spettrali (a, b, c e d), come mostrato in Figura. 3. Si prega di annotare l'espressione della frequenza ($\nu$) di quattro linee a, b, c e d.
 
 ![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f3.png]]
 
 *Figura 3*
 
-**(e) ** **(3 punti) ** Come mostrato alla figura. 4, quando il campo magnetico è acceso, ogni margine della linea D1 si dividerà in quattro sottorini (1, 2, 3 e 4). Il diametro dei quattro sottoperiferi vicini al centro è misurato come $D_1$, $D_2$, $D_3$ e $D_4$. Indicare l'espressione del diviso energetico $\Delta E_1$ di $^2P_{1/2}$ e $\Delta E_2$ di $^2S_{1/2}$.
+**(e)** **(3 punti)** Come mostrato alla figura. 4, quando il campo magnetico è acceso, ogni margine della linea D1 si dividerà in quattro sottorini (1, 2, 3 e 4). Il diametro dei quattro sottoperiferi vicini al centro è misurato come $D_1$, $D_2$, $D_3$ e $D_4$. Indicare l'espressione del diviso energetico $\Delta E_1$ di $^2P_{1/2}$ e $\Delta E_2$ di $^2S_{1/2}$.
 
 ![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f4.png]]
 
 *Figura 4*
 
-**(f) ** **(3 punti) ** Per il campo magnetico B=0,1T, il diametro di quattro sotto-margini è misurato come: $D_1 = 3.88\,mm$, $D_2 = 4.05\,mm$, $D_3 = 4.35\,mm$ e $D_4 = 4.51\,lmm$. Calcolare il fattore Landé $g_{L1}$ di $^2P_{1/2}$ e $g_{L2}$ di $^2S_{1/2}$.
+**(f)** **(3 punti)** Per il campo magnetico B=0,1T, il diametro di quattro sotto-margini è misurato come: $D_1 = 3.88\,mm$, $D_2 = 4.05\,mm$, $D_3 = 4.35\,mm$ e $D_4 = 4.51\,lmm$. Calcolare il fattore Landé $g_{L1}$ di $^2P_{1/2}$ e $g_{L2}$ di $^2S_{1/2}$.
 
 Il campo magnetico sul sole può essere determinato misurando l'effetto Zeeman della linea di sodio D1 su alcune regioni speciali del sole. Si osserva che, nelle quattro linee divisi, la differenza di lunghezza d'onda tra la lunghezza d'onda più breve e più lunga è di 0,012 nm da uno spettrografo solare. Qual è il campo magnetico B in questa regione del sole?
 
-**(h) ** **(3 punti) ** Una fonte di diodo di emissione di luce (LED) con lunghezza d'onda centrale $\lambda = 650\,nm$ e larghezza spettrale $\Delta\lambda = 20\,nm$ è normalmente incentrata ($\theta = 0$) nell'etalon F-P riportato nella figura. 1. Per il caso del vuoto, trovare i) il numero di linee nello spettro trasmesso e ii) la larghezza di frequenza $\Delta\nu$ di ciascuna linea?
+**(h)** **(3 punti)** Una fonte di diodo di emissione di luce (LED) con lunghezza d'onda centrale $\lambda = 650\,nm$ e larghezza spettrale $\Delta\lambda = 20\,nm$ è normalmente incentrata ($\theta = 0$) nell'etalon F-P riportato nella figura. 1. Per il caso del vuoto, trovare i) il numero di linee nello spettro trasmesso e ii) la larghezza di frequenza $\Delta\nu$ di ciascuna linea?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1eVxP9DlP9XH4DD4g5SlIL4KPF1l5m0ZW/view)
 

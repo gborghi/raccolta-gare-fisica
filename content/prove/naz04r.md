@@ -194,7 +194,7 @@ After some time the height of the mercury column is $h' = 64\ \text{cm}$, even i
 
 4. How much is the heat absorbed by the air bubble?
 
-> ** Suggestions: **
+> **Suggestions:**
 > 1. Approximate the thermodynamic behavior of air to that of a perfect biatomic gas.
 > 2. Neglect the thermal expansion of mercury.
 > 3. The concentration of mercury is $= 13{,}6 \times 10^3\ \text{kg/m}^3$.
@@ -276,7 +276,7 @@ The flow through any surface is the size of a power.
 
 5. Interpret the result obtained.
 
-> ** Suggestions: **
+> **Suggestions:**
 > 1. It is useful to remember that the derivative of the $\ln x$ function (natural logarithm) is $1/x$.
 > 2. For the system's cylindrical symmetry, the flow through the cable section can be thought of as the "sum" (integral) of the infinite circular crown contributions of radius $r$ and area $\mathrm{d}s = 2\pi r\,\mathrm{d}r$.
 

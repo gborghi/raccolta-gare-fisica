@@ -392,7 +392,7 @@ Un piccolo puck può muoversi senza attrito su un tavolo a cuscino d'aria. È at
 Come si comporta la velocità orbitale del puck durante il movimento?
 
 - **A.** Rimane costante.
-- ** B.**
+- **B.**
 - **C.** Si riduce.
 - **D.** This cannot be answered as stated.
 

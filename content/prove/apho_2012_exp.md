@@ -108,7 +108,7 @@ Se un cavo viene trasmesso attorno a un palo o a un raggio e le tensioni nei due
 
 **Fig.1**
 
-**Obiettivo: **
+**Obiettivo:**
 
 Per esplorare la relazione tra le tre quantità: il carico $W\,(=M_\mathrm{w}\,g)$, l'impegno minimo $P\,(=M_\mathrm{p}\,g)$ necessario per mantenere l'equilibrio del sistema e l'angolo $\theta$, sottoscritto dal segmento del cavo in contatto con uno o più travi, variando sistematicamente tali quantità e esprimendolo sotto forma di equazione.
 
@@ -144,7 +144,7 @@ Il pulsante blu può essere spostato per accendere o spegnere la torcia. La pias
 
 Procedura sperimentale:
 
-**Cauzione: ** Non toccare la superficie dei tubi con cui il cavo sarebbe in contatto. Qualsiasi materiale grassi può modificare le proprietà di attrito della superficie (superficia dei tubi e del cavo). Se necessario, viene fornito un panno da pulizia.
+**Cauzione:** Non toccare la superficie dei tubi con cui il cavo sarebbe in contatto. Qualsiasi materiale grassi può modificare le proprietà di attrito della superficie (superficia dei tubi e del cavo). Se necessario, viene fornito un panno da pulizia.
 
 #### Parte 1:
 
@@ -525,51 +525,51 @@ La produzione di ac del generatore può avere una certa asimmetria. In tal caso,
 
 **Scelta il valore di R′ per ottenere $V_{R'}$ e $V$ approssimativamente uguali in modo che l'errore sistematico in Z diventi trascurabile.**
 
-**a) ** Misurare le tensioni $V_A$, $V_{R'}$ e $V$ nonché $V_O$ attraverso i terminali dell'altra bobina. Determinare la resistenza $R_1$ e l'inductanza $L_1$ della bobina 1 (con terminali blu) e stimare le incertezze nei valori determinati. (0.9)
+**a)** Misurare le tensioni $V_A$, $V_{R'}$ e $V$ nonché $V_O$ attraverso i terminali dell'altra bobina. Determinare la resistenza $R_1$ e l'inductanza $L_1$ della bobina 1 (con terminali blu) e stimare le incertezze nei valori determinati. (0.9)
 
-**b) ** Collegare l'altra bobina ( bobina 2 con terminali verdi), effettuare le misure necessarie e determinare $R_2$ e $L_2$. Valutare le incertezze dei valori ottenuti. (0.9)
+**b)** Collegare l'altra bobina ( bobina 2 con terminali verdi), effettuare le misure necessarie e determinare $R_2$ e $L_2$. Valutare le incertezze dei valori ottenuti. (0.9)
 
-**c) ** Ora inserire il pezzo di canna di alluminio nel nucleo delle bobine e ripetere la procedura per ottenere i valori delle induttanze $L_1\!*$ e della resistenza $R_1\!*$ e le incertezze presenti per la bobina1. (0.8)
+**c)** Ora inserire il pezzo di canna di alluminio nel nucleo delle bobine e ripetere la procedura per ottenere i valori delle induttanze $L_1\!*$ e della resistenza $R_1\!*$ e le incertezze presenti per la bobina1. (0.8)
 
-**d) ** Fare le misure necessarie e determinare l'induttanza $L_2\!*$ della bobina 2 e la resistenza $R_2\!*$ della bobina 2 quando ha un nucleo di alluminio. Estimare le incertezze dei valori. (0.8)
+**d)** Fare le misure necessarie e determinare l'induttanza $L_2\!*$ della bobina 2 e la resistenza $R_2\!*$ della bobina 2 quando ha un nucleo di alluminio. Estimare le incertezze dei valori. (0.8)
 
 **Nota: non è necessario effettuare calcoli di incertezza per le parti 2, 3 e 4.**
 
 #### PARTE 2: Induttanza reciproca e costante di accoppiamento [3.0]
 
-**f) ** L' induttanza reciproca $M$ può essere ottenuta dalle letture di $V_{R'}$ e $V_O$ (registrate in ** Parte 1**). Trova i valori medi per il nucleo d'aria e per le bobine di nucleo di alluminio. Il rapporto tra l'induzione reciproca e l'autoinduzione delle bobine accoppiate è dato da $M = k\,(L_1 L_2)^{1/2}$. Determinare il valore di $k$, il coefficiente di accoppiamento nei due casi. (0.4)
+**f)** L' induttanza reciproca $M$ può essere ottenuta dalle letture di $V_{R'}$ e $V_O$ (registrate in **Parte 1**). Trova i valori medi per il nucleo d'aria e per le bobine di nucleo di alluminio. Il rapporto tra l'induzione reciproca e l'autoinduzione delle bobine accoppiate è dato da $M = k\,(L_1 L_2)^{1/2}$. Determinare il valore di $k$, il coefficiente di accoppiamento nei due casi. (0.4)
 
-**g) ** Selezionare la bobina 1 (con terminali blu) come primaria e la bobina 2 (con terminali verdi) come secondaria. Connettere la prima in serie con la resistenza di campionamento $R' = 300$ ohms attraverso i terminali di uscita del generatore. Collegare attraverso il secondario la resistenza variabile $R_L$. La tensione di uscita $V_O$ deve essere misurata su $R_L$. Cambiare $R_L$ e misurare le tensioni $V_A$, $V_{R'}$, $V$ e $V_O$ corrispondenti a ciascun valore di $R_L$. (0.8)
+**g)** Selezionare la bobina 1 (con terminali blu) come primaria e la bobina 2 (con terminali verdi) come secondaria. Connettere la prima in serie con la resistenza di campionamento $R' = 300$ ohms attraverso i terminali di uscita del generatore. Collegare attraverso il secondario la resistenza variabile $R_L$. La tensione di uscita $V_O$ deve essere misurata su $R_L$. Cambiare $R_L$ e misurare le tensioni $V_A$, $V_{R'}$, $V$ e $V_O$ corrispondenti a ciascun valore di $R_L$. (0.8)
 
 ![Fig.3](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q2_p7_f3.png)
 
 **Fig.3**
 
-**h) ** Si può disegnare un grafico lineare che combina vari termini che appaiono nell'Equazione (10) scritti in forma ampliata. Scrivere l'espressione lineare per tracciare un grafico la cui pendenza ** può essere utilizzata per ottenere il valore di $M$ e intercettare per ottenere il valore di reazione secondaria $X_S$. (0.2)
+**h)** Si può disegnare un grafico lineare che combina vari termini che appaiono nell'Equazione (10) scritti in forma ampliata. Scrivere l'espressione lineare per tracciare un grafico la cui pendenza  può essere utilizzata per ottenere il valore di $M$ e intercettare per ottenere il valore di reazione secondaria $X_S$. (0.2)
 
-**i) ** Calcolare le quantità necessarie utilizzando i dati di **(g) ** per tracciare il grafico corrispondente all'espressione sviluppata nel passaggio **(h) ** di cui sopra. (0.9)
+**i)** Calcolare le quantità necessarie utilizzando i dati di **(g)** per tracciare il grafico corrispondente all'espressione sviluppata nel passaggio **(h)** di cui sopra. (0.9)
 
-**j) ** Tracciare il grafico e ottenere i valori di $M$ e $X_S$. (0.7)
+**j)** Tracciare il grafico e ottenere i valori di $M$ e $X_S$. (0.7)
 
 #### PARTE 3: Relazioni tra l'impedenza primaria effettiva e le quantità riflesse dal secondario [2.4]
 
-**k) ** Utilizzare i dati raccolti nella parte 2 per determinare la resistenza effettiva $R_{\mathrm{PE}}$ della prima corrispondente a ogni valore di $R_L$ nella seconda. (0.6)
+**k)** Utilizzare i dati raccolti nella parte 2 per determinare la resistenza effettiva $R_{\mathrm{PE}}$ della prima corrispondente a ogni valore di $R_L$ nella seconda. (0.6)
 
-**l) ** Utilizzare i dati di **Part 2** per calcolare i valori della resistenza riflessa $R_R$ come definiti nell'Equazione (8) e della reattività riflessa $X_R$ riferendosi all'Equazione (9) corrispondenti ai valori di $R_L$. (0.6)
+**l)** Utilizzare i dati di **Part 2** per calcolare i valori della resistenza riflessa $R_R$ come definiti nell'Equazione (8) e della reattività riflessa $X_R$ riferendosi all'Equazione (9) corrispondenti ai valori di $R_L$. (0.6)
 
-**m) ** Grafico di trama di $X_{\mathrm{PE}}$ contro $X_R$. Tenendo conto delle probabili incertezze delle quantità tracciate, scrivere l'equazione che fornisce la relazione tra la reazione primaria effettiva e la reazione riflessa. (0.6)
+**m)** Grafico di trama di $X_{\mathrm{PE}}$ contro $X_R$. Tenendo conto delle probabili incertezze delle quantità tracciate, scrivere l'equazione che fornisce la relazione tra la reazione primaria effettiva e la reazione riflessa. (0.6)
 
-**n) ** Rappresenta graficamente la relazione tra $R_R$ e $R_L$ nel raggio di studio e trova il valore di $R_L$ per il quale la resistenza riflessa raggiunge il massimo. *If needed, take some more observations to supplement the observations in Part 2 for locating the point with greater precision.* (0.6)
+**n)** Rappresenta graficamente la relazione tra $R_R$ e $R_L$ nel raggio di studio e trova il valore di $R_L$ per il quale la resistenza riflessa raggiunge il massimo. *If needed, take some more observations to supplement the observations in Part 2 for locating the point with greater precision.* (0.6)
 
 #### PARTE 4: Effetti Eddy Current [1.2]
 
 **o)** A model based on the analysis of the data in **Part 3** suggests how to estimate the ratio of inductance and resistance seen by the eddy currents set up in the core of a coil connected to a power source.
 
-L'analisi dei dati di **parte 2 ((i) ** e **(j) ** dovrebbe dimostrare che $R_{\mathrm{PE}} = R_P + R_R$. Il rapporto tra $X_{\mathrm{PE}}$ e $X_R$ è ottenuto da **Parte 3(m) **.
+L'analisi dei dati di **parte 2 ((i)** e **(j)** dovrebbe dimostrare che $R_{\mathrm{PE}} = R_P + R_R$. Il rapporto tra $X_{\mathrm{PE}}$ e $X_R$ è ottenuto da **Parte 3(m)**.
 
 Refer to the data collected in **Part 1(c)** and **Part 2** respectively to determine the ratio of inductance and resistance as seen by eddy currents in the aluminium core when the power supply is connected to coil 1 and coil 2 respectively. (0.8)
 
-**p)** Connect the coils as in **Part 2 Fig.3** and insert the piece of aluminium rod into the core in the aluminium core. Il rapporto tra $R_{\mathrm{PE}}$ e $R_R$ è ottenuto da **Parte 3(m) **.
+**p)** Connect the coils as in **Part 2 Fig.3** and insert the piece of aluminium rod into the core in the aluminium core. Il rapporto tra $R_{\mathrm{PE}}$ e $R_R$ è ottenuto da **Parte 3(m)**.
 
 Impostare $R' = 300$ ohms e $R_L = 1000$ ohms. Raggiustare la magnitudine di $V_A$ pari a 9,0 V. Fare le misure necessarie e calcolare la dissipazione di potenza dovuta alle correnti di artigliamento nel nucleo di alluminio. (0.4)
 

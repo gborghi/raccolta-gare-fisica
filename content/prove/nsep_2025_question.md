@@ -3344,7 +3344,7 @@ A thin uniform metallic rod, of length $\ell = 1.0\ \text{m}$ and area of cross 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A-2 (una o più opzioni possono essere corrette) **
+**Parte A-2 (una o più opzioni possono essere corrette)**
 
 Una sottile e uniforme canna metallica, di lunghezza $\ell = 1.0\ \text{m}$ e superficie di sezione trasversale $A = 2\ \text{mm}^2$, è realizzata per ruotare con velocità angolare $\omega = 400\ \text{rad/s}$ in un piano orizzontale intorno ad un asse verticale attraverso una delle sue estremità. La densità e il modulo del Young del materiale della canna sono $\rho = 10^4\ \text{kg\,m}^{-3}$ e $Y = 2.0\times10^{11}\ \text{N\,m}^{-2}$. Prendendo $r$ come distanza di un punto della canna dall'asse di rotazione, il
 

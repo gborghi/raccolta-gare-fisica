@@ -21,7 +21,7 @@ tags:
 
 *(Juegos de OAF 2018 — Prueba 1, martes 23 de octubre de 2018. Preguntas de opción múltiple, 20 preguntas. Donde sea necesario use $g = 10\ \text{m/s}^2$.)*
 
-**2.** Una persona de $100$ kg de masa está parada sobre una balanza digital, en el interior de un ascensor. Cuando el ascensor está detenido el visor de la balanza indica $100$ kg, por lo tanto la balanza funciona correctamente. ¿Cuánto indicará la balanza si el ascensor sube con una aceleración constante de $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg***
+**2.** Una persona de $100$ kg de masa está parada sobre una balanza digital, en el interior de un ascensor. Cuando el ascensor está detenido el visor de la balanza indica $100$ kg, por lo tanto la balanza funciona correctamente. ¿Cuánto indicará la balanza si el ascensor sube con una aceleración constante de $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg*****
 
 **9.** Del techo de un vagón cuelga un hilo de $1$ m de longitud que tiene atado un cuerpo de $200$ g de masa en su extremo (ver figura). Cuando el vagón viaja con una aceleración $\vec a$ el hilo forma un ángulo $\alpha$ con la vertical. Si $\alpha = 30°$: ¿cuál es la aceleración del vagón? *(a) $2{,}00$ m/s²; (b) $5{,}00$ m/s²; **(c) $5{,}77$ m/s²**; (d) $8{,}66$ m/s²; (e) $17{,}32$ m/s²*
 
@@ -44,7 +44,7 @@ tags:
 
 *(Giochi OAF 2018 — Prova 1, martedì 23 ottobre 2018. Quiz a risposta multipla, 20 quesiti. Dove necessario usare $g = 10\ \text{m/s}^2$.)*
 
-**2.** Una persona di massa $100$ kg è in piedi su una bilancia digitale all'interno di un ascensore. Quando l'ascensore è fermo il display della bilancia indica $100$ kg, quindi la bilancia funziona correttamente. Quanto indicherà la bilancia se l'ascensore sale con un'accelerazione costante di $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg***
+**2.** Una persona di massa $100$ kg è in piedi su una bilancia digitale all'interno di un ascensore. Quando l'ascensore è fermo il display della bilancia indica $100$ kg, quindi la bilancia funziona correttamente. Quanto indicherà la bilancia se l'ascensore sale con un'accelerazione costante di $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg*****
 
 **9.** Dal soffitto di un vagone pende un filo lungo $1$ m alla cui estremità è legato un corpo di massa $200$ g (vedi figura). Quando il vagone viaggia con un'accelerazione $\vec a$ il filo forma un angolo $\alpha$ con la verticale. Se $\alpha = 30°$, qual è l'accelerazione del vagone? *(a) $2{,}00$ m/s²; (b) $5{,}00$ m/s²; **(c) $5{,}77$ m/s²**; (d) $8{,}66$ m/s²; (e) $17{,}32$ m/s²*
 
@@ -66,7 +66,7 @@ tags:
 
 *(OAF Games 2018 — Test 1, Tuesday 23 October 2018. Multiple-choice quiz, 20 questions. Where necessary use $g = 10\ \text{m/s}^2$.)*
 
-**2.** A person of mass $100$ kg is standing on a digital scale inside an elevator. When the elevator is at rest the scale display reads $100$ kg, so the scale works correctly. What will the scale read if the elevator goes up with a constant acceleration of $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg***
+**2.** A person of mass $100$ kg is standing on a digital scale inside an elevator. When the elevator is at rest the scale display reads $100$ kg, so the scale works correctly. What will the scale read if the elevator goes up with a constant acceleration of $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg*****
 
 **9.** A $1$ m long string hangs from the ceiling of a railway car, with a body of mass $200$ g tied to its end (see figure). When the car travels with an acceleration $\vec a$ the string makes an angle $\alpha$ with the vertical. If $\alpha = 30°$, what is the acceleration of the car? *(a) $2{,}00$ m/s²; (b) $5{,}00$ m/s²; **(c) $5{,}77$ m/s²**; (d) $8{,}66$ m/s²; (e) $17{,}32$ m/s²*
 
@@ -90,23 +90,23 @@ tags:
 
 **3.** En la figura se muestra un recipiente, aislado térmicamente, que contiene $2$ kg de argón y $2$ kg de $N_2$, que ocupan volúmenes iguales de $0{,}5\ \text{m}^3$ cada uno. Los gases están separados por un pistón que no conduce la temperatura y que puede moverse sin rozamiento. Si la temperatura del argón es de $50$ °C: ¿cuál es la temperatura del $N_2$? Datos: masa atómica del Ar $= 39{,}948$ g/mol; masa atómica del N $= 14{,}0067$ g/mol. *(a) $-159{,}9$ °C; **(b) $-46{,}5$ °C**; (c) $17{,}6$ °C; (d) $50{,}0$ °C; (e) $185{,}7$ °C*
 
-**6.** A una temperatura ambiente de $22$ °C, una bala de plomo de $10$ g se incrusta en un bloque de plomo de $1$ kg. Como resultado de este proceso la temperatura del bloque pasa a $22.8$ °C. ¿Cuál es la velocidad con que impactó la bala? Datos: calor específico del Pb es $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s***
+**6.** A una temperatura ambiente de $22$ °C, una bala de plomo de $10$ g se incrusta en un bloque de plomo de $1$ kg. Como resultado de este proceso la temperatura del bloque pasa a $22.8$ °C. ¿Cuál es la velocidad con que impactó la bala? Datos: calor específico del Pb es $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s*****
 
 **11.** Un día, en que la temperatura ambiente es de $30$ °C, una empresa está realizando el tendido de rieles para el ferrocarril. Los rieles son de acero, material cuyo coeficiente de dilatación lineal es $1{,}2 \times 10^{-5}\ °\text{C}^{-1}$ y cada tramo tiene $300$ m de longitud. Si la temperatura en la zona de construcción puede oscilar entre los $-10$ °C y los $40$ °C: ¿cuál es la mínima distancia que deben dejarse entre dos tramos de rieles para evitar que estos se desalineen por dilatación? *(a) $2$ mm; (b) $10$ mm; **(c) $36$ mm**; (d) $100$ mm; (e) $180$ mm*
 
-**12.** Una niña hace girar verticalmente y en sentido antihorario un balde lleno de agua. El balde describe un círculo de $30$ cm de radio y cuando pasa por el punto $A$ su velocidad es $4$ m/s. Determine cuál de las siguientes afirmaciones es correcta: *(a) El agua del balde se derramará entre los puntos $A$ y $B$.; (b) El agua del balde se derramará entre los puntos $B$ y $C$.; (c) El agua del balde se derramará entre los puntos $C$ y $D$.; (d) El agua del balde se derramará entre los puntos $D$ y $A$.; **(e) El agua no se derramará.***
+**12.** Una niña hace girar verticalmente y en sentido antihorario un balde lleno de agua. El balde describe un círculo de $30$ cm de radio y cuando pasa por el punto $A$ su velocidad es $4$ m/s. Determine cuál de las siguientes afirmaciones es correcta: *(a) El agua del balde se derramará entre los puntos $A$ y $B$.; (b) El agua del balde se derramará entre los puntos $B$ y $C$.; (c) El agua del balde se derramará entre los puntos $C$ y $D$.; (d) El agua del balde se derramará entre los puntos $D$ y $A$.; **(e) El agua no se derramará.*****
 
 <!--fig:start-->
 *Bambina che fa ruotare il secchio su una circonferenza verticale; sono indicate le quattro posizioni $A$ (in basso), $B$ (a destra), $C$ (in alto) e $D$ (a sinistra).*
 <!--fig:end-->
 
-**15.** Un cuerpo pesa en el aire $210$ N y su volumen es de $12\ \text{dm}^3$; se sumerge en un líquido donde pesa $120$ N. ¿Cuál es la densidad del líquido? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³*
+**15.** Un cuerpo pesa en el aire $210$ N y su volumen es de $12\ \text{dm}^3$; se sumerge en un líquido donde pesa $120$ N. ¿Cuál es la densidad del líquido? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³***
 
 **17.** Un recipiente de $10$ l de volumen está lleno de $O_2$ a $27$ °C y $1{,}1$ atm de presión. Se abre el recipiente permitiendo que salga gas al exterior. ¿Qué cantidad de $O_2$ saldrá si en el exterior la presión es de $1$ atm? Datos: masa atómica del oxígeno $16$ g/mol; $1\ \text{atm} = 1{,}013 \times 10^5$ Pa; $R = 8.314$ J/(mol K). *(a) $0{,}65$ g; (b) $0{,}95$ g; **(c) $1{,}30$ g**; (d) $7{,}80$ g; (e) $15{,}6$ g*
 
 **18.** Cuando se coloca un cuerpo de volumen $V$ en un recipiente que contiene alcohol etílico, se observa que $1/3$ de su volumen emerge sobre la superficie. Si se lo coloca en un recipiente que contiene agua destilada: ¿qué porcentaje del volumen estará sumergido? Datos: $\delta_\text{Alcohol} = 0{,}789\ \text{g/cm}^3$; $\delta_\text{Agua} = 1{,}000\ \text{g/cm}^3$. *(a) $26{,}3\%$; (b) $35{,}2\%$; (c) $41{,}3\%$; **(d) $52{,}6\%$**; (e) $66{,}7\%$*
 
-**19.** En el extremo de una manguera se coloca un dispositivo que permite modificar la superficie de salida. Si el agua sale con una velocidad $V_0$: ¿con qué velocidad saldrá si se reduce el radio a la mitad? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$***
+**19.** En el extremo de una manguera se coloca un dispositivo que permite modificar la superficie de salida. Si el agua sale con una velocidad $V_0$: ¿con qué velocidad saldrá si se reduce el radio a la mitad? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$*****
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
@@ -121,23 +121,23 @@ tags:
 
 **3.** La figura mostra un recipiente termicamente isolato che contiene $2$ kg di argon e $2$ kg di $N_2$, che occupano volumi uguali di $0{,}5\ \text{m}^3$ ciascuno. I gas sono separati da un pistone che non conduce il calore e che può muoversi senza attrito. Se la temperatura dell'argon è $50$ °C, qual è la temperatura dell'$N_2$? Dati: massa atomica di Ar $= 39{,}948$ g/mol; massa atomica di N $= 14{,}0067$ g/mol. *(a) $-159{,}9$ °C; **(b) $-46{,}5$ °C**; (c) $17{,}6$ °C; (d) $50{,}0$ °C; (e) $185{,}7$ °C*
 
-**6.** A una temperatura ambiente di $22$ °C, un proiettile di piombo di $10$ g si conficca in un blocco di piombo di $1$ kg. In seguito a questo processo la temperatura del blocco sale a $22.8$ °C. Con quale velocità ha colpito il proiettile? Dati: calore specifico del Pb $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s***
+**6.** A una temperatura ambiente di $22$ °C, un proiettile di piombo di $10$ g si conficca in un blocco di piombo di $1$ kg. In seguito a questo processo la temperatura del blocco sale a $22.8$ °C. Con quale velocità ha colpito il proiettile? Dati: calore specifico del Pb $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s*****
 
 **11.** Un giorno in cui la temperatura ambiente è di $30$ °C, un'impresa sta posando i binari della ferrovia. Le rotaie sono di acciaio, materiale il cui coefficiente di dilatazione lineare è $1{,}2 \times 10^{-5}\ °\text{C}^{-1}$, e ogni tratto è lungo $300$ m. Se la temperatura nella zona dei lavori può variare tra $-10$ °C e $40$ °C, qual è la distanza minima da lasciare tra due tratti di rotaia per evitare che si disallineino per dilatazione? *(a) $2$ mm; (b) $10$ mm; **(c) $36$ mm**; (d) $100$ mm; (e) $180$ mm*
 
-**12.** Una bambina fa ruotare in un piano verticale, in senso antiorario, un secchio pieno d'acqua. Il secchio descrive una circonferenza di raggio $30$ cm e quando passa per il punto $A$ la sua velocità è $4$ m/s. Stabilire quale delle seguenti affermazioni è corretta: *(a) L'acqua del secchio si verserà tra i punti $A$ e $B$.; (b) L'acqua del secchio si verserà tra i punti $B$ e $C$.; (c) L'acqua del secchio si verserà tra i punti $C$ e $D$.; (d) L'acqua del secchio si verserà tra i punti $D$ e $A$.; **(e) L'acqua non si verserà.***
+**12.** Una bambina fa ruotare in un piano verticale, in senso antiorario, un secchio pieno d'acqua. Il secchio descrive una circonferenza di raggio $30$ cm e quando passa per il punto $A$ la sua velocità è $4$ m/s. Stabilire quale delle seguenti affermazioni è corretta: *(a) L'acqua del secchio si verserà tra i punti $A$ e $B$.; (b) L'acqua del secchio si verserà tra i punti $B$ e $C$.; (c) L'acqua del secchio si verserà tra i punti $C$ e $D$.; (d) L'acqua del secchio si verserà tra i punti $D$ e $A$.; **(e) L'acqua non si verserà.*****
 
 <!--fig:start-->
 *Bambina che fa ruotare il secchio su una circonferenza verticale; sono indicate le quattro posizioni $A$ (in basso), $B$ (a destra), $C$ (in alto) e $D$ (a sinistra).*
 <!--fig:end-->
 
-**15.** Un corpo pesa in aria $210$ N e il suo volume è $12\ \text{dm}^3$; viene immerso in un liquido in cui pesa $120$ N. Qual è la densità del liquido? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³*
+**15.** Un corpo pesa in aria $210$ N e il suo volume è $12\ \text{dm}^3$; viene immerso in un liquido in cui pesa $120$ N. Qual è la densità del liquido? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³***
 
 **17.** Un recipiente di volume $10$ l è pieno di $O_2$ a $27$ °C e alla pressione di $1{,}1$ atm. Si apre il recipiente lasciando uscire il gas all'esterno. Quanto $O_2$ uscirà se all'esterno la pressione è $1$ atm? Dati: massa atomica dell'ossigeno $16$ g/mol; $1\ \text{atm} = 1{,}013 \times 10^5$ Pa; $R = 8.314$ J/(mol K). *(a) $0{,}65$ g; (b) $0{,}95$ g; **(c) $1{,}30$ g**; (d) $7{,}80$ g; (e) $15{,}6$ g*
 
 **18.** Quando un corpo di volume $V$ viene posto in un recipiente che contiene alcol etilico, si osserva che $1/3$ del suo volume emerge dalla superficie. Se lo si pone in un recipiente che contiene acqua distillata, quale percentuale del volume sarà immersa? Dati: $\delta_\text{Alcohol} = 0{,}789\ \text{g/cm}^3$; $\delta_\text{Agua} = 1{,}000\ \text{g/cm}^3$. *(a) $26{,}3\%$; (b) $35{,}2\%$; (c) $41{,}3\%$; **(d) $52{,}6\%$**; (e) $66{,}7\%$*
 
-**19.** All'estremità di un tubo flessibile si applica un dispositivo che permette di modificare la sezione di uscita. Se l'acqua esce con velocità $V_0$, con quale velocità uscirà se si riduce il raggio alla metà? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$***
+**19.** All'estremità di un tubo flessibile si applica un dispositivo che permette di modificare la sezione di uscita. Se l'acqua esce con velocità $V_0$, con quale velocità uscirà se si riduce il raggio alla metà? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$*****
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
@@ -151,23 +151,23 @@ tags:
 
 **3.** The figure shows a thermally insulated container holding $2$ kg of argon and $2$ kg of $N_2$, which occupy equal volumes of $0{,}5\ \text{m}^3$ each. The gases are separated by a piston that does not conduct heat and can move without friction. If the temperature of the argon is $50$ °C, what is the temperature of the $N_2$? Data: atomic mass of Ar $= 39{,}948$ g/mol; atomic mass of N $= 14{,}0067$ g/mol. *(a) $-159{,}9$ °C; **(b) $-46{,}5$ °C**; (c) $17{,}6$ °C; (d) $50{,}0$ °C; (e) $185{,}7$ °C*
 
-**6.** At a room temperature of $22$ °C, a $10$ g lead bullet embeds itself in a $1$ kg lead block. As a result of this process the temperature of the block rises to $22.8$ °C. With what speed did the bullet hit? Data: specific heat of Pb is $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s***
+**6.** At a room temperature of $22$ °C, a $10$ g lead bullet embeds itself in a $1$ kg lead block. As a result of this process the temperature of the block rises to $22.8$ °C. With what speed did the bullet hit? Data: specific heat of Pb is $0.128$ J/g.K. *(a) $4{,}5$ m/s; (b) $53{,}8$ m/s; (c) $94{,}3$ m/s; (d) $104{,}6$ m/s; **(e) $144.5$ m/s*****
 
 **11.** On a day when the room temperature is $30$ °C, a company is laying railway tracks. The rails are made of steel, whose coefficient of linear expansion is $1{,}2 \times 10^{-5}\ °\text{C}^{-1}$, and each section is $300$ m long. If the temperature in the construction area can range between $-10$ °C and $40$ °C, what is the minimum gap that must be left between two rail sections to prevent them from buckling out of alignment due to thermal expansion? *(a) $2$ mm; (b) $10$ mm; **(c) $36$ mm**; (d) $100$ mm; (e) $180$ mm*
 
-**12.** A girl swings a bucket full of water in a vertical circle, counterclockwise. The bucket describes a circle of radius $30$ cm and when it passes through point $A$ its speed is $4$ m/s. Determine which of the following statements is correct: *(a) The water in the bucket will spill between points $A$ and $B$.; (b) The water in the bucket will spill between points $B$ and $C$.; (c) The water in the bucket will spill between points $C$ and $D$.; (d) The water in the bucket will spill between points $D$ and $A$.; **(e) The water will not spill.***
+**12.** A girl swings a bucket full of water in a vertical circle, counterclockwise. The bucket describes a circle of radius $30$ cm and when it passes through point $A$ its speed is $4$ m/s. Determine which of the following statements is correct: *(a) The water in the bucket will spill between points $A$ and $B$.; (b) The water in the bucket will spill between points $B$ and $C$.; (c) The water in the bucket will spill between points $C$ and $D$.; (d) The water in the bucket will spill between points $D$ and $A$.; **(e) The water will not spill.*****
 
 <!--fig:start-->
 *Girl swinging the bucket in a vertical circle; the four positions $A$ (bottom), $B$ (right), $C$ (top) and $D$ (left) are marked.*
 <!--fig:end-->
 
-**15.** A body weighs $210$ N in air and its volume is $12\ \text{dm}^3$; it is immersed in a liquid in which it weighs $120$ N. What is the density of the liquid? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³*
+**15.** A body weighs $210$ N in air and its volume is $12\ \text{dm}^3$; it is immersed in a liquid in which it weighs $120$ N. What is the density of the liquid? ***(a) $750$ kg/m³**; (b) $1000$ kg/m³; (c) $1250$ kg/m³; (d) $1500$ kg/m³; (e) $1750$ kg/m³***
 
 **17.** A container of volume $10$ l is filled with $O_2$ at $27$ °C and a pressure of $1{,}1$ atm. The container is opened, letting gas escape to the outside. How much $O_2$ will escape if the outside pressure is $1$ atm? Data: atomic mass of oxygen $16$ g/mol; $1\ \text{atm} = 1{,}013 \times 10^5$ Pa; $R = 8.314$ J/(mol K). *(a) $0{,}65$ g; (b) $0{,}95$ g; **(c) $1{,}30$ g**; (d) $7{,}80$ g; (e) $15{,}6$ g*
 
 **18.** When a body of volume $V$ is placed in a container holding ethyl alcohol, $1/3$ of its volume is seen to emerge above the surface. If it is placed in a container holding distilled water, what percentage of its volume will be submerged? Data: $\delta_\text{Alcohol} = 0{,}789\ \text{g/cm}^3$; $\delta_\text{Agua} = 1{,}000\ \text{g/cm}^3$. *(a) $26{,}3\%$; (b) $35{,}2\%$; (c) $41{,}3\%$; **(d) $52{,}6\%$**; (e) $66{,}7\%$*
 
-**19.** A device that allows the outlet cross-section to be changed is fitted to the end of a hose. If the water comes out with speed $V_0$, with what speed will it come out if the radius is reduced by half? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$***
+**19.** A device that allows the outlet cross-section to be changed is fitted to the end of a hose. If the water comes out with speed $V_0$, with what speed will it come out if the radius is reduced by half? *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$*****
 
 
 
@@ -179,7 +179,7 @@ tags:
 
 *(Juegos de OAF 2018 — Prueba 1. Preguntas de opción múltiple.)*
 
-**5.** Un espejo esférico, cóncavo, forma una imagen invertida de un objeto a una distancia de $420$ cm delante del espejo. Si el objeto mide $5$ cm y la imagen $30$ cm: ¿a qué distancia delante del espejo está colocado el objeto? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm***
+**5.** Un espejo esférico, cóncavo, forma una imagen invertida de un objeto a una distancia de $420$ cm delante del espejo. Si el objeto mide $5$ cm y la imagen $30$ cm: ¿a qué distancia delante del espejo está colocado el objeto? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm*****
 
 **8.** Si la luz fuese sólo monocromática: ¿qué fenómeno óptico no se observaría? *(a) la refracción; (b) la reflexión; (c) la difracción; **(d) el arco iris**; (e) la sombra*
 
@@ -198,7 +198,7 @@ tags:
 
 *(Giochi OAF 2018 — Prova 1. Quiz a risposta multipla.)*
 
-**5.** Uno specchio sferico concavo forma un'immagine capovolta di un oggetto a una distanza di $420$ cm davanti allo specchio. Se l'oggetto è alto $5$ cm e l'immagine $30$ cm, a che distanza davanti allo specchio è posto l'oggetto? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm***
+**5.** Uno specchio sferico concavo forma un'immagine capovolta di un oggetto a una distanza di $420$ cm davanti allo specchio. Se l'oggetto è alto $5$ cm e l'immagine $30$ cm, a che distanza davanti allo specchio è posto l'oggetto? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm*****
 
 **8.** Se la luce fosse solo monocromatica, quale fenomeno ottico non si osserverebbe? *(a) la rifrazione; (b) la riflessione; (c) la diffrazione; **(d) l'arcobaleno**; (e) l'ombra*
 
@@ -216,7 +216,7 @@ tags:
 
 *(OAF Games 2018 — Test 1. Multiple-choice quiz.)*
 
-**5.** A concave spherical mirror forms an inverted image of an object at a distance of $420$ cm in front of the mirror. If the object is $5$ cm tall and the image $30$ cm, at what distance in front of the mirror is the object placed? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm***
+**5.** A concave spherical mirror forms an inverted image of an object at a distance of $420$ cm in front of the mirror. If the object is $5$ cm tall and the image $30$ cm, at what distance in front of the mirror is the object placed? *(a) $5$ cm; (b) $7$ cm; (c) $25$ cm; (d) $40$ cm; **(e) $70$ cm*****
 
 **8.** If light were only monochromatic, which optical phenomenon would not be observed? *(a) refraction; (b) reflection; (c) diffraction; **(d) the rainbow**; (e) the shadow*
 

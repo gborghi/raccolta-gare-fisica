@@ -86,7 +86,7 @@ A smartphone was secured on board during an aircraft take-off and, using its acc
 
 The graph shows three data series over the time range $t = 0$ to $t \approx 92{,}5\,\mathrm{s}$:
 
-- **Vertical component $a_z$ (brown series, top): ** Initially fluctuates around $\approx 9{,}81\,\mathrm{m\,s^{-2}}$ (gravitational acceleration at rest). During the rotation at $t \approx 60$–$63\,\mathrm{s}$ it rises to $\approx 13\,\mathrm{m\,s^{-2}}$ (lift-off). In the climb it then drops to $\approx 8{,}2\,\mathrm{m\,s^{-2}}$, which corresponds to the component of gravity reduced by the climb angle.
+- **Vertical component $a_z$ (brown series, top):** Initially fluctuates around $\approx 9{,}81\,\mathrm{m\,s^{-2}}$ (gravitational acceleration at rest). During the rotation at $t \approx 60$–$63\,\mathrm{s}$ it rises to $\approx 13\,\mathrm{m\,s^{-2}}$ (lift-off). In the climb it then drops to $\approx 8{,}2\,\mathrm{m\,s^{-2}}$, which corresponds to the component of gravity reduced by the climb angle.
 
 - **Longitudinal component $a_y$ (green series, middle):** Stays near zero until $t \approx 6{,}5\,\mathrm{s}$ (standstill). It then rises continuously to a plateau of $\approx 3\,\mathrm{m\,s^{-2}}$ (engine acceleration on the runway). It reaches a maximum of $\approx 4\,\mathrm{m\,s^{-2}}$ at $t \approx 60$–$63\,\mathrm{s}$ (rotation). In the climb it stabilizes at $\approx 2{,}9\,\mathrm{m\,s^{-2}}$.
 

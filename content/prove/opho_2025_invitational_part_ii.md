@@ -208,7 +208,7 @@ Considerate un blocco rettangolare di conduttore in un forte campo elettrico uni
 
 È noto che si può usare una lente di ingrandimento o un'altra lente per focalizzare la luce solare su un piccolo punto per riscaldarlo. Concentrandosi su un punto sufficientemente isolato, sembra che possiamo riscaldare il materiale al di sopra della temperatura della superficie del Sole; ciò violerebbe la seconda legge della termodinamica trasferendo energia da una regione a temperatura inferiore a una regione a temperatura superiore. Perché non possiamo farlo? (Signore: c'è una risposta comune che potresti pensare di conoscere. In realtà, non è la storia completa.)
 
-** Spinny Spin**
+**Spinny Spin**
 
 Considerate una cima che ruota e quasi verticale. Sappiamo che la parte superiore si accenderà intorno all'asse verticale e, in assenza di attrito, non cadrà. Ora, consideriamo il telaio rotativo dove la velocità angolare è uguale a quella della parte superiore. La parte superiore sembra quasi fermata in questo quadro, ma non cade. Come si può spiegare questo in una cornice rotante?
 

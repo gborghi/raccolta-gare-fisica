@@ -145,7 +145,7 @@ A simple thermometer consists of a vial, which contains a liquid, and a very thi
 
 *Note: although water and ethyl alcohol actually form an unidirectional mixture, for the purposes of the problem the volume of the mixture is assumed to be equal to the sum of the volumes of the two liquids.*
 
-The unit of measurement: ** mm. The following information is provided:
+The unit of measurement:  mm. The following information is provided:
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -293,7 +293,7 @@ Two cylinders, of $R = 10\ \mathrm{cm}$ radius and $m = 1\ \mathrm{kg}$ mass, sh
 The following is the list of the measurement units: The following information is provided:
 
 <!--fig:start-->
-**p.4 **  Three cylinders with spring on plane
+**p.4**  Three cylinders with spring on plane
 ![[_attachments/qualifica_2026t/qualifica_2026t_p4_f1.png]]
 <!--fig:end-->
 
@@ -369,7 +369,7 @@ The vehicle is not equipped with a motor vehicle.
 
 A distracted driver notices too late of an obstacle on his horizontal, straight course. He starts braking as hard as possible, without the wheels slipping, at a distance of $25\ \mathrm{m}$ from the obstacle, and then hits it $2.3\ \mathrm{s}$ afterwards. What is the maximum static friction coefficient between your tires and the asphalt?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]

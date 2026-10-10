@@ -51,7 +51,9 @@ Poiché né $\vec{v}_0$ né $\vec{F}$ hanno componenti orizzontali, nemmeno $\ve
 sbarra si muove verticalmente anche dopo l’urto. Orientando verso l’alto l’asse verticale, le componenti di $\vec{F}$ e
 $\vec{v}_0$ risultano rispettivamente $F$ e $-v_0$. Indicando con $v_1$ la componente verticale di $\vec{v}_1$, di cui non conosciamo il
 segno, dall’equazione precedente ricaviamo allora
-$$F\Delta t = m(v_1 + v_0) \tag{1}$$
+$$
+F\Delta t = m(v_1 + v_0) \tag{1}
+$$
 La seconda equazione cardinale si scrive
 $$\frac{\Delta\vec{L}}{\Delta t} = \vec{M}_\text{ext}$$
 dove $\vec{L}$ è il momento angolare della sbarra, che scegliamo di calcolare rispetto al CdM, e $\vec{M}_\text{ext}$ è il risultante dei
@@ -60,9 +62,13 @@ momento con il momento di $\vec{F}$.
 Per un corpo rigido, e in questo caso, il momento angolare baricentrale è $\vec{L} = I\vec{\omega}$, dove $I$ è il momento
 d’inerzia baricentrale e $\vec{\omega}$ la velocità angolare(1). Tenendo conto del fatto che prima dell’urto si ha $L = 0$ e
 $\omega = 0$, e indicando con il pedice 1 i valori immediatamente dopo l’urto, si ha quindi
-$$\vec{L}_1 = \vec{M}_\text{ext}\,\Delta t \quad\Rightarrow\quad I\omega_1 = F\frac{\ell}{2}\cos\alpha\,\Delta t \tag{2}$$
+$$
+\vec{L}_1 = \vec{M}_\text{ext}\,\Delta t \quad\Rightarrow\quad I\omega_1 = F\frac{\ell}{2}\cos\alpha\,\Delta t \tag{2}
+$$
 Poiché l’urto è elastico, l’energia cinetica si conserva, quindi
-$$\frac{1}{2}I\omega_1^2 + \frac{1}{2}mv_1^2 = \frac{1}{2}mv_0^2 \tag{3}$$
+$$
+\frac{1}{2}I\omega_1^2 + \frac{1}{2}mv_1^2 = \frac{1}{2}mv_0^2 \tag{3}
+$$
 (1)
 Questa relazione è vera quando l’asse di rotazione è fisso oppure, come in questo caso, quando il momento angolare è allineato
 con un asse di simmetria (asse principale d’inerzia).
@@ -76,12 +82,18 @@ con un asse di simmetria (asse principale d’inerzia).
 
 Quesito n. 3.
 Dalla (1) e dalla (2) si ottiene
-$$I\omega_1 = \frac{\ell}{2}\cos\alpha\,m(v_1 + v_0) \tag{4}$$
+$$
+I\omega_1 = \frac{\ell}{2}\cos\alpha\,m(v_1 + v_0) \tag{4}
+$$
 e la (3) si può riscrivere
-$$I\omega_1^2 = m(v_0^2 - v_1^2) \tag{5}$$
+$$
+I\omega_1^2 = m(v_0^2 - v_1^2) \tag{5}
+$$
 Poiché la velocità del CdM dopo l’urto ($v_1$) è certamente diversa da quella prima dell’urto ($-v_0$), possiamo
 dividere la (5) per la (4) ottenendo
-$$\omega_1 = 2(v_0 - v_1)/(\ell\cos\alpha) \tag{6}$$
+$$
+\omega_1 = 2(v_0 - v_1)/(\ell\cos\alpha) \tag{6}
+$$
 Risolvendo il sistema formato dalla (4) e la (6) si ottiene (ricordando l’espressione di $I$)
 $$v_1 = \frac{1 - 3\cos^2\alpha}{1 + 3\cos^2\alpha}\,v_0$$
 $$\omega_1 = \frac{12\cos\alpha}{\ell(1 + 3\cos^2\alpha)}\,v_0$$

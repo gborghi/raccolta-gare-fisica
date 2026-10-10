@@ -83,7 +83,7 @@ donde $I_0$ es la corriente inicial, cuando se cierra el circuito en $t = 0$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-La prova sperimentale. Determinazione della capacità di un condensatore**
+La prova sperimentale. Determinazione della capacità di un condensatore
 
 **Obiettivo.**
 Si studierà sperimentalmente il processo di carico di un condensatore attraverso una resistenza, e si deducerà la capacità del condensatore.

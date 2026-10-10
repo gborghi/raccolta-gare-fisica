@@ -69,7 +69,7 @@ Ora, considerate uno scenario in cui una moneta con densità uniforme e larghezz
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Flip Coin 2. ** Una moneta di densità di massa uniforme con un raggio di $r = 1$ cm è inizialmente in riposo e viene rilasciata da una leggera inclinazione di $\theta = 8°$ su una superficie orizzontale con un coefficiente di attrito statico infinito. La moneta ha un bordo più spessore, che le consente di cadere e ruotare su un punto. Con ogni collisione, la moneta cambia i punti di pivot sul bordo e l'energia viene dissipata attraverso il calore in modo che $k = 0.9$ dell'energia totale precedente della moneta sia conservata. Quanto tempo ci vorrà prima che la moneta si fermi completamente?
+**Flip Coin 2.** Una moneta di densità di massa uniforme con un raggio di $r = 1$ cm è inizialmente in riposo e viene rilasciata da una leggera inclinazione di $\theta = 8°$ su una superficie orizzontale con un coefficiente di attrito statico infinito. La moneta ha un bordo più spessore, che le consente di cadere e ruotare su un punto. Con ogni collisione, la moneta cambia i punti di pivot sul bordo e l'energia viene dissipata attraverso il calore in modo che $k = 0.9$ dell'energia totale precedente della moneta sia conservata. Quanto tempo ci vorrà prima che la moneta si fermi completamente?
 
 ![[_attachments/OPhO_2023_Open/OPhO_2023_Open_p4_f1.png]]
 *Una visione trasversale della moneta prima del rilascio. Il bordo è visibile sui bordi della moneta.
@@ -438,7 +438,7 @@ Nota: Questo problema è altamente idealizzato in quanto presuppone che l'atmosf
 
 <div class="qlang-split" data-lang="it"></div>
 
-** Isteresis 1. ** La gomma sul fondo della ruota è completamente distaccata. La gomma ha uno spessore di 7 mm. Sulla base di queste informazioni, trovate il modulo del gomma del giovane. È ragionevole questa risposta?
+**Isteresis 1.** La gomma sul fondo della ruota è completamente distaccata. La gomma ha uno spessore di 7 mm. Sulla base di queste informazioni, trovate il modulo del gomma del giovane. È ragionevole questa risposta?
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 
@@ -467,7 +467,7 @@ Nota: Questo problema è altamente idealizzato in quanto presuppone che l'atmosf
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Isteresi 2. ** La gomma subisce un fenomeno noto come *isteresis*  occorre più forza per allungare la gomma che per permetterle di tornare in equilibrio. In particolare, supponiamo che il modulo del Young quando la gomma è estesa sia uguale a 12, ed è $1/2$ di quello quando la gomma ritorna all'equilibrio. Calcolare la potenza che i motori dell'auto devono fornire per superare le perdite di isteresi, se l'auto si muove a 20 m/s. Ricordate che ci sono 4 pneumatici!
+**Isteresi 2.** La gomma subisce un fenomeno noto come *isteresis*  occorre più forza per allungare la gomma che per permetterle di tornare in equilibrio. In particolare, supponiamo che il modulo del Young quando la gomma è estesa sia uguale a 12, ed è $1/2$ di quello quando la gomma ritorna all'equilibrio. Calcolare la potenza che i motori dell'auto devono fornire per superare le perdite di isteresi, se l'auto si muove a 20 m/s. Ricordate che ci sono 4 pneumatici!
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 
@@ -597,7 +597,7 @@ Sotto il peso della tavola, la sfera inizia a rotolare senza scivolare sul pavim
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Elevatore spaziale 1. ** Trova il minimo spostamento possibile radialmente del contrappeso. - Specifica il segno.
+**Elevatore spaziale 1.** Trova il minimo spostamento possibile radialmente del contrappeso. - Specifica il segno.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 
@@ -626,7 +626,7 @@ Sotto il peso della tavola, la sfera inizia a rotolare senza scivolare sul pavim
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Elevatore spaziale 2. ** Supponendo un spostamento radial 10 volte quello trovato nella parte precedente, trovare il spostamento verticalmente del contrappeso. Raggiunga o guida la rotazione terrestre?
+**Elevatore spaziale 2.** Supponendo un spostamento radial 10 volte quello trovato nella parte precedente, trovare il spostamento verticalmente del contrappeso. Raggiunga o guida la rotazione terrestre?
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 
@@ -942,9 +942,9 @@ Specific values of the error function can be calculated on desmos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Separatore isotopo 2. ** Calcolare il tempo necessario per il ritorno della particella alla posizione originale. Rispondi in millisecondi.
+**Separatore isotopo 2.** Calcolare il tempo necessario per il ritorno della particella alla posizione originale. Rispondi in millisecondi.
 
-**Signore: ** Potresti trovare interesse nella funzione di errore di Gaussian:
+**Signore:** Potresti trovare interesse nella funzione di errore di Gaussian:
 
 $$\mathrm{erf}(z) = \frac{2}{\sqrt{\pi}}\int_0^z e^{-t^2}\mathrm{d}t.$$
 
@@ -1085,13 +1085,13 @@ $$\int_{-\infty}^{\infty}\frac{u^2 \mathrm{d}u}{(1 + u^2)^5} = \frac{5\pi}{128}.
 ![[_attachments/OPhO_2023_Open/OPhO_2023_Open_p12_f1.png]]
 *Una foto della configurazione dei due carrelli. Il rettangolo nero rappresenta il magnete mentre il rettangolo oro rappresenta il tubo di rame.*
 
-**Suggetta 1: ** Il campo magnetico dovuto a un dipolo di momento $\vec\mu$, in una posizione $\vec r$ lontana dal dipolo può essere scritto come
+**Suggetta 1:** Il campo magnetico dovuto a un dipolo di momento $\vec\mu$, in una posizione $\vec r$ lontana dal dipolo può essere scritto come
 
 $$\vec B = \frac{\mu_0}{4\pi}\frac{(3\hat r(\hat r \cdot \vec\mu) - \vec\mu)}{r^3}\hat r$$
 
 dove $\hat r$ è il vettore unitario nella direzione di $\vec r$.
 
-**Suggerimento 2: ** Potrebbe essere utile la seguente identità matematica:
+**Suggerimento 2:** Potrebbe essere utile la seguente identità matematica:
 
 $$\int_{-\infty}^{\infty}\frac{u^2 \mathrm{d}u}{(1 + u^2)^5} = \frac{5\pi}{128}.$$
 
@@ -1184,7 +1184,7 @@ Follin then gives the ball a charge 0.15 nC. Assuming that the charge is distrib
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo elettrostatico 1. ** Follin sta studiando il pendolo elettrostatico. Il suo apparecchio consiste in una palla isolante di stirofumo con una massa di 14 mg e un raggio $r = 0.5$ cm sospesa su una corda di isolante elettrica uniforme di lunghezza 1 m e massa per unità di densità di lunghezza $1.1 \cdot 10^{-5}$ kg/m tra due grandi lastre di metallo separate da una distanza di 17 cm con una caduta di tensione di 10 kV tra di loro, in modo tale che quando la palla è in equilibrio, il suo centro di massa è esattamente a metà strada tra le due lastre. Negli ultimi due problemi si ignora la possibilità di scariche elettriche.
+**Pendolo elettrostatico 1.** Follin sta studiando il pendolo elettrostatico. Il suo apparecchio consiste in una palla isolante di stirofumo con una massa di 14 mg e un raggio $r = 0.5$ cm sospesa su una corda di isolante elettrica uniforme di lunghezza 1 m e massa per unità di densità di lunghezza $1.1 \cdot 10^{-5}$ kg/m tra due grandi lastre di metallo separate da una distanza di 17 cm con una caduta di tensione di 10 kV tra di loro, in modo tale che quando la palla è in equilibrio, il suo centro di massa è esattamente a metà strada tra le due lastre. Negli ultimi due problemi si ignora la possibilità di scariche elettriche.
 
 Follin dà poi alla palla una carica di 0,15 nC. Supponendo che la carica sia distribuita uniformemente sulla superficie della palla, si trova la successiva deviazione orizzontale del centro di massa del bobino del pendolo dal suo punto di sospensione in equilibrio.
 
@@ -1217,7 +1217,7 @@ Follin dà poi alla palla una carica di 0,15 nC. Supponendo che la carica sia di
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo elettrostatico 2. ** Sperando di ottenere una maggiore deflezione, Follin sostituisce la palla isolante di stirofoamo con una palla di pith conduttrice di massa 250 mg e con 2 cm di vecchie catene di marmellata 4 supplementi di potenza ad alta tensione di 10 kV per aumentare la caduta di tensione attraverso le piastre a 50 kV. Lasciando la separazione della piastra e la corda invariate, ripete lo stesso esperimento come prima, ma dimentica di misurare la carica sulla palla. Tuttavia, una volta che la palla raggiunge l'equilibrio, misura la deviazione dal punto di sospensione a 5,6 cm. Trova la carica sulla palla.
+**Pendolo elettrostatico 2.** Sperando di ottenere una maggiore deflezione, Follin sostituisce la palla isolante di stirofoamo con una palla di pith conduttrice di massa 250 mg e con 2 cm di vecchie catene di marmellata 4 supplementi di potenza ad alta tensione di 10 kV per aumentare la caduta di tensione attraverso le piastre a 50 kV. Lasciando la separazione della piastra e la corda invariate, ripete lo stesso esperimento come prima, ma dimentica di misurare la carica sulla palla. Tuttavia, una volta che la palla raggiunge l'equilibrio, misura la deviazione dal punto di sospensione a 5,6 cm. Trova la carica sulla palla.
 
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
@@ -1248,7 +1248,7 @@ Follin dà poi alla palla una carica di 0,15 nC. Supponendo che la carica sia di
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Man In The Mirror 1. ** Qual è l'indice di rifrazione relativo del prisma per quella particolare lunghezza d'onda $\lambda$ rispetto all'ambiente esterno, dato che $\alpha = 70°$.
+**Man In The Mirror 1.** Qual è l'indice di rifrazione relativo del prisma per quella particolare lunghezza d'onda $\lambda$ rispetto all'ambiente esterno, dato che $\alpha = 70°$.
 
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1AzC04XO3yuIJfwh29MHplPFZRakVGyoT/view)
 **Topic:** [[Geometric Optics]]

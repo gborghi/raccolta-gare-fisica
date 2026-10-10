@@ -891,7 +891,7 @@ Venus transit is an astronomical phenomenon when the planet Venus passes directl
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Transito di Venere (15 marchi) **
+**Transito di Venere (15 marchi)**
 
 Il transito di Venere è un fenomeno astronomico quando il pianeta Venere passa direttamente tra il Sole e la Terra. Come illustrato in Figura 1. 1, per due diversi punti di osservazione $A$ e $B$ sulla Terra, Venere appare come due punti neri separati ($A'$ e $B'$) sulla superficie del Sole.
 
@@ -942,7 +942,7 @@ A spherical styrofoam of mass $2\ \mathrm{g}$ and radius $2\ \mathrm{cm}$ is rel
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Velocità terminale dell'oggetto che cade liberamente (10 punti) **
+**Velocità terminale dell'oggetto che cade liberamente (10 punti)**
 
 Per cadere libero viene rilasciata una schiuma di stiro sferica di massa $2\ \mathrm{g}$ e di raggio $2\ \mathrm{cm}$. Le uniche forze che agiscono sulla schiuma di stiro sono la forza gravitazionale e la forza di trazione. La forza di resistenza è dovuta alla resistenza all'aria e dipende dalla velocità ($v$). A basse velocità, la resistenza dell'aria è trascurabile; ma ad alte velocità, si prevede una velocità di caduta costante.
 
@@ -993,7 +993,7 @@ Hint: $\displaystyle\int \sin^2\left(\dfrac{2\pi x}{\lambda}\right) dx = \dfrac{
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Energia totale in un'onda di superficie (15 Marks) **
+**Energia totale in un'onda di superficie (15 Marks)**
 
 Considerate un'onda di superficie che viaggia sul mare (Fig. 2). In un istante, il suo profilo superficiale può essere approssimato da $z = A\sin\left(\dfrac{2\pi x}{\lambda}\right)$, dove $A$ è l'ampiezza e $\lambda$ è la lunghezza d'onda.
 
@@ -1046,7 +1046,7 @@ A solid cube (length $L$ each) of mass $m$ starts to slide up a stationary slope
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Un blocco scorrevole su una piattaforma di pendenza (10 marks) **
+**Un blocco scorrevole su una piattaforma di pendenza (10 marks)**
 
 Un cubo solido (lunga $L$ ciascuno) di massa $m$ inizia a scivolare su una piattaforma di pendenza stazionaria dal basso. La piattaforma di pendenza ha una massa $M$, un angolo di inclinazione $\theta$ e la pendenza è liscia (Fig. 3). La piattaforma di pendenza può scivolare liberamente lungo la superficie orizzontale senza attrito.
 
@@ -1097,7 +1097,7 @@ Two identical uniform thin rods (mass $m$, and length $L$) are connected at righ
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Un movimento del pendolo fisico (10 punti) **
+**Un movimento del pendolo fisico (10 punti)**
 
 Due barre sottili identiche (massa $m$ e lunghezza $L$) sono collegate in angolo retto per formare una forma rigida "T" a testa in giù. Il centro di una canna è collegato ad una estremità di un'altra. La forma "T" a testa in giù è sospesa e permette di formare un movimento di pendolo, come mostrato nella figura. 4.
 

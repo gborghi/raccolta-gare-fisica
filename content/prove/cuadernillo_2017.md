@@ -9243,7 +9243,7 @@ superficie.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Blocks with sloping flat pole **
+**Blocks with sloping flat pole**
 
 PT43. The Genesis Education Institute
  
@@ -12321,7 +12321,7 @@ e) Calcula el trabajo total entregado al sistema por parte de los investigadores
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperienza con gas (Elio) **
+**Esperienza con gas (Elio)**
 
 PT69. Scuola superiore industriale 
  
@@ -13331,7 +13331,7 @@ Coeficiente de temperatura α = 4·10-3 1/K  a  20ºC
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Non riscaldarsi troppo (calda matte) **
+**Non riscaldarsi troppo (calda matte)**
 
 PT74. Istituto Primo Capraro - Colegio San Patricio 
  
@@ -13710,7 +13710,7 @@ d) Realiza un diagrama de cuerpo libre del satélite
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Orbita **
+**Orbita**
 
 PT78. La scuola di agricoltura 
  
@@ -20609,7 +20609,7 @@ Densidad del Hielo: δ = 0,92 g/cm3
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Preparazione del gelato **
+**Preparazione del gelato**
 
 PT129. Scuola nazionale Ernesto Sabato - Istituto Sagrada Familia 
  
@@ -30553,7 +30553,7 @@ sugerir el uso de otros aparatos o procedimientos diferentes.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cartone sospeso (pendolo fisico) **
+**Cartone sospeso (pendolo fisico)**
 
 PE22. Scuola scozzese San Andrés 
  
@@ -32316,7 +32316,7 @@ rozamiento en cada uno de los casos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cadazioni a scuola (rasatura) **
+**Cadazioni a scuola (rasatura)**
 
 PE30. EPET N° 4 Juan Agustín Larrús 
  
@@ -34487,7 +34487,7 @@ La incerteza asociada a la función logaritmo natural (ln) es:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ricca con rasatura (filtri di caffè) **
+**Ricca con rasatura (filtri di caffè)**
 
 PE40. Istituto Politetnico Superiore Generale San Martín 
  
@@ -36811,7 +36811,7 @@ la forza applicata, per ottenere il peso di tale corpo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Factoring of pulleys **
+**Factoring of pulleys**
 
 PE47. The Spanish Ministry of Foreign Affairs I 'm not .
  

@@ -149,7 +149,7 @@ OAF 2014 - 5
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sfruttando il vento (aereo) **
+**Sfruttando il vento (aereo)**
 
 Problema 1
 Sfruttando il vento
@@ -2176,7 +2176,7 @@ OAF 2014 - 20
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sfruttando il vento (aereo) **
+**Sfruttando il vento (aereo)**
 
 Problema 1
 Sfruttando il vento. 
@@ -7366,7 +7366,7 @@ b) el tiempo que le toma a la pelota alcanzar el muro.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Quadratura (tiratura parabolica) **
+**Quadratura (tiratura parabolica)**
 
 PT14. Scuola Santo Tommaso 
 Santa Rosa, La Pampa. 
@@ -7753,7 +7753,7 @@ HA                   B      30 º
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sistema con spruzzatura e macchia **
+**Sistema con spruzzatura e macchia**
 
 PT19. La Champagnat College
 Città di Buenos Aires. 
@@ -8178,7 +8178,7 @@ Datos:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Impacco profondo (orbita terrestre) **
+**Impacco profondo (orbita terrestre)**
 
 PT22. Istituto Politetnico Superiore Gral. San Martino
  
@@ -8497,7 +8497,7 @@ Datos:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Con protezione (piegatrice di erba) **
+**Con protezione (piegatrice di erba)**
 
 PT24. Istituto Politetnico Superiore Gral. San Martino
  
@@ -8533,7 +8533,7 @@ Dati:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**With a protective (grass cutter) **
+**With a protective (grass cutter)**
 
 PT24. Gral Higher Polytechnic Institute. Saint Martin .
  
@@ -8970,7 +8970,7 @@ Datos: Coef. Dilatación lineal del vidrio pirex = 0,000003 1/ ºC
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Vaso pirex con alcool (dilatazione) **
+**Vaso pirex con alcool (dilatazione)**
 
 PT28. Istituto Gesù Maria 
  
@@ -9241,7 +9241,7 @@ Kg° rispettivamente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Chalorimetry of gold-copper alloy **
+**Chalorimetry of gold-copper alloy**
 
 PT31. Private education institute Yapeyú 
  
@@ -9552,7 +9552,7 @@ dilatación “lineal” de 0.000024 1/°C
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Grafica caldo-temperatura (cambiamento di fase) **
+**Grafica caldo-temperatura (cambiamento di fase)**
 
 PT34. Colegio Nazionale Nicolás Avellaneda 
  
@@ -13631,7 +13631,7 @@ la superficie del agua.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**La pentola (pendolo) **
+**La pentola (pendolo)**
 
 PT64. Colegio Paolo l'apostolo 
  
@@ -14350,7 +14350,7 @@ En aire, las fracciones molares son
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Carburante (ciclo Otto) **
+**Carburante (ciclo Otto)**
 
 PT67. Scuola superiore di commercio Carlos Pellegrini 
  
@@ -25746,7 +25746,7 @@ intensidad en función del tiempo y voltaje en función del tiempo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Capacitore RC carico **
+**Capacitore RC carico**
 
 PE15. Scuola tecnica ORT - Sede Almagro 
  

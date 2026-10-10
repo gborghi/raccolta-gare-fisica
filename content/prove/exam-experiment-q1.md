@@ -361,7 +361,7 @@ English (Official)
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Installation of the pod on the metal support
+**p.3**  Installation of the pod on the metal support
 ![[_attachments/exam-experiment-Q1/exam-experiment-Q1_p3_f3.png]]
 <!--fig:end-->
 

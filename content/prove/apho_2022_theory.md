@@ -82,11 +82,11 @@ L'esperimento di Stern-Gerlach fu eseguito nel 1922 e alla fine portò alla dete
 *Figura 1: Schema di schema dell'impostazione Stern-Gerlach.*
 <!--fig:end-->
 
-**A.1** (0.5pt) **Velocità degli Atomi d'Argento: ** La velocità $v_z$ degli atomi d'Argento che emergono dal forno può essere stimata a $\sqrt{3 k_B T / m}$ utilizzando il teorema di equipartition. Calcola questo valore.
+**A.1** (0.5pt) **Velocità degli Atomi d'Argento:** La velocità $v_z$ degli atomi d'Argento che emergono dal forno può essere stimata a $\sqrt{3 k_B T / m}$ utilizzando il teorema di equipartition. Calcola questo valore.
 
-**B.1 ** (2pt) **L'espressione di base: ** Dopo essere usciti dal forno gli atomi d'argento si muovono lungo la direzione $z$ su una distanza $l_1 = 0.25$ m. Successivamente, gli atomi d'argento passano tra due magneti per una distanza $l_2 = 0.5$ m. I magneti producono un campo magnetico $B$ in omogeneo direzione $x$ con gradiente costante $dB/dx$. Supponiamo che l'atomo d'argento abbia un momento magnetico che punta in direzione $+x$ o $-x$, ovvero $\vec{\mu}_s = \pm \mu_s \hat{\imath}$. Dopo aver attraversato i magneti, gli atomi d'argento attraversano una distanza ulteriore $l_3 = 0.25$ m prima di colpire lo schermo $PP'$. La distanza tra i due fasci colpiscanti sullo schermo è $\Delta x$. Derivare l'espressione per la distanza di divisione $\Delta x$ sullo schermo.
+**B.1** (2pt) **L'espressione di base:** Dopo essere usciti dal forno gli atomi d'argento si muovono lungo la direzione $z$ su una distanza $l_1 = 0.25$ m. Successivamente, gli atomi d'argento passano tra due magneti per una distanza $l_2 = 0.5$ m. I magneti producono un campo magnetico $B$ in omogeneo direzione $x$ con gradiente costante $dB/dx$. Supponiamo che l'atomo d'argento abbia un momento magnetico che punta in direzione $+x$ o $-x$, ovvero $\vec{\mu}_s = \pm \mu_s \hat{\imath}$. Dopo aver attraversato i magneti, gli atomi d'argento attraversano una distanza ulteriore $l_3 = 0.25$ m prima di colpire lo schermo $PP'$. La distanza tra i due fasci colpiscanti sullo schermo è $\Delta x$. Derivare l'espressione per la distanza di divisione $\Delta x$ sullo schermo.
 
-**Il campo magnetico inomogeneo: **
+**Il campo magnetico inomogeneo:**
 
 Questa parte riguarda la configurazione per creare il campo magnetico inomogeneo ($dB/dx \neq 0$). Esso è costituito da un certo numero di sottoparti. Due fili molto lunghi paralleli all'asse $z$ trasportano correnti di magnitudo $I_0$ e si trovano a $A_1\,(0, -a, z)$ e $A_2\,(0, a, z)$ (vedere figura seguente). La direzione della corrente che passa attraverso $y = -a$ è $-\hat{k}$ e per quella che passa attraverso $y = a$ è $\hat{k}$. L'intero sistema è all'interno di un mezzo ad alta permeabilità magnetica relativa $\mu_r$. Prendiamo $\mu = \mu_0 \mu_r$. I fili sono isolati e non c'è alcuna fuga di corrente nel mezzo.
 
@@ -103,7 +103,7 @@ Questa parte riguarda la configurazione per creare il campo magnetico inomogeneo
 
 **D.1** (0.5pt) **La Forza:** Come accennato in precedenza gli atomi d'argento viaggiano nel piano $(x, 0, z)$ con le loro velocità parallele all'asse $z$ e dati da $\vec{v} = v_z \hat{k}$. Ricordiamo anche che il dipolo magnetico dell'atomo d'argento è $\vec{\mu}_s = \pm \mu_s \hat{\imath}$. Ottenere l'espressione per la grandezza della forza $F_x$ che agisce su un atomo d'argento lungo la direzione $x$ in termini di $\mu_s$, $I_0$, $a$, $\mu$ e coordinate pertinenti.
 
-**E.1 ** (2.0pt) **Il campo magnetico e il suo gradiente: ** Supponiamo che questa stessa forza $F_x$ agisca su una piccola distanza $l_2$ lungo l'asse $z$ (Figura 1). Supponiamo anche che gli atomi d'argento passino attraverso il punto medio $P$ di $RQ$ (figura 2). I seguenti valori sperimentali sono dati:
+**E.1** (2.0pt) **Il campo magnetico e il suo gradiente:** Supponiamo che questa stessa forza $F_x$ agisca su una piccola distanza $l_2$ lungo l'asse $z$ (Figura 1). Supponiamo anche che gli atomi d'argento passino attraverso il punto medio $P$ di $RQ$ (figura 2). I seguenti valori sperimentali sono dati:
 
 $$\frac{\mu}{\mu_0} = 10^4 \,; \quad a = 0.60 \text{ cm}; \quad OC = 0.60 \text{ cm}; \quad OD = 0.80 \text{ cm}; \quad I_0 = 2.00 \text{ A}$$
 
@@ -111,7 +111,7 @@ Qui $\mu_0$ è la permeabilità magnetica dello spazio libero. Ottenere il valor
 
 **F.1** (1.5pt) **Il momento magnetico dell'atomo d'argento:** Se $v_z = 500$ m·s$^{-1}$ e il campo magnetico sono calcolati come sopra, l'esperimento di Stern-Gerlach produce una divisione di $\Delta x = 0.20$ cm. Ottenere il valore del momento magnetico dell'atomo d'argento $\mu_s$ in S.I. Unita'.
 
-**G.1 ** (0.5pt) **La diffusione della linea: ** Gli atomi d'argento potrebbero non avere tutti la stessa velocità. Si deve avere una diffusione del 20% nella velocità del fascio. Qual è la conseguente diffusione del punto $\delta x$ sullo schermo?
+**G.1** (0.5pt) **La diffusione della linea:** Gli atomi d'argento potrebbero non avere tutti la stessa velocità. Si deve avere una diffusione del 20% nella velocità del fascio. Qual è la conseguente diffusione del punto $\delta x$ sullo schermo?
 
 **H.1** (0.5pt) **L'errore nel momento magnetico:** Qual è la conseguente barra di errore nella valutazione del momento magnetico $\delta \mu_s$?
 
@@ -231,11 +231,11 @@ $$V(\mathcal{M}) = a(T)\,\mathcal{M}^2 + b(T)\,\mathcal{M}^4$$
 
 quando la temperatura $T \to$, $b(T) > 0$ e $a(T)$ cambiano segno con la temperatura. Cerchiamo di comprendere il fenomeno della transizione di fase utilizzando il modello sopra menzionato.
 
-**Nota 1: ** Per il movimento circolare di raggio $R$, la velocità nelle coordinate polari è $\dot{\vec{r}} = R\dot{\theta}\,\hat{\theta}$ e l'accelerazione è $\ddot{\vec{r}} = -R\dot{\theta}^2\,\hat{r} + R\ddot{\theta}\,\hat{\theta}$. Qui $\hat{r}$ e $\hat{\theta}$ sono vettori unitari rispettivamente nelle direzioni radial e tangenziale.
+**Nota 1:** Per il movimento circolare di raggio $R$, la velocità nelle coordinate polari è $\dot{\vec{r}} = R\dot{\theta}\,\hat{\theta}$ e l'accelerazione è $\ddot{\vec{r}} = -R\dot{\theta}^2\,\hat{r} + R\ddot{\theta}\,\hat{\theta}$. Qui $\hat{r}$ e $\hat{\theta}$ sono vettori unitari rispettivamente nelle direzioni radial e tangenziale.
 
-**Nota 2: ** La direzione della forza opposta dice $\vec{F}_f$ sarà indicata da $f$. Qui $f = +1$ se la perla si muove in direzione contraria al senso orario (di aumento $\theta$) e $f = -1$ se la perla si muove in senso orario $\theta$, ad esempio. $f = \mathrm{sgn}(\dot{\theta})$ in cui $\mathrm{sgn}$ è $+1$ o $-1$ a seconda che il suo argomento sia positivo o negativo.
+**Nota 2:** La direzione della forza opposta dice $\vec{F}_f$ sarà indicata da $f$. Qui $f = +1$ se la perla si muove in direzione contraria al senso orario (di aumento $\theta$) e $f = -1$ se la perla si muove in senso orario $\theta$, ad esempio. $f = \mathrm{sgn}(\dot{\theta})$ in cui $\mathrm{sgn}$ è $+1$ o $-1$ a seconda che il suo argomento sia positivo o negativo.
 
-Nota 3: ** Potete trovare le estensioni
+Nota 3:  Potete trovare le estensioni
 
 $$\sin(\theta) = \theta - \theta^3/6 + \ldots$$
 $$\cos(\theta) = 1 - \theta^2/2 + \theta^4/24 + \ldots$$
@@ -267,7 +267,7 @@ In quanto segue, comprenderemo la dinamica della perla nel quadro dell'anello ro
 
 **B.3** (0.5pt) Sfogliare qualitativamente la grandezza della forza di reazione normale sulla mancia come funzione di $\omega/\omega_c$ in equilibrio stabile.
 
-**B.4 ** (1.0pt) Definitiamo l'energia potenziale corrispondente alla forza tangenziale $F_\theta$, vale a dire
+**B.4** (1.0pt) Definitiamo l'energia potenziale corrispondente alla forza tangenziale $F_\theta$, vale a dire
 
 $$F_\theta = -\frac{1}{R}\frac{d}{d\theta}V(\theta)$$
 
@@ -291,13 +291,13 @@ $$\Omega_0 = \frac{1}{R}\sqrt{\frac{V''(\theta_0)}{m}}$$
 
 *Per le seguenti parti da C.1 a C.2 $k \neq 0$.*
 
-**C.1 ** (1.0pt) Prendi $f = 1$ e esprimi $k = \tan\alpha$. Possiamo esprimere la condizione per l'angolo di equilibrio s) $\theta_0$ come
+**C.1** (1.0pt) Prendi $f = 1$ e esprimi $k = \tan\alpha$. Possiamo esprimere la condizione per l'angolo di equilibrio s) $\theta_0$ come
 
 $$\left(\frac{\omega}{\omega_c}\right)^2 = \frac{\tan(x)}{\sin(y)}$$
 
 Ottenere $x$ e $y$.
 
-**C.2 ** (0.5pt) Si dà che $f = 1$ e $k = 0.05$. Ottenere gli angoli di equilibrio $\theta_0$, se del caso, per i seguenti casi:
+**C.2** (0.5pt) Si dà che $f = 1$ e $k = 0.05$. Ottenere gli angoli di equilibrio $\theta_0$, se del caso, per i seguenti casi:
 
 1. $\omega/\omega_c = 0.50$
 2. $\omega/\omega_c = 0.70$

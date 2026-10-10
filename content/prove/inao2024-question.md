@@ -282,8 +282,8 @@ and simplify the recursion relation between $f_{n+1}$ and $f_n$ to express $C^A_
 
 Considerate due contenitori A e B entrambi con la stessa quantità di liquido di volume $V$. Inizialmente, A ha solo latte e B ha solo acqua. Trasferiamo i liquidi avanti e indietro tra i due contenitori. Un trasferimento è definito come il completamento di entrambe le fasi seguenti:
 
-- **Step 1: ** Prendi un volume fisso $L$ dal contenitore A, mettila in B e mescola bene.
-- **Step 2: ** Prendi lo stesso volume $L$ del liquido misto dal contenitore B e riportilo nel contenitore A e mescolalo bene.
+- **Step 1:** Prendi un volume fisso $L$ dal contenitore A, mettila in B e mescola bene.
+- **Step 2:** Prendi lo stesso volume $L$ del liquido misto dal contenitore B e riportilo nel contenitore A e mescolalo bene.
 
 Al termine di ogni trasferimento, entrambi i contenitori hanno liquidi con esattamente lo stesso volume $V$. $C^A_M(n)$ indica la concentrazione di latte nel contenitore A al termine del trasferimento $n$-th. Qui definiamo la concentrazione come
 

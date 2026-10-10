@@ -58,7 +58,7 @@ In questo problema, studiamo un cannone di elettroni con sistema di messa a fuoc
 
 Consideriamo che tutti gli elettroni usciranno dall'anodo lungo l'asse del tubo con la stessa velocità $v_0$. La lunghezza delle plache deflettrici è $d$ e la distanza dall'estremità delle plache allo schermo è $l$. Gli elettroni hanno carico $e$ e massa $m$. Durante il tempo di passaggio tra le plache il campo elettrico può essere considerato costante: $E = E_0$.
 
-**(a) ** Determina, in base alle variabili del problema:
+**(a)** Determina, in base alle variabili del problema:
 - la velocità trasversale $v_\perp$ degli elettroni dopo aver attraversato lo spazio tra le plache deflettrici;
 - l'inclinazione $\tan\theta$ del suo percorso una volta uscita dalle lastre (dove $\theta$ è l'angolo rispetto all'asse del tubo);
 - la lunghezza $h$ della linea verticale tracciata dagli elettroni quando colpiscono lo schermo a causa del campo alternativo.
@@ -88,7 +88,7 @@ In this problem we're going to study an electron cannon with a magnetic focusing
 
 We consider that all the electrons exit the anode along the tube axis at the same speed $v_0$. The length of the deflector plates is $d$ and the distance from the end of the plates to the screen is $l$. The electrons have a charge $e$ and a mass $m$. During the time of passage between the plates the electric field can be considered constant: $E = E_0$.
 
-**(a) ** Determine, depending on the variables of the problem:
+**(a)** Determine, depending on the variables of the problem:
 - la velocidad transversal $v_\perp$ de los electrones tras atravesar el espacio entre las placas deflectoras;
 - the $\tan\theta$ slope of its path once it leaves the plates (where $\theta$ is the angle with respect to the tube axis);
 - the $h$ length of the vertical line drawn by the electrons when impacting the screen due to the alternating field.
@@ -140,7 +140,7 @@ Supponiamo che agisca anche il campo magnetico longitudinale e uniforme $B$ tra 
 
 Ricorda che, a seconda del valore di $E$ in ogni istante di tempo, tra $-E_0$ e $E_0$, gli elettroni usciranno dal punto $P$ formando diversi angoli $\theta$, e con diverse velocità trasversali $v_\perp$, sopra e sotto l'asse.
 
-**(b) ** Considera le tracce degli elettroni che usciranno da $P$ verso l'alto dell'asse e quelli che usciranno verso il basso. Esprimi quali formano a destra e quali a sinistra.
+**(b)** Considera le tracce degli elettroni che usciranno da $P$ verso l'alto dell'asse e quelli che usciranno verso il basso. Esprimi quali formano a destra e quali a sinistra.
 
 <!--fig:start-->
 ![[_attachments/P3_Enfoquemagnetico/P3_Enfoquemagnetico_p2_f3.png]]
@@ -159,7 +159,7 @@ Assume that the longitudinal and uniform magnetic field $B$ also acts between th
 
 Remember that depending on the value of $E$ at each time, between $-E_0$ and $E_0$, the electrons exit the $P$ point forming different angles $\theta$, and with different transverse velocities $v_\perp$, above and below the axis.
 
-**(b) ** Consider the paths of electrons going out from $P$ up the axis and going down. Justify which propellers form on the right and which on the left.
+**(b)** Consider the paths of electrons going out from $P$ up the axis and going down. Justify which propellers form on the right and which on the left.
 
 <!--fig:start-->
 ![[_attachments/P3_Enfoquemagnetico/P3_Enfoquemagnetico_p2_f3.png]]
@@ -201,7 +201,7 @@ Mettiti dietro lo schermo in modo che gli elettroni si avvicinino a te. Disegna 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(c) ** Put yourself behind the screen so that the electrons move towards you. Draw what trajectories would look like from that position. In the drawing, indicate the centre of the $C$ screen and display different paths to see whether $E$ can be positive or negative and whether $E$ and $B$ can also vary in module. With the help of arrows, indicate the possible spinning senses: time and/or anti-time.
+**(c)** Put yourself behind the screen so that the electrons move towards you. Draw what trajectories would look like from that position. In the drawing, indicate the centre of the $C$ screen and display different paths to see whether $E$ can be positive or negative and whether $E$ and $B$ can also vary in module. With the help of arrows, indicate the possible spinning senses: time and/or anti-time.
 
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -228,7 +228,7 @@ Mettiti dietro lo schermo in modo che gli elettroni si avvicinino a te. Disegna 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(d) ** Dimostra che gli elettroni con più velocità trasversali viaggiano in cerchi più grandi, e viceversa. Determina il raggio $R$ delle traiettorie circolari proiettate su un piano transversale in base alle variabili del problema, e mostra che è indipendente dalla massa e dalla carica degli elettroni.
+**(d)** Dimostra che gli elettroni con più velocità trasversali viaggiano in cerchi più grandi, e viceversa. Determina il raggio $R$ delle traiettorie circolari proiettate su un piano transversale in base alle variabili del problema, e mostra che è indipendente dalla massa e dalla carica degli elettroni.
 
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -265,7 +265,7 @@ It demonstrates that the electrons with the highest transverse velocity travel i
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(e) ** Determina il periodo di rotazione $T$ delle traiettorie elicodali. È lo stesso per tutti i percorsi possibili?
+**(e)** Determina il periodo di rotazione $T$ delle traiettorie elicodali. È lo stesso per tutti i percorsi possibili?
 
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
@@ -300,7 +300,7 @@ Se varía ahora lentamente el campo magnético hasta conseguir que el tiempo req
 
 Il campo magnetico varia lentamente fino a far sì che il tempo necessario per fare un'intera rivoluzione degli elettroni sia uguale al tempo impiegato per arrivare dalle placche deflettrici allo schermo. Entonces todos los electrones se enfocarán en el punto central independientemente del ángulo de divergencia $\theta$ que llevaban al inicio.
 
-**(f) ** Qual è il valore del campo magnetico $B_1$ con cui si ottiene questo approccio? Quale campo $B_n$ è necessario per far girare gli elettroni $n$ prima di raggiungere lo schermo?
+**(f)** Qual è il valore del campo magnetico $B_1$ con cui si ottiene questo approccio? Quale campo $B_n$ è necessario per far girare gli elettroni $n$ prima di raggiungere lo schermo?
 
 **Topic:** [[Magnetism]], [[Electromagnetic Induction]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -312,7 +312,7 @@ Il campo magnetico varia lentamente fino a far sì che il tempo necessario per f
 
 The magnetic field is now slowly varying until the time required for electrons to make a complete revolution is equal to the time they take to get from the deflector plates to the screen. Entonces todos los electrones se enfocarán en el punto central independientemente del ángulo de divergencia $\theta$ que llevaban al inicio.
 
-**(f) ** What is the value of the magnetic field $B_1$ with which this approach is achieved? What field $B_n$ is required for electrons to spin $n$ before reaching the screen?
+**(f)** What is the value of the magnetic field $B_1$ with which this approach is achieved? What field $B_n$ is required for electrons to spin $n$ before reaching the screen?
 
 **Topic:** [[Magnetism]], [[Electromagnetic Induction]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]

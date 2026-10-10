@@ -221,7 +221,7 @@ with $\alpha \in [-\pi,\ \pi]$. We consider that the particle starts moving from
 
 Il matematico e fisico olandese Christiaan Huygens inventò l'orologio a pendolo cicloidale nel dicembre 1656; aveva 27 anni. Il Rijksmuseum voor de Geschiedenis der Natuurwetenschapen di Leiden ha l'orologio realizzato da Huygens nel 1657, che ha coppie cicloidiche, il più antico orologio a pendolo.
 
-Il pendolo cicloidale ** è descritto da una particella che si muove senza attrito su un cicloide verticale. Le equazioni parametriche del cicloide sono (vedere figura seguente):
+Il pendolo cicloidale  è descritto da una particella che si muove senza attrito su un cicloide verticale. Le equazioni parametriche del cicloide sono (vedere figura seguente):
 
 $$x_1 = a\,(\alpha + \sin\alpha),$$
 $$x_2 = a\,(1 - \cos\alpha),$$
@@ -357,7 +357,7 @@ A cylinder shaped piezo stacked transducer is made of $N$ circular (radius $R$) 
 
 **Voltazione piezoelettrica da supertorenti** *(Prof. Petrica Cristea  Università di Bucarest)*
 
-A cylinder shaped piezo stacked transducer is made of $N$ circular (radius $R$) well insulated superconducting turns, embedded in a piezoelectric ceramic with no magnetic properties (FIG.1). Senza supertorente che fluisce a turno, sono separati da una piccola distanza $d$. Il materiale ceramico obbedisce alla legge di Hooke e la sua rigidità è $k$. Se la ceramica viene allungata o compressa con $N\Delta d$ lungo l'asse del cilindro, si sviluppa una caduta di tensione $U = \gamma N\delta d$ tra la parte superiore e la parte inferiore del pile, dove $\gamma$ è una costante specifica del materiale ceramico. Tale effetto è conosciuto come effetto piezoelettrico **. Si noti che un materiale superconduttore * presenta una resistenza elettrica esattamente zero *. La superconduttività fu scoperta dal fisico olandese H. Kamerlingh Onnes l'8 aprile 1911 a Leiden. Per risolvere il problema, è necessario solo conoscere le basi della meccanica, dell'elettricità e del magnetismo.
+A cylinder shaped piezo stacked transducer is made of $N$ circular (radius $R$) well insulated superconducting turns, embedded in a piezoelectric ceramic with no magnetic properties (FIG.1). Senza supertorente che fluisce a turno, sono separati da una piccola distanza $d$. Il materiale ceramico obbedisce alla legge di Hooke e la sua rigidità è $k$. Se la ceramica viene allungata o compressa con $N\Delta d$ lungo l'asse del cilindro, si sviluppa una caduta di tensione $U = \gamma N\delta d$ tra la parte superiore e la parte inferiore del pile, dove $\gamma$ è una costante specifica del materiale ceramico. Tale effetto è conosciuto come effetto piezoelettrico **. Si noti che un materiale superconduttore * presenta una resistenza elettrica esattamente zero *. La superconduttività fu scoperta dal fisico olandese H. Kamerlingh Onnes l'8 aprile 1911 a Leiden. Per risolvere il problema, è necessario solo conoscere le basi della meccanica, dell'elettricità e del magnetismo.**
 
 ![[PLANCKS_2016_p4_f1.png]]
 *FIG.1: Trasduttore piezo-impiccato di torni superconduttori circolari (radio $R$) $N$, incorporato in ceramica piezoelettrica. Le curve sono separate da una distanza $d$.*
@@ -705,7 +705,7 @@ where $N_0$ is number of adsorption centers and $\langle N_a \rangle$ is average
 
 Si considera un contenitore contenente un gas ideale a temperatura $T$ e pressione $P$; su una parte della superficie del contenitore si trovano centri di adsorzione $N_0$, il numero di questi centri di adsorzione essendo molto piccolo rispetto al numero totale di particelle; le particelle adsorbite rimangono situate, senza traduzioni, e per l'estrazione di una particella da un centro di adsorzione nella fase gassosa è necessaria l'energia $\varepsilon$. Considerano che nella fase gassosa le particelle si comportano come punti materiali con la massa $M$ (cioè Le particelle hanno solo gradi di libertà di trasformazione) e nella fase adsorbita si comportano come oscillatori isotropici armonici con la frequenza $\omega$.
 
-In condizioni di equilibrio, quando una piccola parte delle particelle è adsorbita e il resto è in fase gassosa, definiamo il rapporto di copertura ** con la relazione
+In condizioni di equilibrio, quando una piccola parte delle particelle è adsorbita e il resto è in fase gassosa, definiamo il rapporto di copertura  con la relazione
 
 $$\theta(T, P) \equiv \frac{\langle N_a \rangle}{N_0},$$
 

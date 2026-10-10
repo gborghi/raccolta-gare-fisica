@@ -38,7 +38,7 @@ Due masse $M$ e $m$ gravitano in orbite circolari, rispettivamente di raggio $R$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1. A three-body problem and LISA
+**1. A three-body problem and LISA**
 
 Two masses $M$ and $m$ gravitate in circular orbits, respectively of radius $R$ and $r$, around their centre of mass. Express the angular velocity $\omega_0$ of the line joining $M$ and $m$ in terms of $R$, $r$, $M$, $m$ and the universal gravitational constant $G$.
 

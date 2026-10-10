@@ -158,7 +158,7 @@ The vessel
 
 A boat sails on the lake at a constant speed of $v_B = 10\ \mathrm{m/s}$. When located $d_b = 40\ \mathrm{m}$ from the stop, it starts to slow down at a constant deceleration, issuing a continuous whistle of $f = 250\ \mathrm{Hz}$ frequency. At the same time, Carlo, who is along the joining boat at $d_C = 15\ \mathrm{m}$ from the stop, begins to run towards the boat at constant speed $v_C = 6\ \mathrm{m/s}$. Calculate the frequency of sound heard by Charles the moment he reaches the stop. The value $v_s = 343\ \mathrm{m/s}$ is assumed for the speed of sound in the air.
 
-The unit of measurement: ** Hz. The following information is provided:
+The unit of measurement:  Hz. The following information is provided:
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -388,7 +388,7 @@ The amount of the aid shall be calculated on the basis of the following data:
 
 Protons and neutrons tend to bond to form atomic nuclei, resulting in energy loss. This energy loss is expressed as a mass difference (called *mass deficit*) between the sum of the masses of the protons and neutrons that make up the mass and the mass of the resulting atom. Knowing that the most common isotopes of nitrogen and oxygen are $^{14}_{7}\mathrm{N}$ ($m_a = 14.0067\ \mathrm{u}$) and $^{16}_{8}\mathrm{O}$ ($m_a = 15.999\ \mathrm{u}$) respectively, estimate how much overall this mass difference for the Earth's atmosphere amounts.
 
-The unit of measurement: ** kg. The following information is provided:
+The unit of measurement:  kg. The following information is provided:
 
 **Topic:** [[Nuclear & Particle Physics]]
 **Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -561,7 +561,7 @@ The following table shows the results of the calculation of the total number of 
 A layer of air-contact ethyl alcohol (refraction index $n_\mathrm{aria} = 1$) has a refraction index $n_\mathrm{al} = 1.36$ and a thickness $s_\mathrm{al} = 2\ \mathrm{cm}$. It floats on a layer of oil of refractive index $n_o = 1.5$ and thickness $s_o = 3\ \mathrm{cm}$, which in turn floats on a layer of water (refractive index $n_a = 1.33$) of thickness $s_a = 10\ \mathrm{cm}$, as shown in Figure 1. A ray of light from the air hits the surface of the alcohol at an angle of $60^\circ$ to the vertical. What is the horizontal distance $D$ between the point of impact of the beam on the alcohol layer and the point where the beam reaches the bottom of the container?
 
 
-The unit of measurement: ** cm. The following information is provided:
+The unit of measurement:  cm. The following information is provided:
 
 <!--fig:start-->
 ![[_attachments/allenamento_AlbertiniNola_2026t/allenamento_AlbertiniNola_2026t_p5_f5.png]]
@@ -607,7 +607,7 @@ The following table shows the results of the measurements:
 
 Clear has two thin lenses that converge in contact and so that they have the same optical axis. The left-hand lens has an unknown focal length $f_1$, while the right-hand lens has a focal length $f_2 = 30\ \mathrm{cm}$. By placing a small object at $25\ \mathrm{cm}$ to the left of the two-lens system, Chiara observes that the image is formed at $50\ \mathrm{cm}$ to the right of the same. What is the focal length $f_1$?
 
-The unit of measurement: ** cm. The following information is provided:
+The unit of measurement:  cm. The following information is provided:
 <!--fig:start-->
 ![[_attachments/allenamento_AlbertiniNola_2026t/allenamento_AlbertiniNola_2026t_p6_f6.png]]
 *Conducting sphere within the spherical shell*
@@ -678,7 +678,7 @@ Sei cariche puntiformi, tre positive e tre negative, tutte di uguale modulo $q$,
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Eight-header of loads **
+**Eight-header of loads**
 
 Six point-shaped charges, three positive and three negative, all of the same $q$ form, are placed on the vertices of a regular octahedron. Al variare della disposizione delle cariche sui vertici, determina il rapporto $U_\mathrm{max}/U_\mathrm{min}$ tra l'energia potenziale elettrica massima possibile e quella minima possibile del sistema.
 

@@ -199,7 +199,7 @@ Un obiettivo semisferico di radio $R = 5$ cm e indice di refraczione $n = 1{,}52
 
 - **A.** Trovare il raggio minimo del anello di raggi che si riflettono internamente.
 - **B.** Determinare il raggio minimo del anello di raggi paralleli all'asse ottico che emergono parallele in direzione opposta all'incidenza.
-- **C.**Riconoscere la distanza lungo l'asse ottico tra il punto di incontro dei raggi marginali e il punto di incontro dei raggi paraxiali.
+- **C.** Riconoscere la distanza lungo l'asse ottico tra il punto di incontro dei raggi marginali e il punto di incontro dei raggi paraxiali.
 - **D.** Con uno schermo $P$ a distanza $X$ dal centro della sfera: determinare la distribuzione dell'illuminazione.
 
 **Topic:** [[Geometric Optics]]
@@ -1244,7 +1244,7 @@ Un cubo conduttore laterale $a$ ha un carico punteggiato $q$ nel suo centro geom
 
 <div class="qlang-split" data-lang="en"></div>
 
-2001  Theoretical P2: Driver cube with load in the centre**
+2001  Theoretical P2: Driver cube with load in the centre
 
 A side conducting cube $a$ has a point charge $q$ at its geometric center. The cube is connected to the ground.
 
@@ -1558,7 +1558,7 @@ Usando una barra metálica perforada que puede pivotar en distintos orificios, d
 
 <div class="qlang-split" data-lang="it"></div>
 
-2003  Sperimentale: pendolo fisico  determinazione di $g$**
+2003  Sperimentale: pendolo fisico  determinazione di $g$
 
 Usando una barra metallica perforata che può girare in differenti orizzonti, determinare l'accelerazione della gravità $g$.
 
@@ -2173,7 +2173,7 @@ Gli elettroni bidimensionali in un campo magnetico intenso formano livelli di La
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P3: Hall effect of the whole quantum**
+Theoretical P3: Hall effect of the whole quantum
 
 Two-dimensional electrons in an intense magnetic field form Landau levels with energies $E_n = \hbar\omega_c(n + 1/2)$.
 
@@ -2597,7 +2597,7 @@ Un átomo de hidrógeno en el estado base se somete a un campo eléctrico extern
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2007  Teoria P3: Atomo di idrogeno in campo elettrico (effetto Stark) **
+**2007  Teoria P3: Atomo di idrogeno in campo elettrico (effetto Stark)**
 
 Un atomo di idrogeno in stato base è sottoposto a un campo elettrico esterno $\mathcal{E}$.
 
@@ -3978,7 +3978,7 @@ Due treni identici di propria lunghezza $L_0$ si muovono a velocità $+v$ e $-v$
 
 - **A.** Calcolare la lunghezza di ogni treno in base all'osservatore a riposo.
 - **B.** Determinare la velocità relativa tra i treni utilizzando l'aggiunta relativistica delle velocità.
-- **C.**Sotto l'aspetto di un osservatore su uno dei treni, calcolare la lunghezza dell'altro treno e il tempo trascorso dai treni.
+- **C.** Sotto l'aspetto di un osservatore su uno dei treni, calcolare la lunghezza dell'altro treno e il tempo trascorso dai treni.
 
 **Topic:** [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -4621,7 +4621,7 @@ El 14 de septiembre de 2015, LIGO detectó las ondas gravitacionales de la fusi�
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2016  Teoria P1: LIGO e onde gravitazionali (GW150914) **
+**2016  Teoria P1: LIGO e onde gravitazionali (GW150914)**
 
 Il 14 settembre 2015, LIGO ha rilevato le onde gravitazionali della fusione di due buchi neri (GW150914).
 
@@ -4727,7 +4727,7 @@ Un bote de juguete es impulsado por un propulsor MHD: una corriente $I$ pasa por
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2016  Teoria P3: Propulsione magnetoidrodinamica (MHD) **
+**2016  Teoria P3: Propulsione magnetoidrodinamica (MHD)**
 
 Un giocattolo è propulso da un propulsore MHD: un corrente $I$ passa attraverso l'acqua di mare (conduzione $\sigma$) in presenza di un campo magnetico $B$, generando una forza di Lorentz.
 
@@ -5992,7 +5992,7 @@ Una piedra plana de masa $m$ que golpea el agua en ángulo $\alpha$ experimenta 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2021  Teoria Q1: pietre che saltano in acqua (canica) **
+**2021  Teoria Q1: pietre che saltano in acqua (canica)**
 
 Una pietra piana di massa $m$ che colpisce l'acqua all'angolo $\alpha$ prova una forza idrodinamica $F = \rho_{agua} v^2 A \sin\alpha$ perpendicolare alla superficie dell'acqua.
 
@@ -6374,7 +6374,7 @@ Una válvula termoiónica tiene un cátodo calentado que emite electrones por ef
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2023  Teoria T3: Valvola termonica (tubo di vuoto) **
+**2023  Teoria T3: Valvola termonica (tubo di vuoto)**
 
 Una valvola termonica ha un catoda riscaldata che emette elettroni per effetto termonico (legge di Richardson-Dushman) e gli elettroni sono accelerati verso l'anodo.
 

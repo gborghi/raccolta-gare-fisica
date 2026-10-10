@@ -54,7 +54,7 @@ La figura 1 mostra $ABC$, un triangolo a uguali stelle con due lati di lunghezza
 ![[PLANCKS_2024_p1_f1.png]]
 *Figura 1: triangolo a parice con angolo semivertico $\theta$ e momento di inerzia $I_G$.*
 
-**(a) ** [6 punti] Mostra che la formula per il momento di inerzia intorno al centro di massa è
+**(a)** [6 punti] Mostra che la formula per il momento di inerzia intorno al centro di massa è
 
 $$I_G = \frac{1}{18} m r^2 \,(2 - \cos 2\theta).$$
 
@@ -62,7 +62,7 @@ Si consideri ora una lamina di $n$-gon regolare composta da triangoli di $n$ eus
 
 Ad esempio, una lamina a 6 goni (cioè un esagono) sarebbe formato da sei triangoli a uguale di mancia, con i loro apici che si toccano. Ciascun triangolo ha due lati di lunghezza $r$.
 
-**(b) ** [4 punti] Trova un'espressione per il momento di inerzia di una lamina di massa regolare $n$-gon circa il suo centro di massa $G'$ e mostra che nel limite $n \to \infty$ viene recuperato il risultato per un cerchio, cioè $\frac{1}{2} M r^2$.
+**(b)** [4 punti] Trova un'espressione per il momento di inerzia di una lamina di massa regolare $n$-gon circa il suo centro di massa $G'$ e mostra che nel limite $n \to \infty$ viene recuperato il risultato per un cerchio, cioè $\frac{1}{2} M r^2$.
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1CwwUdPEUeMbRrHpO__l9BdjGpmZJsYeY/view)
 **Topic:** [[Rotational Dynamics]], [[Mathematics]]
@@ -175,9 +175,9 @@ in cui $i^2 = -1$ e $j^2 = -1$ (ma $i \neq j$). L'idea è che se si può comporr
 
 Almeno, tutti quelli che arrivano alla finale di PANCKS.
 
-**(a) ** [1 segno] Dimostra che $ij = -ji$, ovvero le diverse radici quadrate di $-1$ devono essere anti-commute.
+**(a)** [1 segno] Dimostra che $ij = -ji$, ovvero le diverse radici quadrate di $-1$ devono essere anti-commute.
 
-**(b) ** [2 punti] Prova che se si scrive $k = ij$, allora $k^2 = -1$, cioè $k$ è un'altra radice quadrata di $-1$. Prove inoltre che $k$ non può essere scritto come "triplice", ovvero $k \neq \alpha + \beta i + \gamma j$ per $\alpha, \beta, \gamma$ reale.
+**(b)** [2 punti] Prova che se si scrive $k = ij$, allora $k^2 = -1$, cioè $k$ è un'altra radice quadrata di $-1$. Prove inoltre che $k$ non può essere scritto come "triplice", ovvero $k \neq \alpha + \beta i + \gamma j$ per $\alpha, \beta, \gamma$ reale.
 
 Ora hai dimostrato che i 'tripli' non esistono se si vuole un'algebra coerente compresa la moltiplicazione  devono essere estesi in quaternioni.
 
@@ -191,7 +191,7 @@ Dalle regole che avete precedentemente derivato sul moltiplicare i quaternioni, 
 
 $$q_1 q_2 = (-\vec{v}_1 \cdot \vec{v}_2, \; \vec{v}_1 \times \vec{v}_2).$$
 
-**(d) ** [5 punti] Calcolare $e^q$ se
+**(d)** [5 punti] Calcolare $e^q$ se
 
 $$q = \frac{\pi}{5} i + \frac{4\pi}{15} k.$$
 
@@ -252,7 +252,7 @@ In questo problema, risolverete l'equazione di Schrödinger per una particella q
 
 Per questo problema, considera la geometria più semplice che uno spazio con topologia della striscia di Möbius può avere uno spazio piatto con condizioni di confine della striscia di Möbius. Il problema sarà ulteriormente semplificato ignorando la rotazione.
 
-**(a) ** [6 punti] Trova le energie e le funzioni d'onda normalizzate di una particella quantistica di massa $m$ che si muove su una striscia di Möbius di lunghezza $L$ e larghezza $W$ con potenziale $V(x, y) = 0$ ovunque sulla striscia.
+**(a)** [6 punti] Trova le energie e le funzioni d'onda normalizzate di una particella quantistica di massa $m$ che si muove su una striscia di Möbius di lunghezza $L$ e larghezza $W$ con potenziale $V(x, y) = 0$ ovunque sulla striscia.
 
 Ora immaginiamo che la particella quantistica confinata sia un elettrone con massa $m = 9.11 \times 10^{-31}$ kg.
 
@@ -260,7 +260,7 @@ L'elettrone è descritto al tempo $t = 0$ da un pacchetto d'onda con funzione d'
 
 Prendi la lunghezza della striscia di Möbius, $L = 20$ nm e la larghezza, $W = 3$ nm.
 
-**(b) ** [4 punti] Dopo che ora la funzione d'onda tornerà alla sua posizione iniziale? Dammi la tua risposta in pochi secondi.
+**(b)** [4 punti] Dopo che ora la funzione d'onda tornerà alla sua posizione iniziale? Dammi la tua risposta in pochi secondi.
 
 Indicate le ipotesi che avete formulato per arrivare alle vostre risposte.
 
@@ -372,9 +372,9 @@ Dati utili:
 - Costante del campo magnetico, $\alpha = 2 \ \mathrm{m^{-1}}$
 - Costante del campo magnetico, $\beta = 32 \ \mathrm{m^{-1}}$
 
-**(a) ** [8 segni] Mostra che l'anello subisce un semplice movimento armonico e trova la frequenza e l'ampiezza dell'oscillazione.
+**(a)** [8 segni] Mostra che l'anello subisce un semplice movimento armonico e trova la frequenza e l'ampiezza dell'oscillazione.
 
-**(b) ** [2 punti] Qual è la corrente massima che scorre nell'anello e dove nell'oscillazione si verifica?
+**(b)** [2 punti] Qual è la corrente massima che scorre nell'anello e dove nell'oscillazione si verifica?
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1CwwUdPEUeMbRrHpO__l9BdjGpmZJsYeY/view)
 **Topic:** [[Electromagnetic Induction]], [[Oscillations & Waves]]
@@ -469,7 +469,7 @@ Ricorda che la variazione di intensità per un raggio che attraversa uno spessor
 
 $$dI = -\mu I \, dt.$$
 
-**(a) ** [1 segno] In assenza di attenuazione, il segnale misurato lungo una linea arbitraria $\ell$ viene dato da
+**(a)** [1 segno] In assenza di attenuazione, il segnale misurato lungo una linea arbitraria $\ell$ viene dato da
 
 $$I = k \int_0^{\ell} A(x, y) \, ds.$$
 
@@ -480,7 +480,7 @@ Considera ora la parte superiore del cranio dello Stag, approssimata da un'ellis
 ![[PLANCKS_2024_p6_f2.png]]
 *Figura 6: Ellisse con distribuzione arbitraria dell'attività e costante coefficiente di attenuazione.*
 
-**(b) ** [3 segni] Scrivere un'espressione, in coordinate polari, per il segnale misurato da una linea che attraversa l'origine degli assi ad un angolo $\vartheta$ all'asse $x$.
+**(b)** [3 segni] Scrivere un'espressione, in coordinate polari, per il segnale misurato da una linea che attraversa l'origine degli assi ad un angolo $\vartheta$ all'asse $x$.
 
 Finora abbiamo assunto un rilevatore a puntine con risoluzione angolare infinita (cioè, rileva solo i fotoni emessi lungo una linea molto sottile). Il rilevatore ha ora un'apertura circolare di raggio $R$, come mostrato alla figura 7.
 
@@ -489,7 +489,7 @@ Finora abbiamo assunto un rilevatore a puntine con risoluzione angolare infinita
 
 Possiamo supporre che la radioattività sia ancora distribuita in un piano, ma che i fotoni siano emessi isotropicamente in una sfera.
 
-**(c) ** [3 punti] Come cambierebbe la soluzione della parte b se avessimo un rilevatore con apertura circolare di raggio $R$?
+**(c)** [3 punti] Come cambierebbe la soluzione della parte b se avessimo un rilevatore con apertura circolare di raggio $R$?
 
 Il diagramma della figura 8 mostra la scansione dello Stag, con un diffuso assorbimento "di fondo" di radionuclide e due "punti" che rappresentano i ciocchini di corna.
 
@@ -503,7 +503,7 @@ Il diagramma della figura 8 mostra la scansione dello Stag, con un diffuso assor
 - $\ell_1 = 5.25$ cm, $\ell_2 = 11$ cm, $z_1 = 24.5$ cm e $z_2 = 12.5$ cm.
 - Per questa parte della domanda, supponiamo di nuovo un rilevatore perfettamente collimato, con il rapporto tra i fotoni emessi nella direzione del rilevatore / fotoni totali emessi in ogni punto $k = 10^{-4}$.
 
-**(d) ** [3 punti] Sulla base delle quantità sopra indicate, calcolare $A_1$ e $A_2$ e determinare se le corna del Stag crescevano uniformemente al momento della scansione.
+**(d)** [3 punti] Sulla base delle quantità sopra indicate, calcolare $A_1$ e $A_2$ e determinare se le corna del Stag crescevano uniformemente al momento della scansione.
 
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1CwwUdPEUeMbRrHpO__l9BdjGpmZJsYeY/view)
 **Topic:** [[Nuclear & Particle Physics]], [[Mathematics]]
@@ -567,7 +567,7 @@ Dati utili:
 - Un anno luce, $1 \ \mathrm{ly} = 9.46 \times 10^{15}$ m
 - Un volt elettronico, $1 \ \mathrm{eV} = 1.602 \times 10^{-19}$ J
 
-**(a) ** [5 punti] Calcolare la densità media di materia oscura in questa regione della galassia. Rispondi in $\frac{\mathrm{GeV}}{c^2} \ \mathrm{cm^{-3}}$.
+**(a)** [5 punti] Calcolare la densità media di materia oscura in questa regione della galassia. Rispondi in $\frac{\mathrm{GeV}}{c^2} \ \mathrm{cm^{-3}}$.
 
 La vostra galassia è in un universo dove tutta la materia oscura è composta da miniature buchi neri. Questi mini buchi neri sono diffusi in tutto l'halo sferico di una galassia (come un halo di materia oscura).
 
@@ -578,7 +578,7 @@ Dati utili:
 - Una unità astronomica, $1 \ \mathrm{AU} = 1.50 \times 10^{11}$ m
 - Massa solare, $1 \ M_\odot = 2 \times 10^{30}$ kg
 
-**(b) ** [5 punti] Qual è la massa approssimativa di questi buchi neri in miniatura? Di' la tua risposta in unità di massa solare.
+**(b)** [5 punti] Qual è la massa approssimativa di questi buchi neri in miniatura? Di' la tua risposta in unità di massa solare.
 
 Indicate le ipotesi che avete formulato per arrivare alle vostre risposte.
 
@@ -629,7 +629,7 @@ Ora immaginate che questo icosaedro fosse un componente in un circuito, dove ogn
 
 È possibile utilizzare il kit di icosahedron del modello fornito.
 
-**a) ** [10 punti] Trova la resistenza effettiva tra due vertici adiacenti.
+**a)** [10 punti] Trova la resistenza effettiva tra due vertici adiacenti.
 
 **Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/1CwwUdPEUeMbRrHpO__l9BdjGpmZJsYeY/view)
 **Topic:** [[Circuits]]
@@ -682,13 +682,13 @@ Negli anni '60, Charles Kittel propose un modello di giocattoli per illustrare l
 
 La regola finale significa che il modello è un "giubbotto a singolo termine"  che è una leggera semplificazione dei modelli precedenti che potrebbero essere "non bloccati" da entrambe le estremità.
 
-**(a) ** [4 punti] Calcolare l'energia libera del modello con $N$ collegamenti a una temperatura $T$.
+**(a)** [4 punti] Calcolare l'energia libera del modello con $N$ collegamenti a una temperatura $T$.
 
-**(b) ** [2 segni] Indicare quindi che il modello ha una transizione di fase a temperatura finita se $G > 1$, e trovare un'espressione per la temperatura di transizione.
+**(b)** [2 segni] Indicare quindi che il modello ha una transizione di fase a temperatura finita se $G > 1$, e trovare un'espressione per la temperatura di transizione.
 
-**(c) ** [2 punti] Calcolare il numero previsto di collegamenti aperti in funzione della temperatura e mostrare che questo può essere utilizzato come parametro di ordine per la transizione di fase.
+**(c)** [2 punti] Calcolare il numero previsto di collegamenti aperti in funzione della temperatura e mostrare che questo può essere utilizzato come parametro di ordine per la transizione di fase.
 
-**(d) ** [2 punti] Provate ad una spiegazione fisica del motivo per cui si richiede questa degenerazione extra $G > 1$ per avere una transizione di fase nel modello.
+**(d)** [2 punti] Provate ad una spiegazione fisica del motivo per cui si richiede questa degenerazione extra $G > 1$ per avere una transizione di fase nel modello.
 
 **Fonte:** [Testo (PDF) — p.31](https://drive.google.com/file/d/1CwwUdPEUeMbRrHpO__l9BdjGpmZJsYeY/view)
 **Topic:** [[Thermodynamics]], [[Biology]]

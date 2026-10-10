@@ -189,7 +189,7 @@ The following table shows the number of samples taken from the sample:
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Support team and rack
+**p.4**  Support team and rack
 ![[_attachments/NazSp25T/NazSp25T_p4_f4.png]]
 <!--fig:end-->
 
@@ -199,7 +199,7 @@ The following conditions shall apply:
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Canker support on the reel
+**p.5**  Canker support on the reel
 ![[_attachments/NazSp25T/NazSp25T_p5_f6.png]]
 <!--fig:end-->
 

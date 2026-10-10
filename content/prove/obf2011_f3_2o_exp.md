@@ -223,7 +223,7 @@ A transmissão de luz através de um objeto é definida como a razão entre a in
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PARTICO III  MEDIE DI Trasmissione **
+**PARTICO III  MEDIE DI Trasmissione**
 
 Ritorna il diagramma utilizzato nella PARTE II (paragrafo a) e il pezzo di carta utilizzato nella PARTE I.
 

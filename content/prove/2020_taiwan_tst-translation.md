@@ -2501,7 +2501,7 @@ very close to the speed of light
 
 <div class="qlang-split" data-lang="it"></div>
 
-**)) γ0 = ( −( c v0 2 −2 1 molto vicino alla **
+**)) γ0 = ( −( c v0 2 −2 1 molto vicino alla**
 
 1
 ) )

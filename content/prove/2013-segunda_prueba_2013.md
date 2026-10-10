@@ -72,7 +72,7 @@ d) Haz una estimación de la incertidumbre (margen de error) de esta constante, 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema è quello di sperimentare. Studi di vibrazione trasversale di una regola metallica.**
+Il problema è quello di sperimentare. Studi di vibrazione trasversale di una regola metallica.
 
 **Fondo teorico.**
 

@@ -89,6 +89,10 @@ Make error estimation of the obtained values.
 
 3. Give a brief theoretical explanation of the result obtained in Question 2.
 
+**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Elasticity & Materials]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -109,7 +113,7 @@ Lo scopo di questo lavoro è studiare il movimento dei corpi in un mezzo viscoso
 9. Vetro monouso  
 10. Fazzoletti per pulire il tavolo e le mani
 
-## Apparato sperimentale**
+## Apparato sperimentale
 
 In questo esperimento utilizzate la seguente configurazione: il tubo di vetro viene incollato alla punta della siringa, che a sua volta viene fissata al righello con nastro adesivo. Utilizzando la siringa si può riempire il tubo con il gel. Questa struttura può essere fissata verticalmente sul treppiede, sia con il tubo rivolto verso l’alto che verso il basso. All’interno del tubo si possono inserire barre metalliche o di legno, il movimento delle quali verrà studiato.
 
@@ -121,7 +125,7 @@ Per completare con successo l’esperimento, seguite rigorosamente le istruzioni
 4. I risultati delle misurazioni presentano notevoli dispersioni, quindi tutte le misurazioni devono essere ripetute più volte;  
 5. Fate attenzione ai bordi taglienti del tubo!
 
-## Parte 1. Metallo**
+## Parte 1. Metallo
 
 Posizionate il tubo verticalmente con l’estremità aperta rivolta verso l’alto, in modo da poter inserire le barre metalliche al suo interno. Se necessario, eseguite un secondo esperimento semplicemente capovolgendo il tubo: quando la barra inizia a scendere, capovolgete il tubo e potete ripetere la misurazione.
 
@@ -147,7 +151,7 @@ Utilizzando i vostri dati sperimentali, verificate se questa dipendenza corrispo
 4. Determinate l’indice di potenza $\gamma$ nella formula (1) che meglio si adatta ai dati sperimentali.
 Fate un’estimazione dell’errore nel valore ottenuto per questo indice di potenza $\gamma$.
 
-5. Fornisce una breve spiegazione teorica del risultato ottenuto nella Domanda 4.
+5. Fornire una breve spiegazione teorica del risultato ottenuto nel quesito 4.
 
 **Parte 2. Legno**
 
@@ -160,4 +164,4 @@ Per eseguire questo esperimento, utilizzate una stecca il più lunga possibile.
 2. Indaguate sulla dipendenza della velocità della barra dal suo lunghezza. Disegnate un grafico che rappresenti questa dipendenza.
 Fate un’estimazione dell’errore nei valori ottenuti.
 
-3. Fornisce una breve spiegazione teorica del risultato ottenuto nella Domanda 2.
+3. Fornire una breve spiegazione teorica del risultato ottenuto nel quesito 2.

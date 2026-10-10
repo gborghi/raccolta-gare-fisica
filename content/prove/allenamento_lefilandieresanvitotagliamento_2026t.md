@@ -84,7 +84,7 @@ Un aereo di linea entra in una zona lunga $7\ \mathrm{km}$ in cui soffia del ven
 
 A line aircraft enters a long zone $7\ \mathrm{km}$ where uniformly distributed wind is blowing. When the aircraft is travelling parallel to the wind and in its own direction, it uses $29\ \mathrm{s}$ to travel the entire route. When travelling in the opposite direction, it uses $35\ \mathrm{s}$. What is the ratio of the plane's speed to that of the wind?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -299,7 +299,7 @@ The following is the list of the types of products which are subject to the appr
 In a small cylindrical container, closed at the bottom and with a base radius of $2.00\ \mathrm{cm}$, there are two pistons, which divide it into two non-communicating sections ($A$ and $B$), as shown in Figure 1. Pistons are massless and can flow without friction, remaining perpendicular to the cylinder axis; heat transfer through piston and container walls is negligible. Place the container in a laboratory surrounded by air at atmospheric pressure. Initially each of the two sections contains the same volume $V_0$ of gas at $20\ ^\circ\mathrm{C}$ temperature and the pistons are in mechanical equilibrium. The gas in $A$ is monoatomic while the gas in $B$ is biatomic. What is the mass $M$ which, when placed on the upper piston, produces a temperature difference between the $A$ and $B$ sections equal to $30\ ^\circ\mathrm{C}$ when the mechanical balance is restored?
 
 
-The unit of measurement: ** kg. The following information is provided:
+The unit of measurement:  kg. The following information is provided:
 
 <!--fig:start-->
 ![[_attachments/allenamento_LeFilandiereSanVitoTagliamento_2026t/allenamento_LeFilandiereSanVitoTagliamento_2026t_p4_f4.png]]

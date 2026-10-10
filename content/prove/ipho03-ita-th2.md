@@ -173,7 +173,7 @@ $g(x)$ ha valore massimo pari a 1 e $k = \omega/u$. Ricorda che i centri degli e
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part B: electromechanical properties (including piezoelectric effect) **
+**Part B: electromechanical properties (including piezoelectric effect)**
 
 Consider a quartz crystal plate of length $b$, thickness $h$ and width $w$ (Figure 2d). Its length and thickness are directed along the $x$ and $z$ axes respectively. On the upper and lower surfaces of the plate (see Figure 2d) two thin metal coatings form electrodes. Electrical connections, which also serve as the supporting function of the plate (Figure 2e), are welded in the centre of the electrodes, which can be assumed to be stationary for longitudinal oscillations along the direction $x$.
 
@@ -229,7 +229,7 @@ The following points shall be added:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(d) ** What are the first two lowest frequencies at which longitudinal stationary waves can be excited in the quartz plate?
+**(d)** What are the first two lowest frequencies at which longitudinal stationary waves can be excited in the quartz plate?
 
 The following points shall be added:
 

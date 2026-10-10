@@ -339,7 +339,7 @@ Soaked in a liquid
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Capillary submerged in non-wet liquid
+**p.3**  Capillary submerged in non-wet liquid
 ![[_attachments/TH2_ITA/TH2_ITA_p3_f3.png]]
 <!--fig:end-->
 

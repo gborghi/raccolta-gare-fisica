@@ -70,7 +70,7 @@ Nota: Asuma  𝑔= 10 𝑚 𝑠−2 y  1 𝑎𝑡𝑚= 101325 𝑃𝑎
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Venti forti (livello 1) **
+**Venti forti (livello 1)**
 
 Problema 1
 Venti forti!!! 
@@ -657,7 +657,7 @@ Prueba Teórica - Nivel 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Agenate nere e nani bianchi (livello 1) **
+**Agenate nere e nani bianchi (livello 1)**
 
 Problema 3 
 - I buchi neri e le nana bianche.
@@ -1102,7 +1102,7 @@ Nota: Asuma 𝑔= 10 𝑚 𝑠−2 y  1 𝑎𝑡𝑚= 101325 𝑃𝑎
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Venti forti (livello 2) **
+**Venti forti (livello 2)**
 
 Problema 1
 Venti forti!!! 
@@ -2253,7 +2253,7 @@ Problemas Teóricos
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Agenate nere e nani bianchi (livello 2) **
+**Agenate nere e nani bianchi (livello 2)**
 
 Problema 3: buchi neri e nani bianchi 
  
@@ -41450,7 +41450,7 @@ Primo test preparatorio: Meccanica - Problema teorico 1
 
 Il pilota di un aereo vuole andare in linea retta tra due città (A e B). Le città sono distanti 100 km l'una dall'altra e si trovano sul medesimo meridiano. La città da cui parte l'aeroplano (città A) è a nord della città di destinazione (città B).
 
-L'aereo ha una velocità, ** rispetto all'aria calma, ** di 200 km/h. Al momento del decollo, il pilota è informato che c'è un forte vento di 50 km/h in direzione est-ovest.
+L'aereo ha una velocità, **rispetto all'aria calma,** di 200 km/h. Al momento del decollo, il pilota è informato che c'è un forte vento di 50 km/h in direzione est-ovest.
 
 a) Sviluppa un diagramma della situazione. In esso indica il sistema di coordinate da utilizzare, la posizione delle città A e B, la velocità del vento e la velocità dell'aereo rispetto alla terra.
 
@@ -41476,7 +41476,7 @@ The first test is Preparatory Test: Mechanics - Theoretical Problem 1
 
 The pilot of an airplane wants to go in a straight line between two cities (A and B). The cities are 100 km apart and are on the same meridian. The city from which the aircraft departs (city A) is north of the destination city (city B).
 
-The aircraft has a speed, ** with respect to calm air, ** of 200 km/h. At take-off, the pilot is informed that there is a strong wind of 50 km/h in east-west direction.
+The aircraft has a speed, **with respect to calm air,** of 200 km/h. At take-off, the pilot is informed that there is a strong wind of 50 km/h in east-west direction.
 
 (a) Draw a diagram of the situation. It shall indicate the coordinate system to be used, the location of cities A and B, wind speed and plane speed relative to land.
 
@@ -41746,7 +41746,7 @@ e) A partir de la ecuación 3 y de los valores obtenidos del ajuste, determine e
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prima prova preparatoria: meccanica - Problema sperimentale (Radio di rotazione) **
+**Prima prova preparatoria: meccanica - Problema sperimentale (Radio di rotazione)**
 
 **Radio di rotazione.**
 
@@ -42202,7 +42202,7 @@ Considere $g = 10\ \frac{m}{s^2}$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Seconda prova preparatoria: termodinamica, elettricità e magnetismo - Problema sperimentale (determinazione della densità dell'aria) **
+**Seconda prova preparatoria: termodinamica, elettricità e magnetismo - Problema sperimentale (determinazione della densità dell'aria)**
 
 **Determinare la densità dell'aria**
 
@@ -42212,7 +42212,7 @@ dove $\rho_a$ è la densità dell'aria, $A$ e $M$ sono l'area che il corpo offre
 
 **Obiettivo:** Determinare la densità dell'aria ($\rho_a$)
 
-**Elementi: **
+**Elementi:**
 - Foli di carta A4 di grammatica nota.
 - Cronometro
 - Regola

@@ -34,7 +34,7 @@ Natural water contains about 0.02% D$_2$O (heavy water). When it is enriched to 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (Scelta multipla  ogni risposta corretta 1 marchio, ogni risposta sbagliata −0,25 marchio) **
+**Sezione A (Scelta multipla  ogni risposta corretta 1 marchio, ogni risposta sbagliata −0,25 marchio)**
 
 L'acqua naturale contiene circa lo 0,02% di D$_2$O (acqua pesante). Quando è arricchito al 20% (in volume), calcolare la frazione di peso dovuta ai neutroni in 1 mol di campione d'acqua.
 
@@ -1371,7 +1371,7 @@ B) Trisha was given a silvery white metal (A) and she was asked to heat it in ai
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (analisi)  I segni sono indicati nelle cornette. Rispondere alle domande solo nella scheda di risposta fornita.
+**Sezione B (analisi)  I segni sono indicati nelle cornette. Rispondere alle domande solo nella scheda di risposta fornita.**
 
 A) Un ione con numero di massa 79 posto tra due piastre elettricamente cariche con una differenza di potenziale di 1 V ottiene un'energia di 2 eV e si muove verso la piastra positiva. Se l'ion contiene un 25% di neutroni in più degli elettroni, identificare l'ion. [Total=3 punti]
 
@@ -1765,7 +1765,7 @@ B) [Total=2 marchi]
 | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-I valori **a ** a **r ** sono elementi del quarto periodo della tabella periodica. Rispondere alle domande di seguito sulla base delle informazioni sopra indicate.
+I valori **a** a **r** sono elementi del quarto periodo della tabella periodica. Rispondere alle domande di seguito sulla base delle informazioni sopra indicate.
 i) Scrivere la formula del composto formato quando **o** reagisce con **q**.
 
 **Topic:** [[Chemistry]]

@@ -128,7 +128,7 @@ La tabella seguente raccoglie i valori di velocità di rotazione media di ogni p
 
 (e) Considerando quanto sopra, calcoli l'incertezza $\Delta M$ del valore della massa del Sole ottenuto in (c).
 
-**Dati: **
+**Dati:**
 - Costante di gravità universale: $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2/\text{kg}^2$
 - Unità astronomica (distanza media Terra-Sol): $1\,\text{UA} = 1{,}5 \times 10^{11}\,\text{m}$
 

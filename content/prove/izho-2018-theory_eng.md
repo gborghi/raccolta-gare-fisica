@@ -56,6 +56,10 @@ The circuit, shown in the figure, consists of a capacitor with the capacitance $
 
 At the vertices of the regular 17-gon, there are 17 identical lenses. The optical centers of the lenses are located exactly at the vertices of the polygon, the planes of all lenses are perpendicular to one of the sides adjacent to the lens. The focal lengths of the lenses are all equal to $F = 10$ sm and coinciude with the length of the side of the 17-gon. One of the lenses is illuminated by a parallel light flux directed along its optical axis. It turns out that one of the rays has a closed trajectory. Determine the radius of the circle inscribed in this trajectory. Consider two cases: all of the lenses are collecting; all of the lenses are diverging. Consider all angles small such that $\sin\alpha \approx \tan\alpha \approx \alpha$.
 
+**Topic:** [[Oscillations & Waves]], [[Circuits]], [[Geometric Optics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -159,6 +163,10 @@ where $p_{vap}$ denotes the saturated vapor pressure at temperature $T$, $p_{vap
 **2.8** Find and calculate the minimum air humidity $\varphi_{min}$ at the foot of the mountain such that the fog is still observed somewhere on the mountain slope.
 
 > **Mathematical hint.** You may need knowledge of the following integral $\displaystyle\int\frac{dx}{ax+b} = \frac{1}{a}\ln|ax+b|$.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -299,6 +307,10 @@ In his own experiment A. Fizeau obtained $\Delta N = 0.230$ at $L = 1.49\ \mathr
 **3.5** Evaluate refractive index of water $n$ in Fizeau's experiment.
 
 > **Mathematical hint.** You may need to know the following approximate equality: $(1 + x)^{\alpha} \approx 1 + \alpha x$, at $x \ll 1$.
+
+**Topic:** [[Special Relativity]], [[Wave Optics]]
+**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

@@ -894,7 +894,7 @@ cronómetro. Si el cronómetro está detenido, vuelve el reloj a cero.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Viscosimetro, di nuovo **
+**Viscosimetro, di nuovo**
 
 Viscosimetro, ancora una volta! 
  

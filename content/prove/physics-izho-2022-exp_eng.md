@@ -145,7 +145,7 @@ I risultati degli intervalli di misurazione $t_1$ e $t_2$ sono riportati nella t
 
 **1.3** Con i risultati di misurazione riportati nella tabella 1, calcolare l'accelerazione con cui l'asse del cilindro si è spostato per ogni angolo di inclinamento della piastra. Si deve calcolare la formula dell'accelerazione, secondo la quale vengono effettuati i calcoli. Disegnare un grafico dell'accelerazione contro l'angolo e trovare con il suo aiuto un valore approssimativo del critico $\alpha_{cr}$.
 
-**1.4 ** Realizzare la linearizzazione della dipendenza ottenuta, ovvero trovare tali valori $X(\alpha, a)$ e $Y(\alpha, a)$ in modo che la dipendenza $Y(X)$ diventi lineare per entrambi i casi in cui il cilindro si muove senza scivolare e con scivolamento. Disegnare una dipendenza linearizzata $Y(X)$ per tutti i punti sperimentali.
+**1.4** Realizzare la linearizzazione della dipendenza ottenuta, ovvero trovare tali valori $X(\alpha, a)$ e $Y(\alpha, a)$ in modo che la dipendenza $Y(X)$ diventi lineare per entrambi i casi in cui il cilindro si muove senza scivolare e con scivolamento. Disegnare una dipendenza linearizzata $Y(X)$ per tutti i punti sperimentali.
 
 **1.5** Con la relazione linearizzata $Y(X)$ calcolare il coefficiente di attrito $\mu_s$ tra il cilindro e la piastra. Calcolare l'errore $\Delta\mu_s$ del valore ottenuto. Scrivi le formule utilizzate nei tuoi calcoli.
 
@@ -250,7 +250,7 @@ To determine the setup parameters, the period of small oscillations of the cylin
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento 2: attrito di rotolamento **
+**Esperimento 2: attrito di rotolamento**
 
 In realtà, anche in assenza di scivolamento tra i corpi, ci sono forze di attrito chiamate forze di attrito in rotazione. In questo esperimento, la seguente configurazione viene utilizzata per studiare l'attrito di rotolamento. Una piccola canna è rigidamente attaccata alla superficie laterale di un massiccio cilindro solido, la cui prolungatura immaginaria attraversa l'asse del cilindro. Il cilindro è posizionato sulle due lastre orizzontali in modo da poterli rotolare senza scivolare. In questo caso, la canna si trova sempre nel divario tra le piastre.
 

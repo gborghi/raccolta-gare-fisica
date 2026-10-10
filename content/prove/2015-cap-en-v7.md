@@ -1232,7 +1232,7 @@ Imagine a tall column of water on the Moon, maintained at a temperature of $50^\
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 3 **
+**Problema 3**
 
 La pressione del vapore è la pressione alla quale un liquido può essere in equilibrio con il suo vapore. Quando la pressione del liquido è inferiore alla pressione del vapore, il liquido inizia a bollire. La pressione del vapore aumenta con la temperatura. La seguente immagine rappresenta la pressione del vapore dell'acqua, in Torr (760 Torr = 1 atm), come funzione della temperatura in Celsius.
 

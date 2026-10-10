@@ -136,11 +136,15 @@ QUESITO n.15.
 – RISPOSTA $\Rightarrow$ A
 
 Se due corpi scambiano calore solo tra di loro (in altre parole se è trascurabile lo scambio di calore con l’ambiente esterno) il calore ceduto da uno viene integralmente assorbito dall’altro, e potremo scrivere
-$$C_1 \Delta t_1 = -C_2 \Delta t_2 \tag{1}$$
+$$
+C_1 \Delta t_1 = -C_2 \Delta t_2 \tag{1}
+$$
 dove $C$ indica la capacità termica e il segno meno è dovuto al fatto che una delle due variazioni di temperatura sarà positiva e l’altra negativa. Indicando con $t_{0,1}$ e $t_{0,2}$ le temperature iniziali dei due corpi e con $t_e$ la temperatura di equilibrio, si ha
 $$\Delta t_1 = t_e - t_{0,1}, \quad \text{e} \quad \Delta t_2 = t_e - t_{0,2} .$$
 Ovviamente, la somma dei valori assoluti delle due variazioni dà la differenza iniziale di temperatura:
-$$|\Delta t_1| + |\Delta t_2| = |t_{0,1} - t_{0,2}| = |\Delta t_0| \tag{2} .$$
+$$
+|\Delta t_1| + |\Delta t_2| = |t_{0,1} - t_{0,2}| = |\Delta t_0| \tag{2} .
+$$
 Conveniamo che il corpo 1 sia quello più caldo (in questo caso, il caffè). La sua variazione di temperatura può essere ottenuta ricavando $|\Delta t_2|$ dalla (1) e sostituendolo nella (2). Si ottiene
 $$|\Delta t_1| = \frac{|\Delta t_0|}{1 + C_1/C_2} .$$
 Perciò il massimo raffreddamento del caffè si ha col cucchiaino c

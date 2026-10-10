@@ -47,7 +47,7 @@ where $\alpha$ is some proportionality constant. Find an expression for $\alpha$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda A1  Interruzione **
+**Domanda A1  Interruzione**
 
 Un filo infinitamente lungo con densità di carica lineare $-\lambda$ si trova lungo l'asse $z$. Un'isolazione cilindrica infinitamente lunga di raggio $a$ è concentrica con il filo e può ruotare liberamente intorno all'asse $z$. Il guscio ha un momento di inerzia per unità di lunghezza $I$. La carica è distribuita uniformemente sullo strato, con densità di carica superficiale $\dfrac{\lambda}{2\pi a}$.
 

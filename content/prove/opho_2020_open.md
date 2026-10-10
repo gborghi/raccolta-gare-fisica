@@ -129,7 +129,7 @@ Non farmi arrivare al mio punto di arrivo. Questa domanda è stata rimossa dall'
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Distrito 12. ** In una vecchia fabbrica di carbone, una cintura trasportatrice si muove a una velocità costante di $20.3\text{ m/s}$ e può fornire una potenza massima di $15\text{ MW}$. Ogni ruota della cintura trasportatrice ha un diametro di $2\text{ m}$. Tuttavia, una domanda in evoluzione ha spinto la fabbrica di carbone a riempire le loro caselle di carbone con un materiale diverso con una certa densità specifica costante. Questi "carbone" sono stati modificati per fornire una costante $18\text{ m}^3\,\text{s}^{-1}$ del nuovo materiale alla cintura trasportatrice. Supponiamo che la frizione cinetica e statica siano le stesse e che non ci sia alcuna scivolatura. Qual è la densità massima del materiale?
+**Distrito 12.** In una vecchia fabbrica di carbone, una cintura trasportatrice si muove a una velocità costante di $20.3\text{ m/s}$ e può fornire una potenza massima di $15\text{ MW}$. Ogni ruota della cintura trasportatrice ha un diametro di $2\text{ m}$. Tuttavia, una domanda in evoluzione ha spinto la fabbrica di carbone a riempire le loro caselle di carbone con un materiale diverso con una certa densità specifica costante. Questi "carbone" sono stati modificati per fornire una costante $18\text{ m}^3\,\text{s}^{-1}$ del nuovo materiale alla cintura trasportatrice. Supponiamo che la frizione cinetica e statica siano le stesse e che non ci sia alcuna scivolatura. Qual è la densità massima del materiale?
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
@@ -490,7 +490,7 @@ Il centro dell'isola deve essere situato al punto $(0, 0)$ mentre gli assi semi 
 
 In questa isola, il campo magnetico varia in funzione di $x$ e $y$: $B(x, y) = k_b e^{c_b xy}\,\hat{z}$ (indicando in direzione ascendente, perpendicolare al piano dell'isola nella direzione positiva $z$). La costante $c_b = 10^{-4}\ \text{m}^{-2}$ e la costante $k_b = 2.1\ \mu\text{T}$.
 
-**Viaggio 2: L'Isola Magnetica 1. ** A quale punto dell'isola la forza del campo magnetico è massima? Scrivere la distanza di questo punto dall'asse $x$ in metri.
+**Viaggio 2: L'Isola Magnetica 1.** A quale punto dell'isola la forza del campo magnetico è massima? Scrivere la distanza di questo punto dall'asse $x$ in metri.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Magnetism]], [[Electromagnetism]]
@@ -517,7 +517,7 @@ In questa isola, il campo magnetico varia in funzione di $x$ e $y$: $B(x, y) = k
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Viaggio 2: L'isola magnetica 2. ** Supponendo che non ci sia scivolamento, qual è la grandezza della forza netta sull'auto al punto del campo magnetico massimo? (Risponderemo a Newton.)
+**Viaggio 2: L'isola magnetica 2.** Supponendo che non ci sia scivolamento, qual è la grandezza della forza netta sull'auto al punto del campo magnetico massimo? (Risponderemo a Newton.)
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
@@ -722,7 +722,7 @@ Nota: Questo diagramma non è scalabile.
 
 Le seguenti informazioni si applicano ai seguenti tre problemi. Kushal si ritrova intrappolato in una grande stanza con specchi come muri. Avendo paura del buio, ha una potente lanterna per illuminare la stanza. Tutti i riferimenti alla parola "percentuale" si riferiscono all'area. Dal momento che la stanza è grande, supponiamo che la persona sia un punto che non blocca la luce. Visualizzare le domande in configurazione 2D. Il pavimento/tello è irrilevante. Il punto di illuminazione si riferisce a qualsiasi punto della stanza illuminato.
 
-Concentrati su questo, non su questo! 1.** Quale percento di una grande stanza circolare può essere illuminata utilizzando una lanterna con un angolo di raggi di 20 gradi se Kushal è al centro?
+Concentrati su questo, non su questo! 1. Quale percento di una grande stanza circolare può essere illuminata utilizzando una lanterna con un angolo di raggi di 20 gradi se Kushal è al centro?
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Geometric Optics]], [[Mathematics]]
@@ -749,7 +749,7 @@ Concentrati su questo, non su questo! 1.** Quale percento di una grande stanza c
 
 <div class="qlang-split" data-lang="it"></div>
 
-Concentrati su questo, non su questo! 2.** Kushal si trova in un foco di una stanza ellittica con eccentricità $0.5$ e semi-asse maggiore $= 20\text{ m}$. Indica la lanterna lungo l'asse semimejor lontano dall'altro foco. Trova la posizione ideale in cui la torcia possa essere posta per prendere fuoco facilmente dal fascio della lampada. Qual è la distanza da questo punto a Kushal? Si noti che la torcia non può essere nello stesso luogo della torcia. (Risposizione in metri)
+Concentrati su questo, non su questo! 2. Kushal si trova in un foco di una stanza ellittica con eccentricità $0.5$ e semi-asse maggiore $= 20\text{ m}$. Indica la lanterna lungo l'asse semimejor lontano dall'altro foco. Trova la posizione ideale in cui la torcia possa essere posta per prendere fuoco facilmente dal fascio della lampada. Qual è la distanza da questo punto a Kushal? Si noti che la torcia non può essere nello stesso luogo della torcia. (Risposizione in metri)
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Geometric Optics]], [[Mathematics]]
@@ -807,7 +807,7 @@ How long does it take for the two stars to collide? Answer in seconds. Note: $d$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Due stelle incrociate... ** Due stelle di neutroni identiche di massa $m = 4 \times 10^{30}\text{ kg}$ e di raggio $15\text{ km}$ si orbitano a distanza $d = 700\text{ km}$ l'una dall'altra ($d$ si riferisce alla distanza iniziale tra i nuclei delle stelle di neutroni). Supponiamo che orbitino come previsto dalla meccanica classica, tranne che generino onde gravitazionali. La potenza dissipata attraverso queste onde è data da:
+**Due stelle incrociate...** Due stelle di neutroni identiche di massa $m = 4 \times 10^{30}\text{ kg}$ e di raggio $15\text{ km}$ si orbitano a distanza $d = 700\text{ km}$ l'una dall'altra ($d$ si riferisce alla distanza iniziale tra i nuclei delle stelle di neutroni). Supponiamo che orbitino come previsto dalla meccanica classica, tranne che generino onde gravitazionali. La potenza dissipata attraverso queste onde è data da:
 
 $$P = \frac{32 G^4}{5}\left(\frac{m}{dc}\right)^5$$
 
@@ -915,7 +915,7 @@ $$^{235}\text{U} + n + (\text{Initial Energy}) \rightarrow {}^{144}\text{Ba} + {
 | Barium-144 ($^{144}\text{Ba}$) | 143.8812 |
 | Krypton-90 ($^{90}\text{Kr}$) | 89.9471 |
 
-**Tu sei il mio sole 1. ** Calcola l'energia cinetica (in MeV) rilasciata dai prodotti in una reazione di fusione.
+**Tu sei il mio sole 1.** Calcola l'energia cinetica (in MeV) rilasciata dai prodotti in una reazione di fusione.
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
 **Topic:** [[Nuclear & Particle Physics]]

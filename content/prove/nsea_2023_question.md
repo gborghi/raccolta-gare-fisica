@@ -928,7 +928,7 @@ The value of the integral $\displaystyle\int_0^\pi |\cos 2x|\, dx$ is
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A-2 (una o più correzioni) **
+**Parte A-2 (una o più correzioni)**
 
 Il valore dell'integrale $\displaystyle\int_0^\pi |\cos 2x|\, dx$ è
 

@@ -70,7 +70,7 @@ They are assessed:
 - the contour of the meniscus of the liquid;
 - a clear contour without appreciable optical aberrations.
 
-**1.b  Lighting and measurements with spikes (85 pt) **
+**1.b  Lighting and measurements with spikes (85 pt)**
 
 They are assessed:
 - observational phase approaches: distribution of the appropriate observation angles according to the radius of the container; incidence angles in the range $19^\circ$–$35^\circ$;
@@ -78,7 +78,7 @@ They are assessed:
 - a drawing of the reflected beams: ordered and legible; the direction of the beam coordinate clearly defined;
 - valori corretti degli angoli di incidenza $i$ e di rifrazione $r$.
 
-**1.c  Data processing (19.5 pts) **
+**1.c  Data processing (19.5 pts)**
 
 They are assessed:
 - calculation of the values of $\sin i$ and $\sin r$ for each pair of beams;

@@ -65,14 +65,14 @@ The two copper walls are short-circuited externally and a uniform upward magneti
 
 Find the force acting on the fluid due to the magnetic field, in terms of $L$, $B$, $h$, $w$, $\rho$ and the new speed $v$.
 
-**(b) ** Derives an expression for the new velocity $v$ of the fluid after the application of the magnetic field, as a function of $v_0$, $\Delta P$, $L$, $B$, $\rho$.
+**(b)** Derives an expression for the new velocity $v$ of the fluid after the application of the magnetic field, as a function of $v_0$, $\Delta P$, $L$, $B$, $\rho$.
 
-**(c) ** Derives an expression for the additional power to be provided by the turbine to bring the speed back to its original value $v_0$.
+**(c)** Derives an expression for the additional power to be provided by the turbine to bring the speed back to its original value $v_0$.
 
 Now the magnetic field is removed and mercury is replaced with water flowing at a speed of $v_0$. A monochrome electromagnetic wave is sent in the direction of flow to the length $L$ section. The refractive index of water is $n$ and $v_0 \ll c$. Find an expression for the contribution of fluid motion to the wave phase difference between the input and output of the $L$ section.
 
 <!--fig:start-->
-**p.1 **  Rectangular conduit with short-circuit wire
+**p.1**  Rectangular conduit with short-circuit wire
 ![[_attachments/IT-Theo3/IT-Theo3_p1_f1.png]]
 <!--fig:end-->
 

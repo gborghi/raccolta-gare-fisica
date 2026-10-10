@@ -196,7 +196,7 @@ dove $p_0$ è la pressione atmosferica, $k$ è una costante che vale $0.0178\ \t
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Before it bursts **
+**Before it bursts**
 
 A closed bag containing $1.488 \times 10^{-3}\ \text{mol}$ air at atmospheric pressure is placed under the glass bell of a vacuum pump. The material of the bag is a perfect conductor of heat. The system temperature is $24.2\ °\text{C}$, which can be assumed constant throughout the process. The pump's suction mechanism ensures that the air pressure inside the bell is described by the law
 

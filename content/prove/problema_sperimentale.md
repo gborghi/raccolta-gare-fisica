@@ -316,9 +316,9 @@ dove $\Delta T_0$ è la differenza di temperatura quando $t = 0$ (istante in cui
 
 **DIFERENTIAL THERMOMETRIC METHOD  Part 2: Determining the performance of a solar cell illuminated by a filament lamp**
 
-The purpose of the experiment is to determine the ** yield** of a solar cell illuminated by an incandescent lamp. Performance is defined as the ratio of the electrical power that the solar cell can supply to an external circuit to the total radiant power received from the cell. The yield depends on the spectrum of the incident radiation. In this experiment, the incident radiation on the cell is that of a halogen incandescent lamp.
+The purpose of the experiment is to determine the **yield** of a solar cell illuminated by an incandescent lamp. Performance is defined as the ratio of the electrical power that the solar cell can supply to an external circuit to the total radiant power received from the cell. The yield depends on the spectrum of the incident radiation. In this experiment, the incident radiation on the cell is that of a halogen incandescent lamp.
 
-In order to determine the solar cell performance, the ** irradiance ** $E$ at a point below the lamp, at a distance $d$ from the lamp in the vertical direction, and the maximum power $P_\mathrm{max}$ of the solar cell when placed at this point shall be measured. In this experiment, $d = 12\;\mathrm{cm}$ (Figure 6). The irradiance $E$ is defined as:
+In order to determine the solar cell performance, the **irradiance** $E$ at a point below the lamp, at a distance $d$ from the lamp in the vertical direction, and the maximum power $P_\mathrm{max}$ of the solar cell when placed at this point shall be measured. In this experiment, $d = 12\;\mathrm{cm}$ (Figure 6). The irradiance $E$ is defined as:
 
 $$E = \frac{\Phi}{A}$$
 

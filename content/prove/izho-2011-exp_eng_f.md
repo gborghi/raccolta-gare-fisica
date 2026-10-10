@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IZhO 2011 — Quesito 01" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IZhO 2011 — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -33,6 +33,10 @@ tags:
 1.2 Plot in the same graph the relative elongations of the rubber cord as a function of the gravity force of hanging weights at loading and unloading processes.
 
 ![[IZhO-2011-Exp_eng_f_p2_f1.png]]
+
+**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]], [[Rigid Body Statics]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -54,7 +58,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="IZhO 2011 — Quesito 02" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IZhO 2011 — Quesito 2" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -80,7 +84,9 @@ All measurements should be carried out very carefully: if you change the number 
 
 2.1 Show that the condition of equilibrium of the ruler fixed as described above has the form:
 
-$$F(l) = mg \frac{l}{a},\tag{1}$$
+$$
+F(l) = mg \frac{l}{a},\tag{1}
+$$
 
 where $l$ is the length of the cord, $F(l)$ denotes the elastic force of the cord at its length $l$, $a$ stands for the length of the ruler, $mg$ is the gravity force of hanging weights.
 
@@ -95,6 +101,10 @@ where $l$ is the length of the cord, $F(l)$ denotes the elastic force of the cor
 2.4 Conduct measurements of the dependence of the cord length $l$ in the equilibrium as a function of the gravity force of hanging weights. Measurements are to be made in two ways, i.e. for loading and unloading processes.
 
 2.5 In the same plot you drawn in Section 2.3, plot the obtained experimental curves.
+
+**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]], [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -119,7 +129,9 @@ Tutte le misurazioni devono essere eseguite con molta attenzione: se cambi il nu
 
 2.1 Dimostra che la condizione di equilibrio del righello, come descritto sopra, ha la seguente forma:
 
-$$F(l) = mg \frac{l}{a},\tag{1}$$
+$$
+F(l) = mg \frac{l}{a},\tag{1}
+$$
 
 dove $l$ è la lunghezza della corda, $F(l)$ rappresenta la forza elastica della corda alla sua lunghezza $l$, $a$ indica la lunghezza del righello e $mg$ è la forza di gravità dei pesi appesi.
 
@@ -137,7 +149,7 @@ dove $l$ è la lunghezza della corda, $F(l)$ rappresenta la forza elastica della
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="IZhO 2011 — Quesito 03" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IZhO 2011 — Quesito 3" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elasticity &amp; Materials,topic/elasticity-materials,topic/newtonian-mechanics,topic/rigid-body-statics"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,7 +165,9 @@ If the lower edge of the ruler is shifted away from the vertical column (see Fig
 
 We can show (but you do not need to do that!) that for the small displacement $\delta$ of the lower edge of the ruler, the equilibrium condition (1) is approximately described by the following formula:
 
-$$F(l) = mg \frac{l - \delta}{a}.\tag{2}$$
+$$
+F(l) = mg \frac{l - \delta}{a}.\tag{2}
+$$
 
 ![[IZhO-2011-Exp_eng_f_p3_f4.png]]
 
@@ -166,6 +180,10 @@ function $f(l)$ you can vary both parameters $m$ and $\delta$ at your will.
 To search for the two equilibrium positions: a) put the ruler almost vertically and allow it to go down slightly holding by hand, b) stretch the cord until the ruler is almost in horizontal position and allow it to rise slowly holding gently by hand. Repeat these procedures several times!
 
 When you try to find the bistability you are allowed to change slightly the free length of the rubber cord. If this length is changed, please, measure it and write down its new value (in cm).
+
+**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]], [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -180,7 +198,9 @@ Se il bordo inferiore del righello viene spostato lontano dalla colonna vertical
 
 Possiamo dimostrare (ma non è necessario farlo!) che, per una piccola spostamento $\delta$ del bordo inferiore del righello, la condizione di equilibrio (1) può essere approssimativamente descritta dalla seguente formula:
 
-$$F(l) = mg \frac{l - \delta}{a}.\tag{2}$$
+$$
+F(l) = mg \frac{l - \delta}{a}.\tag{2}
+$$
 
 ![[IZhO-2011-Exp_eng_f_p3_f4.png]]
 

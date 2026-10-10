@@ -149,7 +149,7 @@ The correct sequence is given by:
 - **B** due to increased pressure, heated water penetrates better into food.
 - **C.** due to increased pressure, the volume of food decreases leaving less external area to heat.
 - **D** with increasing pressure, the boiling temperature of the water decreases, thus requiring less heat to cook food.
-- MSK1/>E** as the pan is sealed tightly, little water used for cooking evaporates and the food is always immersed in hot water.
+- MSK1/>E as the pan is sealed tightly, little water used for cooking evaporates and the food is always immersed in hot water.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -603,9 +603,9 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 10) La principale fonte di rumore che si sente quando una serra circolare sta tagliando un pezzo di legno è dovuta all'impatto successivo dei "denti" del disco della serra con il legno. Se un disco di serratura ha 50 denti, diametro di 25 cm e è collegato a un motore che ruota a 2400 rpm (rotate al minuto), la frequenza del suono emesso dal disco di tale serratura è di:
 
 - **A** 1,0 kHz
-- ** B ** 40 kHz
+- **B** 40 kHz
 - **C** 2,0 kHz
-- ** D ** 2,4 kHz
+- **D** 2,4 kHz
 - **E** 1,2 kHz
 
 **Topic:** [[Oscillations & Waves]]
@@ -621,7 +621,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 - **A** 1,0 kHz
 - **B** 40 kHz
 - **C** 2,0 kHz
-- ** D ** 2.4 kHz
+- **D** 2.4 kHz
 - **E** 1.2 kHz
 
 **Topic:** [[Oscillations & Waves]]
@@ -987,7 +987,7 @@ It is not correct to say yes:
 - **A** I only
 - **B** III only
 - **C.** II and IV only
-- ** D** I and III only
+- **D** I and III only
 - **E** II only
 
 <!--fig:start-->

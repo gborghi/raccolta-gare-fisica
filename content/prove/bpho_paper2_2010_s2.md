@@ -53,11 +53,11 @@ tags:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(a) ** Un blocco di vetro misura 5,0 cm × 5,0 cm × 8,0 cm. Quando il blocco si trova su una delle sue facce più piccole, e visto direttamente dall'alto, sembra essere un cubo. Determinare l'indice di rifrazione del blocco. [2]
+**(a)** Un blocco di vetro misura 5,0 cm × 5,0 cm × 8,0 cm. Quando il blocco si trova su una delle sue facce più piccole, e visto direttamente dall'alto, sembra essere un cubo. Determinare l'indice di rifrazione del blocco. [2]
 
-**(b) ** Un piano, inclinato, specchio si trova al fondo di un lungo serbatoio a fondo piatto contenente acqua. Lo specchio fa un angolo di 10° con l'orizzontale (Figura 2.b). Un raggio stretto di luce monocromatica cade sulla superficie dell'acqua ad un angolo di incidenza $\theta$. Se l'indice di rifrazione dell'acqua è $4/3$, determinare il valore massimo di $\theta$ per il quale la luce, dopo il riflesso dallo specchio, emergerà dalla superficie superiore dell'acqua. L'angolo SCO è indicato da $\phi$. L'OX è normale per lo specchio. [6]
+**(b)** Un piano, inclinato, specchio si trova al fondo di un lungo serbatoio a fondo piatto contenente acqua. Lo specchio fa un angolo di 10° con l'orizzontale (Figura 2.b). Un raggio stretto di luce monocromatica cade sulla superficie dell'acqua ad un angolo di incidenza $\theta$. Se l'indice di rifrazione dell'acqua è $4/3$, determinare il valore massimo di $\theta$ per il quale la luce, dopo il riflesso dallo specchio, emergerà dalla superficie superiore dell'acqua. L'angolo SCO è indicato da $\phi$. L'OX è normale per lo specchio. [6]
 
-**(c) ** La figura 2.c mostra la sezione trasversale di un prisma di vetro, indice di rifrazione $n$, con gli angoli indicati che mostrano un raggio di luce che lo attraversa. OS è perpendicolare a EF.
+**(c)** La figura 2.c mostra la sezione trasversale di un prisma di vetro, indice di rifrazione $n$, con gli angoli indicati che mostrano un raggio di luce che lo attraversa. OS è perpendicolare a EF.
 
 (i) Angolo espresso BOC in termini di $\theta$.
 
@@ -111,7 +111,7 @@ Perché, di notte, le immagini di luci riflesse da un fiume sono allungate? [2]
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(a) ** Le estremità di un filo uniforme di superficie trasversale $1.00 \times 10^{-6}$ m2 e di massa trascurabile sono fissate ai punti fissi A e B, separati di 1,00 m, nella stessa linea orizzontale. Il filo è inizialmente retto e non esteso. Una massa di 0,50 kg è attaccata al punto medio del filo e si trova in equilibrio con il punto medio a una distanza di 10 mm sotto AB. Calcola il modulo del Young per il filo. [10]
+**(a)** Le estremità di un filo uniforme di superficie trasversale $1.00 \times 10^{-6}$ m2 e di massa trascurabile sono fissate ai punti fissi A e B, separati di 1,00 m, nella stessa linea orizzontale. Il filo è inizialmente retto e non esteso. Una massa di 0,50 kg è attaccata al punto medio del filo e si trova in equilibrio con il punto medio a una distanza di 10 mm sotto AB. Calcola il modulo del Young per il filo. [10]
 
 Un uomo di massa 90 kg inizia a salire una scala di 4,0 m di massa 10 kg. La scala si appoggia a un muro a A. Il piede della scala, B, è a 2,0 m dal muro.
 
@@ -222,13 +222,13 @@ If the a.c. supply is replaced by a square wave supply of the same frequency and
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(a) ** Due condensatori, di capacità $2.0\ \mu$F e $4.0\ \mu$F, hanno ciascuna una carica di $120\ \mu$C. Le placche positive sono ora collegate tra loro, così come le placche negative. Calcola:
+**(a)** Due condensatori, di capacità $2.0\ \mu$F e $4.0\ \mu$F, hanno ciascuna una carica di $120\ \mu$C. Le placche positive sono ora collegate tra loro, così come le placche negative. Calcola:
 
 - la nuova differenza di potenziale tra le piastre dei condensatori
 
 - la variazione dell'energia. Spiega questo cambiamento di energia. [6]
 
-**(b) ** Tutte le resistenze del circuito di cui alla figura 5.b hanno resistenza $R$. La differenza potenziale tra AB è $V$ e le correnti nei bracci sono $i_1, i_2, \dots, i_6$, come indicato.
+**(b)** Tutte le resistenze del circuito di cui alla figura 5.b hanno resistenza $R$. La differenza potenziale tra AB è $V$ e le correnti nei bracci sono $i_1, i_2, \dots, i_6$, come indicato.
 
 (i) Come si alterano le correnti se $V$ viene invertito? Date le relazioni tra le correnti confrontando i circuiti nelle due situazioni; $V$ e $-V$.
 
@@ -236,7 +236,7 @@ If the a.c. supply is replaced by a square wave supply of the same frequency and
 
 (iii) Determinare la resistenza in AB. [7]
 
-**(c) ** Il circuito di cui alla figura 5.c ha un condensatore C, con capacità $50\ \mu$F, un diodo e una resistenza $R$. È usato per rettificare un a.c. una corrente di frequenza 50 Hz e una tensione di picco a picco di 20 V. $R$ può avere i valori di $10\ \text{k}\Omega$ o $100\ \Omega$. In ogni caso:
+**(c)** Il circuito di cui alla figura 5.c ha un condensatore C, con capacità $50\ \mu$F, un diodo e una resistenza $R$. È usato per rettificare un a.c. una corrente di frequenza 50 Hz e una tensione di picco a picco di 20 V. $R$ può avere i valori di $10\ \text{k}\Omega$ o $100\ \Omega$. In ogni caso:
 
 - determinare la costante temporale del circuito
 
@@ -299,19 +299,19 @@ Two loud speakers, A and B, are mounted at ground level, a distance $2d = 50.0$ 
 
 Due altoparlanti a forte voce, A e B, sono montati a livello del suolo, a distanza di $2d = 50.0$ cm, e sono collegati in parallelo alla uscita di un amplificatore, alimentato da un oscillatore a frequenza variabile. Un osservatore, anche a livello del suolo, si trova al punto R a 1,20 km dalla linea che collega gli altoparlanti e a 1,20 km dal bisettore perpendicolare di AB a O. $OR = D$, figura 6.1. L'oscillato è regolato in modo che la sua frequenza, $f$, salire linealmente con il tempo, a 10 Hz al secondo rispetto a $f = 0$ al tempo $t = 0$. Il suono udito dall'osservatore scende al minimo per la prima volta quando $t = 52.2$ s.
 
-**(a) ** Ottieni un'espressione per il tempo impiegato dal suono, velocità $c_s$, per raggiungere R da:
+**(a)** Ottieni un'espressione per il tempo impiegato dal suono, velocità $c_s$, per raggiungere R da:
 
 (i) A (ii) B [4]
 
-**(b) ** Trova un'espressione per la frequenza del suono che raggiunge R al tempo $t$ da:
+**(b)** Trova un'espressione per la frequenza del suono che raggiunge R al tempo $t$ da:
 
 (i) A (ii) B [4]
 
-**(c) ** Poiché $D$ è molto maggiore di $d$, le frequenze di (b) sono approssimativamente uguali. Indicare il valore e l'accuratezza della frequenza "comune". [4]
+**(c)** Poiché $D$ è molto maggiore di $d$, le frequenze di (b) sono approssimativamente uguali. Indicare il valore e l'accuratezza della frequenza "comune". [4]
 
-**(d) ** Riduce un'espressione per la lunghezza d'onda del suono che raggiunge R. [1]
+**(d)** Riduce un'espressione per la lunghezza d'onda del suono che raggiunge R. [1]
 
-**(e) ** Calcolare la velocità del suono, $c_s$. [7]
+**(e)** Calcolare la velocità del suono, $c_s$. [7]
 
 <!--fig:start-->
 ![[_attachments/BPhO_Paper2_2010_S2/BPhO_Paper2_2010_S2_p6_f5.png]]
@@ -347,11 +347,11 @@ Due altoparlanti a forte voce, A e B, sono montati a livello del suolo, a distan
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(a) ** Le abbondanza di $^{238}$U e $^{235}$U sono rispettivamente in rapporto di 140:1. Le quantità uguali di ogni isotopo esistevano nella crosta terrestre alla sua formazione. Calcola l'età della Terra. Le emivita sono: $^{238}$U $4.5 \times 10^{9}$ anni, $^{235}$U $7.1 \times 10^{8}$ anni. [6]
+**(a)** Le abbondanza di $^{238}$U e $^{235}$U sono rispettivamente in rapporto di 140:1. Le quantità uguali di ogni isotopo esistevano nella crosta terrestre alla sua formazione. Calcola l'età della Terra. Le emivita sono: $^{238}$U $4.5 \times 10^{9}$ anni, $^{235}$U $7.1 \times 10^{8}$ anni. [6]
 
-**(b) ** Un anello di compressione in acciaio per il pistone di un'auto viene irradiato con i neutroni fino a raggiungere un'attività uniformemente distribuita di $4 \times 10^{5}$ Bq a causa della formazione di $^{59}$Fe. L'anello viene installato immediatamente nel motore. Dopo che il motore è stato in funzione per 30 giorni, viene prelevato un campione $100\ \text{cm}^3$ dell'olio del motore e vengono registrate 126 disintegrazioni durante un periodo di conteggio di 10 minuti. Se il volume totale dell'olio è $5.0 \times 10^{-3}\ \text{m}^3$, quale frazione dell'anello si è spossata durante il periodo di funzionamento? Supponiamo che tutto il metallo usurpato sia sospeso nell'olio. (1 Bq è una disintegrazione al secondo, emivita $^{59}$Fe $= 45$ giorni) [6]
+**(b)** Un anello di compressione in acciaio per il pistone di un'auto viene irradiato con i neutroni fino a raggiungere un'attività uniformemente distribuita di $4 \times 10^{5}$ Bq a causa della formazione di $^{59}$Fe. L'anello viene installato immediatamente nel motore. Dopo che il motore è stato in funzione per 30 giorni, viene prelevato un campione $100\ \text{cm}^3$ dell'olio del motore e vengono registrate 126 disintegrazioni durante un periodo di conteggio di 10 minuti. Se il volume totale dell'olio è $5.0 \times 10^{-3}\ \text{m}^3$, quale frazione dell'anello si è spossata durante il periodo di funzionamento? Supponiamo che tutto il metallo usurpato sia sospeso nell'olio. (1 Bq è una disintegrazione al secondo, emivita $^{59}$Fe $= 45$ giorni) [6]
 
-**(c) ** Per misurare il tasso di conteggio di una singola fonte radioattiva si utilizza un rilevatore radioattivo. Inizialmente, è stato registrato 82 conteggi s$^{-1}$, che sono scesi dopo 210 s a 19 conteggi s$^{-1}$. Trova la meta' vita della fonte. [6]
+**(c)** Per misurare il tasso di conteggio di una singola fonte radioattiva si utilizza un rilevatore radioattivo. Inizialmente, è stato registrato 82 conteggi s$^{-1}$, che sono scesi dopo 210 s a 19 conteggi s$^{-1}$. Trova la meta' vita della fonte. [6]
 
 **Topic:** [[Nuclear & Particle Physics]]
 **Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]

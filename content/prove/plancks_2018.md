@@ -52,13 +52,13 @@ $$V(x,y) = \tfrac{1}{2} m\omega^2 \left(x^2 + y^2\right).$$
 Un solenoide infinito sta perfora il piano $xy$ a $x = y = 0$. Il solenoide è infinitamente sottile; il suo campo magnetico è $\mathbf{B} = \Phi\,\delta(x)\delta(y)\,\hat{z}$.
 
 1. Scrivi l'equazione di Schrödinger per la particella se il potenziale vettoriale (in coordinate polari $(r,\phi)$) è scelto per essere $\mathbf{A}(\mathbf{r}) = \frac{\Phi}{2\pi r}\hat{\phi}$.
-Si consideri una trasformazione del calibro generata dalla funzione $\Lambda(\mathbf{r})$: $\mathbf{A}'(\mathbf{r}) = \mathbf{A} + \nabla\Lambda$. Qual è la relazione tra le funzioni d'onda $\psi$ e $\psi'$, che sono rispettivamente soluzioni dell'equazione di Schrödinger nel calibro $\mathbf{A}$ e $\mathbf{A}'$? **(3 punti) **
+Si consideri una trasformazione del calibro generata dalla funzione $\Lambda(\mathbf{r})$: $\mathbf{A}'(\mathbf{r}) = \mathbf{A} + \nabla\Lambda$. Qual è la relazione tra le funzioni d'onda $\psi$ e $\psi'$, che sono rispettivamente soluzioni dell'equazione di Schrödinger nel calibro $\mathbf{A}$ e $\mathbf{A}'$? **(3 punti)**
 
-2. Si consideri una trasformazione singolare del calibro data da $\Lambda = -\frac{\Phi}{2\pi}\phi$. Scrivi l'equazione di Schrödinger per la particella in questo calibro. Trova la condizione di confine per la funzione d'onda della particella quando $\phi \to \phi + 2\pi$. Indicare che $z^n f(|z|)$, dove $z = x + \mathrm{i}y$, soddisfa questa condizione di confine per un valore appropriato di $\alpha$. Usando questo fatto, costruire uno stato proprio per questo sistema in questo calibro. Puoi sostenere che questo stato eigen è lo stato di base quando il flusso $\Phi$ è abbastanza piccolo? **(4 punti) **
+2. Si consideri una trasformazione singolare del calibro data da $\Lambda = -\frac{\Phi}{2\pi}\phi$. Scrivi l'equazione di Schrödinger per la particella in questo calibro. Trova la condizione di confine per la funzione d'onda della particella quando $\phi \to \phi + 2\pi$. Indicare che $z^n f(|z|)$, dove $z = x + \mathrm{i}y$, soddisfa questa condizione di confine per un valore appropriato di $\alpha$. Usando questo fatto, costruire uno stato proprio per questo sistema in questo calibro. Puoi sostenere che questo stato eigen è lo stato di base quando il flusso $\Phi$ è abbastanza piccolo? **(4 punti)**
 
-3. Scrivere la funzione d'onda del punto precedente nel calibro $\mathbf{A}(\mathbf{r}) = \frac{\Phi}{2\pi r}\hat{\phi}$ e calcolare il valore di attesa del momento angolare canonico e fisico $\langle \hat{L}_z \rangle$. **(1 punti) **
+3. Scrivere la funzione d'onda del punto precedente nel calibro $\mathbf{A}(\mathbf{r}) = \frac{\Phi}{2\pi r}\hat{\phi}$ e calcolare il valore di attesa del momento angolare canonico e fisico $\langle \hat{L}_z \rangle$. **(1 punti)**
 
-4. Se la corrente solenoide fosse improvvisamente spenta a zero a $t = 0$, quale sarebbe la funzione d'onda appropriata per descrivere il sistema a $t = 0^+$. Calcolare il valore di attesa del momento angolare canonico e fisico $\langle \hat{L}_z \rangle$ a $t = 0^+$ e spiegare il risultato. Qual è lo stato finale del sistema se il flusso viene disattivato adiabaticamente a zero? **(2 punti) **
+4. Se la corrente solenoide fosse improvvisamente spenta a zero a $t = 0$, quale sarebbe la funzione d'onda appropriata per descrivere il sistema a $t = 0^+$. Calcolare il valore di attesa del momento angolare canonico e fisico $\langle \hat{L}_z \rangle$ a $t = 0^+$ e spiegare il risultato. Qual è lo stato finale del sistema se il flusso viene disattivato adiabaticamente a zero? **(2 punti)**
 
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Modern-Quantum Physics]], [[Electromagnetism]]
@@ -342,11 +342,11 @@ TBA equations represent the eigenvalue problem for the electron energies $e$. $|
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Trans-polyacetilene ** (prof. dr. sc. Ivo Batistić, Università di Zagabria, Facoltà di Scienze, Dipartimento di Fisica)
+**Trans-polyacetilene** (prof. dr. sc. Ivo Batistić, Università di Zagabria, Facoltà di Scienze, Dipartimento di Fisica)
 
 Il trans-polyacetilene è un polimero, una molecola grande costituita da unità ripetute di carbonio e di idrogeno (CH), come mostrato alla figura (1):
 
-> **Figura 1: ** Struttura di base di *trans*-poliacetilene.
+> **Figura 1:** Struttura di base di *trans*-poliacetilene.
 >
 > 
 
@@ -451,16 +451,16 @@ $$e \cdot \psi_n = -t_{n,n-1}\,\psi_{n-1} - t_{n,n+1}\,\psi_{n+1} \qquad n = 0, 
 
 Le equazioni TBA rappresentano il problema del valore proprio per le energie degli elettroni $e$. $|\psi_n|^2$ è la probabilità di trovare l'elettrone al $n$-esimo atomo. $t_{n,n\pm1}$ è un'ampiezza per l'elettronico che salta da $n$-th atom a $(n \pm 1)$-atom. Poiché il sovrapposizione tra gli orbitali atomici dipende dalla distanza tra gli atomi, le amplitudini di salto, $t_{n,n\pm1}$, sono anche dipendenti dalla distanza.
 
-1. Applicare l'approssimazione a stretto legame al poliacetilene per gli elettroni in orbitali $p_z$ e annotare le corrispondenti equazioni TBA. **(1 punto) **
-Applicare il teorema di Bloch alle amplitudini delle funzioni d'onda e scrivere il problema del valore proprio per la parte periodica della funzione d'onda di Bloch. **(1 punto) **
-Scopri come l'energia degli elettroni, $e$, dipende dal numero di onde. **(1 punto) **
-Qual è il divario energetico tra gli stati occupati e quelli non occupati se le amplitudini di salto per i legami corti e lunghi sono rispettivamente $2.875$ eV e $2.125$ eV. **(1 punto) **
+1. Applicare l'approssimazione a stretto legame al poliacetilene per gli elettroni in orbitali $p_z$ e annotare le corrispondenti equazioni TBA. **(1 punto)**
+Applicare il teorema di Bloch alle amplitudini delle funzioni d'onda e scrivere il problema del valore proprio per la parte periodica della funzione d'onda di Bloch. **(1 punto)**
+Scopri come l'energia degli elettroni, $e$, dipende dal numero di onde. **(1 punto)**
+Qual è il divario energetico tra gli stati occupati e quelli non occupati se le amplitudini di salto per i legami corti e lunghi sono rispettivamente $2.875$ eV e $2.125$ eV. **(1 punto)**
 
-**Signore: ** Il poliacetilene è una catena dimerizzata con periodicità di due unità (CH). Il numero d'onda deve essere definito rispetto alla cellula di unità con due atomi di carbonio. Supponiamo che ci siano due distinte amplitudini di salto per il legame corto e lungo, ad esempio, $t_1$ e $t_2$.
+**Signore:** Il poliacetilene è una catena dimerizzata con periodicità di due unità (CH). Il numero d'onda deve essere definito rispetto alla cellula di unità con due atomi di carbonio. Supponiamo che ci siano due distinte amplitudini di salto per il legame corto e lungo, ad esempio, $t_1$ e $t_2$.
 
-2. Qual è l'energia media degli elettroni di ** polyacetilene non dimerizzato **. **(1 punto) **
+2. Qual è l'energia media degli elettroni di **polyacetilene non dimerizzato**. **(1 punto)**
 Supponiamo che l'ampiezza di salto per la catena non dimerizzata sia $2.5$ eV.
-Qual è l'energia media degli elettroni del polyacetilene dimerizzato. **(1 punto) **
+Qual è l'energia media degli elettroni del polyacetilene dimerizzato. **(1 punto)**
 
 **Signore:** Integrale ellittica del secondo tipo
 
@@ -472,7 +472,7 @@ L'espansione asimptotica per $k$ vicino ma inferiore a 1 ($k' = \sqrt{1-k^2}$):
 
 3. Il poliacetilene è un isolante topologico. Un stato topologicamente diverso viene ottenuto quando il legame lungo diventa breve e il legame breve diventa lungo. Entrambi gli stati topologici sono illustrati nella figura (2):
 
-> **Figura 2: ** Stati topologicamente diversi del poliacetilene. Per semplicità, gli atomi di idrogeno vengono omessi.
+> **Figura 2:** Stati topologicamente diversi del poliacetilene. Per semplicità, gli atomi di idrogeno vengono omessi.
    >
    > 
 
@@ -585,21 +585,21 @@ L'Hamiltonian per la parte periodica della funzione di onde di Bloch può essere
 
    $$H(q) = \sigma_x\,h_x(q) + \sigma_y\,h_y(q).$$
 
-Scrittore delle funzioni $h_x(q)$ e $h_y(q)$. **(1 punto) **
+Scrittore delle funzioni $h_x(q)$ e $h_y(q)$. **(1 punto)**
 
-Qual è il numero di curvatura intorno all'origine, $(0,0)$, della curva $(h_x(q), h_y(q))$ per ogni stato topologico, quando $q$ corre su tutti i vettori d'onda nella prima zona di Brillouin, da valori negativi a valori positivi. **(1 punto) **
+Qual è il numero di curvatura intorno all'origine, $(0,0)$, della curva $(h_x(q), h_y(q))$ per ogni stato topologico, quando $q$ corre su tutti i vettori d'onda nella prima zona di Brillouin, da valori negativi a valori positivi. **(1 punto)**
 
-**Signore: ** Matrici Pauli:
+**Signore:** Matrici Pauli:
 
    $$\sigma_x = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix} \qquad \sigma_y = \begin{pmatrix} 0 & -\mathrm{i} \\ \mathrm{i} & 0 \end{pmatrix}$$
 
 4. Considera la catena di poliacetilene con un difetto che separa due stati topologici, come mostrato alla figura (3):
 
-> **Figura 3: ** Due tipi di difetti topologici (etichettati con cerchi) nel poliacetilene che separano i diversi stati topologici.
+> **Figura 3:** Due tipi di difetti topologici (etichettati con cerchi) nel poliacetilene che separano i diversi stati topologici.
    >
    > ![[PLANCKS_2018_p2_f3.png]]
 
-Dimostrare l'esistenza dello stato di elettroni con l'energia $e = 0$ (all'interno del gap; chiamato anche ** stato di bordo**), localizzata intorno al difetto per entrambi i tipi di difetto. **(2 punti) **
+Dimostrare l'esistenza dello stato di elettroni con l'energia $e = 0$ (all'interno del gap; chiamato anche **stato di bordo**), localizzata intorno al difetto per entrambi i tipi di difetto. **(2 punti)**
 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Modern-Quantum Physics]], [[Chemistry]]
@@ -827,15 +827,15 @@ Signale di 21 cm spostato in rosso dell'epoca della reionizzazione sc. Vibor Jel
 
 Numerosi radiotelescopi (es. LOFAR nei Paesi Bassi; MWA in Australia; e HERA in Sudafrica) mirano a rilevare la linea iperfina di idrogeno neutro di 21 cm spostata in rosso dall'Epoca della Reionizzazione (EoR), un periodo fondamentale nella storia dell'Universo durante il quale il gas cosmico onnipervasivo è stato ionizzato dalla radiazione delle prime "star".
 
-1. Calcolare l'intervallo di frequenze al quale un radiotelescopio deve essere sensibile per rilevare il segnale cosmologico di 21 cm. Le attuali limitazioni di osservazione suggeriscono che l'Eor si è verificata approssimativamente nei spostamenti rossi di 6 e 15. **(2 punti) **
+1. Calcolare l'intervallo di frequenze al quale un radiotelescopio deve essere sensibile per rilevare il segnale cosmologico di 21 cm. Le attuali limitazioni di osservazione suggeriscono che l'Eor si è verificata approssimativamente nei spostamenti rossi di 6 e 15. **(2 punti)**
 
-2. Scrivere l'equazione del trasferimento radiativo lungo una linea di visione attraverso una nube di idrogeno di profondità ottica ** $\tau_\nu$, definita come l'integrale del coefficiente di assorbimento $(\alpha_\nu)$ lungo il percorso attraverso la nube. La luminosità * o l'intensità specifica * $I_\nu$ delle emissioni che emergono dalla nuvola a frequenza $\nu$ deve essere quantificata con la temperatura di luminosità * * $T_b(\nu)$ equivalente a quella $I_\nu = B_\nu(T_b)$, dove $B_\nu$ è la funzione Planck. Per l'emissione di fondo si considera solo l'emissione di fondo cosmico a microonde (CMB), l'emissione dell'universo come corpo nero. Supponiamo l'assenza di dispersioni lungo il sentiero. Per un'illustrazione, vedere figura 1. **(2 punti) **
+2. Scrivere l'equazione del trasferimento radiativo lungo una linea di visione attraverso una nube di idrogeno di profondità ottica **$\tau_\nu$, definita come l'integrale del coefficiente di assorbimento $(\alpha_\nu)$ lungo il percorso attraverso la nube. La luminosità * o l'intensità specifica * $I_\nu$ delle emissioni che emergono dalla nuvola a frequenza $\nu$ deve essere quantificata con la temperatura di luminosità * * $T_b(\nu)$ equivalente a quella $I_\nu = B_\nu(T_b)$, dove $B_\nu$ è la funzione Planck. Per l'emissione di fondo si considera solo l'emissione di fondo cosmico a microonde (CMB), l'emissione dell'universo come corpo nero. Supponiamo l'assenza di dispersioni lungo il sentiero. Per un'illustrazione, vedere figura 1.**(2 punti) 
 
-3. Risolvere l'equazione del trasferimento radiativo, ottenendo la temperatura di luminosità della radiazione emergente a frequenza $\nu$. Supponiamo una temperatura di eccitazione uniforme $T_{ex}$ attraverso una nuvola. La temperatura di eccitazione della linea di 21 cm è nota come temperatura di spin $T_S$. La temperatura di spin è definita attraverso il rapporto tra le densità numeriche $n_i$ degli atomi di idrogeno nei due livelli iperfini (1 singolo S, $n_0$, e livelli triplet 1S, $n_1$). Scrivere l'equazione per la temperatura di rotazione, se il rapporto dei fattori di degenerazione statistica dei due livelli è $g_1/g_0 = 3$. **(3 punti) **
+3. Risolvere l'equazione del trasferimento radiativo, ottenendo la temperatura di luminosità della radiazione emergente a frequenza $\nu$. Supponiamo una temperatura di eccitazione uniforme $T_{ex}$ attraverso una nuvola. La temperatura di eccitazione della linea di 21 cm è nota come temperatura di spin $T_S$. La temperatura di spin è definita attraverso il rapporto tra le densità numeriche $n_i$ degli atomi di idrogeno nei due livelli iperfini (1 singolo S, $n_0$, e livelli triplet 1S, $n_1$). Scrivere l'equazione per la temperatura di rotazione, se il rapporto dei fattori di degenerazione statistica dei due livelli è $g_1/g_0 = 3$. **(3 punti)**
 
-4. Cosa succede se la nuvola intermedia e la radiazione cosmica di fondo a microonde sono in equilibrio termodinamico? Parlate se la misurazione in un caso simile rivela qualcosa di interessante sulla nube che interviene? In caso contrario, proporre le condizioni in cui la misurazione avrà successo. Spiegate il motivo. **(3 punti) **
+4. Cosa succede se la nuvola intermedia e la radiazione cosmica di fondo a microonde sono in equilibrio termodinamico? Parlate se la misurazione in un caso simile rivela qualcosa di interessante sulla nube che interviene? In caso contrario, proporre le condizioni in cui la misurazione avrà successo. Spiegate il motivo. **(3 punti)**
 
-> **Figura 4: ** Un'illustrazione dei vari componenti rilevanti per il problema del trasferimento radiativo: la radiazione di fondo (CMB) che attraversa una nube di idrogeno di profondità ottica $\tau_\nu$ e emerge con la temperatura di luminosità $T_b$. La temperatura di eccitazione della linea di 21 cm associata alla nube di idrogeno è nota come temperatura di spin $T_S$.
+> **Figura 4:** Un'illustrazione dei vari componenti rilevanti per il problema del trasferimento radiativo: la radiazione di fondo (CMB) che attraversa una nube di idrogeno di profondità ottica $\tau_\nu$ e emerge con la temperatura di luminosità $T_b$. La temperatura di eccitazione della linea di 21 cm associata alla nube di idrogeno è nota come temperatura di spin $T_S$.
 >
 > ![[PLANCKS_2018_p4_f1.png]]
 
@@ -898,19 +898,19 @@ $$\vec{B} = \frac{\mu_0}{4\pi}\frac{g}{r^2}\hat{r},$$
 
 con $\hat{r}$ come vettore di posizione di un punto arbitrario nello spazio. Una particella puntata di carica elettrica $q$ e $m$ è libera di muoversi in presenza di questo campo. Supponiamo che tutto il movimento sia non relativistico.
 
-1. Dimostra che la forza di Lorentz che agisce sulla particella è perpendicolare alla sua velocità, $\vec{F} \perp \vec{v}$, e quindi, utilizzando questo fatto, dimostra che l'energia cinetica $T$ della particella è una costante di movimento. Inoltre, dimostrare che ciò implica che la particella si muove sempre a velocità costante, pari alla sua velocità iniziale $|\vec{v}| = v$. **(1 punto) **
+1. Dimostra che la forza di Lorentz che agisce sulla particella è perpendicolare alla sua velocità, $\vec{F} \perp \vec{v}$, e quindi, utilizzando questo fatto, dimostra che l'energia cinetica $T$ della particella è una costante di movimento. Inoltre, dimostrare che ciò implica che la particella si muove sempre a velocità costante, pari alla sua velocità iniziale $|\vec{v}| = v$. **(1 punto)**
 
-2. Allo stesso modo, mostrare che la forza di Lorentz è perpendicolare alla posizione istantanea della particella, $\vec{F} \perp \vec{r}$. Usando questo, e scrivendo il vettore di posizione della particella in termini di magnitudine e direzione, $\vec{r} = r\hat{r}$, derivi l'equazione differenziale per $r(t)$. Risolvi questa equazione con le condizioni iniziali a $t = 0$, $r(0) = r_{\min}$ e $\dot{r}(0) = 0$. Dal risolto $r(t)$, determinare il significato fisico di $r_{\min}$. **(2 punti) **
+2. Allo stesso modo, mostrare che la forza di Lorentz è perpendicolare alla posizione istantanea della particella, $\vec{F} \perp \vec{r}$. Usando questo, e scrivendo il vettore di posizione della particella in termini di magnitudine e direzione, $\vec{r} = r\hat{r}$, derivi l'equazione differenziale per $r(t)$. Risolvi questa equazione con le condizioni iniziali a $t = 0$, $r(0) = r_{\min}$ e $\dot{r}(0) = 0$. Dal risolto $r(t)$, determinare il significato fisico di $r_{\min}$. **(2 punti)**
 
 3. Mostrare che, sebbene la coppia $\vec{\tau}$ che agisce sulla particella non sia scomparsa, può tuttavia essere scritta come derivata di un certo vettore, $\vec{\tau} = -\mathrm{d}\vec{L}_{em}/\mathrm{d}t$, il che implica che la quantità conservata per questo movimento non è la stessa momentum angolare della particella $\vec{L}$, ma piuttosto la combinazione $\vec{J} = \vec{L} + \vec{L}_{em}$. Calcolare esplicitamente il vettore $\vec{L}_{em}$. Verificare che il vettore $\vec{L}_{em}$ sia, infatti, il momento angolare del campo elettromagnetico definito dall'integrale
 
    $$\epsilon_0 \int_{\mathbb{R}^3} \vec{r} \times \left[\vec{E}(\vec{r}') \times \vec{B}(\vec{r}')\right] \mathrm{d}V',$$
 
-in cui $\vec{E}$ è, nell'approssimazione non relativistica, solo il campo elettrostatico di carica $q$. Concludere che il vettore $\vec{J}$ rappresenta il momento angolare totale del sistema e calcolare la sua magnitudine $J$ in termini di quantità e condizioni iniziali conosciute. **(3 punti) **
+in cui $\vec{E}$ è, nell'approssimazione non relativistica, solo il campo elettrostatico di carica $q$. Concludere che il vettore $\vec{J}$ rappresenta il momento angolare totale del sistema e calcolare la sua magnitudine $J$ in termini di quantità e condizioni iniziali conosciute. **(3 punti)**
 
-4. Ora introdurre gli assi di coordinate con l'asse $z$ che punta lungo il vettore $\vec{J}$ e utilizzare le coordinate sferiche standard in quanto segue. Calcolare la quantità $\vec{r}\cdot\vec{J}$ e utilizzarla per trovare la dipendenza temporale dell'angolo zenit $\theta(t)$. In che tipo di superficie la particella è costretta a muoversi? Se sì, identificate la superficie in questione. **(2 punti) **
+4. Ora introdurre gli assi di coordinate con l'asse $z$ che punta lungo il vettore $\vec{J}$ e utilizzare le coordinate sferiche standard in quanto segue. Calcolare la quantità $\vec{r}\cdot\vec{J}$ e utilizzarla per trovare la dipendenza temporale dell'angolo zenit $\theta(t)$. In che tipo di superficie la particella è costretta a muoversi? Se sì, identificate la superficie in questione. **(2 punti)**
 
-5. Infine, dall'espressione $\vec{r}\times\vec{J}$ si determina l'equazione di movimento per $\dot{r}$. Riscrivere l'equazione ottenuta nel sistema di coordinate introdotto sopra e ottenere l'equazione differenziale per l'angolo azimuthal $\varphi(t)$. Risolvere l'equazione differenziale con la condizione iniziale $\varphi(0) = 0$. **(2 punti) **
+5. Infine, dall'espressione $\vec{r}\times\vec{J}$ si determina l'equazione di movimento per $\dot{r}$. Riscrivere l'equazione ottenuta nel sistema di coordinate introdotto sopra e ottenere l'equazione differenziale per l'angolo azimuthal $\varphi(t)$. Risolvere l'equazione differenziale con la condizione iniziale $\varphi(0) = 0$. **(2 punti)**
 
 Dopo aver seguito questi passaggi, hai trovato tutte le costanti di movimento e calcolato la traiettoria della particella. Pertanto, avete completamente risolto il problema del movimento delle particelle cariche in presenza di monopoli magnetici.
 
@@ -969,9 +969,9 @@ con $c$ che è la velocità della luce e $R_0$ parametro di lunghezza costante. 
 
 1. In questo caso saremmo in linea di principio in grado di vedere l'intero quadro della nostra galassia da qualche parte nel cielo notturno, grazie alla sua luce che viaggia tutto il percorso intorno all'universo. Qual sarebbe il spostamento relativo (schiffo rosso) $z = \frac{\Delta\lambda}{\lambda}$ delle lunghezze d'onda di questa luce?
 
-*Signal: * $1 + z = a(t_0)/a(t_e)$, dove $t_e$ e $t_0$ indicano i tempi di emissione e di osservazione dei segnali luminosi. **(5 punti) **
+*Signal: * $1 + z = a(t_0)/a(t_e)$, dove $t_e$ e $t_0$ indicano i tempi di emissione e di osservazione dei segnali luminosi. **(5 punti)**
 
-2. Altre galassie potremmo vedere almeno due volte: una volta attraverso la luce che prende il percorso più breve, con spostamento rosso $z_1$, e di nuovo, attraverso la luce che fa una volta la volta intorno all'universo, con spostamento rosso $z_2$. Indicare che questi due spostamenti rossi sono correlati a quello della parte (a) come $(1 + z_1)(1 + z_2) = (1 + z)$. **(5 punti) **
+2. Altre galassie potremmo vedere almeno due volte: una volta attraverso la luce che prende il percorso più breve, con spostamento rosso $z_1$, e di nuovo, attraverso la luce che fa una volta la volta intorno all'universo, con spostamento rosso $z_2$. Indicare che questi due spostamenti rossi sono correlati a quello della parte (a) come $(1 + z_1)(1 + z_2) = (1 + z)$. **(5 punti)**
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Astrophysics]], [[Special Relativity]]
@@ -1039,7 +1039,7 @@ $$\mathrm{p} + \mathrm{p} \to \mathrm{d} + \mathrm{e}^+ + \nu \ ,$$
 $$\mathrm{p} + \mathrm{d} \to {}^3\mathrm{He} + \gamma \ ,$$
 $$ {}^3\mathrm{He} + {}^3\mathrm{He} \to {}^4\mathrm{He} + 2\mathrm{p} \ .$$
 
-> **Figura 5: ** I neutrini prodotti nel ciclo ppI hanno lo spettro energetico indicato nella figura (tracciato da Bahcall e Ulrich, Rev. - Mod. Fisica. 60, 297, 1988.) - l'integrale di $\lambda(q)\mathrm{d}q$ è qui normalizzato all'unità per $\mathrm{d}q$ misurata in MeV.
+> **Figura 5:** I neutrini prodotti nel ciclo ppI hanno lo spettro energetico indicato nella figura (tracciato da Bahcall e Ulrich, Rev. - Mod. Fisica. 60, 297, 1988.) - l'integrale di $\lambda(q)\mathrm{d}q$ è qui normalizzato all'unità per $\mathrm{d}q$ misurata in MeV.
 >
 > ![[PLANCKS_2018_p7_f1.png]]
 
@@ -1049,22 +1049,22 @@ $$\lambda = 193.985\ \mathrm{MeV}^{-5}\cdot q^2(Q + m_e c^2 - q)\sqrt{(Q + m_e c
 
 dove $Q$ è il valore Q del primo passo del ciclo ($Q \approx 420$ keV), e $m_e c^2 \approx 511$ keV è l'energia corrispondente alla massa dell'elettrone.
 
-1. Trovare l'energia media dei neutrini prodotti nel ciclo? **(4 punti) **
+1. Trovare l'energia media dei neutrini prodotti nel ciclo? **(4 punti)**
 Se non riesci a calcolarlo, stima la cifra (come avrai bisogno di più tardi).
 
-2. Trova l'energia (media) che viene aggiunta al materiale del nucleo solare (plasma) per ogni nucleo ${}^4$He prodotto. Le masse delle particelle coinvolte nel ciclo ppI sono: $m(\mathrm{p}) = 1.6726\cdot10^{-27}\,\mathrm{kg}$, $m(\mathrm{d}) = 3.3445\cdot10^{-27}\,\mathrm{kg}$, $m({}^3\mathrm{He}) = 5.0082\cdot10^{-27}\,\mathrm{kg}$, $m({}^4\mathrm{He}) = 6.6465\cdot10^{-27}\,\mathrm{kg}$, $m(\mathrm{e}^+) = 9.1094\cdot10^{-31}\,\mathrm{kg}$. **(2 punti) **
+2. Trova l'energia (media) che viene aggiunta al materiale del nucleo solare (plasma) per ogni nucleo ${}^4$He prodotto. Le masse delle particelle coinvolte nel ciclo ppI sono: $m(\mathrm{p}) = 1.6726\cdot10^{-27}\,\mathrm{kg}$, $m(\mathrm{d}) = 3.3445\cdot10^{-27}\,\mathrm{kg}$, $m({}^3\mathrm{He}) = 5.0082\cdot10^{-27}\,\mathrm{kg}$, $m({}^4\mathrm{He}) = 6.6465\cdot10^{-27}\,\mathrm{kg}$, $m(\mathrm{e}^+) = 9.1094\cdot10^{-31}\,\mathrm{kg}$. **(2 punti)**
 
-3. La cosiddetta "constante solare" è il flusso medio della radiazione elettromagnetica solare per unità di area, misurata su una superficie perpendicolare ai raggi, una unità astronomica dal Sole (circa la distanza dal Sole alla Terra, $d \approx 150\cdot10^6\,$km). È facilmente misurata a $\approx 1360\ \mathrm{W/m}^2$. Quanta massa viene convertita in energia ogni secondo nel Sole, supponendo che tutta l'energia *solare* proviene dal ciclo ppI? **(0,5 punti) **
-Quanti cicli di PPI accadono ogni secondo? **(0,5 punti) **
+3. La cosiddetta "constante solare" è il flusso medio della radiazione elettromagnetica solare per unità di area, misurata su una superficie perpendicolare ai raggi, una unità astronomica dal Sole (circa la distanza dal Sole alla Terra, $d \approx 150\cdot10^6\,$km). È facilmente misurata a $\approx 1360\ \mathrm{W/m}^2$. Quanta massa viene convertita in energia ogni secondo nel Sole, supponendo che tutta l'energia *solare* proviene dal ciclo ppI? **(0,5 punti)**
+Quanti cicli di PPI accadono ogni secondo? **(0,5 punti)**
 
-4. Supponendo che il Sole convertirà il 10% del suo idrogeno iniziale in elio durante la sua evoluzione, stimare la durata della vita del Sole. La massa solare è $2\cdot10^{30}\,$kg e la massa iniziale dell'idrogeno è stata $\approx 75\%$ di tale numero. **(1 punto) **
+4. Supponendo che il Sole convertirà il 10% del suo idrogeno iniziale in elio durante la sua evoluzione, stimare la durata della vita del Sole. La massa solare è $2\cdot10^{30}\,$kg e la massa iniziale dell'idrogeno è stata $\approx 75\%$ di tale numero. **(1 punto)**
 
-5. Quanti neutrini emette il Sole ogni secondo? **(0,5 punti) **
-Qual è il flusso di densità dei neutrini solari (*, cioè.* il numero di neutrini al secondo e per unità di superficie perpendicolare alla loro velocità) sulla Terra? **(0,5 punti) **
+5. Quanti neutrini emette il Sole ogni secondo? **(0,5 punti)**
+Qual è il flusso di densità dei neutrini solari (*, cioè.* il numero di neutrini al secondo e per unità di superficie perpendicolare alla loro velocità) sulla Terra? **(0,5 punti)**
 Il numero ottenuto corrisponde al limite superiore del flusso di neutrini elettroni solari (il loro numero diventa più piccolo a causa delle oscillazioni dei neutrini).
 
-6. Qual è il flusso di energia (energia per unità di area per unità di tempo) associato al flusso di densità dei neutrini solari sulla Terra? **(0,5 punti) **
-Quanta parte dell'energia totale emessa dal Sole proviene dai neutrini? **(0,5 punti) **
+6. Qual è il flusso di energia (energia per unità di area per unità di tempo) associato al flusso di densità dei neutrini solari sulla Terra? **(0,5 punti)**
+Quanta parte dell'energia totale emessa dal Sole proviene dai neutrini? **(0,5 punti)**
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Nuclear & Particle Physics]], [[Astrophysics]]
@@ -1119,15 +1119,15 @@ $$z = a\sin v,$$
 
 per $u, v \in [0, 2\pi)$ e $c > a$ (sia $c$ che $a$ sono costanti positive). Alcune particelle di massa $m$ sono costrette a muoversi sulla superficie di tale toro e non sono soggette a forze esterne (ad esempio: gravità).
 
-1. Scrivi il Lagrangian e le equazioni di movimento. **(1 punto) **
+1. Scrivi il Lagrangian e le equazioni di movimento. **(1 punto)**
 
-2. Derivare le costanti di movimento e ridurre l'equazione di movimento al problema equivalente unidimensionale. **(1 punto) **
+2. Derivare le costanti di movimento e ridurre l'equazione di movimento al problema equivalente unidimensionale. **(1 punto)**
 
-3. Utilizzare il potenziale efficace per discutere della natura qualitativa delle orbite. Considerate tutti i possibili casi. **(3 punti) **
+3. Utilizzare il potenziale efficace per discutere della natura qualitativa delle orbite. Considerate tutti i possibili casi. **(3 punti)**
 
-4. Supponiamo che l'energia della particella sia uguale a $E = \dfrac{p_u^2}{2m(c-a)}$ ($p_u$ indica il momento generalizzato) e che la particella parte dal punto $v = 0$ ($u$ è arbitrario). Calcolare il tempo necessario per raggiungere la posizione $v = \pi$. **(3 punti) **
+4. Supponiamo che l'energia della particella sia uguale a $E = \dfrac{p_u^2}{2m(c-a)}$ ($p_u$ indica il momento generalizzato) e che la particella parte dal punto $v = 0$ ($u$ è arbitrario). Calcolare il tempo necessario per raggiungere la posizione $v = \pi$. **(3 punti)**
 
-5. Infine, supponiamo che il campo gravitazionale omogeneo sia acceso e discutete qualitativamente della sua influenza sulle orbite particolari. **(2 punti) **
+5. Infine, supponiamo che il campo gravitazionale omogeneo sia acceso e discutete qualitativamente della sua influenza sulle orbite particolari. **(2 punti)**
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -1168,21 +1168,21 @@ A solid (three-dimensional) semi-ball is placed on ice (in the homegeneous gravi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Quasi oscillante ** (doc. dr. sc. Nikola Poljak, Università di Zagabria, Facoltà di Scienze, Dipartimento di Fisica)
+**Quasi oscillante** (doc. dr. sc. Nikola Poljak, Università di Zagabria, Facoltà di Scienze, Dipartimento di Fisica)
 
 Una semibolla solida (tridimensionale) viene collocata sul ghiaccio (nel campo gravitazionale omogene $\vec{g}$), in modo che non vi sia assolutamente alcun attrito tra l'oggetto e la superficie come nella figura.
 
 > ![[PLANCKS_2018_p9_f1.png]]
 
-1. Determinare la posizione del centro di massa di una semicolletta di raggio di curvatura $r$. **(1,5 punti) **
+1. Determinare la posizione del centro di massa di una semicolletta di raggio di curvatura $r$. **(1,5 punti)**
 
-2. Determinare il momento di inerzia della semipolla intorno ad un asse che attraversa il centro di massa perpendicolare all'asse di simmetria della semipolla. La massa della semicolora è $m$. **(2,5 punti) **
+2. Determinare il momento di inerzia della semipolla intorno ad un asse che attraversa il centro di massa perpendicolare all'asse di simmetria della semipolla. La massa della semicolora è $m$. **(2,5 punti)**
 
-3. Scrivi l'energia totale della semipolla mentre si muove da sola e descrivi il movimento in parole. **(2 punti) **
+3. Scrivi l'energia totale della semipolla mentre si muove da sola e descrivi il movimento in parole. **(2 punti)**
 
-4. La semipolla eseguirà un movimento che oscilla quasi. Scrivi l'equazione di movimento della semicolletta. **(1,5 punti) **
+4. La semipolla eseguirà un movimento che oscilla quasi. Scrivi l'equazione di movimento della semicolletta. **(1,5 punti)**
 
-5. La soluzione di questa equazione è molto complicata, tuttavia, la semicolo è quasi oscillante. Prima di tutto, supponiamo che le oscillazioni siano piccole. In seguito, supponiamo che la soluzione sia data da $\theta(t) = \theta_0\cos(\omega t)$. Collegare questa soluzione nell'equazione del movimento e ottenere la frequenza di oscillazione. $\theta$ è l'angolo tra l'asse di simmetria della semicolora e $\vec{g}$. **(2,5 punti) **
+5. La soluzione di questa equazione è molto complicata, tuttavia, la semicolo è quasi oscillante. Prima di tutto, supponiamo che le oscillazioni siano piccole. In seguito, supponiamo che la soluzione sia data da $\theta(t) = \theta_0\cos(\omega t)$. Collegare questa soluzione nell'equazione del movimento e ottenere la frequenza di oscillazione. $\theta$ è l'angolo tra l'asse di simmetria della semicolora e $\vec{g}$. **(2,5 punti)**
 
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]]
@@ -1323,7 +1323,7 @@ Interpretare i vertici come persone individuali e i bordi come "in contatto" (vi
 
 Definciamo i seguenti processi di trasmissione della malattia:
 
-- Una persona sana può ammalarsi ** internamente** durante l' intervallo di tempo $\Delta t$ con una probabilità costante $p_i\Delta t$.
+- Una persona sana può ammalarsi **internamente** durante l' intervallo di tempo $\Delta t$ con una probabilità costante $p_i\Delta t$.
 - Una persona sana può ammalarsi **esterne** durante l' intervallo di tempo $\Delta t$ con probabilità $r\Delta t$ se ha vicinati sani inferiori o uguali a $m$. Supponiamo che la rete sia abbastanza densa da contenere $m < \min(k_i)$ (di solito le reti sociali lo sono).
 - Una persona malata diventa sana durante l' intervallo di tempo $\Delta t$ con probabilità $q\Delta t$.
 
@@ -1333,9 +1333,9 @@ Rispondere alle seguenti domande con la rappresentazione del problema descritta 
 
 1. Indicare il numero di malati in tempo $t$ per $N_S(t)$ in una popolazione (rete) di persone $N$ e la frazione di malati in tempo $t$ per $x(t) = N_S(t)/N$. Si può approssimare la probabilità che un vertice scelto a caso sia malato da $x$.
 
-Supponendo che le persone malate e sane siano ben mescolate nella rete, annotare la probabilità approssimativa di un vertice scelto a caso di grado $k$ (connesso ad $k$ altre persone) per la parte periodica della funzione di onde di Bloch. Scopri la probabilità media che i vertici di grado $k$ siano **esattamente ** $n$ vertici sani nel proprio quartiere in termini di $k$, $n$ e $x$. La distribuzione di $n$ che ne deriva ha un nome?
+Supponendo che le persone malate e sane siano ben mescolate nella rete, annotare la probabilità approssimativa di un vertice scelto a caso di grado $k$ (connesso ad $k$ altre persone) per la parte periodica della funzione di onde di Bloch. Scopri la probabilità media che i vertici di grado $k$ siano **esattamente** $n$ vertici sani nel proprio quartiere in termini di $k$, $n$ e $x$. La distribuzione di $n$ che ne deriva ha un nome?
 
-   Taking that into account, what is the probability $\varphi_m^{(k)}(x)$ of there being less or equal to $m$ sick people in the neighborhood of that vertex? **(1 punto) **
+   Taking that into account, what is the probability $\varphi_m^{(k)}(x)$ of there being less or equal to $m$ sick people in the neighborhood of that vertex? **(1 punto)**
 
 2. Con tale risultato, annotare il numero previsto di malati $N_S$ al tempo $t + \Delta t$ utilizzando $N_S$ al passo temporale precedente $t$. In ogni fase, utilizzare
 
@@ -1343,7 +1343,7 @@ Supponendo che le persone malate e sane siano ben mescolate nella rete, annotare
    \varphi_m(x) = \langle\varphi_m^{(k)}(x)\rangle_k = \sum_k p_k\,\varphi_m^{(k)}(x) \tag{14}
    $$
 
-come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferiore o uguale. **(2 punti) **
+come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferiore o uguale. **(2 punti)**
 
 3. Una volta raggiunto il tempo di rappresentazione discreta dell'equazione, mostrare che prendendo il limite $\Delta t \to 0$ si ottiene la seguente equazione dinamica per $x$:
 
@@ -1351,13 +1351,13 @@ come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferi
    \frac{\mathrm{d}x}{\mathrm{d}t} = r(1-x)\varphi_m(x) + p(1-x) - qx \tag{15}
    $$
 
-**(1 punto) **
+**(1 punto)**
 
 4. Per semplicità, da ora in poi supponiamo che $q = 1$ e che la rete sottostante sia un grafico **regular**: ogni vertice è di grado $k_0$, esattamente (ha $k_0$ vicini). Questo è equivalente alla rete cubica con dimensione $d = k_0/2$ nella fisica della materia condensata. Qual è la distribuzione di gradi $p_k$ di un grafico del genere? Questa scelta semplifica l'espressione per $\varphi_m(x)$?
 
 - Per $m = k_0$, trovare i punti fissi $x_s(p, r)$ nello spazio parametrico definito da $\dot{x} = 0$.
 
-- Scrivere l'equazione per i punti fissi nel caso di $m = k_0 - 1$. Esiste sempre una soluzione non-zero? Trovare il valore critico $r_c = r_c(k_0)$ al quale l'equazione ottiene una soluzione non zeri per $p = 0$? **(3 punti) **
+- Scrivere l'equazione per i punti fissi nel caso di $m = k_0 - 1$. Esiste sempre una soluzione non-zero? Trovare il valore critico $r_c = r_c(k_0)$ al quale l'equazione ottiene una soluzione non zeri per $p = 0$? **(3 punti)**
 
 5. Infine, nel caso di $m = k_0 - 1$, definire gli esponenti critici $\beta$ e $\delta$ approssimando $x_s(r,p)$ vicino al punto critico ($r = r_c$ e $p = 0$, rispettivamente):
 
@@ -1371,7 +1371,7 @@ come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferi
 
 *Signore:* Vale la pena notare che il valore di $x_s$ è piccolo vicino al punto critico $r = r_c$.
 
-Quali sono i valori di $\beta$ e $\delta$? Qual è l'ordine di tale transizione di fase? Brevi commenti sulla differenza/similità tra questi valori e i ben noti esponenti di campo medio universale spesso incontrati nella fisica statistica. **(3 punti) **
+Quali sono i valori di $\beta$ e $\delta$? Qual è l'ordine di tale transizione di fase? Brevi commenti sulla differenza/similità tra questi valori e i ben noti esponenti di campo medio universale spesso incontrati nella fisica statistica. **(3 punti)**
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1_oHlHHyZf-EUCL1HPWO1cvPNlF7kApZF/view)
 **Topic:** [[Thermodynamics]], [[Mathematics]]

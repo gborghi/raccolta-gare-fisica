@@ -333,7 +333,7 @@ The pendulum initially is given a small angular velocity counterclockwise and is
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo motore 1. ** Un pendolo è costituito da una barra senza massa di lunghezza $l = 0.5000 \text{ m}$ e da una massa puntaria $m = 15.00 \text{ kg}$ appesa ad una estremità. L'angolo tra la canna e la verticale è $\theta$. Un motore collegato al pivot fornisce una coppia. Il valore massimo di questa coppia è a seconda dell'angolo e viene dato da:
+**Pendolo motore 1.** Un pendolo è costituito da una barra senza massa di lunghezza $l = 0.5000 \text{ m}$ e da una massa puntaria $m = 15.00 \text{ kg}$ appesa ad una estremità. L'angolo tra la canna e la verticale è $\theta$. Un motore collegato al pivot fornisce una coppia. Il valore massimo di questa coppia è a seconda dell'angolo e viene dato da:
 
 $$\tau(\theta) = \frac{1 + \cos\theta}{2}\,\tau_0 \quad \text{for } 0 \le \theta \le 90^\circ.$$
 
@@ -369,7 +369,7 @@ All'inizio il pendolo ha una velocità angolare di piccola velocità contro il s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo motore 2. ** Il pendolo è inizialmente a $\theta = 0$. Questa volta, la massa non e' cosi' sensibile. Il motore può fornire la coppia completa per tutti i $\theta$. Qual è il valore minimo di $\tau_0$ necessario affinché il pendolo raggiunga $\theta = 90^\circ$ in un solo swing unidirezionale?
+**Pendolo motore 2.** Il pendolo è inizialmente a $\theta = 0$. Questa volta, la massa non e' cosi' sensibile. Il motore può fornire la coppia completa per tutti i $\theta$. Qual è il valore minimo di $\tau_0$ necessario affinché il pendolo raggiunga $\theta = 90^\circ$ in un solo swing unidirezionale?
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 
@@ -398,7 +398,7 @@ All'inizio il pendolo ha una velocità angolare di piccola velocità contro il s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pendolo motorizzato 3. ** Il pendolo è inizialmente a $\theta = 0$. La massa contiene elettronica estremamente sensibile che non può tollerare velocità superiori a $v_{\max} = 0.1000 \text{ m/s}$. Per tre cifre significative, qual è il valore minimo di $\tau_0$ necessario affinché il pendolo raggiunga $\theta = 90^\circ$ senza superare questa soglia di velocità?
+**Pendolo motorizzato 3.** Il pendolo è inizialmente a $\theta = 0$. La massa contiene elettronica estremamente sensibile che non può tollerare velocità superiori a $v_{\max} = 0.1000 \text{ m/s}$. Per tre cifre significative, qual è il valore minimo di $\tau_0$ necessario affinché il pendolo raggiunga $\theta = 90^\circ$ senza superare questa soglia di velocità?
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 
@@ -435,7 +435,7 @@ Now suppose we model a planet as a uniform density disk. The issue with this is 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Oscillazioni gravitazionali 1. ** Vi viene data la distribuzione di cariche su un ellissoide conduttivo descritto dall'equazione
+**Oscillazioni gravitazionali 1.** Vi viene data la distribuzione di cariche su un ellissoide conduttivo descritto dall'equazione
 
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
 
@@ -472,7 +472,7 @@ Supponiamo di modellare un pianeta come un disco di densità uniforme. Il proble
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Oscillazioni gravitazionali 2. ** La densità al centro del pianeta sia $\rho_0 = 10000 \text{ kg/m}^3$, e l'altezza del disco sia $h = 100 \text{ km}$. Qual è la massa chiusa nell'anello con raggio esterno $R = 6000 \text{ km}$ e raggio interno $R - \epsilon$, dove $\epsilon = 1 \text{ km}$?
+**Oscillazioni gravitazionali 2.** La densità al centro del pianeta sia $\rho_0 = 10000 \text{ kg/m}^3$, e l'altezza del disco sia $h = 100 \text{ km}$. Qual è la massa chiusa nell'anello con raggio esterno $R = 6000 \text{ km}$ e raggio interno $R - \epsilon$, dove $\epsilon = 1 \text{ km}$?
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 
@@ -613,7 +613,7 @@ Un servizio legale nel ping-pong richiede che la palla rimbalzi su un lato del t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ping-pong 2. ** Consideramo un serve con $n$ rimbalzi prima di passare sulla rete. L'attore olimpico è così incredibilmente bravo che può controllare la direzione della velocità dopo ogni balzo come vuole. Naturalmente, un maggior numero di rimbalzi riduce la velocità minima di servizio $v_n$. Tuttavia, per alcuni $N$, quando $n \ge N$ la velocità minima di servizio non diminuisce più se si aggiungono rimbalzi, ovvero $N$ è il numero naturale più piccolo tale che $v_m = v_N$ per tutti $m \ge N$. Trova $v_N^{\,N-1}$.
+**Ping-pong 2.** Consideramo un serve con $n$ rimbalzi prima di passare sulla rete. L'attore olimpico è così incredibilmente bravo che può controllare la direzione della velocità dopo ogni balzo come vuole. Naturalmente, un maggior numero di rimbalzi riduce la velocità minima di servizio $v_n$. Tuttavia, per alcuni $N$, quando $n \ge N$ la velocità minima di servizio non diminuisce più se si aggiungono rimbalzi, ovvero $N$ è il numero naturale più piccolo tale che $v_m = v_N$ per tutti $m \ge N$. Trova $v_N^{\,N-1}$.
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Newtonian Mechanics]], [[Mathematics]]
@@ -772,7 +772,7 @@ Follin ha sviluppato un nuovo filamento rivoluzionario per lampadine. Il filamen
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Filamento 2. ** Follin modifica ora il suo filamento per avere sei invece di due cerchi appiattiti disposti simmetricamente attorno alla sfera. Si collocano i fili di contatto in due cerchi appiattiti che sono spaziati $90^\circ$ a parte sul loro grande cerchio condiviso. Trova la nuova resistenza della lampadina.
+**Filamento 2.** Follin modifica ora il suo filamento per avere sei invece di due cerchi appiattiti disposti simmetricamente attorno alla sfera. Si collocano i fili di contatto in due cerchi appiattiti che sono spaziati $90^\circ$ a parte sul loro grande cerchio condiviso. Trova la nuova resistenza della lampadina.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Circuits]]
@@ -1031,7 +1031,7 @@ Un solenoide funziona anche come una sorgente di costante sorgente $k = 50 \text
 
 <div class="qlang-split" data-lang="it"></div>
 
-** scacchi.** Immaginate una griglia $4 \times 4$ con una particella in ogni cella. Queste particelle si muovono in forma di L, simile a cavalieri negli scacchi. Ogni secondo, una particella si muove in modo casuale in una delle cellule che può accedere con un salto L. Due o più particelle possono occupare la stessa cellula. Dopo un po' di tempo, questo sistema raggiungerà un equilibrio. Se la temperatura (statistica) del sistema e quindi di ciascuna cella è $T = 1 \text{ mK}$, tutte le celle avranno un livello di energia definito. Trova la differenza tra gli stati di energia più elevati e più bassi in eV.
+**scacchi.** Immaginate una griglia $4 \times 4$ con una particella in ogni cella. Queste particelle si muovono in forma di L, simile a cavalieri negli scacchi. Ogni secondo, una particella si muove in modo casuale in una delle cellule che può accedere con un salto L. Due o più particelle possono occupare la stessa cellula. Dopo un po' di tempo, questo sistema raggiungerà un equilibrio. Se la temperatura (statistica) del sistema e quindi di ciascuna cella è $T = 1 \text{ mK}$, tutte le celle avranno un livello di energia definito. Trova la differenza tra gli stati di energia più elevati e più bassi in eV.
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Kinetic Theory]], [[Mathematics]]

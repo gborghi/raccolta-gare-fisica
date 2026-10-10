@@ -95,9 +95,9 @@ Considerate un ciclo di corrente circolare di raggio $r$ con corrente $I_1$ e un
 
 **a. (1 pt.)** Una corrente $I_2$ che passa attraverso il ciclo 2 (il ciclo più grande) genera un flusso magnetico $\Phi_{B1}$ attraverso il ciclo 1. Trova il rapporto $M_{21} = \Phi_{B1}/I_2$. Si chiama coefficiente di induzione reciproca.
 
-**b. (0,8 pts.) ** Dato che $M_{12} = \Phi_{B2}/I_1 = M_{21}$, ottenere la FEM totale indotta $\varepsilon_2$ nel ciclo più grande a seguito di una variazione $\dot{I}_1 = dI_1/dt$ della corrente nel ciclo più piccolo. Lascia perdere la corrente nel circuito più grande. *Signal: la FEM indotta è uguale al tasso di variazione del flusso magnetico attraverso il ciclo.*
+**b. (0,8 pts.)** Dato che $M_{12} = \Phi_{B2}/I_1 = M_{21}$, ottenere la FEM totale indotta $\varepsilon_2$ nel ciclo più grande a seguito di una variazione $\dot{I}_1 = dI_1/dt$ della corrente nel ciclo più piccolo. Lascia perdere la corrente nel circuito più grande. *Signal: la FEM indotta è uguale al tasso di variazione del flusso magnetico attraverso il ciclo.*
 
-**c. (0,5 pts.) ** La FEM che hai trovato nella parte (b) è dovuta alla componente tangenziale di un campo elettrico indotto. Ottenere un'espressione per il campo elettrico tangenziale $E$ al raggio $R$ come funzione del tasso di variazione $\dot{I}_1$ della corrente.
+**c. (0,5 pts.)** La FEM che hai trovato nella parte (b) è dovuta alla componente tangenziale di un campo elettrico indotto. Ottenere un'espressione per il campo elettrico tangenziale $E$ al raggio $R$ come funzione del tasso di variazione $\dot{I}_1$ della corrente.
 
 ![[APhO_2011_theory_Q1_p1_f1.png]]
 *Figura 1: Un circuito di corrente circolare e una carica di punto $Q$.*
@@ -112,7 +112,7 @@ Ora capiremo l'origine del retrocesso del ciclo, utilizzando un ciclo di geometr
 
 **e. (1.1 pts.)** Considera un tubo vuoto con pareti realizzate in materiale isolante neutro di lunghezza $l$ e sezione trasversale $A$ con corrente elettrica $I$. La corrente è dovuta a particelle cariche di massa di riposo $m$ e carica $q$ distribuite in modo omogeneo all'interno del tubo con densità di numero $n$. Supponiamo che le particelle cariche si muovano tutte lungo il tubo con la stessa velocità. Trova il momento totale $p$ delle particelle cariche nel tubo, tenendo conto degli effetti di Relatività Speciale.
 
-**f. (3.3 punti) ** Considera un ciclo di corrente quadrato con lato $l$. A una distanza $R \gg l$ dal ciclo, vi è una carica di punto $Q$; vedere figura 2. Il circuito porta corrente $I$. Modelleremo il circuito corrente come tubo neutro, come nella parte (e). I portatori di carica possono muoversi liberamente lungo il ciclo, collidendo elasticamente con le pareti e facendo elasticamente le curve a destra negli angoli. Ignorare tutte le interazioni tra i portatori di carica. Supponiamo anche che tutti i portatori di carica in una determinata sezione lungo il tubo si muovano sempre con la stessa velocità. Supponiamo che il circuito sia pesante e che il suo movimento possa essere trascurato. Calcolare il momento lineare totale $p_{hid}$ dei portatori di carica nel circuito. Si chiama "momento nascosto".
+**f. (3.3 punti)** Considera un ciclo di corrente quadrato con lato $l$. A una distanza $R \gg l$ dal ciclo, vi è una carica di punto $Q$; vedere figura 2. Il circuito porta corrente $I$. Modelleremo il circuito corrente come tubo neutro, come nella parte (e). I portatori di carica possono muoversi liberamente lungo il ciclo, collidendo elasticamente con le pareti e facendo elasticamente le curve a destra negli angoli. Ignorare tutte le interazioni tra i portatori di carica. Supponiamo anche che tutti i portatori di carica in una determinata sezione lungo il tubo si muovano sempre con la stessa velocità. Supponiamo che il circuito sia pesante e che il suo movimento possa essere trascurato. Calcolare il momento lineare totale $p_{hid}$ dei portatori di carica nel circuito. Si chiama "momento nascosto".
 
 ![[APhO_2011_theory_Q1_p2_f2.png]]
 *Figura 2: Un ciclo di corrente quadrato e una carica di punto $Q$.*
@@ -121,13 +121,13 @@ Quando la corrente si ferma, questo momento lineare viene trasferito nel loop, e
 
 ### Parte III: Riassunto dei risultati (2,3 punti)
 
-**g. (0.8 pts.) ** I circuiti di corrente sono spesso caratterizzati dal loro momento magnetico $\mu = IS$, dove $I$ è la corrente e $S$ è l'area del circuito. Esprimere la risposta alla parte d) in termini di $\mu$, $r$, $R$ e $Q$. Allo stesso modo, esprimere la risposta alla parte (f) in termini di $\mu$, $l$, $R$ e $Q$. Si noti che le costanti elettriche e magnetiche sono correlate da:
+**g. (0.8 pts.)** I circuiti di corrente sono spesso caratterizzati dal loro momento magnetico $\mu = IS$, dove $I$ è la corrente e $S$ è l'area del circuito. Esprimere la risposta alla parte d) in termini di $\mu$, $r$, $R$ e $Q$. Allo stesso modo, esprimere la risposta alla parte (f) in termini di $\mu$, $l$, $R$ e $Q$. Si noti che le costanti elettriche e magnetiche sono correlate da:
 
 $$\frac{4\pi k}{\mu_0} = \frac{1}{\varepsilon_0 \mu_0} = c^2$$
 
 dove $c$ è la velocità della luce.
 
-**h. (1.5 pts.) ** In un modello più realistico, il circuito corrente è un filo conduttore e il campo della carica puntaria $Q$ non penetra nel conduttore. Supponiamo che la corrente sia ancora condotta da portatori di carica all'interno del filo. Decidi se ciascuno dei seguenti affermazioni è vero o falso e circolare l'opzione corretta nel modulo di risposta. Nota: Potete lasciare una dichiarazione indecisa, ma se decidete erroneamente, non riceverete alcun merito per la parte (h).
+**h. (1.5 pts.)** In un modello più realistico, il circuito corrente è un filo conduttore e il campo della carica puntaria $Q$ non penetra nel conduttore. Supponiamo che la corrente sia ancora condotta da portatori di carica all'interno del filo. Decidi se ciascuno dei seguenti affermazioni è vero o falso e circolare l'opzione corretta nel modulo di risposta. Nota: Potete lasciare una dichiarazione indecisa, ma se decidete erroneamente, non riceverete alcun merito per la parte (h).
 
 A. (0,5 punti) La dinamica lineare del loop corrente è zero.
 
@@ -216,7 +216,7 @@ where $G$ is a material property known as the shear modulus. Use the values $r =
 
 <div class="qlang-split" data-lang="it"></div>
 
-** Porta a crepe **
+**Porta a crepe**
 
 Il fenomeno del crepitto è molto comune, e può essere trovato in porte, armadi, grido di gesso su una lavagna, suonare il violino, scarpe nuove, freni auto e altri sistemi della vita quotidiana. Qui in Israele, un fenomeno simile provoca violenti terremoti che durano diversi decenni. Queste si originano nella spaccatura del Mar Morto, che si trova proprio sopra la più profonda frattura conosciuta nella crosta terrestre.
 
@@ -235,9 +235,9 @@ Vorremmo capire perché questa configurazione supporta due forme di movimento di
 
 **a. (1 pt.)** Considerate il caso in cui al momento iniziale $t = 0$ la scatola scivola sul pavimento con velocità $v_0$ e la tensione della molla bilancia esattamente la frizione cinetica. Supponiamo $0 < v_0 < u$. L'allungamento della sorgente **** $x$ oscilla come funzione di $t$.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**a1. (0,6 punti) ** Trova il periodo $T_0$ e l'ampiezza $A$ di queste oscillazioni.
+&nbsp;&nbsp;&nbsp;&nbsp;**a1. (0,6 punti)** Trova il periodo $T_0$ e l'ampiezza $A$ di queste oscillazioni.
 
-Il valore di un'impresa è pari a quello di un'impresa. (0,4 punti) ** Segnare un grafico qualitativo dell'allungamento della molla $x(t)$ per $0 < t < 3T_0$.
+Il valore di un'impresa è pari a quello di un'impresa. (0,4 punti)  Segnare un grafico qualitativo dell'allungamento della molla $x(t)$ per $0 < t < 3T_0$.
 
 **b. (1.2 pts.)** Ora, considera il caso in cui alla $t = 0$ la scatola è a riposo, mentre l'allungamento iniziale della primavera $x$ è lo stesso della parte (a). Segnare un grafico qualitativo della velocità $v(t)$ della scatola rispetto al pavimento per $0 < t < 3T_0$, dove $T_0$ è il (nuovo) periodo delle oscillazioni $v(t)$. Il movimento a destra corrisponde a un segno positivo di $v$. Indicare sulla tua grafica la linea orizzontale $v = u$.
 
@@ -246,11 +246,11 @@ Il valore di un'impresa è pari a quello di un'impresa. (0,4 punti) ** Segnare u
 ![[APhO_2011_theory_Q2_p1_f1.png]]
 *Figura 1: Modello generale per la crepa*
 
-**d. (2,4 punti) ** Per le condizioni della parte (b), trovare il periodo $T$ delle oscillazioni $x(t)$.
+**d. (2,4 punti)** Per le condizioni della parte (b), trovare il periodo $T$ delle oscillazioni $x(t)$.
 
 Generalmente, il movimento di stick-slip si ferma ad alte velocità di guida $u$. Ora parleremo di uno dei possibili meccanismi che hanno causato questo effetto.
 
-**e. (2,4 pts.) ** Supponiamo che durante ogni periodo $T$, una piccola quantità di energia venga dissipata in calore in primavera, tramite un meccanismo aggiuntivo. Il valore $\eta = |\Delta A/A|$ deve essere la perdita di amplitudine frazionaria per periodo dovuta alla dissipazione in movimento di scivolamento puro. Per $\eta \ll 1$, trovare la velocità di guida critica $u_c$ al di sopra della quale il scivolamento periodico diventa impossibile. *I risultati della parte (e) non sono necessari per la parte II.*
+**e. (2,4 pts.)** Supponiamo che durante ogni periodo $T$, una piccola quantità di energia venga dissipata in calore in primavera, tramite un meccanismo aggiuntivo. Il valore $\eta = |\Delta A/A|$ deve essere la perdita di amplitudine frazionaria per periodo dovuta alla dissipazione in movimento di scivolamento puro. Per $\eta \ll 1$, trovare la velocità di guida critica $u_c$ al di sopra della quale il scivolamento periodico diventa impossibile. *I risultati della parte (e) non sono necessari per la parte II.*
 
 ### Parte II: Applicazione alla porta a craccaggio (2,5 punti)
 
@@ -270,7 +270,7 @@ in cui $G$ è una proprietà materiale nota come modulo di taglio. Utilizzare i 
 
 **f. (1 pt.)** Cominciamo a ruotare la porta molto lentamente dall'equilibrio (torno zero). Per gli angoli di rotazione piccoli, si ottiene un'espressione per il coefficiente di torsione $\kappa = \tau/\theta$, dove $\tau$ è la coppia che deve essere applicata per ruotare la porta con un angolo $\theta$.
 
-**g. (1,5 pts) ** A velocità angolare molto bassa, quando si verifica una transizione da bastone a scivolo, viene emesso un impulso sonoro. Trova la velocità angolare $\Omega$ della porta per la quale la frequenza di questi impulsi entra nell'intervallo udibile a $f = 20\,\text{Hz}$. Supponiamo che la frequenza $f_0$ delle oscillazioni di scivolamento puro nella cerniera sia molto superiore: $f_0 \gg f$. Fornisci un'espressione e un risultato numerico.
+**g. (1,5 pts)** A velocità angolare molto bassa, quando si verifica una transizione da bastone a scivolo, viene emesso un impulso sonoro. Trova la velocità angolare $\Omega$ della porta per la quale la frequenza di questi impulsi entra nell'intervallo udibile a $f = 20\,\text{Hz}$. Supponiamo che la frequenza $f_0$ delle oscillazioni di scivolamento puro nella cerniera sia molto superiore: $f_0 \gg f$. Fornisci un'espressione e un risultato numerico.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VtUXLVTOrt6D28o5_b4EAg6VmqtjHRe9/view)
 
@@ -359,7 +359,7 @@ La foto mostra un lungo pallone di gomma, il tipo che è popolare alle feste di 
 ![[APhO_2011_theory_Q3_p1_f1.png]]
 *Figura 1: Balone di compleanno parzialmente gonfiato.*
 
-**a. Il palloncino è tenuto dalla bocca, mentre le altre parti sono appese liberamente. Trova il rapporto $\sigma_L/\sigma_t$ tra la tensione superficiale longitudinale $\sigma_L$ (in direzione parallela all'asse del palloncino) e la tensione superficiale trasversale $\sigma_t$ (in direzione tangente alla sezione trasversale circolare del palloncino).
+**a. Il palloncino è tenuto dalla bocca, mentre le altre parti sono appese liberamente. Trova il rapporto $\sigma_L/\sigma_t$ tra la tensione superficiale longitudinale $\sigma_L$ (in direzione parallela all'asse del palloncino) e la tensione superficiale trasversale $\sigma_t$ (in direzione tangente alla sezione trasversale circolare del palloncino).**
 
 La tensione superficiale di un film di gomma è la forza che le parti adiacenti esercitano l'una sull'altra, per unità di lunghezza del confine.
 
@@ -382,7 +382,7 @@ Questo comportamento è raffigurato nella Figura 2.
 ![[APhO_2011_theory_Q3_p2_f2.png]]
 *Figura 2: $\sigma_t(r)$ per un pallone da festa realistico.*
 
-**c. (1,3 punti) ** Segnare un diagramma qualitativo della differenza di pressione $P - P_0$ come funzione di $V$ per un palloncino gonfiato uniformemente che si comporta secondo la figura 2. Indicate tutti i punti di estremazione locali sul vostro complotto. Indicare anche i punti corrispondenti a $r = 1\,\text{cm}$ e $r = 2.5\,\text{cm}$. Trova i valori di $P - P_0$ in questi due punti con una precisione del 10%.
+**c. (1,3 punti)** Segnare un diagramma qualitativo della differenza di pressione $P - P_0$ come funzione di $V$ per un palloncino gonfiato uniformemente che si comporta secondo la figura 2. Indicate tutti i punti di estremazione locali sul vostro complotto. Indicare anche i punti corrispondenti a $r = 1\,\text{cm}$ e $r = 2.5\,\text{cm}$. Trova i valori di $P - P_0$ in questi due punti con una precisione del 10%.
 
 ![[APhO_2011_theory_Q3_p2_f3.png]]
 *Figura 3: Un grafico dell'equazione (2). *
@@ -397,15 +397,15 @@ in cui $a$, $b$, $c$ e $u$ sono costanti positive. Supponiamo che il volume $V$ 
 
 Il palloncino è collegato a un grande serbatoio di aria mantenuto a una pressione controllabile $P$. Può accadere che alcuni valori di $P$ siano coerenti con più di un valore del volume $V$. Se il palloncino subisce occasionalmente perturbazioni (come lo stretching locale da forze esterne) mentre è tenuto a tale pressione di inflazione, può saltare a uno stato di volume diverso. Questo accadrà quando diventerà energeticamente favorevole per l'intero sistema, composto dal palloncino, dall'atmosfera e dalla macchina che mantiene la pressione $P$. Se la pressione è lentamente aumentata da $P_0$ e ci sono sufficienti perturbazioni ad ogni passo, questo salto di volume esplosivo si verifica a una certa pressione $P_c$ in cui l'energia necessaria per muoversi tra i due stati è zero. Sopra questa pressione, passare dal volume più piccolo al ramo più grande rilascia energia e viceversa. Questo tipo di discontinuità si trova spesso nella natura, e talvolta viene definito una "transizione di fase".
 
-**d. (2,3 punti) ** Considerando l'equazione (2), si ottiene il valore di $P_c$, il volume $V_1$ del palloncino prima del salto e il volume $V_2$ dopo il salto. Esprimere le risposte utilizzando $a$, $b$, $c$ e $u$.
+**d. (2,3 punti)** Considerando l'equazione (2), si ottiene il valore di $P_c$, il volume $V_1$ del palloncino prima del salto e il volume $V_2$ dopo il salto. Esprimere le risposte utilizzando $a$, $b$, $c$ e $u$.
 
 Un agente gonfiante più realistico, come un bambino di compleanno, non è in grado di fornire abbastanza aria per il cambiamento istantaneo del volume descritto sopra. Invece, l'aria viene pompata gradualmente nel palloncino, controllando efficacemente il volume del palloncino piuttosto che la pressione. In questo caso, diventa possibile un nuovo tipo di comportamento. Se contribuisce a ridurre al minimo l'energia totale del sistema, il pallone si dividerà (con sufficienti perturbazioni) in due domini cilindrici di diversi raggi, le cui lunghezze cambieranno gradualmente. Il confine di separazione richiede energia, che potresti trascurare. Non si deve considerare la lunghezza dello strato di confine (queste ipotesi sono valide per un pallone molto lungo).
 
 **e. (1 pt.)** Segnare un grafico qualitativo della differenza di pressione $P - P_0$ come funzione di $V$, tenendo conto della divisione. Indicare sui suoi assi la pressione $P_c - P_0$ e i volumi $V_1$ e $V_2$.
 
-**f. Il palloncino si trova nell'intervallo di volume che supporta due domini coesistenti. Trova la lunghezza $L_{thin}$ del dominio più sottile in funzione del volume totale di aria $V$. Esprimere la risposta in termini di $V_1$, $V_2$ e del raggio $r_1$ del dominio più sottile.
+**f. Il palloncino si trova nell'intervallo di volume che supporta due domini coesistenti. Trova la lunghezza $L_{thin}$ del dominio più sottile in funzione del volume totale di aria $V$. Esprimere la risposta in termini di $V_1$, $V_2$ e del raggio $r_1$ del dominio più sottile.**
 
-**g. (1.2 pts.) ** Il pallone è nell'intervallo di volume che supporta due domini coesistenti. Trova il lavoro latente $\Delta W/\Delta L_{thin}$ che deve essere eseguito sul pallone per convertire una lunghezza unitaria del dominio sottile nel dominio spessore. Esprimere la risposta in termini di $P_c$, $V_1$, $V_2$ e il raggio $r_1$ del dominio più sottile.
+**g. (1.2 pts.)** Il pallone è nell'intervallo di volume che supporta due domini coesistenti. Trova il lavoro latente $\Delta W/\Delta L_{thin}$ che deve essere eseguito sul pallone per convertire una lunghezza unitaria del dominio sottile nel dominio spessore. Esprimere la risposta in termini di $P_c$, $V_1$, $V_2$ e il raggio $r_1$ del dominio più sottile.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10skm8ViZGk_L_nyiA7SvHMa3cMiG8ynE/view)
 

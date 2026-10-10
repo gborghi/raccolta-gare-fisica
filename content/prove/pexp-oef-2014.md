@@ -106,7 +106,7 @@ Construcción del montaje (figura 2):
 
 <div class="qlang-split" data-lang="it"></div>
 
-La prova sperimentale. Diffrazione della luce su un filo.**
+La prova sperimentale. Diffrazione della luce su un filo.
 
 **Introduzione; obiettivo.**
 
@@ -161,7 +161,7 @@ La costruzione dell'assemblaggio (Figura 2):
 7. Collacciate il cartone di supporto del filo con una pinza, in modo che il filo sia verticale.
 8. Inizialmente posizionare il filo a 65 cm dal display ($x = 65\ \text{cm}$) in modo che la luce incida sul filo e si osserva la figura di diffrazione sul display. Aggiusta con attenzione la posizione del filo nel fascio di luce fino a ottenere una figura di diffrazione ben contrastabile e simmetrica rispetto al centro.
 
-**Missioni e domande: **
+**Missioni e domande:**
 
 1) Misura sullo schermo la distanza $Y_m$ tra i minimi simmetrici $+m$ e $-m$, utilizzando il più alto possibile $m$, cioè utilizzando i due minimi simmetrici più lontani dal centro che osserva con precisione. Ripeti la misurazione della stessa $Y_m$ mettendo il filo a distanza decrescente dallo schermo fino a $x_{\min} = 30\ \text{cm}$. Nota i valori di $x$ e $Y_m$ in una tabella, indicando chiaramente il valore di $m$ utilizzato.
 

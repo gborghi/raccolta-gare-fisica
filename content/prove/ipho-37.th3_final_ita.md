@@ -219,7 +219,7 @@ Un uovo (raggio $R = 2.5$ cm, conducibilità termica $\kappa = 0.64$ W K$^{-1}$ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A hard (seag) egg **
+**A hard (seag) egg**
 
 An egg (radius $R = 2.5$ cm, thermal conductivity $\kappa = 0.64$ W K$^{-1}$ m$^{-1}$) is immersed in water at $T_w = 100\,°\text{C}$. One can use the simplified form of Fourier's law: $\dot{q} = \kappa\,\Delta T / \Delta x$, where $\Delta T$ is the temperature difference associated with the typical length of scale $\Delta x$ of the problem. The heat flow $\dot{q}$ is expressed in W m$^{-2}$.
 
@@ -254,7 +254,7 @@ Un uovo (raggio $R = 2.5$ cm) è immerso in acqua a $T_w = 100\,°\text{C}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A hard (seag) egg **
+**A hard (seag) egg**
 
 An egg (radius $R = 2.5$ cm) is immersed in water at $T_w = 100\,°\text{C}$.
 
@@ -289,7 +289,7 @@ Un uovo, preso dal frigorifero a $T_0 = 4\,°\text{C}$, è immerso in acqua a $T
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A hard (seag) egg **
+**A hard (seag) egg**
 
 An egg taken from the refrigerator at $T_0 = 4\,°\text{C}$ is immersed in water at $T_w = 100\,°\text{C}$. The coagulation energy $E$ (calculated in 3.5) and the thermal power $P$ (calculated in 3.7) are known.
 
@@ -383,7 +383,7 @@ The following table shows the results of the evaluation:
 
 The same conditions as in problem 3.9 (lightning between clouds at $h = 1$ km and ground, simplified current-time curve).
 
-**3.10 ** (0.5 pt) What is the mean electric current $\langle I \rangle$ passing between the base of the cloud and the ground during lightning?
+**3.10** (0.5 pt) What is the mean electric current $\langle I \rangle$ passing between the base of the cloud and the ground during lightning?
 
 **Topic:** [[Electrostatics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -418,7 +418,7 @@ The following table shows the results of the evaluation:
 
 The same conditions and data as in problem 3.9.
 
-**3.11 ** (1.0 pt) Assume that the energy of all storms that occur in a year is collected and equally distributed among the entire population ($6.5 \times 10^9$ people). How long can you keep a 100W light bulb on continuously with your own power share?
+**3.11** (1.0 pt) Assume that the energy of all storms that occur in a year is collected and equally distributed among the entire population ($6.5 \times 10^9$ people). How long can you keep a 100W light bulb on continuously with your own power share?
 
 **Topic:** [[Electrostatics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Electric Potential Method (metodo)|Electric Potential Method]]

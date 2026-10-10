@@ -58,11 +58,11 @@ La forza di marea su un oggetto di massa $m$ in una determinata posizione della 
 
 Per il sistema TerraLuna, consideriamo la Terra (radio $R_T$ e massa $M_T$) e la Luna (radio $R_L$ e massa $M_L$) immobili e non rotanti nello spazio, i loro centri separati da una distanza $D_{TL}$.
 
-**a) ** Descrivi la forza di marea causata dalla Luna nei punti $P$, $Q$ e $S$ indicando la sua direzione e direzione.
+**a)** Descrivi la forza di marea causata dalla Luna nei punti $P$, $Q$ e $S$ indicando la sua direzione e direzione.
 
-**b) ** Considerando che $D_{TL} \gg R_T$, si ottiene un'espressione approssimativa del valore della forza di marea nei tre punti di (a).
+**b)** Considerando che $D_{TL} \gg R_T$, si ottiene un'espressione approssimativa del valore della forza di marea nei tre punti di (a).
 
-**c) ** Scrivi l'espressione analoga a quella del paragrafo precedente per la forza di marea causata dal Sole al punto $P$ della Terra, considerando che la distanza della Terra dal Sole è $D_{TS} \gg R_T$.
+**c)** Scrivi l'espressione analoga a quella del paragrafo precedente per la forza di marea causata dal Sole al punto $P$ della Terra, considerando che la distanza della Terra dal Sole è $D_{TS} \gg R_T$.
 
 Da ora in poi usa i seguenti valori numerici:
 
@@ -70,11 +70,11 @@ $$R_T = 6.37 \times 10^6 \text{ m}, \quad M_T = 5.98 \times 10^{24} \text{ kg}, 
 
 $$D_{TL} = 3.84 \times 10^8 \text{ m}, \quad D_{TS} = 1.50 \times 10^{11} \text{ m}$$
 
-**d) ** Per il punto $P$ calcola il rapporto tra le forze di marea ottenute nei paragrafi (b) e (c). Che conclusione hai?
+**d)** Per il punto $P$ calcola il rapporto tra le forze di marea ottenute nei paragrafi (b) e (c). Che conclusione hai?
 
-**e) ** Per il punto $P$ calcola il rapporto tra la forza di marea ottenuta al punto (b) e la forza di attrazione esercitata dalla Terra su una massa $m$ situata sulla sua superficie. Che conclusione hai?
+**e)** Per il punto $P$ calcola il rapporto tra la forza di marea ottenuta al punto (b) e la forza di attrazione esercitata dalla Terra su una massa $m$ situata sulla sua superficie. Che conclusione hai?
 
-**f) ** Con le informazioni ottenute nei paragrafi precedenti, disegna la forza di marea netta nei punti 1 e 2 per il sistema TerraSolLuna, indicando la sua direzione e direzione. In quale dei due punti avrà maggiore magnitudo?
+**f)** Con le informazioni ottenute nei paragrafi precedenti, disegna la forza di marea netta nei punti 1 e 2 per il sistema TerraSolLuna, indicando la sua direzione e direzione. In quale dei due punti avrà maggiore magnitudo?
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -84,7 +84,7 @@ $$D_{TL} = 3.84 \times 10^8 \text{ m}, \quad D_{TS} = 1.50 \times 10^{11} \text{
 
 <div class="qlang-split" data-lang="en"></div>
 
-The source of the tidal force ** (4 points)
+The source of the tidal force  (4 points)
 
 The origin of tides is that the Earth is an extensive body and the gravitational field produced by the Moon or the Sun is not uniform at all points, as some are closer and others are further away from such celestial bodies.
 
@@ -92,11 +92,11 @@ The tidal force on an object of mass $m$ at a given position on the Earth's surf
 
 For the EarthMoon system, consider the Earth (radio $R_T$ and mass $M_T$) and the Moon (radio $R_L$ and mass $M_L$) motionless and not rotating in space, their centers being separated by a distance $D_{TL}$.
 
-**a) ** Draw the tidal force caused by the Moon at the points $P$, $Q$ and $S$ indicating its direction and direction.
+**a)** Draw the tidal force caused by the Moon at the points $P$, $Q$ and $S$ indicating its direction and direction.
 
-**b) ** Given that $D_{TL} \gg R_T$, obtain an approximate expression for the value of the tidal force in the three points of subparagraph (a).
+**b)** Given that $D_{TL} \gg R_T$, obtain an approximate expression for the value of the tidal force in the three points of subparagraph (a).
 
-**c) ** Write the expression similar to that of the previous paragraph for the tidal force caused by the Sun at the point $P$ of the Earth, taking into account that the distance from the Earth to the Sun is $D_{TS} \gg R_T$.
+**c)** Write the expression similar to that of the previous paragraph for the tidal force caused by the Sun at the point $P$ of the Earth, taking into account that the distance from the Earth to the Sun is $D_{TS} \gg R_T$.
 
 From now on, use the following numerical values:
 
@@ -104,11 +104,11 @@ $$R_T = 6.37 \times 10^6 \text{ m}, \quad M_T = 5.98 \times 10^{24} \text{ kg}, 
 
 $$D_{TL} = 3.84 \times 10^8 \text{ m}, \quad D_{TS} = 1.50 \times 10^{11} \text{ m}$$
 
-**d) ** For $P$, calculate the ratio of the tidal forces obtained in paragraphs (b) and (c). What conclusion do you draw?
+**d)** For $P$, calculate the ratio of the tidal forces obtained in paragraphs (b) and (c). What conclusion do you draw?
 
-**e) ** For $P$, calculate the ratio between the tidal force obtained in paragraph (b) and the gravitational force exerted by the Earth on a mass $m$ situated on its surface. What conclusion do you draw?
+**e)** For $P$, calculate the ratio between the tidal force obtained in paragraph (b) and the gravitational force exerted by the Earth on a mass $m$ situated on its surface. What conclusion do you draw?
 
-**f) ** Draw the net tidal force in points 1 and 2 for the EarthSolLunar system with the information obtained in the preceding paragraphs, indicating its direction and direction. Which of the two points will have the greatest magnitude?
+**f)** Draw the net tidal force in points 1 and 2 for the EarthSolLunar system with the information obtained in the preceding paragraphs, indicating its direction and direction. Which of the two points will have the greatest magnitude?
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -157,21 +157,21 @@ Otra partícula con la misma masa, pero con carga desconocida, entra en la regi�
 
 Un carico elettrico negativo di valore $-q$ e massa $m$ con velocità orizzontale $v$ ad un'altezza $3d$ dell'origine delle coordinate (punto $P$), viene lanciato verso una regione (zona ombrosa) in cui esiste un campo elettrico $E$ uniforme nella direzione $+y$. Ignorando gli effetti della gravità:
 
-**a) ** Che tipo di movimento descrive la carica elettrica in presenza del campo elettrico?
+**a)** Che tipo di movimento descrive la carica elettrica in presenza del campo elettrico?
 
-**b) ** Stabilisce i rapporti tra le variabili cinematografiche posizione, velocità e accelerazione rispetto al tempo: $x(t)$, $y(t)$, $v_x(t)$, $v_y(t)$, $a_x(t)$, $a_y(t)$ in questa regione.
+**b)** Stabilisce i rapporti tra le variabili cinematografiche posizione, velocità e accelerazione rispetto al tempo: $x(t)$, $y(t)$, $v_x(t)$, $v_y(t)$, $a_x(t)$, $a_y(t)$ in questa regione.
 
 Dopo aver attraversato la zona con campo elettrico, la carica viene scesa da essa ad un'altezza $2d$ del suolo.
 
-**c) ** Esprime il campo elettrico $E$ in funzione di $q$, $m$, $v$ e $d$.
+**c)** Esprime il campo elettrico $E$ in funzione di $q$, $m$, $v$ e $d$.
 
 Da quel momento in poi, e ancora una volta disprezzando la gravità, la carica porta un movimento uniforme.
 
-**d) ** A che distanza dall'origine (punto $O$) si impatta sul suolo (punto $Q$)?
+**d)** A che distanza dall'origine (punto $O$) si impatta sul suolo (punto $Q$)?
 
 Un'altra particella con la stessa massa, ma con carica sconosciuta, entra nella regione di campo elettrico per lo stesso punto $P$ e con la stessa velocità della prima. Se si desidera che tale particella colpisca il suolo a una distanza $3d$ dall'origine, e senza necessità di avere ulteriori dati:
 
-**e) ** Qual è il valore di carico di questa seconda particella rispetto alla prima?
+**e)** Qual è il valore di carico di questa seconda particella rispetto alla prima?
 
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
@@ -185,21 +185,21 @@ The following table shows the calculation of the electrical load:
 
 A negative electric charge of $-q$ and mass $m$ with horizontal speed $v$ at a height $3d$ of the coordinate source (point $P$) is thrown into a region (shading zone) in which a uniform electric field $E$ exists in the direction $+y$. Ignoring the effects of gravity:
 
-**a) ** What kind of motion describes the electric charge in the presence of the electric field?
+**a)** What kind of motion describes the electric charge in the presence of the electric field?
 
-**b) ** Establishes the relationships of the kinematic variables position, speed and acceleration with respect to time: $x(t)$, $y(t)$, $v_x(t)$, $v_y(t)$, $a_x(t)$, $a_y(t)$ in this region.
+**b)** Establishes the relationships of the kinematic variables position, speed and acceleration with respect to time: $x(t)$, $y(t)$, $v_x(t)$, $v_y(t)$, $a_x(t)$, $a_y(t)$ in this region.
 
 After crossing the area with an electric field, the charge leaves it at a height $2d$ from the ground.
 
-**c) ** Expresses the electric field $E$ in terms of $q$, $m$, $v$ and $d$.
+**c)** Expresses the electric field $E$ in terms of $q$, $m$, $v$ and $d$.
 
 From that moment on, and again disregarding gravity, the charge carries a uniform motion.
 
-**d) ** How far from the source (point $O$) does it impact the soil (point $Q$)?
+**d)** How far from the source (point $O$) does it impact the soil (point $Q$)?
 
 Another particle with the same mass but with an unknown charge enters the electric field region at the same point $P$ and at the same speed as the first. If the particle is to be impacted on the soil at a distance $3d$ from the source, and without further data being available:
 
-**e) ** What is the charge value of this second particle with respect to the first?
+**e)** What is the charge value of this second particle with respect to the first?
 
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
@@ -262,15 +262,15 @@ In un esperimento si intende determinare la tensione superficiale di un liquido 
 |----------|------|------|------|------|------|------|------|
 | $h$ (mm) | 10.4 | 9.22 | 8.03 | 6.00 | 4.62 | 3.81 | 3.01 |
 
-**Questioni: **
+**Questioni:**
 
-**a) ** A partire da $r$, ridefini una variabile $z$ in modo che $h$ dipenda linealmente da essa. Costruisce la tabella corrispondente $(h, z)$.
+**a)** A partire da $r$, ridefini una variabile $z$ in modo che $h$ dipenda linealmente da essa. Costruisce la tabella corrispondente $(h, z)$.
 
-**b) ** Fa l'analisi grafica dei dati ottenuti e ottiene la retta regressione di $h$ rispetto a $z$.
+**b)** Fa l'analisi grafica dei dati ottenuti e ottiene la retta regressione di $h$ rispetto a $z$.
 
-**c) ** Compara l'equazione della retta di regressione con l'espressione della legge di Jurin. Determina il valore della tensione superficiale $\gamma$, insieme ai suoi margini di errore. Esprime i risultati in unità del Sistema Internazionale.
+**c)** Compara l'equazione della retta di regressione con l'espressione della legge di Jurin. Determina il valore della tensione superficiale $\gamma$, insieme ai suoi margini di errore. Esprime i risultati in unità del Sistema Internazionale.
 
-**d) ** Usando i valori ottenuti dall'aggiustamento, predice il valore di altezza per un capillario radio $r = 1.11 \ \text{mm}$.
+**d)** Usando i valori ottenuti dall'aggiustamento, predice il valore di altezza per un capillario radio $r = 1.11 \ \text{mm}$.
 
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]

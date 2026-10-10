@@ -133,7 +133,7 @@ dove $\ell$ è la posizione della persona lungo la scala (misurata dal piede), $
 
 4. Spostare la scheda mettendo il lato **acero** in alto e ripetere la procedura ottenendo altri quattro coppie $(x_{0i},\, y_{0i})$.
 
-**Dati forniti: **
+**Dati forniti:**
 
 # Grandezza # Valore #
 |---|---|
@@ -146,7 +146,7 @@ dove $\ell$ è la posizione della persona lungo la scala (misurata dal piede), $
 
 **Processo sperimentale II:**
 
-Con la ruola ** appesa ** sulla "scala" dal gancio (invece di presa a nastro crepe), ripetere la procedura I per i quattro fori, utilizzando solo il lato liscio **** della base come "piano". Per ogni forato, registrare i valori $x_0$ e $y_0$.
+Con la ruola **appesa** sulla "scala" dal gancio (invece di presa a nastro crepe), ripetere la procedura I per i quattro fori, utilizzando solo il lato liscio **** della base come "piano". Per ogni forato, registrare i valori $x_0$ e $y_0$.
 
 ---
 
@@ -160,7 +160,7 @@ Con i dati sperimentali raccolti ($x_{0i}$, $y_{0i}$, $\ell_i$, $L$, $M$, $m$), 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Descending staircase against the wall **
+**Descending staircase against the wall**
 
 *(Prova Experimental para alunos do 2º ano — duração: 2 h 30 min)*
 
@@ -203,7 +203,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 3. Repeat to the bottom three holes, obtaining four pairs $(x_{0i},\, y_{0i})$ with the smooth side.
 
-4. Turn the plate by placing the **sharp side ** upwards and repeat the procedure, obtaining four more pairs $(x_{0i},\, y_{0i})$.
+4. Turn the plate by placing the **sharp side** upwards and repeat the procedure, obtaining four more pairs $(x_{0i},\, y_{0i})$.
 
 **Data provided:**
 
@@ -218,7 +218,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 **Experimental procedure II:**
 
-With the **rule hanging ** on the "staircase" by the hook (instead of a crepe-tape grip), repeat Procedure I for the four holes, using only the ** smooth ** side of the base as the "floor". For each hole, record the values of $x_0$ and $y_0$.
+With the **rule hanging** on the "staircase" by the hook (instead of a crepe-tape grip), repeat Procedure I for the four holes, using only the **smooth** side of the base as the "floor". For each hole, record the values of $x_0$ and $y_0$.
 
 ---
 

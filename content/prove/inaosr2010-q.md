@@ -411,7 +411,7 @@ If we throw a ball in a shallow water tank, propagation velocity of ripples on t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (scelta multipla, 4 Q × 5 punti ciascuno  qualsiasi numero di alternative può essere corretto) ** [5]
+**Sezione B (scelta multipla, 4 Q × 5 punti ciascuno  qualsiasi numero di alternative può essere corretto)** [5]
 
 Se lanciamo una palla in un serbatoio di acqua poco profonda, la velocità di propagazione delle onde sulla superficie dell'acqua dipenderà da
 
@@ -571,7 +571,7 @@ An alien civilisation on a star far far away came to know about the Astronomy Ol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione C (domande analitiche, 50 punti totali) **
+**Sezione C (domande analitiche, 50 punti totali)**
 
 Una civiltà aliena su una stella lontana ha saputo dell'esame di Olimpiada Astronomica e ha voluto testare l'intelligenza degli studenti. Hanno inviato i seguenti due messaggi segreti codificati. - Li decodifichi.
 

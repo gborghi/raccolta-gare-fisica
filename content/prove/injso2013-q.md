@@ -2081,7 +2081,7 @@ Estimate the order of magnitude of the pressure in $\text{N/m}^2$ exerted on the
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (fisica analitica) **
+**Sezione B (fisica analitica)**
 
 Estimare l'ordine di grandezza della pressione in $\text{N/m}^2$ esercitata sulla Terra da un essere umano medio adulto quando si trova a piedi nudi su entrambe le gambe.
 
@@ -2868,7 +2868,7 @@ Considerate le seguenti affermazioni.
 I. In posizione (1), la distanza verticale dalla superficie del liquido alla parte inferiore del blocco è $m/h^2\rho$.
 II. Dopo la rimozione della forza F, la velocità verso l'alto del blocco aumenta continuamente fino a raggiungere la posizione (1).
 III. Il Durante il movimento verso l'alto, dopo la posizione di attraversamento (1), la velocità del blocco continua a diminuire.
-IV. Durante il movimento verso l'alto, dalla posizione (2), la velocità del blocco aumenta **linearmente ** fino a raggiungere la posizione (1).
+IV. Durante il movimento verso l'alto, dalla posizione (2), la velocità del blocco aumenta **linearmente** fino a raggiungere la posizione (1).
 
 Quali delle affermazioni sopra esposte sono corrette?
 

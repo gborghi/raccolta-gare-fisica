@@ -409,7 +409,7 @@ Una montagna russa è piena di acqua e si muove a velocità costante lungo un or
 - La pista. Qualcuno toglie un tappo nel fondo del pavimento, permettendo all'acqua di scorrere. Ignorare l'aria
 resistenza, come l'acqua drena fuori la macchina:
 - **A.** rallenta.
-- ** B.** continua a muoversi a velocità costante.
+- **B.** continua a muoversi a velocità costante.
 - **C.** accelerazione.
 - **D.** inizialmente rallenta, poi accelera.
 - **E.** iniziale accelerare, poi rallentare.

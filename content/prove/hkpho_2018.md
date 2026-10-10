@@ -1398,9 +1398,9 @@ Un oggetto di massa $m$ è inizialmente a riposo a una distanza $H$ sopra il suo
 
 La parte inferiore della pista è circolare e ha un raggio $R$. Si presume che tutte le forze di attrito possano essere ignorate.
 
-**(a) ** Trova l'altezza iniziale critica $H_c$ al di sotto della quale l'oggetto non può completare l'intero viaggio lungo la pista circolare.
+**(a)** Trova l'altezza iniziale critica $H_c$ al di sotto della quale l'oggetto non può completare l'intero viaggio lungo la pista circolare.
 
-**(b) ** Quando $H < H_c$, l'oggetto lascerà la traccia in un certo punto. Trova $H$ in modo che l'oggetto colpisca il centro del cerchio dopo aver lasciato la pista.
+**(b)** Quando $H < H_c$, l'oggetto lascerà la traccia in un certo punto. Trova $H$ in modo che l'oggetto colpisca il centro del cerchio dopo aver lasciato la pista.
 
 <!--fig:start-->
 ![[HKPhO_2018_p22_f2.png]]
@@ -1450,9 +1450,9 @@ Un satellite artificiale cade sulla Terra a causa di un guasto. Durante l'ultima
 *Geometria: il satellite è a distanza $r$ dal punto di lancio, muovendosi con velocità $v$ all'angolo $\alpha$ al di sotto dell'orizzontale; il proiettile viene lanciato dall'origine con velocità $u$ all'angolo $\theta$, mentre $\beta$ è l'angolo della linea di visione verso il satellite.*
 <!--fig:end-->
 
-**(a) ** Se $r = 3\ \text{km}$, $\beta = 60^\circ$, $v = 500\ \text{m s}^{-1}$, $\alpha = 30^\circ$, si trova il tempo $T$ necessario per il satellite per colpire il terreno se non è stato colpito dal proiettile.
+**(a)** Se $r = 3\ \text{km}$, $\beta = 60^\circ$, $v = 500\ \text{m s}^{-1}$, $\alpha = 30^\circ$, si trova il tempo $T$ necessario per il satellite per colpire il terreno se non è stato colpito dal proiettile.
 
-**(b) ** Trova il valore minimo di $u$ e l'angolo di lancio corrispondente $\theta$ in modo che il proiettile possa colpire il satellite prima di colpire il terreno.
+**(b)** Trova il valore minimo di $u$ e l'angolo di lancio corrispondente $\theta$ in modo che il proiettile possa colpire il satellite prima di colpire il terreno.
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 
@@ -1497,9 +1497,9 @@ La superficie orizzontale liscia è caratterizzata da una casella A di lunghezza
 *Box A di lunghezza $L$ su una superficie liscia, con blocco B (dimensione trascurabile) inizialmente al centro di A che si muove a destra con velocità $v_0$.*
 <!--fig:end-->
 
-**(a) ** Quante collisioni si verificano tra le pareti della casella A e del blocco B?
+**(a)** Quante collisioni si verificano tra le pareti della casella A e del blocco B?
 
-**(b) ** Qual è il spostamento orizzontale della casella A dal momento iniziale al momento in cui il blocco B ha appena raggiunto la posizione relativamente stazionaria all'interno della casella?
+**(b)** Qual è il spostamento orizzontale della casella A dal momento iniziale al momento in cui il blocco B ha appena raggiunto la posizione relativamente stazionaria all'interno della casella?
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 
@@ -1538,9 +1538,9 @@ Supponiamo che ci siano due particelle puntate A e B nello spazio con masse $m$ 
 
 Se $v_0 < \sqrt{\dfrac{2GM}{l_0}}$, qual è la magnitudine della forza esterna $F$ quando la separazione tra A e B è massima. (Signore: si deve considerare il quadro di riferimento di inerzia dove B è a riposo.)
 
-**(b) ** Calcolare il lavoro totale svolto dalla forza esterna $F$ dall'inizio fino al momento in cui due particelle sono separate al massimo.
+**(b)** Calcolare il lavoro totale svolto dalla forza esterna $F$ dall'inizio fino al momento in cui due particelle sono separate al massimo.
 
-**(c) ** Se $v_0 > \sqrt{\dfrac{2GM}{l_0}}$, calcolare il lavoro totale svolto dalla forza esterna $F$ dall'inizio fino al momento in cui due particelle sono separate al massimo.
+**(c)** Se $v_0 > \sqrt{\dfrac{2GM}{l_0}}$, calcolare il lavoro totale svolto dalla forza esterna $F$ dall'inizio fino al momento in cui due particelle sono separate al massimo.
 
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
 

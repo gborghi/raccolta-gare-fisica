@@ -34,7 +34,7 @@ One of the major challenges in creating "Dolly" the first cloned organism/animal
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione I (MCQ corretto unico) **
+**Sezione I (MCQ corretto unico)**
 
 Una delle principali sfide nella creazione di "Dolly", il primo organismo/animale clonato, fu il processo di creazione di un uovo enucleato (nucleo rimosso), poiché la rimozione artificiale del nucleo danneggiò la cellula di uovo. La clonazione di Dolly nel 1996 è stata realizzata inserendo il nucleo di una cellula epiteliale mammaria, proprio in una cellula di uovo nucleata. Se dovessi scegliere di attivare un meccanismo molecolare di enucleamento naturale in una cellula di uovo, quale del seguente tipo di cellula studierai per imitare il meccanismo?
 
@@ -730,7 +730,7 @@ Consider the two pyramids shown below and from the options, identify what they w
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione II (Multiplici MCQ corretti) **
+**Sezione II (Multiplici MCQ corretti)**
 
 La catena alimentare e la rete alimentare degli ecosistemi 1 e 2 sono rappresentate di seguito.
 
@@ -1192,7 +1192,7 @@ Based on this and the experiments above, which of the following statements is/ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione III (Descrizionale) **
+**Sezione III (Descrizionale)**
 
 [8] Quattro ciotole di latte sono state incubate a temperatura ambiente in diverse condizioni (sistematica sotto  sia latte bollito che non bollito è stato mescolato e incubato con un pezzo maturo di tamarind O un cucchiaino pieno di gomito). I risultati della formazione di caramelle dopo 20 ore sono riportati in tabella seguente, dove sono riportate diverse caratteristiche (più è il numero di segni '+', meglio è la fermezza della formazione di caramelle, rancido = gusto sgradevole/vecchio):
 
@@ -1294,9 +1294,9 @@ Sulla base di questo e degli esperimenti precedenti, quale delle seguenti afferm
 
 [8] Gli effetti che gli organismi di una comunità hanno l'uno sull'altro sono chiamati interazioni ecologiche. Esistono diversi tipi di interazioni ecologiche in base ai tipi di relazioni tra le stesse specie (interazioni specifiche) o diverse specie (interazioni specifiche). Considerate le seguenti situazioni:
 
-**Situzione I: ** Il bufalo africano si nutre delle erbe che crescono nelle Savannas. La pelle del bufalo è infestata da zecche. Gli uccelli di scuro cavalcano il bufalo e si nutrono delle zecche. Mentre pascola, questo grosso mammifero distrugge inconsapevolmente gli insetti e i loro nidi presenti sul terreno. Questi insetti che volano intorno dopo essere stati disturbati vengono mangiati dagli uccelli di coccoli nelle vicinanze.
+**Situzione I:** Il bufalo africano si nutre delle erbe che crescono nelle Savannas. La pelle del bufalo è infestata da zecche. Gli uccelli di scuro cavalcano il bufalo e si nutrono delle zecche. Mentre pascola, questo grosso mammifero distrugge inconsapevolmente gli insetti e i loro nidi presenti sul terreno. Questi insetti che volano intorno dopo essere stati disturbati vengono mangiati dagli uccelli di coccoli nelle vicinanze.
 
-**Situzione II: ** Carnivori come i lupi legnosi cacciano e uccidono mammiferi erbivori. Gli orsi grizzliani nelle vicinanze tentano di prendere il sopravvento della preda/uccisione del lupo.
+**Situzione II:** Carnivori come i lupi legnosi cacciano e uccidono mammiferi erbivori. Gli orsi grizzliani nelle vicinanze tentano di prendere il sopravvento della preda/uccisione del lupo.
 
 Situazione III: Alcuni tipi di acari deterioratori che devono nutrirsi di sterco ma non possono volare alla ricerca di sterco fresco si attaccano ai corpi di scarafaggi di sterco che non solo sono bravi a volare ma sono anche bravi a localizzare sterco fresco.
 

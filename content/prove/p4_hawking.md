@@ -61,7 +61,7 @@ Oggi, esattamente un mese fa, il 14 marzo 2018, è morto Stephen Hawking. Era un
 
 Considereremo in tutto il problema un buco nero di massa uguale a quello del pianeta Terra.
 
-**Dati: ** $G = 6{,}67 \times 10^{-11}$ [S.I.]; $M_T = 5{,}97 \times 10^{24}$ kg.
+**Dati:** $G = 6{,}67 \times 10^{-11}$ [S.I.]; $M_T = 5{,}97 \times 10^{24}$ kg.
 
 La dimensione di un buco nero può essere caratterizzata dal raggio di Schwarzschild, che è il raggio della superficie sferica che delimita la regione dalla quale la luce non può sfuggire.
 

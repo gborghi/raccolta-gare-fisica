@@ -843,7 +843,7 @@ The output on track A has the same curvature as the depression on track B. From 
 preserved.
 
 - The ball A.
-- MSK1/>C ** Both take the same time.
+- MSK1/>C  Both take the same time.
 - **D.** A ball B;
 
 (e) In curved sections, A and B have the same

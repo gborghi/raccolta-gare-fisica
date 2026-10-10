@@ -73,12 +73,12 @@ which is a dimensionless number between 0 and 1.
 I motori ad induzione (o asincroni) sono i motori elettrici più semplici e affidabili. Sono alimentate da corrente alternata e non contengono commutatori, anelli di scivolamento o spazzole. Sono costituiti da statore e rotore (cfr. figura 1. 1). Lo statore è un insieme fisso di bobine che produce un campo magnetico rotante nel piano perpendicolare all'asse del motore. Il rotore è solo una gabbia, cioè un insieme di circuiti metallici chiusi attaccati all'asse del motore. Il campo magnetico rotante prodotto dallo statore induce corrente elettrica nei circuiti della gabbia, che si comportano come dipoli magnetici e interagiscono con il campo esterno dello statore. Di conseguenza, viene esercitato un coppia sul rotore e comincia a girare.
 
 ![[WoPhO_2013_Q1_p1_f1.png]]
-**Figura 1: ** La struttura di un motore ad induzione.
+**Figura 1:** La struttura di un motore ad induzione.
 
 In un modello semplificato (cfr. figura 2) supponiamo che il vettore di induzione magnetica $\mathbf{B}$ prodotto dallo statore ruota nel piano $x$–$y$ a una velocità angolare costante $\Omega$, e abbia una magnitudine costante $B$. L'asse del rotore è nella direzione $z$. Si presume che il rotore sia una bobina piatta di superficie $A$, numero di avvolgimento $N$, resistenza ohmica $R$ e auto-induzione $L$. Il vettore $\mathbf{n}$ perpendicolare a questa bobina ruota anche nel piano $x$–$y$.
 
 ![[WoPhO_2013_Q1_p1_f2.png]]
-**Figura 2: ** Il modello semplificato, visto dall'asse $z$.
+**Figura 2:** Il modello semplificato, visto dall'asse $z$.
 
 **operazione stazionaria**
 
@@ -184,7 +184,7 @@ Now assume that the two-ball body is at rest on the inclined plane such that the
 Due sfere uniformi 1 e 2 di radii $R_1 = 2.00$ cm e $R_2 = 4.00$ cm sono realizzate rispettivamente dallo stesso materiale della densità di massa $\rho = 1.50 \times 10^3\ \text{kg/m}^3$. Sono strettamente incollati insieme per formare un corpo rigido come mostrato alla figura 1. In questo problema dovrete studiare vari tipi di movimenti di quel corpo rigido chiamato corpo a due palle.
 
 ![[WoPhO_2013_Q2_p1_f1.png]]
-**Figura 1: ** Corpo a due palle riposato sulla superficie piatta orizzontale.
+**Figura 1:** Corpo a due palle riposato sulla superficie piatta orizzontale.
 
 **parte A**
 
@@ -196,23 +196,23 @@ Due sfere uniformi 1 e 2 di radii $R_1 = 2.00$ cm e $R_2 = 4.00$ cm sono realizz
 
 > **Avvertimento!** Per risolvere le seguenti parti di questo problema è desiderabile derivare risposte analitiche alle domande. Per semplificare l'espressione, utilizzare $r \equiv R_1/R_2$. Tuttavia, se questo è difficile, è possibile calcolare e fornire valori numerici solo per ogni passo della soluzione.
 
-**Parte B **
+**Parte B**
 
 Il corpo a due palle deve essere posizionato sulla superficie orizzontale piatta come mostrato alla figura 2. La palla più piccola è proprio sotto quella più grande in modo tale che la linea che collega i centri delle due palle è rigorosamente perpendicolare alla superficie. È ovvio che una tale posizione di equilibrio è instabile e una svolta casuale insignificante metterà il corpo a due palle in movimento a causa della gravità la cui accelerazione è $g = 9.80\ \text{m/s}^2$.
 
 ![[WoPhO_2013_Q2_p2_f2.png]]
-**Figura 2: ** Pozizione iniziale del corpo a due palle per la parte B.
+**Figura 2:** Pozizione iniziale del corpo a due palle per la parte B.
 
 **B1** Supponiamo che l'attrito tra la palla inferiore e la superficie sia così forte che non ci sia sempre scivolamento. Trova le velocità dei centri delle palle nel momento giusto prima che la palla più grande colpisca il terreno. Disegna uno schema con le velocità raffigurate dei centri delle palle. *(1,5 punti) *
 
-** B2 ** Supponiamo ora che non ci sia affrettamento tra la sfera inferiore e la superficie. Trova le velocità dei centri delle palle nel momento giusto prima che la palla più grande colpisca il terreno. Disegna uno schema con le velocità raffigurate dei centri delle palle. *(2,5 punti) *
+**B2** Supponiamo ora che non ci sia affrettamento tra la sfera inferiore e la superficie. Trova le velocità dei centri delle palle nel momento giusto prima che la palla più grande colpisca il terreno. Disegna uno schema con le velocità raffigurate dei centri delle palle. *(2,5 punti) *
 
-**Parte C **
+**Parte C**
 
 Il corpo a due palle deve essere posizionato su un piano inclinato fissato ad un angolo $\alpha = 30^\circ$ contro l'orizzontale. Al momento iniziale, la linea che collega le palle che toccano i punti della superficie è esattamente parallela al bordo inferiore del piano inclinato come mostrato alla figura 3. In questa parte si presume che l'attrito tra le palle e la superficie sia così forte che non ci sia scivolamento in ogni momento. Il corpo a due palle viene rilasciato.
 
 ![[WoPhO_2013_Q2_p3_f3.png]]
-**Figura 3: ** Pozizione iniziale del corpo a due palle per le parti C1-C2.
+**Figura 3:** Pozizione iniziale del corpo a due palle per le parti C1-C2.
 
 **C1** Trova le velocità massime dei centri delle palle. *(2,0 punti) *
 
@@ -221,7 +221,7 @@ Il corpo a due palle deve essere posizionato su un piano inclinato fissato ad un
 Ora supponiamo che il corpo a due palle sia a riposo sul piano inclinato in modo tale che la linea che collega i punti di tocco delle palle con la superficie sia esattamente perpendicolare al bordo inferiore del piano inclinato come mostrato nella Figura 4.
 
 ![[WoPhO_2013_Q2_p3_f4.png]]
-**Figura 4: ** Pozizione di equilibrio iniziale del corpo a due palle per la parte C3.
+**Figura 4:** Pozizione di equilibrio iniziale del corpo a due palle per la parte C3.
 
 **C3** Trova la frequenza angolare delle piccole oscillazioni del corpo a due palle attorno alla posizione di equilibrio mostrata nella figura 4. *(0,8 punti) *
 
@@ -312,27 +312,27 @@ $$
 $$
 dove $u_r$ e $u_\lambda$ sono vettori unitari che puntano rispettivamente verso le direzioni radial e polare, con simmetria azimutare. Tuttavia, ai nostri fini sarà utile esprimere il valore del modulo di campo lungo una delle linee di campo. Queste linee seguono l'equazione $r = r_{Eq}\cos^2\lambda$ dove $r_{Eq}$ è la distanza dalla linea al centro della Terra all'equatore. Inoltre, la distanza $r_{Eq}$ può essere espressa anche come funzione del parametro $L = \dfrac{r_{Eq}}{R_E}$. Con questa notazione, possiamo identificare una linea di campo con il parametro $L$.
 
-**(a) ** Determina il modulo del campo magnetico $B$ lungo una linea di campo come funzione delle variabili $\lambda$ e $L$. Il campo magnetico della superficie terrestre all'equatore è $B_E$. *(1,5 punti) *
+**(a)** Determina il modulo del campo magnetico $B$ lungo una linea di campo come funzione delle variabili $\lambda$ e $L$. Il campo magnetico della superficie terrestre all'equatore è $B_E$. *(1,5 punti) *
 
-**(b) ** Calcolare la girofrequenza $\omega_g$ e il giroradio $r_g$ del percorso dei protoni intorno a una linea di campo come funzione di $\alpha$, $\lambda$, $L$ e la sua energia cinetica $W$. *(2,0 punti) *
+**(b)** Calcolare la girofrequenza $\omega_g$ e il giroradio $r_g$ del percorso dei protoni intorno a una linea di campo come funzione di $\alpha$, $\lambda$, $L$ e la sua energia cinetica $W$. *(2,0 punti) *
 
 ### 2. Punti specchi
 
 Quando un protone ruota intorno a una linea di campo genera un momento magnetico che rimane costante lungo il suo percorso. Quando il protone raggiunge una certa latitudine $\lambda_m$ la velocità parallela diventa zero e la particella inizia il suo percorso verso l'indietro. Questa latitudine è conosciuta come il punto specchio.
 
-**(a) ** Determina il momento magnetico $\mu$ creato da un protone quando ruota attorno a una linea di campo magnetico come funzione di $L$, $W$ e l'angolo di ritiro di una particella all'equatore $\alpha_{Eq}$. *(0,8 punti) *
+**(a)** Determina il momento magnetico $\mu$ creato da un protone quando ruota attorno a una linea di campo magnetico come funzione di $L$, $W$ e l'angolo di ritiro di una particella all'equatore $\alpha_{Eq}$. *(0,8 punti) *
 
-**(b) ** Determina la relazione tra la latitudine $\lambda_m$ e $\alpha_{Eq}$ del punto specchio. Calcolare numericamente il suo valore quando $\alpha_{Eq} = 30^\circ$. *(2,0 punti) *
+**(b)** Determina la relazione tra la latitudine $\lambda_m$ e $\alpha_{Eq}$ del punto specchio. Calcolare numericamente il suo valore quando $\alpha_{Eq} = 30^\circ$. *(2,0 punti) *
 
 ### 3. Collizione delle particelle
 
 Se il punto specchio si trova non lontano dalla superficie terrestre il protone si schianta con le particelle dell'atmosfera. Questa distanza è piccola rispetto al raggio terrestre ($R_E = 6400$ km), quindi presumerebbe che le particelle si collassino quando il punto specchio è nella superficie terrestre.
 
-**(a) ** Determina l'angolo di passo equatoriale minimo $\alpha_l$, al di sotto del quale un protone colpirebbe con la superficie terrestre in funzione di $L$. *(1,2 punti) *
+**(a)** Determina l'angolo di passo equatoriale minimo $\alpha_l$, al di sotto del quale un protone colpirebbe con la superficie terrestre in funzione di $L$. *(1,2 punti) *
 
-**(b) ** Determina il tempo necessario per un protone per completare un intero ciclo di movimento di rimbalzo tra i punti specchi, con $\alpha_{Eq} = 30^\circ$, $W = 10.0$ MeV e $L = 5.0$. *(1,2 punti) *
+**(b)** Determina il tempo necessario per un protone per completare un intero ciclo di movimento di rimbalzo tra i punti specchi, con $\alpha_{Eq} = 30^\circ$, $W = 10.0$ MeV e $L = 5.0$. *(1,2 punti) *
 
-**(c) ** Calcolare la lunghezza del percorso elicottero del protone in un intero ciclo, tenendo conto dei due movimenti che abbiamo considerato in questo problema. *(0,8 punti) *
+**(c)** Calcolare la lunghezza del percorso elicottero del protone in un intero ciclo, tenendo conto dei due movimenti che abbiamo considerato in questo problema. *(0,8 punti) *
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16VTyd8E4Uy1Rv-0mbvJKi5GIcU6HcrmU/view)
 **Topic:** [[Magnetism]], [[Electromagnetism]]
@@ -422,7 +422,7 @@ $$
 dove $d^3v$ è il differenziale di velocità. In coordinate sferiche è espressa come $d^3v = v^2 \sin(\theta)\, dv\,d\theta\,d\varphi$.
 
 ![[WoPhO_2013_Q4_p1_f1.png]]
-**Figura 1: ** Illustrazione schematica della coordinata sferica.
+**Figura 1:** Illustrazione schematica della coordinata sferica.
 
 Pertanto, a qualsiasi temperatura ci possono essere sempre alcune molecole la cui velocità è maggiore della velocità di fuga. Una molecola situata nella parte inferiore dell'atmosfera non sarebbe, in generale, in grado di fuggire nello spazio esterno anche se la sua velocità è maggiore della velocità limite perché presto colliderebbe con altre molecole, perdendo una grande parte della sua energia. Per poter fuggire, queste molecole devono essere ad una certa altezza tale che la densità sia così bassa che la loro probabilità di collisione sia trascurabile. La regione dell'atmosfera in cui si soddisfa questa condizione si chiama esosfera e il suo confine inferiore, che separa la zona densa dall'esosfera, si chiama esobasi. La temperatura all'esobasi è di circa 1000 K.
 
@@ -438,30 +438,30 @@ P(h) = P_{Ref}\exp\left(-\frac{(h - h_{Ref})}{H}\right), \tag{3}
 $$
 dove sappiamo che ad un'altitudine di 250 km, la pressione è di 21 $\mu$Pa. $H$ è l'altezza della scala e il suo valore è $H = 60$ km.
 
-**(a) ** Determinare la media di percorso libero delle particelle d'aria $\lambda$ ad un'altitudine di 250 km. *(0,8 punti) *
+**(a)** Determinare la media di percorso libero delle particelle d'aria $\lambda$ ad un'altitudine di 250 km. *(0,8 punti) *
 
-**(b) ** Determina l'altezza dell'esobasi $h_{EB}$. *(1,2 punti) *
+**(b)** Determina l'altezza dell'esobasi $h_{EB}$. *(1,2 punti) *
 
 ### 2. Fluxo di fuga atmosferica
 
 Le particelle nell'esobasi con velocità sufficiente verso l'esterno sfuggiranno all'attrazione gravitazionale.
 
-**(a) ** Supponendo una distribuzione maxwelliana, determinare la probabilità che un atomo di idrogeno abbia una velocità superiore alla velocità di fuga nell'esobasi. *(2,0 punti) *
+**(a)** Supponendo una distribuzione maxwelliana, determinare la probabilità che un atomo di idrogeno abbia una velocità superiore alla velocità di fuga nell'esobasi. *(2,0 punti) *
 
-**(b) ** Determinare il flusso di atomi di idrogeno (numero di particelle per unità di area e per unità di tempo) $\Phi$ che sfuggiranno all'atmosfera, sapendo che la concentrazione di atomi di idrogeno nell'esobasi è $n_H = 10^{11}\ \text{m}^{-3}$. Fai attenzione alle dimensioni. *(2,0 punti) *
+**(b)** Determinare il flusso di atomi di idrogeno (numero di particelle per unità di area e per unità di tempo) $\Phi$ che sfuggiranno all'atmosfera, sapendo che la concentrazione di atomi di idrogeno nell'esobasi è $n_H = 10^{11}\ \text{m}^{-3}$. Fai attenzione alle dimensioni. *(2,0 punti) *
 
 ![[WoPhO_2013_Q4_p3_f2.png]]
-**Figura 2: ** Diagramma che mostra le diverse zone dell'atmosfera. Nell'esosfera, le particelle con velocità sufficientemente elevate possono lasciare l'atmosfera.
+**Figura 2:** Diagramma che mostra le diverse zone dell'atmosfera. Nell'esosfera, le particelle con velocità sufficientemente elevate possono lasciare l'atmosfera.
 
 ### 3. Evaporazione dell'atmosfera
 
 L'escapamento termico atmosferico è uno dei processi che spiegano perché alcuni gas sono presenti nell'atmosfera e altri no. Attualmente la pressione atmosferica è di circa $P_0 = 10^5$ Pa e una frazione di $\chi_H = 5.5 \times 10^{-5}\%$ delle molecole atmosferiche sono molecole di idrogeno. Quando queste molecole raggiungono una certa altezza (più bassa di $h_{EB}$) si dividono in due atomi a causa della radiazione solare. La concentrazione di atomi di idrogeno nell'esobasi può essere considerata costante nel tempo.
 
-**(a) ** Sapendo che la massa molare media dell'atmosfera è $M_{Atm} = 29\ \frac{\text{gr}}{\text{mol}}$, si stima il numero $N_H$ di atomi di idrogeno presenti nell'atmosfera terrestre. Supponiamo che la gravità vicino alla superficie terrestre sia $9.5\ \frac{\text{m}}{\text{s}^2}$. *(1 punti) *
+**(a)** Sapendo che la massa molare media dell'atmosfera è $M_{Atm} = 29\ \frac{\text{gr}}{\text{mol}}$, si stima il numero $N_H$ di atomi di idrogeno presenti nell'atmosfera terrestre. Supponiamo che la gravità vicino alla superficie terrestre sia $9.5\ \frac{\text{m}}{\text{s}^2}$. *(1 punti) *
 
 Scopri quanto tempo ci vorrebbe per la metà dell'atomo di idrogeno per sfuggire all'atmosfera terrestre. *(1,5 punti) *
 
-**(c) ** Trova anche questa volta per gli atomi di elio sulla Terra, sapendo che la loro concentrazione nell'esobasi è $n_{He} = 2.5 \times 10^{12}\ \text{m}^{-3}$. Gli atomi di elio sono i $5 \times 10^{-4}\%$ dell'atmosfera. *(1,5 punti) *
+**(c)** Trova anche questa volta per gli atomi di elio sulla Terra, sapendo che la loro concentrazione nell'esobasi è $n_{He} = 2.5 \times 10^{12}\ \text{m}^{-3}$. Gli atomi di elio sono i $5 \times 10^{-4}\%$ dell'atmosfera. *(1,5 punti) *
 
 L'escapamento di jeans non è l'unico processo di fuga atmosferica e ci sono anche altre reazioni sulla superficie della Terra che possono produrre gas atmosferici. Tuttavia, questi calcoli dovrebbero mostrare la differenza di ordine di grandezza della fuga di diversi gas.
 
@@ -562,7 +562,7 @@ La caratterizzazione del movimento di oggetti punti, quando vengono applicate si
 Iniziare con un caso, in cui un piccolo oggetto carico a punto con una carica $+Q$ è fissato alla tabella. Il centro del dipolo è fissato alla distanza $L$ dall'oggetto carico (vedere figura 1). Il dipolo è costituito da due piccole palle identiche attaccate alla piccola e rigida canna con una lunghezza $d$, $d \ll L$, in modo da poter ignorare il momento di inerzia. Ciascuna delle palle ha una massa $m$ e ha carica $+q$ e $-q$. Il dipolo può ruotare intorno al suo centro in un piano parallelo alla superficie della tavola liscia.
 
 ![[WoPhO_2013_Q5_p1_f1.png]]
-**Figura 1: ** Rappresentazione schematica del sistema utilizzato nella sezione 1.1.
+**Figura 1:** Rappresentazione schematica del sistema utilizzato nella sezione 1.1.
 
 **1.** Calcolare il periodo delle piccole oscillazioni $T$ del dipolo intorno al suo asse di equilibrio stabile nel campo elettrostatico dell'oggetto carico.
 
@@ -577,7 +577,7 @@ Per avvicinare il dipolo all'oggetto carico, la sua velocità iniziale deve esse
 **4.** Descrivere la traiettoria della massa centrale del dipolo nel caso in cui il dipolo venga lanciato con la velocità iniziale critica $v_{cr}$, tenendo conto di un tempo molto lungo (si verificano effetti di radiazione).
 
 ![[WoPhO_2013_Q5_p2_f2.png]]
-**Figura 2: ** Vista superiore della cassa, quando il dipolo si muove intorno al corpo carico fissato. (Non a scala)
+**Figura 2:** Vista superiore della cassa, quando il dipolo si muove intorno al corpo carico fissato. (Non a scala)
 
 Supponiamo che si applichi la condizione $u < v_{cr}$ e che gli effetti delle radiazioni siano molto piccoli.
 
@@ -588,7 +588,7 @@ Supponiamo che si applichi la condizione $u < v_{cr}$ e che gli effetti delle ra
 In questa parte, analizzare una situazione in cui non si conserva un impulso angolare. Il sistema è lo stesso della parte precedente, con l'unica differenza che il dipolo è fisso e il piccolo oggetto carico con una massa $2m$ si sta muovendo intorno al dipolo. Il campo elettrostatico del dipolo è più facile da descrivere nel sistema polare di coordinate, che è definito con la distanza $r$ dal centro del dipolo e l'angolo $\theta$ contato in senso contro orologio, come mostrato nella figura 3.
 
 ![[WoPhO_2013_Q5_p2_f3.png]]
-**Figura 3: ** Il sistema analizzato nella parte 2. (La direzione del vettore $E_n$ e $E_t$ potrebbe essere sbagliata)
+**Figura 3:** Il sistema analizzato nella parte 2. (La direzione del vettore $E_n$ e $E_t$ potrebbe essere sbagliata)
 
 **1.** Determina il potenziale elettrostatico $\phi$ a una distanza $r \gg d$ dal dipolo, come funzione di $\theta$.
 
@@ -616,7 +616,7 @@ Con quale velocità iniziale $u_c$ dovrebbe essere lanciato l'oggetto carico, in
 
 **4.** Segnare l'orbita dell'oggetto carico per la situazione descritta in 3 dopo un lungo periodo di tempo (gli effetti delle radiazioni influenzano il movimento).
 
-**Matematica utile: ** $\displaystyle\int \frac{x\,dx}{\sqrt{A-x^2}} = -\sqrt{A-x^2} + C$, dove $A$ e $C$ sono alcune costanti.
+**Matematica utile:** $\displaystyle\int \frac{x\,dx}{\sqrt{A-x^2}} = -\sqrt{A-x^2} + C$, dove $A$ e $C$ sono alcune costanti.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1wGuY5laryxZoBCbUnsO_QL4j0FnSWGLp/view)
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
@@ -731,9 +731,9 @@ Nella figura seguente, le foto sono posizionate fianco a fianco e indicate con i
 
 ![[WoPhO_2013_Q8_p1_f2.png]]
 
-**Tasco: ** calcolare il diametro della bolla di gas.
+**Tasco:** calcolare il diametro della bolla di gas.
 
-**Parametri: ** indice di rifrazione dell'acqua rispetto al gas: $n = 1.3$; lunghezza d'onda del laser: $\lambda = 488$ nm; l'obiettivo della fotocamera può essere considerato come un unico obiettivo convex con lunghezza focale $f = 10$ cm e di diametro $D = 3.6$ cm (la variazione della distanza focale a causa della defocalizzazione è stata inferiore al 10%); la distanza dalla bolla alla lente: $L = 30$ cm (più precisamente, questa è la distanza da quella dell'obiettivo all'immagine della bolla vista dal centro dell'obiettivo, vedi figura sopra).
+**Parametri:** indice di rifrazione dell'acqua rispetto al gas: $n = 1.3$; lunghezza d'onda del laser: $\lambda = 488$ nm; l'obiettivo della fotocamera può essere considerato come un unico obiettivo convex con lunghezza focale $f = 10$ cm e di diametro $D = 3.6$ cm (la variazione della distanza focale a causa della defocalizzazione è stata inferiore al 10%); la distanza dalla bolla alla lente: $L = 30$ cm (più precisamente, questa è la distanza da quella dell'obiettivo all'immagine della bolla vista dal centro dell'obiettivo, vedi figura sopra).
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1oNngkTku_6kdqI1tzRbfl75NbQnVkDM0/view)
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
@@ -787,12 +787,12 @@ dove $\sigma = 5.678 \times 10^{-8}\ \text{W}\cdot\text{m}^{-2}\cdot\text{K}^{-4
 
 In recenti esperimenti [^1] è stato riportato che sono stati costruiti LED con efficienza superiore al 100%. In questo caso l'efficienza è definita come il rapporto tra l'energia luminosa irradiata e l'energia elettrica consumata.
 
-**Problema.**Sulla base di approssimazioni ragionevoli, si può trovare l'efficienza teoricamente più elevata possibile di un LED supponendo che:
+**Problema.** Sulla base di approssimazioni ragionevoli, si può trovare l'efficienza teoricamente più elevata possibile di un LED supponendo che:
 
-- **(a) ** il LED ha un dissipatore di calore che viene mantenuto a temperatura ambiente $T_0 = 293$ K (attraverso uno scambio di calore abbastanza rapido con il mezzo circostante);
-- **(b) ** il LED emette luce a lunghezze d'onda inferiori a $\lambda_0 = 700$ nm;
-- **(b) ** la superficie della parte che emette la luce del LED è $S = 1\ \text{mm}^2$;
-- **(c) ** la potenza di emissione luminosa del LED è $P = 1\ \mu\text{W}$.
+- **(a)** il LED ha un dissipatore di calore che viene mantenuto a temperatura ambiente $T_0 = 293$ K (attraverso uno scambio di calore abbastanza rapido con il mezzo circostante);
+- **(b)** il LED emette luce a lunghezze d'onda inferiori a $\lambda_0 = 700$ nm;
+- **(b)** la superficie della parte che emette la luce del LED è $S = 1\ \text{mm}^2$;
+- **(c)** la potenza di emissione luminosa del LED è $P = 1\ \mu\text{W}$.
 
 [^1]: P. Santhanam et al, *Diodi di emissione luminosa termoelettrica operanti al di sopra dell'efficienza di unità *, fis. Il reverendo. Lett. **108**, 097403 (2012).
 

@@ -464,7 +464,7 @@ c) **[2]** Trova la data della Luna Nuova più vicina.
 
 e) **[2]** Qual è la data corrispondente alla tabella 2?
 
-**Tabella 2: Altezze e tempi **
+**Tabella 2: Altezze e tempi**
 
 ♬ Tempo (orari) ♬ Altezza (m) ♬ Tempo (orari) ♬ Altezza (m) ♬
 |------------|------------|------------|------------|

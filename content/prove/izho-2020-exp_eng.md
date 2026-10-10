@@ -65,6 +65,10 @@ If two additional threads are wound on the stick and a load is suspended on them
 
 **3.2** Measure the dependence of the acceleration of the disk axis for different masses of suspended loads.
 
+**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

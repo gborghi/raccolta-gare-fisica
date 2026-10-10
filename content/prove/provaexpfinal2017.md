@@ -243,7 +243,7 @@ Explain how to determine the value of the unknown resistor and determine its val
 | 82    |  |  |  |
 | 150   |  |  |  |
 
-> **Obs: ** After this issue is over, turn off the power supply $E_2$!
+> **Obs:** After this issue is over, turn off the power supply $E_2$!
 
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
@@ -282,7 +282,7 @@ Explain how to determine the value of the unknown resistor and determine its val
 
 **Questa 5** (15 punti): Considerando che la condizione iniziale del problema sono i valori di temperatura iniziale $T_0$ e $R_0$  i valori ottenuti alla temperatura ambiente della domanda 3  scriva la possibile equazione del rapporto tra variabile elettrica (resistenza, voltage o corrente) e temperatura, giustificando la sua scelta e linearizzando l'equazione ottenuta.
 
-**Dicen: ** L'equazione presunta (escluse le costanti) assomiglia a una delle seguenti, dove $R$ è la resistenza $R_x$, $V$ è la tensione, $I$ il corrente, $A$ e $B$ sono costanti e $T$ è la temperatura in kelvin:
+**Dicen:** L'equazione presunta (escluse le costanti) assomiglia a una delle seguenti, dove $R$ è la resistenza $R_x$, $V$ è la tensione, $I$ il corrente, $A$ e $B$ sono costanti e $T$ è la temperatura in kelvin:
 
 1. $\displaystyle R = \frac{AV}{I + B}$
 
@@ -302,7 +302,7 @@ Explain how to determine the value of the unknown resistor and determine its val
 
 **Question 5** (15 points): Considering that the initial condition of the problem are the initial temperature values $T_0$ and $R_0$  the values obtained at room temperature from question 3  write the possible equation of the relationship between the electrical variable (resistance, voltage or current) and temperature, justifying its choice and linearising the equation obtained.
 
-**Tell: ** The presumptive equation (except constants) resembles one of the following equations, where $R$ is the resistance $R_x$, $V$ is the voltage, $I$ the current, $A$ and $B$ are constants and $T$ is the temperature in kelvin:
+**Tell:** The presumptive equation (except constants) resembles one of the following equations, where $R$ is the resistance $R_x$, $V$ is the voltage, $I$ the current, $A$ and $B$ are constants and $T$ is the temperature in kelvin:
 
 1. $\displaystyle R = \frac{AV}{I + B}$
 
@@ -443,7 +443,7 @@ Qual è stata la funzione del potenziometro Pot1? E il Pot 2? giustifica la tua 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8  Challenge ** (15 points):
+Question 8  Challenge  (15 points):
 
 After adjusting the Pot1 and Pot2 potentiometers, remove them from the circuit very carefully (avoid moving the axle) and measure the respective values used by filling in the following table:
 

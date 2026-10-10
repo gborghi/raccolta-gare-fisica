@@ -220,7 +220,7 @@ Durante l'esperimento, tenete il magnete lontano dal sensore Hall ogni volta che
 
 ###### 1. L'effetto magnetoresistività e l'effetto Hall.
 
-Si consideri un campione di conduttore a forma di parallelepiped di lunghezza $a$, larghezza $b$ e spessore $c$ (vedi figura 2). La corrente $I$ scorre lungo la direzione $a$. Se il campione è collocato in un campo magnetico $\vec{B}$, il campo magnetico influisce sulla resistenza $R$ del campione. Questo effetto è chiamato effetto ** magnetorresistenza (MRE) **. Se $\Delta R$ è l'aumento della resistenza $R$ del campione, $R_0$ è il valore della resistenza in assenza di un campo magnetico, allora la magnitudine del MRE è definita dal rapporto $\Delta R / R_0$.
+Si consideri un campione di conduttore a forma di parallelepiped di lunghezza $a$, larghezza $b$ e spessore $c$ (vedi figura 2). La corrente $I$ scorre lungo la direzione $a$. Se il campione è collocato in un campo magnetico $\vec{B}$, il campo magnetico influisce sulla resistenza $R$ del campione. Questo effetto è chiamato effetto **magnetorresistenza (MRE)**. Se $\Delta R$ è l'aumento della resistenza $R$ del campione, $R_0$ è il valore della resistenza in assenza di un campo magnetico, allora la magnitudine del MRE è definita dal rapporto $\Delta R / R_0$.
 
 > [!figura] Figura 2  Geometria campione
 > ![[APhO_2004_exp_Q1_p2_f1.png]]
@@ -433,7 +433,7 @@ Apparecchi e materiali
 4. Conduttori di resistenza trascurabile.
 5. Carta grafica.
 
-> **Avvertimento: ** Non è consentito aprire la casella nera.
+> **Avvertimento:** Non è consentito aprire la casella nera.
 
 #### # Esperimento
 

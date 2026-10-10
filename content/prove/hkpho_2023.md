@@ -35,7 +35,7 @@ Suppose that all collisions are instantaneous and **completely elastic**. After 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Supponiamo che tutte le collisioni siano istantanee e ** completamente elastica **. Dopo tanto tempo, quale di queste parole è vero?
+Supponiamo che tutte le collisioni siano istantanee e **completamente elastica**. Dopo tanto tempo, quale di queste parole è vero?
 
 - **(A)** Il blocco centrale si sta spostando a sinistra.
 - **(B)** Il blocco centrale si sta spostando a destra.
@@ -1013,15 +1013,15 @@ Un piccolo blocco X con massa $m$ inizialmente a altezza $h$ inizia a scivolare 
 *Il blocco X (massa $m$) scivola giù dall'altezza $h$ su una rampa senza attrito e si schianta con il blocco Y (massa $km$) in riposo sulla superficie orizzontale.*
 <!--fig:end-->
 
-**(a) ** [3] Qual è la velocità di X subito prima della collisione con il blocco Y?
+**(a)** [3] Qual è la velocità di X subito prima della collisione con il blocco Y?
 
-**(b) ** [3] Quali sono le velocità dei blocchi X e Y dopo la prima collisione?
+**(b)** [3] Quali sono le velocità dei blocchi X e Y dopo la prima collisione?
 
-**(c) ** [3] Se due blocchi possono collidere esattamente una sola volta, quale condizione deve essere soddisfatta per il valore di $k$?
+**(c)** [3] Se due blocchi possono collidere esattamente una sola volta, quale condizione deve essere soddisfatta per il valore di $k$?
 
-**(d) ** [3] Supponiamo che il valore di $k$ non soddisfi la condizione riportata nella parte (c) e due blocchi incontrino la seconda collisione. Quali sono le velocità dei blocchi X e Y dopo la seconda collisione?
+**(d)** [3] Supponiamo che il valore di $k$ non soddisfi la condizione riportata nella parte (c) e due blocchi incontrino la seconda collisione. Quali sono le velocità dei blocchi X e Y dopo la seconda collisione?
 
-**(e) ** [3] Se due blocchi possono collidere esattamente solo due volte, quale condizione deve essere soddisfatta per il valore di $k$?
+**(e)** [3] Se due blocchi possono collidere esattamente solo due volte, quale condizione deve essere soddisfatta per il valore di $k$?
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -1091,9 +1091,9 @@ Una palla con massa $m$ che si muove verso nord a velocità $v_1$ colpisce un mu
 *Fig. 2a (quadro di riposo del terreno): velocità di entrata della palla $\vec{v}_1$ verso nord, parete (a $45^\circ$ verso est) in movimento verso ovest a $\vec{v}_0$, velocità di uscita della palla $\vec{v}_2$ all'angolo $\theta$. Fig. - Cosa? 2b (quadro di riposo della parete): $\vec{u}_1$ e $\vec{u}_2$ uscenti rendono gli angoli $\phi$ uguali alla parete normale.*
 <!--fig:end-->
 
-**(a) ** [5] Supponiamo che la collisione sia elastica nel quadro del resto della parete. Trova le velocità $u_1$ e $u_2$ e l'angolo $\phi$ nel quadro restante della parete mostrato nella figura. 2b, in termini di $v_0$, $v_1$ e $m$.
+**(a)** [5] Supponiamo che la collisione sia elastica nel quadro del resto della parete. Trova le velocità $u_1$ e $u_2$ e l'angolo $\phi$ nel quadro restante della parete mostrato nella figura. 2b, in termini di $v_0$, $v_1$ e $m$.
 
-**(b) ** [4] Trova l'angolo $\theta$ e la velocità $v_2$ nel cornice di riposo del terreno (Fig. 2 bis) in termini di $v_0$, $v_1$ e $m$.
+**(b)** [4] Trova l'angolo $\theta$ e la velocità $v_2$ nel cornice di riposo del terreno (Fig. 2 bis) in termini di $v_0$, $v_1$ e $m$.
 
 **parte II**
 
@@ -1108,9 +1108,9 @@ Considerate un veicolo spaziale che esegue un'assistenza gravitazionale che vola
 
 La massa di Giove è molto più grande della sonda spaziale. Si può supporre che, nel quadro di riposo di Giove, l'energia meccanica della sonda (suma della sua energia cinetica e dell'energia potenziale gravitazionale dovuta a Giove) sia conservata quando passa.
 
-**(c) ** [4] Trova la velocità $v_2$ della sonda spaziale quando si allontana da Giove nel cornice di riposo del Sole in termini di $v_0$, $v_1$ e $\psi$.
+**(c)** [4] Trova la velocità $v_2$ della sonda spaziale quando si allontana da Giove nel cornice di riposo del Sole in termini di $v_0$, $v_1$ e $\psi$.
 
-**(d) ** [2] Se si dà $\psi = 120^\circ$, si trova la velocità della sonda $v_1$ in termini di $v_0$ in modo tale che la sonda esci a tre volte la sua velocità di incidente $v_2 = 3v_1$.
+**(d)** [2] Se si dà $\psi = 120^\circ$, si trova la velocità della sonda $v_1$ in termini di $v_0$ in modo tale che la sonda esci a tre volte la sua velocità di incidente $v_2 = 3v_1$.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -1175,13 +1175,13 @@ In questo problema, abbiamo supposto che la Terra sia in un quadro di riferiment
 *Trajectoria iperbolica di un asteroide intorno alla Terra: parametro di impatto $b$ e velocità $v_\text{inf}$ all'infinito, più vicino approccio P a distanza radial $r_P$ sull'asse x con velocità $v$, e angolo di deflessione complessivo $\phi$.*
 <!--fig:end-->
 
-**(a) ** [3] Supponiamo che l'asteroide sia in grado di colpire la Terra. Trova la velocità minima al momento dell'impatto. Per favore, ignori l'effetto dell'atmosfera nel rallentare l'asteroide.
+**(a)** [3] Supponiamo che l'asteroide sia in grado di colpire la Terra. Trova la velocità minima al momento dell'impatto. Per favore, ignori l'effetto dell'atmosfera nel rallentare l'asteroide.
 
-**(b) ** [2] Ora, ci sono date le condizioni iniziali che $b = 10{,}000\ \text{km}$ e $v_\text{inf} = 20\ \text{km s}^{-1}$ mentre altri parametri come $\ell$, $e$ e $r_P$ sono presunti come quantità derivate. Secondo la seconda legge di Kepler, valida anche se la traiettoria è iperbolica, la traiettoria spazza fuori aree uguali in intervalli di tempo uguali. Calcolare il valore numerico dell'area di spazzatura per unità di tempo che dovrebbe essere costante lungo l'intera traiettoria.
+**(b)** [2] Ora, ci sono date le condizioni iniziali che $b = 10{,}000\ \text{km}$ e $v_\text{inf} = 20\ \text{km s}^{-1}$ mentre altri parametri come $\ell$, $e$ e $r_P$ sono presunti come quantità derivate. Secondo la seconda legge di Kepler, valida anche se la traiettoria è iperbolica, la traiettoria spazza fuori aree uguali in intervalli di tempo uguali. Calcolare il valore numerico dell'area di spazzatura per unità di tempo che dovrebbe essere costante lungo l'intera traiettoria.
 
-**(c) ** [5] Con la condizione iniziale data calcolare il valore numerico della distanza radial più vicina $r_P$. Potrebbe essere necessario utilizzare i risultati dell'ultima parte.
+**(c)** [5] Con la condizione iniziale data calcolare il valore numerico della distanza radial più vicina $r_P$. Potrebbe essere necessario utilizzare i risultati dell'ultima parte.
 
-**(d) ** [5] Con la stessa condizione iniziale calcolare l'angolo di deviazione $\phi$. (Signore: Si può considerare un punto della traiettoria sull'asse y.)
+**(d)** [5] Con la stessa condizione iniziale calcolare l'angolo di deviazione $\phi$. (Signore: Si può considerare un punto della traiettoria sull'asse y.)
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 
@@ -1232,11 +1232,11 @@ In una mostra aerea due elicotteri sono a riposo alla stessa altezza al di sopra
 *Due elicotteri a distanza $D$ da un proiettolo di lancio A (velocità $v_A$, angolo $\theta_A$) e B (velocità $v_B$, angolo $\theta_B$), ogni angolo misurato verso l'alto dalla direzione dell'altro elicottero.*
 <!--fig:end-->
 
-**(a) ** [5] Trova la distanza minima e l'ora in cui A e B sono a questa distanza. Esprimere le risposte in termini di $D$, $v_A$, $v_B$, $\theta_A$ e $\theta_B$. Trova tutte le possibili risposte in casi diversi.
+**(a)** [5] Trova la distanza minima e l'ora in cui A e B sono a questa distanza. Esprimere le risposte in termini di $D$, $v_A$, $v_B$, $\theta_A$ e $\theta_B$. Trova tutte le possibili risposte in casi diversi.
 
-**(b) ** [5] Quindi, o altrimenti, trovare la condizione in termini di $v_A$, $v_B$, $\theta_A$ e $\theta_B$, in modo tale che B raggiunga A, e il tempo necessario per B di raggiungere A dopo il lancio, in termini di $D$, $v_A$, $v_B$, $\theta_A$ e $\theta_B$.
+**(b)** [5] Quindi, o altrimenti, trovare la condizione in termini di $v_A$, $v_B$, $\theta_A$ e $\theta_B$, in modo tale che B raggiunga A, e il tempo necessario per B di raggiungere A dopo il lancio, in termini di $D$, $v_A$, $v_B$, $\theta_A$ e $\theta_B$.
 
-**(c) ** [5] Quindi, o altrimenti, trovare $\theta_B$ in termini di $\theta_A$ in modo tale che B raggiunga A se $v_A = v_B$ e $0 \le \theta_A < \frac{\pi}{2}$. A che ora, in termini di $D$, $v_A$ e $\theta_A$, B raggiungerà A?
+**(c)** [5] Quindi, o altrimenti, trovare $\theta_B$ in termini di $\theta_A$ in modo tale che B raggiunga A se $v_A = v_B$ e $0 \le \theta_A < \frac{\pi}{2}$. A che ora, in termini di $D$, $v_A$ e $\theta_A$, B raggiungerà A?
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/17SlnmO-pgEe2lsyhUnF3J-sNe9JKQlck/view)
 

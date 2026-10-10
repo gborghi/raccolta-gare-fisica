@@ -121,7 +121,7 @@ It is a delicate measurement, requiring readiness for reflections, especially fo
 
 
 <!--fig:start-->
-**p.1 **  Tilted handle: S-push and P-weight
+**p.1**  Tilted handle: S-push and P-weight
 ![[_attachments/naz03sol/naz03sol_p1_f1.png]]
 <!--fig:end-->
 

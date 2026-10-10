@@ -291,7 +291,7 @@ $$I_x^{\text{Theo}} = m_1\left[\frac{L^2}{12} + \frac{R^2 + (R-t)^2}{4}\right] +
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 2: Oscillazione del vaso riempito di acqua **
+**Problema 2: Oscillazione del vaso riempito di acqua**
 
 Lo studente è tenuto a eseguire misure non distruttive per determinare lo spessore $t$ di un recipiente in alluminio la cui cavità è completamente riempita di acqua. Il recipiente in alluminio è composto da un cilindro e da due lastre finali. Il cilindro è di lunghezza $L$ e di raggio esterno $R$. La lunghezza totale della nave è $h$. Lo spessore di entrambe le lastre estremiste è $0.60\ \text{cm}$ (vedere figura 1). Puoi trascurare l'errore di questo spessore. In questo problema, si prega di utilizzare il grammo e il centimetro come unità di massa e lunghezza, rispettivamente.
 
@@ -331,9 +331,9 @@ iii) massa $(m_3)$ di acqua nell'intera cavità,
 iv) la massa totale $(M)$ del recipiente riempito di acqua, e
 v) il momento effettivo di inerzia, $I_y$, circa l'asse Y di questo recipiente riempito di acqua (vedere figura 1), supponendo che l'acqua sia un fluido **ideale**.
 
-Poi eseguire le misurazioni di $R, h, L$. Substituendo i valori, ** espressioni derivate in termini di $t$** per i quantitativi i)v) di cui sopra. La densità di alluminio $\rho = 2.70\ \text{g/cm}^3$ e la densità dell'acqua è $1.00\ \text{g/cm}^3$.
+Poi eseguire le misurazioni di $R, h, L$. Substituendo i valori, **espressioni derivate in termini di $t$** per i quantitativi i)v) di cui sopra. La densità di alluminio $\rho = 2.70\ \text{g/cm}^3$ e la densità dell'acqua è $1.00\ \text{g/cm}^3$.
 
-**Signore: **
+**Signore:**
 
 ![[APhO_2009_exp_p7_f1.png]]
 *Figura 3  Sottile canna di lunghezza $L$: $\displaystyle I = m\frac{L^2}{12}$. cilindro sottile di raggio interno $R_1$ e raggio esterno $R_2$: $\displaystyle I_y = \frac{1}{2}m\left(R_2^2 + R_1^2\right),\quad I_x = \frac{1}{4}m\left(R_2^2 + R_1^2\right)$.*
@@ -363,7 +363,7 @@ Considerate questa differenza statisticamente significativa?
 
 Estimare la percentuale di massa dell'acqua che partecipa al movimento oscillatorio nella lettera b), supponendo che l'acqua sia dischi circolari che si aderiscono alle lastre finali.
 
-**Signore: **
+**Signore:**
 
 $$I_x^{\text{Theo}} = m_1\left[\frac{L^2}{12} + \frac{R^2 + (R-t)^2}{4}\right] + 2m_2\left[\frac{(0.6\ \text{cm})^2}{12} + \frac{R^2}{4} + \left(\frac{L}{2} + \frac{0.6\ \text{cm}}{2}\right)^2\right] + m_3\left[\frac{L^2}{12} + \frac{(R-t)^2}{4}\right]$$
 

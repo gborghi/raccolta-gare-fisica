@@ -223,7 +223,7 @@ Información útil: El periodo de oscilación $T$ de una masa $m$ suspendida de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Nzionale Sperimentale - Problema 4 (Densità di un corpo solido) **
+**Nzionale Sperimentale - Problema 4 (Densità di un corpo solido)**
 
 Prova sperimentale. Blu e verde.
 Obiettivo: Si chiede di determinare la densità (assoluta o relativa) del campione fornito, secondo le seguenti condizioni.
@@ -282,7 +282,7 @@ b) Podrá evitar que resbalen las cajas? En caso afirmativo de cuánto tiempo de
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 1 - Corrent (Plataforma ferroviaria) **
+**Local 1 - Corrent (Plataforma ferroviaria)**
 
 Una piattaforma ferroviaria è caricata con scatole che hanno un coefficiente di rottura statico di 0,25 con il pavimento. Il treno si muove a 100 km/h mentre percorre il tratto rettilineo. Il conducente del treno ricevitore avverte la prossima curva del suo percorso (di raggio di curvatura $R=50$m) solo quando si trova a 100m di distanza da essa.
 a) Identificare chiaramente il problema che si presenta al conducente e giustificare ciò che deve fare per evitare che le casse scivolassero mentre si frenano il treno. Per calcolare nulla a questo punto, solo sviluppare brevemente il concettuale.
@@ -323,7 +323,7 @@ Se lanza una piedra de 20 Gr. con una honda (gomera). Si la fuerza elástica de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 2 - Capitale federale (Honda - stone) **
+**Local 2 - Capitale federale (Honda - stone)**
 
 Si lancia una pietra di 20 gr. con una gomma. Se la forza elastica della fonda agisce per 0,04 secondi dopo i quali la pietra ha acquisito una velocità di 80 m/s calcolare l'intensità della forza applicata nei tre sistemi.
 
@@ -362,7 +362,7 @@ El sistema mostrado se compone de una prensa hidráulica, con las secciones dada
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 3 - Mar del Plata (Prensa idraulica e leva) **
+**Local 3 - Mar del Plata (Prensa idraulica e leva)**
 
 Il sistema mostrato è composto da una stampa idraulica, con le sezioni indicate, e da una leva, con la lunghezza degli bracci indicata rispetto al punto di supporto. Qual è la forza da applicare all'estremità A della figura per bilanciare il corpo di 800 kgf? Qual è il senso della forza applicata a A? (figura, sezioni 100 cm$^2$ e 16 cm$^2$, braccia 0,5 m e 2 m)
 
@@ -403,7 +403,7 @@ b) Demostrar que si se aplica la misma fuerza a m2 en lugar de aplicársela a m1
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 4 - Rauch (Blocco su tavolo, forza orizzontale) **
+**Local 4 - Rauch (Blocco su tavolo, forza orizzontale)**
 
 Applicare su un tavolo un blocco di massa m1 e applicare una forza orizzontale come mostrato nella figura.
 a) Se m1=2kg, m2=1kg e F=3N, trovare la forza di contatto tra i due blocchi.
@@ -454,7 +454,7 @@ d) La velocidad cuando la energía cinética es de 8000 J.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 5 - Casero (Costruzione di forza costante) **
+**Local 5 - Casero (Costruzione di forza costante)**
 
 Su un corpo a riposo di massa pari a 20 kg. se si applica una forza costante in direzione dello spostamento di 100N. Per tale azione , il corpo acquista in un tempo $t$ una velocità v. Calcolo:
 a) Quanto pesa il corpo?
@@ -515,7 +515,7 @@ HALLAR:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 6 - General Peak (Due corpi a corda piatta inclinata) **
+**Local 6 - General Peak (Due corpi a corda piatta inclinata)**
 
 I corpi 1 e 2 di massa 20 Kg e 10 Kg. sono unite da una corda inestensibile, sul piano inclinato della figura.
 Il coefficiente di rottura cinematica tra i corpi e il piano è di 0,3.
@@ -537,7 +537,7 @@ Una forza di 700 New viene applicata al corpo 1 in direzione parallela al piano 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 6 - General Peak (Two flat-leaning rope bodies) **
+**Local 6 - General Peak (Two flat-leaning rope bodies)**
 
 The bodies 1 and 2 weigh 20 kg and 10 kg. They are connected by an unstretchable rope, over the inclined plane of the figure.
 The kinematic friction coefficient between the bodies and the plane is 0.3.
@@ -586,7 +586,7 @@ b) La distancia R que alcanza.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 7 - Capitale federale (resorso compresso, corpo piano inclinato) **
+**Local 7 - Capitale federale (resorso compresso, corpo piano inclinato)**
 
 Un corpo di massa di 1 kg, si trova su una superficie orizzontale a riposo e compressa 0,1 m una sorgente di costante 1000N/m. A quel punto è a 2,1 m dalla base del piano inclinato di 37° di pendenza e 2 m di altezza. Quando il corpo viene lasciato libero, si muove sulla superficie orizzontale, sale per il piano inclinato e cade dietro di esso a una distanza R dal muro verticale.
 Se su tutte le superfici il coefficiente di ruggine è 0,1 e si disprezza la friczione con l'aria, calcolare:
@@ -641,7 +641,7 @@ c)-Calcule el espacio total recorrido durante el tiempo de movimiento descripto.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 8 - San Fernando del Valle di Catamarca (Avion) **
+**Local 8 - San Fernando del Valle di Catamarca (Avion)**
 
 Un aereo di massa 980 kg viaggia in linea retta a 306 km/h per due minuti, dopo i quali trova una nube molto densa che diminuisce gradualmente la sua velocità per 2 minuti, fino a un valore di 241,2 km/h. Dopo il cloud, la velocità iniziale si riprende in un minuto.
 a) Descrivi il tipo di movimento in ogni intervallo.
@@ -686,7 +686,7 @@ Calcule el tiempo total que tarda en detenerse desde que ve el árbol.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 9 - Reds (Veicolo e albero) **
+**Local 9 - Reds (Veicolo e albero)**
 
 Il conducente di un veicolo che va a 108 Km/h vede un albero caduto sulla strada 100 m. Applicare i freni richiede 1/4 secondo e poi continua a frenare a 4m/s.
 Calcola il tempo totale di fermo da quando vedi l'albero.
@@ -700,7 +700,7 @@ C'è uno scontro?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 9 - Red (Vehicle and tree) **
+**Local 9 - Red (Vehicle and tree)**
 
 The driver of a vehicle speeding at 108 Km/h sees a fallen tree on the road 100 m. The brakes are applied for 1/4 second and then continue braking at 4m/s.
 Calculate the total time it takes to stop since you see the tree.
@@ -738,7 +738,7 @@ Para el sistema de la figura obtener una expresion para calcular la aceleración
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 10 - Florida (Sistema di pullee, accelerazione) **
+**Local 10 - Florida (Sistema di pullee, accelerazione)**
 
 Per il sistema della figura ottenere un'espressione per calcolare l'accelerazione di ciascuna delle masse e le tensioni delle corde. (Figura: m1, m2, m3). NOTA: I fili sono considerati estensibili e la massa delle pollice è disprezzabile.
 
@@ -791,7 +791,7 @@ Desde la cuspide de un plano inclinado de 20 m de base y 6 m de altura se lanzar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 11 - Resistenza (piano inclinato, due mossi) **
+**Local 11 - Resistenza (piano inclinato, due mossi)**
 
 Dal cuspido di un piano inclinato di 20 m di base e 6 m di altezza sono stati lanciati contemporaneamente due movimenti, A per il piano inclinato e B in caduta libera (velocità iniziale pari a zero). Se entrambi i movimenti arrivano al suolo contemporaneamente a che velocità è stato lanciato A.
 
@@ -836,7 +836,7 @@ Pablo cuelga un bloque de 2Kg, del techo del ascensor y en la parte inferior del
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 12 - Rodi (Blocchi di ascensore) **
+**Local 12 - Rodi (Blocchi di ascensore)**
 
 Pablo sospende un blocco di 2 kg dal tetto dell'ascensore e nella parte inferiore del blocco 1, sospende un altro blocco di doppio peso. Si chiede di trovare:
 ./ Le tensioni delle due corde - l'ascensore si sposta verso l'alto a velocità costante.
@@ -888,7 +888,7 @@ Sobre una barra de peso despreciable y 100 cm de longitud actuan las cinco fuerz
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 13 - Dolori (Cinque forze, equilibrio) **
+**Local 13 - Dolori (Cinque forze, equilibrio)**
 
 Su una barra di peso sconsiderato e di 100 cm di lunghezza agiscono le cinque forze rappresentate nella figura. Trovare graficamente e analiticamente l'equilibrio del sistema e il suo punto di applicazione. (figura con forze, 60 cm)
 
@@ -946,7 +946,7 @@ De acuerdo al gráfico, calcular la incógnita. (figura: gráfico v/t, V(0)=? ha
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 14 - San Nicolas (Grafico, ritrovare incognita) **
+**Local 14 - San Nicolas (Grafico, ritrovare incognita)**
 
 Secondo il grafico, calcolare l'incognito. (Figura: grafico v/t, V(0)=? fino a V(8)=20 m/s)
 
@@ -1001,7 +1001,7 @@ b) Luego que pase por E con esa velocidad, se encuentra con el bloque B que esta
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 15 - Capitale federale (Figura, due blocchi) **
+**Local 15 - Capitale federale (Figura, due blocchi)**
 
 Nella pista della figura ci sono 2 blocchi, che possono muoversi con scarsa rottura, eccetto nel tratto CD.
 a) Considerare quale altezza deve essere abbassata per far passare il blocco A attraverso il punto E con la minima velocità, senza cadere dal binario.
@@ -1055,7 +1055,7 @@ En la ciudad de Rio Gallegos un niño juega en el hielo; el juego consiste en ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 16 - Comodoro Rivadavia (Gioco dello sciame, Rio Gallegos) **
+**Local 16 - Comodoro Rivadavia (Gioco dello sciame, Rio Gallegos)**
 
 Nella città di Rio Gallegos un bambino gioca sul ghiaccio; il gioco consiste nel trascinare una ghiacciaia sul ghiaccio. Se la massa del bagliato è di 5 kg. e il ragazzo esercita una forza di 15 NW. a 30°, determinare il lavoro svolto dal ragazzo e la velocità finale del bagliamento quando ha percorso 5 m., supponendo che parte del riposo e non vi sia attrito.
 
@@ -1092,7 +1092,7 @@ En la ciudad de Rio Gallegos un niño juega en el hielo; el juego consiste en ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 17 - Comodoro Rivadavia (Rio Gallegos, ghiaccio scivolante) **
+**Local 17 - Comodoro Rivadavia (Rio Gallegos, ghiaccio scivolante)**
 
 Nella città di Rio Gallegos un bambino gioca sul ghiaccio; il gioco consiste nel trascinare una ghiacciaia sul ghiaccio. Se la massa del bagliato è di 5 kg. e il ragazzo esercita una forza di 15 Nw a 30°, determinando il lavoro svolto dal ragazzo e la velocità finale del bagliardo quando ha percorso 5 metri, supponendo che parte del riposo e non ci sia attrito.
 
@@ -1138,7 +1138,7 @@ d)Para el mismo movimiento, si la altura fuese la tercera parte de la anterior. 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 18 - San Fernando del Valle di Catamarca (Cosso cadente libero, grafici) **
+**Local 18 - San Fernando del Valle di Catamarca (Cosso cadente libero, grafici)**
 
 Uno dei seguenti grafici y-t corrisponde a quello di un corpo in caduta libera, partendo dal riposo. (Figure: grafici (a) e (b))
 a).- Quale dei due grafici è corretto?
@@ -1203,7 +1203,7 @@ En el gráfico de la figura se representa un sector de una montaña rusa. Sobre 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 19 - Villa Carlos Paz (Montana russa) **
+**Local 19 - Villa Carlos Paz (Montana russa)**
 
 Il grafico della figura rappresenta un settore di una montagna russa. Sulla base dei dati della figura calcolare:
 1) L'energia cinetica al punto A.
@@ -1265,7 +1265,7 @@ D- la altura del plano
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 20 - Rossi (Cosco piatto inclinato, accelerazione) **
+**Local 20 - Rossi (Cosco piatto inclinato, accelerazione)**
 
 Si lascia scivolare un corpo di 5 kg. di massa per un piano inclinato di 25 m. di lunghezza. Il corpo lo percorre in 5 secondi.
 Si desidera calcolare: A- l'accelerazione del corpo.
@@ -1316,7 +1316,7 @@ Se lanza una pelota A, desde la parte superior de un edificio en el mismo instan
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 21 - Comodoro Rivadavia (Due palle, edificio) **
+**Local 21 - Comodoro Rivadavia (Due palle, edificio)**
 
 Una palla A viene lanciata dalla parte superiore di un edificio nello stesso istante in cui dal pavimento viene lanciata verticalmente verso l'alto una seconda palla B. Quando le palle si schiantano, si trovano a spostarsi in direzione opposta e la velocità della prima palla è due volte maggiore di quella della seconda. Determinare a che altezza dell'edificio si verifica lo scontro, espresso in forma di frazione.
 
@@ -1368,7 +1368,7 @@ $g=10$ m/s$^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 22 - Capitale federale (Pilota piattaforma, pallottole, colpo) **
+**Local 22 - Capitale federale (Pilota piattaforma, pallottole, colpo)**
 
 Una palla di massa di 1 kg si trova a riposo sul bordo di un piattaforma alto 5 m. Una pallottola da 10 g si muove parallelo al tavolo in direzione del centro di massa della palla. La palla colpisce plasticamente la palla e essa lascia il tavolo seguendo il percorso della figura cadendo a 2 m di distanza dal piattaforma. Calcolo:
 a) La velocità della palla nel lasciare la tavola.
@@ -1425,7 +1425,7 @@ c) Cuál es la energía mecánica del segundo cuerpo al llegar al punto de encue
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 23 - Resistenza (Corpo da altezza, incontro) **
+**Local 23 - Resistenza (Corpo da altezza, incontro)**
 
 Si lascia cadere un corpo (massa di 2 kg) da un'altezza di 48 m.
 a) A che velocità iniziale si deve lanciare verso l'alto, sullo stesso verticale, un altro 1 kg di massa, per far sì che i corpi si trovino a metà altezza?
@@ -1440,7 +1440,7 @@ c) Qual è l'energia meccanica del secondo corpo quando arriva al punto di incon
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 23 - Resistance (body from height, encounter) **
+**Local 23 - Resistance (body from height, encounter)**
 
 A body (mass of 2 kg) is dropped from a height of 48 m.
 (a) At what initial speed must the body be thrown upwards, over the same vertical, another 1 kg of mass, so that the bodies are halfway up?
@@ -1474,7 +1474,7 @@ Por un plano inclinado, de 6 m de longitud y 1,5 m de altura, una banda móvil s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 24 - Comodoro Rivadavia (Castoni a banda mobile, potenza) **
+**Local 24 - Comodoro Rivadavia (Castoni a banda mobile, potenza)**
 
 Per un piano inclinato, lungo 6 m e alto 1,5 m, una banda mobile sale cassoni di frutta da 20 kg. La banda scivola a velocità costante. Se la potenza utile del dispositivo è di 0,08 CV, quante scatole si alzano al minuto?
 
@@ -1513,7 +1513,7 @@ b) Determinar la velocidad con que los cuerpos llegan a la base del edificio.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 25 - General Peak (edificio in costruzione, colpo) **
+**Local 25 - General Peak (edificio in costruzione, colpo)**
 
 Dalla parte superiore di un edificio in costruzione si scatenano pezzi di 40 metri di altezza. Quando si fa cadere un corpo nel momento in cui si lancia verticalmente dal suolo e verso l'alto un secondo corpo, nel momento in cui si incrociano si spostano in direzione opposta e la velocità del primo è doppia della seconda. Determinare a che altezza del edificio si verifica lo scontro.
 a) Determinare la posizione del primo corpo nel momento in cui il secondo raggiunge la sua altezza massima nel caso in cui si schianti contro di esso e si menzioni istantaneamente.
@@ -1561,7 +1561,7 @@ g) Existe algún instante t, en el cuál el móvil pasa nuevamente por el origen
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 26 - San Fernando del Valle di Catamarca (Grafico velocità-tempo) **
+**Local 26 - San Fernando del Valle di Catamarca (Grafico velocità-tempo)**
 
 Data la seguente grafica velocità - tempo, e considerando che per t=0s il mobile passa per l'origine del sistema di riferimento, calcolare:
 a) In quali intervalli di tempo il movimento è uniforme, e perché?
@@ -1612,7 +1612,7 @@ Una bola que rueda sobre una mesa horizontal de 75 cm. de altura cae tocando el 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 27 - San Salvador de Jujuy (Bola da tavola) **
+**Local 27 - San Salvador de Jujuy (Bola da tavola)**
 
 Una palla che ruota su un tavolo orizzontale di 75 cm. di altezza cade toccando il suolo in un punto situato a una distanza orizzontale di 1,5 m. dal bordo del tavolo. Qual era la velocità della palla quando si era allontanata dal tavolo?
 
@@ -1652,7 +1652,7 @@ c). Repita los cálculos suponiendo que el primer coche sale de Bs.As. 40 minuto
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 28 - Dolores (Automobile A e B, incontro) **
+**Local 28 - Dolores (Automobile A e B, incontro)**
 
 Una macchina sta uscendo da B.S.A. per Azul a 80 Km/h e simultaneamente parte di Azul a Bs.As. Un altro a 70 km/h. Se la distanza tra le due città è di 300 km. e il suo supporto una resistenza rettilinea, determinare graficamente e analiticamente:
 a). A che punto si incrociano?
@@ -1667,7 +1667,7 @@ c). Ripeta i calcoli, supponendo che la prima macchina esci da Bs.As. 40 minuti 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 28 - Dolores (Automobile A and B, meeting) **
+**Local 28 - Dolores (Automobile A and B, meeting)**
 
 A car is leaving Bs.A. to Azul at 80 Km/h and simultaneously part of Azul to Bs.As. Another at 70 km/h. If the distance between the two cities is 300 km. and its support a straight resistance, determine graphically and analytically:
 a). Where do they cross?
@@ -1707,7 +1707,7 @@ c) Velocidad del móvil B en ese punto.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 29 - General Peak (Due mosse opposte) **
+**Local 29 - General Peak (Due mosse opposte)**
 
 Due mobili partono in direzioni opposte sulla stessa retta: (A in senso B e B in senso A).
 A Km/h $\rightarrow$ velocità costante di 20 m/sec e
@@ -1725,7 +1725,7 @@ c) velocità del veicolo B a quel punto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 29 - General Peak (Two moving opposite directions) **
+**Local 29 - General Peak (Two moving opposite directions)**
 
 Two mobiles start in opposite directions on the same straight: (A in a direction from B and B in a direction from A).
 At Km/h $\rightarrow$ constant speed of 20 m/s and
@@ -1764,7 +1764,7 @@ La velocidad al pie del plano inclinado luego de descender por el mismo plano.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 30 - Castelare (Cabra piana inclinata, modulo di accelerazione) **
+**Local 30 - Castelare (Cabra piana inclinata, modulo di accelerazione)**
 
 Un corpo da 4 kg si muove a una velocità iniziale di 6 m/s e inizia ad ascendere per un piano inclinato 30°. C'è un'arricciozione tra il corpo e la superficie di un piano inclinato. Il corpo percorre 6 metri per il piano inclinato.
 Calcolare la forza di ruggine che agisce sul corpo, supponendo che il suo modulo sia costante.
@@ -1820,7 +1820,7 @@ Calcular:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 31 - Generale Pico (Corpo angolare, forza F) **
+**Local 31 - Generale Pico (Corpo angolare, forza F)**
 
 Una forza di 100 New. tira un corpo di 20 kg. di massa formando un angolo di 30° con la orizzontale. Il coefficiente di rottura cinematica tra il corpo e il piano è di 0,2. Se in queste condizioni si avanza 10 metri dal riposo.
 Calcolo:
@@ -1881,7 +1881,7 @@ Un trineo parte del reposo en una rampa inclinada con aceleración constante. Pa
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 32 - Rodi (trineo rampa, due posti) **
+**Local 32 - Rodi (trineo rampa, due posti)**
 
 Un scivolo parte del riposo su una rampa inclinata con costante accelerazione. Passa per un primo posto di controllo con una velocità di 5m/s e per il secondo posto con una velocità di 8m/s. Calcolare l'accelerazione che si prova, la distanza tra il primo punto di partenza al primo posto e il tempo trascorso dal momento in cui si è partito fino al momento in cui si è passato al secondo posto.
 
@@ -1893,7 +1893,7 @@ Un scivolo parte del riposo su una rampa inclinata con costante accelerazione. P
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 32 - Red (Ramped skating, two stands) **
+**Local 32 - Red (Ramped skating, two stands)**
 
 A sled is resting on a steep ramp with constant acceleration. It passes through a first control post at a speed of 5m/s and through the second post at a speed of 8m/s. Calculate the acceleration you experience, the distance between the first starting point to the first place and the time elapsed from the start until the second place.
 
@@ -1924,7 +1924,7 @@ Las estaciones de Bs.As. y Mar del Plata distan aproximadamente 400 Km. De Bs. A
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 33 - Roses (Trenes Bs As Mar del Plata) **
+**Local 33 - Roses (Trenes Bs As Mar del Plata)**
 
 Le stazioni di B.S.A. e il Mar del Plata sono distanti circa 400 Km. De Bs. As. Un treno arriva a Mar del Plata in 5 ore. Da Mar del Plata uscirà un altro che raggiungerà Bs. As. en 3 Hs. Grafica e analisi diversi i tempi e luoghi di incontro per entrambi i treni se il treno di BsAs. La parte a tre e la differenza di ore che separano la città di Costituzione. Se il ritardo del treno del Mar del Plata fosse stato di 330', cosa sarebbe successo?
 
@@ -1966,7 +1966,7 @@ f) En cuánto se debe modificar el ángulo del inciso a), si el blanco modifica 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 34 - Dolores (Tiro al bersaglio, proiettile) **
+**Local 34 - Dolores (Tiro al bersaglio, proiettile)**
 
 Un aereo che vola orizzontalmente ad un'altezza di 1200 m sul suolo con una velocità di 200 km/h, fa cadere una bomba su un bersaglio situato a terra. Determinare:
 a) La distanza orizzontale tra la verticale di lancio e quella del bersaglio all'istante iniziale del lancio.
@@ -2020,7 +2020,7 @@ b)Calcule el aumento de la energia cinética del bloque y el aumento de energía
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 35 - San Salvador de Jujuy (Blocco piano inclinato, forza) **
+**Local 35 - San Salvador de Jujuy (Blocco piano inclinato, forza)**
 
 Un blocco di 50 kg. è spinto a una distanza di 6 m su la superficie di un piano inclinato 37°, con una forza F=50Kg parallela alla superficie del piano.Il coefficiente di ruggine tra il blocco e il piano è di 0,2. a) Quale lavoro fa la forza F e quale è stato il lavoro contro il ruggine?
 b) Calcolare l'aumento dell'energia cinetica del blocco e l'aumento dell'energia potenziale del blocco.
@@ -2063,7 +2063,7 @@ d)Para un cuerpo que cae libremente desde una altura $h$ el aumento de velocidad
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 36 - Caserato (vero o falso, macchine e peso) **
+**Local 36 - Caserato (vero o falso, macchine e peso)**
 
 In base alle possibili situazioni che seguono, risponde se sono vere o false e giustifica ogni risposta.
 a) Se in una leva in equilibrio la distanza della potenza dal punto di sostegno viene allungata dall'aggregazione di un cavo, per mantenerlo in equilibrio devo proporzionalmente ridurre la resistenza al punto di sostegno.
@@ -2079,7 +2079,7 @@ d) Per un corpo che cade liberamente da un'altezza $h$ l'aumento della velocità
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 36 - Household goods (true or false, machinery and weight) **
+**Local 36 - Household goods (true or false, machinery and weight)**
 
 In the following situations, he answers whether they are true or false and justifies each answer.
 (a) If on a lever in equilibrium the distance from the power to the support is extended by the aggregate of a cable, the resistance to the support must be proportionally shortened in order to keep it in equilibrium.
@@ -2114,7 +2114,7 @@ El conductor de un tren subterráneo de 40 m. de longitud que marcha a 15 m/s, d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 37 - Rauch (treno sotterraneo, frenata) **
+**Local 37 - Rauch (treno sotterraneo, frenata)**
 
 Il conducente di un treno sotterraneo di 40 metri. di lunghezza che corrisponde a 15 m/s, deve applicare i freni 50 m prima di entrare in una stazione il cui banco è di 100 m. di lunghezza. Calcolare tra quali valori (minimo e massimo) si deve trovare quello dell'accelerazione di frenata, per fermare il treno entro i limiti del banco.
 
@@ -2160,7 +2160,7 @@ d) Realizar las gráficas espacio-tiempo, para los segmentos DE, EF y FG. (figur
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 38 - Dolores (Grafico spazio-tempo) **
+**Local 38 - Dolores (Grafico spazio-tempo)**
 
 Studia la grafica e risponde:
 a) Che tipo di movimento descrive ogni segmento? - Perché?
@@ -2217,7 +2217,7 @@ c ) el trabajo de la fuerza de rozamiento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 39 - Mar del Plata (Blocco di forza parallela al pavimento) **
+**Local 39 - Mar del Plata (Blocco di forza parallela al pavimento)**
 
 Su un blocco di 50 kg si applica una forza parallela al pavimento. Il coefficiente di rottura cinetica tra il pavimento e il blocco è di 0,4. Partendo dal riposo raggiunge una velocità di 10 m/s dopo aver percorso 10 m. Calcola:
 a) variazione dell'energia cinetica.
@@ -2265,7 +2265,7 @@ c ) the work of the friction force.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 40 - Caserotti (Cosco piatto inclinato, schema) **
+**Local 40 - Caserotti (Cosco piatto inclinato, schema)**
 
 Quanto pesa il corpo che sta sul piano inclinato? Schema (non a scala). (figura con pollice, 6m, 8m, 4m, P, 2P, mu=0,2)
 
@@ -2282,7 +2282,7 @@ Quanto pesa il corpo che sta sul piano inclinato? Schema (non a scala). (figura 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 40 - Houses (Flat body tilted, scheme) **
+**Local 40 - Houses (Flat body tilted, scheme)**
 
 How much does the body weigh on the slope? Scheme (not at scale). (Figure with pulleys, 6m, 8m, 4m, P, 2P, mu=0,2)
 
@@ -2318,7 +2318,7 @@ Dos trenes viajan en distintas direcciones por la misma vía. El tren A viaja a 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 41 - Ibarreta (Due treni e mosca) **
+**Local 41 - Ibarreta (Due treni e mosca)**
 
 Due treni viaggiano in direzioni diverse sulla stessa pista. Il treno A viaggia a 100 Km/h e il treno B a 80 km/h. Quando si trovano a 90 Km di distanza una mosca inizia a passare da un treno all'altro a 120 km/h fino a quando si schiacciano passando il treno A a 70 Km/h. Finalmente i treni si schiantano? Quanto percorre la mosca finché i treni non si schiantano?
 
@@ -2330,7 +2330,7 @@ Due treni viaggiano in direzioni diverse sulla stessa pista. Il treno A viaggia 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 41 - Ibarreta (Two trains and a fly) **
+**Local 41 - Ibarreta (Two trains and a fly)**
 
 Two trains travel in different directions on the same track. The A train travels at 100 km/h and the B train at 80 km/h. When they are 90 km away a fly starts to pass from one train to another at 120 km/h until they crush when passing the A train at 70 km/h. Are the trains finally colliding? How far does the fly travel until the trains collide?
 
@@ -2366,7 +2366,7 @@ iii) dibuje con escala adecuada la aceleración en función del tiempo y la velo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 42 - San Fernando del Valle di Catamarca (acceleratore di particelle) **
+**Local 42 - San Fernando del Valle di Catamarca (acceleratore di particelle)**
 
 Un apparecchio che accelera le particelle atomiche. Le particelle uscendo da lì, dopo aver fatto un giro, si schiantano contro un muro di un determinato materiale che le fa vibrare. Determinare:
 a) Calcolare la lunghezza del percorso della particella di 20 cm di diametro.
@@ -2456,7 +2456,7 @@ La viga uniforme AB tiene 4 m de largo y pesa 100 kgf. La viga reposa en A y pue
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 44 - Mar del Plata (Viga uniforme, equilibrio) **
+**Local 44 - Mar del Plata (Viga uniforme, equilibrio)**
 
 Il fascio uniforme AB è lungo 4 m e pesa 100 kgf. Il viglio si trova su A e può ruotare attorno al punto C. Un uomo di 75 kgc cammina lungo il vigno partendo da A. Calcolare la distanza massima che un uomo può camminare da A mantenendo l'equilibrio. (Figura, 2,5 m, C, B)
 
@@ -2493,7 +2493,7 @@ Luisa Lane, la chica enamorada de Superman en esta historieta, es arrojada desde
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 45 - Gualeguaychu (Superman e Luisa Lane) **
+**Local 45 - Gualeguaychu (Superman e Luisa Lane)**
 
 Luisa Lane, la ragazza innamorata di Superman in questo film, viene gettata da un edificio alto 180 metri e scende in caduta libera. Superman arriva al vertice del palazzo a 4.0 secondi dopo che Luisa ha iniziato a cadere e lancia, a velocità costante, per salvarla. Qual è il minimo valore della velocità che Superman deve sviluppare per raggiungere un raptor prima che colpisca il suolo? (Considerato $g=10$ m/s$^2$).
 
@@ -2538,7 +2538,7 @@ b) Si su peso es igual en la tierra que en la Luna. Justificar.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 46 - Caseros (Peso sulla Terra e sulla Luna) **
+**Local 46 - Caseros (Peso sulla Terra e sulla Luna)**
 
 Un astronauta pesa 85 kg sulla terra. Si desidera sapere:
 a) Se la sua massa sulla Terra è uguale a quella della Luna. Giustificare.
@@ -2552,7 +2552,7 @@ b) Se il suo peso sulla Terra è uguale a quello della Luna. Giustificare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 46 - Households (Weight on the Earth and the Moon) **
+**Local 46 - Households (Weight on the Earth and the Moon)**
 
 An astronaut weighs 85 kg on Earth. You want to know:
 (a) If its mass is the same on the earth as on the moon. Justify it.
@@ -2590,7 +2590,7 @@ c) Cual es la tensión de la cuerda? (Datos: $\mathbf{g}_L=1,66$ m/s$^2$, $\math
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 47 - General Peak (Due blocchi di pollea, piani senza rottura) **
+**Local 47 - General Peak (Due blocchi di pollea, piani senza rottura)**
 
 Due blocchi sono uniti da una piccola polea e riposano su piani senza ruggine, come indica la figura:
 a) In che senso il sistema si muoverà?
@@ -2645,7 +2645,7 @@ Que tiempo dura el viaje?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 48 - Ibarreta (Collectivo Formosa-Pirane-Ibarreta) **
+**Local 48 - Ibarreta (Collectivo Formosa-Pirane-Ibarreta)**
 
 Un collettivo parte da Formosa alle 0:30 per Pirane -100 KM.- a 60 km/h. Arriva per 15 minuti e parte con un'accelerazione di 200 km/h$^2$ fino al comandante Fontana -41 km- dove per 5 minuti e continua il viaggio fino a Ibarreta -202 km da Formosa- a 70 km/h.
 A che ora arriva a Ibarreta?
@@ -2690,7 +2690,7 @@ d)¿Qué velocidad lleva la piedra a los 5,5 seg?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 49 - Caseros (Honda, pietra verticale) **
+**Local 49 - Caseros (Honda, pietra verticale)**
 
 Un bambino seduto sul pavimento lancia con la sua sponda una pietra verticalmente verso l'alto con $v=30$m/s per cadere a riposo in un nubo da un albero a 50m. di altezza. (Spregiamo la lunghezza dellaonda).
 a) A che altezza raggiunge la pietra?
@@ -2737,7 +2737,7 @@ b) Si se necesitan enviar provisiones a dicha población por medio de un avión 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 50 - San Nicolas (Nieve, lancio di cisterne) **
+**Local 50 - San Nicolas (Nieve, lancio di cisterne)**
 
 La città di Rio Gallegos, in mare, è stata coperta dalla neve. La sensazione termica è stata 27° sotto zero. È stata dichiarata zona di emergenza. L'aeroporto è stato temporaneamente chiuso.
 a) Esprime la temperatura in °F.
@@ -2785,7 +2785,7 @@ Datos: $g=10$ m/s$^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 51 - Capitale federale (tre corpi, fili, tavolo con polla) **
+**Local 51 - Capitale federale (tre corpi, fili, tavolo con polla)**
 
 Si hanno tre corpi di 1 kg uniti da due fili di massa sconsiderata e lunghi 3 m. Si collocano secondo la figura lasciando 2 m di distanza tra i due di sopra e tra quello del mezzo e il bordo del tavolo. Tra i corpi e la tavola c'è un'acciaio con coefficienti $\mu_e=0,3$ e $\mu_d=0,2$ e la polla ha una massa scadente. Se li hanno rilasciati:
 a) Il sistema si muove?
@@ -2845,7 +2845,7 @@ c) Realizar gráficas posición-tiempo, velocidad-tiempo y aceleración-tiempo p
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 52 - Bahia Bianca (auto di polizia, infrazione) **
+**Local 52 - Bahia Bianca (auto di polizia, infrazione)**
 
 Una macchina di polizia vuole raggiungere un'infrazione che cammina a una velocità costante di 125 km/h. Supponiamo che il cellulare della polizia parte dal riposo, nello stesso istante in cui l'infractore lo avanza, con un'accelerazione costante di 8 km/sec fino a raggiungere la sua velocità massima di 190 km/h, che poi mantiene costante.
 a) Determinare il tempo necessario per raggiungere l'automobile della polizia.
@@ -2893,7 +2893,7 @@ e) la separación entre los móviles a los 10 segundos. (figura grafico x-t, Mov
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 53 - Mar del Plata (grafico a due movimenti rettilineari) **
+**Local 53 - Mar del Plata (grafico a due movimenti rettilineari)**
 
 Dal grafico di due movimenti rettilini, rappresentato di seguito, determinare:
 a) il tipo di movimento di ciascun mobile.
@@ -2910,7 +2910,7 @@ e) la separazione tra i cellulari ogni 10 secondi. (grafico x-t, Movil 1, Movil 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 53 - Silver Sea (Two straight linear movements chart) **
+**Local 53 - Silver Sea (Two straight linear movements chart)**
 
 From the graph of two straight movements, shown below, determine:
 (a) the type of movement of each mobile.
@@ -2946,7 +2946,7 @@ La distancia entre el centro del planeta Júpiter y uno de sus satélites es 27 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 54 - Capitale federale (Jupiter, satellite, gravità) **
+**Local 54 - Capitale federale (Jupiter, satellite, gravità)**
 
 La distanza tra il centro del pianeta Giove e uno dei suoi satelliti è 27 volte il suo raggio. Tale satellite descrive un'orbita in cerchio con periodo $V=100$ m/sec e tiro di tiro di 30 °. Calcolare l'accelerazione della gravità sulla superficie di Giove, sapendo che il suo raggio è di 71000 km.
 
@@ -2986,7 +2986,7 @@ Desde un cierto punto A se lanza un proyectil con $V=100$ m/seg y ángulo de tir
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 55 - Correnti (proiettore e antiproiettore) **
+**Local 55 - Correnti (proiettore e antiproiettore)**
 
 Da un certo punto A viene lanciato un proiettile con $V=100$ m/seg e angolo di lancio di 30°. Da un punto B, situato nello stesso retto orizzontale di A, e distante 700 m da esso, viene lanciato verticalmente verso l'alto, con $V=60$ m/seg un antiproiettile.
 A che punto deve essere sparo il proiettile per fargli colpire il proiettile?
@@ -3031,7 +3031,7 @@ b)Si el camión recorre el gran puente y se sujeta para ella la caja al camión 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 56 - General Pico (remolco, cassetta, camion) **
+**Local 56 - General Pico (remolco, cassetta, camion)**
 
 Il rimorchio della figura deve viaggiare a una velocità di 90 km/h, se il coefficiente di rottura statica ($\mu$) tra il rimorchio e la cassa è di 0,15; determinare:
 a) La distanza minima da accelerare per evitare che la cassa corra
@@ -3079,7 +3079,7 @@ e) Tiempo que tarda en recorrer la distancia $\overline{AB}$. (figura plano incl
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 57 - Resistenza (Bassa piatta inclinata, energia) **
+**Local 57 - Resistenza (Bassa piatta inclinata, energia)**
 
 Un uomo spinge una scatola di 4 kg. Di conseguenza, si sposta con una velocità iniziale di 6 m/s per un piano orizzontale. Comincia poi ad ascendere per un piano inclinato di 30°. C'è un'acciaio tra il corpo e la superficie del piano inclinato. Per questo il corpo si ferma ad un'altezza di 1,5 metri.
 Calcolo:
@@ -3136,7 +3136,7 @@ En la resistencia $R_1$ del circuito de la figura se disipan 23,9 calorías en c
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 58 - Resistenza (circuito, calorie, voltimetro) **
+**Local 58 - Resistenza (circuito, calorie, voltimetro)**
 
 La resistenza $R_1$ del circuito della figura consente di dissipare 23,9 calorie al secondo. Calcolare le letture dei voltometri e dell'ampimetro. (Figura: $\varepsilon_1=4A$, $\varepsilon_2=2$, $\varepsilon_3=8$, $\varepsilon_4=10\Omega$)
 
@@ -3190,7 +3190,7 @@ d) ¿Cuál será la posición y signo de una tercera carga, de igual magnitud a 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 59 - San Fernando del Valle di Catamarca (Sfera e pendolo carico) **
+**Local 59 - San Fernando del Valle di Catamarca (Sfera e pendolo carico)**
 
 Considera una sfera A carica e un pendolo B anche carica, entrambi con carichi di uguale magnitudo ma di segni opposti.
 Sapendo che B è in equilibrio e che la sua massa ha un valore di 10g
@@ -3209,7 +3209,7 @@ d) Qual è la posizione e il segno di una terza carica, di grandezza uguale a qu
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 59 - San Fernando del Valle de Catamarca (Ball and pendulum loaded) **
+**Local 59 - San Fernando del Valle de Catamarca (Ball and pendulum loaded)**
 
 Consider a loaded A sphere and a loaded B pendulum, both with charges of equal magnitude but of opposite signs.
 Knowing that B is in equilibrium and that its mass is worth 10g
@@ -3248,7 +3248,7 @@ a)La carga y diferencia de potencial de la asociación, b)la carga de cada conde
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 60 - Florida (Condensatori in parallelo, energia) **
+**Local 60 - Florida (Condensatori in parallelo, energia)**
 
 Un condensatore a 5 μF di capacità si carica a 70 V e viene quindi collegato in parallelo con un altro condensatore a 10 μF a 150 V. Trovare:
 (a) carico e differenza di potenziale dell'associazione; (b) carico di ciascun condensatore del sistema; (c) totale energia immagazzinata; (d) totale energia immagazzinata nei due condensatori prima di associarli.
@@ -3302,7 +3302,7 @@ i) ¿Qué igualdad se podría conseguir mediante las lecturas (y cálculos corre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 61 - capitale federale (motore elettrico, fattore di potenza) **
+**Local 61 - capitale federale (motore elettrico, fattore di potenza)**
 
 Un motore elettrico a 220 V di corrente alternativa monopassiale a frequenza $f=50$ Hz, da 2 HP, è utilizzato per sollevare un corpo da 50 kg a velocità costante.
 a) Calcolare la velocità con cui il corpo sale.
@@ -3365,7 +3365,7 @@ C- La diferencia de potencial en cada condensador. (figura circuito $C_1$, $C_2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 62 - Rodi (Condensatori) **
+**Local 62 - Rodi (Condensatori)**
 
 Secondo il circuito della figura, dove $C_1=2$ x 10$^{-6}$F, $C_2=600$ μF, $V=1,2$ x 10$^3$ volt. Si chiede di trovare:
 A- Il carico del condensatore equivalente.
@@ -3432,7 +3432,7 @@ c) potencia consumida por los cables. (figura: $R$ cables=2$\Omega$, $E=12$V, $R
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 63 - San Nicolas (batteria 12V, cavi) **
+**Local 63 - San Nicolas (batteria 12V, cavi)**
 
 Una batteria da 12 V (con R interno) alimenta attraverso cavi che hanno un R=2W un R di carica che consuma una potenza di 16 W. Calcolo:
 a) intensità del corrente che circola nel circuito.
@@ -3525,7 +3525,7 @@ Dos esferas de iguales radios y pesos están suspendidas de hilos de manera que 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 65 - San Salvador de Jujuy (Sfere cariche, fili) **
+**Local 65 - San Salvador de Jujuy (Sfere cariche, fili)**
 
 Due sfere di uguali radii e pesi sono sospesi da fili in modo che le loro superfici si toccino. Dopo aver comunicato loro un carico di $q=4.10^{-7}$C sono stati respinti e distanziati formando i fili un angolo di 60°.
 
@@ -3564,7 +3564,7 @@ b) Indicar cómo colocaría en el circuito eléctrico las dos lámparas de los f
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 66 - Capitale federale (auto elettrica giocattolo, resistenza interna) **
+**Local 66 - Capitale federale (auto elettrica giocattolo, resistenza interna)**
 
 Si vuole progettare un'auto elettrica giocattolo per sviluppare una velocità di 0,5 m/s. Il coefficiente di rottura dinamica è di 0,1 e la massa di 2 kg. L'auto pesa un motore di 0,5 Ω, con una resistenza omica di 100 W, e ha un rendimento dell'82%.
 a) Trovare la tensione che deve essere fornita da una fonte con una resistenza interna di 9 W, per soddisfare il requisito di progettazione.
@@ -3609,7 +3609,7 @@ e) Si la fuerza Q1 - Q3 calculada en d) aumenta 4 veces, la distancia Q1 - Q3 au
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 67 - San Fernando del Valle di Catamarca (Tre cariche puntuali) **
+**Local 67 - San Fernando del Valle di Catamarca (Tre cariche puntuali)**
 
 Tre cariche elettriche puntate Q1, Q2 e Q3 sono posizionate su un tavolo isolato come mostrato nella figura. Il mezzo che circonda le cariche è l'aria e si indica la distanza che le separa. Sapendo che la forza con cui le cariche Q1 e Q2 attraggono è positiva:
 b) Se Q1 e Q3 si avvicinano fino a essere separati di 16 cm, quante volte diminuisce la distanza tra loro?
@@ -3661,7 +3661,7 @@ d) ¿Qué cantidad de calor genera $R_3$ en media hora? (figura circuito)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 68 - Resistenza (circuito resistente, due fem) **
+**Local 68 - Resistenza (circuito resistente, due fem)**
 
 Per il circuito indicato:
 $R_1=3W$  $R_2=1W$
@@ -3680,7 +3680,7 @@ d) Quanta calore $R_3$ genera in mezz'ora? (Figura circuito)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 68 - Resistance (resistant circuit, two fem) **
+**Local 68 - Resistance (resistant circuit, two fem)**
 
 For the indicated circuit:
 $R_1=3W$  $R_2=1W$
@@ -3765,7 +3765,7 @@ f) Hallar la resistencia del generador.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 70 - Capitale federale (motore CC, lampade) **
+**Local 70 - Capitale federale (motore CC, lampade)**
 
 Un motore di C.C. di 736 W e un rendimento dell'84% è collegato in parallelo a 5 lampade di 25W/200V che funzionano a tensione nominale, fornite da un generatore di fem $\varepsilon=250$V, di resistenza interna r(Ω).
 a) rappresentare il circuito.
@@ -3817,7 +3817,7 @@ Una vez armado el circuito ¿Cómo procederia para lograr el objetivo propuesto?
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il numero di persone che hanno ricevuto la notifica è stato di circa un milione di euro. Sermento (fonte 56V, tre resistenze)**
+Il numero di persone che hanno ricevuto la notifica è stato di circa un milione di euro. Sermento (fonte 56V, tre resistenze)
 
 Una fonte di 56 V , viene applicata ad un'associazione di tre resistenze producendo un corrente di 20 A.
 a) Calcolare il valore della resistenza $R_3$.
@@ -3869,7 +3869,7 @@ EN EL CIRCUITO DADO DETERMINAR LOS VALORES DE :
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 72 - Ibarreta (circuito, determinazione dei valori) **
+**Local 72 - Ibarreta (circuito, determinazione dei valori)**
 
 Nel circolo dato per determinare i valori di:
 1- $V_3$-$R_2$-$R_5$-$V_2$-$R_3$-$V_5$-$R_1$-$R_t$-e. (Figura di circuito con valori $V_{ab}=V_1$, ecc.)
@@ -3918,7 +3918,7 @@ Una lámpara de 0,4 watt se diseña para que trabaje con dos voltios entre sus t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 73 - Correnti (Lampa di 0,4 watt, resistenza parallela) **
+**Local 73 - Correnti (Lampa di 0,4 watt, resistenza parallela)**
 
 Una lampada da 0,4 watt è progettata per funzionare con due volt tra i suoi terminali. Una resistenza "$R_x$", è posta in parallelo alla lampada e la combinazione è messa in serie con resistenza $R_1=2$ ohm e una batteria di 3 volt e resistenza interna di 1 ohm. Disegni il circuito e calcoli: a) il valore della resistenza della lampada, b) il valore che deve essere $R_x$ per far funzionare la lampada al voltaggio desiderato.
 
@@ -3930,7 +3930,7 @@ Una lampada da 0,4 watt è progettata per funzionare con due volt tra i suoi ter
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 73 - Current (Lamp of 0,4 watt, parallel resistance) **
+**Local 73 - Current (Lamp of 0,4 watt, parallel resistance)**
 
 A 0.4-watt lamp is designed to work with two volts between its terminals. A resistance "$R_x$" is placed parallel to the lamp and the combination is set in series with the resistance $R_1=2$ ohm and a 3 volt battery and an internal resistance of 1 ohm. Draw the circuit and calculate: (a) the value of the lamp's resistance, (b) the value $R_x$ must be obtained for the lamp to operate at the desired voltage.
 
@@ -3969,7 +3969,7 @@ B)En que punto de una pantalla fluorescente colocada a 12 cm impactara el electr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 74 - Buenos Aires (Platte cariche, elettroni) **
+**Local 74 - Buenos Aires (Platte cariche, elettroni)**
 
 Tra due placche piatte e parallele cariche di uguali carichi e di segni opposti esiste un campo elettrico uniforme. Si lancia un elettrone alla fine sinistra della scheda negativa con una velocità iniziale Vo come indicato nella figura.
 Successivamente si osserva che l'elettrone raggiunge l'estremità opposta della scheda inferiore in un intervallo di tempo di $15\cdot10^{-9}$ seg.
@@ -4031,7 +4031,7 @@ c) ¿Cuánto vale la resistencia eléctrica de ese calentador?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 75 - Florida (caldabile elettrico, specifiche) **
+**Local 75 - Florida (caldabile elettrico, specifiche)**
 
 Un caldaio elettrico è conformato alle seguenti specifiche del fabbricante: 960 W, 120 V.
 a) Esprima il significato di questi valori.
@@ -4088,7 +4088,7 @@ d. La energia que consume el circuito en KW-h. (figura: 27V/R i+1Ω, 12Ω, 2.5Ω
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 76 - Dolores (batteria 27V, circuito resistente) **
+**Local 76 - Dolores (batteria 27V, circuito resistente)**
 
 Una batteria da 27 Volt e una resistenza interna di 1W, alimenta il circuito resistente rappresentato nel diagramma seguente; calcolare: a. Le intensità e le tensioni di ogni resistenza.
 b. Il calore scaricato da ogni lato del circuito in 30 secondi.
@@ -4150,7 +4150,7 @@ b.2) Colocar la misma masa de metal caliente a la misma temperatura.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 77 - Bahia Blanca (Frigorante, vero o falso) **
+**Local 77 - Bahia Blanca (Frigorante, vero o falso)**
 
 a) Alcuni annunci commerciali di frigoriferi spesso esortano i vantaggi di questi prodotti dicendo: "Il nostro prodotto non lascia entrare il calore e non esce il freddo". Indicare se questa affermazione è vera o falsa, giustificando la sua risposta.
 b) Supponiamo che vogliamo scongelarci un frigorifero, indicando quale dei seguenti metodi sarebbe il più adatto per realizzare questo compito, fondando la scelta:
@@ -4165,7 +4165,7 @@ b.2) Mettere la stessa massa di metallo caldo alla stessa temperatura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 77 - Bahia Blanca (Refrigerator, true or false) **
+**Local 77 - Bahia Blanca (Refrigerator, true or false)**
 
 (a) Some commercials for refrigerators often promote the advantages of these products by saying "Our product does not let heat in or escape cold". Declare whether this statement is true or false, justifying your answer.
 (b) Suppose we wish to thaw a refrigerator, we indicate which of the following methods would be most appropriate to accomplish this task, and we give the choice:
@@ -4209,7 +4209,7 @@ d)La temperatura final del sistema. (figura cilindro-piston-resorte, Q1)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 78 - Florida (Gas in cilindro, pistone, scarico) **
+**Local 78 - Florida (Gas in cilindro, pistone, scarico)**
 
 Si ha un sistema come quello della figura che si trova a P1 = 1atm e T1=27°C e ha all'interno un mol d'aria. Se lasciamo passare un caldo di 30 centimetri non permette il passaggio attraverso di esso di massa o calore. L'aria calda in Q1 aggiunta al sistema fino a quando il cellulare si compresse 10 cm rispetto alla sua posizione iniziale, dopo di che lo stato del sistema è definito da P2 e P2. La costante "k" del molo è di 20 kg/cm e le condizioni atmosferiche sono P0=1atm e T0=27oC.
 - Hale:
@@ -4270,7 +4270,7 @@ e)- Si la temperatura aumenta 2,33 °K por hora, ¿ cuánto tiempo dispondrá la
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 79 - San Fernando del Valle di Catamarca (Terrorista, termometro e esplosivo) **
+**Local 79 - San Fernando del Valle di Catamarca (Terrorista, termometro e esplosivo)**
 
 Hassan Al Kilo, noto terrorista internazionale, si trova in Nosolandia, potenza mondiale di cui è un militante di spicco. La sua missione consiste nel posizionare un potente esplosivo nella Casa del Governo per vendicare i suoi compatrioti incarcerati.
 L'esplosivo è costruito in modo tale da essere attivato quando la temperatura ambiente raggiunge almeno 32°C. Per realizzare la sua missione Hassan è riuscito a ottenere solo un termometro graduato da 0 a 250 gradi su una scala che è stata indicata. Potresti ... controllare le seguenti domande che tormentano Hassan?
@@ -4323,7 +4323,7 @@ Datos: $g=9.8$ m/s$^2$, $d_{Fe}=7.9$ g/cm$^3$, $d_{agua}=1$ g/cm$^3$, 1 atm = 76
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 80 - Capitale federale (cylindro, embolio, cubo di ferro, gas) **
+**Local 80 - Capitale federale (cylindro, embolio, cubo di ferro, gas)**
 
 Abbiamo un cilindro di 2,5 cm di raggio con un'emblema di massa disprezzabile che è stata attaccata con un filo di massa disprezzabile inestensibile un cubo di ferro di 10 cm di lato. In queste condizioni, l'imbolo è a 20 cm dalla base del cilindro.
 a) Se immergiamo il cubo in un vassoio d'acqua e supponiamo che fino a quando il gas ritorna alla temperatura iniziale, quanto si sposta l'imbolo?
@@ -4374,7 +4374,7 @@ Se desea obtener 50 litros de agua a 40°C mezclando con 20 litros de agua que t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 81 - Resistenza (miscela di acqua, calore) **
+**Local 81 - Resistenza (miscela di acqua, calore)**
 
 Si desidera ottenere 50 litri di acqua a 40°C mescolando con 20 litri di acqua a temperatura di 10°C a) Determinare la quantità di calore necessaria per riscaldare i restanti 30 litri. B) Calcolare la temperatura che deve avere inizialmente questi 30 litri. c) stabilire la potenza da fornire in Kw-ora, purché non vi siano perdite di calore
 
@@ -4417,7 +4417,7 @@ Se calienta un mol de gas oxígeno desde una temperatura de 20°C y una presión
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 82 - Comodoro Rivadavia (Mol di ossigeno, calore) **
+**Local 82 - Comodoro Rivadavia (Mol di ossigeno, calore)**
 
 Un mol di gas ossigeno viene riscaldato a una temperatura di 20°C e a una pressione di 1 atm. fino a una temperatura di 100°C. Supponendo che l'ossigeno sia un gas ideale: a) Quanto calore deve essere fornito se il volume durante il riscaldamento è mantenuto costante? b) Quanto calore deve essere fornito se la pressione è mantenuta costante ? c) Quanto lavoro farà il gas nella parte b)?
 
@@ -4461,7 +4461,7 @@ g) representar la evolución del sistema del punto f en un gráfico de temperatu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 83 - Capitale federale (vapore, ghiaccio, caloriometria) **
+**Local 83 - Capitale federale (vapore, ghiaccio, caloriometria)**
 
 5 kg di vapore a 100°C/Pa occupano un volume di 8,4 m$^3$. Considerando la densità dell'acqua $d_{liq}=1$ kg/dm$^3$ a 100°C e 101300 Pa e il calore di vaporizzazione $c_v=540$ kcal/kg, si trova:
 a) la quantità di calore necessaria per evaporare i 5 kg di acqua liquida a 100°C.
@@ -4522,7 +4522,7 @@ Sobre el eje óptico de un espejo esférico cóncavo de 60 cm de radio y a 45 cm
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 84 - Villa Carlos Paz (Specchio spiacevole concave) **
+**Local 84 - Villa Carlos Paz (Specchio spiacevole concave)**
 
 Sull'asse ottico di uno specchio sfero concavo di 60 cm di raggio e a 45 cm di distanza da tale specchio, si trova un oggetto di 20 cm di altezza.
 1) Fare un disegno che rappresenti la situazione.
@@ -4570,7 +4570,7 @@ c) Si $\alpha=60$° , encuentre el máximo 'n' para que no haya reflexión total
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 85 - Capitale federale (Rays, cubo di materiale trasparente) **
+**Local 85 - Capitale federale (Rays, cubo di materiale trasparente)**
 
 Un raggio incide da un angolo α sulla superficie orizzontale di un cubo di materiale trasparente di indice 'n' immerso in aria.
 a) Indicare per quali valori di α si trova la riflessione totale interna sul lato verticale.
@@ -4620,7 +4620,7 @@ Resuelva ambos casos gráfica y analíticamente.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 86 - Dolore (Lens divergente, immagine) **
+**Local 86 - Dolore (Lens divergente, immagine)**
 
 Determinare la posizione e la dimensione dell'immagine data da un lente divergente di -18 cm di distanza focale, di un oggetto di 9 cm. di altezza, situata a una distanza da 0,27 m dalla lente. Che cosa facciamo se raddoppiamo il raggio di curvatura?
 Risolve entrambi i casi graficamente e analiticamente.
@@ -4666,7 +4666,7 @@ Bajo qué ángulo de incidencia (desde el aire) los rayos reflejado y refractado
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 87 - Castelare (Lamma di vetro, raggi perpendicolari) **
+**Local 87 - Castelare (Lamma di vetro, raggi perpendicolari)**
 
 Si tratta di una lamina di vetro con un tasso di refraczione di 1,5.
 Sotto quale angolo di incidenza (dall'aria) i raggi riflessi e refratti sulla lamina, saranno perpendicolari.
@@ -4717,7 +4717,7 @@ Continúe las preguntas al pescador. Datos: $n_{aire}=1,5$, $n_{agua}=1,33$, $c=
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 88 - Capitale federale (pescatore, pescatore, rifrazione) **
+**Local 88 - Capitale federale (pescatore, pescatore, rifrazione)**
 
 Un pescatore stava nuotando tranquillamente nella sua piscina quando improvvisamente un fisico si è presentato che ha inviato un raggio di luce che è entrato attraverso il muro sinistro, rimbalzato in fondo con un angolo di 45° nella metà della pesca e è uscito dalla destra.
 Continua a fare domande al pescatore. Dati: $n_{aire}=1,5$, $n_{agua}=1,33$, $c=300000$ km/s. (figura di pesce, 1 cm, 20 cm, 1 cm)
@@ -4778,7 +4778,7 @@ f) Graficar.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il numero di persone che hanno ricevuto la notifica è stato di circa un milione di euro. Sorgere (lente, miniatura e immagine virtuale) **
+Il numero di persone che hanno ricevuto la notifica è stato di circa un milione di euro. Sorgere (lente, miniatura e immagine virtuale) 
 
 Un oggetto di 20 cm. di altezza di 60 cm. di un obiettivo produce un'immagine minore di lui e virtuale. Se la distanza focale è di 30 cm, determinare:
 a) Che tipo di lente è e perché?
@@ -4878,7 +4878,7 @@ El índice de refracción de un prisma de un rayo monocromático determinado est
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 91 - Mar del Plata (indice di rifrazione, prisma) **
+**Local 91 - Mar del Plata (indice di rifrazione, prisma)**
 
 L'indice di refraczione di un prisma di un raggio monocromatico determinato questo raggio sul volto del prisma, per un determinato angolo di incidenza. L'angolo del prisma rettangolo è 60°. Da quale angolo emerge misurato dal raggio sul volto del prisma, in modo che dopo essere stato trasmesso dall'altro, la luce salga da nessuna delle facce?
 
@@ -4915,7 +4915,7 @@ OSCAR QUE MIDE 1,80 M MIRA VERTICALMENTE DESDE EL AIRE,EL FONDO DE UNA PISCINA D
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 92 - Ibarreta (Oscar, profondità piscina) **
+**Local 92 - Ibarreta (Oscar, profondità piscina)**
 
 Pescare che misura 1,80 m Verticalmente dall'aria, il fondo di una piscina d'acqua e piana, che si può entrare, perché vedo che la profondità è di 1,50 m e non importa che non sa nuotare. Cosa succede in realtà ?
 
@@ -4958,7 +4958,7 @@ Una pequeña lámpara está instalada en la parte central del fondo de una pisci
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 93 - Gualeguaychu (Lampina in piscina, disco galleggiante) **
+**Local 93 - Gualeguaychu (Lampina in piscina, disco galleggiante)**
 
 Una piccola lampada è installata nella parte centrale del fondo di una piscina, la cui profondità è di 2,0 m. Un disco di legno, di radio R, galleggia sulla superficie dell'acqua come indicato nella figura della frase.
 Qual è il minimo valore di R per impedire che la lampada sia visibile da un osservatore fuori dall'acqua, qualunque sia la posizione di tale osservatore? ($n_{agua}=1,33$) (figura piscina, R)
@@ -5013,7 +5013,7 @@ Un recipiente con 400m$^3$ de agua se encuentra sobre una balanza de resorte. ¿
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 94 - Castelar (contenitore con acqua, bilancia di scarico) **
+**Local 94 - Castelar (contenitore con acqua, bilancia di scarico)**
 
 Un recipiente con 400 m $^3$ di acqua si trova su una bilancia di primavera. Qual è la lettura sulla bilancia quando si immerge un pezzo di ferro di 62,4 g, sospeso da un filo? (Il peso del recipiente è di 100 g)
 
@@ -5025,7 +5025,7 @@ Un recipiente con 400 m $^3$ di acqua si trova su una bilancia di primavera. Qua
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 94 - Casting (water container, spring balance) **
+**Local 94 - Casting (water container, spring balance)**
 
 A container with 400 m $^3$ of water is located on a spring scale. What will be the reading on the scale when a 62.4-g piece of iron is submerged, suspended from a thread? (The weight of the container is 100 g)
 
@@ -5060,7 +5060,7 @@ Datos: Densidad de la sangre humana: 1,05.10$^3$ Kg.m$^3$. Densidad de la sangre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 95 - Capitale federale (pressione arteriosa, giraffa) **
+**Local 95 - Capitale federale (pressione arteriosa, giraffa)**
 
 Una persona ha una pressione arteriosa di 105 mm/Hg misurata nel braccio. Se si mantiene in piedi e il cuore è a 1,40 metri al di sopra del livello dei piedi, e la testa a 40 cm al di sopra del cuore.
 Qual è la pressione arteriosa del piede e della testa?
@@ -5116,7 +5116,7 @@ e) Indicar el trayecto completo del rayo. (figura: 50 cm, 5 cm, $n=1,5$, 40 cm, 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 96 - Capitale federale (sistema ottico, prisma, specchio, cronometro) **
+**Local 96 - Capitale federale (sistema ottico, prisma, specchio, cronometro)**
 
 Si dispone di un sistema ottico come quello della figura. Questo consiste in una fonte di luce laser che invia un raggio, in modo che incide normalmente sulla base di un prisma retto di 45° e 10 cm laterale. Il prisma è costruito in materiale acrilico, il cui indice di refraczione è $n=1,5$ e si trova a 60 cm dalla sorgente luminosa. A 50 cm dal prisma, si trova uno specchio con un asse perpendicolare, in modo che possa girare sul piano della foglia. Accanto al laser si colloca un cronometro che si attiva quando si rileva un raggio luminoso e si disattiva quando si rileva un altro raggio luminoso (si è inizialmente attivato).
 Trovare:
@@ -5174,7 +5174,7 @@ Las secciones rectas de los émbolos de una prensa hidráulica son $S_1=1200$ cm
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 97 - Dolores (Prensa idraulica, sezioni) **
+**Local 97 - Dolores (Prensa idraulica, sezioni)**
 
 Le sezioni rette degli emolli di una stampa idraulica sono $S_1=1200$ cm$^2$ e $S_2=30$ cm$^2$. Se si applica all'embolo più piccolo una forza di 98 Newton, qual è la forza risultante sull'altro e quale distanza hanno entrambi gli emboli?
 
@@ -5217,7 +5217,7 @@ Una esfera de plomo ( calor específico = 0,03 cal/g °C) de 100 g está a una t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 98 - Resistenza (Lid sphere, ghiaccio) **
+**Local 98 - Resistenza (Lid sphere, ghiaccio)**
 
 Una sfera di piombo (calore specifico = 0,03 cal/g °C) di 100 g è a una temperatura di 30 °C. Si lancia verticalmente verso l'alto con una velocità iniziale di 400 m/s. Tornando al punto di partenza, si trova in una massa di ghiaccio. Che massa di ghiaccio ho fonduto? (supponendo che tutta l'energia dello scatto si trasformi in calore)
 
@@ -5256,7 +5256,7 @@ b ) ¿Cuánto vale el calor específico del líquido si a los 10 minutos de flui
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 99 - Capitale federale (calorimetro, fem, calore specifico) **
+**Local 99 - Capitale federale (calorimetro, fem, calore specifico)**
 
 Nella figura la "e" è una batteria con una fem di 110 V. K è un caloriometro con 800 g di liquido sconosciuto. L'amperiometro è di 2A e il voltimetro 90V. Se la resistenza interna della batteria è di 2W, l'amperiometro ha una resistenza scarsa e il voltometro una resistenza infinita.
 a) Quanto vale la resistenza del calometro (Rk)?
@@ -5312,7 +5312,7 @@ g) Si los protones ingresaran al campo magnético con el mismo módulo de veloci
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 100 - capitale federale (lenti, acceleratore di protoni, campo magnetico) **
+**Local 100 - capitale federale (lenti, acceleratore di protoni, campo magnetico)**
 
 Un raggio di raggi di luce paralleli provenienti da una fonte molto lontana (es. la luce del sole), incide su una lente divergente di -10 cm di distanza focale e poi attraversa un'altra convergente separata 20 cm dalla precedente (gli assi principali delle lenti sono coincidenti e paralleli ai raggi).
 Tale punto luminoso si forma dopo aver attraversato il fascio attraverso entrambi i lenti e si origina in questo della lente convergente e sull'asse della stessa.
@@ -5374,7 +5374,7 @@ Comprobar experimentalmente la LEY DE REFLEXION ESPECULAR: " El ángulo de incid
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 101 - Reds (Legge della riflessione speculare) **
+**Local Exp 101 - Reds (Legge della riflessione speculare)**
 
 - Instanze locali. Problemi sperimentali. Luogo e categoria.
 Provare sperimentalmente la legge della riflessione speculare: " L'angolo di incidenza è uguale all'angolo di riflessione ". Preparare un rapporto.
@@ -5424,7 +5424,7 @@ Pasos previos requeridos:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 102 - Capitale federale (constantina elastica delle sorgenti) **
+**Local Exp 102 - Capitale federale (constantina elastica delle sorgenti)**
 
 Trovare la costante elastica equivalente del sistema che viene presentata nella figura e confrontare con il valore teorico. (Figura sorgenti k1, k2)
 Passi precedenti richiesti:
@@ -5480,7 +5480,7 @@ El material a emplear para determinación es el dado, que consta de: una balanza
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 103 - Mar del Plata (Densità di strato irregolare) **
+**Local Exp 103 - Mar del Plata (Densità di strato irregolare)**
 
 Determina, per la lamiera irregolare, di 0,76 mm di spessore, che è stata consegnata:
 a) densità.
@@ -5524,7 +5524,7 @@ Se pide: a) Enuncie e indique las leyes de la óptica que considere aplicables a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 104 - Castelar (indice di refraczione, prisma) **
+**Local Exp 104 - Castelar (indice di refraczione, prisma)**
 
 Determinare l'indice di refraczione del materiale di un prisma retto, utilizzando solo gli elementi forniti. Nel costruire il suo compito, l'esperimentatore deve fornire un breve rapporto su ciò che è stato realizzato e i risultati ottenuti. Elementi previsti: il concorrente: una prisma retta di sezione rettangolare, di plexiglas e con due facce lucide. Fragliere, penne e una forga/pietra di supporto/pietra in forma di T; 3 macchie; trasformatore di lampade da 6V; supporto; lampada di tubo; disco ottico; supporto per disco ottico; risorsa di supporto; bastone di supporto.
 Si chiede: a) Esprimere e indicare le leggi dell'ottica che ritiene applicabili al problema; b) se si può proporre più di un metodo per misurare l'indice, descriverli tutti. Utilizza almeno una misurazione e, se hai tempo, più di una; c) stima l'errore sperimentale della misurazione effettuata.
@@ -5569,7 +5569,7 @@ Usando solamente un alambre y una regla explicar cómo procede para determinar e
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 105 - Rauch (Diametro di un filo) **
+**Local Exp 105 - Rauch (Diametro di un filo)**
 
 Usando solo un filo e una regola spiegare come si procede per determinare il diametro del filo, e farlo. Sapendo che il diametro reale è di 0,082 cm determinare l'errore percentuale commesso nell'esperienza.
 
@@ -5612,7 +5612,7 @@ EXPERIENCIA: DETERMINAR EL PESO ESPECÍFICO DE LA NAFTA. MATERIALES: RECIPIENTES
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 106 - Ibarreta (Peso specifico della nafta) **
+**Local Exp 106 - Ibarreta (Peso specifico della nafta)**
 
 Esperienza: determinare il peso specifico del NAFTA. MATERIALI: RECIPIENTITÀ con NAFTA, Acqua VALLE Plastiche, BALANZO DUE PIATELLI, PESA.
 
@@ -5656,7 +5656,7 @@ MATERIALES: Prisma, Alfileres, papel milimetrado. REQUERIMIENTOS:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 107 - Correnti (indice di rifrazione, prisma trasparente) **
+**Local Exp 107 - Correnti (indice di rifrazione, prisma trasparente)**
 
 Indice di rifratto. Oggetto: Determinare l'indice di refraczione di un prisma trasparente.
 Materiali: prisma, filtro, carta millimetrica. RICERICI:
@@ -5716,7 +5716,7 @@ b) Confecciona una tabla con los datos que obtengas y realiza un gráfico.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 108 - Gualeguaychu (Movimento uniforme, grafico) **
+**Local Exp 108 - Gualeguaychu (Movimento uniforme, grafico)**
 
 Elementi: pallina, rotaia metallica, cronometro, regola.
 Fai spostare la pallina sul binario con un movimento uniforme.
@@ -5759,7 +5759,7 @@ Determinar experimentalmente " CAMPO MAGNETICO POR UNA CORRIENTE". Elaborar un i
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 109 - Rossi (campo magnetico a corrente) **
+**Local Exp 109 - Rossi (campo magnetico a corrente)**
 
 Determinare sperimentalmente "Campo magnetico per un corrente". Preparare un rapporto.
 
@@ -5771,7 +5771,7 @@ Determinare sperimentalmente "Campo magnetico per un corrente". Preparare un rap
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Exp 109 - Red (Magnetic field by current) **
+**Local Exp 109 - Red (Magnetic field by current)**
 
 Experimentally determine "magnetic field by a current". Draft a report.
 
@@ -5806,7 +5806,7 @@ d )El valor de la resistencia que contiene la caja restante.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 110 - Mar del Plata (circuito elettrico, casse nere) **
+**Local Exp 110 - Mar del Plata (circuito elettrico, casse nere)**
 
 Il circuito elettrico consegnato ha le sue resistenze ai valori indicati, e le caselle nere indicate con le lettere A e B possono essere una fonte di alimentazione e una resistenza o viceversa. Il voltimetro digitale che vi viene consegnato vi permetterà, dopo aver effettuato alcune misurazioni:
 a) Indicare la lettera corretta della casella che è la fonte di alimentazione, indicando la porenziale della casella.
@@ -5857,7 +5857,7 @@ d) Dar una estimación del error experimental de la medición realizada.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local Exp 111 - Bahia Blanca (indice di rifrazione, facce parallele) **
+**Local Exp 111 - Bahia Blanca (indice di rifrazione, facce parallele)**
 
 Determinare l'indice di refraczione del materiale di un corpo regolare di facce parallele utilizzando gli elementi forniti e dettagliati di seguito. Infine, elaborare un rapporto sul lavoro svolto e sui risultati ottenuti.
 Elementi previsti: corpo regolare di facce parallele di materiale trasparente. Regola millimetrica e Trasportatore. Pelle, penna e scheda di poliestirene.

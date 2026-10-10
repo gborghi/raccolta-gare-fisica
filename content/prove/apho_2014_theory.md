@@ -106,10 +106,10 @@ Lo schema di seguito mostra la circolazione di Hadley nell'atmosfera tropicale t
 *Schematic of the Hadley circulation. Il sole è sopra l'equatore; X segna il ramo in salita all'equatore, Y i rami discendenti alle latitudini $\pm\varphi_d$. L'ovalo a punti circonda i rami superiori dove viene conservato il momento angolare. "Nord" indica $+\varphi_d$; la superficie è ombrata in fondo (l'Equatore al centro).*
 <!--fig:end-->
 
-(a) **(2 punti) ** Supponiamo che non vi sia velocità del vento nella direzione est-ovest intorno al punto X. Qual è l'espressione della velocità del vento est-ovest $u_Y$ nei punti Y? Convenzione: le velocità positive puntano da ovest a est.
+(a) **(2 punti)** Supponiamo che non vi sia velocità del vento nella direzione est-ovest intorno al punto X. Qual è l'espressione della velocità del vento est-ovest $u_Y$ nei punti Y? Convenzione: le velocità positive puntano da ovest a est.
 (La velocità angolare della Terra intorno al suo asse di spin è $\Omega$, il raggio della Terra è $a$, e lo spessore dell'atmosfera è molto inferiore a $a$.)
 
-b) **1 punto) ** Quale delle seguenti spiega in ultima analisi perché l'impulso angolare non viene conservato lungo i rami inferiori della circolazione di Hadley?
+b) **1 punto)** Quale delle seguenti spiega in ultima analisi perché l'impulso angolare non viene conservato lungo i rami inferiori della circolazione di Hadley?
 Indicare la risposta corretta. Ci possono essere più di una risposta corretta.
 - C'è attrito dalla superficie terrestre.
 - (II) C'è turbolenza nell'atmosfera inferiore, dove si mescolano diversi strati di aria.
@@ -123,14 +123,14 @@ Intorno al solstizio d'inverno settentrionale, il ramo ascendente della circolaz
 *Schematic of the Hadley circulation around the northern winter solstice. Il ramo in salita è a latitudine $\varphi_r$ (punto Z); i rami in discesa sono a $\varphi_n$ (punto P, emisfero settentrionale) e $\varphi_s$ (punto R, emisfero meridionale). I punti P, Q, Z e R sono contrassegnati lungo la circolazione. L'ovalo tracciato circonda i rami superiori; "a nord" indica verso $\varphi_n$.*
 <!--fig:end-->
 
-c) **(2 punti) ** Supponiamo che non vi sia velocità del vento est-ovest intorno al punto Z. Dato che $\varphi_r = -8°$, $\varphi_n = 28°$ e $\varphi_s = -20°$, quali sono rispettivamente le velocità del vento est-ovest $u_P$, $u_Q$ e $u_R$ nei punti P, Q e R?
+c) **(2 punti)** Supponiamo che non vi sia velocità del vento est-ovest intorno al punto Z. Dato che $\varphi_r = -8°$, $\varphi_n = 28°$ e $\varphi_s = -20°$, quali sono rispettivamente le velocità del vento est-ovest $u_P$, $u_Q$ e $u_R$ nei punti P, Q e R?
 (Il raggio della Terra è $a = 6370$ km.)
 Quindi, quale emisfero sotto ha un flusso di getti atmosferici più forte?
 - (I) Emisfero invernale
 - II) Emisfero estivo
 - (III) Entrambi gli emisferi hanno flussi a reazione uguali.
 
-(d) **(1 punto) ** Il ramo vicino alla superficie della circolazione di Hadley soffia verso sud attraverso l'equatore. Marchio per frecce sulla figura sotto la direzione della componente est-ovest della forza Coriolis che agisce sulla massa dell'aria tropicale
+(d) **(1 punto)** Il ramo vicino alla superficie della circolazione di Hadley soffia verso sud attraverso l'equatore. Marchio per frecce sulla figura sotto la direzione della componente est-ovest della forza Coriolis che agisce sulla massa dell'aria tropicale
 - **A.** a nord dell'equatore;
 - **B.** a sud dell'equatore.
 
@@ -139,7 +139,7 @@ Quindi, quale emisfero sotto ha un flusso di getti atmosferici più forte?
 *Diagramma per la parte (d): una linea orizzontale segna l'equatore (con N che punta verso l'alto a sinistra) e una spessa freccia verso il basso etichettata "filiale di Hadley vicino alla superficie" attraversa l'equatore da nord a sud.*
 <!--fig:end-->
 
-- **E.** **(1 punto) ** Da la tua risposta alla parte
+- **E.** **(1 punto)** Da la tua risposta alla parte
 - **D.** e il fatto che l'attrito superficiale quasi bilancia le forze di Coriolis nella direzione est-ovest, disegnare il modello di vento vicino alla superficie nei tropici vicino all'equatore durante il solstizio invernale settentrionale.
 
 Supponiamo che la circolazione di Hadley possa essere semplificata come un motore termico mostrato nello schema di seguito. Concentrandosi sulla circolazione di Hadley che raggiunge l'emisfero invernale come mostrato di seguito, la trasformazione fisica della massa dell'aria da A a B e da D a E sono adiabatiche, mentre quelle da B a C, C a D e da E a A sono isotermico. L'aria guadagna calore dal contatto con la superficie terrestre e dalla condensazione dell'acqua dall'atmosfera, mentre l'aria perde calore dalla radiazione nello spazio.
@@ -149,21 +149,21 @@ Supponiamo che la circolazione di Hadley possa essere semplificata come un motor
 *Heat-engine schematic of the Hadley circulation. Ritornare il ciclo A → B → C → D → E → A: A a B (risalendo attraverso una nuvola) e D a E sono adiabatici; B a C, C a D ed E a A sono isotermici. In cima, l'aria perde calore per "radiamento di corpo nero" (arbole ondulate che puntano verso l'esterno vicino a CD); vicino alla superficie (EA) l'aria guadagna calore per "trasferimento di calore di superficie" (arbole ondulate dal terreno ombroso). "Nord" indica a sinistra.*
 <!--fig:end-->
 
-(f) **(2 punti) ** Dato che la pressione atmosferica a livello verticale deve la sua origine al peso dell'aria superiore a tale livello, ordinare le pressioni $p_A$, $p_B$, $p_C$, $p_D$, $p_E$ rispettivamente nei punti A, B, C, D, E per una serie di disuguaglianze.
+(f) **(2 punti)** Dato che la pressione atmosferica a livello verticale deve la sua origine al peso dell'aria superiore a tale livello, ordinare le pressioni $p_A$, $p_B$, $p_C$, $p_D$, $p_E$ rispettivamente nei punti A, B, C, D, E per una serie di disuguaglianze.
 (Dato che $p_A = 1000$ hPa e $p_D = 225$ hPa. Nota che 1 hPa è 100 Pa.)
 
-g) **(2 punti) ** La temperatura accanto alla superficie e in cima all'atmosfera deve essere rispettivamente $T_H$ e $T_C$. Poiché la differenza di pressione tra i punti A e E è di 20 hPa, calcolare $T_C$ per $T_H = 300$ K.
+g) **(2 punti)** La temperatura accanto alla superficie e in cima all'atmosfera deve essere rispettivamente $T_H$ e $T_C$. Poiché la differenza di pressione tra i punti A e E è di 20 hPa, calcolare $T_C$ per $T_H = 300$ K.
 Si noti che il rapporto tra la costante gas molare ($R$) e la capacità termico molare a pressione costante ($c_p$) per l'aria, $\kappa$, è $2/7$.
 
-h) **(2 punti) ** Calcolare la pressione $p_B$.
+h) **(2 punti)** Calcolare la pressione $p_B$.
 
 (i) Per una massa d'aria che si muove una volta intorno alla circolazione invernale di Hadley, utilizzando la costante di gas molare, $R$, e le quantità definite sopra, ottenere espressioni per
-- (A) **(2 punti) ** il lavoro netto effettuato per mol unità $W_{net}$ ignorando l'attrito superficiale;
-- (B) **(1 punto) ** la perdita di calore per mol unità $Q_{loss}$ in cima all'atmosfera.
+- (A) **(2 punti)** il lavoro netto effettuato per mol unità $W_{net}$ ignorando l'attrito superficiale;
+- (B) **(1 punto)** la perdita di calore per mol unità $Q_{loss}$ in cima all'atmosfera.
 
-(j) **(1 punto) ** Qual è il valore dell'efficienza termodinamica ideale $\varepsilon_i$ per la circolazione invernale di Hadley?
+(j) **(1 punto)** Qual è il valore dell'efficienza termodinamica ideale $\varepsilon_i$ per la circolazione invernale di Hadley?
 
-k) **(2 punti) ** Dimostra che l'efficienza termodinamica effettiva $\varepsilon$ per la circolazione invernale di Hadley è sempre inferiore a $\varepsilon_i$, mostrando tutti i passi matematici.
+k) **(2 punti)** Dimostra che l'efficienza termodinamica effettiva $\varepsilon$ per la circolazione invernale di Hadley è sempre inferiore a $\varepsilon_i$, mostrando tutti i passi matematici.
 
 (l) **(1 point)** Which of the following statements best explains why $\varepsilon$ is less than the ideal value? Indicare la risposta corretta. Ci possono essere più di una risposta corretta.
 - (I) Abbiamo ignorato il lavoro svolto contro l'attrito superficiale.
@@ -234,25 +234,25 @@ L'esperimento di interferenza elettronica a due fessure è stato eseguito per la
 
 Il "biprismo" elettronico è costituito da una rete di filo cilindrica a terra con un filamento $F$ al centro. La distanza tra la fonte e il "biprismo" è $\ell$, e la distanza tra il "biprismo" e lo schermo è $L$.
 
-(a) **(2 punti) ** Prendendo come origine $O$ il centro della sezione incrociata circolare del filamento, si trova il potenziale elettrico in qualsiasi punto $(x,z)$ molto vicino al filamento in termini di $V_0$, $a$ e $b$, dove $V_0$ è il potenziale elettrico della superficie del filamento, $a$ è il raggio del filamento, $b$ è il raggio della rete di filo a terra ($b$ è la distanza tra il centro del filamento e la rete di filo cilindrica). (Ignorare gli effetti di bordo.)
+(a) **(2 punti)** Prendendo come origine $O$ il centro della sezione incrociata circolare del filamento, si trova il potenziale elettrico in qualsiasi punto $(x,z)$ molto vicino al filamento in termini di $V_0$, $a$ e $b$, dove $V_0$ è il potenziale elettrico della superficie del filamento, $a$ è il raggio del filamento, $b$ è il raggio della rete di filo a terra ($b$ è la distanza tra il centro del filamento e la rete di filo cilindrica). (Ignorare gli effetti di bordo.)
 
-b) **(4 punti) ** Un'onda di piana elettronica di movimento elettronica con vettore d'onda $\vec{k}_i$ è deviata dal "biprismo" dovuto alla componente $x$ della forza creata dall'elettrone. Determinare $k_x$, la componente $x$ del vettore d'onda del vettore d'onda a causa del "biprismo" prima che raggiunga lo schermo. Determinare $k_x$, il componente $x$ della deflezione degli elettroni, in termini di carica $e$, velocità degli elettroni $v$, regione di deflezione di larghezza $2a$, e raggio $b$, * ecc..*, e quindi la carica e il componente $z$ della velocità degli elettroni $v_z$. Si noti che la componente $z$ della velocità è $v_z$, e la carica $e$ è in quella costante di Planck.
+b) **(4 punti)** Un'onda di piana elettronica di movimento elettronica con vettore d'onda $\vec{k}_i$ è deviata dal "biprismo" dovuto alla componente $x$ della forza creata dall'elettrone. Determinare $k_x$, la componente $x$ del vettore d'onda del vettore d'onda a causa del "biprismo" prima che raggiunga lo schermo. Determinare $k_x$, il componente $x$ della deflezione degli elettroni, in termini di carica $e$, velocità degli elettroni $v$, regione di deflezione di larghezza $2a$, e raggio $b$, * ecc..*, e quindi la carica e il componente $z$ della velocità degli elettroni $v_z$. Si noti che la componente $z$ della velocità è $v_z$, e la carica $e$ è in quella costante di Planck.
 
 > *(Nota di ricostruzione: la parte (b) si legge come stampata; chiede di determinare $k_x$, la componente $x$ del vettore d'onda acquisito a causa del "biprismo", in termini di carica $e$, velocità $v$, metà larghezza $a$ della regione di deviazione e raggio $b$, e quindi angolo di deviazione. Qui $\hat{k} = \dfrac{2\pi p}{h}$, dove $h$ è la costante di Planck.) *
 
-c) **(2 punti) ** Prima del punto $S$, gli elettroni vengono emessi da una punta di emissione di campo e accelerati attraverso un potenziale $V_0$. Determinare la lunghezza d'onda dell'elettrone in termini di massa elettronica $m$, carica $e$ e $V_0$.
-- (i) **(2 punti) **, presumendo che gli effetti relativistici possano essere ignorati, e
-- (ii) **(3 punti) ** tenendo conto degli effetti relativistici.
+c) **(2 punti)** Prima del punto $S$, gli elettroni vengono emessi da una punta di emissione di campo e accelerati attraverso un potenziale $V_0$. Determinare la lunghezza d'onda dell'elettrone in termini di massa elettronica $m$, carica $e$ e $V_0$.
+- (i) **(2 punti)**, presumendo che gli effetti relativistici possano essere ignorati, e
+- (ii) **(3 punti)** tenendo conto degli effetti relativistici.
 
 (d) Nell'esperimento Tonomura *et al.*,
 $$v_z = c/2,\quad V_0 = 10\ \text{V},\quad V_0 = 50\ \text{kV},\quad a = 0.5\ \mu\text{m},\quad b = 5\ \text{mm},$$
 $$\ell = 25\ \text{cm},\quad L = 1.5\ \text{m},\quad b = 6.6 \times 10^{-8}\ \text{m},$$
 carica di elettroni, $e = 1.6 \times 10^{-19}\ \text{C}$, massa di elettroni, $m_0 = 9.1 \times 10^{-31}\ \text{kg}$, e velocità della luce nel vuoto, $c = 3 \times 10^8\ \text{m s}^{-1}$.
-- i) **(2 punti) ** calcola il valore di $k_x$.
-- (ii) **(2 punti) ** determinano l'intervallo frangiale del modello di interferenza sullo schermo.
-- (iii) **(1 punto) ** Se l'onda elettronica è un'onda sferica invece di un'onda piana, il layout degli spazi di margine è più piccolo o più grande di quello calcolato in (ii)?
-- (iv) **(2 punti) ** Nella parte (c) si determina l'errore percentuale nella lunghezza d'onda dell'elettrone utilizzando approssimazioni non relativistiche.
-- (v) **(2 punti) ** la distanza $d$ tra i punti virtuali apparenti.
+- i) **(2 punti)** calcola il valore di $k_x$.
+- (ii) **(2 punti)** determinano l'intervallo frangiale del modello di interferenza sullo schermo.
+- (iii) **(1 punto)** Se l'onda elettronica è un'onda sferica invece di un'onda piana, il layout degli spazi di margine è più piccolo o più grande di quello calcolato in (ii)?
+- (iv) **(2 punti)** Nella parte (c) si determina l'errore percentuale nella lunghezza d'onda dell'elettrone utilizzando approssimazioni non relativistiche.
+- (v) **(2 punti)** la distanza $d$ tra i punti virtuali apparenti.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1CfphVD8Lkt7n2GGzx5xRvt-TQQ96hxtY/view)
 
@@ -314,28 +314,28 @@ Nel caso in cui l'osservatore, l'oggetto di lente di massa $M$ e la fonte si tro
 $$\alpha = \frac{4GM}{r_E c^2}$$
 dove $G$ è la costante gravitazionale ($6.67 \times 10^{-11}\ \text{N m}^2\,\text{kg}^{-2}$), $c$ è la velocità della luce ($3.00 \times 10^8\ \text{m s}^{-1}$), e $r_E$ è il raggio di Einstein, che è la distanza minima tra l'oggetto di lente e il percorso della luce apparente.
 
-(a) **(4 punti) ** Disegnare un diagramma per descrivere la disposizione fisica di un sistema di lente ideale (osservatore, obiettivo e fonte di punti in linea retta). Disegnare il percorso luminoso e segnalare le quantità $\alpha$ e $r_E$. Segna anche il raggio angolare di Einstein $\theta_E$ (la deflessione angolare dell'immagine sorgente vista dalla terra) e le altre quantità che un osservatore sulla terra può misurare.
+(a) **(4 punti)** Disegnare un diagramma per descrivere la disposizione fisica di un sistema di lente ideale (osservatore, obiettivo e fonte di punti in linea retta). Disegnare il percorso luminoso e segnalare le quantità $\alpha$ e $r_E$. Segna anche il raggio angolare di Einstein $\theta_E$ (la deflessione angolare dell'immagine sorgente vista dalla terra) e le altre quantità che un osservatore sulla terra può misurare.
 
-b) **(2 punti) ** Segnare l'immagine della fonte (come una stella), come osservata da un osservatore sulla terra, nel caso in cui la fonte, l'oggetto di lente e l'osservatore si trovino in linea retta.
+b) **(2 punti)** Segnare l'immagine della fonte (come una stella), come osservata da un osservatore sulla terra, nel caso in cui la fonte, l'oggetto di lente e l'osservatore si trovino in linea retta.
 
-c) **(3 punti) ** Segnare l'immagine della fonte (come una stella), come osservata da un osservatore sulla terra, nel caso non ideale in cui la fonte, l'oggetto di lente e l'osservatore non siano in linea retta. Segna il sistema di lente sorgente per spiegare perché è così.
+c) **(3 punti)** Segnare l'immagine della fonte (come una stella), come osservata da un osservatore sulla terra, nel caso non ideale in cui la fonte, l'oggetto di lente e l'osservatore non siano in linea retta. Segna il sistema di lente sorgente per spiegare perché è così.
 
 La lente gravitazionale è stata proposta come metodo per rilevare oggetti di halo compatto massiccio (MACHO) nella nostra galassia, che può essere un candidato per la materia oscura. Questi oggetti sono spesso resti stellari scuri come stelle di neutroni e buchi neri. Mentre le stelle e i MACHO orbitano intorno alla galassia, c'è la possibilità che si verifichi un evento di lente quando un buco nero o una stella di neutroni passa davanti a una stella di fondo.
 
-(d) **(3 punti) ** Il raggio Schwarzschild di un buco nero definisce il punto di non ritorno. Una corretta espressione per il raggio Schwarzschild può essere ottenuta prendendolo come il raggio in cui la velocità di fuga è uguale alla velocità della luce. Questo significa che qualcosa all'interno del raggio Schwarzschild non può sfuggire al buco nero.
+(d) **(3 punti)** Il raggio Schwarzschild di un buco nero definisce il punto di non ritorno. Una corretta espressione per il raggio Schwarzschild può essere ottenuta prendendolo come il raggio in cui la velocità di fuga è uguale alla velocità della luce. Questo significa che qualcosa all'interno del raggio Schwarzschild non può sfuggire al buco nero.
 Usando la meccanica newtonica, derivare la formula per la velocità di fuga a una distanza $r$ da un oggetto puntino di massa $M$. Di conseguenza, derivare il raggio di Schwarzschild $r_s$ (oggetto punto di massa $M$ in termini di costante gravitazionale $G$ e velocità di luce $c$. Mostra chiaramente i tuoi passi e il tuo ragionamento. (Questo accade per dare l'espressione corretta per il raggio Schwarzschild che viene dalla relatività generale.)
 
-(e) **(1 punto) ** Nel caso in cui la fonte, l'obiettivo e l'osservatore si trovino in linea retta, data una misurazione di $\alpha$ e $r_E$, come calcolarebbe il raggio Schwarzschild dell'oggetto di lente?
+(e) **(1 punto)** Nel caso in cui la fonte, l'obiettivo e l'osservatore si trovino in linea retta, data una misurazione di $\alpha$ e $r_E$, come calcolarebbe il raggio Schwarzschild dell'oggetto di lente?
 
-(f) **(2 punti) ** Considerate il caso in cui abbiamo un oggetto di lente dell'ordine di poche masse solari ($M \sim$ poche $\times 10^{30}$ kg) nelle regioni vicine della galassia (distanza $D_L \sim$ poche $\times 10^{18}$ m di distanza) e un oggetto sorgente un po' più lontano ($D_S \sim$ poche $\times 10^{18}$ m di distanza) di cui si applica il seguente nel caso di cui trattasi?
+(f) **(2 punti)** Considerate il caso in cui abbiamo un oggetto di lente dell'ordine di poche masse solari ($M \sim$ poche $\times 10^{30}$ kg) nelle regioni vicine della galassia (distanza $D_L \sim$ poche $\times 10^{18}$ m di distanza) e un oggetto sorgente un po' più lontano ($D_S \sim$ poche $\times 10^{18}$ m di distanza) di cui si applica il seguente nel caso di cui trattasi?
 Scegliere le seguenti se si considera che si applicano al caso descritto nella domanda:
 - $\alpha$ è grande e $\tan\alpha$, $\sin\alpha$, $\cos\alpha$ devono essere calcolati esattamente  * o *  $\theta_E$ è grande e $\tan\theta_E$, $\sin\theta_E$, $\cos\theta_E$ devono essere calcolati esattamente;
 - $\alpha$ è piccolo e sono ammessi gli approssimativi a angolo piccolo, quindi $\tan\alpha \approx \sin\alpha \approx \alpha$, $\cos\alpha$  * o *  $\theta_E$ è piccolo e sono ammessi gli approssimativi a angolo piccolo, quindi $\tan\theta_E \approx \sin\theta_E \approx \theta_E$, $\cos\theta_E$;
 - $\alpha$ non è rilevante e non deve essere calcolato  * o *  $\theta_E$ non è rilevante e non deve essere calcolato.
 
-(g) **(3 punti) ** Utilizzando le condizioni di cui alla parte (f), riscrivi la tua espressione di cui alla parte (e) in termini di quantità misurabili (che sono $\theta_E$, $D_L$ e $D_S$) per un oggetto di lente dell'ordine di poche masse solari ($M \sim$ poche $\times 10^{30}$ kg) e nelle regioni vicine della galassia (distanza $D_L \sim$ poche $\times 10^{18}$ m) con un oggetto sorgente un po' più lontano ($D_S \sim$ poche $\times 10^{18}$ m). Mostrate il vostro lavoro.
+(g) **(3 punti)** Utilizzando le condizioni di cui alla parte (f), riscrivi la tua espressione di cui alla parte (e) in termini di quantità misurabili (che sono $\theta_E$, $D_L$ e $D_S$) per un oggetto di lente dell'ordine di poche masse solari ($M \sim$ poche $\times 10^{30}$ kg) e nelle regioni vicine della galassia (distanza $D_L \sim$ poche $\times 10^{18}$ m) con un oggetto sorgente un po' più lontano ($D_S \sim$ poche $\times 10^{18}$ m). Mostrate il vostro lavoro.
 
-h) **(2 punti) ** Supponiamo che abbiamo un evento in cui un oggetto di lente di $6.0 \times 10^{30}$ kg (3,0 masse solari), $2.6 \times 10^{18}$ m lontano dalla Terra passa davanti a una stella $9.2 \times 10^{18}$ m lontano dalla Terra. Ciò avviene in modo tale che la configurazione ideale si verifichi durante l'evento. Qual è il raggio angolare di Einstein $\theta_E$ (visto dalla terra) durante questo evento quando la fonte, l'obiettivo e l'osservatore si allineano?
+h) **(2 punti)** Supponiamo che abbiamo un evento in cui un oggetto di lente di $6.0 \times 10^{30}$ kg (3,0 masse solari), $2.6 \times 10^{18}$ m lontano dalla Terra passa davanti a una stella $9.2 \times 10^{18}$ m lontano dalla Terra. Ciò avviene in modo tale che la configurazione ideale si verifichi durante l'evento. Qual è il raggio angolare di Einstein $\theta_E$ (visto dalla terra) durante questo evento quando la fonte, l'obiettivo e l'osservatore si allineano?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1K6kIERKh-_xesAMg3-B7GKqQ5-78uVzp/view)
 

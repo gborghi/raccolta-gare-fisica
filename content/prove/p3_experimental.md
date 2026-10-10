@@ -33,7 +33,7 @@ función de .
 
 <div class="qlang-split" data-lang="it"></div>
 
-**funzione di **
+**funzione di**
 
 1) A partire dalle espressioni (1) e (2), scrivete una nuova espressione che mostri una dipendenza di I da
 funzione di .
@@ -253,7 +253,7 @@ sull'asse delle ordinanze.
 
 <div class="qlang-split" data-lang="en"></div>
 
-** on the ordered axis**
+**on the ordered axis**
 
 4) Graphically represent the points corresponding to that linear dependence, with electrical intensity
 on the order axis.
@@ -415,7 +415,7 @@ P3 Soluzione
 
 <div class="qlang-split" data-lang="en"></div>
 
-**BH. The following table shows the results of the evaluation:
+**BH. The following table shows the results of the evaluation:**
 
 8) Estimate the uncertainty of the horizontal component of the earth's magnetic field,
  BH.

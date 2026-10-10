@@ -33,7 +33,7 @@ Which one of the following expressions has the same units as power?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione A (MCQ). ** Sezione A: Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un punteggio e ogni risposta sbagliata con un punteggio -0,25.
+**Sezione A (MCQ).** Sezione A: Le domande da 1 a 60 sono di scelta multipla, con ogni risposta corretta con un punteggio e ogni risposta sbagliata con un punteggio -0,25.
 
 Quale delle seguenti espressioni ha le stesse unità di potenza?
 
@@ -2406,7 +2406,7 @@ Una cellula vegetale sospesa in una soluzione di prova mostra il seguente cambia
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (pieghe domande). ** Sezione B: le domande da 61 a 68 sono di 5 punti ciascuno. Le domande indicano anche i segni se sono presenti più di un sottoscritto.
+**Sezione B (pieghe domande).** Sezione B: le domande da 61 a 68 sono di 5 punti ciascuno. Le domande indicano anche i segni se sono presenti più di un sottoscritto.
 
 a) Una tartaruga si arrasta verso est con velocità $\sqrt3$ km/h e un coniglio pigro si sta spostando verso sud con velocità $1$ km/h. Con l'aiuto di un diagramma, trova la magnitudine e la direzione della velocità della tartaruga come osservato dal coniglio. Mostrate chiaramente il vostro lavoro. (Marchi $2$)
 
@@ -2585,7 +2585,7 @@ Dati sulla formazione di entalpie:
 - $\Delta H_f°\ \mathrm{H_2O(l)} = -285.8\ \mathrm{kJ\,mol^{-1}}$
 - $\Delta H_f°\ \mathrm{O_2(g)} = 0\ \mathrm{kJ\,mol^{-1}}$
 
-Costante universale del gas, $R = 0.0821\ \mathrm{L\,atm\,mol^{-1}K^{-1}}$. Volume di gas $1$ a $25\,°\mathrm{C}$, $1$ atm $= 22.4$ litri. **(Importante: mostrare chiaramente tutti i passaggi di calcolo) **
+Costante universale del gas, $R = 0.0821\ \mathrm{L\,atm\,mol^{-1}K^{-1}}$. Volume di gas $1$ a $25\,°\mathrm{C}$, $1$ atm $= 22.4$ litri. **(Importante: mostrare chiaramente tutti i passaggi di calcolo)**
 
 1. Calcolare l'energia prodotta quando $1$ mole di glucosio è ossidato. [$\Delta H°$ prodotti $-\Delta H°$ reagenti] (marchio $1$)
 2. Calcolare il volume di aria ($25\,°\mathrm{C}$, $1$ atm) necessario per ossidare $10.0$ g di glucosio (il contenuto di ossigeno nell'aria è $20.0\%$ volume). (Marchi $2$)

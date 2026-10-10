@@ -43,6 +43,10 @@ A body cools in the air so that the rate of heat transfer is proportional to the
 
 The equivalent circuit of a real source of alternating voltage of frequency $\omega = 1.00\cdot10^{3}\ \mathrm{s^{-1}}$ consists of an ideal voltage source with the amplitude $U = 15.0\ \mathrm{V}$, of a resistor with the resistance $r = 2019$ Ohm and of a capacitor with the capacitance $C = 100\ \mu\mathrm{F}$. Different circuits of resistors, capacitors and coils can be connected to the source as a load. Propose a load circuit, which assures maximum of the generated heat output in the load itself. Draw schematically your load circuit and evaluate parameters of its elements. If you have found several solutions, provide the simplest one. Find also the maximum power, which can be generated in a load.
 
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -130,6 +134,10 @@ A thin ring of radius $R$ is charged uniformly along its length by a charge $q$.
 **2.10** Calculate the frequency $\omega$ of small oscillations of the ball near its equilibrium position on the needle. Express your answer in terms of $q, R, r, m, \varepsilon_0$.
 
 **2.11** The ball is initially located at the ring center and is at rest. Find the work $A$, which must be done to very slowly push the ball along the needle to infinity. Express your answer in terms of $q, R, r, \varepsilon_0$.
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Gauss's Law (metodo)|Gauss's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -312,6 +320,10 @@ In this part, we assume that the pumping light flux is constant and does not dep
 > **Mathematical hint for the theoretical competition.** You may need to know the following integrals:
 > $$\int\frac{dx}{ax+b} = \frac{1}{a}\ln|ax+b|,$$
 > $$\int x^n\,dx = \frac{x^{n+1}}{n+1},\ \text{where } n \text{ is an integer number.}$$
+
+**Topic:** [[Modern-Quantum Physics]], [[Wave Optics]]
+**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Differential Equations (metodo)|Differential Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

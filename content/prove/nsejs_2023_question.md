@@ -2462,7 +2462,7 @@ $$2\text{H}_2\text{SO}_4 \rightleftharpoons \text{H}_2\text{SO}_4^+ + \text{HSO}
 
 <div class="qlang-split" data-lang="it"></div>
 
-Ogni solvente subisce autoionizzazione (autodissociazione) e dà cationi e anioni. Le sostanze che danno **cations** al solvente quando si sciolgono in quel particolare solvente (o) aumentano la concentrazione di cations solventi sono chiamate acidi. Allo stesso modo, le sostanze che, quando si dissolvono in quel solvente particolare, danno **anioni ** o aumentano la concentrazione di anioni del solvente sono chiamate basi. L'autonizzazione di $\text{H}_2\text{O}$ e $\text{H}_2\text{SO}_4$ è la seguente:
+Ogni solvente subisce autoionizzazione (autodissociazione) e dà cationi e anioni. Le sostanze che danno **cations** al solvente quando si sciolgono in quel particolare solvente (o) aumentano la concentrazione di cations solventi sono chiamate acidi. Allo stesso modo, le sostanze che, quando si dissolvono in quel solvente particolare, danno **anioni** o aumentano la concentrazione di anioni del solvente sono chiamate basi. L'autonizzazione di $\text{H}_2\text{O}$ e $\text{H}_2\text{SO}_4$ è la seguente:
 
 $$2\text{H}_2\text{O} \rightleftharpoons \text{H}_3\text{O}^+ + \text{OH}^-$$
 

@@ -79,6 +79,10 @@ Adjusting the threads tension during torsional oscillations of the pendulum can 
 
 **3.5** Repeat the experiment described in section 3.4, but lift the suspended weight up at the stage of re-twisting and do not touch the weight at the stage of untwisting. Study the dependence of the re-twisting angle $N_1$ on the initial twisting angle $N_0$ in this case. Plot the graph of the obtained dependence in the same graph as in section 3.4. Propose a simple formula to describe the resulting dependence. Evaluate the numerical values of the parameters in your dependence.
 
+**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

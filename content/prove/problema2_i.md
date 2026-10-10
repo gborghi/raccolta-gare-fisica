@@ -46,7 +46,7 @@ F-1 figure. It is free to rotate slowly in a horizontal plane around the Z-axis,
 It is unable to follow the rapid rotation of the coil.
 
 <!--fig:start-->
-**p.1 **  Rotating coil with magnetic needle, Z and X axes
+**p.1**  Rotating coil with magnetic needle, Z and X axes
 ![[_attachments/problema2_I/problema2_I_p1_f1.png]]
 <!--fig:end-->
 

@@ -74,9 +74,9 @@ Ora si vuole determinare il momento di inerzia $I_S$ del sistema rispetto all'as
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Two problems of Mechanics (10 points) **
+**Two problems of Mechanics (10 points)**
 
-**Parte A. The hidden disk (3.5 points) **
+**Parte A. The hidden disk (3.5 points)**
 
 A solid disc of wood of $r_1$ radius and $h_1$ thickness shall be considered. Somewhere inside the wood was replaced by a metal disc of $r_2$ radius and $h_2$ thickness. The metal disc is positioned in such a way that its axis of symmetry $B$ is parallel to the axis of symmetry $S$ of the wood disc, and is at the same distance from the two faces of the wood disc. Sia $d$ la distanza tra $S$ e $B$. The wood density is $\rho_1$, the metal density is $\rho_2 > \rho_1$. The total mass of the wood disc and the metal disc within it is $M$.
 
@@ -193,7 +193,7 @@ Alice è desiderosa di fare un ultimo tentativo per convincere Bob. Vuole usare 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Parte B. Rotating Space Station (6.5 points) **
+**Parte B. Rotating Space Station (6.5 points)**
 
 Alice is an astronaut who lives on a space station. La stazione spaziale è una gigantesca ruota di raggio $R$ che gira intorno al proprio asse, generando in questo modo una gravità artificiale per gli astronauti. Astronauts live in the inner circle of the wheel. The gravitational pull of the space station and the curvature of the floor can be overlooked locally.
 

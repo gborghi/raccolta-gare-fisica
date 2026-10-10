@@ -38,7 +38,7 @@ Sia $P$ la pressione dell'aria che circonda il pallone e $T$ la sua temperatura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical problem n. 2  The ball's rise** *(Rising Balloon)*
+Theoretical problem n. 2  The ball's rise *(Rising Balloon)*
 
 A balloon inflated with helium and rubber envelope, salt and found way out in regions of the atmosphere where pressure and temperature decrease with height. In answering questions about this problem, assume that, regardless of the bulb it has, the shape of the ball remains spherical as it rises. Suppose also that the embolism has negligible volume and that the helium temperature inside the balloon is always the same as the air around it. In this problem all gases must be considered perfect gases.
 
@@ -48,7 +48,7 @@ The following information shall be provided:
 
 Both the air pressure around the ball $P$ and its temperature $T$. The pressure inside the ball is higher than that outside it because of the surface tension of the envelope. The ball contains $n$ helium moles and the pressure inside it is $P_{in}$.
 
-**(a) ** [1.5 points] Find the Archimedes thrust $F_b$ on the ball expressed as a function of $n$, $P_{in}$, $P$, $T$.
+**(a)** [1.5 points] Find the Archimedes thrust $F_b$ on the ball expressed as a function of $n$, $P_{in}$, $P$, $T$.
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
@@ -120,7 +120,7 @@ Whether $r_0$ the radius of a spherical rubber ball when it is not inflated (uns
 $$U_{el} = \kappa R T_0 r_0^2 \left(\lambda^2 + \frac{1}{\lambda^4} - 3\right) \quad (2.2)$$
 where $\lambda = r/r_0 > 1$ is the degree of bulge of the ball and $\kappa$ is a constant with unit measurement mol/m2.
 
-**(c) ** [2 points] Express the internal pressure $P_{in}$ in terms of the parameters given in equation (2.2) and $P$ (external pressure), and sketch the trend of $P_{in} - P$ as a function of $\lambda = r/r_0$.
+**(c)** [2 points] Express the internal pressure $P_{in}$ in terms of the parameters given in equation (2.2) and $P$ (external pressure), and sketch the trend of $P_{in} - P$ as a function of $\lambda = r/r_0$.
 
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -149,7 +149,7 @@ Esprimere il parametro $\kappa$, definito come nella formula (2.2), in termini d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(d) ** [1.5 points] The $\kappa$ constant can be determined by knowing the amount of gas required to inflate the ball. At $T_0 = 303\ \text{K}$ and $P_0 = 1.0\ \text{atm}$ temperatures, an uninflated ball ($\lambda = 1$) contains $n_0 = 12.5$ helium moles. It is found that $n = 45$ total helium moles are needed to inflate the ball to $\lambda = 1.5$, at the same temperature $T_0$ and pressure $P_0$.
+**(d)** [1.5 points] The $\kappa$ constant can be determined by knowing the amount of gas required to inflate the ball. At $T_0 = 303\ \text{K}$ and $P_0 = 1.0\ \text{atm}$ temperatures, an uninflated ball ($\lambda = 1$) contains $n_0 = 12.5$ helium moles. It is found that $n = 45$ total helium moles are needed to inflate the ball to $\lambda = 1.5$, at the same temperature $T_0$ and pressure $P_0$.
 
 Express the parameter $\kappa$, as defined in formula (2.2), in terms of $n$, $n_0$, $\lambda$, $P_0$, $R$, $T_0$, $r_0$, where $r_0 = r/\lambda$. Find the value of $\kappa$ with two significant digits.
 
@@ -186,7 +186,7 @@ The following information shall be provided:
 
 A ball was prepared as described in the previous part at sea level (inflated to $\lambda = 1.5$ with $n = 45$ helium moles at $T_0 = 303\ \text{K}$ and $P_0 = 1\ \text{atm} = 1.013 \times 10^5\ \text{Pa}$). The total mass, including the ball, the gas itself and other manure, is $M_{tot} = 1.12\ \text{kg}$.
 
-**(e) ** [3 points] Suppose the ball stops at $h_f$ where it happens that Archimedes' push balances the total weight. Find $h_f$ and the degree of swelling $\lambda_f$ at that height. Write the result in two significant digits. Suppose that during the climb you can ignore gas leaks and drag effects due to air resistance.
+**(e)** [3 points] Suppose the ball stops at $h_f$ where it happens that Archimedes' push balances the total weight. Find $h_f$ and the degree of swelling $\lambda_f$ at that height. Write the result in two significant digits. Suppose that during the climb you can ignore gas leaks and drag effects due to air resistance.
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]

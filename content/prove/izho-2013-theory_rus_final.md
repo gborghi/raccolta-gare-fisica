@@ -44,6 +44,10 @@ tags:
 1. Нарисуйте область на основании пирамиды, освещенную светом, преломленным гранью $ABC$.
 2. Параллельно основанию пирамиды на расстоянии $L = 10$ см от него расположен экран. Нарисуйте области освещенные светом, преломленным пирамидой, на этом экране. Укажите положение и размеры этих областей.
 
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Geometric Optics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 
@@ -142,6 +146,10 @@ A regular triangular pyramid $ABCD$ is made of a transparent material with a ref
 Квадратная рамка со стороной $a$ изготовлена из проводящего материала, имеет индуктивность $L$, сопротивление $R$ и массу $m$. В момент времени $t = 0$ рамке сообщают начальную скорость $v_0$, направленную так же, как и сила на рисунке сверху. Известно, что в момент, когда рамка практически покидает магнит, ее скорость обращается в ноль.
 
 **9. [2.0 балла]** Найдите аналитическое выражение для силы тока $I_0$ в рамке в момент времени, когда ее скорость обращается в ноль. Запишите ответ через $B, a, m, L, R$ и $v_0$.
+
+**Topic:** [[Electromagnetic Induction]], [[Magnetism]], [[Newtonian Mechanics]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Differential Equations (metodo)|Differential Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -263,6 +271,10 @@ $$P = \frac{1}{6\pi\varepsilon_0}\frac{e^2a^2}{c^3},$$
 **9. [0.5 балла]** Найдите и вычислите время падения электрона $\tau_1$ с орбиты радиусом $r_1$ на протон.
 
 **10. [2.0 балла]** Сколько оборотов успевает сделать электрон вокруг протона за время падения $\tau_1$?
+
+**Topic:** [[Modern-Quantum Physics]], [[Electrostatics]], [[Electromagnetism]]
+**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 
 
 <div class="qlang-split" data-lang="it"></div>

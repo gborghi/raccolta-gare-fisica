@@ -1375,7 +1375,7 @@ The unicellular yeast *Saccharomyces cerevisiae* divides by budding off a small 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (interrogazioni analisiche e lunghe). ** Le domande da 31 a 42 hanno 5 punti ciascuno. Le domande contengono anche segni se sono costituite da più di una parte.
+**Sezione B (interrogazioni analisiche e lunghe).** Le domande da 31 a 42 hanno 5 punti ciascuno. Le domande contengono anche segni se sono costituite da più di una parte.
 
 **Questione teorica basata sulla necessità di diverse dimensioni delle cellule.** I requisiti metabolici di una cellula impongono limiti superiori alla sua dimensione che sono pratici per una singola cellula. La membrana plasmatica **** funziona come barriera selettiva che consente il passaggio di ossigeno, nutrienti e rifiuti per servire la cellula. Per ogni micrometro quadrato di membrana, solo una quantità limitata di materiale può attraversare al secondo, quindi il rapporto tra superficie e volume è critico. L'esercizio seguente ti chiede di calcolare il volume e le superfici di due cellule reali  una cellula di lievito matura e una cellula che ne germoglia.
 
@@ -1434,7 +1434,7 @@ A shunt resistance is now connected parallel to the galvanometer so that 80 % of
 
 <div class="qlang-split" data-lang="it"></div>
 
-A) 12 fili identici sono collegati nel piano, come mostrato nella figura. I fili di sei metri formano un esagono regolare e gli altri sei si uniscono ai vertici di questo esagono con centro comune a C. Ogni filo ha una resistenza di 20 $\Omega$. Calcolare la resistenza effettiva tra A e B. (Se si collega una batteria attraverso A e B, le correnti in AC e CB sono le stesse e quelle in DC e CE sono le stesse). **[3 punti] **
+A) 12 fili identici sono collegati nel piano, come mostrato nella figura. I fili di sei metri formano un esagono regolare e gli altri sei si uniscono ai vertici di questo esagono con centro comune a C. Ogni filo ha una resistenza di 20 $\Omega$. Calcolare la resistenza effettiva tra A e B. (Se si collega una batteria attraverso A e B, le correnti in AC e CB sono le stesse e quelle in DC e CE sono le stesse). **[3 punti]**
 
 <!--fig:start-->
 **Quesito 32**
@@ -1443,7 +1443,7 @@ A) 12 fili identici sono collegati nel piano, come mostrato nella figura. I fili
 
 b) Quando si applicano 5 V attraverso i terminali di un galvanometro, una corrente di 100 mA passa attraverso la sua bobina e il galvanometro mostra una deviazione a scala completa. Con una modifica appropriata, può essere utilizzata per misurare la p.d. o correnti con certe sensibilità.
 
-Una resistenza di scatto è ora collegata parallela al galvanometro in modo che l'80% della corrente che si avvicina alla bobina passa attraverso lo scatto. Questo ammeter è utilizzato per misurare la corrente fornita da una cella ideale di emf 6 V, collegata attraverso un'ampolla di resistenza 40 $\Omega$. Calcolare l'errore (percentuale) nella misurazione della corrente che passa attraverso la lampadina? ** [2 punti] **
+Una resistenza di scatto è ora collegata parallela al galvanometro in modo che l'80% della corrente che si avvicina alla bobina passa attraverso lo scatto. Questo ammeter è utilizzato per misurare la corrente fornita da una cella ideale di emf 6 V, collegata attraverso un'ampolla di resistenza 40 $\Omega$. Calcolare l'errore (percentuale) nella misurazione della corrente che passa attraverso la lampadina? **[2 punti]**
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
@@ -1477,7 +1477,7 @@ Una resistenza di scatto è ora collegata parallela al galvanometro in modo che 
 
 <div class="qlang-split" data-lang="it"></div>
 
-(a) Jiya aveva un pezzo di soldata di idraulico di peso di 3,0 g. La sciolse in acido nitrico diluito e la soluzione risultante trattata con $\text{di}\text{H}_2\text{SO}_4$. Ha ottenuto precipitati di solfato di piombo che dopo averlo lavato e asciugato pesava 2,93 grammi. Dal filtro ha ottenuto l'acido stannico. Ha riscaldato l'acido stannico per ottenere l'ossido stannico. Il rendimento dell'ossido di stannico era di 1,27 g. Aiuta Jiya a scoprire la percentuale di piombo e stanno nel pezzo della soldata del idraulico. ** [3 Marchi] **
+(a) Jiya aveva un pezzo di soldata di idraulico di peso di 3,0 g. La sciolse in acido nitrico diluito e la soluzione risultante trattata con $\text{di}\text{H}_2\text{SO}_4$. Ha ottenuto precipitati di solfato di piombo che dopo averlo lavato e asciugato pesava 2,93 grammi. Dal filtro ha ottenuto l'acido stannico. Ha riscaldato l'acido stannico per ottenere l'ossido stannico. Il rendimento dell'ossido di stannico era di 1,27 g. Aiuta Jiya a scoprire la percentuale di piombo e stanno nel pezzo della soldata del idraulico. **[3 Marchi]**
 
 b) L'arancia metilica e la fenolftalaina sono due indicatori comunemente utilizzati per le titrazioni di neutralizzazione. Gli indicatori di base acida sono acidi deboli che possono essere rappresentati come HIn. Questi indicatori si dissociano in mezzo alcalino per dare la forma anionica (In−).
 
@@ -1549,7 +1549,7 @@ The **understory** layer lies between the canopy and the forest floor. The plant
 
 **Raccontare alle seguenti domande.**
 
-(i) Studiare la seguente rete alimentare e rispondere alle domande. ** [3 Marchi] **
+(i) Studiare la seguente rete alimentare e rispondere alle domande. **[3 Marchi]**
 
 <!--fig:start-->
 **Quesito 34**
@@ -1568,7 +1568,7 @@ Lo strato emergente **** contiene un piccolo numero di alberi molto grandi chiam
 
 Lo strato **canopy** contiene alberi, di solito da 30 a 45 metri di altezza. Le piante qui sono adattate per svolgere la fotosintesi in modo efficiente alla luce del sole. La luce è facilmente disponibile in alto di questo strato, ma riduce notevolmente la quantità di luce sotto di esso.
 
-Lo strato ** sottosetto** si trova tra il copricapo e il pavimento forestale. Le piante qui sono adattate a crescere in condizioni che promuovono la crescita di specie tolleranti all'ombra. Si fotosintesificano adeguatamente utilizzando la piccola quantità di luce che raggiunge le loro foglie. Spesso sono in grado di usare lunghezze d'onda che il canopy tree ha caduto e creato un'apertura. Il pavimento forestale ****, di solito riceve solo il 2% della luce solare che effettivamente incide sulla superficie terrestre. Solo le piante adatte a scarse luci possono crescere in questa regione. Molte letti cadono sul terreno e vengono decomposti da decomponenti.
+Lo strato **sottosetto** si trova tra il copricapo e il pavimento forestale. Le piante qui sono adattate a crescere in condizioni che promuovono la crescita di specie tolleranti all'ombra. Si fotosintesificano adeguatamente utilizzando la piccola quantità di luce che raggiunge le loro foglie. Spesso sono in grado di usare lunghezze d'onda che il canopy tree ha caduto e creato un'apertura. Il pavimento forestale ****, di solito riceve solo il 2% della luce solare che effettivamente incide sulla superficie terrestre. Solo le piante adatte a scarse luci possono crescere in questa regione. Molte letti cadono sul terreno e vengono decomposti da decomponenti.
 
 **Raccontate alle domande di seguito.**
 
@@ -1612,9 +1612,9 @@ Bi) In media, il tasso di fotosintesi è più elevato per la curva A rispetto al
 
 <div class="qlang-split" data-lang="it"></div>
 
-a) Un recipiente cilindrico di 12 cm di diametro contiene $736\ \text{cm}^3$ di acqua. Nel recipiente si colloca un vetro massiccio cilindrico di 8 cm di diametro e 8 cm di altezza. Se un oggetto puntato al fondo del recipiente sotto il pezzo di vetro viene visto da raggi paraxiali, osservando l'immagine di questo oggetto e trovando il spostamento totale apparente del fondo. Indice di rifrazione dell'acqua $= 4/3$ e indice di rifrazione del vetro $= 3/2$. **[3 punti] **
+a) Un recipiente cilindrico di 12 cm di diametro contiene $736\ \text{cm}^3$ di acqua. Nel recipiente si colloca un vetro massiccio cilindrico di 8 cm di diametro e 8 cm di altezza. Se un oggetto puntato al fondo del recipiente sotto il pezzo di vetro viene visto da raggi paraxiali, osservando l'immagine di questo oggetto e trovando il spostamento totale apparente del fondo. Indice di rifrazione dell'acqua $= 4/3$ e indice di rifrazione del vetro $= 3/2$. **[3 punti]**
 
-b) L'immagine più nitida del sole realizzata da una lente convergente con una lunghezza focale di 25 cm ha un diametro di 0,5 cm. Un obiettivo divergente di 10 cm di lunghezza focale è posizionato a 15 cm dall'obiettivo convergente dall'altro lato del sole. Determinare la dimensione dell'immagine finale e la sua posizione rispetto alla lente divergente? ** [2 punti] **
+b) L'immagine più nitida del sole realizzata da una lente convergente con una lunghezza focale di 25 cm ha un diametro di 0,5 cm. Un obiettivo divergente di 10 cm di lunghezza focale è posizionato a 15 cm dall'obiettivo convergente dall'altro lato del sole. Determinare la dimensione dell'immagine finale e la sua posizione rispetto alla lente divergente? **[2 punti]**
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
@@ -1649,7 +1649,7 @@ Il decadimento di sostanze organiche come la vegetazione o la reazione chimica c
 
   i. Scrivi l'equazione per la dissociazione del gas prodotto nella reazione. **[1 Marchio]**
   ii. Se x mol del gas sono dissociati, scrivete l'espressione per la costante di equilibrio in termini di x. (Trasporto previsto) **[2 Marks]**
-iii. Calcolare il valore di x e quindi la dissociazione percentuale. ** [2 Marchi] **
+iii. Calcolare il valore di x e quindi la dissociazione percentuale. **[2 Marchi]**
 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1710,7 +1710,7 @@ Answer ____________ **[0.5 mark]**
 a) Inaattivazione dell' amilasa salivaria
 b) Denaturazione delle proteine che aiuta nella loro successiva digestione
 c) Attivazione dell' amilasa saliva
-d) Attivazione di pepsina **[0,5 punto] **
+d) Attivazione di pepsina **[0,5 punto]**
 
 (iv) Un biochimico ha isolato l'enzima attiva di amilasa dalla saliva umana. Era interessata a analizzare l'attività enzimatica dell'amilasa. Quale dei seguenti buffer sceglierà probabilmente?
 
@@ -1720,7 +1720,7 @@ d) Attivazione di pepsina **[0,5 punto] **
 
 Risposta ____________ **[0,5 punto]**
 
-(v) Un corridore di sprint digiunava una notte prima dell'evento di corsa per ragioni spirituali. Anche il giorno dell'evento non ha fatto colazione e ha scelto di correre a stomaco vuoto. Dopo aver completato la corsa, gli furono dati 300 ml di soluzione di glucosio al 10% da bere. Se l'efficienza di assorbimento del glucosio attraverso l'intestino è del 10%, calcola il numero totale e la mole di ATP che verrà generata dal glucosio che ha preso. Considera che l'ossidazione completa di una molecola di glucosio genera 36 ATP. **[3 punti] **
+(v) Un corridore di sprint digiunava una notte prima dell'evento di corsa per ragioni spirituali. Anche il giorno dell'evento non ha fatto colazione e ha scelto di correre a stomaco vuoto. Dopo aver completato la corsa, gli furono dati 300 ml di soluzione di glucosio al 10% da bere. Se l'efficienza di assorbimento del glucosio attraverso l'intestino è del 10%, calcola il numero totale e la mole di ATP che verrà generata dal glucosio che ha preso. Considera che l'ossidazione completa di una molecola di glucosio genera 36 ATP. **[3 punti]**
 
 [Instruzioni: M.W. glucosio: 180; M.W. ATP: 507, Considera 1 mole $= 6 \times 10^{23}$ molecole]
 
@@ -1753,9 +1753,9 @@ Risposta ____________ **[0,5 punto]**
 
 <div class="qlang-split" data-lang="it"></div>
 
-a) Un magnete a barre di massa di 0,2 kg è appeso a una corda. Sotto il corpo viene mantenuta una sfera metallica di massa 0,5 kg in contatto con il magnete mediante una forza magnetica di 20 N. Ora viene applicata una forza ascendente alla corda che sviluppa tensione T nella corda. Calcolare il valore massimo possibile di T per il quale la sfera è in contatto con il magnete. **[3 punti] **
+a) Un magnete a barre di massa di 0,2 kg è appeso a una corda. Sotto il corpo viene mantenuta una sfera metallica di massa 0,5 kg in contatto con il magnete mediante una forza magnetica di 20 N. Ora viene applicata una forza ascendente alla corda che sviluppa tensione T nella corda. Calcolare il valore massimo possibile di T per il quale la sfera è in contatto con il magnete. **[3 punti]**
 
-b) Un pacchetto di cibo di massa di 20 kg viene scaricato da un elicottero in riposo, in aria. Il pacchetto cade sotto la gravità. Otterrà un'energia cinetica di 5000 J quando acquisirà una velocità terminale (velocità costante) a causa della resistenza all'aria. La forza di resistenza all'aria F è data da $F = -kv$. Calcolare il valore di k. ** [2 punti] **
+b) Un pacchetto di cibo di massa di 20 kg viene scaricato da un elicottero in riposo, in aria. Il pacchetto cade sotto la gravità. Otterrà un'energia cinetica di 5000 J quando acquisirà una velocità terminale (velocità costante) a causa della resistenza all'aria. La forza di resistenza all'aria F è data da $F = -kv$. Calcolare il valore di k. **[2 punti]**
 
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -1782,7 +1782,7 @@ A mixture of $\text{H}_2\text{C}_2\text{O}_4$ (oxalic acid) and $\text{NaHC}_2\t
 
 <div class="qlang-split" data-lang="it"></div>
 
-Una miscela di $\text{H}_2\text{C}_2\text{O}_4$ (acido ossalico) e $\text{NaHC}_2\text{O}_4$ di peso 2,02 g è stata dissoluta in acqua e questa soluzione è stata preparata fino a un litro. Sono state effettuate due soluzioni diverse e il risultato è stato ottenuto: per una completa neutralizzazione sono stati necessari 10 ml di soluzione e 3 ml di 0,1 NaOH. Calcolare la quantità di $\text{H}_2\text{C}_2\text{O}_4$ e $\text{NaHC}_2\text{O}_4$ nella miscela? ** [5 Marchi] **
+Una miscela di $\text{H}_2\text{C}_2\text{O}_4$ (acido ossalico) e $\text{NaHC}_2\text{O}_4$ di peso 2,02 g è stata dissoluta in acqua e questa soluzione è stata preparata fino a un litro. Sono state effettuate due soluzioni diverse e il risultato è stato ottenuto: per una completa neutralizzazione sono stati necessari 10 ml di soluzione e 3 ml di 0,1 NaOH. Calcolare la quantità di $\text{H}_2\text{C}_2\text{O}_4$ e $\text{NaHC}_2\text{O}_4$ nella miscela? **[5 Marchi]**
 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1857,7 +1857,7 @@ d) Tutti questi
 
 (iv) Il DNA o l'RNA è il materiale genetico per gli organismi. Mentre l'RNA è il materiale genetico è principalmente limitato a alcuni virus, il DNA forma il materiale genetico dai batteri agli organismi superiori. La differenza tra DNA e RNA è notevole nel zucchero pentoso (desoxy-ribose per DNA e ribose per RNA). Questa differenza fondamentale porta anche a differenze nella loro stabilità nell'acqua. Il 2' OH dell'RNA (che non fa parte della catena RNA) agisce come nucleofilo e rende l'RNA instabile in acqua. Al contrario, l'assenza del 2' OH (invece della presenza di un 2' H nel DNA) rende il DNA più stabile nell'acqua. L'ipotesi per l'origine della vita tiene conto del DNA e/o dell'RNA come materiale genetico. Ci sono due scuole di pensiero riguardo all'origine della vita. Una scuola di pensiero ipotizza che la vita abbia avuto origine nell'acqua. In questo processo, diverse biomolecole primarie dopo la loro formazione sono state immerse in acqua per formare una zuppa primordiale calda. La seconda scuola propone che la vita abbia avuto origine da un mezzo ricco di azoto.
 
-Dalle seguenti dichiarazioni riportate di seguito, prevedi le dichiarazioni a sostegno della scuola 1 e le dichiarazioni a sostegno della scuola 2. Scrivi una scuola 1 o 2 nello spazio previsto per le tue risposte. ** [2 punti] **
+Dalle seguenti dichiarazioni riportate di seguito, prevedi le dichiarazioni a sostegno della scuola 1 e le dichiarazioni a sostegno della scuola 2. Scrivi una scuola 1 o 2 nello spazio previsto per le tue risposte. **[2 punti]**
 a) Il DNA fu il primo materiale genetico
 b) L'RNA è stato il primo materiale genetico
 c) Il DNA è chimicamente stabile e fa la scelta ovvia per diventare il materiale genetico
@@ -1895,14 +1895,14 @@ d) L'RNA è instabile all'interno della succhia cellulare
 
 <div class="qlang-split" data-lang="it"></div>
 
-(a) Una piccola palla viene abbassata su un piano liscio, come mostra la figura. Cade a 1,8 metri prima di colpire l'aereo. Il coefficiente di restituzione dell'impatto è di 0,5. Calcola il tempo impiegato dalla palla prima del secondo impatto. - Non si tratta di resistenza all'aria. (Il coefficiente di restituzione per collisione di due corpi è definito come il rapporto numerico tra velocità relativa di ritiro e velocità relativa di avvicinamento). ** [3 Marchi] **
+(a) Una piccola palla viene abbassata su un piano liscio, come mostra la figura. Cade a 1,8 metri prima di colpire l'aereo. Il coefficiente di restituzione dell'impatto è di 0,5. Calcola il tempo impiegato dalla palla prima del secondo impatto. - Non si tratta di resistenza all'aria. (Il coefficiente di restituzione per collisione di due corpi è definito come il rapporto numerico tra velocità relativa di ritiro e velocità relativa di avvicinamento). **[3 Marchi]**
 
 <!--fig:start-->
 **Quesito 41**
 ![[injso2015-Q_p21_f1.png]]
 <!--fig:end-->
 
-b) Masse di 300 g e 500 g sono appese alle estremità opposte di una corda poco estensibile. La corda passa su una collana liscia senza attrito. Il sistema è rilasciato dal riposo. Calcolare la perdita di energia potenziale gravitazionale del sistema quando la massa di 300 g è aumentata di 1 m. In questo istante, l'altra massa viene improvvisamente ridotta di 400 g. Quanto più avanti la massa di 300 g aumenterà? - Non si tratta di resistenza all'aria. ** [2 punti] **
+b) Masse di 300 g e 500 g sono appese alle estremità opposte di una corda poco estensibile. La corda passa su una collana liscia senza attrito. Il sistema è rilasciato dal riposo. Calcolare la perdita di energia potenziale gravitazionale del sistema quando la massa di 300 g è aumentata di 1 m. In questo istante, l'altra massa viene improvvisamente ridotta di 400 g. Quanto più avanti la massa di 300 g aumenterà? - Non si tratta di resistenza all'aria. **[2 punti]**
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
@@ -1935,7 +1935,7 @@ Aruna was studying the interaction between various chemicals. She found that whe
 
 Aruna stava studiando l'interazione tra varie sostanze chimiche. Ha scoperto che quando ha mescolato il bromato di potassio ($\text{KBrO}_3$) con il bromuro di potassio (KBr) e acidificato la soluzione con $\text{H}_2\text{SO}_4$, si sono sviluppati vapori di $\text{Br}_2$. Dopo l' aggiunta di KI alla miscela di reazione, è stato ottenuto un colore marrone profondo a causa della formazione di iodio, che potrebbe essere titolato con tiosulfato di sodio ($\text{Na}_2\text{S}_2\text{O}_3$) utilizzando l' indicatore di amido.
 
-  i. Scrivi la reazione equilibrata che si verifica in ogni fase. ** [3 Marchi] **
+  i. Scrivi la reazione equilibrata che si verifica in ogni fase. **[3 Marchi]**
   ii. In che proporzione molare $\text{KBrO}_3$ e KBr devono essere mescolati? **[1 Marchio]**
 iii. A partire da 10 ml di 0,01 M $\text{KBrO}_3$ e utilizzando un eccesso di KBr, $\text{H}_2\text{SO}_4$ e KI, quale volume di 0,05 M $\text{Na}_2\text{S}_2\text{O}_3$ sarà richiesto? **[1 Marchio]**
 

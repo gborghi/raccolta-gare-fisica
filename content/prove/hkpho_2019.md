@@ -1063,7 +1063,7 @@ Da un punto fisso A ad un'altezza $h$ sopra il terreno, viene lanciata una palla
 
 ![[HKPhO_2019_p11_f21.png]]
 
-**(a) ** Qual è la distanza orizzontale $AB$?
+**(a)** Qual è la distanza orizzontale $AB$?
 
 Se la collisione tra la palla X e la piastra è perfettamente elastica, trovare tutti i valori dell'angolo di inclinazione della piastra $\theta\ \left(0 < \theta < \dfrac{\pi}{2}\right)$ in modo tale che la palla X ritorni alla posizione iniziale A dopo la collisione.
 
@@ -1122,21 +1122,21 @@ Il salto a bungee è uno sport per gli avventurosi. Come mostrato nella figura. 
 
 Nei seguenti calcoli, si può presumere che la resistenza all'aria sia trascurabile e l'accelerazione gravitazionale sia $g = 9.8\ \mathrm{m\,s^{-2}}$. Il salto dal salto e la corda viene raddrizzata dal stato piegato (Fig. 1(b)).
 
-**(a)-(b) ** Considera l'istante in cui il salto è caduto a una distanza $L/3$.
+**(a)-(b)** Considera l'istante in cui il salto è caduto a una distanza $L/3$.
 
 Qual è la variazione dell'energia potenziale della corda rispetto allo stato iniziale?
 
-**(b) ** Calcolare la velocità del saltatore quando il saltatore è caduto a una distanza $L/3$.
+**(b)** Calcolare la velocità del saltatore quando il saltatore è caduto a una distanza $L/3$.
 
-**(c) ** Calcolare la velocità del saltatore quando l'intera corda diventa appesa verso il basso.
+**(c)** Calcolare la velocità del saltatore quando l'intera corda diventa appesa verso il basso.
 
 I saltatori affermano di godere dell'emozione di raggiungere una velocità più veloce della caduta libera. Calcolare la velocità del saltatore se il saltatore cade dal ponte attraverso la stessa distanza di quella di cui alla parte c) durante una caduta libera.
 
-**(e)-(f) ** Dopo che l'intera corda è appesa verso il basso, il saltatore rimane legato alla corda ma continua a cadere più in basso a causa della natura elastica della corda. La costante di forza della corda deve essere $k = 500\ \mathrm{N\,m^{-1}}$.
+**(e)-(f)** Dopo che l'intera corda è appesa verso il basso, il saltatore rimane legato alla corda ma continua a cadere più in basso a causa della natura elastica della corda. La costante di forza della corda deve essere $k = 500\ \mathrm{N\,m^{-1}}$.
 
-**(e) ** Calcolare la distanza massima che il salto si trova a misura dal ponte.
+**(e)** Calcolare la distanza massima che il salto si trova a misura dal ponte.
 
-**(f) ** Dopo che il movimento del saltatore si ferma, quale è la distanza del saltatore sotto il ponte?
+**(f)** Dopo che il movimento del saltatore si ferma, quale è la distanza del saltatore sotto il ponte?
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 
@@ -1181,13 +1181,13 @@ Tre palle di acciaio identiche A, B e C sono collegate da due bastone leggere e 
 
 ![[HKPhO_2019_p13_f23.png]]
 
-**(a) ** Qual è la distanza orizzontale del centro di massa (CM) del sistema dall'origine O quando $\angle ACB = \alpha$?
+**(a)** Qual è la distanza orizzontale del centro di massa (CM) del sistema dall'origine O quando $\angle ACB = \alpha$?
 
-**(b) ** Qual è il rapporto della velocità $v_A/v_C$ di due palle A e C quando $\angle ACB = \alpha$?
+**(b)** Qual è il rapporto della velocità $v_A/v_C$ di due palle A e C quando $\angle ACB = \alpha$?
 
 Qual è l'angolo $\alpha$ quando la palla A colpisce il muro?
 
-**(d) ** Qual è il rapporto $v_B/v_C$ subito prima di questo istante?
+**(d)** Qual è il rapporto $v_B/v_C$ subito prima di questo istante?
 
 Qual è la velocità di tre palle in questo momento?
 
@@ -1228,9 +1228,9 @@ Un autobus gira intorno a una curva bancata, come mostra la figura. Il raggio or
 
 ![[HKPhO_2019_p14_f24.png]]
 
-**(a) ** Supponiamo che il coefficiente statico di attrito della banca sia $\mu = 0.5$, che è un po' scivoloso in una giornata piovosa. Determinare la gamma di velocità valida $v$ per l'autobus in modo che il suo movimento al centro della massa rimanga in forma circolare. Per semplicità, possiamo iniziare considerando la attrito totale come $f = f_1 + f_2$, la forza normale totale come $N = N_1 + N_2$ e trascurare la distribuzione interna tra $f_1$ e $f_2$, cioè possiamo supporre $|f/N| \le \mu$. Si noti che il raggio di rotazione è misurato dal centro della rotazione al CM.
+**(a)** Supponiamo che il coefficiente statico di attrito della banca sia $\mu = 0.5$, che è un po' scivoloso in una giornata piovosa. Determinare la gamma di velocità valida $v$ per l'autobus in modo che il suo movimento al centro della massa rimanga in forma circolare. Per semplicità, possiamo iniziare considerando la attrito totale come $f = f_1 + f_2$, la forza normale totale come $N = N_1 + N_2$ e trascurare la distribuzione interna tra $f_1$ e $f_2$, cioè possiamo supporre $|f/N| \le \mu$. Si noti che il raggio di rotazione è misurato dal centro della rotazione al CM.
 
-**(b) ** Considerando il momento dell'autobus circa il suo CM, determinare la gamma valida della velocità $v$ per l'autobus in modo che l'autobus non si ribolli. Il topping significa che l'autobus si rovescia.
+**(b)** Considerando il momento dell'autobus circa il suo CM, determinare la gamma valida della velocità $v$ per l'autobus in modo che l'autobus non si ribolli. Il topping significa che l'autobus si rovescia.
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1JGn6bulaMLpmjQ4tQnW70OgPknsk_DtA/view)
 

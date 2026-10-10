@@ -81,29 +81,29 @@ Il "gravitrone" (figura 1) è un'attrazione di fiera molto popolare nei parchi d
 
 Il modello Carnival (il cui schema è mostrato nella figura 2) consiste in un grande cilindro verticale di radio $R = 3\,\text{m}$ che ruota a velocità angolare costante $\omega$ attorno al suo asse verticale. Mentre gira, i passeggeri si tengono con la schiena appoggiata al muro interno, in modo che la friczione tra la schiena e il muro li tenga sospesi. Se la velocità angolare è sufficientemente alta, il pavimento può essere rimosso senza che il passeggero cadi.
 
-**a) ** Rappresenta in uno schema le forze che agiscono su una persona nel gravitrone Carnival.
+**a)** Rappresenta in uno schema le forze che agiscono su una persona nel gravitrone Carnival.
 
 Un individuo di massa $M = 90\,\text{kg}$ viene inserito nel gravitrone. Il coefficiente di rottura statica tra la schiena e il muro è $\mu_e = 0{,}3$.
 
-**b) ** Calcola la velocità angolare minima $\omega_0$ necessaria per evitare che l'individuo scivoli verso il basso.
+**b)** Calcola la velocità angolare minima $\omega_0$ necessaria per evitare che l'individuo scivoli verso il basso.
 
-**c) ** Applica al gravitrone Carnival una velocità angolare $2\omega_0$. Descrive il movimento dell'individuo e calcola la forza di ruggine che agisce su di lui.
+**c)** Applica al gravitrone Carnival una velocità angolare $2\omega_0$. Descrive il movimento dell'individuo e calcola la forza di ruggine che agisce su di lui.
 
 Nel modello Starship 3000 (il cui schema è mostrato nella figura 3) viene utilizzato invece di un cilindro un tronco di cono invertito, in modo che le persone si appoggiino sul muro inclinato. Quando l'attrazione è fermata, l'utente si appoggia con i piedi sul suolo, ma quando si gira a velocità angolare $\omega$, si alza e resta galleggiante.
 
 In un test di regolazione dell'attrazione, quando si gira a velocità angolare $\omega = 3\,\text{rad/s}$, si osserva che quando si colloca una massa di prova $m = 5\,\text{kg}$, come mostrato nella figura 4, tale massa si mantiene stabile in un percorso circolare orizzontale a una distanza $L = 1{,}5\,\text{m}$ dal suolo misurata sul muro. Il raggio di terra è $R = 3\,\text{m}$ e la parete forma un angolo $\theta = 20°$ con la verticale. Il coefficiente di rottura statica tra il blocco e il muro è $\mu_e = 0{,}3$.
 
-**d) ** Determina, in base a $\omega$, $L$, $R$ e $\theta$, l'accelerazione centripeta della massa di prova quando si muove in tragitto orizzontale. Calcola il suo valore numerico.
+**d)** Determina, in base a $\omega$, $L$, $R$ e $\theta$, l'accelerazione centripeta della massa di prova quando si muove in tragitto orizzontale. Calcola il suo valore numerico.
 
 Riduciamo lentamente la velocità angolare e osserviamo che la massa di prova rimane nella stessa traiettoria fino a una velocità angolare $\omega_{\min}$ da cui inizia a scendere attraverso il muro.
 
-**e) ** Rappresenta in uno schema le forze che agiscono sulla massa di prova in Starship 3000 quando ruota a velocità angolare $\omega_{\min}$.
+**e)** Rappresenta in uno schema le forze che agiscono sulla massa di prova in Starship 3000 quando ruota a velocità angolare $\omega_{\min}$.
 
-**f) ** Determina e calcola il valore di $\omega_{\min}$.
+**f)** Determina e calcola il valore di $\omega_{\min}$.
 
 Supponiamo che, quando la massa di prova è in rotazione alla distanza $L$ dal suolo, invece di diminuire la velocità angolare, si incrementi.
 
-**g) ** Qual è la velocità angolare massima $\omega_{\max}$ per la quale la massa di prova rimane in equilibrio verticale senza salire?
+**g)** Qual è la velocità angolare massima $\omega_{\max}$ per la quale la massa di prova rimane in equilibrio verticale senza salire?
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p2_f1.png]]
@@ -239,27 +239,27 @@ Mia nonna non ha potuto studiare, ma sa più fisica di me, deve impararla dai vi
 
 Un giorno mi viene fuori: la zuppa congelata contenuta in ogni contenitore pesa $480\,\text{g}$. Se mettiamo il blocco di sopa in un vaso di acqua,
 
-**a) ** che volume di blocco di sopa congelata rimarrà sopra la superficie dell'acqua?
+**a)** che volume di blocco di sopa congelata rimarrà sopra la superficie dell'acqua?
 
 Quel giorno sono andata senza la zuppa, perché non sapevo come rispondere, ma il giorno dopo ero pronta. Mia nonna, che stava crescendo, mi ha detto: per fondere completamente il contenuto di uno dei contenitori di una zuppa congelata a $0\,°\text{C}$ senza riscaldarlo, devo mescolare almeno a $1\,\text{litro}$ di acqua a $35\,°\text{C}$.
 
-**b) ** Qual è il calore latente di fusione della zuppa?
+**b)** Qual è il calore latente di fusione della zuppa?
 
 Quel giorno ho saputo la risposta. Mia nonna, molto contenta, oltre a darmi la zuppa mi ha raccontato il segreto della sua preparazione: preparava il caldo con biochorizo e morcilla gravitazionale. Ho detto che era così bella!
 
 Un altro giorno mi ha sorpreso con la seguente domanda: La mia cucina ha una potenza di $1{,}5\,\text{kW}$. Calda con esso un blocco di sopa congelata a $0\,°\text{C}$, in modo che assorba il $75\%$ dell'energia prodotta.
 
-**c) ** Quanto tempo ci vorrà per far fondere completamente il blocco di sopa?
+**c)** Quanto tempo ci vorrà per far fondere completamente il blocco di sopa?
 
 Come ho ancora fatto, mi ha dato la mia porzione settimanale di zuppa e mi ha detto che aveva problemi a farle crescere a causa delle fluttuazioni quantistiche. Ahí ya no supe qué responderle…
 
 Poiché sono dipendente dalla zuppa di mia nonna, la prossima volta che sono andata a trovarla mi ha chiesto: con la mia cucina riscaldamo un blocco di zuppa congelata a $0\,°\text{C}$ per $4\,\text{minutos}$ in modo che raggiunga una temperatura di $70\,°\text{C}$ (Ricorda che assorbe il $75\%$ dell'energia fornita dalla cucina).
 
-**d) ** Qual è la calore specifica della zuppa?
+**d)** Qual è la calore specifica della zuppa?
 
 La scorsa settimana mi prometteva una dozzina dei suoi famosi nanokrocchetti cucinati (il fatto di nano deve essere ironico, perché ognuno pesa più di $100\,\text{g}$) se rispondeva a una nuova domanda: riempiamo un ciotola di $150\,\text{g}$ che è $20\,°\text{C}$ con $250\,\text{ml}$ di sopa a $70\,°\text{C}$. La temperatura finale del piatto con la zuppa è $60\,°\text{C}$. Supponiamo che l'ambiente non perda calore.
 
-**e) ** Qual è la temperatura specifica del materiale di cui è fatta la tazza?
+**e)** Qual è la temperatura specifica del materiale di cui è fatta la tazza?
 
 *Dati: Il calore latente di fusione $L_f$ è il calore necessario per fondere $1\,\text{kg}$ di sostanza. Il calore specifico $c$ di una sostanza è la quantità di calore necessaria per elevare la temperatura di $1\,\text{kg}$ della sostanza a $1\,°\text{C}$. Il calore specifico dell'acqua è $c_a = 4{,}18 \times 10^3\,\text{J}\cdot\text{kg}^{-1}\cdot\text{K}^{-1}$.*
 
@@ -284,7 +284,7 @@ My grandmother couldn't study, but she knows more physics than I do, she must le
 
 One day I go and I'm released: The frozen soup that each container contains weighs $480\,\text{g}$. If we put the soup block in a pot of water,
 
-**a) ** what volume of frozen soup block will remain above the water surface?
+**a)** what volume of frozen soup block will remain above the water surface?
 
 I left without soup that day, because I couldn't answer him, but the next day I had prepared. My grandmother, who was growing up, told me: in order for the contents of one of the frozen soup containers to completely melt to $0\,°\text{C}$ without heating it, I have to mix it with at least $1\,\text{litro}$ of water to $35\,°\text{C}$.
 
@@ -294,17 +294,17 @@ That day I knew the answer. My grandmother, very happy, besides giving me the so
 
 Another day, I was surprised by the question: My kitchen has a power of $1{,}5\,\text{kW}$. Heat a block of frozen soup to $0\,°\text{C}$ so that it absorbs the $75\%$ of the energy produced.
 
-**c) ** How long will it take for the soup block to fully melt?
+**c)** How long will it take for the soup block to fully melt?
 
 As I again did, he gave me my weekly ration of soup and told me that he had trouble making the needle because of quantum fluctuations. Ahí ya no supe qué responderle…
 
 As I'm addicted to my grandmother's soup, the next time I went to see her, she asked me the following question: With my kitchen we heat a block of frozen soup to $0\,°\text{C}$ during $4\,\text{minutos}$ so that it reaches a temperature of $70\,°\text{C}$ (remember it absorbs the $75\%$ of the energy supplied by the kitchen).
 
-**d) ** What is the specific heat of the soup?
+**d)** What is the specific heat of the soup?
 
 Last week he promised me a dozen of his famous cooked nanocroquettes (the nanocrocets must be ironic, because each weighs more than $100\,\text{g}$) if he answered a new question: We fill a bowl of $150\,\text{g}$ that is $20\,°\text{C}$ with $250\,\text{ml}$ of $70\,°\text{C}$ soup. The final temperature of the bowl with the soup is $60\,°\text{C}$. Suppose the heat is not lost in the environment.
 
-**e) ** What is the specific heat of the material from which the bowl is made?
+**e)** What is the specific heat of the material from which the bowl is made?
 
 *Data: The latent heat of melting $L_f$ is the heat required to melt $1\,\text{kg}$ of substance. The specific heat $c$ of a substance is the amount of heat required to raise the temperature of the substance from $1\,\text{kg}$ to $1\,°\text{C}$. The specific heat of the water is $c_a = 4{,}18 \times 10^3\,\text{J}\cdot\text{kg}^{-1}\cdot\text{K}^{-1}$.*
 
@@ -379,27 +379,27 @@ Una palla metallica di massa $m$ e carico $q$ è sospesa da un filo attaccato a 
 
 Applica una differenza di potenziale $V_0$ tra le plache, in modo che il filo, quando la palla raggiunge l'equilibrio, formerà un angolo $\theta_0$ con la verticale.
 
-**a) ** Determina l'angolo $\theta_0$ in funzione di $V_0$, $g$, $m$, $q$ e $d$.
+**a)** Determina l'angolo $\theta_0$ in funzione di $V_0$, $g$, $m$, $q$ e $d$.
 
 Si $V_0 = 100\,\text{V}$; $g = 9{,}8\,\text{m/s}^2$; $M = 1{,}4 \times 10^{-6}\,\text{kg}$; $q = 1{,}2 \times 10^{-9}\,\text{C}$; $d = 0{,}050\,\text{m}$; $L = 0{,}040\,\text{m}$;
 
-**b) ** calcola il valore numerico di $\theta_0$.
+**b)** calcola il valore numerico di $\theta_0$.
 
 Si può considerare che la forza netta esercitata dal campo elettrico e dalla gravità sulla palla agisca come un peso apparente espresso come il prodotto della massa della palla da un vettore $\vec{g}_{ap}$, che chiameremo gravità apparente.
 
-**c) ** Determina analiticamente $g_{ap}$ in funzione di $V_0$, $g$, $m$, $q$ e $d$. Calcola il suo valore numerico.
+**c)** Determina analiticamente $g_{ap}$ in funzione di $V_0$, $g$, $m$, $q$ e $d$. Calcola il suo valore numerico.
 
 La sfera metallica si sposta leggermente, così che il filo forma un angolo $\theta$ con la verticale un po' maggiore di $\theta_0$. La palla viene rilasciata a partire dal riposo in modo che oscilla attorno alla posizione di equilibrio con un periodo $T'$.
 
-**d) ** Determina e calcola il rapporto $T'/T$, dove $T$ è il periodo che il pendolo avrebbe se non ci fosse differenza di potenziale tra le tavole.
+**d)** Determina e calcola il rapporto $T'/T$, dove $T$ è il periodo che il pendolo avrebbe se non ci fosse differenza di potenziale tra le tavole.
 
 Se la differenza di potenziale $V_0$ tra le schede collegate e la palla è nella posizione di equilibrio, il filo viene tagliato.
 
-**e) ** Determina e calcola l'accelerazione della palla fino al livello inferiore delle targhe.
+**e)** Determina e calcola l'accelerazione della palla fino al livello inferiore delle targhe.
 
 L'altezza delle lastre è $h = 20\,\text{cm}$.
 
-**f) ** Determina e calcola il valore massimo della differenza di potenziale, $V_{\max}$, che potrebbe essere applicato tra le lastre prima che il filo sia tagliato in modo che, una volta tagliato, la palla si esca attraverso la parte inferiore delle lastre senza toccare nessuna di esse.
+**f)** Determina e calcola il valore massimo della differenza di potenziale, $V_{\max}$, che potrebbe essere applicato tra le lastre prima che il filo sia tagliato in modo che, una volta tagliato, la palla si esca attraverso la parte inferiore delle lastre senza toccare nessuna di esse.
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p9_f6.png]]
@@ -426,7 +426,7 @@ A potential difference $V_0$ is applied between the plates, so that the thread, 
 
 Si $V_0 = 100\,\text{V}$; $g = 9{,}8\,\text{m/s}^2$; $M = 1{,}4 \times 10^{-6}\,\text{kg}$; $q = 1{,}2 \times 10^{-9}\,\text{C}$; $d = 0{,}050\,\text{m}$; $L = 0{,}040\,\text{m}$;
 
-**b) ** calculates the numerical value of $\theta_0$.
+**b)** calculates the numerical value of $\theta_0$.
 
 The net force exerted by the electric field and gravity on the ball can be considered to act as an apparent weight expressed as the product of the ball's mass by a vector $\vec{g}_{ap}$, which we will call apparent gravity.
 
@@ -434,15 +434,15 @@ The net force exerted by the electric field and gravity on the ball can be consi
 
 The metal ball is slightly moved, so that the thread forms an angle $\theta$ with the vertical slightly larger than $\theta_0$. The ball is released from rest so that it oscillates around the equilibrium position with a period $T'$.
 
-**d) ** Determine and calculate the ratio $T'/T$, where $T$ is the period the pendulum would have had if there were no potential difference between the plates.
+**d)** Determine and calculate the ratio $T'/T$, where $T$ is the period the pendulum would have had if there were no potential difference between the plates.
 
 The difference in potential $V_0$ between the connected plates and the ball in its equilibrium position, the thread is cut.
 
-**e) ** Determine and calculate the acceleration of the ball until it reaches the bottom of the plates.
+**e)** Determine and calculate the acceleration of the ball until it reaches the bottom of the plates.
 
 The height of the plates is $h = 20\,\text{cm}$.
 
-**f) ** Determine and calculate the maximum value of the potential difference, $V_{\max}$, which could be applied between the plates before the yarn is cut so that, once cut, the ball passes through the bottom of the plates without touching any of them.
+**f)** Determine and calculate the maximum value of the potential difference, $V_{\max}$, which could be applied between the plates before the yarn is cut so that, once cut, the ball passes through the bottom of the plates without touching any of them.
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p9_f6.png]]

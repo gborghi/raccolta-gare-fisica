@@ -180,7 +180,7 @@ $$\eta_\text{hex} = \frac{\pi}{2\sqrt{3}} \approx 0{,}91 \qquad \eta_\text{sq} =
 
 Si desidera imballare sfere rigide della stessa dimensione. Per semplificare il problema di Kepler, considera **dischi identici** (ad esempio, monete di raggio $R$) e determina la densità massima di imballaggio per due arrangiamenti:
 
-- (a) **Settimanti **  i dischi sono disposti in file esistenti;
+- (a) **Settimanti**  i dischi sono disposti in file esistenti;
 - (b) **Packing quadrato**  i dischi sono disposti in file quadrate.
 
 Per ogni sistema calcola **densità di imballaggio** $\eta$, definita come frazione dell'area totale occupata dai dischi.
@@ -279,7 +279,7 @@ Si noti che questa famiglia di piani non è l'unica possibile.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows an arrangement of ions in a cubic crystal of NaCl. The dotted lines represent the intersections of the ** Bragg ** planes with the sheet plane. The data:
+The figure shows an arrangement of ions in a cubic crystal of NaCl. The dotted lines represent the intersections of the **Bragg** planes with the sheet plane. The data:
 - $r$ = separation between neighbouring ions (network parameter);
 - $d$ = distance between consecutive Bragg planes of the family shown.
 
@@ -336,7 +336,7 @@ La figura mostra i raggi x incidenti e riflessi dagli elettroni negli atomi cont
 
 a) Calcolare la differenza di percorso $\overline{ABC}$ tra i raggi riflessi nei due piani.
 
-b) Per quali valori $\theta$ i raggi riflessi producono ** interferenza costruttiva **?
+b) Per quali valori $\theta$ i raggi riflessi producono **interferenza costruttiva**?
 
 > *Condizione di Bragg:* interferenza costruttiva si verifica quando
 > $$2d\sin\theta = n\lambda, \qquad n = 1, 2, 3, \ldots$$
@@ -345,7 +345,7 @@ b) Per quali valori $\theta$ i raggi riflessi producono ** interferenza costrutt
 
 ---
 
-> **Context  Calcio (Questioni 68) **
+> **Context  Calcio (Questioni 68)**
 >
 > Le seguenti domande riguardano la Coppa del Mondo 2014 tenutasi in Brasile.
 
@@ -363,7 +363,7 @@ The figure shows incident x-rays and reflected by the electrons in the atoms con
 
 (a) Calculate the path difference $\overline{ABC}$ between the rays reflected in the two planes.
 
-(b) For what values of $\theta$ will the reflected rays produce ** constructive interference **?
+(b) For what values of $\theta$ will the reflected rays produce **constructive interference**?
 
 > * Bragg condition:* constructive interference occurs when
 > $$2d\sin\theta = n\lambda, \qquad n = 1, 2, 3, \ldots$$
@@ -372,7 +372,7 @@ The figure shows incident x-rays and reflected by the electrons in the atoms con
 
 ---
 
-> **Content  Soccer (questions 68) **
+> **Content  Soccer (questions 68)**
 >
 > The following questions relate to the 2014 World Cup held in Brazil.
 
@@ -420,7 +420,7 @@ Para aperfeiçoar o desempenho dos goleiros, realiza-se o seguinte treinamento: 
 L'allenamento è fatto con erba bagnata. Considerate:
 - le palle non si allontanano dal piano del prato;
 - scarica scarsa;
-- collisione **elastica ** tra palline della stessa massa.
+- collisione **elastica** tra palline della stessa massa.
 
 La larghezza della puntata è $7{,}32\,\text{m}$ (postate $3{,}66\,\text{m}$ su ogni lato del centro).
 
@@ -442,7 +442,7 @@ To improve the performance of the goalkeepers, the following training is carried
 Training is done with wet grass. Consider:
 - the balls do not move out of the lawn plane;
 - slight friction;
-- **elastic ** collision between balls of the same mass.
+- **elastic** collision between balls of the same mass.
 
 The width of the bearing shall be $7{,}32\,\text{m}$ (post at $3{,}66\,\text{m}$ on either side of the centre).
 
@@ -565,7 +565,7 @@ Supponiamo che l'interno della palla contenga un **gas ideale** alla temperatura
 
 <div class="qlang-split" data-lang="en"></div>
 
-For a football to be approved by the Federation, the **pressure loss ** shall be at most $20\%$ in $72\,\text{h}$, starting from a pressure of $p_0 = 0{,}8\,\text{bar}$ at sea level.
+For a football to be approved by the Federation, the **pressure loss** shall be at most $20\%$ in $72\,\text{h}$, starting from a pressure of $p_0 = 0{,}8\,\text{bar}$ at sea level.
 
 Suponha que o interior da bola contenha um **gás ideal** a temperatura constante, mas com o volume que varia $3\%$ (aumento) devido à perda de ar.
 

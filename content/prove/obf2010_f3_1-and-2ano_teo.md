@@ -647,7 +647,7 @@ Domanda 13  Un turista in viaggio ha acquistato una fotocamera a 35 mm di distan
 mm di larghezza. Un giorno vede una barca lunga 12 metri e vuole farne un'immagine.
 Ma notate che in quella posizione l'immagine della barca riempie solo un quarto della larghezza del film.
 - **A**Qual è la distanza tra il turista e la barca?
-- **B.**Quanta distanza deve essere tra il turista e la barca per che l'immagine riempia l'intera larghezza del film.
+- **B.** Quanta distanza deve essere tra il turista e la barca per che l'immagine riempia l'intera larghezza del film.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]

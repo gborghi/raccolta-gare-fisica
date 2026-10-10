@@ -471,13 +471,13 @@ Useremo un tunnel a vento con ventilatore per computer per servire come generato
 
 La misurazione della velocità di rotazione del motore o della turbina eolica è importante nell'ingegneria dell'energia eolica. Utilizziamo un semplice circuito di sensori optoelettronici come mostrato di seguito per misurare la frequenza di rotazione del motore. Il sensore ottico è costituito da un paio di emettitori di luce a infrarossi e da un rilevatore che rilevano una striscia riflettente sulla lama mentre il motore ruota (Figura 4).
 
-**Instruzioni e avvertimenti: **
+**Instruzioni e avvertimenti:**
 
 - **A.** Connettere il circuito opto-sensore come mostrato alla figura 4.
-- **B.** ** AVVERTORE: ** Si prega di essere attenti con i jack di coccodrillo sulla batteria per il sensore ottico, sono piuttosto fragili.
-- **C.** ** AVVERTORE: ** Se non è necessario leggere la frequenza del motore, si prega di disconnettere la batteria per evitare di esaurire la sua potenza.
-- **D.** ** AVVERTORE:** Se è necessario leggere la tensione dell'alimentazione, è possibile utilizzare un DMM (multimetro digitale) per ottenere cifre più significative.
-- **E.** ** AVVERTORE: ** Se si utilizza il DMM come ampere-metro, si faccia attenzione al limite di autonomia. Se si fa saltare il fusibile DMM, viene fornito solo un sostituto.
+- **B.** **AVVERTORE:** Si prega di essere attenti con i jack di coccodrillo sulla batteria per il sensore ottico, sono piuttosto fragili.
+- **C.** **AVVERTORE:** Se non è necessario leggere la frequenza del motore, si prega di disconnettere la batteria per evitare di esaurire la sua potenza.
+- **D.** **AVVERTORE:** Se è necessario leggere la tensione dell'alimentazione, è possibile utilizzare un DMM (multimetro digitale) per ottenere cifre più significative.
+- **E.** **AVVERTORE:** Se si utilizza il DMM come ampere-metro, si faccia attenzione al limite di autonomia. Se si fa saltare il fusibile DMM, viene fornito solo un sostituto.
 
 ![[APhO_2013_exp_p4_f1.png]]
 *Figura 4. Connessione di uscita del sensore ottico al DMM # 1 che funziona come voltmeter o frequenza.*
@@ -512,12 +512,12 @@ $$
 
 se $C_D$ è il coefficiente di resistenza dell'oggetto, $\rho_A$ è la densità del fluido (aria), $A_B$ è la sezione trasversale della palla di ping pong, $v$ è la velocità della palla rispetto al fluido e $m$ è il fattore di potenza. La massa della palla di ping pong $m_B$ (in grammi) è scritta sulla palla come mostrato alla figura 6(c). Si prega di consultare Constants & Data su pag. 2 per altri dati.
 
-**Instruzioni e avvertimenti: **
+**Instruzioni e avvertimenti:**
 
 - **A.** Inserire il filo del pendolo nella fessura con la regola stampata come mostrato alla figura 6(d). Posiziona la palla di ping pong al centro del tunnel. Il regolare stampato aiuta a calcolare l'angolo di deviazione $\theta$.
-- **B.** ** AVVERTORE: ** La giunta tra il filo e la palla di ping pong è fragile. Per favore, sii gentile.
-- **C.** ** AVVERTORE: ** Assicuratevi che il pendolo del ping pong si muova liberamente.
-- **D.** ** AVVERTORE: ** Se non è necessario leggere la frequenza del motore, si prega di disconnettere la batteria da 9 V per evitare di esaurire la sua potenza.
+- **B.** **AVVERTORE:** La giunta tra il filo e la palla di ping pong è fragile. Per favore, sii gentile.
+- **C.** **AVVERTORE:** Assicuratevi che il pendolo del ping pong si muova liberamente.
+- **D.** **AVVERTORE:** Se non è necessario leggere la frequenza del motore, si prega di disconnettere la batteria da 9 V per evitare di esaurire la sua potenza.
 
 **[C.1]** Relazionare la velocità del vento $v$ come funzione dell'angolo di deflessione $\theta$. Disegna il diagramma della forza. Esprimere la risposta in termini, tra gli altri, della densità di massa dell'aria ($\rho_A$) e della massa della palla di ping pong ($m_B$).
 [0,7 pts]
@@ -562,7 +562,7 @@ con $a = a' + Q_{nc}/(T_w - T_0) + 4\,A_W\,\sigma\,\varepsilon\,T_0^3$.
 
 Ora faremo esperimenti per determinare il valore di $b/a$ e $c$ con due metodi diversi: filo caldo con temperatura costante e corrente costante che scorre attraverso di esso.
 
-Montaggiare il filamento di filo a caldo su una canna di acciaio come mostrato nella figura 8(a) e inserirlo all'interno del tunnel del vento attraverso il foro (potete ruotare il tunnel del vento). Quando inserire il cavo caldo nel tunnel del vento, assicurarsi di avere l'orientamento corretto: la sezione trasversale più grande del filamento del cavo caldo è perpendicolare al flusso del vento, vedi figura 8(b). ** AVVERTORE: ** Non toccare il filamento.
+Montaggiare il filamento di filo a caldo su una canna di acciaio come mostrato nella figura 8(a) e inserirlo all'interno del tunnel del vento attraverso il foro (potete ruotare il tunnel del vento). Quando inserire il cavo caldo nel tunnel del vento, assicurarsi di avere l'orientamento corretto: la sezione trasversale più grande del filamento del cavo caldo è perpendicolare al flusso del vento, vedi figura 8(b). **AVVERTORE:** Non toccare il filamento.
 
 ![[APhO_2013_exp_p8_f1.png]]
 *Figura 8. (a) Filamento a filo a caldo. (b) Hotwire filament in the wind tunnel.*
@@ -602,24 +602,24 @@ $$
 y = \ln\frac{b}{a} + c\,\ln v \tag{11}
 $$
 
-**[D.1.2] ** Che cos'è $y$?
+**[D.1.2]** Che cos'è $y$?
 [0.3 pt]
 
 **[D.1.3]** Eseguire l'esperimento e ottenere $b/a$ e $c$!
 [2.5 pt]
 
-**Instruzioni e avvertimenti: **
+**Instruzioni e avvertimenti:**
 
 - **A.** Trasferire la casella elettronica in modalità di temperatura costante (CTA).
 - **B.** Collegare i fili e i jack secondo la figura 9 ((b) e la figura 10 ((a). Utilizzare la fonte di tensione variabile da 9 V dell'alimentazione per la scatola elettronica a filo caldo.
-- **C.** ** AVVERTORE: ** Si prega di essere attenti a non toccare e danneggiare il filamento di filo a fiato. Se danneggiate il cavo caldo, vi verrà fornito solo un cavo caldo di sostituzione durante tutto l'esperimento.
+- **C.** **AVVERTORE:** Si prega di essere attenti a non toccare e danneggiare il filamento di filo a fiato. Se danneggiate il cavo caldo, vi verrà fornito solo un cavo caldo di sostituzione durante tutto l'esperimento.
 - **D.** Controlla attentamente che tutte le connessioni siano corrette e assicurati che tutti i pulsanti dell' alimentazione siano completamente abbassati (a sinistra) prima di accenderlo.
 - **E.** Accendi l' alimentazione e aumenta lentamente la tensione della casella elettronica a circa 1 V. Dopo di che, devi regolare il potenzimetro sul ponte di Wheatstone in modo che $V_{CALIB}$ sia zero. Prima che il vento soffia, regolare il potenzimetro in modo che $V_{CALIB}$ sia zero. Chiamiamo il ponte in questa condizione equilibrato.
 (f) Una volta equilibrato non è necessario variare la resistenza con il potenzimetro per la misura successiva.
-(g) ** AVVERTORE: ** non utilizzare una tensione superiore a 2 V quando non c'è vento, potresti danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: solo un filo di sostituzione è consentito per l'intero esperimento.
+(g) **AVVERTORE:** non utilizzare una tensione superiore a 2 V quando non c'è vento, potresti danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: solo un filo di sostituzione è consentito per l'intero esperimento.
 h) Aumentare la velocità del vento, regolare $V_{INPUT}$ in modo che il ponte sia nuovamente equilibrato, cioè la resistenza dei fili a caldo è tornata al valore iniziale.
 (i) Ripetere il passaggio (h) fino a quando non avrete dati sufficienti. Registrare i dati sulla scheda delle risposte e tracciare il grafico per determinare $b/a$ e $c$.
-(j) ** AVVERTORE:** Non abbassare la potenza del motore prima di spegnere la potenza del filo caldo. Se lo fai, il filo caldo si surriscalderà e potrebbe essere danneggiato. Ricordate: solo un filo di sostituzione è consentito per l'intero esperimento.
+(j) **AVVERTORE:** Non abbassare la potenza del motore prima di spegnere la potenza del filo caldo. Se lo fai, il filo caldo si surriscalderà e potrebbe essere danneggiato. Ricordate: solo un filo di sostituzione è consentito per l'intero esperimento.
 
 ##### [D.2] Metoda di corrente costante [3.5 pts]
 
@@ -647,11 +647,11 @@ $$
 **[D.2.2]** Eseguire un esperimento per determinare il valore di $R_0$.
 [1,2 pts]
 
-**Instruzioni e avvertimenti: **
+**Instruzioni e avvertimenti:**
 
 - **A.** Trasferire la scatola elettronica in modalità corrente costante (CCA).
 - **B.** Collegare i fili e i jack secondo le figure 9 ((c) e 10 ((b). Controllare attentamente che siano corrette e assicurarsi che tutti i pulsanti dell'alimentazione siano completamente abbassati (a sinistra) prima di accenderlo.
-- **C.** ** AVVERTORE: ** non utilizzare corrente superiore a 180 mA, si può danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: è consentito solo un sostituto di filo a fuoco.
+- **C.** **AVVERTORE:** non utilizzare corrente superiore a 180 mA, si può danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: è consentito solo un sostituto di filo a fuoco.
 - **D.** Accendi l' alimentazione e aumenta lentamente la tensione o la corrente al filo caldo.
 - **E.** Si noti che è possibile limitare la corrente al filo caldo regolaendo il potenzimetro sulla scatola (cioè la corrente e la tensione attraverso il filo caldo non aumenteranno anche quando si aumenta la tensione dell'alimentazione). Suggerisce di regolare la tensione dell'alimentazione a 7,5 V per avere una tensione di lavoro stabile per la scatola elettronica.
 f) Assicurarsi che il DMM di misurazione della corrente funzioni correttamente, ovvero la lettura non è zero. Il circuito di misurazione corrente su un DMM è protetto da un fusibile. Se il fusibile è rotto, il DMM sembrerà ancora funzionare ma la misurazione corrente sarà sempre zero.
@@ -670,10 +670,10 @@ $$
 **[D.2.4]** Eseguire un esperimento per determinare $b/a$ e $c$.
 [1.9 pt]
 
-**Instruzioni e avvertimenti: **
+**Instruzioni e avvertimenti:**
 
 - **A.** Assicurati che tutti i pulsanti dell' alimentazione siano completamente abbassati (a sinistra) prima di accenderlo. Accendi l'alimentazione e aumenta lentamente la tensione/ corrente al filo caldo.
-- **B.** Aggiusta il potenzimetro alla corrente di lavoro desiderata. ** AVVERTORE: ** non utilizzare corrente superiore a 180 mA, si può danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: è consentito solo un sostituto di filo a fuoco.
+- **B.** Aggiusta il potenzimetro alla corrente di lavoro desiderata. **AVVERTORE:** non utilizzare corrente superiore a 180 mA, si può danneggiare il filo a caldo. Il cavo caldo è danneggiato se brilla. Ricordate: è consentito solo un sostituto di filo a fuoco.
 - **C.** Aumentare la tensione del motore generatore di vento per generare vento.
 - **D.** Registra la corrente e la tensione attraverso il filo caldo per questa velocità del vento.
 - **E.** Riadattare la velocità del vento e ripetere il passaggio (d) finché non si hanno dati sufficienti.
@@ -709,7 +709,7 @@ La turbina motore ha un circuito interno equivalente come mostrato di seguito. U
 
 Se avete bisogno di una fonte di corrente costante, potete usare la casella elettronica del filo di corrente in modalità Anemometro di corrente costante (CCA). Se avete bisogno di usare un amperiometro, utilizzate il DMM #2 o #3 e fate attenzione a non superare la valutazione o a non far saltare il fusibile.
 
-**Instruzioni: **
+**Instruzioni:**
 
 - **A.** Metti la turbina all'interno del tunnel eolico. Prima di tutto, incorrete le banane e i coccodrilli della turbina attraverso il piccolo buco in cima al tunnel del vento dall'interno del tunnel. Poi inserire la canna di acciaio montata (utilizzare quella per il filo caldo) nel buco e mettere la turbina alla fine, vedi figura 11.
 - **B.** In questo esperimento dovrete misurare due frequenze: la frequenza del generatore eolico (per ottenere la velocità del vento) e la frequenza delle turbine eoliche. Questo è possibile combinando la connessione come mostrato nella figura 13 ((a). Puoi usare il clip di coccodrillo nero per passare tra il generatore eolico di lettura o la turbina eolica.

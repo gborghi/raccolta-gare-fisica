@@ -561,7 +561,7 @@ tra di loro come mostrato.
 Considera una particella con una piccola carica negativa a riposo in una delle tre posizioni, A, O e B,
 segnalato sul diagramma. La particella:
 - **A.** hanno la maggiore energia potenziale a A.
-- ** B.** hanno la maggiore energia potenziale a B.
+- **B.** hanno la maggiore energia potenziale a B.
 - **C.** hanno la maggiore energia potenziale a O
 - **D.** hanno la stessa energia potenziale a A e B
 - **E.** hanno la stessa energia potenziale a A, B e O.

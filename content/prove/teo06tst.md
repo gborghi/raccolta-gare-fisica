@@ -79,7 +79,7 @@ where the centreflex and the $\theta$ rising lines were positive respectively.
 5. The ratio of the force exerted by the bond on the sphere when sphere 2 (after detachment of the first) passes through the lowest point of its trajectory and the weight of the sphere is calculated.
 
 <!--fig:start-->
-**p.1 **  Handle with hinges and theta angle
+**p.1**  Handle with hinges and theta angle
 ![[_attachments/Teo06tst/Teo06tst_p1_f1.png]]
 <!--fig:end-->
 
@@ -153,7 +153,7 @@ Einstein's theory was soon followed by J. Perrin (1908) is a writer. In one of t
 
 1. By measuring at least 10 consecutive movements of the particle (starting from any point in the figure) an estimate of Avogadro's Number $N_A$ is obtained.
 
-**Warning: ** The solution requires the first position used (starting from the one indicated by n. The following table shows all the measures taken:
+**Warning:** The solution requires the first position used (starting from the one indicated by n. The following table shows all the measures taken:
 
 ♪ I'm not moving ♪ | lunghezza in figura (quadretti) | lunghezza $\ell$ effettiva ($\mu$m) | $\ell^2$ ($\mu\text{m}^2$) |
    |---|---|---|---|
@@ -307,12 +307,12 @@ A monochrome, flat wave-like, collimated beam of light, which is orthogonal to t
 2. And that maxim, which you get in the case of incoming rays coming at the table?
 
 <!--fig:start-->
-**p.4 **  Perspective view of the fourth cylinder on the table
+**p.4**  Perspective view of the fourth cylinder on the table
 ![[_attachments/Teo06tst/Teo06tst_p4_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Section with reflected rays, radius r and distance x
+**p.4**  Section with reflected rays, radius r and distance x
 ![[_attachments/Teo06tst/Teo06tst_p4_f4.png]]
 <!--fig:end-->
 

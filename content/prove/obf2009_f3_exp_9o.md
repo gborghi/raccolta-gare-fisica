@@ -86,15 +86,15 @@ $$\frac{C}{D} = \pi$$
 
 # # # Procedimenti sperimentali
 
-**1.**Rimuovi dall'esperimento la scatola finale, dove troverai 5 (cinque) circonferenze concentriche.
+**1.** Rimuovi dall'esperimento la scatola finale, dove troverai 5 (cinque) circonferenze concentriche.
 
 Messa la foglia sul tavolo con la cinta crepe in modo da facilitare la procedura sperimentale successiva.
 
 **3.** Prendi una delle righe di carta di $0$–$25\ \text{cm}$ e incolla le dita per ottenere una curvatura nella righe di carta, facilitando la misurazione.
 
-**4.** Misura con la regola la lunghezza $C$ della circonferenza minore (circonferenza 01). Per le misure, fai le circonferenze con la regola, adattandole gradualmente alla dimensione della circonferenza sul carta. Alla fine della misurazione, segna sul regolare il valore verificato. eseguire 3 misurazioni e annotare il risultato di ciascuna delle stesse nel Registro dei dati sperimentali I**:
+**4.** Misura con la regola la lunghezza $C$ della circonferenza minore (circonferenza 01). Per le misure, fai le circonferenze con la regola, adattandole gradualmente alla dimensione della circonferenza sul carta. Alla fine della misurazione, segna sul regolare il valore verificato. eseguire 3 misurazioni e annotare il risultato di ciascuna delle stesse nel Registro dei dati sperimentali I**:**
 
-**Registro dei dati sperimentali I  Lunghezza delle circonferenze ($C$) **
+**Registro dei dati sperimentali I  Lunghezza delle circonferenze ($C$)**
 
 Il numero è di circa un centimetro.
 |---|---|---|---|
@@ -106,9 +106,9 @@ Il 5° circuito.
 
 **5.** Fai il passo 4 per le circostanze seguenti (circondaria 02 a 05) e annotati le misurazioni anche nel registro dei dati sperimentali I sopra. Troverete circonferenze più grandi di $25\ \text{cm}$; quindi, utilizzate la cinta crepe a vostra disposizione in laboratorio e fate una regola di $50\ \text{cm}$ per eseguire queste misurazioni.
 
-**6.** Misura con la regola il diametro $D$ delle circonferenze da 1 a 5 e annotatela nel registro dei dati sperimentali II**:
+**6.** Misura con la regola il diametro $D$ delle circonferenze da 1 a 5 e annotatela nel registro dei dati sperimentali II**:**
 
-**Registro dei dati sperimentali II  Diametro delle circonferenze ($D$) **
+**Registro dei dati sperimentali II  Diametro delle circonferenze ($D$)**
 
 Il punto di riferimento è il centimetro.
 |---|---|

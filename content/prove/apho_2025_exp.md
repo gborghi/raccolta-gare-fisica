@@ -331,7 +331,7 @@ L'esperimento ha tre parti. In primo luogo, misureremo l'induttanza della bobina
 | Emissivity of Al | $e_{\text{Al}}$ | $0.65$ |
 | Emissivity of SS410 | $e_{\text{SS410}}$ | $0.8$ |
 
-> **Nota: **
+> **Nota:**
 > 1. Si prega di leggere la sezione D: "Procedure di funzionamento delle apparecchiature".
 > 2. In tutti gli esperimenti abbiamo bisogno di un condensatore $C$ per formare una configurazione di circuito RLC serie, perché senza un condensatore (cioè La bobina potrebbe diventare molto calda.
 > 3. In tutti gli esperimenti non è necessaria l'analisi degli errori.
@@ -348,7 +348,7 @@ Il primo componente chiave della cucina a induzione è la bobina. In questo espe
 
 We will use a series RLC circuit with the yellow metal resistor $R_1$, coil#1 and a capacitor. Ci sono quattro condensatori diversi. Si prega di notare che la tensione di uscita del Function Generator (FG) può variare con la variazione della frequenza, come l'impedenza di carico.
 
-**1.1 ** *(0.4 pt) *  Sceglierete il circuito e etichettatelo su tutte le parti pertinenti. La resistenza di tutti i cavi ($R_C$), che contribuisce alla resistenza totale ($R_{\text{TOT}}$) nel circuito, non è trascurabile. Determina $R_C$ con l'ohmmetro.
+**1.1** *(0.4 pt) *  Sceglierete il circuito e etichettatelo su tutte le parti pertinenti. La resistenza di tutti i cavi ($R_C$), che contribuisce alla resistenza totale ($R_{\text{TOT}}$) nel circuito, non è trascurabile. Determina $R_C$ con l'ohmmetro.
 
 **1.2** *(1.2 pt) *  Determinare la frequenza di risonanza del circuito RLC con due condensatori diversi: $C = 470\ \text{nF}$ e $2200\ \mu\text{F}$. Registrate i dati sperimentali in una tabella. Tracciare una cornice di risonanza appropriata e determinare $L$.
 
@@ -360,7 +360,7 @@ We will use a series RLC circuit with the yellow metal resistor $R_1$, coil#1 an
 
 ##### C.2 Esperimento #2: Induzione reciproca e profondità della pelle (8,1 pt)
 
-> **Nota: **
+> **Nota:**
 > 1. In questo esperimento #2, si prega di utilizzare un circuito RLC di serie con $C = 1000\ \mu\text{F}$ per guidare la bobina.
 > 2. Se il segnale di tensione è troppo basso per l'oscilloscopio digitale, è possibile: (1) Amplificare il segnale di 10x scegliendo MENU > F4 per togliere "PROVATE" tra 1x e 10x. (2) Presi "RISPONERE/SAVARE" per congelare il display.
 > 3. Quando si usa l'oscilloscopio digitale per misurare la tensione, la lettura "VMAX" può essere imprecisa se vi sono rumori o "spikes". Leggi l'ampiezza del segnale direttamente dalla forma d'onda.
@@ -412,9 +412,9 @@ Esperienti effettuati su quattro metalli: (1) alluminio, (2) rame, (3) acciaio i
 
 ##### C.3 Esperimento n. 3, "Cucinazione": capacità termica specifica e resistenza efficace al carico (7,4 pt)
 
-> **Noti: **
+> **Noti:**
 > 1. In questo esperimento # 3, si prega di utilizzare un circuito RLC di serie con $C = 1000\ \mu\text{F}$ per guidare la bobina.
-> 2. ** AVVERTENZA: ** Per evitare il surriscaldamento, si prega di limitare la corrente massima della bobina a circa $2\ \text{A-peak}$.
+> 2. **AVVERTENZA:** Per evitare il surriscaldamento, si prega di limitare la corrente massima della bobina a circa $2\ \text{A-peak}$.
 > 3. Per operare la " cucina ad induzione " si prega di utilizzare una frequenza di $f = 40\ \text{kHz}$.
 
 ![[_attachments/APhO_2025_exp/APhO_2025_exp_p7_f1.png]]
@@ -457,7 +457,7 @@ Infine, possiamo modellare il riscaldamento del "pan" metallico come se introdus
 
 **3.7** *(0.1 pt) *  Quale funziona meglio come cassetta da cucina? Scegli una: a) alluminio o b) SS410.
 
-**3.8 ** *(0,1 pt) *  Quale parametro fisico svolge il ruolo più dominante nell'effetto di riscaldamento a induzione nella scelta di cui sopra? Scegli una: (a) conduttività elettrica, (b) permeabilità magnetica, (c) densità di massa, (d) calore specifico o (e) conduttività termica.
+**3.8** *(0,1 pt) *  Quale parametro fisico svolge il ruolo più dominante nell'effetto di riscaldamento a induzione nella scelta di cui sopra? Scegli una: (a) conduttività elettrica, (b) permeabilità magnetica, (c) densità di massa, (d) calore specifico o (e) conduttività termica.
 
 **3.9** *(0,4 pt) *  L'efficienza di cottura ad induzione ($\eta$) è definita come il rapporto tra la potenza fornita alla piastra e la potenza fornita alla bobina. Calcolare l'efficienza per entrambe le piastrelle di metallo.
 
@@ -488,13 +488,13 @@ Componenti:
 
 **1. FUNZIONI CLAVE DEL PANEL.** Queste chiavi consentono di navigare attraverso le impostazioni, selezionare le funzioni e regolare le misure.
 
-1. ** Taste F1F4:** Queste taste corrispondono al menu funzionale visualizzato in basso sullo schermo.
-2. **TENERE/SAVARE chiave: **
+1. **Taste F1F4:** Queste taste corrispondono al menu funzionale visualizzato in basso sullo schermo.
+2. **TENERE/SAVARE chiave:**
 - In modalità osciloscopo: Presione breve: congelare o riprendere l' visualizzazione della forma d' onda. Presione lunga: salvare i dati di forma d'onda attualmente visualizzati.
 - In modalità multimetro: premere breve: congelare o riprendere la lettura della misura.
-3. Tastiera **MODE: ** Per passare dalla modalità "Oscilloscope" alla modalità "Multimetro".
-4. **TIAVOLLA DEL POWER: ** Presi per $\sim 2$ sec per accendere o spegnere l'unità.
-5. **Tastiera AUTOMATICA: ** Per regolare automaticamente la gamma.
+3. Tastiera **MODE:** Per passare dalla modalità "Oscilloscope" alla modalità "Multimetro".
+4. **TIAVOLLA DEL POWER:** Presi per $\sim 2$ sec per accendere o spegnere l'unità.
+5. **Tastiera AUTOMATICA:** Per regolare automaticamente la gamma.
 6. **MENU key:**
 - Presi MENU per aprire il menu di funzioni del sistema esteso.
 - Usa i tassi direzione sinistra/destra per navigare nelle opzioni del menu esteso.
@@ -505,8 +505,8 @@ Componenti:
 
 1. **Input:** utilizzare la sonda del cavo BNC (articolo #2) e collegarsi al terminale BNC in alto; assicurarsi di bloccarlo girando in senso orario.
 2. **Impostazione di attenuazione della sonda:** La sonda include un interruttore di attenuazione che influisce sulla misurazione del segnale. Può essere impostato su X1 o X10.
-**IMPORTANT: ** Assicurarsi sempre che la configurazione di attenuazione della sonda sia X1. Se necessario, è possibile regolare l'impostazione del software dell'oscilloscopio: premere MENU per aprire il menu esteso e premere F4 per passare "PROVARE" tra X1 e X10.
-3. **Impostazioni dell'oscilloscopio: **
+**IMPORTANT:** Assicurarsi sempre che la configurazione di attenuazione della sonda sia X1. Se necessario, è possibile regolare l'impostazione del software dell'oscilloscopio: premere MENU per aprire il menu esteso e premere F4 per passare "PROVARE" tra X1 e X10.
+3. **Impostazioni dell'oscilloscopio:**
 - a) **Range Auto.** Per regolare automaticamente le scale verticali e orizzontali.
 - (b) **Scala verticale/orizzontale e posizione Verticale/orizzontale** Regolazione: premere F1 per selezionare il menu VOL/TIME. Utilizzare i tassi direzione Su/Sotto per regolare la scala di tensione. Utilizzare i tassi direzione sinistra/destra per regolare la scala temporale.
 - (c) **Regolazione della posizione verticale/orizzontale:** Presi F2 per selezionare il menu MOVE. Utilizzare le chiavi direzione su/basso per spostare la forma d'onda verticalmente. Utilizzare le chiavi direzione sinistra/destra per spostare la forma d'onda orizzontalmente. Il cursore del trigger si muoverà con la forma d'onda.
@@ -516,16 +516,16 @@ Componenti:
 
 **3. Modo di misurazione del multimetro:** In modalità multimetro, il dispositivo viene utilizzato per misurare parametri elettrici come tensione e resistenza. In modalità voltometro a corrente continua può catturare le letture massime con fino a 4 cifre significative, ma la frequenza è limitata solo tra $40\ \text{Hz}$ e $1\ \text{kHz}$.
 
-1. **Input: ** Collegare i cavi con jack alla banana al terminal di ingresso alla banana sul pannello anteriore.
-2. **Voltaggio di misura: **
+1. **Input:** Collegare i cavi con jack alla banana al terminal di ingresso alla banana sul pannello anteriore.
+2. **Voltaggio di misura:**
 - a) Presi F1 per misurare la tensione.
 - (b) Presi F1 di nuovo per passare tra le fasce di tensione AC e DC (utilizzeremo solo la modalità di tensione AC in questo esperimento).
 - (c) **NOTA:** Per le misurazioni di tensione a corrente in modalità multimetro, la gamma di frequenze è limitata solo tra $40\ \text{Hz}$ e $1\ \text{kHz}$. Per misurare la tensione a corrente a frequenza superiore a $1\ \text{kHz}$, si prega di utilizzare la modalità "oscilloscopio".
 3. **Metteria della resistenza:** Presi F2 per misurare la resistenza. Se si premere F2 di nuovo, il ciclo passera' attraverso le seguenti modalità: resistenza, continuità, diodo e capacitanza. Assicurati di selezionare la modalità "resistenza".
 
-**4. FUNZIONI ADDITIONALI: **
+**4. FUNZIONI ADDITIONALI:**
 
-1. **Stocco automatico ("Stocco automatico"): **
+1. **Stocco automatico ("Stocco automatico"):**
 - (a) Presi il tasto MENU per aprire il menu sistema esteso.
 - b) Presione F2 per selezionare l'impostazione del tempo di spegnimento automatico.
 - (c) Si consiglia di impostarlo a 15 minuti, per conservare la potenza della batteria quando il dispositivo è inattivo.

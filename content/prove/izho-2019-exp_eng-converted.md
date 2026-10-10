@@ -107,6 +107,10 @@ Replace the laser with the LED which is a source of white light. Remove the neut
 
 **3.3** Measure the transmittance for pairs of different filters: gray + blue, gray + yellow; blue + yellow. Using the data obtained in the whole experiment, verify whether the transmittance of a pair of filters is equal to the product of the transmittances of each filter.
 
+**Topic:** [[Circuits]], [[Wave Optics]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
+
 
 <div class="qlang-split" data-lang="it"></div>
 

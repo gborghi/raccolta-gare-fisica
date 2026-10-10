@@ -113,7 +113,7 @@ $$I \approx I_s \, e^{\frac{qV}{\eta kT}} \quad (2)$$
 
 dove $I_s$ è il cosiddetto corrente di saturazione, $k$ la costante di Boltzmann, $T$ la temperatura assoluta e $\eta$ è definita come fattore di idealità del LED.
 
-**Dati: **
+**Dati:**
 - Temperatura ambiente: $T = (295 \pm 3)\,\text{K}$
 - Carga elementare: $q = 1{,}60 \times 10^{-19}\,\text{C}$
 - Velocità della luce nel vuoto: $c = 3{,}00 \times 10^{8}\,\text{m/s}$
@@ -121,7 +121,7 @@ dove $I_s$ è il cosiddetto corrente di saturazione, $k$ la costante di Boltzman
 
 **1° parte. Determinazione di $h$.**
 
-**1.a) ** Collegare il LED infrarosso (capsula oscura) al rubricatore. Collegare la pila e aumentare la tensione di alimentazione del LED, girando il potenziometro in senso orario, fino a che circola un corrente di $0{,}010\,\text{mA}$. Supponiamo che, in queste circostanze, la tensione indicata dal voltímetro sia circa la tensione di soglia per questo diodo, $V_0$. Scrivi il tuo valore.
+**1.a)** Collegare il LED infrarosso (capsula oscura) al rubricatore. Collegare la pila e aumentare la tensione di alimentazione del LED, girando il potenziometro in senso orario, fino a che circola un corrente di $0{,}010\,\text{mA}$. Supponiamo che, in queste circostanze, la tensione indicata dal voltímetro sia circa la tensione di soglia per questo diodo, $V_0$. Scrivi il tuo valore.
 
 Ristabilire ogni volta il potenziometro alla sua posizione iniziale, ripete la misura di $V_0$ per gli altri quattro LED: rosso, giallo, blu e viola. Trasferisci le tue misure nella tabella 1, che indica la lunghezza d'onda di emissione di ciascun LED. Per calcolare la frequenza $\nu$, ricordate che $\nu = c/\lambda$, dove $c$ è la velocità della luce nel vuoto e $\lambda$ la lunghezza d'onda.
 
@@ -232,7 +232,7 @@ Re-establishing the potentiometer at its initial position each time, repeat the 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**1.b) ** Rappresenta graficamente i valori di $V_0$ (ordinati) rispetto alle frequenze $\nu$ (abcissi).
+**1.b)** Rappresenta graficamente i valori di $V_0$ (ordinati) rispetto alle frequenze $\nu$ (abcissi).
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -242,7 +242,7 @@ Re-establishing the potentiometer at its initial position each time, repeat the 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1.b) ** Graphically represents the values of $V_0$ (in ordered) versus the frequencies $\nu$ (in abscesses).
+**1.b)** Graphically represents the values of $V_0$ (in ordered) versus the frequencies $\nu$ (in abscesses).
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -269,7 +269,7 @@ Re-establishing the potentiometer at its initial position each time, repeat the 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**1.c) ** Ottieni il valore della pendenza della retta che meglio si adatta ai punti del grafico.
+**1.c)** Ottieni il valore della pendenza della retta che meglio si adatta ai punti del grafico.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -279,7 +279,7 @@ Re-establishing the potentiometer at its initial position each time, repeat the 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1.c) ** Obtain the value of the slope of the straight line that best fits the points on the graph.
+**1.c)** Obtain the value of the slope of the straight line that best fits the points on the graph.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -308,7 +308,7 @@ Teniendo en cuenta que según la ecuación (1) la pendiente de la recta $V_0$ vs
 
 <div class="qlang-split" data-lang="it"></div>
 
-**1.d) ** Detraggere il valore di $h$.
+**1.d)** Detraggere il valore di $h$.
 
 Considerando che, secondo l'equazione (1), l'inclinazione della retta $V_0$ vs $\nu$ è $p = h/q$, si ottiene il valore della costante di Planck $h = pq$.
 
@@ -320,7 +320,7 @@ Considerando che, secondo l'equazione (1), l'inclinazione della retta $V_0$ vs $
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1.d) ** Subtract the value of $h$.
+**1.d)** Subtract the value of $h$.
 
 Whereas according to equation (1) the slope of the straight $V_0$ vs $\nu$ is $p = h/q$, obtain the value of the Planck constant $h = pq$.
 
@@ -349,7 +349,7 @@ Whereas according to equation (1) the slope of the straight $V_0$ vs $\nu$ is $p
 
 <div class="qlang-split" data-lang="it"></div>
 
-**1.e) ** Fa' un'estimazione dell'incertezza della pendenza.
+**1.e)** Fa' un'estimazione dell'incertezza della pendenza.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -359,7 +359,7 @@ Whereas according to equation (1) the slope of the straight $V_0$ vs $\nu$ is $p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1.e) ** Estimate the uncertainty of the slope.
+**1.e)** Estimate the uncertainty of the slope.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -386,7 +386,7 @@ Whereas according to equation (1) the slope of the straight $V_0$ vs $\nu$ is $p
 
 <div class="qlang-split" data-lang="it"></div>
 
-**1.f) ** Considerando quanto sopra, si deve calcolare l'incertezza del valore di $h$.
+**1.f)** Considerando quanto sopra, si deve calcolare l'incertezza del valore di $h$.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -396,7 +396,7 @@ Whereas according to equation (1) the slope of the straight $V_0$ vs $\nu$ is $p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1.f) ** In view of the above, estimate the uncertainty of the value of $h$.
+**1.f)** In view of the above, estimate the uncertainty of the value of $h$.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -437,11 +437,11 @@ Gire el potenciómetro en sentido antihorario hasta el final de su recorrido y c
 
 <div class="qlang-split" data-lang="it"></div>
 
-** parte 2. Determinazione del fattore di idealità, $\eta$.**
+**parte 2. Determinazione del fattore di idealità, $\eta$.**
 
 Gira il potenziometro in senso antiorario fino alla fine del percorso e collega il LED rosso alla regola. Selezionate sul voltometro la scala di 2 V. Collegare la pila e aumentare la tensione di alimentazione fino a quando l'ampiecatore indichi di nuovo un'intensità $0{,}010\,\text{mA}$.
 
-**2.a) ** A partire dalla situazione precedente, aumentare successivamente la tensione di alimentazione a intervalli regolari di circa $0{,}02\,\text{V}$ fino a un massimo di $1{,}70\,\text{V}$. Nota in ciascun caso i valori di $V$ e $I$ in Tabella 2. In questa tabella è disponibile una colonna vuota, per una certa grandezza derivata da quelle precedenti che è necessaria nel paragrafo successivo.
+**2.a)** A partire dalla situazione precedente, aumentare successivamente la tensione di alimentazione a intervalli regolari di circa $0{,}02\,\text{V}$ fino a un massimo di $1{,}70\,\text{V}$. Nota in ciascun caso i valori di $V$ e $I$ in Tabella 2. In questa tabella è disponibile una colonna vuota, per una certa grandezza derivata da quelle precedenti che è necessaria nel paragrafo successivo.
 
 | $V$ (V) | $I$ (A) | | |
 |---------|---------|---|---|
@@ -461,11 +461,11 @@ Gira il potenziometro in senso antiorario fino alla fine del percorso e collega 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information shall be provided: Determination of the ideal factor, $\eta$.**
+The following information shall be provided: Determination of the ideal factor, $\eta$.
 
 Turn the power meter counterclockwise until the end of your tour and connect the red LED to the control. Select the 2 V scale on the voltmeter. Connect the battery and increase the power voltage until the amp indicates again an intensity of $0{,}010\,\text{mA}$.
 
-**2.a) ** Starting from the previous situation, increase the feed voltage at regular intervals of approximately $0{,}02\,\text{V}$, successively, to a maximum value of $1{,}70\,\text{V}$. Note in each case the values of $V$ and $I$ in Table 2. In this table, you have an empty column for any magnitude derived from the previous ones that you need in the next section.
+**2.a)** Starting from the previous situation, increase the feed voltage at regular intervals of approximately $0{,}02\,\text{V}$, successively, to a maximum value of $1{,}70\,\text{V}$. Note in each case the values of $V$ and $I$ in Table 2. In this table, you have an empty column for any magnitude derived from the previous ones that you need in the next section.
 
 | $V$ (V) | $I$ (A) | | |
 |---------|---------|---|---|
@@ -508,7 +508,7 @@ donde $I_s$ es la corriente de saturación, $k$ la constante de Boltzmann, $T$ l
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2.b) ** Sulla base del grafico e dell'aggiustamento che ritiene opportuno, determinare il valore del coefficiente di ottimizzazione, $\eta$, del LED rosso.
+**2.b)** Sulla base del grafico e dell'aggiustamento che ritiene opportuno, determinare il valore del coefficiente di ottimizzazione, $\eta$, del LED rosso.
 
 Ricordate che il corrente segue la legge:
 
@@ -524,7 +524,7 @@ dove $I_s$ è il corrente di saturazione, $k$ la costante di Boltzmann, $T$ la t
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2.b) ** From the chart and the adjustment which you deem appropriate, determine the value of the ideal coefficient, $\eta$, of the red LED.
+**2.b)** From the chart and the adjustment which you deem appropriate, determine the value of the ideal coefficient, $\eta$, of the red LED.
 
 Remember, the current follows the law:
 
@@ -557,7 +557,7 @@ where $I_s$ is the saturation current, $k$ the Boltzmann constant, $T$ the absol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**2.c) ** Estima l'incertezza di questo coefficiente $\eta$.
+**2.c)** Estima l'incertezza di questo coefficiente $\eta$.
 
 **Topic:** [[Circuits]], [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -567,7 +567,7 @@ where $I_s$ is the saturation current, $k$ the Boltzmann constant, $T$ the absol
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2.c) ** Estimate the uncertainty of this coefficient $\eta$.
+**2.c)** Estimate the uncertainty of this coefficient $\eta$.
 
 **Topic:** [[Circuits]], [[Modern-Quantum Physics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

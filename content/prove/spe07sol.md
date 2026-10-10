@@ -1032,7 +1032,7 @@ By calculating with the maximum angular coefficient B0 and then co
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Graph of positions y by spires
+**p.4**  Graph of positions y by spires
 ![[_attachments/spe07sol/spe07sol_p4_f3.png]]
 <!--fig:end-->
 

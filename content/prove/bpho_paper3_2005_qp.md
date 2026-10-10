@@ -74,11 +74,11 @@ In questa domanda vi viene chiesto di fare stime e ipotesi motivate. Queste devo
 
 **(i)** A large-print heading in the *National Geographic Magazine* reads: "Olivine is sharper than steel." Comment and explain. Nota: l'olivina è una roccia vulcanica molto dura, simile al vetro.
 
-**(ii) ** Un automobilista si trova bloccato nella fossa (Figura 1.1). Si consiglia di attaccare una corda al tronco di un albero, stringerla e spingere la corda con una forza $F$ ad angolo retto alla corda. Quando la macchina si è spostata, ripete la procedura sopra. Spiegate perché questa procedura è più efficace che semplicemente tirare la corda senza preoccuparsi di usare il tronco dell'albero.
+**(ii)** Un automobilista si trova bloccato nella fossa (Figura 1.1). Si consiglia di attaccare una corda al tronco di un albero, stringerla e spingere la corda con una forza $F$ ad angolo retto alla corda. Quando la macchina si è spostata, ripete la procedura sopra. Spiegate perché questa procedura è più efficace che semplicemente tirare la corda senza preoccuparsi di usare il tronco dell'albero.
 
-**iii) ** Una rasoio, sia elettrica che manuale, deve essere tagliente per essere confortevole quando viene utilizzata. Perché è così?
+**iii)** Una rasoio, sia elettrica che manuale, deve essere tagliente per essere confortevole quando viene utilizzata. Perché è così?
 
-**(iv) ** Una massa stazionaria di $0.5\ \text{kg}$ viene colpita da un martello $2\ \text{kg}$ in movimento a una velocità $1.3\ \text{m s}^{-1}$. Se la collisione è perfettamente elastica, calcola la velocità successiva della massa. Poiché la durezza del martello non entra nel calcolo, si potrebbe usare un martello di gomma per guidare un chiodo. Commento.
+**(iv)** Una massa stazionaria di $0.5\ \text{kg}$ viene colpita da un martello $2\ \text{kg}$ in movimento a una velocità $1.3\ \text{m s}^{-1}$. Se la collisione è perfettamente elastica, calcola la velocità successiva della massa. Poiché la durezza del martello non entra nel calcolo, si potrebbe usare un martello di gomma per guidare un chiodo. Commento.
 
 **b)** Table 1 shows the timetable of a passenger boat on the river Rhine.
 
@@ -89,9 +89,9 @@ In questa domanda vi viene chiesto di fare stime e ipotesi motivate. Queste devo
 
 Ottenere una stima numerica della velocità del flusso del Reno e della velocità delle barche in acqua ferma. N.B. i segni di posizione seguono il Reno, indicando la distanza lungo il suo corso da un segno zero.
 
-**c) ** È desiderato realizzare un circuito elettrico analogo che replicerà il comportamento del sistema montagna-laghe-rivi (Figura 1.2). Disegnare un circuito elettrico analogo e spiegare come il circuito possa essere utilizzato per indicare il tasso di aumento del livello del fiume al punto $A$ a causa di precipitazioni improvvise in alto terreno.
+**c)** È desiderato realizzare un circuito elettrico analogo che replicerà il comportamento del sistema montagna-laghe-rivi (Figura 1.2). Disegnare un circuito elettrico analogo e spiegare come il circuito possa essere utilizzato per indicare il tasso di aumento del livello del fiume al punto $A$ a causa di precipitazioni improvvise in alto terreno.
 
-**d) ** La distanza dal centro della Terra ai poli è $21\ \text{km}$ inferiore al raggio dell'equatore. Un pendolo di un secondo viene portato dall'equatore (al livello del mare) al Polo Nord. Fai una stima approssimativa del suo cambiamento di periodo. Per i suoi calcoli, potete presumere che la Terra abbia una densità costante.
+**d)** La distanza dal centro della Terra ai poli è $21\ \text{km}$ inferiore al raggio dell'equatore. Un pendolo di un secondo viene portato dall'equatore (al livello del mare) al Polo Nord. Fai una stima approssimativa del suo cambiamento di periodo. Per i suoi calcoli, potete presumere che la Terra abbia una densità costante.
 
 **e)** When a perfect monatomic gas expands adiabatically (no heat interchange with its surroundings), the pressure and volume of the gas are related by:
 
@@ -164,7 +164,7 @@ Nella Olimpiada Internazionale di Fisica del 2004 in Corea, una dimostrazione ha
 (i) Scrivere la velocità massima con cui la palla potrebbe colpire le lastre.
 (ii) La palla aveva una massa di $0.010\ \text{kg}$. Calcolare la sua energia cinetica massima.
 
-**b) ** Si consideri una scatola cubica laterale $l$ e di volume $V$, contenente $n$ molecole di massa $m$ che si muovono tutte in direzioni casuali a velocità costante $v$. Tutte le collisioni devono essere presunte perfettamente elastiche e il volume totale delle molecole è molto inferiore a $V$.
+**b)** Si consideri una scatola cubica laterale $l$ e di volume $V$, contenente $n$ molecole di massa $m$ che si muovono tutte in direzioni casuali a velocità costante $v$. Tutte le collisioni devono essere presunte perfettamente elastiche e il volume totale delle molecole è molto inferiore a $V$.
 
 (i) Qual è il cambiamento di impulso quando una molecola, muovendosi in direzione arbitraria, colpisce una faccia della scatola con velocità $u$ normale alla faccia?
 (ii) Calcolare il tempo medio impiegato per attraversare la scatola.
@@ -300,7 +300,7 @@ $$\frac{dI_x}{dx} = -\alpha I_x + k.$$
 (i) Utilizzare questa equazione per trovare una relazione esplicita tra $x$ e $I_x$. (Le unità di intensità sono $\text{W m}^{-2}$.)
 (ii) Trovare un'espressione per l'intensità $I_m$ quando $x$ è molto grande, e un'espressione per $x$ in termini di $I_{0.5}$, dove $I_{0.5} = 0.5\, I_m$.
 
-**b) ** La figura 4.2 mostra un osservatore che guarda una nuvola luminosa attorno a una stella centrale, sotto forma di una conchiglia sferica tra i raggi $R_b$ e $R_g$. La sua distanza dalla stella è molto maggiore del raggio della nuvola. Lo spessore della nuvola è molto inferiore al raggio della nuvola. Nella posizione mostrata, lo spessore della nuvola nella linea di visione è la somma delle lunghezze di due segmenti di accordi attraverso la conchiglia. La stella forma l'origine di un sistema di coordinate cartesiane con l'asse $x$ parallelo alla linea di vista e l'asse $y$ perpendicolare ad essa.
+**b)** La figura 4.2 mostra un osservatore che guarda una nuvola luminosa attorno a una stella centrale, sotto forma di una conchiglia sferica tra i raggi $R_b$ e $R_g$. La sua distanza dalla stella è molto maggiore del raggio della nuvola. Lo spessore della nuvola è molto inferiore al raggio della nuvola. Nella posizione mostrata, lo spessore della nuvola nella linea di visione è la somma delle lunghezze di due segmenti di accordi attraverso la conchiglia. La stella forma l'origine di un sistema di coordinate cartesiane con l'asse $x$ parallelo alla linea di vista e l'asse $y$ perpendicolare ad essa.
 
 (i) Trovare espressioni (s) che danno la lunghezza totale del percorso attraverso il nuvo in termini di $y$ e degli altri parametri pertinenti.
 (ii) Trovare quindi un'espressione che fornisca la variazione dell'intensità $I_x$ con $y$.

@@ -73,14 +73,14 @@ A transparent glass hemisphere of $R$ radius and mass $m$ has a refractive index
 
 The glass hemisphere does not absorb laser light at all. Its surface is covered with a thin layer of transparent material so that reflections are negligible when light enters or exits the hemisphere. The optical path taken by laser light through the anti-reflective layer can also be overlooked.
 
-**(b) ** By omitting terms of the order of $(\rho/R)^3$ or higher, the $P$ laser power required to generate a force equal to the weight of the glass hemisphere is found.
+**(b)** By omitting terms of the order of $(\rho/R)^3$ or higher, the $P$ laser power required to generate a force equal to the weight of the glass hemisphere is found.
 
 $$[4.0\ \text{punti}]$$
 
-> **Suggest: ** $\sin\theta \approx \theta$ if $\theta$ is much smaller than $1$.
+> **Suggest:** $\sin\theta \approx \theta$ if $\theta$ is much smaller than $1$.
 
 <!--fig:start-->
-**p.2 **  Laser beam glass half-sphere, z axis
+**p.2**  Laser beam glass half-sphere, z axis
 ![[_attachments/IPhO03 ITA TH3/IPhO03 ITA TH3_p2_f1.png]]
 <!--fig:end-->
 

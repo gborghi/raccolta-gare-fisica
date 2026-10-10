@@ -522,7 +522,7 @@ c) Non esiste forza netta su $Q$ ma una forza netta su $q$.
 d) Non esiste forza netta su $q$ ma una forza netta su $Q$.
 e) Entrambe le cariche hanno una forza netta ma sono diverse tra loro.
 
-** PER I DOMANDAI 57: ** Le linee puntate mostrano le linee equipotenziali dei campi elettrici nelle figure seguenti. (Una carica che si muove lungo una linea di uguale potenziale avrebbe una costante energia elettrica potenziale.) Un oggetto carico viene spostato direttamente dal punto A al punto B. La carica sull'oggetto è $+1\ \mu$C.
+**PER I DOMANDAI 57:** Le linee puntate mostrano le linee equipotenziali dei campi elettrici nelle figure seguenti. (Una carica che si muove lungo una linea di uguale potenziale avrebbe una costante energia elettrica potenziale.) Un oggetto carico viene spostato direttamente dal punto A al punto B. La carica sull'oggetto è $+1\ \mu$C.
 
 5. Come si confronta la quantità di lavoro necessaria per spostare questa carica per questi tre casi?
 (a) La maggior parte dei lavori richiesti in I.

@@ -1208,9 +1208,9 @@ What is the maximum value of $\mu$ so that both tires remain in contact with the
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questioni 2830: ** Un modello semplificato di bicicletta di massa $M$ ha due pneumatici che entrano ciascun punto in contatto con il terreno. L'intervallo di rotazione di questa bicicletta (la distanza tra i punti di contatto con il terreno) è $w$, e il centro di massa della bicicletta si trova a metà strada tra le gomme e un'altezza $h$ sopra il terreno. La bicicletta si muove a destra, ma rallenta a un ritmo costante. L'accelerazione ha una magnitudine $a$. La resistenza all'aria può essere ignorata.
+**Questioni 2830:** Un modello semplificato di bicicletta di massa $M$ ha due pneumatici che entrano ciascun punto in contatto con il terreno. L'intervallo di rotazione di questa bicicletta (la distanza tra i punti di contatto con il terreno) è $w$, e il centro di massa della bicicletta si trova a metà strada tra le gomme e un'altezza $h$ sopra il terreno. La bicicletta si muove a destra, ma rallenta a un ritmo costante. L'accelerazione ha una magnitudine $a$. La resistenza all'aria può essere ignorata.
 
-**Caso 1 (domande 2829): ** Supponiamo che il coefficiente di attrito scorrevole tra ciascun pneumatico e il terreno sia $\mu$, e che entrambi i pneumatici scivolassero: scorrevano senza ruotare. Esprimere le risposte in termini di $w$, $h$, $M$ e $g$.
+**Caso 1 (domande 2829):** Supponiamo che il coefficiente di attrito scorrevole tra ciascun pneumatico e il terreno sia $\mu$, e che entrambi i pneumatici scivolassero: scorrevano senza ruotare. Esprimere le risposte in termini di $w$, $h$, $M$ e $g$.
 
 Qual è il valore massimo di $\mu$ in modo che entrambi i pneumatici rimangano in contatto con il terreno? 5 punti)
 
@@ -1297,7 +1297,7 @@ Assume that both tires are skidding: sliding without rotating. What is the maxim
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Caso 2: ** Supponiamo invece che il coefficiente di attrito scorrevole tra ciascun pneumatico e il terreno sia diverso: $\mu_1$ per il pneumatico anteriore e $\mu_2$ per il pneumatico posteriore. Lasciate $\mu_1 = 2\mu_2$.
+**Caso 2:** Supponiamo invece che il coefficiente di attrito scorrevole tra ciascun pneumatico e il terreno sia diverso: $\mu_1$ per il pneumatico anteriore e $\mu_2$ per il pneumatico posteriore. Lasciate $\mu_1 = 2\mu_2$.
 
 Supponiamo che entrambe le gomme scivolassero: scivolavano senza ruotare. Qual è il valore massimo di $a$ in modo che entrambi i pneumatici rimangano in contatto con il terreno? 5 punti)
 
@@ -1340,7 +1340,7 @@ Find the ratio $L/d$. (3 pts)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 3133: ** Una canna sottile e uniforme ha massa $m$ e lunghezza $L$. L'accelerazione dovuta alla gravità deve essere $g$. L'inerzia di rotazione della canna intorno al suo centro sia $md^2$.
+**Domanda 3133:** Una canna sottile e uniforme ha massa $m$ e lunghezza $L$. L'accelerazione dovuta alla gravità deve essere $g$. L'inerzia di rotazione della canna intorno al suo centro sia $md^2$.
 
 Trova il rapporto $L/d$. (3 punti)
 
@@ -1470,7 +1470,7 @@ What is the angular momentum of the object with respect to the axis of the cylin
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questioni 3436: ** Un oggetto puntino di massa $m$ è collegato a un cilindro di raggio $R$ tramite una corda senza massa. Al tempo $t = 0$ l'oggetto si muove con una velocità iniziale $v_0$ perpendicolare alla corda, la corda ha una lunghezza $L_0$, e la corda ha una tensione non zero. Tutto il movimento avviene su una superficie orizzontale senza attrito. Il cilindro rimane fermo sulla superficie e non ruota. L'oggetto si muove in modo tale che la corda si gira lentamente intorno al cilindro. La corda si rompe quando la tensione supera $T_{\max}$. Esprimere le risposte in termini di $T_{\max}$, $m$, $L_0$, $R$ e $v_0$.
+**Questioni 3436:** Un oggetto puntino di massa $m$ è collegato a un cilindro di raggio $R$ tramite una corda senza massa. Al tempo $t = 0$ l'oggetto si muove con una velocità iniziale $v_0$ perpendicolare alla corda, la corda ha una lunghezza $L_0$, e la corda ha una tensione non zero. Tutto il movimento avviene su una superficie orizzontale senza attrito. Il cilindro rimane fermo sulla superficie e non ruota. L'oggetto si muove in modo tale che la corda si gira lentamente intorno al cilindro. La corda si rompe quando la tensione supera $T_{\max}$. Esprimere le risposte in termini di $T_{\max}$, $m$, $L_0$, $R$ e $v_0$.
 
 Qual è il momento angolare dell'oggetto rispetto all'asse del cilindro nel momento in cui la corda si rompe? 6 punti)
 
@@ -1596,7 +1596,7 @@ Find $v_f/v_0$. (7 pts)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Domanda 3738: ** Un cavo elastico senza massa (che obbedisce alla legge di Hooke) si rompe se la tensione del cavo supera $T_{\max}$. Un'estremità del cavo è fissata a un punto fisso, l'altra è fissata ad un oggetto di massa $3m$. Se un secondo oggetto di massa $m$ in movimento a una velocità iniziale $v_0$ colpisce la massa più grande e i due si attaccano insieme, il cavo si allungerà e si romperà, ma l'energia cinetica finale delle due masse sarà zero. Se invece le due collidono con una collisione unidimensional perfettamente elastica, il cavo si rompe ancora, e la massa più grande si sposta con una velocità finale di $v_f$. Tutto il movimento avviene su una superficie orizzontale e senza attrito.
+**Domanda 3738:** Un cavo elastico senza massa (che obbedisce alla legge di Hooke) si rompe se la tensione del cavo supera $T_{\max}$. Un'estremità del cavo è fissata a un punto fisso, l'altra è fissata ad un oggetto di massa $3m$. Se un secondo oggetto di massa $m$ in movimento a una velocità iniziale $v_0$ colpisce la massa più grande e i due si attaccano insieme, il cavo si allungerà e si romperà, ma l'energia cinetica finale delle due masse sarà zero. Se invece le due collidono con una collisione unidimensional perfettamente elastica, il cavo si rompe ancora, e la massa più grande si sposta con una velocità finale di $v_f$. Tutto il movimento avviene su una superficie orizzontale e senza attrito.
 
 Trova $v_f/v_0$. (7 punti)
 

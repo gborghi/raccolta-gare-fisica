@@ -66,7 +66,7 @@ La velocità lo fa dopo aver percorso i 60 cm che gli restano dal parabrezza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The maniac of the drop**
+The maniac of the drop
 
 PT1. City of Buenos Aires. Green, please. 
  
@@ -1468,7 +1468,7 @@ Ma non si tratta di un'impresa che non è stata fatta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Olympic apparatus **
+**Olympic apparatus**
 
 PT12. Jump in. Blue and Green. 
  
@@ -2191,7 +2191,7 @@ Volumen de la esfera: 4/3 π r3
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Medizione della carica dell'elettrone (Millikan) **
+**Medizione della carica dell'elettrone (Millikan)**
 
 PT15. Rosario, Santa Fe. Verde. 
  
@@ -5052,7 +5052,7 @@ e) Tempo necessario per percorrere la distanza AB
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Flat-slung box with friction **
+**Flat-slung box with friction**
 
 PT26. San Fernando of the Catamarca Valley. Blue, please. 
  
@@ -5448,7 +5448,7 @@ bicicletas se encuentran.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Figuring Physics (questioni indipendenti) **
+**Figuring Physics (questioni indipendenti)**
 
 PT29. Città di Buenos Aires. Blu. 
  
@@ -5655,7 +5655,7 @@ Radio de la tierra = 6,4 x 106 m
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pinza elettromagnetica (desorbitare satellitare) **
+**Pinza elettromagnetica (desorbitare satellitare)**
 
 PT30. Città di Buenos Aires. Blu. 
  
@@ -8483,7 +8483,7 @@ c) S1 y S2 están cerradas
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Circuito con interruttori e ampere **
+**Circuito con interruttori e ampere**
 
 PT39. Resistenza, Chaco. Verde. 
  
@@ -8506,7 +8506,7 @@ c) S1 e S2 sono chiuse
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Circuit with switches and ampere **
+**Circuit with switches and ampere**
 
 PT39. Resistance, Chaco. What is it? Green, please. 
  
@@ -9077,7 +9077,7 @@ c) Hallar la temperatura resultante considerando el recipiente.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Iro in recipiente con acqua (miscela) **
+**Iro in recipiente con acqua (miscela)**
 
 PT48. Due maggio, missioni. Blu. 
  
@@ -9095,7 +9095,7 @@ c) Calcolare la temperatura risultante considerando il recipiente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Iron in containers with water (mixture) **
+**Iron in containers with water (mixture)**
 
 PT48. May 2nd, missions. Blue, please. 
  
@@ -9317,7 +9317,7 @@ chocar?.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Facendo onore al suo nome (shock) **
+**Facendo onore al suo nome (shock)**
 
 PT50. San Carlo di Bariloche, Rio Negro. Blu e verde. 
  
@@ -9354,7 +9354,7 @@ Le tre vetture si muovono in una direzione che forma 45° con la quale venivano 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Honouring his name (shocks) **
+**Honouring his name (shocks)**
 
 PT50. St. Charles of Bariloche, Rio Negro. Blue and Green. 
  
@@ -9810,7 +9810,7 @@ Q
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cosa può fare il freddo (calore) **
+**Cosa può fare il freddo (calore)**
 
 PT53. Città di Buenos Aires. Blu. 
  
@@ -9881,7 +9881,7 @@ Q
 
 <div class="qlang-split" data-lang="en"></div>
 
-**What cold can (heating factor) **
+**What cold can (heating factor)**
 
 PT53. City of Buenos Aires. Blue, please. 
  
@@ -9987,7 +9987,7 @@ Datos: M Juan = 80 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Vacanze in neve (risata) **
+**Vacanze in neve (risata)**
 
 PT54. Città di Buenos Aires. Blu. 
  
@@ -10415,7 +10415,7 @@ Datos: MCoyote = 60 kg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**BIP BIP (coyote e cinta) **
+**BIP BIP (coyote e cinta)**
 
 PT58. Città di Buenos Aires. Blu. 
  
@@ -10573,7 +10573,7 @@ R = 0,082 atm.L / ºK.mol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Viaggio a bollo (aria e elio) **
+**Viaggio a bollo (aria e elio)**
 
 PT59. Città di Buenos Aires. Blu. 
  
@@ -10620,7 +10620,7 @@ R = 0,082 atm.L / oK.mol
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Blood travel (air and helium) **
+**Blood travel (air and helium)**
 
 PT59. City of Buenos Aires. Blue, please. 
  
@@ -10723,7 +10723,7 @@ Datos:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il mulino (a vento) **
+**Il mulino (a vento)**
 
 PT60. Città di Buenos Aires. Blu. 
  
@@ -11386,7 +11386,7 @@ Cresorte = 20 N/cm
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Flat-slung granite block with pulleys **
+**Flat-slung granite block with pulleys**
 
 PT64. Olive trees, from Buenos Aires. Blue, please. 
  
@@ -11464,7 +11464,7 @@ O
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Satellite in orbita elliptica (concepzionale) **
+**Satellite in orbita elliptica (concepzionale)**
 
 PT65. Olivos, Buenos Aires. Blu. 
  
@@ -12394,7 +12394,7 @@ para que el proyectil impacte en el tanque? (usar g= 10m/s2)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Canon contro il carro (alcanza) **
+**Canon contro il carro (alcanza)**
 
 PT68. La Matanza, Buenos Aires. Blu e verde. 
  
@@ -12994,7 +12994,7 @@ considerando el camino rectilíneo:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Riflettore cadente e camionetta (cinematica) **
+**Riflettore cadente e camionetta (cinematica)**
 
 PT75. Caseros, Buenos Aires. Blu. 
  
@@ -13085,7 +13085,7 @@ considerando la via retta:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Falling reflector and pickup truck (cinematic) **
+**Falling reflector and pickup truck (cinematic)**
 
 PT75. The housewives, Buenos Aires. Blue, please. 
  
@@ -13232,7 +13232,7 @@ variaba la presión del flujo de agua al pasar por el puente?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Capitano Freddo (ghiaccio galleggiante e fluidi) **
+**Capitano Freddo (ghiaccio galleggiante e fluidi)**
 
 PT75. Caseros, Buenos Aires. Blu. 
  
@@ -13399,7 +13399,7 @@ que están a 25ºC, si todo el calor pasa directamente al líquido?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sebastian e l'elettricista (circuiti) **
+**Sebastian e l'elettricista (circuiti)**
 
 PT76. Caseros, Buenos Aires. Blu. 
  
@@ -13479,7 +13479,7 @@ che sono a 25°C, se tutto il calore passa direttamente al liquido?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Sebastian and the electrician (circuits) **
+**Sebastian and the electrician (circuits)**
 
 PT76. The housewives, Buenos Aires. Blue, please. 
  
@@ -13918,7 +13918,7 @@ f) La resistenza equivalente di tutto il circuito.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Conditioning a salon (heater and circuit) **
+**Conditioning a salon (heater and circuit)**
 
 PT79. The Eagles, Tucumán. Blue and Green. 
  
@@ -14538,7 +14538,7 @@ en reposo?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pistone di piombo, mercurio e gas (timero) **
+**Pistone di piombo, mercurio e gas (timero)**
 
 PT84. San Michele di Tucumán. Blu. 
  
@@ -14604,7 +14604,7 @@ il pistone può essere spostato verso l'alto in modo che quando lo si libera, co
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Piston of lead, mercury and gas (timer) **
+**Piston of lead, mercury and gas (timer)**
 
 PT84. St. Michael of Tucumán. Blue, please. 
  
@@ -14810,7 +14810,7 @@ m) ¿Cuál de los dos competidores realiza una prueba en menos tiempo? Explica.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Competenza sciistica (energia e cinematica) **
+**Competenza sciistica (energia e cinematica)**
 
 PT86. - Buona erba, Tucumán. Blu. 
  
@@ -14852,7 +14852,7 @@ velocità rispetto a quella precedente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Skys competence (energy and kinematics) **
+**Skys competence (energy and kinematics)**
 
 PT86. It's good grass, Tucumán. Blue, please. 
  
@@ -14939,7 +14939,7 @@ e) Graficar Temperatura – Calor para los puntos b) y c)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ponte Lucas Cordoba (dilatazione e calore solare) **
+**Ponte Lucas Cordoba (dilatazione e calore solare)**
 
 PT87. - Buona erba, Tucumán. Blu. 
  
@@ -15166,7 +15166,7 @@ Datos:   AB = 80 mts
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Salto in sci (energia e proiettile) **
+**Salto in sci (energia e proiettile)**
 
 PT89. San Michele di Tucumán. Verde. 
  
@@ -15201,7 +15201,7 @@ BC = 6 mts
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Ski jump (energy and projectile) **
+**Ski jump (energy and projectile)**
 
 PT89. St. Michael of Tucumán. Green, please. 
  
@@ -15503,7 +15503,7 @@ Provate sperimentali
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Four lamps in a 220 V circuit **
+**Four lamps in a 220 V circuit**
 
 PT91. St. Michael of Tucumán. Green, please. 
  
@@ -15894,7 +15894,7 @@ Commenti che vorrebbe fare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE2: Wood-liquid friction coefficients **
+**PE2: Wood-liquid friction coefficients**
 
 PE2. City of Buenos Aires. Blue, please. 
  
@@ -18327,7 +18327,7 @@ resolución de este examen.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE13: Buona puntatura (proiettile da ramp) **
+**PE13: Buona puntatura (proiettile da ramp)**
 
 PE13. Rio Segundo, Córdoba. Blu. 
  
@@ -19457,7 +19457,7 @@ risultato della richiesta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE17: Specific weight of a lightweight body (telgopore) **
+**PE17: Specific weight of a lightweight body (telgopore)**
 
 PE17. San Salvador de Jujuy. He is a saint. Blue and Green. 
  
@@ -20659,7 +20659,7 @@ E qualsiasi altra informazione che ritenga rilevante.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE22: The density curve of the sugar solution **
+**PE22: The density curve of the sugar solution**
 
 PE22. City of Buenos Aires. Blue, please. 
  
@@ -20879,7 +20879,7 @@ Y cualquier información que considere relevante
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE23: Costante elastica della sorgente (due metodi) **
+**PE23: Costante elastica della sorgente (due metodi)**
 
 PE23. Città di Buenos Aires. Blu. 
  
@@ -23345,7 +23345,7 @@ d) Determine Xt y Tt
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE33: Viscosità di un liquido (Stokes) **
+**PE33: Viscosità di un liquido (Stokes)**
 
 PE33. - Buona erba, Tucumán. Blu. 
  

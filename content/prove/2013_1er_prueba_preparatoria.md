@@ -273,7 +273,7 @@ $$\rho_{\rm ap} = \frac{m}{V}$$
 
 Sono disponibili: acrilico (cassetta CD), nastri adesivi di carta, marcatore indelebile, regola, trasportatore, fogli bianchi, penna, trincea o coltello, piccolo funile di plastica o carta, sale sottile, sale interfina (saltina), sale grossa, zucchero e bilancia (opzionale).
 
-**Consigno 1: ** Armarsi il dispositivo di misurazione (cellula Hele-Shaw).
+**Consigno 1:** Armarsi il dispositivo di misurazione (cellula Hele-Shaw).
 
 Procedura:
 1. Sbarazzarmi della cassetta di CD, restando solo le facce trasparenti.
@@ -299,7 +299,7 @@ Procedura:
 12. Calcola la densità apparente:
 $$\rho_{\rm ap} = \frac{m}{V}$$
 
-**Consegna 5: ** Confezionare un grafico angolo di riposo $\theta$ (ordinato) versus densità apparente $\rho_{\rm ap}$ (abscisa).
+**Consegna 5:** Confezionare un grafico angolo di riposo $\theta$ (ordinato) versus densità apparente $\rho_{\rm ap}$ (abscisa).
 
 **Topic:** [[Elasticity & Materials]], [[Rigid Body Statics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -332,14 +332,14 @@ The procedure:
 
 **Consigne 3:** Determine the rest angle of the interfine salt (grill), coarse salt and sugar.
 
-**Consigna 4: ** Determine the apparent density $\rho_{\rm ap}$ of each of the granulated materials.
+**Consigna 4:** Determine the apparent density $\rho_{\rm ap}$ of each of the granulated materials.
 
 10. Fill a container of known volume $V$ with salt.
 11. Determine the $m$ salt mass used to fill the container.
 12. Calculate the apparent density:
 $$\rho_{\rm ap} = \frac{m}{V}$$
 
-**Consequence 5: ** Constructing a graph  angle of repose $\theta$ (ordered) versus apparent density $\rho_{\rm ap}$ (abscise).
+**Consequence 5:** Constructing a graph  angle of repose $\theta$ (ordered) versus apparent density $\rho_{\rm ap}$ (abscise).
 
 **Topic:** [[Elasticity & Materials]], [[Rigid Body Statics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]

@@ -644,9 +644,9 @@ Put a cube of ice of the same mass and notice that the ice melts faster in the
 metal plate. The initial temperatures of the metal plates are $T_m$ and $T_p$ respectively
 And plastic, we can say that:
 - **A** $T_m = T_p$ and metal is a better heat conductor than plastic.
-- MSK1/>B ** $T_m = T_p$ and plastic is better conductor of heat than metal.
+- MSK1/>B  $T_m = T_p$ and plastic is better conductor of heat than metal.
 - **C** $T_m < T_p$ and metal is better conductor of heat than plastic.
-- MSK1/>D ** $T_m < T_p$ and plastic is better conductor of heat than metal.
+- MSK1/>D  $T_m < T_p$ and plastic is better conductor of heat than metal.
 - **E** $T_m > T_p$ and metal is better conductor of heat than plastic.
 
 **Topic:** [[Thermodynamics]]
@@ -795,7 +795,7 @@ the gear C.
 - **A** only B and D.
 - **B** only A and E.
 - **C.** only A, E and G.
-- ** D ** only B, D and F.
+- **D** only B, D and F.
 - **E.** only A, E, F and G.
 
 **Topic:** [[Rotational Dynamics]]
@@ -1000,7 +1000,7 @@ sono rispettivamente:
 - **B.** gramma (g) e joule (J)
 - **C.** kg e calorie (cal)
 - **D.** kg e joule (J)
-- ** kg e kg di peso (kJ)
+-  kg e kg di peso (kJ)
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -1020,8 +1020,8 @@ are respectively:
 - **A** gram (g) and calorie (cal)
 - **B** gram (g) and joule (J)
 - **C.** kg and calories (cal)
-- ** D** kg and joule (J)
-- ** kg and kilojoule (kJ)
+- **D** kg and joule (J)
+-  kg and kilojoule (kJ)
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]

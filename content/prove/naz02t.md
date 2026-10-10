@@ -46,7 +46,7 @@ Un pendolo è costituito da una sfera di massa $m$ collegata a un'estremità di 
 
 A force sensor connected to an automatic data acquisition system allows for recording force values that vary rapidly over time.
 
-A pendulum consists of a sphere of mass $m$ connected to one end of a length of wire $\ell$ which is fixed, at its other end, to a support. The pendulum is deflected from the vertical of an angle $\alpha$ and then left to oscillate freely, while a force sensor measures the ** vertical component ** of the wire voltage; the measured values of this component are shown in the following graph.
+A pendulum consists of a sphere of mass $m$ connected to one end of a length of wire $\ell$ which is fixed, at its other end, to a support. The pendulum is deflected from the vertical of an angle $\alpha$ and then left to oscillate freely, while a force sensor measures the **vertical component** of the wire voltage; the measured values of this component are shown in the following graph.
 
 <!--fig:start-->
 ![[_attachments/naz02t/naz02t_p1_f1.png]]

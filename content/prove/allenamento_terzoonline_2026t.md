@@ -35,7 +35,7 @@ The following is the list of the main components of the engine:
 
 A water heater can be approximated as a water tank with an electrical resistance that heats its contents. Knowing that a water heater from $60\ \mathrm{L}$ and $1\ \mathrm{kW}$ is initially filled with water at $20\ ^\circ\mathrm{C}$, how long will it take at least to heat all the water at $60\ ^\circ\mathrm{C}$?
 
-The unit of measurement: ** hours. The following information is provided:
+The unit of measurement:  hours. The following information is provided:
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
@@ -116,7 +116,7 @@ A metal guide consists of two segments arranged in V forming an angle of $2\alph
 **Unità di misura:** $^\circ$. **Precisione richiesta:** 0.5%.
 
 <!--fig:start-->
-**p.3 **  V-guide with particle and gravity
+**p.3**  V-guide with particle and gravity
 
 
 <figure class="tikz-fig">
@@ -185,7 +185,7 @@ Un pianeta sferico di raggio $R$ con densità omogenea si trova molto distante d
 
 A spherical planet with a radius of $R$ with homogeneous density is located very far away from any other celestial body. Given two points at a height $0 < h < R$ above and below the planet's surface, how much must $\dfrac{R}{h}$ be worth for gravitational accelerations at the two points to be uniform in form?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Gravitation]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -296,7 +296,7 @@ The following is the list of the types of samples taken:
 
 Three springs of elastic constant $k_1 = 100\ \mathrm{N/m}$, $k_2 = 200\ \mathrm{N/m}$, and $k_3 = 300\ \mathrm{N/m}$ have their two-to-two ends in common so as to form a triangle. Each vertex of this triangle shall be subjected to a force of the form $F = 100\ \mathrm{N}$. These forces are such that they form $120°$ angles between their respective directions and result in a total of zero. The length of the side, and therefore of the spring, is determined, which is shorter than the triangle that is formed in a state of static equilibrium. The resting length of all springs is considerable nothing.
 
-The unit of measurement: ** cm. The following information is provided:
+The unit of measurement:  cm. The following information is provided:
 
 **Topic:** [[Elasticity & Materials]], [[Rigid Body Statics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
@@ -417,7 +417,7 @@ Gigi grabs the free end of the rope and makes it rotate at a constant angular sp
 *It may be useful to remember the following pitagoric terns:*
 $$3^2 + 4^2 = 5^2 \qquad 5^2 + 12^2 = 13^2$$
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
@@ -487,7 +487,7 @@ The following is the list of the main components of the engine:
 
 Luca has a constant voltage generator of $12\ \mathrm{V}$ ratings and internal resistance of $20\ \Omega$. It can also choose from a very large number of resistors of several different values. Its objective is to serial-link one of these resistors to the generator and close the resulting simple circuit, so as to maximize the power dissipated in the chosen resistor. The maximum value that can be obtained for that power is found.
 
-The measuring unit: ** W. The following information is provided:
+The measuring unit:  W. The following information is provided:
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -556,7 +556,7 @@ The particle accelerator shall consist of a path with straight lines alternating
 11. The curve to the right of $90^\circ$, with radius of curvature $120\ \mathrm{m}$.
 12. The curve to the right of $90^\circ$, with radius of curvature $200\ \mathrm{m}$.
 
-The unit of measurement: ** \$. The following information is provided:
+The unit of measurement:  \$. The following information is provided:
 
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]

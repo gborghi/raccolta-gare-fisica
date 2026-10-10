@@ -94,7 +94,7 @@ Para tentar entender a natureza de forma mais exata, a Física precisa de medida
 
 **Construendo un termometro**
 
-**Materiale sperimentale disponibile: **
+**Materiale sperimentale disponibile:**
 
 Con la seguente lista e la foto, controlla il materiale che hai ricevuto:
 
@@ -120,7 +120,7 @@ Per cercare di capire la natura in modo più preciso, la fisica ha bisogno di mi
 
 La striscia metallica è quindi fissata alla base con il porco motone come mostrato nella figura seguente.
 
-**4.**Fissa la presa sul bastone e poi la usi per attaccare il termoscopo. In questo procedimento, utilizzare il fascio per fissare il termoscopo in modo adeguato; basta un nodo. Infine, inserisci il termoscopo nel bicchiere come mostrato di seguito.
+**4.** Fissa la presa sul bastone e poi la usi per attaccare il termoscopo. In questo procedimento, utilizzare il fascio per fissare il termoscopo in modo adeguato; basta un nodo. Infine, inserisci il termoscopo nel bicchiere come mostrato di seguito.
 
 Messa il ghiaccio nel bicchiere e aggiungi un po' d'acqua. Quando il ghiaccio inizia a fondere, segna con la penna idrografica sulla termoscopia l'altezza del liquido secondo la figura. Poi getta il sale (alla metà della quantità fornita) dentro il bicchiere, osserva il termoscopo e fai il quarto e ultimo tratto, quando hai il calore di equilibrio.
 

@@ -239,7 +239,7 @@ e zero se il percorso può essere contratto a un singolo punto senza attraversar
 
 Si consideri un bicchiere cilindrico (radio $R_0 \gg a$) di elio superfluido e un filamento verticale verticale retto nel suo centro Fig. 2.
 
-**A.1 ** *(0.25pt) * Tracciare le linee correnti. Scopri la velocità $v$ in un punto $\vec{r}$.
+**A.1** *(0.25pt) * Tracciare le linee correnti. Scopri la velocità $v$ in un punto $\vec{r}$.
 
 **A.2** *(0,5pt) * Calcolare la forma della superficie libera (altezza in funzione delle coordinate $z(\vec{r})$) attorno al vortice. Accelerazione di caduta libera è $g$. La tensione superficiale può essere trascurata.
 
@@ -267,13 +267,13 @@ Un calice di elio (vedere parte A) è riempito di reticola triangolare ($u \ll R
 ![[APhO_2017_theory_Q1_p3_f5.png]]
 *Fig. 5: Rete triangolare di vortici in una tazza. La vista dall'alto.*
 
-**B.2 ** *(0.15pt) * Disegna le traiettorie dei vortici A, B e C (situati al centro).
+**B.2** *(0.15pt) * Disegna le traiettorie dei vortici A, B e C (situati al centro).
 
-**B.3 ** *(0,4pt) * Trova la velocità $v(\vec{r})$ di un vortice posizionato a $\vec{r}$.
+**B.3** *(0,4pt) * Trova la velocità $v(\vec{r})$ di un vortice posizionato a $\vec{r}$.
 
 **B.4** *(0.35pt) * Trova la distanza $AB(t)$ tra i vortici A e B al tempo $t$. Trattare $AB(0)$ come indicato.
 
-**B.5 ** *(0.25pt) * Lavorare la forma della superficie di elio libero "allentata" (omissione della struttura della griglia) $z(\vec{r})$.
+**B.5** *(0.25pt) * Lavorare la forma della superficie di elio libero "allentata" (omissione della struttura della griglia) $z(\vec{r})$.
 
 #### Parte C. Impulso e energia (1,75 punti)
 
@@ -309,11 +309,11 @@ $$
 ![[APhO_2017_theory_Q1_p5_f7.png]]
 *Fig. 7: Un ciclo di vortice quasi rettangolare, $b \ll d$.*
 
-**C.1 ** *(0.3pt) * Considera un ciclo di vortice quasi rettangolare $b \times d$, $b \ll d$, Figura. 7. Indicare la direzione della sua dinamica $\vec{P}$. Scopri la grandezza dell'impulso.
+**C.1** *(0.3pt) * Considera un ciclo di vortice quasi rettangolare $b \times d$, $b \ll d$, Figura. 7. Indicare la direzione della sua dinamica $\vec{P}$. Scopri la grandezza dell'impulso.
 
-**C.2 ** *(0,7pt) * Calcolare la sua energia $U$.
+**C.2** *(0,7pt) * Calcolare la sua energia $U$.
 
-**C.3 ** *(0.75pt) * Supponiamo di spostare un lungo filamento di vortice retto di una distanza $b$ nella direzione $x$, vedi Figura. 8. Quanto cambia il momento del fluido? Indicare la direzione di cambiamento di impulso. La lunghezza del filamento (constretta dalle pareti del recipiente) è $d$.
+**C.3** *(0.75pt) * Supponiamo di spostare un lungo filamento di vortice retto di una distanza $b$ nella direzione $x$, vedi Figura. 8. Quanto cambia il momento del fluido? Indicare la direzione di cambiamento di impulso. La lunghezza del filamento (constretta dalle pareti del recipiente) è $d$.
 
 ![[APhO_2017_theory_Q1_p6_f8.png]]
 *Fig. 8: Il momento cambia ogni volta che il vortice si sposta rispetto al fluido.*
@@ -325,7 +325,7 @@ Gli elettroni, se iniettati in elio, rimangono intrappolati nei filamenti del vo
 ![[APhO_2017_theory_Q1_p6_f9.png]]
 *Fig. 9: Vortice diretto in un campo elettrico uniforme.*
 
-**D.1 ** *(0,5pt) * Considera un vortice retto caricato con densità lineare uniforme $\lambda < 0$ in un campo elettrico uniforme $\vec{E}$. Disegna la traiettoria del vortice. Trova la sua velocità come funzione del tempo.
+**D.1** *(0,5pt) * Considera un vortice retto caricato con densità lineare uniforme $\lambda < 0$ in un campo elettrico uniforme $\vec{E}$. Disegna la traiettoria del vortice. Trova la sua velocità come funzione del tempo.
 
 Un ciclo di vortice circolare di raggio $R_0$ inizialmente carico di densità lineare uniforme $\lambda < 0$ è collocato in un campo elettrico uniforme $\vec{E}$ perpendicolare al suo piano, opposto al suo impulso $\vec{P}_0$.
 
@@ -334,7 +334,7 @@ Figura 10: (a sinistra) Anello di vortice in un campo elettrico uniforme. (a des
 
 **D.2** *(0.6pt) * Tracciare la traiettoria del centro del ciclo $C$. Trova il raggio del ciclo come funzione del tempo.
 
-**D.3 ** *(1.5pt) * Trova la sua velocità $v(t)$ come funzione del tempo.
+**D.3** *(1.5pt) * Trova la sua velocità $v(t)$ come funzione del tempo.
 
 **D.4** *(0.25pt)* Il campo viene spento al momento $t^*$ quando la velocità raggiunge il valore $v^* = v(t^*)$. Trova la velocità del ciclo $v(t)$ in un momento successivo $t > t^*$.
 
@@ -376,18 +376,18 @@ Le pareti solide alterano il campo di velocità creato da un filamento vortice, 
 
 *Fig. 11: Filamento di vortice diretto vicino a una parete piatta.*
 
-**E.1 ** *(0.5pt) * Disegnare la traiettoria di un vortice retto, inizialmente posizionato a una distanza $h_0$ da una parete piatta. Trova la sua velocità come funzione del tempo.
+**E.1** *(0.5pt) * Disegnare la traiettoria di un vortice retto, inizialmente posizionato a una distanza $h_0$ da una parete piatta. Trova la sua velocità come funzione del tempo.
 
 Considerate un vortice retto posizionato in un angolo a una distanza $h_0$ da entrambe le pareti.
 
 ![[APhO_2017_theory_Q1_p7_f12.png]]
 *Fig. 12: Filamento di vortice diretto in un angolo.*
 
-**E.2 ** *(0.75pt) * Qual è la velocità iniziale $v_0$ del vortice?
+**E.2** *(0.75pt) * Qual è la velocità iniziale $v_0$ del vortice?
 
-**E.3 ** *(0.5pt) * Disegna la traiettoria del vortice.
+**E.3** *(0.5pt) * Disegna la traiettoria del vortice.
 
-**E.4 ** *(1.5pt) * Qual è la velocità del vortice $v_\infty$ dopo molto tempo?
+**E.4** *(1.5pt) * Qual è la velocità del vortice $v_\infty$ dopo molto tempo?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tmuttisbMtgfiTqtSBvUgyX4U8daHNt1/view)
 
@@ -826,7 +826,7 @@ Considerare una rotazione iniziale arbitraria della fase con impulso angolare $L
 
 Le domande di cui alla sezione A riportate in appresso presentano la rotazione libera della fase con il momento angolare iniziale $L$ e $\theta(0) = \theta_0$.
 
-**A.3 ** *(1.2pt) * Indichiamo con $x_0$ l'orientamento iniziale dell'asse di simmetria della fase $Cx$ rispetto al quadro di riferimento inerziale. Usando le leggi di conservazione, si trova l'angolo massimo $\psi$, che l'asse di simmetria $Cx$ dello stadio fa con $x_0$ durante la rotazione libera dello stadio.
+**A.3** *(1.2pt) * Indichiamo con $x_0$ l'orientamento iniziale dell'asse di simmetria della fase $Cx$ rispetto al quadro di riferimento inerziale. Usando le leggi di conservazione, si trova l'angolo massimo $\psi$, che l'asse di simmetria $Cx$ dello stadio fa con $x_0$ durante la rotazione libera dello stadio.
 
 *Nota: poiché non ci sono coppie esterne che agiscono sul palco, il vettore di momentum angolare rimane costante.*
 
@@ -887,7 +887,7 @@ Il razzo "Kerbodyne 42" di livello superiore è in gran parte fatto di legno, e 
 
 **C.5** *(1.0pt) * Trova il valore assoluto della velocità angolare $\omega(t)$ come funzione del tempo, dato che il cambiamento nella velocità angolare della fase in un periodo orbitale è trascurabilmente piccolo.
 
-**C.6 ** *(1.0pt) * Trova il rapporto tra il periodo orbitale $T$ e il periodo di rotazione della fase del razzo $T_s$ nel regime di stato fisso, che si stabilisce dopo un lungo tempo.
+**C.6** *(1.0pt) * Trova il rapporto tra il periodo orbitale $T$ e il periodo di rotazione della fase del razzo $T_s$ nel regime di stato fisso, che si stabilisce dopo un lungo tempo.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1KSAn-eQFZTv8AVEUfPmRHxUGvk5jbl1l/view)
 

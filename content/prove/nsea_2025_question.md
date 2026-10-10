@@ -1915,7 +1915,7 @@ Inside a cylindrical well, at the bottom and touching the wall, a red ball is th
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A-2 (una o più correzioni) **
+**Parte A-2 (una o più correzioni)**
 
 All'interno di un pozzo cilindrico, in fondo e toccando la parete, una palla rossa viene lanciata in un angolo 45° all'orizzontale verso l'estremità diametricamente opposta della parete, e colpisce la parete dopo un intervallo di tempo di $\dfrac{\sqrt{2}\,v}{g}$, dove $v$ è la magnitudine della velocità della palla rossa e $g$ è l'accelerazione dovuta alla gravità. Una sfera nera identica di forma e massa alla sfera rossa viene lanciata verticalmente verso l'alto dal fondo del pozzo con un'energia cinetica metà di quella della sfera rossa. Una palla verde di metà massa della palla rossa viene lanciata dal fondo del pozzo ma diametralmente opposta alla palla rossa con un'energia cinetica della metà di quella della palla rossa. Tutte le palle, se e quando colpiscono il muro, subiscono una collisione completamente elastica.
 

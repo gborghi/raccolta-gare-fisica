@@ -370,7 +370,7 @@ IV  The binary momentum can be calculated by the product of the modules of the t
 the distance between their application points.
 Is it correct to say:
 - **A** II only.
-- ** B ** I only.
+- **B** I only.
 - **C** I and III only.
 - **D.** II e III apenas.
 - **E.** II e IV apenas.
@@ -431,7 +431,7 @@ The suggestions given are correct:
 - **A.** todas elas.
 - **B.** only I, and II
 - **C** only the III.
-- ** D** only II and III.
+- **D** only II and III.
 - **E** only the II.
 12) A balloon is designed to be filled with helium gas to carry a person. A
 mass of the balloon material, accommodation structure, individual and equipment to be carried,

@@ -162,7 +162,7 @@ $$\rho_w = 1.00\cdot 10^{3}\ \mathrm{kg/m^3}.$$
 Densità dell'alluminio:
 $$\rho_{Al} = 2.70\cdot 10^{3}\ \mathrm{kg/m^3}.$$
 
-**Avvertimento: ** Fai molta attenzione con l' acqua calda. Ricorda che l'acqua a temperatura $T > 50\,^\circ\mathrm{C}$ può causare ustioni. **Non utilizzare azoto liquido in questa parte! **
+**Avvertimento:** Fai molta attenzione con l' acqua calda. Ricorda che l'acqua a temperatura $T > 50\,^\circ\mathrm{C}$ può causare ustioni. **Non utilizzare azoto liquido in questa parte!**
 
 ##### Il compito
 
@@ -176,7 +176,7 @@ Nella parte 1b) e 1c) si effettuano misure per determinare $K$. Le parti 1b) e 1
 
 **1d) [4 punti]** Utilizzare grafici per determinare il rapporto tra le capacità termiche $K = C_1/C_2$ e l'incertezza $\Delta K$. Scrivere i valori di $K$ e $\Delta K$ sulla scheda delle risposte.
 
-**1e) [2 punti] ** Determinare il valore numerico di $c_{Al}$ e stimare l'incertezza della misura $\Delta c_{Al}$. Scrivere i valori di $c_{Al}$ e $\Delta c_{Al}$ sulla scheda delle risposte.
+**1e) [2 punti]** Determinare il valore numerico di $c_{Al}$ e stimare l'incertezza della misura $\Delta c_{Al}$. Scrivere i valori di $c_{Al}$ e $\Delta c_{Al}$ sulla scheda delle risposte.
 
 ### Parte 2  Misura del calore latente specifico dell'evaporazione dell'azoto liquido. (10 punti)
 
@@ -203,7 +203,7 @@ Quando si considera una vasta gamma di temperature, si può osservare che il cal
 
 *Fig. 1. Relazione tra il calore specifico dell'alluminio in unità arbitrarie e la temperatura.*
 
-**Avvertimenti: **
+**Avvertimenti:**
 
 1. L'azoto liquido ha una temperatura $T_N = -196\,^\circ\mathrm{C}$. Per evitare il congelamento non toccare l'azoto o gli oggetti che sono stati a contatto con l'azoto. Assicurati di tenere lontani i tuoi oggetti di metallo personali come gioielli, orologi per polso, ecc.
 2. Non inserire elementi irrilevanti nell'azoto;
@@ -221,12 +221,12 @@ Nella relazione, indicare una tabella di $M(t)$ e $m_N(t)$, dove $m_N(t)$ è la 
 
 **2b) [1 punto]** Usando i risultati delle misurazioni di $M(t)$ in 2a), tracciare il grafico della massa di azoto evaporatore $m_N$ rispetto al tempo $t$. Il grafico deve illustrare tutte e tre le fasi del processo  i periodi di calma prima e dopo l'immersione dell'alluminio e il violento bollire dell'azoto.
 
-**2c) [3.0 punti] ** Determina dal grafico la massa $m_N^{Al}$ di azoto evaporata solo a causa dello scambio di calore con il cilindro in alluminio, poiché viene raffreddato dalla temperatura ambiente alla temperatura di azoto liquido. Per questo è necessario tenere conto dello scambio di calore con l'ambiente attraverso la tazza prima, durante e dopo il raffreddamento dell'alluminio. Scrivere il valore di $m_N^{Al}$ e la sua incertezza $\Delta m_N^{Al}$ sulla scheda delle risposte.
+**2c) [3.0 punti]** Determina dal grafico la massa $m_N^{Al}$ di azoto evaporata solo a causa dello scambio di calore con il cilindro in alluminio, poiché viene raffreddato dalla temperatura ambiente alla temperatura di azoto liquido. Per questo è necessario tenere conto dello scambio di calore con l'ambiente attraverso la tazza prima, durante e dopo il raffreddamento dell'alluminio. Scrivere il valore di $m_N^{Al}$ e la sua incertezza $\Delta m_N^{Al}$ sulla scheda delle risposte.
 
 **2d) [0,5 punti]** Utilizzando il risultato della misurazione del calore specifico dell'alluminio nella gamma di temperatura di $45\,^\circ\mathrm{C} - 65\,^\circ\mathrm{C}$ (parte 1), normalizzare il grafico della relazione tra calore specifico dell'alluminio e temperatura da unità arbitrarie a unità assolute. Nella scheda delle risposte è indicato il valore del coefficiente $\beta$ di conversione da unità arbitrarie a unità assolute:
 $$c_{Al}\ (\mathrm{J/(kg\cdot K)}) = \beta\cdot c_{Al}\ (\mathrm{arb.\ units}).$$
 
-**2e) [2,5 punti] ** Usando i risultati della misurazione della massa di azoto evaporato a causa del raffreddamento del cilindro di alluminio e il grafico normalizzato del rapporto tra calore specifico e temperatura, si determina il calore latente specifico di evaporazione $\lambda$ dell'azoto. Scrivere il valore di $\lambda$ e la sua incertezza $\Delta\lambda$ sulla scheda delle risposte.
+**2e) [2,5 punti]** Usando i risultati della misurazione della massa di azoto evaporato a causa del raffreddamento del cilindro di alluminio e il grafico normalizzato del rapporto tra calore specifico e temperatura, si determina il calore latente specifico di evaporazione $\lambda$ dell'azoto. Scrivere il valore di $\lambda$ e la sua incertezza $\Delta\lambda$ sulla scheda delle risposte.
 
 Buona fortuna e bella figura!
 

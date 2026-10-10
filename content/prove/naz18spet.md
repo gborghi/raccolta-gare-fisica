@@ -147,7 +147,7 @@ Dalle dimensioni delle tracce circolari si può risalire alla durata del contatt
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Duration of impact  Size of footprint ** (50 points)
+**Duration of impact  Size of footprint** (50 points)
 
 Even if the ball's impact appears instantaneous, its duration is nothing but very short. This very short duration is linked to the intense forces that come into play during the impact, slowing the movement at first and then causing the ball to bounce.
 
@@ -163,7 +163,7 @@ This $d$ deformation indicates how far downward the $O$ point has moved which un
 
 From the size of the circular tracks, the duration of contact can be traced, assuming that the force on the ball is constant in the compression phase, and then still constant in the subsequent return to the spherical shape, with a discontinuity from one phase to the next. The assumption, although coarse, allows us to estimate the duration of the impact.
 
-**2.1 **  Drop the ball so that its center falls by about $25\text{ cm}$. Please note the value of the quota chosen.
+**2.1**  Drop the ball so that its center falls by about $25\text{ cm}$. Please note the value of the quota chosen.
 
 **2.2**  Examine the footprint left on the tablet and/or the ball and, if the footprint is circular, measure the diameter $2a$ and calculate the deformation $d$. It records all the data in the table.
 

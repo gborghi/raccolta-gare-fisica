@@ -73,7 +73,7 @@ d) Haz una estimación de las incertidumbres de $\beta$ y $R_0$.
 
 Como bien sabes, un *termómetro* es un dispositivo que permite medir la temperatura. I termometri classici si basano sul fenomeno di dilatazione termica di un liquido (mercurio o alcol) che, aumentando la temperatura, sale per una colonna adeguatamente graduata, cioè calibrata.
 
-I termistori ** sono dispositivi la cui resistenza elettrica, $R$, varia con la temperatura, $T$. Se si conosce la dipendenza $R(T)$ e si misura $R$ si può dedurre $T$, in modo che possano essere utilizzati come termometri.
+I termistori  sono dispositivi la cui resistenza elettrica, $R$, varia con la temperatura, $T$. Se si conosce la dipendenza $R(T)$ e si misura $R$ si può dedurre $T$, in modo che possano essere utilizzati come termometri.
 
 Nei termistori chiamati NTC (Negative Temperature Coefficient), la resistenza elettrica diminuisce con l'aumento della temperatura. Questi termistori sono molto utilizzati in ampie temperature, da $-200\,°C$ a $+1500\,°C$, in quanto offrono una grande sensibilità e un continuo cambiamento nella resistenza elettrica.
 

@@ -156,7 +156,7 @@ Vuelva a sujetar el tubo en U al listón de madera. Introduzca $60\text{ cm}^3$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-La prova sperimentale. Oscillazioni amortizzate di un pendolo d'acqua.**
+La prova sperimentale. Oscillazioni amortizzate di un pendolo d'acqua.
 
 **Obiettivi**
 
@@ -226,38 +226,38 @@ Nella prima parte di questo test sperimentale verranno effettuate una serie di m
 
 **1° parte. Determinazione di $R_{ef}$ e $R$.**
 
-**1.a) ** Aggiungi acqua all'interno del tubo con la siringa graduata in modo che il volume d'acqua sia successivamente $V = 30, 40, 50 \ldots 100\text{ cm}^3$. In ciascun caso:
+**1.a)** Aggiungi acqua all'interno del tubo con la siringa graduata in modo che il volume d'acqua sia successivamente $V = 30, 40, 50 \ldots 100\text{ cm}^3$. In ciascun caso:
 
 - Misura con il cronometro il periodo di oscillazione dell'acqua intorno al suo livello di equilibrio. Suggerimento: misurare quattro volte il tempo di quattro oscillazioni complete ($4T_1$, $4T_2$, $4T_3$ e $4T_4$) e dedurre il periodo medio $\bar{T}$. Presenta le sue misure e risultati in un tabella 1 come in figura 5.
 - Per ogni $V$, segna con una penna su entrambi i lati del tubo la posizione del livello d'acqua in equilibrio. La distanza tra questi due marchi, che sarà più tardi misurata quando il tubo viene svuotato e esteso, permetterà di determinare il suo raggio $R$. Fate attenzione a non cancellare questi segni.
 
-**1.b) ** Rappresenta graficamente su un foglio di millimetro i punti sperimentali $T^2$ (ordinati) rispetto a $V$ (abcissi).
+**1.b)** Rappresenta graficamente su un foglio di millimetro i punti sperimentali $T^2$ (ordinati) rispetto a $V$ (abcissi).
 
-**1.c) ** Ottieni la pendice della retta che meglio si adatta a questi punti.
+**1.c)** Ottieni la pendice della retta che meglio si adatta a questi punti.
 
-**1.d) ** Detraggere il valore del raggio effettivo del tubo, $R_{ef}$.
+**1.d)** Detraggere il valore del raggio effettivo del tubo, $R_{ef}$.
 
-**1.e) ** Fa' un'estimazione dell'incertezza (margine di errore) del raggio effettivo, $\Delta R_{ef}$.
+**1.e)** Fa' un'estimazione dell'incertezza (margine di errore) del raggio effettivo, $\Delta R_{ef}$.
 
-**1.f) ** Sdistruggere con cura un lato del tubo e svuotare l'acqua in un bicchiere. Sd. il tubo completamente smontato e steso sul tavolo, misurare la distanza $L$ tra i segni simetrici che ha fatto per ogni $V$ e dedurre in ogni caso il raggio $R$ del tubo. Nota i valori di $L$ e $R$ nelle colonne corrispondenti di tabella 1.
+**1.f)** Sdistruggere con cura un lato del tubo e svuotare l'acqua in un bicchiere. Sd. il tubo completamente smontato e steso sul tavolo, misurare la distanza $L$ tra i segni simetrici che ha fatto per ogni $V$ e dedurre in ogni caso il raggio $R$ del tubo. Nota i valori di $L$ e $R$ nelle colonne corrispondenti di tabella 1.
 
-**1.g) ** Calcola il valore medio di $R$ e fa un'estimazione della sua incertezza.
+**1.g)** Calcola il valore medio di $R$ e fa un'estimazione della sua incertezza.
 
 *(Tabella 1  Figura 5: colonne $V\text{ (cm}^3)$, $4T_1\text{ (s)}$, $4T_2\text{ (s)}$, $4T_3\text{ (s)}$, $4T_4\text{ (s)}$, $\bar{T}\text{ (s)}$, $T^2\text{ (s}^2)$, $L\text{ (cm)}$, $R\text{ (mm)}$; righe $V = 30, 40, 50, 60, 70, 80, 90, 100$.)*
 
 ---
 
-** parte 2. Determinazione di $\gamma$.**
+**parte 2. Determinazione di $\gamma$.**
 
 Riattacca il tubo in U al bastone di legno. Inserire $60\text{ cm}^3$ di acqua e segnalare sul biglietto il livello di acqua in equilibrio. Fai un altro marchio circa 20 cm sopra. Questa sarà la posizione iniziale del livello dell'acqua, $A_0$, in tutte le misure successive. Prima di misurare, si deve praticare la riduzione del livello dell'acqua con questo marchio, soffiando dall'altro lato fino a raggiungere un livello un po' più alto, coprendo il tubo con il dito e lasciando entrare un po' di aria fino a quando il livello raggiunge il marchio.
 
-**2.a) ** Misura le amplitudini $A_1$, $A_2$ e $A_3$ dopo una, due e tre oscillazioni complete, rispettivamente, cioè in $t_1 = T$, $t_2 = 2T$ e $t_3 = 3T$ (il periodo $T$ per questo volume d'acqua è stato già misurato in precedenza). Ripetere l'osservazione dell'oscillazione amortizzata tutte le volte necessarie per determinare queste ampiezze con sufficiente precisione mediante approssimazioni e segni successivi. La sua misurazione è riportata in tabella 2 (figura 6).
+**2.a)** Misura le amplitudini $A_1$, $A_2$ e $A_3$ dopo una, due e tre oscillazioni complete, rispettivamente, cioè in $t_1 = T$, $t_2 = 2T$ e $t_3 = 3T$ (il periodo $T$ per questo volume d'acqua è stato già misurato in precedenza). Ripetere l'osservazione dell'oscillazione amortizzata tutte le volte necessarie per determinare queste ampiezze con sufficiente precisione mediante approssimazioni e segni successivi. La sua misurazione è riportata in tabella 2 (figura 6).
 
-**2.b) ** Trasforma l'espressione (4) per ottenere un rapporto lineare tra $\ln(A_n/A_0)$ e $n$. Rappresenta graficamente su carta millimetrica i punti di prova $(n,\, \ln(A_n/A_0))$ per $n = 0, 1, 2, 3$.
+**2.b)** Trasforma l'espressione (4) per ottenere un rapporto lineare tra $\ln(A_n/A_0)$ e $n$. Rappresenta graficamente su carta millimetrica i punti di prova $(n,\, \ln(A_n/A_0))$ per $n = 0, 1, 2, 3$.
 
-**2.c) ** Ottieni l'inclinazione della retta che meglio si adatta a questi punti e deduci il valore del coefficiente di ammortizzazione $\gamma$.
+**2.c)** Ottieni l'inclinazione della retta che meglio si adatta a questi punti e deduci il valore del coefficiente di ammortizzazione $\gamma$.
 
-**2.d) ** Fa' un'estimazione dell'incertezza $\Delta\gamma$.
+**2.d)** Fa' un'estimazione dell'incertezza $\Delta\gamma$.
 
 <!--fig:start-->
 ![[_attachments/P-EXPERIMENTAL-OEF-2009/P-EXPERIMENTAL-OEF-2009_p1_f1.png]]
@@ -311,7 +311,7 @@ The experimental study will examine the oscillations of the water column contain
 - A bottle of water.
 - Plastic glass.
 
-** Assembly and experimental procedure**
+**Assembly and experimental procedure**
 
 - The wooden plank is placed vertically, leaning on the floor and on the side of the table. The wooden sticks are placed between the bar and the table leg and held with the sergeants, as shown in Figure 1.
 - The tube is attached to the rack by means of the tweezers, as shown in Figure 2. If necessary, adhesive tape can be used to finish the tube and give the desired shape in U.
@@ -362,22 +362,22 @@ In the first part of this experimental test a series of measurements will be car
 
 **1ª parte. Determination of $R_{ef}$ and $R$.**
 
-**1.a) ** By the graduated syringe, add water inside the tube so that the water volume is successively $V = 30, 40, 50 \ldots 100\text{ cm}^3$. In each of these cases:
+**1.a)** By the graduated syringe, add water inside the tube so that the water volume is successively $V = 30, 40, 50 \ldots 100\text{ cm}^3$. In each of these cases:
 
 - Measure with the chronometer the period of water oscillation around its equilibrium level. Suggestion: measure four times the time of four complete oscillations ($4T_1$, $4T_2$, $4T_3$ and $4T_4$) and deduce the mean period $\bar{T}$. It presents its measurements and results in a table 1 as shown in Figure 5.
 - For each $V$, mark with a pen on both sides of the tube the position of the water level in equilibrium. The distance between these two marks, which will be measured later when the tube is emptied and stretched, will allow its radius $R$ to be determined. Be careful not to erase these marks.
 
-**1.b) ** Graphically represent on a millimeter paper the experimental points $T^2$ (in order) versus $V$ (in abscesses).
+**1.b)** Graphically represent on a millimeter paper the experimental points $T^2$ (in order) versus $V$ (in abscesses).
 
-**1.c) ** Get the slope of the straight line that best fits these points.
+**1.c)** Get the slope of the straight line that best fits these points.
 
-**1.d) ** Subtract the value of the effective radius of the tube, $R_{ef}$.
+**1.d)** Subtract the value of the effective radius of the tube, $R_{ef}$.
 
 **1.e)** Haga una estimación de la incertidumbre (margen de error) del radio efectivo, $\Delta R_{ef}$.
 
 **1.f)** Desmonte con cuidado un lado del tubo y vacíe el agua en un vaso. Completely disassemble the tube and stretch it over the table, measure the distance $L$ between the symmetric marks you have made for each $V$ and deduct in each case the radius $R$ of the tube. Note the values of $L$ and $R$ in the corresponding columns of Table 1.
 
-**1.g) ** Calculate the mean value of $R$ and estimate its uncertainty.
+**1.g)** Calculate the mean value of $R$ and estimate its uncertainty.
 
 *(Tabla 1 — figura 5: columnas $V\text{ (cm}^3)$, $4T_1\text{ (s)}$, $4T_2\text{ (s)}$, $4T_3\text{ (s)}$, $4T_4\text{ (s)}$, $\bar{T}\text{ (s)}$, $T^2\text{ (s}^2)$, $L\text{ (cm)}$, $R\text{ (mm)}$; filas $V = 30, 40, 50, 60, 70, 80, 90, 100$.)*
 
@@ -387,11 +387,11 @@ In the first part of this experimental test a series of measurements will be car
 
 Reattach the U tube to the wooden bar. Enter $60\text{ cm}^3$ of water and mark the water level in equilibrium on the dash. Make another mark about 20 centimeters above. This shall be the starting position of the water level, $A_0$, for all subsequent measurements. Before measuring, you must practice getting the water level to the ground with this mark, blowing the other side until a slightly higher level is reached, covering the pipe with your finger and letting in some air until the level reaches the mark.
 
-**2.a) ** Measure the amplitudes $A_1$, $A_2$ and $A_3$ after one, two and three complete oscillations, respectively, i.e. at $t_1 = T$, $t_2 = 2T$ and $t_3 = 3T$ (the $T$ period for this water volume has already been measured previously). Repeat the observation of the cushioned oscillation as often as necessary to determine these amplitudes with sufficient precision by successive approximations and markings. The measures are presented in Table 2 (Figure 6).
+**2.a)** Measure the amplitudes $A_1$, $A_2$ and $A_3$ after one, two and three complete oscillations, respectively, i.e. at $t_1 = T$, $t_2 = 2T$ and $t_3 = 3T$ (the $T$ period for this water volume has already been measured previously). Repeat the observation of the cushioned oscillation as often as necessary to determine these amplitudes with sufficient precision by successive approximations and markings. The measures are presented in Table 2 (Figure 6).
 
-**2.b) ** Transform the expression (4) to obtain a linear relationship between $\ln(A_n/A_0)$ and $n$. Graphically represent the $(n,\, \ln(A_n/A_0))$ experimental points for $n = 0, 1, 2, 3$ on millimeter paper.
+**2.b)** Transform the expression (4) to obtain a linear relationship between $\ln(A_n/A_0)$ and $n$. Graphically represent the $(n,\, \ln(A_n/A_0))$ experimental points for $n = 0, 1, 2, 3$ on millimeter paper.
 
-**2.c) ** Get the slope of the straight line that best fits these points and deduct the value of the cushioning coefficient $\gamma$.
+**2.c)** Get the slope of the straight line that best fits these points and deduct the value of the cushioning coefficient $\gamma$.
 
 **2.d)** Haga una estimación de la incertidumbre $\Delta\gamma$.
 

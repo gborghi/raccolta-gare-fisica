@@ -62,7 +62,7 @@ d. Qual è la distanza percorsa dal collettivo dopo l'applicazione dei freni se 
 
 <div class="qlang-split" data-lang="en"></div>
 
-** Collective and man to the stop**
+**Collective and man to the stop**
 
 1. Two of May, missions. Blue. 
  
@@ -6373,7 +6373,7 @@ interesa expresar la carga q en función de I0, t y e.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Resistenza al rame a temperatura **
+**Resistenza al rame a temperatura**
 
 45. Aguilar, Tucumán. Blu. 
  
@@ -6431,7 +6431,7 @@ NOTA: ricordate che il numero e è la base del logaritmo naturale, ma in questo 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Copper resistance at temperature **
+**Copper resistance at temperature**
 
 45. The Eagles, Tucumán. Blue, please. 
  
@@ -9334,7 +9334,7 @@ Sceneggiare, indicare il sistema di riferimento e tutti i vettori.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Body rises by inclined plane and falls **
+**Body rises by inclined plane and falls**
 
 61. Santa Fe. Green, please. 
  
@@ -11690,7 +11690,7 @@ d. A che distanza da uno specchio si deve fermarsi per entrare nella foto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Home camera with lens **
+**Home camera with lens**
 
 83. City of Buenos Aires. Green, please. 
  
@@ -12330,7 +12330,7 @@ segundos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Forza e impulso su un corpo (UTM) **
+**Forza e impulso su un corpo (UTM)**
 
 88. Eduardo Castex, La Pampa. Blu. 
  
@@ -12346,7 +12346,7 @@ di una forza di 196 Newton, se la velocità iniziale è di 40 m/s, e la forza ag
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Strength and momentum over a body (UTM) **
+**Strength and momentum over a body (UTM)**
 
 88. Eduardo Castex, the Pampa. Blue, please. 
  
@@ -12768,7 +12768,7 @@ c) Che tipo di immagine sarà?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Concave mirror projecting filament **
+**Concave mirror projecting filament**
 
 93. City of Buenos Aires. Green, please. 
  
@@ -13043,7 +13043,7 @@ el desplazamiento del pistón, cuyo plano de simetría adopta una posición Lf .
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cilindro a pistone, due camere a gas (2) **
+**Cilindro a pistone, due camere a gas (2)**
 
 96. Monteros, Tucumán. Blu. 
  
@@ -13078,7 +13078,7 @@ il spostamento del pistone, il cui piano di simmetria assume una posizione Lf.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Piston cylinder, two gas chambers (2) **
+**Piston cylinder, two gas chambers (2)**
 
 96. Monteros, Tucumán. What is it? Blue, please. 
  
@@ -13908,7 +13908,7 @@ Considere:  g = 10 m / s2   y desprecie el rozamiento del aire.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sciglia del tetto **
+**Sciglia del tetto**
 
 105. Città di Buenos Aires. Blu. 
  
@@ -14834,7 +14834,7 @@ fondo a los 150 minutos de haber conectado el gotero.¿Cuantas gotas fue necesar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Oggetto, lente e specchio a 45 gradi **
+**Oggetto, lente e specchio a 45 gradi**
 
 114. Salta. Salta. Blu. 
  
@@ -15529,7 +15529,7 @@ D
 
 <div class="qlang-split" data-lang="en"></div>
 
-**F1 and F2 forces, parts **
+**F1 and F2 forces, parts**
 
 121. That's great. Blue, please. 
  
@@ -18736,7 +18736,7 @@ deberá constar:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: coefficiente di viscosità (Stokes) **
+**Esperimento: coefficiente di viscosità (Stokes)**
 
 136. Città di Buoni Aerei. Blu. 
  
@@ -20115,7 +20115,7 @@ gráfico.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: gravità con semplice pendolo (Sgo) **
+**Esperimento: gravità con semplice pendolo (Sgo)**
 
 141. Santiago del Estero. Blu. 
  
@@ -21348,7 +21348,7 @@ Obtenga g con su error.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: gravità a risorsa (lunghezza e periodo) **
+**Esperimento: gravità a risorsa (lunghezza e periodo)**
 
 146. Città di Buenos Aires. Verde. 
  
@@ -22036,7 +22036,7 @@ espesor de una arandela  = ……………….  ±  ………………..
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: gravità per cilindro **
+**Esperimento: gravità per cilindro**
 
 149. Mar del Plata, Buenos Aires. Blu. 
  
@@ -22749,7 +22749,7 @@ Los resultados finales con sus correspondientes errores
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: rapporto massa-volume (densità) **
+**Esperimento: rapporto massa-volume (densità)**
 
 154. San Miguel, Tucumán. Blu. 
  
@@ -24664,7 +24664,7 @@ cajas una encima de otra (C1, C2,...en la fig 3). Tambièn debe irse subiendo la
 colocándola a una altura tal que el tensor “T” quede horizontal cuando la masa “mx” estè en el 
 punto medio(*) del recorrido AB . El tensor “T” es una tanza de nylon delgada y su gran 
 longitud es para que la fuerza  Fx = mx.m /(m+m) se mantenga razonablemente horizontal y 
-constante dentro de una variación no mayor del 2% de su mòdulo durante la caida(**). 
+constante dentro de una variación no mayor del 2% de su mòdulo durante la caida(**).** 
  
 ii) DEMOSTRAR QUE, CON LAS DIMENSIONES DE LA fig 3 , ∆|Fx| <2%|Fx| 
 DURANTE LA CAIDA AB’ . SUPONER QUE EL TENSOR “T” NO ADOPTA LA FORMA 
@@ -24731,7 +24731,7 @@ iv) CALCULAR EL ERROR EN LA DETERMINACIÓN DE “mX”
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: massa per impatto esplosivo (Mach) **
+**Esperimento: massa per impatto esplosivo (Mach)**
 
 161. Città di Buenos Aires. Verde. 
  
@@ -24812,7 +24812,7 @@ le caselle una sopra l'altra (C1, C2,...in figura 3). E' anche necessario salire
 posizionandola ad una altezza tale che il tensore T sia orizzontale quando la massa mx è in 
 punto medio ((*) del percorso AB . Il tensoretto T è una ciambella di nylon sottile e grande
 L'aumento della forza è di un'altezza di 5 mm.
-di un'ampia variazione del modulo non superiore al 2% durante il declino (**). 
+di un'ampia variazione del modulo non superiore al 2% durante il declino (**).** 
  
 (ii) Dimostrare che, con le dimensioni della figura 3, il tasso di cambio è < 2%
 Durante la caduta . Supponiamo che il tensione non adotti la forma.
@@ -24929,7 +24929,7 @@ i) PROVE   [1]
  
 Fig. 3 schematically shows the experimental device—which is nothing more than one possible material realization of the idea in Fig. 2. The unknown mass "mx" will be a bronze sphere held by a thread in position "A", and THE OBJECTIVE OF THE EXPERIMENT WILL BE
 TO MEASURE IT. The motion is started by burning the thread "L", thereby simultaneously releasing the fall of "mx" and its horizontal motion, as explained in Fig. 2. Upon reaching point "B", the sphere will have fallen a height H = AB and a horizontal distance d = BB'.
-In order to have a set of values H = f(d) and be able to graph them, the height H is varied by stacking boxes one on top of another (C1, C2,... in Fig. 3). The pulley "P" must also be raised, placing it at such a height that the tension member "T" remains horizontal when the mass "mx" is at the midpoint(*) of the path AB. The tension member "T" is a thin nylon line, and its great length is so that the force Fx = mx.m /(m+m) remains reasonably horizontal and constant within a variation of no more than 2% of its magnitude during the fall(**).
+In order to have a set of values H = f(d) and be able to graph them, the height H is varied by stacking boxes one on top of another (C1, C2,... in Fig. 3). The pulley "P" must also be raised, placing it at such a height that the tension member "T" remains horizontal when the mass "mx" is at the midpoint(*) of the path AB. The tension member "T" is a thin nylon line, and its great length is so that the force Fx = mx.m /(m+m) remains reasonably horizontal and constant within a variation of no more than 2% of its magnitude during the fall(**).**
 
 ii) DEMONSTRATE THAT, WITH THE DIMENSIONS OF Fig. 3, ∆|Fx| <2%|Fx|
 DURING THE FALL AB'. ASSUME THAT THE TENSION MEMBER "T" DOES NOT TAKE THE FORM
@@ -25458,7 +25458,7 @@ Materiales: Péndulo. (provisto por la cátedra).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: pressione atmosferica e gravità (Torricelli) **
+**Esperimento: pressione atmosferica e gravità (Torricelli)**
 
 164. Felipe Sola, Buenos Aires. Blu. 
  
@@ -25690,7 +25690,7 @@ fuentes de error y las características de los instrumentos utilizados
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento: conservazione del calore (miscele) **
+**Esperimento: conservazione del calore (miscele)**
 
 166. Santiago del Estero. Blu. 
  

@@ -49,13 +49,13 @@ La domanda A1
 
 Un cilindro vuoto ha lunghezza $l$, raggio $r$ e spessore $d$, dove $l \gg r \gg d$, ed è realizzato in un materiale con resistività $\rho$. Una corrente variabile nel tempo $I$ scorre attraverso il cilindro nella direzione tangenziale. Supponiamo che la corrente sia sempre distribuita uniformemente lungo la lunghezza del cilindro. Il cilindro è fissato in modo tale che non possa muoversi; supponiamo che non ci siano campi magnetici generati esternamente durante il tempo considerato per i problemi di seguito.
 
-**(a) ** Qual è la resistenza del campo magnetico $B$ all'interno del cilindro in termini di $I$, dimensioni del cilindro e costanti fondamentali?
+**(a)** Qual è la resistenza del campo magnetico $B$ all'interno del cilindro in termini di $I$, dimensioni del cilindro e costanti fondamentali?
 
-**(b) ** Relazionare l'emf $\mathcal{E}$ sviluppato lungo la circonferenza del cilindro al tasso di variazione della corrente $\dfrac{dI}{dt}$, delle dimensioni del cilindro e delle costanti fondamentali.
+**(b)** Relazionare l'emf $\mathcal{E}$ sviluppato lungo la circonferenza del cilindro al tasso di variazione della corrente $\dfrac{dI}{dt}$, delle dimensioni del cilindro e delle costanti fondamentali.
 
-**(c) ** Relata $\mathcal{E}$ alla corrente $I$, alla resistività $\rho$ e alle dimensioni del cilindro.
+**(c)** Relata $\mathcal{E}$ alla corrente $I$, alla resistività $\rho$ e alle dimensioni del cilindro.
 
-**(d) ** La corrente a $t = 0$ è $I_0$. Qual è la corrente $I(t)$ per $t > 0$?
+**(d)** La corrente a $t = 0$ è $I_0$. Qual è la corrente $I(t)$ per $t > 0$?
 
 <!--fig:start-->
 ![[_attachments/2009_SemiFinal/2009_SemiFinal_p3_f1.png]]
@@ -122,9 +122,9 @@ Dovresti analizzare i dati in modo grafico. Non sono necessarie stime di errore.
 | 20 | 27020 | 100 | 2734 | | |
 | 30 | 18003 | 150 | 1626 | | |
 
-**(a) ** Determinare la semivita di ciascun isotopo. $^{35}$S ha una semivita significativamente più lunga di $^{32}$P.
+**(a)** Determinare la semivita di ciascun isotopo. $^{35}$S ha una semivita significativamente più lunga di $^{32}$P.
 
-**(b) ** Determinare il rapporto tra il numero di atomi $^{32}$P e il numero di atomi $^{35}$S nel campione originale.
+**(b)** Determinare il rapporto tra il numero di atomi $^{32}$P e il numero di atomi $^{35}$S nel campione originale.
 
 <!--fig:start-->
 ![[_attachments/2009_SemiFinal/2009_SemiFinal_p3_f2.png]]
@@ -226,7 +226,7 @@ I parametri $P_0$, $P_{\text{atm}}$, $V_0$ e $A$ sono fissi, ma la lunghezza com
 
 **(a)** What is the maximum kinetic energy $E_{\text{max}}$ with which the potato can exit the barrel? Esprimere la risposta in termini di $P_0$, $P_{\text{atm}}$ e $V_0$.
 
-**(b) ** Qual è la lunghezza $L$ in questo caso? Esprimere la risposta in termini di $P_0$, $P_{\text{atm}}$, $V_0$ e $A$.
+**(b)** Qual è la lunghezza $L$ in questo caso? Esprimere la risposta in termini di $P_0$, $P_{\text{atm}}$, $V_0$ e $A$.
 
 <!--fig:start-->
 ![[_attachments/2009_SemiFinal/2009_SemiFinal_p4_f4.png]]
@@ -383,13 +383,13 @@ Un dipolo elettrico è costituito da due cariche di uguale magnitudo $q$ e segno
 
 Ora consideriamo due dipoli elettrici identici, orientati in modo opposto, separati da una distanza $r$, come mostrato nel diagramma.
 
-**(a) ** È conveniente, quando si considera l'interazione tra i dipoli, scegliere lo zero di energia potenziale in modo che l'energia potenziale sia zero quando i dipoli sono molto lontani l'uno dall'altro. Usando questa convenzione, scrivere un'espressione esatta per l'energia potenziale di questo sistema in termini di $q$, $d$, $r$ e costanti fondamentali.
+**(a)** È conveniente, quando si considera l'interazione tra i dipoli, scegliere lo zero di energia potenziale in modo che l'energia potenziale sia zero quando i dipoli sono molto lontani l'uno dall'altro. Usando questa convenzione, scrivere un'espressione esatta per l'energia potenziale di questo sistema in termini di $q$, $d$, $r$ e costanti fondamentali.
 
-**(b) ** Supponiamo che $d \ll r$. Fornire un'approssimazione della sua espressione per l'energia potenziale al più basso ordine in $d$. Riscrivere questa approssimazione in termini di sole $p$, $r$ e costanti fondamentali.
+**(b)** Supponiamo che $d \ll r$. Fornire un'approssimazione della sua espressione per l'energia potenziale al più basso ordine in $d$. Riscrivere questa approssimazione in termini di sole $p$, $r$ e costanti fondamentali.
 
-**(c) ** Qual è la forza (magnitude e direzione) esercitata su un dipolo dall'altro? Continuare a supporre che $d \ll r$, e di nuovo esprimere il risultato in termini di solo $p$, $r$, e costanti fondamentali.
+**(c)** Qual è la forza (magnitude e direzione) esercitata su un dipolo dall'altro? Continuare a supporre che $d \ll r$, e di nuovo esprimere il risultato in termini di solo $p$, $r$, e costanti fondamentali.
 
-**(d) ** Qual è il campo elettrico vicino al dipolo B prodotto dal dipolo A? Continuare a supporre che $d \ll r$ e esprimere il risultato in termini di solo $p$, $r$ e costanti fondamentali.
+**(d)** Qual è il campo elettrico vicino al dipolo B prodotto dal dipolo A? Continuare a supporre che $d \ll r$ e esprimere il risultato in termini di solo $p$, $r$ e costanti fondamentali.
 
 <!--fig:start-->
 

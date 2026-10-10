@@ -177,7 +177,7 @@ Ottenere l'espressione per il flusso $Q(t)$. Dopo un lungo periodo, quando il fl
 
 **P1. The date of October**  Part c)
 
-In the ** reservoir model** a watershed is considered an open reservoir of surface area $S$, initially empty, whose volume $V(t)$ varies due to the water being supplied by rain at the same time as draining a stream $Q(t)$. This flow rate is proportional to the volume of water contained in the reservoir, i.e.: $Q(t) = V(t)/\tau$, where $\tau$ is a constant with units of time that accounts for the speed of an avenue. To take into account the rainfall contribution to the reservoir, we assume that it rains constantly and that the basin surface collects a net precipitation intensity $kI$.
+In the **reservoir model** a watershed is considered an open reservoir of surface area $S$, initially empty, whose volume $V(t)$ varies due to the water being supplied by rain at the same time as draining a stream $Q(t)$. This flow rate is proportional to the volume of water contained in the reservoir, i.e.: $Q(t) = V(t)/\tau$, where $\tau$ is a constant with units of time that accounts for the speed of an avenue. To take into account the rainfall contribution to the reservoir, we assume that it rains constantly and that the basin surface collects a net precipitation intensity $kI$.
 
 Proves that the volume of water accumulating in the reservoir is
 
@@ -378,7 +378,7 @@ donde $v_s$ es la velocidad del sonido en el agua y $\Delta t = t_2 - t_1$. (Uti
 
 **P1. Il giorno di ottobre**  Parte g)
 
-Un **passaggio tempo ultrasonico ** è costituito da due sensori posizionati lungo il corso dell'acqua separati da una distanza $L$, che agiscono come emittenti e sensori di ultrasuoni. Ogni sensore invia onde che raggiungono l'altro sensore dopo essersi riflettute su una superficie di fronte a entrambi. Le onde emesse dal sensore situato sopra le acque richiedono un tempo $t_1$ per raggiungere il secondo sensore, mentre le onde del sensore situato sotto le acque richiedono un tempo $t_2$ per raggiungere il primo.
+Un **passaggio tempo ultrasonico** è costituito da due sensori posizionati lungo il corso dell'acqua separati da una distanza $L$, che agiscono come emittenti e sensori di ultrasuoni. Ogni sensore invia onde che raggiungono l'altro sensore dopo essersi riflettute su una superficie di fronte a entrambi. Le onde emesse dal sensore situato sopra le acque richiedono un tempo $t_1$ per raggiungere il secondo sensore, mentre le onde del sensore situato sotto le acque richiedono un tempo $t_2$ per raggiungere il primo.
 
 Dimostra che la velocità dell'acqua viene data dall'espressione
 
@@ -459,7 +459,7 @@ Calcola il flusso del fiume.
 
 **P1. The date of October**  Part h)
 
-Another ultrasonic sensor, which is a ** level ** sensor, is located at a height of 10 m above the riverbed. Suppose the channel is rectangular by 5 m wide. The level sensor detects the echo of ultrasound reflected on the water surface 20,5 ms after it has been emitted. The transit time flowmeter has its separate sensors a distance $L = 1\ \text{m}$ and detects a time difference $\Delta t = 5{,}5\ \mu\text{s}$. The speed of sound is 343 m/s in the air and 1480 m/s in the water.
+Another ultrasonic sensor, which is a **level** sensor, is located at a height of 10 m above the riverbed. Suppose the channel is rectangular by 5 m wide. The level sensor detects the echo of ultrasound reflected on the water surface 20,5 ms after it has been emitted. The transit time flowmeter has its separate sensors a distance $L = 1\ \text{m}$ and detects a time difference $\Delta t = 5{,}5\ \mu\text{s}$. The speed of sound is 343 m/s in the air and 1480 m/s in the water.
 
 Calculate the flow of the river.
 
@@ -499,7 +499,7 @@ Obtenga la velocidad del agua $u$ en función del campo magnético $B$, el volta
 
 **P1. Il giorno di ottobre**  Parte i)
 
-Un ** caudalmeter elettromagnetico** è costituito da un tubo di materiale isolante situato nell'intergresso di un elettromagnetico, che crea un campo magnetico uniforme perpendicolare al flusso d'acqua. Poiché l'acqua contiene ioni, mentre fluisce attraverso il tubo induce una differenza di potenziale elettrico tra due elettrodi contrastanti situati nella parete del tubo nella direzione perpendicolare al campo magnetico.
+Un **caudalmeter elettromagnetico** è costituito da un tubo di materiale isolante situato nell'intergresso di un elettromagnetico, che crea un campo magnetico uniforme perpendicolare al flusso d'acqua. Poiché l'acqua contiene ioni, mentre fluisce attraverso il tubo induce una differenza di potenziale elettrico tra due elettrodi contrastanti situati nella parete del tubo nella direzione perpendicolare al campo magnetico.
 
 Ottieni la velocità dell'acqua $u$ in funzione del campo magnetico $B$, la tensione $\Delta V$ misurata dagli elettrodi e il diametro $D$ del tubo.
 
@@ -518,7 +518,7 @@ Ottieni la velocità dell'acqua $u$ in funzione del campo magnetico $B$, la tens
 
 **P1. The date of October**  Part i)
 
-A ** electromagnetic flowmeter** consists of an insulating material tube located in the interlayer of an electromagnet, which creates a uniform magnetic field perpendicular to the water current. Because water contains ions, as it flows through the tube it induces a difference in electrical potential between two opposing electrodes located in the wall of the tube in the direction perpendicular to the magnetic field.
+A **electromagnetic flowmeter** consists of an insulating material tube located in the interlayer of an electromagnet, which creates a uniform magnetic field perpendicular to the water current. Because water contains ions, as it flows through the tube it induces a difference in electrical potential between two opposing electrodes located in the wall of the tube in the direction perpendicular to the magnetic field.
 
 Get the water speed $u$ based on the magnetic field $B$, the voltage $\Delta V$ measured by the electrodes and the diameter $D$ of the tube.
 

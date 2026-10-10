@@ -134,7 +134,7 @@ calcule el valor de la emisividad del filamento de wolframio, $\varepsilon$. (1 
 
 <div class="qlang-split" data-lang="it"></div>
 
-La prova sperimentale. Radiamento di una lampada di incandescenza**
+La prova sperimentale. Radiamento di una lampada di incandescenza
 
 ### Obiettivo
 
@@ -252,7 +252,7 @@ Calcolare il valore di emissività del filamento di wolframio, $\varepsilon$. (1
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test is carried out in a laboratory. Radiation from a flashing lamp**
+The test is carried out in a laboratory. Radiation from a flashing lamp
 
 ### Objective
 

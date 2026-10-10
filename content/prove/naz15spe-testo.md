@@ -36,7 +36,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided: Voltage and flow of radiant energy**
+The following information is provided: Voltage and flow of radiant energy
 
 **1.1**  Measure the junction to source and sensor junction distances and record them together with the corresponding voltages. You briefly explain the procedure.
 
@@ -116,7 +116,7 @@ The following information is provided: Voltage and flow of radiant energy**
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in Part II: Energy flow through glass**
+The following information is provided for in Part II: Energy flow through glass
 
 **2.1**  Record the positions of the source and sensor joints and the front face of the first window, that is, the one facing the source, by reading them on the line or on the millimeter tape.
 

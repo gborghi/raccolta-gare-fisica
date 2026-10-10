@@ -76,7 +76,7 @@ Compound J on treatment with $\text{NH}_3$ gives the dye murexide.
 
 Indian National Chemistry Olympiad 2017 — Roll no — HBCSE, 28th January 2017
 
-O — N — L — M — , -Dimethylaniline — $\text{H}_2$/Pt — Benzenediazonium sulphate — ** $\text{NaCNBH}$ is a reducing agent
+O — N — L — M — , -Dimethylaniline — $\text{H}_2$/Pt — Benzenediazonium sulphate —  $\text{NaCNBH}$ is a reducing agent
 
 In 1933, Paul György and Richard Kuhn isolated a yellow pigment which turned out to be an essential vitamin and a cure for many diseases. Later, it was identified as Compound K ($\text{C}_{17}\text{H}_{20}\text{N}_4\text{O}_6$) with a D-aldopentose (L) derived side chain. In L, C3 carbon has „R‟ configuration.
 

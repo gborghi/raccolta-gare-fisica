@@ -392,7 +392,7 @@ k) Explicar las observaciones y los resultados.
 
 Sicurezza: l'esperimento coinvolge combustibili (alcol, cera) in combustione, fate attenzione. Non usare grandi quantità di alcol (non più di mezzo tappeto di gasosa). Tenete il contenitore di alcol lontano dal luogo in cui si svolge l'esperienza. Usa matches di sicurezza, non un accenditore.
 
-**Procedura: **
+**Procedura:**
 
 - **A.** Mettere acqua nel recipiente (fonte o piatto).
 - **B.** Metti l'alcol su un tappeto e mettila a galla. Accendere l'alcol. (Se si usa una candela, la metti fermata verticalmente sul contenitore e accendetela.)

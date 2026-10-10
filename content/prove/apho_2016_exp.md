@@ -530,7 +530,7 @@ where $I_1$ and $I_2$ are the intensities of beams 1 and 2, respectively, $k = \
 
 ### Fase di riflessione Sflitto del metallo
 
-**(Total marchi: 8,0) **
+**(Total marchi: 8,0)**
 
 #### Introduzione
 
@@ -580,7 +580,7 @@ se $I_1$ e $I_2$ sono rispettivamente le intensità dei fasci 1 e 2, $k = \dfrac
 #### Procedure preparatorie / adeguamenti
 
 1. Se avete scelto di fare prima l'esperimento E1, ricordatevi di rimuovere la scheda di osservazione e anche il foro del pin per E1 prima di assemblare l'apparecchio per questo esperimento E2.
-2. **Caution: non guardare direttamente alla luce laser del diodo laser!! **
+2. **Caution: non guardare direttamente alla luce laser del diodo laser!!**
 3. Installare il diodo laser nel buco circolare del tenitore laser come mostrato alla figura 11. Attaccare la dioda laser con lo strumento a vite gialle. Assicurarsi che il corpo della testa laser sia orizzontale con l' etichetta gialla allegata (vedi figura 2 diodo laser con l' etichetta gialla) rivolto verso l' alto (per impostare la polarizzazione della luce laser nella direzione verticale). *[Nota: non stringere troppo la vite (piantata in giallo) del tenitore laser; altrimenti danneggerà il diodo laser!]*
 4. Collegare il pacchetto batterie al diodo laser come mostrato nella figura 11 e accendere il diodo laser.
 5. È opportuno che il diodo laser formino un punto di fascio di circa 1 mm di diametro a una distanza di 20 cm. Per verificare la dimensione del fascio, posizionare un pezzo di carta a circa 20 cm dal diodo laser e osservare la dimensione del punto del fascio laser emesso dal diodo laser. Riguardare l'apertura della dioda laser utilizzando un driver a vite a testa piatta per ottenere una dimensione di punto di circa 1 mm di diametro se necessario.
@@ -615,7 +615,7 @@ L'esperimento
 
 **Tasco 10** *(1.2 punti) *  Riscrivere l'equazione (2) derivata dalla Tarea 5 per dare un'espressione dell'ordine di interferenza $m$ e della funzione $X(|\theta|_{\text{avg}})$ ottenuta dalla Tarea 6. Etichettare questa equazione come equazione (3a). In base all'equazione (3a), scrivere l'espressione di $m$ in termini di $L$, $\lambda$ e $|\theta|_{\text{avg}}$ come equazione (3b). Quindi, esprimere la fase di riflessione normalizzata $\phi_{s,n} = \phi_s / 2\pi$ in termini di $L$, $\lambda$ e $|\theta|_{\text{avg}}$ come equazione (3c). Scrivere l'intervallo di $\phi_{s,n}$. Determinare quindi i valori di $m$ per i picchi dai risultati ottenuti nell'attività 7 e inserirli come nuova colonna nella tabella E2_3.
 
-**Tasco 11 ** *(1,4 punti) *  Trama $m$ vs. $X(|\theta|_{\text{avg}})$ sul grafico E2_3, cioè lo stesso grafico per la grafica di numero picco vs. $X(|\theta|_{\text{avg}})$. Tracciare una linea attraverso tutti i punti dati per questa trama. Determina quindi l'intervallo tra aria e spazio $L$ dell'etalon e anche la fase di riflessione $\phi_s$ del Ti. *[Nota: Ancora una volta, la soluzione grafica è accettabile e non è richiesta l'analisi degli errori.]*
+**Tasco 11** *(1,4 punti) *  Trama $m$ vs. $X(|\theta|_{\text{avg}})$ sul grafico E2_3, cioè lo stesso grafico per la grafica di numero picco vs. $X(|\theta|_{\text{avg}})$. Tracciare una linea attraverso tutti i punti dati per questa trama. Determina quindi l'intervallo tra aria e spazio $L$ dell'etalon e anche la fase di riflessione $\phi_s$ del Ti. *[Nota: Ancora una volta, la soluzione grafica è accettabile e non è richiesta l'analisi degli errori.]*
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1NgIb_CVUxGNfoD2Q2qizCAKq4rxOcqcz/view)
 **Topic:** [[Wave Optics]], [[Oscillations & Waves]]

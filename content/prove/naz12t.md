@@ -43,7 +43,7 @@ which, in the unit of time, affect the unit of area perpendicular to the beam, a
 that $I$ is uniform and constant.
 
 <!--fig:start-->
-**p.1 **  Elastic diffusion: impact parameter and angle
+**p.1**  Elastic diffusion: impact parameter and angle
 ![[_attachments/Naz12T/Naz12T_p1_f1.png]]
 <!--fig:end-->
 
@@ -464,7 +464,7 @@ $$B_r = \beta r B_0 \qquad B_z = (1 - \alpha z) B_0$$
 where $\alpha$, $\beta$ and $B_0$ are appropriate positive constants.
 
 <!--fig:start-->
-**p.3 **  Temperature of black and white jars over time
+**p.3**  Temperature of black and white jars over time
 ![[_attachments/Naz12T/Naz12T_p3_f3.png]]
 <!--fig:end-->
 

@@ -315,7 +315,7 @@ The problem is not solved.
 0.3pt
 
 <!--fig:start-->
-**p.1 **  R-beam ring with axles
+**p.1**  R-beam ring with axles
 ![[_attachments/exam-theory-Q2-italiano_2/exam-theory-Q2-italiano_2_p1_f1.png]]
 <!--fig:end-->
 

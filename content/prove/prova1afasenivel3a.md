@@ -313,7 +313,7 @@ contém vinte questões.
 
 <div class="qlang-split" data-lang="it"></div>
 
-** contiene venti domande**
+**contiene venti domande**
 
 01) Questo test è rivolto esclusivamente agli studenti della terza e quarta setta di scuola media. Lei
 contiene venti domande.
@@ -969,7 +969,7 @@ $1450{,}0\ \text{m/s}$, the minimum frequency of the wave to be used in the appa
 a diameter of $2\ \text{mm}$ is of:
 (a) 1,45 MHz
 
-- ** B ** 10,0 MHz
+- **B** 10,0 MHz
 - **C** 7,25 MHz
 
 (d) 14,5 MHz

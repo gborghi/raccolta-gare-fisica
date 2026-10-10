@@ -411,7 +411,7 @@ If we throw a ball in a shallow water tank, propagation velocity of ripples on s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione B (4 domande × 5 punti ciascuno). ** Qualsiasi numero di alternative può essere corretto; il pieno credito solo se tutte le scelte corrette e nessuna scelte sbagliata sono contrassegnate. [5]
+**Sezione B (4 domande × 5 punti ciascuno).** Qualsiasi numero di alternative può essere corretto; il pieno credito solo se tutte le scelte corrette e nessuna scelte sbagliata sono contrassegnate. [5]
 
 Se lanciamo una palla in un serbatoio di acqua poco profonda, la velocità di propagazione delle onde sulla superficie dell'acqua dipenderà da
 

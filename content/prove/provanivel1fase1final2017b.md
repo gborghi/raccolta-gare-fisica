@@ -685,7 +685,7 @@ La differenza tra le due dimensioni è molto piccola, come mostrato nella figura
 Immaginiamo che uno studente allontani la palla (01) e la rilasci. Come si comportano le altre palle dopo il
 - lo shock? Per questo, disprezza ogni scontri e dissipazione di energia.
 - **A.** Le palle (06 e 05) si allontanano mentre le altre si fermano;
-- **B.**Nulla succede, cioè tutte le palle si fermano;
+- **B.** Nulla succede, cioè tutte le palle si fermano;
 - **C.** Solo la palla (06) si allontana mentre le altre si fermano;
 - **D.** Tutte le palle si allontanano, solo (01) si ferma;
 - **E.** As bolas (06) e (01) afastam-se.
@@ -722,7 +722,7 @@ Quindi la nostra intuizione ci dice che la forza applicata è una funzione di (d
 - **A** tempo;
 - **B.** velocità;
 - **C.** accelerazione; d) variazione del tempo;
-- massa ** E ** massa.
+- massa **E** massa.
 
 13.
 Considerate due blocchi di metallo dello stesso volume, il peso di uno è doppio di quello dell'altro,

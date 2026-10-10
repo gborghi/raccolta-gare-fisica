@@ -107,19 +107,19 @@ Se, in determinate condizioni atmosferiche, la distanza massima reale a cui il p
 
 Considera ora che al pastore 2 arriva il suono diretto e anche il riflesso speculare sul fondo della valle (figura 3). Supponiamo che il fattore di riflessione (frazione di energia riflessa) dell'onda sonora sul suolo sia del 50%.
 
-**c) ** Per $d = 4{,}0\ \text{km}$, $h = 100\ \text{m}$ e $f = 2{,}5\ \text{kHz}$ calcolare l'intensità $I_r$ del suono riflesso sul suolo che arriva al pastore 2. Calcola anche l'intensità totale, somma di quella che arriva per i due sentieri. Esprimere il risultato in W/m2.
+**c)** Per $d = 4{,}0\ \text{km}$, $h = 100\ \text{m}$ e $f = 2{,}5\ \text{kHz}$ calcolare l'intensità $I_r$ del suono riflesso sul suolo che arriva al pastore 2. Calcola anche l'intensità totale, somma di quella che arriva per i due sentieri. Esprimere il risultato in W/m2.
 
 Nel precedente paragrafo ha calcolato l'intensità totale ricevuta dal pastore come somma delle intensità che gli arrivano da due vie. Questa idea è corretta se il suono ha uno spettro di frequenze ampie. Ma se le onde emesse sono armoniche (una singola frequenza), si manifestano fenomeni di interferenza e l'intensità totale non può più essere ottenuta come semplice somma delle due intensità.
 
 Considera ora che il pastore 1 siffia la voce /i/ con una frequenza pura molto vicina al valore centrale $f_0 = 2{,}5\ \text{kHz}$.
 
-**d) ** Con gli stessi valori di $d$ e $h$ del paragrafo precedente, determinare la frequenza più vicina a $f_0$ con cui il pastore deve fischiare la /i/ per produrre un'interferenza costruttiva delle due onde che arrivano al pastore 2.
+**d)** Con gli stessi valori di $d$ e $h$ del paragrafo precedente, determinare la frequenza più vicina a $f_0$ con cui il pastore deve fischiare la /i/ per produrre un'interferenza costruttiva delle due onde che arrivano al pastore 2.
 
-**e) ** Calcola l'intensità totale del suono ricevuto dal Pastore 2 a questa frequenza.
+**e)** Calcola l'intensità totale del suono ricevuto dal Pastore 2 a questa frequenza.
 
 Infine, studiamo come un ciclista che si muove da un pastore all'altro nel fondo della valle ascolta la conversazione dei due pastori. Supponiamo che, approssimativamente, il suono giunga al ciclista nella stessa direzione in cui si muove. Il pastore 1 siffia beber e, in risposta, il pastore 2 siffia vivir. La voce /e/ è stata emessa a 2,1 kHz e la voce /i/ a 2,5 kHz. Il ciclista è un parlante del silbo gomero e è in grado di discriminare frequenze separate almeno un intervallo $\Delta f = 100\ \text{Hz}$.
 
-**f) ** Calcola le frequenze delle voci che il ciclista ascolta quando si dirige verso il pastore 1 a una velocità di 40 km/h. Che velocità massima avrebbe dovuto percorrere per poter distinguere le due parole fischiate dai pastori?
+**f)** Calcola le frequenze delle voci che il ciclista ascolta quando si dirige verso il pastore 1 a una velocità di 40 km/h. Che velocità massima avrebbe dovuto percorrere per poter distinguere le due parole fischiate dai pastori?
 
 <!--fig:start-->
 ![[_attachments/P2completo2017/P2completo2017_p1_f1.png]]

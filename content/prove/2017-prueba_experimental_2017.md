@@ -76,7 +76,7 @@ d) Haz una estimación de la incertidumbre del valor obtenido para $e/m$.
 <div class="qlang-split" data-lang="it"></div>
 
 **XXVIII Olimpiada spagnola di fisica  Fase di Aragon** 
-La prova sperimentale. Misura del rapporto carico/massa dell'elettrone**
+La prova sperimentale. Misura del rapporto carico/massa dell'elettrone
 
 En 1897, J. J. Thomson utilizzò un dispositivo sperimentale simile a quello di figura 1 per determinare per la prima volta il rapporto tra la carica assoluta e la massa dell'elettrone, $e/m$.
 
@@ -110,7 +110,7 @@ La tabella seguente rileva una serie di valori $V$ e $I$ con cui si ottiene ques
 |:---------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | $I\ (\text{A})$ | 0,94 | 1,00 | 1,10 | 1,21 | 1,29 | 1,33 | 1,39 | 1,49 |
 
-**Altri dati: **
+**Altri dati:**
 
 - Permeabilità del vuoto: $\mu_0 = 4\pi \times 10^{-7}\ \text{N/A}^2$
 - Numero di spirale delle bobine: $N = 130$
@@ -135,7 +135,7 @@ d) Estimare l'incertezza del valore ottenuto per $e/m$.
 <div class="qlang-split" data-lang="en"></div>
 
 **XXVIII Spanish Olympics in Physics  Aragon Phase** 
-The test is carried out in a laboratory. Measurement of the electron load/mass ratio**
+The test is carried out in a laboratory. Measurement of the electron load/mass ratio
 
 En 1897, J. J. Thomson used an experimental device similar to that in Figure 1 to determine for the first time the ratio of absolute charge to electron mass, $e/m$.
 

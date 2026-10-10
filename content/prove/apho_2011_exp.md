@@ -153,7 +153,7 @@ La carta è costituita da:
 
 3.–5. Tre anelli metallici realizzati esattamente dallo stesso materiale (una lega di alluminio). Un anello è chiuso. Il secondo anello è identico al primo, tranne che un breve segmento che è stato rimosso, rendendo l'anello aperto. Anche il terzo anello è aperto, ed è molto più sottile dei primi due.
 
-6.–7. Due multimetri. Saranno utilizzati come voltometro e ammetro. La sensibilità del voltmeter a corrente alternata è di 0,1 mV. L'ampilometro può misurare correnti fino a 20 A (anche in modalità CA). **Nota: ** in modalità AC, i multimetri mostrano il RMS (root-median-square) della quantità misurata, ovvero: l'ampiezza divisa per $\sqrt{2}$. Per le istruzioni dettagliate, vedere le figure 3 e 4.
+6.–7. Due multimetri. Saranno utilizzati come voltometro e ammetro. La sensibilità del voltmeter a corrente alternata è di 0,1 mV. L'ampilometro può misurare correnti fino a 20 A (anche in modalità CA). **Nota:** in modalità AC, i multimetri mostrano il RMS (root-median-square) della quantità misurata, ovvero: l'ampiezza divisa per $\sqrt{2}$. Per le istruzioni dettagliate, vedere le figure 3 e 4.
 
 8. Una scala digitale alimentata da batterie con sensibilità di 0,01 g. Quando la scala sperimenta una forza che oscilla rapidamente, mostra la forza media temporale. Nota: la scala dispone di un'opzione "tare", che calibra la lettura sotto un determinato peso a zero. V. figura 2.
 
@@ -167,7 +167,7 @@ La carta è costituita da:
 
 13. Una lampada da scrivania che può essere accesa o spenta per la vostra comodità.
 
-**Certazione: ** quando l'anello chiuso è esposto al campo magnetico del solenoide, una grande corrente fluisce attraverso di esso, riscaldandolo. Di conseguenza, le proprietà elettriche dell'anello possono cambiare leggermente. Per evitare questo, non eseguire una corrente attraverso il solenoide per lunghi periodi di tempo.
+**Certazione:** quando l'anello chiuso è esposto al campo magnetico del solenoide, una grande corrente fluisce attraverso di esso, riscaldandolo. Di conseguenza, le proprietà elettriche dell'anello possono cambiare leggermente. Per evitare questo, non eseguire una corrente attraverso il solenoide per lunghi periodi di tempo.
 
 Il campo gravitazionale terrestre a Tel Aviv è $g = 9.80 \pm 0.01\ \text{N/kg}$.
 
@@ -195,8 +195,8 @@ Solo in questa parte, si può trascurare il piccolo effetto del campo magnetico 
 
 In questa parte, useremo la legge di Faraday, e la versione magnetica della legge di Gauss:
 
-- **Legge di Faraday: ** La forza elettromotrice indotta su un circuito generato da un flusso magnetico mutevole è $\epsilon = -d\Phi_{\mathrm{B}}/dt$.
-- **La legge di Gauss: ** il flusso magnetico totale attraverso una superficie chiusa è zero.
+- **Legge di Faraday:** La forza elettromotrice indotta su un circuito generato da un flusso magnetico mutevole è $\epsilon = -d\Phi_{\mathrm{B}}/dt$.
+- **La legge di Gauss:** il flusso magnetico totale attraverso una superficie chiusa è zero.
 
 Un circuito corrente posizionato in un campo magnetico cilindricamente simmetrico $\vec{B}$ sperimenta una forza totale
 
@@ -204,13 +204,13 @@ $$F(t) = -2\pi r I(t)\, B_r(t)$$
 
 in cui $I$ è la corrente nel ciclo e $B_r$ è la componente radial (in direzione del raggio del ciclo) del campo magnetico esterno nelle vicinanze del ciclo. La direzione positiva della forza $F$ è verso il basso  nella direzione $z$. La direzione positiva della corrente $I$ è mostrata alla figura 5.
 
-**a. (0,2 pts) ** Considera un flusso magnetico esterno oscillante $\Phi_{\mathrm{B}}(t) = \sqrt{2}\,\Phi_{\mathrm{B}}^{\mathrm{rms}}\sin(\omega t)$ attraverso l'anello. Trova $\epsilon(t)$  la FEM indotta solo dal flusso dato e $I(t)$  la corrente indotta nell'anello, come funzioni di $\Phi_{\mathrm{B}}^{\mathrm{rms}}$, $L$, $R$, $\omega$ e $t$.
+**a. (0,2 pts)** Considera un flusso magnetico esterno oscillante $\Phi_{\mathrm{B}}(t) = \sqrt{2}\,\Phi_{\mathrm{B}}^{\mathrm{rms}}\sin(\omega t)$ attraverso l'anello. Trova $\epsilon(t)$  la FEM indotta solo dal flusso dato e $I(t)$  la corrente indotta nell'anello, come funzioni di $\Phi_{\mathrm{B}}^{\mathrm{rms}}$, $L$, $R$, $\omega$ e $t$.
 
 *Signore:* L'ampiezza EMF $\epsilon_0$ e l'ampiezza corrente $I_0$ su un elemento di circuito AC con resistenza e induttanza sono correlati da $\epsilon_0 = I_0\sqrt{\omega^2 L^2 + R^2}$, e la corrente è ritardata da una fase $\delta = \tan^{-1}\dfrac{\omega L}{R}$ rispetto all'EMF.
 
-**b. (0,6 punti) ** Trova $B_r$ in termini di $r$ e $\dfrac{d}{dz}\Phi_{\mathrm{B}}$, dove $z$ è la coordinata lungo l'asse perpendicolare al piano dell'anello.
+**b. (0,6 punti)** Trova $B_r$ in termini di $r$ e $\dfrac{d}{dz}\Phi_{\mathrm{B}}$, dove $z$ è la coordinata lungo l'asse perpendicolare al piano dell'anello.
 
-**c. (0,5 punti) ** Indicare che $\langle F \rangle = \alpha\, \dfrac{L}{(R^2 + \omega^2 L^2)} \cdot \dfrac{d(\epsilon_{rms})^2}{dz}$, dove $\langle F \rangle$ è il valore medio temporale di $F$, $\epsilon^{rms}(z)$ è il RMS (raggine-media-quadrato, cioè amplitudine divisa da $\sqrt{2}$) del FEM su un ciclo ad altezza $z$. Trova la costante $\alpha$ (se non trovi $\alpha$, nelle parti successive, prendi la magnitudine di $\alpha$ per essere 1).
+**c. (0,5 punti)** Indicare che $\langle F \rangle = \alpha\, \dfrac{L}{(R^2 + \omega^2 L^2)} \cdot \dfrac{d(\epsilon_{rms})^2}{dz}$, dove $\langle F \rangle$ è il valore medio temporale di $F$, $\epsilon^{rms}(z)$ è il RMS (raggine-media-quadrato, cioè amplitudine divisa da $\sqrt{2}$) del FEM su un ciclo ad altezza $z$. Trova la costante $\alpha$ (se non trovi $\alpha$, nelle parti successive, prendi la magnitudine di $\alpha$ per essere 1).
 
 *Signore:* potresti trovare utili le seguenti identità:
 $$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
@@ -226,13 +226,13 @@ In tutte le seguenti misurazioni e analisi, si deve tenere conto che i risultati
 
 Misure della resistenza (2,6 punti)
 
-In questa parte, è necessario utilizzare i terminali di 0,7 V dell'alimentazione a corrente alternata. L'utilizzo dei fili forniti per il cortocircuito dei due terminali di 0,7 V dovrebbe comportare una corrente di $5\ \text{A} - 15\ \text{A}$, a seconda dei contatti. Si noti che i tre fili più brevi raggiungono un migliore contatto con l'ampimetro rispetto ai due fili più lunghi. **Caution: ** Non utilizzare i terminali 24 V, per evitare il surriscaldamento dei componenti.
+In questa parte, è necessario utilizzare i terminali di 0,7 V dell'alimentazione a corrente alternata. L'utilizzo dei fili forniti per il cortocircuito dei due terminali di 0,7 V dovrebbe comportare una corrente di $5\ \text{A} - 15\ \text{A}$, a seconda dei contatti. Si noti che i tre fili più brevi raggiungono un migliore contatto con l'ampimetro rispetto ai due fili più lunghi. **Caution:** Non utilizzare i terminali 24 V, per evitare il surriscaldamento dei componenti.
 
-**d. 1, 3 punti) ** Trova la resistenza $R_{thin}$ dell' anello sottile. Disegna il circuito sul modulo di risposta.
+**d. 1, 3 punti)** Trova la resistenza $R_{thin}$ dell' anello sottile. Disegna il circuito sul modulo di risposta.
 
 *Signore: * la resistenza di ciascuno degli anelli è molto inferiore a $0.1\ \Omega$. Per l'anello sottile, si può trascurare l'impedenza induttiva rispetto alla resistenza.
 
-**e. 1, 3 punti) ** Trova la resistenza $R$ dell' anello chiuso. Fare ulteriori misure se necessario.
+**e. 1, 3 punti)** Trova la resistenza $R$ dell' anello chiuso. Fare ulteriori misure se necessario.
 
 Misure del FEM indotto (1,5 punti)
 
@@ -244,9 +244,9 @@ Misure del FEM indotto (1,5 punti)
 
 ###Analisi (3,6 punti)
 
-**h. 1, 4 punti.) ** Trova il valore assoluto della derivata $\left|\dfrac{d\epsilon_{rms}^2}{dz}\right|$ di $\epsilon_{rms}^2$ rispetto a $z$, per i valori di $z$ in cui hai misurato la forza in parte (g). Registrare i valori nella tabella fornita sul modulo di risposta. In questa parte non sono richieste stime di errore.
+**h. 1, 4 punti.)** Trova il valore assoluto della derivata $\left|\dfrac{d\epsilon_{rms}^2}{dz}\right|$ di $\epsilon_{rms}^2$ rispetto a $z$, per i valori di $z$ in cui hai misurato la forza in parte (g). Registrare i valori nella tabella fornita sul modulo di risposta. In questa parte non sono richieste stime di errore.
 
-**i. (2,2 punti) ** Analizzare i risultati utilizzando un grafico lineare per trovare $L$  l'induttanza dell'anello chiuso. È possibile utilizzare il fatto che $R = R_{thin}$.
+**i. (2,2 punti)** Analizzare i risultati utilizzando un grafico lineare per trovare $L$  l'induttanza dell'anello chiuso. È possibile utilizzare il fatto che $R = R_{thin}$.
 
 Nota: Nonostante l'espansione notevole dell'anello chiuso, la formula derivata dalla parte (c) si applica ancora con elevata precisione. Utilizzare come definizione operativa per l'induzione di un anello ampio.
 
@@ -425,7 +425,7 @@ La carta è costituita da:
 
 11. Una lampada da scrivania che può essere accesa o spenta per la vostra comodità.
 
-> **SAFETY FOR LASER: **
+> **SAFETY FOR LASER:**
 > 1. Non fissare il raggio laser!
 > 2. Attenzione ai riflessi da superfici metalliche.
 > 3. Non puntare il laser sugli altri.
@@ -443,7 +443,7 @@ La carta è costituita da:
 
 ### Parte I  Teoria (0,4 punti)
 
-**a. (0,4 pts.) ** Un raggio luminoso è riflesso da due specchi che si incontrano ad un angolo $\varphi$ (Figura 3). Trova l'angolo $\gamma$ tra i raggi entranti e usciti. Supponiamo che tutti i raggi luminosi si trovino nel piano perpendicolare alla linea di intersezione degli specchi.
+**a. (0,4 pts.)** Un raggio luminoso è riflesso da due specchi che si incontrano ad un angolo $\varphi$ (Figura 3). Trova l'angolo $\gamma$ tra i raggi entranti e usciti. Supponiamo che tutti i raggi luminosi si trovino nel piano perpendicolare alla linea di intersezione degli specchi.
 
 > [figura] Figura 3  Un raggio di luce riflesso da due specchi
 > ![[APhO_2011_exp_Q2_p3_f3.png]]
@@ -452,7 +452,7 @@ La carta è costituita da:
 
 Usando la lampada da fuoco bianca come fonte di luce, si possono osservare sia la trasmissione che le proprietà di riflessione del campione. La figura 4 illustra le impostazioni proposte per entrambi i tipi di osservazione. Nota:* si possono osservare risultati diversi quando si illuminano i due lati del campione.
 
-**Caution: ** Per visualizzare la luce trasmessa, dovrai guardare direttamente nel raggio della lampada da fuoco attraverso il campione. Non farlo con il laser! Inoltre, non guardare direttamente la lampada da fuoco per lunghi periodi di tempo.
+**Caution:** Per visualizzare la luce trasmessa, dovrai guardare direttamente nel raggio della lampada da fuoco attraverso il campione. Non farlo con il laser! Inoltre, non guardare direttamente la lampada da fuoco per lunghi periodi di tempo.
 
 > [figura] Figura 4  Configurazioni di osservazione suggerite per la luce bianca
 > ![[APhO_2011_exp_Q2_p3_f4.png]]
@@ -464,7 +464,7 @@ Usando la lampada da fuoco bianca come fonte di luce, si possono osservare sia l
 > ![[APhO_2011_exp_Q2_p4_f5.png]]
 > (A) Stiglie triangolari simmetriche (periodo $d$, angolo $\varphi$). (B) Sceneggiature simmetriche con punte piatte (larghezza del sceneggiamento $d/2$, periodo $d$, angolo $\varphi$). (C) Denti di seggia asimmetrici con coppie piatte (larghezza $d/2$, periodo $d$, angolo $\varphi$). D) Profil di dente di seggia (a gonfiore) asimmetrico (periodo $d$, angolo $\varphi$).
 
-**c. (0,8 punti di punto) ** Trova l'angolo $\varphi$ del campione e stima il suo errore.
+**c. (0,8 punti di punto)** Trova l'angolo $\varphi$ del campione e stima il suo errore.
 
 **d. (0,5 pts.)** Quando un fascio di luce bianca perpendicolare incide sul campione da uno dei suoi lati, nel luminoso trasmesso si può osservare il seguente modello debole, leggermente a destra dalla sorgente (Figura 6). "R", "G" e "B" sono rispettivamente rosso, verde e blu. *Nota:* questo modello può essere difficile da osservare e non sono necessarie misure su di esso.
 
@@ -485,23 +485,23 @@ Scegliere l' opzione corretta:
 - **C.** I modelli raffigurati nella figura 6 sono risultati di interferenze, mentre il modello raffigurato nella figura 7 è risultato dalla dipendenza di $n$ dalla lunghezza d'onda.
 - **D.** I modelli raffigurati nella figura 6 risultano dalla dipendenza di $n$ dalla lunghezza d'onda, mentre il modello raffigurato nella figura 7 deriva da interferenze.
 
-**e. (1,4 punti) ** Con la luce bianca impostata come nella parte (d), misurare l'angolo di deflessione $\delta_0$ della luce viola (all'estremo fine blu dello spettro) per il picco dominante raffigurato nella figura 7. L'angolo di deflezione è definito nella figura 8. Registrare tutte le misure intermedi. Fornire stime di errore.
+**e. (1,4 punti)** Con la luce bianca impostata come nella parte (d), misurare l'angolo di deflessione $\delta_0$ della luce viola (all'estremo fine blu dello spettro) per il picco dominante raffigurato nella figura 7. L'angolo di deflezione è definito nella figura 8. Registrare tutte le misure intermedi. Fornire stime di errore.
 
 > [figura] Figura 8  L'angolo di deflessione $\delta_0$
 > ![[APhO_2011_exp_Q2_p5_f8.png]]
 > L'incidente luminoso perpendicolare sul campione viene trasmesso e deviato da un angolo $\delta_0$ dalla direzione originale.
 
-**f. L'illuminazione del campione a diverse angolazioni di incidenza comporta angoli di deviazione diversi per i picchi trasmessi dominanti. Misurare l'angolo di deviazione minimo $\delta_{min}$ del picco dominante per la luce viola trasmessa (esiste un solo angolo minimo). Registrare tutte le misure intermedi. Fornire stime di errore.
+**f. L'illuminazione del campione a diverse angolazioni di incidenza comporta angoli di deviazione diversi per i picchi trasmessi dominanti. Misurare l'angolo di deviazione minimo $\delta_{min}$ del picco dominante per la luce viola trasmessa (esiste un solo angolo minimo). Registrare tutte le misure intermedi. Fornire stime di errore.**
 
-**g. (0,8 pts.) ** Utilizzando l'angolo $\varphi$ della parte (c), esprimere l'indice di rifrazione $n$ del campione in termini di $\delta_0$ o $\delta_{min}$. È possibile utilizzare la reversibilità della propagazione della luce e il fatto che esiste un solo angolo minimo $\delta_{min}$.
+**g. (0,8 pts.)** Utilizzando l'angolo $\varphi$ della parte (c), esprimere l'indice di rifrazione $n$ del campione in termini di $\delta_0$ o $\delta_{min}$. È possibile utilizzare la reversibilità della propagazione della luce e il fatto che esiste un solo angolo minimo $\delta_{min}$.
 
-**h. (0,7 pts.) ** Trova l'indice di rifrazione $n_v$ del campione per la luce viola e la sua stima di errore.
+**h. (0,7 pts.)** Trova l'indice di rifrazione $n_v$ del campione per la luce viola e la sua stima di errore.
 
 ### Parte III  Misurazioni laser (3,5 punti)
 
 Rimuovi la lanterna dal supporto della fonte luminosa e sostituiscilo con il laser. È possibile utilizzare lo schermo bianco per visualizzare sia i modelli di trasmissione che di riflessione, come illustrato nella Figura 9. Il laser ha una durata limitata della batteria  non tenerlo acceso più a lungo del necessario. Quando si allineano i componenti, può aiutare a ruotare il laser attorno al suo asse.
 
-** AVVERTORE: ** Non guardare direttamente il fascio laser o i suoi riflessi! Non guardare la luce laser attraverso il campione  utilizzare lo schermo fornito.
+**AVVERTORE:** Non guardare direttamente il fascio laser o i suoi riflessi! Non guardare la luce laser attraverso il campione  utilizzare lo schermo fornito.
 
 > [figura] Figura 9  Impostazioni di osservazione suggerite per la luce laser
 > ![[APhO_2011_exp_Q2_p6_f9.png]]
@@ -511,9 +511,9 @@ Osservate il modello alternativo di margini luminosi e deboli sullo schermo ment
 
 **i. (1 pt.)** Utilizzare una delle configurazioni riportate nella figura 9, con il campione illuminato perpendicolare dal fascio laser. Registrare gli angoli di deviazione $\theta$ dei margini osservati come funzione del numero di margine $m$. Definire il centro del modello come $m = 0$. Utilizzare la tabella fornita sul modulo di risposta. Registrare tutte le misure intermedi. Fornire stime di errore.
 
-**j. (1,5 punti) ** Usando un grafico lineare, trovare l'intervallo $d$ tra due "denti" adiacenti del campione. Le barre di errore sul grafico non sono necessarie. Fornire la stima di errore per $d$.
+**j. (1,5 punti)** Usando un grafico lineare, trovare l'intervallo $d$ tra due "denti" adiacenti del campione. Le barre di errore sul grafico non sono necessarie. Fornire la stima di errore per $d$.
 
-**k. (1 pt.)** Usando la formula derivata dalla parte (g), trovare l'indice di rifrazione $n_r$ del campione per la lunghezza d'onda rossa del laser. Registrare eventuali misure aggiuntive. Fornire stime di errore. ** AVVERTORE: ** Non guardare attraverso il campione! Utilizzare lo schermo fornito.
+**k. (1 pt.)** Usando la formula derivata dalla parte (g), trovare l'indice di rifrazione $n_r$ del campione per la lunghezza d'onda rossa del laser. Registrare eventuali misure aggiuntive. Fornire stime di errore. **AVVERTORE:** Non guardare attraverso il campione! Utilizzare lo schermo fornito.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1of7jcP2HZZDtYK_VjhNIG5oREaPHISMU/view)
 **Topic:** [[Wave Optics]], [[Geometric Optics]]

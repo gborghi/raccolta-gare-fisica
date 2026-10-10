@@ -551,9 +551,9 @@ Two statements marked as ASSERTION (A) and REASON (R) are given below. Choose th
 
 Le due dichiarazioni contrassegnate come ASSERTIONE (A) e RACCIO (R) sono riportate di seguito. Scegli la risposta corretta secondo i codici:
 
-**ASSERTIONE (A): ** Gli occhi di animali notturni, di grotte e di acque profonde hanno solo bastone nella retina.
+**ASSERTIONE (A):** Gli occhi di animali notturni, di grotte e di acque profonde hanno solo bastone nella retina.
 
-**RAGNIO (R): ** I bastoni forniscono una elevata sensibilità alla luce, ma con una relativamente bassa discriminazione spaziale e nessuna capacità di distinguere le diverse lunghezze d'onda della luce.
+**RAGNIO (R):** I bastoni forniscono una elevata sensibilità alla luce, ma con una relativamente bassa discriminazione spaziale e nessuna capacità di distinguere le diverse lunghezze d'onda della luce.
 
 - (a) Sia l'affermazione (A) che la ragione (R) sono vere e la ragione (R) è la corretta spiegazione dell'affermazione (A).
 - b) Sia l'affermazione (A) che la ragione (R) sono vere e la ragione (R) non è la spiegazione corretta dell'affermazione (A).

@@ -1410,7 +1410,7 @@ N
 ## Figurare
 
 <!--fig:start-->
-**p.9 **  disco CD a sua base inclinata (Figura 1)
+**p.9**  disco CD a sua base inclinata (Figura 1)
 <!--fig:end-->
 
 <!--fig:start-->

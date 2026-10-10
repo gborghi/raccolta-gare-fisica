@@ -715,7 +715,7 @@ Considerando che la geometria del ghiacciaio è in equilibrio, a quale punto tro
 
 Supponiamo per parte **[4]** il caso semplice che il terminale del ghiacciaio non raggiunga l'oceano.
 
-**[4] ** *3 punti* La temperatura media dell'atmosfera diminuisce con l'altezza. Supponiamo che $E$ coincida con un isotermo nell'atmosfera. Trovare un'espressione per la sensibilità del ghiacciaio a un cambiamento di temperatura, cioè $\frac{dL}{dT}$. Il gradiente di temperatura atmosferica è costante $\gamma$.
+**[4]** *3 punti* La temperatura media dell'atmosfera diminuisce con l'altezza. Supponiamo che $E$ coincida con un isotermo nell'atmosfera. Trovare un'espressione per la sensibilità del ghiacciaio a un cambiamento di temperatura, cioè $\frac{dL}{dT}$. Il gradiente di temperatura atmosferica è costante $\gamma$.
 
 Come cambia questa sensibilità quando le temperature scendono e il fronte del ghiacciaio raggiunge l'oceano? Mostra questo in modo qualitativo in uno sketch.
 

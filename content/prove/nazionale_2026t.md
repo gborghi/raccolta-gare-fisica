@@ -39,7 +39,7 @@ The following table shows the results of the study:
 
 In astrophysics, "baryonic mass" means that of "normal" matter, that is, anything that is neither dark matter nor dark energy.
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Nuclear & Particle Physics]], [[Astrophysics]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -228,7 +228,7 @@ The following shall be added to the list of the following:
 
 Two material points, one of which has a negligible mass relative to the other, move along the same elliptical orbit around a star, but in opposite directions. They collide elastically at the point of their orbit farthest from the star. Assume that, just before the impact, the kinetic energy of each of the two points is equal to $1\%$ of the gravitational potential energy module (whose arbitrary constant is chosen so that the potential energy is zero at a great distance from the star). After the impact, what is the ratio between the orbital period of the most massive material point and the orbital period of the least massive material point?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Gravitation]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kepler's Laws (metodo)|Kepler's Laws]]
@@ -302,7 +302,7 @@ The following table shows the results of the calculations:
 
 A thermal machine performs a quasi-static thermodynamic cycle which, in the plane $T$–$S$ (TemperatureEntropia), has the shape of an ellipse whose axes are parallel to the axes of the plane. What is the maximum yield of this heat engine?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
@@ -380,7 +380,7 @@ A racing car is designed so that the *deportance* (i.e. the component of the aer
 
 *Note: the size of the car is neglected in relation to the radius of the death cycle.*
 
-The unit of measurement: ** km/h. The following information is provided:
+The unit of measurement:  km/h. The following information is provided:
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]

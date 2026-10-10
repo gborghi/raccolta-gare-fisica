@@ -261,14 +261,14 @@ where $L$ is the thickness of the mica plate, $\lambda$ the wavelength of the in
 
 Design a way to use the available equipment to measure the $I_P$ and $I_O$ intensities of the transmitted wave, depending on the $\Omega$ angle of any of the optical axes (Figure 2.6). Present your project by showing the **ETICHETTE** of the different devices on the optical bench design. Use the conventional signs $(+)$ and $(-)$ to indicate the direction of polarization of the polarizers.
 
-- **Task 2.1 a) ** Experimental assembly for measuring $\hat{I}_P$ ****
-- **Task 2.1 b) ** Experimental assembly for measuring $\hat{I}_O$ **** 0.5 points.
+- **Task 2.1 a)** Experimental assembly for measuring $\hat{I}_P$ ****
+- **Task 2.1 b)** Experimental assembly for measuring $\hat{I}_O$ **** 0.5 points.
 
 **Lineating the laser beam.** Line the laser beam so that it is parallel to the table and hits the center of the cylinder containing mica. You can make the alignment using one of the white cards to intercept the beam of light and follow its path. Fine adjustments can be made by acting on the moving mirror.
 
 **Photodetector and multimeter.** The photodetector produces a linearly proportional voltage to the intensity of the light that hits it; it measures this voltage with the multimeter. When the laser light does not affect the photodetector, the intensity of the background light is measured (approximately $1\ \text{mV}$). Do not make adjustments to the background light when taking the intensity measurements.
 
-> ** ATTENTION: ** The laser light is partially polarized but it is not known in which direction. To obtain a polarized light that allows good intensity readings, place a polarizer with one of its axes, $(+)$ or $(-)$, in a fixed vertical direction and act to achieve maximum transmitted intensity in the absence of any other optical device.
+> **ATTENTION:** The laser light is partially polarized but it is not known in which direction. To obtain a polarized light that allows good intensity readings, place a polarizer with one of its axes, $(+)$ or $(-)$, in a fixed vertical direction and act to achieve maximum transmitted intensity in the absence of any other optical device.
 
 ---
 
@@ -308,8 +308,8 @@ Take $\hat{I}_P(\Omega)$ or $\hat{I}_O(\Omega)$ to develop a method that allows 
 
 **Compito 2.6** — *Analisi dei dati e differenza di fase*
 
-- Use Table II to write the values of the variables needed to develop the chosen method of determination. Make sure you use the correct values for the $\Omega$ angles and include uncertainties. Use the millimeter paper to chart the values of the selected variables **(1.0 point) **.
-- Develops a data analysis to obtain the measurement of the phase difference $\Delta\varphi$ and reports the results with uncertainties. Returns all the formulas used to analyze the data and performs the graphical analysis of the results **(1.75 points) **.
+- Use Table II to write the values of the variables needed to develop the chosen method of determination. Make sure you use the correct values for the $\Omega$ angles and include uncertainties. Use the millimeter paper to chart the values of the selected variables **(1.0 point)**.
+- Develops a data analysis to obtain the measurement of the phase difference $\Delta\varphi$ and reports the results with uncertainties. Returns all the formulas used to analyze the data and performs the graphical analysis of the results **(1.75 points)**.
 - Calculate the value of the $\Delta\varphi$ phase difference in radiants, including its uncertainty, in the $[0,\,\pi]$ **** range.
 
 **Compito 2.7** — *Calcolo della birifrangenza $|n_1 - n_2|$* **(1.0 punto)**
@@ -344,7 +344,7 @@ Report on the reply sheet the values of $L$ and $\lambda$ and the value of the b
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Figure 2.1 wave traveling along z
+**p.3**  Figure 2.1 wave traveling along z
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p3_f4.png]]
 <!--fig:end-->
 
@@ -354,7 +354,7 @@ Report on the reply sheet the values of $L$ and $\lambda$ and the value of the b
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Figure 2.3 Axis mica strip
+**p.4**  Figure 2.3 Axis mica strip
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p4_f6.png]]
 <!--fig:end-->
 

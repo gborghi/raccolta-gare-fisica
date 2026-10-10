@@ -79,13 +79,13 @@ $$m(\Phi) = m_0 - 2{,}5\,\log_{10}\!\left(\frac{\Phi}{\Phi_0}\right)$$
 
 where $m_0$ is the reference magnitude of a star whose luminous flux is $\Phi_0$; note that the more luminous an object is the less the magnitude, which can therefore also assume negative values; note also that the difference between the magnitudes of two objects is related to the inverse ratio of their luminous flows. Thus, while Vega ($\alpha$ Lyrae) has a magnitude of about 0, the brightest star after the Sun (Sirio, $\alpha$ Canis minoris) has a magnitude of $-1{,}45$, Venus can reach a magnitude of $-4{,}9$ and the Sun has a magnitude (integrated*) $-26{,}74$.
 
-**Question 3.**Calculate the integrated magnitude of the Moon always assuming that its surface is perfectly spherical and reflective, treating the virtual image of the Sun as a source that emits the same amount of light in each direction (i.e. isotropic).
+**Question 3.** Calculate the integrated magnitude of the Moon always assuming that its surface is perfectly spherical and reflective, treating the virtual image of the Sun as a source that emits the same amount of light in each direction (i.e. isotropic).
 
 In fact, the Moon's integrated magnitude is greater than the one above because light is partly absorbed. In the case of the Moon, it should also be noted that the surface does not diffuse sunlight evenly (isotropically) so that at full moon the surface appears about 6 times brighter than average. In astronomy, the fraction of incident light that is not absorbed by the surface is called the **albedo** of an opaque body (planet, satellite, asteroid…). If then the absorption in the visible is independent of the wavelength  as it happens for the Moon  a surface illuminated by the Sun appears white when its albedo is equal to one, light gray, medium, dark, at the decrease of the albedo, to black when the albedo is equal to zero.
 
-Question 4. ** In these assumptions, knowing that the integrated magnitude of the Moon at full moon is equal to $-12{,}7$, estimate its albedo and tell what color the lunar surface is.
+Question 4.  In these assumptions, knowing that the integrated magnitude of the Moon at full moon is equal to $-12{,}7$, estimate its albedo and tell what color the lunar surface is.
 
-**Data: ** distance EarthLune $D = 384\,000\ \text{km}$, equal to approximately $1/400$ of EarthSole distance; apparent angular diameter of the Sun and Moon as seen from Earth (they are approximately equal): $\theta \approx 0°32'$.
+**Data:** distance EarthLune $D = 384\,000\ \text{km}$, equal to approximately $1/400$ of EarthSole distance; apparent angular diameter of the Sun and Moon as seen from Earth (they are approximately equal): $\theta \approx 0°32'$.
 
 (*) For extended sources the integrated magnitude is that which would have a point source that emits the same amount of light.
 
@@ -175,14 +175,14 @@ An observer  making sure he is not at risk (*)  wants to examine the propagation
 
 Question 4. Tell what the observer sees in each of the three cases.
 
-Question 5.** In the same three cases, tell whether  while always keeping the pupil of the eye at the exact centre of the beams  some variation in color is observed depending on whether the pupil is adapted to low light (diameter about $6\ \text{mm}$) or to much light (diameter about $2\ \text{mm}$). The answers are justified in individual cases.
+Question 5. In the same three cases, tell whether  while always keeping the pupil of the eye at the exact centre of the beams  some variation in color is observed depending on whether the pupil is adapted to low light (diameter about $6\ \text{mm}$) or to much light (diameter about $2\ \text{mm}$). The answers are justified in individual cases.
 
 **Number data:** for the speed of light in vacuum use the most accurate value: $c = 2{,}997 \times 10^8\ \text{m s}^{-1}$.
 
 Attention: Never look at the laser beam in this way, or the flash of a light!
 
 <!--fig:start-->
-**p.2 **  Refraction of coloured beams in the sheet of glass
+**p.2**  Refraction of coloured beams in the sheet of glass
 ![[_attachments/Teo09sol/Teo09sol_p2_f1.png]]
 <!--fig:end-->
 
@@ -243,7 +243,7 @@ L'esperimento viene ripetuto eliminando la forza esterna ed inclinando il tavolo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The ball flight **  75 points
+The ball flight   75 points
 
 On a horizontal plane, a cart moves with negligible right-hand friction under the action of a constant horizontal force $\vec{F}$ of unknown shape. On the cart is a vertical axle mounted on which an electrocalamite holds a steel ball. The mass of the wheels is negligible. The electrocamite can be remotely operated with a remote control and thus the ball can be dropped at will.
 
@@ -266,12 +266,12 @@ The experiment is repeated by eliminating the external force and tilting the tab
 **Question 4.** Determine the cart speed immediately after impact with the ball, assuming that the impact is still $5\ \text{ms}$.
 
 <!--fig:start-->
-**p.3 **  Tire with axle and ball, applied forces
+**p.3**  Tire with axle and ball, applied forces
 ![[_attachments/Teo09sol/Teo09sol_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Curved floor tiles, weight components
+**p.4**  Curved floor tiles, weight components
 ![[_attachments/Teo09sol/Teo09sol_p4_f3.png]]
 <!--fig:end-->
 
@@ -330,7 +330,7 @@ $$U_0 = \frac{27\,e^2}{20\,\varepsilon_0\, R}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The value of the Lithium atom at Thomson **  100 points
+The value of the Lithium atom at Thomson   100 points
 
 Studies on the structure of matter in the late 19th century showed that an atom contains a certain number of electrons $Z$ equal to about half its atomic weight $A$. Furthermore, as an atom is electrically neutral, it must contain positive charges equal to negative charges. From the typical density values of solids, from the atomic weight and knowing Avogadro's number, the size of the atomic radius could be estimated.
 

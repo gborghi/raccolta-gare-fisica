@@ -44,21 +44,21 @@ Fibers made of elastic rubber can be stretched to lengths $l$, much longer than 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fibra di gomma (12 pts) **
+**Fibra di gomma (12 pts)**
 
 Le fibre in gomma elastica possono essere estese fino a lunghezze $l$, molto più lunghe della lunghezza in stato non deformato $l_0$. Per tali gommi, il volume netto della fibra rimane costante.
 
-**1) ** Esprimere l'area trasversale $S$ di una tale fibra in stato deformato attraverso la sua lunghezza $l$ e le sue dimensioni iniziali $l_0$, $S_0$ (1 pt).
+**1)** Esprimere l'area trasversale $S$ di una tale fibra in stato deformato attraverso la sua lunghezza $l$ e le sue dimensioni iniziali $l_0$, $S_0$ (1 pt).
 
-**2) ** Per piccole deformazioni di un materiale elastico, la forza di estensione $F$ e la deformazione $x$ sono correlate tra loro per legge di Hooke $F = k_0 x$, dove la rigidità $k_0 = E_0 S_0 / l_0$ e $E_0$ è il modulo di Young della gomma. Per le deformazioni non piccole (possibilmente grandi, $l \gg l_0$) della gomma elastica, tuttavia, la legge di Hooke viene sostituita da una legge non lineare, $F(l) = a + \dfrac{b}{l}$ (la violazione di questa legge a valori molto grandi di $l$ non verrà esaminata qui). Esprimere le costanti $a$ e $b$ in termini di $l_0$, $S_0$ e $E_0$ (2 pt).
+**2)** Per piccole deformazioni di un materiale elastico, la forza di estensione $F$ e la deformazione $x$ sono correlate tra loro per legge di Hooke $F = k_0 x$, dove la rigidità $k_0 = E_0 S_0 / l_0$ e $E_0$ è il modulo di Young della gomma. Per le deformazioni non piccole (possibilmente grandi, $l \gg l_0$) della gomma elastica, tuttavia, la legge di Hooke viene sostituita da una legge non lineare, $F(l) = a + \dfrac{b}{l}$ (la violazione di questa legge a valori molto grandi di $l$ non verrà esaminata qui). Esprimere le costanti $a$ e $b$ in termini di $l_0$, $S_0$ e $E_0$ (2 pt).
 
-**3) ** Supponiamo che una tale fibra sia estesa da una certa forza fino alla lunghezza $l$. Un piccolo cambiamento $\Delta F$ della forza di estensione comporta un piccolo cambiamento della lunghezza $\Delta l \ll l$. Esprimere $\Delta F$ in termini di $l$, $l_0$, $S_0$, $E_0$ e $\Delta l$ (1 pt).
+**3)** Supponiamo che una tale fibra sia estesa da una certa forza fino alla lunghezza $l$. Un piccolo cambiamento $\Delta F$ della forza di estensione comporta un piccolo cambiamento della lunghezza $\Delta l \ll l$. Esprimere $\Delta F$ in termini di $l$, $l_0$, $S_0$, $E_0$ e $\Delta l$ (1 pt).
 
-**4) ** Supponiamo che un piccolo corpo sia fissato ad una estremità della fibra e il sistema sia messo in rotazione attorno all'altra estremità della fibra. In caso di movimento circolare del corpo, esprimere la lunghezza della fibra $l$ tramite $l_0$, $S_0$, $E_0$ e l'energia cinetica del corpo $K$ (la energia cinetica della fibra e della gravità possono essere trascurate). 1, 5 punti)
+**4)** Supponiamo che un piccolo corpo sia fissato ad una estremità della fibra e il sistema sia messo in rotazione attorno all'altra estremità della fibra. In caso di movimento circolare del corpo, esprimere la lunghezza della fibra $l$ tramite $l_0$, $S_0$, $E_0$ e l'energia cinetica del corpo $K$ (la energia cinetica della fibra e della gravità possono essere trascurate). 1, 5 punti)
 
-**5) ** Analizziamo un movimento leggermente non circolare del corpo. Descriviamo il movimento del sistema con il cambiamento di lunghezza della fibra $r(t) = l(t) - l(0)$, la velocità radial $v_r(t)$ e tangenziale $v_t(t)$ del corpo (le componenti rispettivamente parallele e perpendicolari alla fibra). I valori iniziali di tali quantità sono designati come $L \equiv l(0)$, $V_r \equiv v_r(0)$ e $V_t \equiv v_t(0)$. I valori $L$ e $V_t$ sono scelti in modo che se la velocità radial iniziale fosse zero, il movimento sia circolare. Write down two independent equations relating $r(t)$, $v_r(t)$, and $v_t(t)$ to each other (using also the mass of the body $m$, together with the parameters $L$, $V_r$, $V_t$, $l_0$, $S_0$, $E_0$). 3,5 punti).
+**5)** Analizziamo un movimento leggermente non circolare del corpo. Descriviamo il movimento del sistema con il cambiamento di lunghezza della fibra $r(t) = l(t) - l(0)$, la velocità radial $v_r(t)$ e tangenziale $v_t(t)$ del corpo (le componenti rispettivamente parallele e perpendicolari alla fibra). I valori iniziali di tali quantità sono designati come $L \equiv l(0)$, $V_r \equiv v_r(0)$ e $V_t \equiv v_t(0)$. I valori $L$ e $V_t$ sono scelti in modo che se la velocità radial iniziale fosse zero, il movimento sia circolare. Write down two independent equations relating $r(t)$, $v_r(t)$, and $v_t(t)$ to each other (using also the mass of the body $m$, together with the parameters $L$, $V_r$, $V_t$, $l_0$, $S_0$, $E_0$). 3,5 punti).
 
-**6) ** Trovare la relazione tra $r(t)$ e $v_r(t)$ (contiene anche i parametri $m$, $L$, $V_r$, $V_t$, $l_0$, $S_0$, $E_0$) supponendo che $|r| \ll L$, e trovare il periodo $T$ di piccole oscillazioni di $r(t)$. Semplificare l'espressione di $T$ per $L \gg l_0$ (3 punti).
+**6)** Trovare la relazione tra $r(t)$ e $v_r(t)$ (contiene anche i parametri $m$, $L$, $V_r$, $V_t$, $l_0$, $S_0$, $E_0$) supponendo che $|r| \ll L$, e trovare il periodo $T$ di piccole oscillazioni di $r(t)$. Semplificare l'espressione di $T$ per $L \gg l_0$ (3 punti).
 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
@@ -98,15 +98,15 @@ Two planets move along circular orbits around a star of mass $M = 2.0 \times 10^
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Planeti (6 pts) **
+**Planeti (6 pts)**
 
 Due pianeti si muovono in orbite circolari intorno a una stella di massa $M = 2.0 \times 10^{30}$ kg; costante gravitazionale $G = 6.67 \times 10^{-11}$ m$^3$/(kg$\cdot$s$^2$). La dipendenza della distanza angolare tra un pianeta e la stella dal tempo, vista dall'altro pianeta, è raffigurata nella figura.
 
 Qual è il rapporto tra i raggi dei pianeti $k$ (2 punti)?
 
-**2) ** Determina il valore dell'unità sull'asse verticale (o esprima in termini di $k$, se non è stato possibile trovarla) (2 punti).
+**2)** Determina il valore dell'unità sull'asse verticale (o esprima in termini di $k$, se non è stato possibile trovarla) (2 punti).
 
-**3) ** Quali sono i raggi orbitali dei pianeti, se l'unità sull'asse orizzontale è uguale a un anno (2 punti)?
+**3)** Quali sono i raggi orbitali dei pianeti, se l'unità sull'asse orizzontale è uguale a un anno (2 punti)?
 
 <!--fig:start-->
 ![[_attachments/E_S2/E_S2_p1_f1.png]]
@@ -153,11 +153,11 @@ Qual è il rapporto tra i raggi dei pianeti $k$ (2 punti)?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lenza a spostamento di inclinazione (6 punti) **
+**Lenza a spostamento di inclinazione (6 punti)**
 
-**1) ** Mostra che un'immagine di una linea retta creata da una lente sottile è anche una linea retta. Considera solo la geometria bidimensionale, cioè presumere che l'asse ottico principale e la linea retta si trovino nella stessa superficie $(x, y)$. Suggerimento: utilizzare il sistema di coordinate, dove l'origine coincide con il centro della lente e rappresentare linee in modo algebrico, ad esempio. $y = ax + b$. Utilizzare la formula di lente sottile $f^{-1} = x^{-1} - x'^{-1}$ ($x > 0$ e $x'$ sono rispettivamente le coordinate $x$ di un punto e della sua immagine) (2 pts).
+**1)** Mostra che un'immagine di una linea retta creata da una lente sottile è anche una linea retta. Considera solo la geometria bidimensionale, cioè presumere che l'asse ottico principale e la linea retta si trovino nella stessa superficie $(x, y)$. Suggerimento: utilizzare il sistema di coordinate, dove l'origine coincide con il centro della lente e rappresentare linee in modo algebrico, ad esempio. $y = ax + b$. Utilizzare la formula di lente sottile $f^{-1} = x^{-1} - x'^{-1}$ ($x > 0$ e $x'$ sono rispettivamente le coordinate $x$ di un punto e della sua immagine) (2 pts).
 
-**2) ** Nella figura (a) disegna l'immagine della linea data e indica quali parti dell'immagine sono virtuali e quali reali (2 punti).
+**2)** Nella figura (a) disegna l'immagine della linea data e indica quali parti dell'immagine sono virtuali e quali reali (2 punti).
 
 Il fotografo vuole scattare una foto di un campo di fiori. Per ottenere un'immagine in cui tutti i fiori (sia quelli vicini che quelli lontani) sono taglienti, deve usare un obiettivo con capacità di spostamento di tilt (TS) (o una normale fotocamera con obiettivo TS, o una fotocamera a grande formato, in cui l'intero compartimento dell'obiettivo può essere posizionato liberamente). Il campo dei fiori (che si estende efficacemente all'infinito) e l'immagine del suo bordo lontano, insieme al piano dell'immagine sono raffigurati nella figura (b). Ricostruire la posizione della lente, la cui lunghezza focale è fornita in forma di scala (2 punti).
 
@@ -202,7 +202,7 @@ A thick glass plate is coated by a thin transparent film. The transmission spect
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Filma trasparente (6 pts) **
+**Filma trasparente (6 pts)**
 
 Una piastra di vetro spessa è rivestita da un sottile film trasparente. Lo spettro di trasmissione del sistema è raffigurato in grafico (la luce cade normalmente sulla targa). L'indice di rifrazione del film $n \approx 1.3$. Qual è lo spessore del film $d$?
 
@@ -249,13 +249,13 @@ Una piastra di vetro spessa è rivestita da un sottile film trasparente. Lo spet
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Elisse di quarto ordine (6 punti) **
+**Elisse di quarto ordine (6 punti)**
 
 L'ellisse di quarto ordine è definita con l'equazione $\dfrac{x^4}{a^4} + \dfrac{y^4}{b^4} = 1$, dove $a$ e $b$ sono le lunghezze degli asse a metà. Considera un cilindro omogeneo, la cui sezione trasversale è un'ellisse di quarto ordine. La posizione del cilindro è misurata dall'angolo $0 \leq \varphi \leq \pi/2$ tra la direzione verticale e un semia-asse più lungo, vedi figura.
 
-**1) ** Quali sono le posizioni di equilibrio del cilindro che si trova su una superficie orizzontale (3,5 punti)?
+**1)** Quali sono le posizioni di equilibrio del cilindro che si trova su una superficie orizzontale (3,5 punti)?
 
-**2) ** Sketta sul grafico la coppia netta delle forze di reazione gravitazionale e superficiale rispetto al punto di contatto del cilindro e della superficie in funzione di $\varphi$ ($0 \leq \varphi \leq \pi/2$). Per l'asse della coppia non è necessario indicare alcuna scala quantitativa (1,3 pts).
+**2)** Sketta sul grafico la coppia netta delle forze di reazione gravitazionale e superficiale rispetto al punto di contatto del cilindro e della superficie in funzione di $\varphi$ ($0 \leq \varphi \leq \pi/2$). Per l'asse della coppia non è necessario indicare alcuna scala quantitativa (1,3 pts).
 
 Quali posizioni di equilibrio sono stabili e quali non? Motiva la tua risposta (1.2 pag.
 
@@ -310,13 +310,13 @@ Magnete (setti punti)
 
 Alcuni tipi di giocattoli magnetici sono costituiti da sfere ferromagnetiche e magneti permanenti di forma cilindrica. Questi blocchi possono essere utilizzati per costruire, ad esempio, un tetraedro, vedi figura (la lettera "N" segna l'estremità settentrionale di un magnete). Supponiamo che tutti questi magneti permanenti siano identici e ognuno di essi da solo possa creare un flusso magnetico $\Phi$ (supponendo che entrambe le estremità del magnete siano in contatto con un grande pezzo di materiale ferromagnetico a forma di U, in modo che si formi un contorno ferromagnetico chiuso). Supponiamo inoltre che, a causa dell'elevata permeabilità magnetica del materiale dei blocchi di costruzione, tutte le linee di campo magnetico siano limitate all'interno di essi (cioè nel mezzo circostante, l'inductanza magnetica $B = 0$).
 
-**1) ** Indichiamo i flussi in ogni magnete permanente (magnete $A$–$F$ nella figura) con $\Phi_A$–$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
+**1)** Indichiamo i flussi in ogni magnete permanente (magnete $A$–$F$ nella figura) con $\Phi_A$–$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
 
-**2) ** Scrivi l'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_F$ tra loro (e eventualmente a $\Phi$) (1 pt).
+**2)** Scrivi l'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_F$ tra loro (e eventualmente a $\Phi$) (1 pt).
 
-**3) ** Trova il rapporto $\Phi_F / \Phi_C$ (1 pt).
+**3)** Trova il rapporto $\Phi_F / \Phi_C$ (1 pt).
 
-**4) ** Trova i flussi magnetici in ogni magnete permanente (2 punti).
+**4)** Trova i flussi magnetici in ogni magnete permanente (2 punti).
 
 Qual è il magnete più difficile da togliere? Motiva la tua risposta (1 Pt).
 
@@ -367,19 +367,19 @@ Consider a passive cooling system depicted in figure. Cold air (at normal condit
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Rifrigio passivo (9 pts) **
+**Rifrigio passivo (9 pts)**
 
 Considerate un sistema di raffreddamento passivo raffigurato nella figura. L'aria fredda (a condizioni normali: $p_0 = 10^5$ Pa, $T_0 = 293$ K) scorre attraverso il disipadore termico di un chip di dissipazione di potenza $P = 100$ W, in un tubo verticale di lunghezza $L = 1$ m e superficie trasversale $S = 25$ cm$^2$. Dopo aver attraversato il tubo, l'aria entra nella stanza ambientale. Supponiamo che l'aria all'interno del tubo si mescolhi bene; trascurate l'attrito viscoso e turbolento dell'aria all'interno del tubo e del risanamento termico. L'aria può essere considerata un gas ideale con esponente adiabatico $\gamma = 1.4$ e massa molare $\mu = 29$ g/mol.
 
-**1) ** Capacità termico espressa a pressione costante $c_p$ attraverso quantità $\gamma$ e $R$ (1 pt).
+**1)** Capacità termico espressa a pressione costante $c_p$ attraverso quantità $\gamma$ e $R$ (1 pt).
 
-**2) ** Trovare una relazione tra la densità di aria uscente $\rho$ e la temperatura $T$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
+**2)** Trovare una relazione tra la densità di aria uscente $\rho$ e la temperatura $T$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
 
-**3) ** Trovare una relazione tra la velocità di flusso d'aria nel tubo $v$ e la densità di uscita d'aria $\rho$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
+**3)** Trovare una relazione tra la velocità di flusso d'aria nel tubo $v$ e la densità di uscita d'aria $\rho$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
 
-**4) ** Esprimere la dissipazione di potenza $P$ in termini di velocità di flusso d'aria $v$, temperatura di uscita dell'aria $T$ e densità $\rho$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
+**4)** Esprimere la dissipazione di potenza $P$ in termini di velocità di flusso d'aria $v$, temperatura di uscita dell'aria $T$ e densità $\rho$ (la relazione può contenere anche i parametri definiti sopra) (2 punti).
 
-**5) ** Qual è la temperatura $T$ dell'aria in uscita? Per i calcoli, è possibile utilizzare l' approssimativa $T - T_0 \ll T_0$ (2 punti).
+**5)** Qual è la temperatura $T$ dell'aria in uscita? Per i calcoli, è possibile utilizzare l' approssimativa $T - T_0 \ll T_0$ (2 punti).
 
 <!--fig:start-->
 ![[_attachments/E_S2/E_S2_p2_f7.png]]
@@ -479,15 +479,15 @@ Consider a rectangular loop of wire with dimensions $a = 0.03$ m and $b = 1.0$ m
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Luppo di filo (7 pts) **
+**Luppo di filo (7 pts)**
 
 Si consideri un circuito rettangolare di filo con dimensioni $a = 0.03$ m e $b = 1.0$ m, il cui lato è parallelo ad un altro filo lungo e retto con corrente $I_0 = 1000$ A, a distanza $l = 0.01$ m, vedi figura. L'induttanza magnetica di tale corrente è tracciata in funzione della distanza dal filo nel grafico allegato. La resistenza ohmica del ciclo è $R = 1.0\ \Omega$, l'induttanza è trascurabile.
 
-**1) ** Calcolare il flusso magnetico $\Phi$ attraverso il ciclo (2 punti).
+**1)** Calcolare il flusso magnetico $\Phi$ attraverso il ciclo (2 punti).
 
-**2) ** In un certo momento, la corrente nel cavo lungo viene spenta. Qual è la carica netta $Q$ che scorre attraverso una sezione trasversale fissa del filo del ciclo (3 pts)?
+**2)** In un certo momento, la corrente nel cavo lungo viene spenta. Qual è la carica netta $Q$ che scorre attraverso una sezione trasversale fissa del filo del ciclo (3 pts)?
 
-**3) ** Qual è il momento netto $p$ dato al ciclo durante l'interruzione della corrente (esprimete in termini di $Q$ e delle quantità indicate, se non siete stati in grado di calcolare $Q$) (2 punti)?
+**3)** Qual è il momento netto $p$ dato al ciclo durante l'interruzione della corrente (esprimete in termini di $Q$ e delle quantità indicate, se non siete stati in grado di calcolare $Q$) (2 punti)?
 
 <!--fig:start-->
 
@@ -578,7 +578,7 @@ Experimental equipment: batteries, wires, multimeter, stopwatch, graphic paper.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Esperimento (15 pts) **
+**Esperimento (15 pts)**
 
 La scatola nera contiene un elemento non lineare (resistenza attiva) e un condensatore, collegati sequenzialmente. Trova la capacità $C$ del condensatore (5 pts) e la caratteristica $V$–$I$ dell'elemento non lineare (6 pts). Si noti che (a) il condensatore elettrolitico accetta solo una sola polarità di carica (indicata dai colori dei fili di uscita della scatola nera); (b) non si può aspettare che la caratteristica $V$–$I$ sia simmetrica rispetto a $I = 0$. Tuttavia, è richiesto di studiare l'intervallo $I > 0$ corrispondente alla scarica del condensatore. Tabellare i dati di misura e disegnare i grafici appropriati (4 punti).
 

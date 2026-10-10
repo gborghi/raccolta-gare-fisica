@@ -382,7 +382,7 @@ Determinare il volume di un corpo irregolare. Dispone di: un contenitore graduat
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1. The following is the list of the samples taken:
+**1. The following is the list of the samples taken:**
 
 1. San Juan (experimental)
 
@@ -437,7 +437,7 @@ Calcolare l'intensità e la direzione delle forze che agiscono sul muro nei punt
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2. Santa Rosa, La Pampa - Forces on the wall
+**2. Santa Rosa, La Pampa - Forces on the wall**
 
 2. Santa Rosa, the Pampa.
 
@@ -573,7 +573,7 @@ n) Los CV; HP; Kwh y watt empleados. (figura)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**4. General Galarza, Entre Rios - Sfera e Cubo
+**4. General Galarza, Entre Rios - Sfera e Cubo**
 
 4. General Galarza, Tra i Rios.
 
@@ -609,7 +609,7 @@ n) CV; HP; Kwh e watt impiegati. (Figura)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**4. General Galarza, Between Rios - Sphere and Cube
+**4. General Galarza, Between Rios - Sphere and Cube**
 
 4. General Galarza, between rivers.
 
@@ -1133,7 +1133,7 @@ d) Realizzare i diagrammi (a-t) (accelerazione in funzione del tempo), (v-t) (ve
 
 <div class="qlang-split" data-lang="en"></div>
 
-**12. Mendoza - Hours of work
+**12. Mendoza - Hours of work**
 
 12. Mendoza, please.
 
@@ -1540,7 +1540,7 @@ Determinare la relazione esistente tra posizione, velocità e accelerazione nel 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**19. The amount of the capital charge shall be calculated on the basis of the following data:
+**19. The amount of the capital charge shall be calculated on the basis of the following data:**
 
 19. Federal capital (experimental).
 
@@ -1580,7 +1580,7 @@ Puede utilizar la aproximacion $g = 10\ m/s^2$ para simplificar los calculos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**20. Santa Rosa, La Pampa - Cochetta
+**20. Santa Rosa, La Pampa - Cochetta**
 
 20. Santa Rosa, La Pampa.
 
@@ -1726,7 +1726,7 @@ Scala: 1 cm = 5 secondi; 1 cm = 20 m/sec
 
 <div class="qlang-split" data-lang="en"></div>
 
-**22. General Galarza, Between Rios - Time and space chart
+**22. General Galarza, Between Rios - Time and space chart**
 
 22. General Galarza, between Rios.
 
@@ -1790,7 +1790,7 @@ Un mortero di trincea lancia un proiettile con angolo $53^\circ$ sopra l'orizzon
 
 <div class="qlang-split" data-lang="en"></div>
 
-**23. Neuken - Mortar and tank
+**23. Neuken - Mortar and tank**
 
 23. - I'm not going to.
 
@@ -1843,7 +1843,7 @@ b) Indicare chiaramente che ipotesi e semplificazioni ha preso in considerazione
 
 <div class="qlang-split" data-lang="en"></div>
 
-**24. Rosario, Santa Fe - Metal wire threads
+**24. Rosario, Santa Fe - Metal wire threads**
 
 24. Rosario, Santa Fe.
 
@@ -1949,7 +1949,7 @@ Un blocco di $50\ \vec{kg}$ viene spinto a una distanza di 6 m. per la superfici
 
 <div class="qlang-split" data-lang="en"></div>
 
-**26. Cordoba, Capital - Block on a sloping plane
+**26. Cordoba, Capital - Block on a sloping plane**
 
 26. Cordoba, the capital.
 
@@ -2008,7 +2008,7 @@ Scrivi circa una pagina che risponde a queste domande.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**27. The following conditions shall apply:
+**27. The following conditions shall apply:**
 
 27. Santa Rosa, the Pampa.
 
@@ -2184,7 +2184,7 @@ f) tutto il lavoro svolto sul scheletro si trasforma in energia cinetica? Spiega
 
 <div class="qlang-split" data-lang="en"></div>
 
-**30. Neuken - Nino is drawing a slide
+**30. Neuken - Nino is drawing a slide**
 
 30. - I'm not going to.
 
@@ -2239,7 +2239,7 @@ Alla base di un piano inclinato a 60 gradi c'è una sorgente di $K = 4000$(N/m) 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**31. The following is the list of the regions in which the airport is located:
+**31. The following is the list of the regions in which the airport is located:**
 
 31. San Nicolas, from Buenos Aires.
 
@@ -2352,7 +2352,7 @@ Datos: $v = 1$ (m/s); $h = (1.8$ m); $H = (3.8$ M).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**33. San Nicolas, Buenos Aires - Ombra di uomo
+**33. San Nicolas, Buenos Aires - Ombra di uomo**
 
 33. San Nicolas, Buenos Aires.
 
@@ -2782,7 +2782,7 @@ b) Per che la velocità di passaggio del punto B sia di 10 m/s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**40. The amount of the capital injection shall be calculated as follows:
+**40. The amount of the capital injection shall be calculated as follows:**
 
 40. Federal capital.
 
@@ -2903,7 +2903,7 @@ A che ora dopo le 4 corrispondono le posizioni delle aghe orarie e delle aghe mi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**42. Cinco Saltos, Rio Negro - Clock needles
+**42. Cinco Saltos, Rio Negro - Clock needles**
 
 42. Cinco Saltos, the black river.
 
@@ -2962,7 +2962,7 @@ Una scarafaggio di massa $m = 2$ g corre in senso antiorario intorno al bordo di
 
 <div class="qlang-split" data-lang="en"></div>
 
-**43. The amount of the loan is EUR 10 million.
+**43. The amount of the loan is EUR 10 million.**
 
 43. Federal capital.
 
@@ -3123,7 +3123,7 @@ Un disco di massa $m = 1$ kgr si trova su una tavola orizzontale; al centro di e
 
 <div class="qlang-split" data-lang="en"></div>
 
-**46. The amount of the capital injection shall be the sum of the amounts of the capital injection.
+**46. The amount of the capital injection shall be the sum of the amounts of the capital injection.**
 
 46. Federal capital.
 
@@ -3174,7 +3174,7 @@ Determinare la forza centripeta, la velocità angolare e la velocità tangenzial
 
 <div class="qlang-split" data-lang="en"></div>
 
-**47. Comodoro Rivadavia - Corps in Ecuador
+**47. Comodoro Rivadavia - Corps in Ecuador**
 
 47. Commodore Rivadavia, please.
 
@@ -3234,7 +3234,7 @@ osservando i grafici di velocità e posizione in funzione del tempo, indicare a 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**48. Mar del Plata, Buenos Aires - Charts of speed and position
+**48. Mar del Plata, Buenos Aires - Charts of speed and position**
 
 48. The city of Mar del Plata, Buenos Aires.
 
@@ -3279,7 +3279,7 @@ Un bloque de masa 200 g descansa sobre otro de masa 800 g. El conjunto es arrast
 
 <div class="qlang-split" data-lang="it"></div>
 
-**49. Lomas de Zamora, Buenos Aires - Due blocchi trascinati
+**49. Lomas de Zamora, Buenos Aires - Due blocchi trascinati**
 
 49. Lomas di Zamora, Buenos Aires.
 
@@ -3298,7 +3298,7 @@ Un blocco di massa di 200 g si posa su un altro di massa di 800 g. L'insieme è 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**49. Lomas de Zamora, Buenos Aires - Two blocks dragged in
+**49. Lomas de Zamora, Buenos Aires - Two blocks dragged in**
 
 49. Lomas from Zamora, Buenos Aires.
 
@@ -3362,7 +3362,7 @@ Una palla da biliardo riceve un colpo con un pugno come mostrato nella figura 2.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**50. The amount of the capital injection is EUR 10 million.
+**50. The amount of the capital injection is EUR 10 million.**
 
 50. Federal capital.
 
@@ -3483,7 +3483,7 @@ c) La forza normale esercitata dal binario sul carrello.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**52. The following conditions shall apply:
+**52. The following conditions shall apply:**
 
 52. Jump in.
 
@@ -3600,7 +3600,7 @@ e. Periodo di movimento
 
 <div class="qlang-split" data-lang="en"></div>
 
-**54. The amount of the capital injection is EUR 10 million.
+**54. The amount of the capital injection is EUR 10 million.**
 
 54. Federal capital.
 
@@ -3666,7 +3666,7 @@ All'interno di un contenitore chiuso con acqua si possono rilasciare piccole bol
 
 <div class="qlang-split" data-lang="en"></div>
 
-**55. Mar del Plata, Buenos Aires - Bubbles in containers
+**55. Mar del Plata, Buenos Aires - Bubbles in containers**
 
 55. The city of Mar del Plata, Buenos Aires.
 
@@ -3735,7 +3735,7 @@ Un serbatoio è pieno di acqua fino a un'altezza "H". Ha un orificio in una dell
 
 <div class="qlang-split" data-lang="en"></div>
 
-**56. Federal capital - Tank with hole (Torricelli)
+**56. Federal capital - Tank with hole (Torricelli)**
 
 56. Federal capital.
 
@@ -3864,7 +3864,7 @@ Un blocco di legno galleggia nell'acqua con il 66% del suo volume immerso e in o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**58. Mercedes, Buenos Aires - Floating wood block
+**58. Mercedes, Buenos Aires - Floating wood block**
 
 58. Mercedes, from Buenos Aires.
 
@@ -3967,7 +3967,7 @@ La risposta precedente dipende dalla forma del cubo? Fondamentalmente la sua ris
 
 <div class="qlang-split" data-lang="en"></div>
 
-**60. Cinco Saltos, Rio Negro - Cube floating in mercury
+**60. Cinco Saltos, Rio Negro - Cube floating in mercury**
 
 60. Cinco Saltos, the black river.
 
@@ -4045,7 +4045,7 @@ h) Peso del corpo A
 
 <div class="qlang-split" data-lang="en"></div>
 
-**61. The amount of the loan is EUR 10 million.
+**61. The amount of the loan is EUR 10 million.**
 
 61. Federal capital.
 
@@ -4118,7 +4118,7 @@ Per il misuratore di figa. il coefficiente tra le aree $S_1$ e $S_2$ è 10 e la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**62. Jump - Piezometer (Venturi) **
+**62. Jump - Piezometer (Venturi)**
 
 62. Jump in.
 
@@ -4334,7 +4334,7 @@ Considerare nullo il calore specifico del gas e il recipiente esterno perfettame
 
 <div class="qlang-split" data-lang="en"></div>
 
-**66. Rio Segundo, Cordoba - Gas-filled metal cube
+**66. Rio Segundo, Cordoba - Gas-filled metal cube**
 
 66. Rio Segundo, Cordoba. It's the first one.
 
@@ -4397,7 +4397,7 @@ d) Calore ceduto al sistema
 
 <div class="qlang-split" data-lang="en"></div>
 
-**67. The following table shows the results of the studies:
+**67. The following table shows the results of the studies:**
 
 67. Mendoza, please.
 
@@ -4547,7 +4547,7 @@ Quanti grammi di massa dovrebbe avere il corpo per avere la temperatura finale d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**70. The amount of the aid is calculated as follows:
+**70. The amount of the aid is calculated as follows:**
 
 70. Federal capital.
 
@@ -5038,7 +5038,7 @@ Conviene reemplazar una maquina termica de rendimiento 50% por otra que funciona
 
 <div class="qlang-split" data-lang="en"></div>
 
-**78. The following table shows the results of the calculations:
+**78. The following table shows the results of the calculations:**
 
 78. Ibarreta, the formosa.
 
@@ -5101,7 +5101,7 @@ b) il interruttore è chiuso
 
 <div class="qlang-split" data-lang="en"></div>
 
-**79. Lomas de Zamora, Buenos Aires - Circuit with ampere and voltmeter
+**79. Lomas de Zamora, Buenos Aires - Circuit with ampere and voltmeter**
 
 79. Lomas from Zamora, Buenos Aires.
 
@@ -5157,7 +5157,7 @@ Le cime di un triangolo equile di 60 cm laterale si trovano uguali carichi elett
 
 <div class="qlang-split" data-lang="en"></div>
 
-**80. Mar del Plata, Buenos Aires - Loads in an equilateral triangle
+**80. Mar del Plata, Buenos Aires - Loads in an equilateral triangle**
 
 80. The city of Mar del Plata, Buenos Aires.
 
@@ -5216,7 +5216,7 @@ Nel schema della figura, stabilire valori delle correnti che circolano per ogni 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**81. Navarro, Buenos Aires - Current for each resistance
+**81. Navarro, Buenos Aires - Current for each resistance**
 
 81. I'm from Navarro, Buenos Aires.
 
@@ -5505,7 +5505,7 @@ La differenza di potenziale tra due punti di un campo elettrico separati l'uno d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**86. The following is the list of the relevant technical specifications for the type of equipment:
+**86. The following is the list of the relevant technical specifications for the type of equipment:**
 
 86. Goya, currents.
 
@@ -5609,7 +5609,7 @@ Supponiamo un circuito costituito da una pila la cui forza elettromotrice (FEM) 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**88. General Galarza, Between Rios - Wire resistance
+**88. General Galarza, Between Rios - Wire resistance**
 
 88. General Galarza, between rivers.
 
@@ -5762,7 +5762,7 @@ Una resistenza R variabile è collegata attraverso una differenza di potenziale 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**91. The amount of the loan shall be reported in the following table:
+**91. The amount of the loan shall be reported in the following table:**
 
 91. Cordoba, the capital.
 
@@ -5888,7 +5888,7 @@ Calcolare la resistenza equivalente alle seguenti associazioni, se $R_1 = 12$ oh
 
 <div class="qlang-split" data-lang="en"></div>
 
-**93. The following is the list of the types of vehicles that are included in the calculation:
+**93. The following is the list of the types of vehicles that are included in the calculation:**
 
 93. Mendoza, please.
 
@@ -6025,7 +6025,7 @@ Se la resistività cambia con $r_o = r_{o0}(1 + alfa \Delta T)$ essendo $r_{o0} 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**95. The following table shows the results of the calculation of the weight of the product:
+**95. The following table shows the results of the calculation of the weight of the product:**
 
 95. Jump in.
 
@@ -6233,7 +6233,7 @@ Descrivere ciò che accade con la carica, la capacità e la differenza di potenz
 
 <div class="qlang-split" data-lang="en"></div>
 
-**98. Cinco Saltos, Rio Negro - Condensers with dielectric **
+**98. Cinco Saltos, Rio Negro - Condensers with dielectric**
 
 98. Cinco Saltos, the black river.
 
@@ -6714,7 +6714,7 @@ Un mercoledì sera tre studenti lavorano per presentare un circuito il giorno do
 
 <div class="qlang-split" data-lang="en"></div>
 
-**106. Gualeguaychu, Entre Rios - Resistance available
+**106. Gualeguaychu, Entre Rios - Resistance available**
 
 106. Gualeguaychu, between the rivers.
 
@@ -6862,7 +6862,7 @@ Si hanno due pendoli che hanno due masse magnetiche uguali alle loro estremità,
 
 <div class="qlang-split" data-lang="en"></div>
 
-**109. Comodoro Rivadavia, Chubut - Pendulums with magnetic masses
+**109. Comodoro Rivadavia, Chubut - Pendulums with magnetic masses**
 
 109. Commodore Rivadavia, Chubut.
 
@@ -6915,7 +6915,7 @@ Indicare, giustificando passo dopo passo, quale sia il percorso dei raggi di luc
 
 <div class="qlang-split" data-lang="en"></div>
 
-**110. The following is a list of the main sources of energy used in the production of hydrocarbons:
+**110. The following is a list of the main sources of energy used in the production of hydrocarbons:**
 
 110. Lomas from Zamora, Buenos Aires.
 
@@ -7124,7 +7124,7 @@ Dato un gioco di vetro il cui indice di refraczione è di 1,5 e di acqua, il cui
 
 <div class="qlang-split" data-lang="en"></div>
 
-**114. Cordoba, Capital - Glass-water-air refraction
+**114. Cordoba, Capital - Glass-water-air refraction**
 
 114. Cordoba, the capital.
 
@@ -7416,7 +7416,7 @@ b) Per ogni caso, giustifica che la sua scelta è corretta, seguendo il moviment
 
 <div class="qlang-split" data-lang="en"></div>
 
-**119. Rosario, Santa Fe - Make a monochrome in boxes
+**119. Rosario, Santa Fe - Make a monochrome in boxes**
 
 119. Rosario, Santa Fe.
 
@@ -7458,7 +7458,7 @@ Que longitud debe tener como minimo un espejo plano en posicion vertical para qu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**120. San Giovanni - Specchio piatto di minima lunghezza **
+**120. San Giovanni - Specchio piatto di minima lunghezza**
 
 120. San Giovanni.
 
@@ -7472,7 +7472,7 @@ Qual è la lunghezza minima di uno specchio piatto in posizione verticale per un
 
 <div class="qlang-split" data-lang="en"></div>
 
-**120. The following table shows the following:
+**120. The following table shows the following:**
 
 120. It's St. John.
 
@@ -7521,7 +7521,7 @@ Da un oggetto luminoso rettilineo e verticale si desidera ottenere un'immagine r
 
 <div class="qlang-split" data-lang="en"></div>
 
-**121. Navarro, Buenos Aires - Mirror with a concave image 16 times
+**121. Navarro, Buenos Aires - Mirror with a concave image 16 times**
 
 121. I'm from Navarro, Buenos Aires.
 
@@ -7634,7 +7634,7 @@ Provare sperimentalmente la legge della riflessione speculare: "L'angolo di inci
 
 <div class="qlang-split" data-lang="en"></div>
 
-**123. Parana, Entre Rios (experimental) - Specular reflection law
+**123. Parana, Entre Rios (experimental) - Specular reflection law**
 
 123. Parana, Entre Rios (experimental) is the first of its kind.
 
@@ -7683,7 +7683,7 @@ Dati due obiettivi, una convergente di distanza focale sconosciuta e una diverge
 
 <div class="qlang-split" data-lang="en"></div>
 
-**124. The following table shows the results of the study:
+**124. The following table shows the results of the study:**
 
 124. San Juan (experimental)
 

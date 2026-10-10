@@ -69,7 +69,7 @@ In questo lavoro dovrete studiare un macchinista serio. Per l'esecuzione di un c
 - $L$  lunghezza di spilli;
 - $M$ — масса шпильки с гайками.
 
-**Dati: **
+**Dati:**
 
 1. Определите $b$ — расстояние от внешней стенки короба до оси вращения втулки.
 2. Определите $M$ — массу шпильки с гайками.
@@ -151,7 +151,7 @@ In this experiment you are required to investigate the mechanical "gray box". Wh
 
 **9 класс — Задача No2. Triжды два** (Classe 9, Problema 2: "Tri volte due")
 
-**Opparecchiatura: ** grosso giaciglio, fonte di alimentazione, voltmeter (multimetro con stime), resistore con nota resistenza $R = (430 \pm 5)\ \text{Ом}$, potenziometro, scheda di montaggio, 8 fili di connessione, 2 fili di croco-croco, naccelli, carta di grande dimensione per la costruzione di grafici.
+**Opparecchiatura:** grosso giaciglio, fonte di alimentazione, voltmeter (multimetro con stime), resistore con nota resistenza $R = (430 \pm 5)\ \text{Ом}$, potenziometro, scheda di montaggio, 8 fili di connessione, 2 fili di croco-croco, naccelli, carta di grande dimensione per la costruzione di grafici.
 
 Il serí yщик è costituito da due resistenze $R_1$ e $R_2$, elemento non lineare NЭ e due chiavi  $K_1$ e $K_2$. Polarità della fonte di alimentazione $U_0$, connessa al grano, indicata sullo schema (fig. 1). Intra la resistenza della fonte, e anche la resistenza dei fili, può essere trascurata. Il voltimetro è il massimo.
 
@@ -161,7 +161,7 @@ Il serí yщик è costituito da due resistenze $R_1$ e $R_2$, elemento non lin
 
 Schema serogo ящика: ключ $K_1$ и нелинейный элемент НЭ включены между точками $K_1$ (вывод) и $B$; резисторы $R_1$ и $R_2$ uniti tra точки $A$ и $B$; ключ $K_2$  между точкой $A$ и $C$; fonte $U_0$ между $B$ (плюс) и $C$ (минус).
 
-**Dati: **
+**Dati:**
 
 1. Oпределите напряжение источника $U_0$.
 2. Esperienzalmente definire la caratteristica di volta-ampere (VAH) di una macchina grossa per tutte le quattro disposizioni delle chiavi, utilizzando uno schema di misura. - Facciamo i grafici. Per le dipendenze lineari sono necessari almeno 7 punti, per le non lineari 11. Si può costruire diverse dipendenze su un unico campo grafico a condizione che queste dipendenze siano firmate.
@@ -250,7 +250,7 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 
 **10 класс — Задача No1. Cepная линия** (Grado 10, Problema 1: "Il catenario")
 
-**Opparecchiatura: ** catena metallica di massa $m = (10{,}7 \pm 0{,}2)\ \text{г}$; nastro di misura; foglio DVP; stattivo con muffa e lappa, in cui è richiesto un fissaggio per la catena; due fogli di carta di millimetro per la costruzione di grafici.
+**Opparecchiatura:** catena metallica di massa $m = (10{,}7 \pm 0{,}2)\ \text{г}$; nastro di misura; foglio DVP; stattivo con muffa e lappa, in cui è richiesto un fissaggio per la catena; due fogli di carta di millimetro per la costruzione di grafici.
 
 **Ustanza.** Sul lato bianco orizzontale della foglia DVP (рабочей поверхности) posizionate la catena di produzione come indicato sul riso. 1: $H$  altezza del punto di fissaggio della catena sopra la superficie lavorativa, $s$  lunghezza della parte orizzontale della catena in posizione di equilibrio alla massima distanza dallo stato libero. Le due parti della catena (orizzontale e viscente) devono essere situate in una stessa piattaforma verticale, che passa attraverso il punto di rinfresco. Assicurati che la catena non sia incrociata e che non ci siano nodi.
 
@@ -258,7 +258,7 @@ La catena può essere considerata unica. Uspрение свободного па
 
 *Отсоединять цепочку от лапки штатива и перемещать штатив запрещено!*
 
-**Dati: **
+**Dati:**
 
 1. Измерьте длину $L$ выданной цепочки. Osceni l'errore del valore ottenuto.
 2. Esplorare sperimentalmente la dipendenza della lunghezza $s$ della parte orizzontale della catena da un'altezza $H$ al punto di sua crassione sulla superficie lavorativa. Prendi almeno 15 punti.
@@ -350,9 +350,9 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-10 classe  Compito n. 2. Triжды два** (Grado 10, Problema 2: "Tri volte due")
+10 classe  Compito n. 2. Triжды два (Grado 10, Problema 2: "Tri volte due")
 
-**Opparecchiatura: ** grosso giaciglio, fonte di alimentazione, voltmeter (multimetro con stime), resistore con nota resistenza $R = (430 \pm 5)\ \text{Ом}$, potenziometro, placca di macchinaggio, 8 fili di connessione, 2 fili di crocodilo-crocodilo, carta di millimetro per la costruzione di grafici.
+**Opparecchiatura:** grosso giaciglio, fonte di alimentazione, voltmeter (multimetro con stime), resistore con nota resistenza $R = (430 \pm 5)\ \text{Ом}$, potenziometro, placca di macchinaggio, 8 fili di connessione, 2 fili di crocodilo-crocodilo, carta di millimetro per la costruzione di grafici.
 
 Serый ящик (schema di ris. 1) è costituito da due resistenze $R_1$ e $R_2$, elemento non lineare NЭ e due chiavi  $K_1$ e $K_2$. Polarità della fonte di alimentazione $U_0$, connessa al giovanotto grigio, indicata sul disegno. Intra la resistenza della fonte, e anche la resistenza dei fili, può essere trascurata. Il voltimetro è il massimo. L'errore di voltimetro è pari all'1%.
 
@@ -362,7 +362,7 @@ Vigilanza!
 3. Si noti che le firme ON/OFF sulle chiavi $K_1$ e $K_2$ non necessariamente corrispondono alle disposizioni chiuse e aperte.
 4. Il multimetro può essere utilizzato solo in modalità voltmeter.
 
-**Dati: **
+**Dati:**
 
 1. Oпределите напряжение источника $U_0$.
 2. Determina, in quale situazione le chiavi sono chiuse e in quale le chiavi sono aperte. La tua risposta è:
@@ -495,9 +495,9 @@ $$\ln\frac{(I_\text{ph} - I_\text{ph0})(\varphi)}{(I_\text{ph} - I_\text{ph0})(\
 
 **Внимание!** В задаче не требуется оценка погрешности в пунктах, в которых это не указано явно.
 
-**Equipaggiamento: ** LED a infrarossi con resistore di restrizione, LED a resistore di restrizione a luce di un'interfaccia, LED a luce di 50 cm, strati di laser verde, batteria Krona 9 V, batteria AA (2 pezzi), segmento di batteria per batterie AA, fili di connessione, resistore a variazione 500 om, due multr, due linee 15 cm, due linee 50 cm, profilo di aluminio lungo / medio / breve, 3 strati di strati di protezione, 2 strati di scarico di scarico di 41 mm, 4 di scarico di scarico di scarico di scarico di 25 mm, una fila di scarico di scarico di plastica, 500 cm di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico, 500 mm, 500 cm di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scari
+**Equipaggiamento:** LED a infrarossi con resistore di restrizione, LED a resistore di restrizione a luce di un'interfaccia, LED a luce di 50 cm, strati di laser verde, batteria Krona 9 V, batteria AA (2 pezzi), segmento di batteria per batterie AA, fili di connessione, resistore a variazione 500 om, due multr, due linee 15 cm, due linee 50 cm, profilo di aluminio lungo / medio / breve, 3 strati di strati di protezione, 2 strati di scarico di scarico di 41 mm, 4 di scarico di scarico di scarico di scarico di 25 mm, una fila di scarico di scarico di plastica, 500 cm di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico di scarico, 500 cm di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico, 500 mm, 500 cm di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scarico di scari
 
-**Sassemblazione di installazioni.** Configuri uno schema per la misurazione del flusso fotodiodiodi: collegalo successivamente alla batteria Krona uno dei multimetro in modalità di ampermetro e chiudi la catena del fotodiodo, collegandolo a polarità inversa. Prendi anche il sistema di alimentazione dei LED da due batterie AA. **Non accendere il LED alla batteria Krona! ** Per la verifica: corrente attraverso il LED $I > 20\ \text{мА}$; quando si allontana il LED in una parte del fotodiodo, la forza del corrente attraverso il fotodiodo aumenta fino a non meno di 100 mA.
+**Sassemblazione di installazioni.** Configuri uno schema per la misurazione del flusso fotodiodiodi: collegalo successivamente alla batteria Krona uno dei multimetro in modalità di ampermetro e chiudi la catena del fotodiodo, collegandolo a polarità inversa. Prendi anche il sistema di alimentazione dei LED da due batterie AA. **Non accendere il LED alla batteria Krona!** Per la verifica: corrente attraverso il LED $I > 20\ \text{мА}$; quando si allontana il LED in una parte del fotodiodo, la forza del corrente attraverso il fotodiodo aumenta fino a non meno di 100 mA.
 
 Posizionare due linee lunghe 50 cm su un profilo lungo, premere il profilo con le linee a tavola con le linee. Concludere un fotodiodo e un LED su linee di lunghezza di 15 cm, a loro volta fissate a profilo alluminio. Raggiungi l'installazione in modo che la luce dalla finestra non entri direttamente sulla superficie del video.
 

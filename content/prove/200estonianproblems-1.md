@@ -591,7 +591,7 @@ Juku with a mass $m = 60$ kg and his father Juhan with a mass $M = 90$ kg decide
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P14 Salto in paracadute **
+**P14 Salto in paracadute**
 
 Juku con una massa $m = 60$ kg e suo padre Juhan con una massa $M = 90$ kg decisero di fare un salto in paracaduta. Hanno messo gli stessi paracadut con una massa di $m_v = 10$ kg e poi sono stati spinti fuori dall'aereo. Entrambi i loro paracaduti si aprirono ad una stessa altezza $h$, dopo di che i saltatori ottennero una velocità costante con un tempo trascurabile e raggiunsero il terreno con quella velocità. Il tempo necessario per raggiungere il suolo dal punto in cui aprì il paracadute fu $t = 110$ s. How much time $T$ did it take for Juhan? La forza di trazione applicata dall'aria al paracadutista è proporzionale alla velocità di caduta al quadrato. La resistenza all'aria applicata ai saltatori è trascurabile.
 
@@ -1530,7 +1530,7 @@ Let us take a look at a wrench that can be regulated. How big has to be the numb
 
 <div class="qlang-split" data-lang="it"></div>
 
-Clicca di scatto ** P42
+Clicca di scatto  P42
 
 Diamo un'occhiata a una chiave che può essere regolata. Quanto grande deve essere il numero di solchi per unità di lunghezza, $n$, in modo che le noci possano essere fissate saldamente? Il coefficiente di attrito tra le superfici di tocco è $\mu$ e il raggio dall'asse del regolatore alle superfici di tocco è $r$.
 

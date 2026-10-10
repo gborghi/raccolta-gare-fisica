@@ -345,7 +345,7 @@ f) Compare los valores del módulo de Young encontrados ($E_1$, $E_2$, $E_3$) y 
 
 **Objective:** Determinare il modulo di Young $E$ di un materiale plastico.
 
-** Breve descrizione.** Un viglio inserito da una delle sue estremità e volando sperimenta sforzi che producono la sua flessione; il viglio si arca. Se supporta, oltre al proprio peso, un carico extra, la flessione aumenta. Se le deformazioni sono elastiche, al cessare gli sforzi la viga riprende la sua forma originale.
+**Breve descrizione.** Un viglio inserito da una delle sue estremità e volando sperimenta sforzi che producono la sua flessione; il viglio si arca. Se supporta, oltre al proprio peso, un carico extra, la flessione aumenta. Se le deformazioni sono elastiche, al cessare gli sforzi la viga riprende la sua forma originale.
 
 Per un viglio "senza peso" di sezione rettangolare ($a \times b$) e lunghezza $L$, inserito, al quale viene applicata una forza $F$ all'estremità libera, l'estremità libera discende da una quantità $z$ (arcia) data da:
 
@@ -368,7 +368,7 @@ dove $a$ e $b$ sono le dimensioni della sezione trasversale del vigno (se $b$ è
 
 Nota: è importante garantire che le regole (la vigia usata e quella di riferimento) siano sempre allo stesso livello in assenza di carico.
 
-**Suggerimenti: **
+**Suggerimenti:**
 
 a) Misurare l'arcia $z$ quando il vigno è sottoposto a forze diverse; utilizzare 5 forze diverse. Costruisci una tabella con i risultati.
 

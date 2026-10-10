@@ -149,7 +149,7 @@ Note: the volume of gas in state B is fixed, its temperature can be chosen at wi
 
 2. Calculate the range of values for which the state temperature value of B, $T_B$ can be chosen so that the cycle can be physically achieved.
 
-When the temperature $T_B$ varies in the above range, it is observed that the energy exchanged as work between the gas and the environment changes sign: the cycle is said to be **thermal** if the gas is working on the environment, while the reverse is ** refrigerator**.
+When the temperature $T_B$ varies in the above range, it is observed that the energy exchanged as work between the gas and the environment changes sign: the cycle is said to be **thermal** if the gas is working on the environment, while the reverse is **refrigerator**.
 
 3. Determine for which temperature values of B the cycle is refrigerated and for which it is a heat cycle.
 

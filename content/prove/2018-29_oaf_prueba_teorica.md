@@ -58,7 +58,7 @@ Per misurare la densità di un liquido non miscibile con un altro di conosciuta 
 
 Supponiamo di introdurre nel tubo mercurio e acqua, così che, una volta raggiunto l'equilibrio, l'altezza della colonna d'acqua è $h_{\text{ag}}$ e la differenza dei livelli di mercurio nei due braccia è $h$ (figura 1).
 
-**Dati: **
+**Dati:**
 
 - Densità dell'acqua: $\rho_{\text{ag}} = 1{,}00 \times 10^3 \ \text{kg/m}^3$
 - Altezza della colonna d'acqua: $h_{\text{ag}} = 13{,}9 \ \text{cm}$
@@ -66,19 +66,19 @@ Supponiamo di introdurre nel tubo mercurio e acqua, così che, una volta raggiun
 - Area della sezione del tubo (constante): $A = 7{,}85 \times 10^{-5} \ \text{m}^2$
 - Accelerazione gravitatoria: $g = 9{,}81 \ \text{m/s}^2$
 
-**a) ** Ottieni un'espressione analitica della densità del mercurio, $\rho_{\text{Hg}}$, in base alle magnitudini conosciute. Calcola numericamente questa densità.
+**a)** Ottieni un'espressione analitica della densità del mercurio, $\rho_{\text{Hg}}$, in base alle magnitudini conosciute. Calcola numericamente questa densità.
 
 Per il ramo sinistro versare olio sul mercurio fino a quando il livello di mercurio nei due braccia rimane alla stessa altezza (Figura 2). Il volume di olio aggiunto fino a ottenerlo è $V_{\text{ac}} = 13{,}3 \ \text{cm}^3$.
 
-**b) ** Determina analiticamente e calcola la densità dell'olio, $\rho_{\text{ac}}$.
+**b)** Determina analiticamente e calcola la densità dell'olio, $\rho_{\text{ac}}$.
 
 Supponiamo che ci sia solo mercurio dentro il tubo. Soffrendo da una delle estremità, si produce una leggera sovrapposizione in un braccio, in modo che il livello di mercurio in quel braccio rimane un'altezza $x$ sotto quella di equilibrio, e nell'altro braccio ad un'altezza $x$ sopra (Figura 3). Quindi rilasciamo il sistema, con le due braccia aperte all'atmosfera.
 
-**c) ** Determina analiticamente, in base a $x$, la forza netta che tende a riportare il mercurio alla sua posizione di equilibrio.
+**c)** Determina analiticamente, in base a $x$, la forza netta che tende a riportare il mercurio alla sua posizione di equilibrio.
 
 Dopo aver rilasciato il sistema, il mercurio oscilla all'interno del tubo, saliendo e scendendo alternativamente per i due braccia. Si osserva un'oscillazione completa a $T = 1{,}02 \ \text{s}$.
 
-**d) ** Determina analisi e calcola il volume di mercurio, $V_{\text{Hg}}$, all'interno del tubo.
+**d)** Determina analisi e calcola il volume di mercurio, $V_{\text{Hg}}$, all'interno del tubo.
 
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -102,19 +102,19 @@ The data set shall be reported in the following table:
 - Area of the tube section (constant): $A = 7{,}85 \times 10^{-5} \ \text{m}^2$
 - Acceleration by gravity: $g = 9{,}81 \ \text{m/s}^2$
 
-**a) ** Get an analytical expression of mercury density, $\rho_{\text{Hg}}$, based on known magnitudes. Calculate this density numerically.
+**a)** Get an analytical expression of mercury density, $\rho_{\text{Hg}}$, based on known magnitudes. Calculate this density numerically.
 
 For the left branch, we pour oil over the mercury until the mercury level in the two arms is at the same height (Figure 2). The volume of oil added until it is obtained is $V_{\text{ac}} = 13{,}3 \ \text{cm}^3$.
 
-**b) ** Determine analytically and calculate the oil density, $\rho_{\text{ac}}$.
+**b)** Determine analytically and calculate the oil density, $\rho_{\text{ac}}$.
 
 Now suppose there's only mercury in the tube. If we blow through one of its ends, we produce a slight overpressure in one arm, so that the mercury level in that arm is $x$ below the equilibrium level, and in the other arm at a height $x$ above (Figure 3). Then we release the system, with both arms open to the atmosphere.
 
-**c) ** Determines analytically, based on $x$, the net force that tends to return mercury to its equilibrium position.
+**c)** Determines analytically, based on $x$, the net force that tends to return mercury to its equilibrium position.
 
 After releasing the system, the mercury oscillates inside the tube, alternately rising and falling through both arms. A complete oscillation is observed at $T = 1{,}02 \ \text{s}$.
 
-**d) ** Determine analytically and calculate the volume of mercury, $V_{\text{Hg}}$, inside the tube.
+**d)** Determine analytically and calculate the volume of mercury, $V_{\text{Hg}}$, inside the tube.
 
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -171,7 +171,7 @@ Suponiendo que la bola se encuentra en un cierto instante en el punto $P$ de la 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P2. Un invariante adiavatico.
+**P2. Un invariante adiavatico.**
 
 Gli invarianti adiabatici sono magnitudini che rimangono praticamente costanti quando un parametro di un sistema viene modificato molto lentamente. Lord Rayleigh (Premio Nobel di Fisica 1904) studiò le oscillazioni di un pendolo quando la lunghezza del filo di sospensione si accorciava molto lentamente. Ha dimostrato che il coefficiente tra energia delle oscillazioni e frequenza era essenzialmente costante.
 
@@ -181,27 +181,27 @@ In questo problema troveremo un invariante adiavatico analogo al pendolo menzion
 
 Un'onda di massa $m$ è attaccata all'estremità di un filo che passa attraverso un foro $O$ di una tavola orizzontale. Dall'altra estremità del filo è appeso un altro massa $M$ (figura 1). La massa sospesa $M$ può rimanere a riposo se la palla descrive un percorso radiante circolare $r_0$ e si muove a velocità angolare $\omega_0$. Si ritiene che non vi siano rotture apprezzabili e che il filo sia estensibile e di massa scarsa.
 
-**a) ** Qual è il valore della massa $M$?
+**a)** Qual è il valore della massa $M$?
 
-**b) ** Determina il modulo del momento angolare del sistema rispetto al punto $O$, $L_O$.
+**b)** Determina il modulo del momento angolare del sistema rispetto al punto $O$, $L_O$.
 
-**c) ** Determina l'energia meccanica della palla, $E_0$, in funzione di $L_O$. (Prende come riferimento di energia potenziale la superficie del tavolo.)
+**c)** Determina l'energia meccanica della palla, $E_0$, in funzione di $L_O$. (Prende come riferimento di energia potenziale la superficie del tavolo.)
 
-**d) ** Scrivi il coefficiente $E_0 / f_0$, dove $f_0$ è la frequenza di rotazione della palla $m$ attorno a $O$.
+**d)** Scrivi il coefficiente $E_0 / f_0$, dove $f_0$ è la frequenza di rotazione della palla $m$ attorno a $O$.
 
 In condizioni descritte, tenete il filo verticale con la mano, ritirate la massa $M$ e poi allungate dal filo verso il basso. Ovviamente la distanza dalla palla al foro diminuirà. L'orbita della palla diventerà una spirale. La velocità della palla non sarà più perpendicolare alla distanza $r$ dal punto $O$: avrà due componenti ortogonali tra loro, $v_r$ e $v_t$. La componente radial $v_r = dr/dt$ descrive la velocità con cui varia la distanza $r$; la componente trasversale $v_t = r\omega$ è quella che la palla avrebbe se in ogni istante descrivesse una circonferenza di radio $r$ con velocità angolare $\omega$. In sintesi:
 
 $$v^2 = v_r^2 + v_t^2, \qquad v_r = \frac{dr}{dt}, \qquad v_t = r\omega$$
 
-**e) ** Il momento angolare del sistema sarà conservato? In altre parole, sarà mantenuto lo stesso $L_O$ di cui al paragrafo b)? giustifica la tua risposta.
+**e)** Il momento angolare del sistema sarà conservato? In altre parole, sarà mantenuto lo stesso $L_O$ di cui al paragrafo b)? giustifica la tua risposta.
 
 Supponendo che la palla si trovi in un certo istante al punto $P$ della traccia spirale:
 
-**f) ** Determina l'energia meccanica $E$ della palla in qualsiasi istante in funzione di $L_O$.
+**f)** Determina l'energia meccanica $E$ della palla in qualsiasi istante in funzione di $L_O$.
 
-**g) ** Scrivi il coefficiente $E / f$, dove $f$ è la frequenza di rotazione della palla $m$.
+**g)** Scrivi il coefficiente $E / f$, dove $f$ è la frequenza di rotazione della palla $m$.
 
-**h) ** Come si dovrebbe procedere affinché, in ogni momento, $E/f$ sia mantenuto approssimativamente uguale a $E_0/f_0$ e quindi si possa dire che tale coefficiente è un invariante adiabatico?
+**h)** Come si dovrebbe procedere affinché, in ogni momento, $E/f$ sia mantenuto approssimativamente uguale a $E_0/f_0$ e quindi si possa dire che tale coefficiente è un invariante adiabatico?
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -211,7 +211,7 @@ Supponendo che la palla si trovi in un certo istante al punto $P$ della traccia 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P2. A secondary adiabatic invariant.
+**P2. A secondary adiabatic invariant.**
 
 Adiabatic invariants are magnitudes that remain virtually constant when some parameter of a system is changed very slowly. Lord Rayleigh (Nobel Prize in Physics in 1904) studied the oscillations of a pendulum when the length of the suspension thread was shortened very slowly. He showed that the ratio of the energy of the oscillations to the frequency was essentially constant.
 
@@ -221,27 +221,27 @@ In this problem we will find an adiabatic invariant analogous to the pendulum me
 
 A mass ball $m$ is attached to the end of a thread passing through a hole $O$ of a horizontal table. At the other end of the thread, another $M$ mass hangs (Figure 1). The suspended mass $M$ may remain at rest if the ball describes a circular radial path $r_0$ and moves at angular speed $\omega_0$. It is considered that no appreciable roughing is present and that the yarn is unextractable and of a despicable mass.
 
-**a) ** What is the value of the mass $M$?
+**a)** What is the value of the mass $M$?
 
-**b) ** Determines the angular momentum module of the system with respect to the $O$ point, $L_O$.
+**b)** Determines the angular momentum module of the system with respect to the $O$ point, $L_O$.
 
-**c) ** Determines the mechanical energy of the ball, $E_0$, according to $L_O$. (Take the table surface as a potential energy reference.)
+**c)** Determines the mechanical energy of the ball, $E_0$, according to $L_O$. (Take the table surface as a potential energy reference.)
 
-**d) ** Write the coefficient $E_0 / f_0$, where $f_0$ is the spin frequency of the ball $m$ around $O$.
+**d)** Write the coefficient $E_0 / f_0$, where $f_0$ is the spin frequency of the ball $m$ around $O$.
 
 Under the conditions described, we hold the vertical thread with our hand, remove the mass $M$ and then stretch the thread downwards. Obviously, the distance from the ball to the hole is going to decrease. The orbital of the ball will become a spiral. The speed of the ball will cease to be perpendicular to the distance $r$ to the point $O$: it will have two orthogonal components, $v_r$ and $v_t$. The radial component $v_r = dr/dt$ describes the speed at which the distance $r$ varies; the transverse component $v_t = r\omega$ is what the ball would have if at each instant a radial circumference $r$ with angular speed $\omega$ were described. In short:
 
 $$v^2 = v_r^2 + v_t^2, \qquad v_r = \frac{dr}{dt}, \qquad v_t = r\omega$$
 
-**e) ** Will the angular momentum of the system be preserved? That is to say, will it remain the same as $L_O$ in paragraph (b)? Justify your answer.
+**e)** Will the angular momentum of the system be preserved? That is to say, will it remain the same as $L_O$ in paragraph (b)? Justify your answer.
 
 Assuming that the ball is at a certain instant at the point $P$ of the spiral path:
 
-**f) ** Determines the mechanical energy $E$ of the ball at any instant on the basis of $L_O$.
+**f)** Determines the mechanical energy $E$ of the ball at any instant on the basis of $L_O$.
 
-**g) ** Write the coefficient $E / f$, where $f$ is the ball's spin frequency $m$.
+**g)** Write the coefficient $E / f$, where $f$ is the ball's spin frequency $m$.
 
-**h) ** How should the process be carried out so that at all times $E/f$ is approximately equal to $E_0/f_0$ and therefore it could be said that this coefficient is an adiabatic invariant?
+**h)** How should the process be carried out so that at all times $E/f$ is approximately equal to $E_0/f_0$ and therefore it could be said that this coefficient is an adiabatic invariant?
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -313,19 +313,19 @@ Questo esperimento, realizzato in varie versioni tra il 1909 e il 1913, ha perme
 
 In questo esperimento vengono utilizzate gocce di olio microscopiche di densità nota $\rho$, alcune delle quali sono elettricate da attrito con una carica normalmente negativa $Q = -ne$, dove $n$ è un piccolo intero. Per semplicità, chiameremo $q = |Q|$ il carico della goccia al valore assoluto.
 
-In presenza del campo gravitazionale terrestre le gocce cadono con $g$, ma la friczione con l'aria frenano il movimento. Si verifica sperimentalmente che la forza di resistenza $F_r$ che agisce su una piccola sfera che si muove a velocità $v$ sufficientemente bassa nel seno di un fluido è proporzionale a tale velocità, e si adempie alla legge di Stokes **:
+In presenza del campo gravitazionale terrestre le gocce cadono con $g$, ma la friczione con l'aria frenano il movimento. Si verifica sperimentalmente che la forza di resistenza $F_r$ che agisce su una piccola sfera che si muove a velocità $v$ sufficientemente bassa nel seno di un fluido è proporzionale a tale velocità, e si adempie alla legge di Stokes **:**
 
 $$F_r = 6\pi \eta R v$$
 
 dove $\eta$ è la viscosità del fluido (aria nel nostro caso) e $R$ è il raggio della sfera. La velocità di caduta tende assintoticamente a un valore costante (velocità limite) quando il peso della goccia e la forza di resistenza si eguagliano. Il valore di questa velocità limite, $v_0$, può essere misurato sperimentalmente osservando attraverso un microscopio con reticolo graduato e cronometrando il tempo che la goccia impiega per percorrere una distanza nota.
 
-**a) ** Ottieni un'espressione analitica del raggio della goccia, $R$, in base alla sua velocità di caduta limite $v_0$ e alle costanti $\eta$, $\rho$ e $g$.
+**a)** Ottieni un'espressione analitica del raggio della goccia, $R$, in base alla sua velocità di caduta limite $v_0$ e alle costanti $\eta$, $\rho$ e $g$.
 
 Per determinare il carico della goccia, si lascia cadere tra due placche di conduttore orizzontali separate a una distanza $d$, collegate ad una differenza di potenziale $V$ regolabile (vedi figura). In una delle varianti dell'esperimento, si misura prima $v_0$ in assenza di campo elettrico; quindi si collega il campo e si regola $V$ fino a che la goccia rimane in equilibrio. Il valore del differenziale di potenziale che ottiene questo equilibrio è chiamato $V_0$.
 
-**b) ** Deduce un'espressione analitica del carico della goccia, $q$, in funzione di $v_0$, $R$, $V_0$ e delle costanti $d$ e $\eta$.
+**b)** Deduce un'espressione analitica del carico della goccia, $q$, in funzione di $v_0$, $R$, $V_0$ e delle costanti $d$ e $\eta$.
 
-**Dati: **
+**Dati:**
 
 - $g = 9{,}81 \ \text{m/s}^2$
 - $\eta = 1{,}80 \times 10^{-5} \ \text{Pa}\cdot\text{s}$
@@ -334,7 +334,7 @@ Per determinare il carico della goccia, si lascia cadere tra due placche di cond
 - $V_0 = 447 \ \text{V}$
 - $d = 5{,}00 \ \text{mm}$
 
-**c) ** Calcola i valori di $R$ e $q$ per questa goccia.
+**c)** Calcola i valori di $R$ e $q$ per questa goccia.
 
 Supponi che, seguendo la stessa procedura, sia stata determinata la carica di altre tre gocce, ottenendo:
 
@@ -342,7 +342,7 @@ $$q_1 = 6{,}352 \times 10^{-19} \ \text{C}, \qquad q_2 = 4{,}779 \times 10^{-19}
 
 Punte sulla carta di Millikan: $q$, $q_1$, $q_2$ e $q_3$ sono presunti come circa multipli interi bassi (inferiori a 5) del carico elementare $e$, che non è noto a priori.
 
-**d) ** Da queste misure si deduce il valore di $e$.
+**d)** Da queste misure si deduce il valore di $e$.
 
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -352,7 +352,7 @@ Punte sulla carta di Millikan: $q$, $q_1$, $q_2$ e $q_3$ sono presunti come circ
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P3. The Millikan oil drop experiment.
+**P3. The Millikan oil drop experiment.**
 
 A little over 15 years ago, a survey was conducted among scientists to determine the ten most beautiful experiments in history. The third ranked was the Millikan oil drop experiment.
 
@@ -366,11 +366,11 @@ $$F_r = 6\pi \eta R v$$
 
 where $\eta$ is the viscosity of the fluid (air in our case) and $R$ is the radius of the sphere. The velocity of fall tends asymptotically to a constant value (boundary velocity) when the drop weight and resistance force are equal. The value of this limit velocity, $v_0$, can be measured experimentally by observing through a microscope with a graduated reticle and by timing the time it takes the drop to travel a known distance.
 
-**a) ** Get an analytical expression of the droplet radius, $R$, based on its droplet limit velocity $v_0$ and the constants $\eta$, $\rho$ and $g$.
+**a)** Get an analytical expression of the droplet radius, $R$, based on its droplet limit velocity $v_0$ and the constants $\eta$, $\rho$ and $g$.
 
 To determine the drop load, it is dropped between two horizontal conductive plates separated by a distance $d$, connected to an adjustable potential difference $V$ (see figure). In one of the experimental variants, the $v_0$ is first measured in the absence of an electric field; the field is then connected and adjusted $V$ until the drop remains in balance. The value of the potential difference that this balance achieves is called $V_0$.
 
-**b) ** Subtracts an analytical expression of the drop load, $q$, based on $v_0$, $R$, $V_0$ and the constants $d$ and $\eta$.
+**b)** Subtracts an analytical expression of the drop load, $q$, based on $v_0$, $R$, $V_0$ and the constants $d$ and $\eta$.
 
 The data set shall be reported in the following table:
 
@@ -381,7 +381,7 @@ The data set shall be reported in the following table:
 - $V_0 = 447 \ \text{V}$
 - $d = 5{,}00 \ \text{mm}$
 
-**c) ** Calculate the values of $R$ and $q$ for this drop.
+**c)** Calculate the values of $R$ and $q$ for this drop.
 
 Suppose that, following the same procedure, the load of three other drops has been determined, obtaining:
 
@@ -389,7 +389,7 @@ $$q_1 = 6{,}352 \times 10^{-19} \ \text{C}, \qquad q_2 = 4{,}779 \times 10^{-19}
 
 Millikan paper point: $q$, $q_1$, $q_2$ and $q_3$ are assumed to be approximately low integers (less than 5) of the elementary charge $e$, which is unknown a priori.
 
-**d) ** From these measurements, deduct the value of $e$.
+**d)** From these measurements, deduct the value of $e$.
 
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

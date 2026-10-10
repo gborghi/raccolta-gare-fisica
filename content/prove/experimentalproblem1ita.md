@@ -39,7 +39,7 @@ Una pressa (assieme a un blocchetto di marmo); leggi le istruzioni specifiche se
 A press (along with a marble block); read the specific instructions if necessary
 
 <!--fig:start-->
-**p.1 **  Mills with masses and cylinders of a radius R
+**p.1**  Mills with masses and cylinders of a radius R
 ![[_attachments/ExperimentalProblem1ITA/ExperimentalProblem1ITA_p1_f1.png]]
 <!--fig:end-->
 

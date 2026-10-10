@@ -69,7 +69,7 @@ Considerare $P_\text{arruela} = 0{,}11\ \text{N}$ e $P_\text{gancho} = 0{,}04\ \
 | | | 4 | |
 | 3 | | 5 | |
 
-**Questa 1:**Sulla base dei dati di Tabella 1, verificare se la condizione di equilibrio di rotazione è
+**Questa 1:** Sulla base dei dati di Tabella 1, verificare se la condizione di equilibrio di rotazione è
 
 $$\sum \tau = 0 \quad \Longleftrightarrow \quad F_1\, d_1 = F_2\, d_2$$
 
@@ -175,7 +175,7 @@ $$F_2\, d_2 = \text{constante} \quad \Rightarrow \quad d_2 \propto \frac{1}{F_2}
 | 4 | 0,050 | 4 | |
 | 4 | 0,050 | 6 | |
 
-**Questa 2:**Sulla base dei dati di Tabella 2, analizzare il rapporto tra $d_2$ e il numero di rubriche del lato 2 (mantendone $F_1 d_1 = \text{constante}$). Verificare che i risultati siano coerenti con
+**Questa 2:** Sulla base dei dati di Tabella 2, analizzare il rapporto tra $d_2$ e il numero di rubriche del lato 2 (mantendone $F_1 d_1 = \text{constante}$). Verificare che i risultati siano coerenti con
 
 $$F_2\, d_2 = \text{constante} \quad \Rightarrow \quad d_2 \propto \frac{1}{F_2}.$$
 
@@ -277,7 +277,7 @@ onde $n_\text{arr}$ é o número de arruelas, $P_\text{arr} = 0{,}11\ \text{N}$ 
 | | | |
 | | | |
 
-**Questione 3:**Sulla base dei dati di Tabella 3, determinare il peso $P_\text{chumbada}$ della pioggia utilizzando la condizione di equilibrio
+**Questione 3:** Sulla base dei dati di Tabella 3, determinare il peso $P_\text{chumbada}$ della pioggia utilizzando la condizione di equilibrio
 
 $$\bigl(n_\text{arr}\,P_\text{arr} + P_\text{gancho}\bigr)\,d_1 = \bigl(P_\text{chumbada} + P_\text{gancho}\bigr)\,d_2,$$
 
@@ -310,7 +310,7 @@ dove $n_\text{arr}$ è il numero di rubriche, $P_\text{arr} = 0{,}11\ \text{N}$ 
 | | | |
 | | | |
 
-**Question 3:**Determining the $P_\text{chumbada}$ weight of the plume using the equilibrium condition based on the data in Table 3
+**Question 3:** Determining the $P_\text{chumbada}$ weight of the plume using the equilibrium condition based on the data in Table 3
 
 $$\bigl(n_\text{arr}\,P_\text{arr} + P_\text{gancho}\bigr)\,d_1 = \bigl(P_\text{chumbada} + P_\text{gancho}\bigr)\,d_2,$$
 
@@ -352,7 +352,7 @@ Esta atividade não tem roteiro prévio: é o aluno quem deve encontrar a soluç
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Processo sperimentale IV  Determinazione del peso del passaggio **
+**Processo sperimentale IV  Determinazione del peso del passaggio**
 
 Questa attività non ha un percorso predefinito: è lo studente a trovare la soluzione.
 
@@ -360,7 +360,7 @@ Questa attività non ha un percorso predefinito: è lo studente a trovare la sol
 2. Usando come riferimento le procedure precedenti e il materiale disponibile, progettare e realizzare un montaggio che permetta di calcolare il peso $P_\text{travessão}$ del passaggio. (*Suggestone: sospendere il passaggio per un punto fuori dal foro centrale e bilanciarlo con le ruole su uno dei lati, sfruttando* $\sum \tau = 0$.)
 3. Applicate il montaggio due volte, con diverse quantità di rubelle, e registrate tutti i dati necessari.
 
-**Questione 4: ** Descrive l'assemblaggio effettuato, presenta i dati ottenuti e calcola $P_\text{travessão}$ a partire dalla condizione di equilibrio dei torchi. Calcola l'incertezza del risultato.
+**Questione 4:** Descrive l'assemblaggio effettuato, presenta i dati ottenuti e calcola $P_\text{travessão}$ a partire dalla condizione di equilibrio dei torchi. Calcola l'incertezza del risultato.
 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -378,7 +378,7 @@ This activity has no prior roadmap: it is the student who must find the solution
 2. Using the above procedures and the material available as a reference, design and assemble a cross-sectional mass $P_\text{travessão}$. (*Suggest: suspend the crossing by a point outside the centre hole and balance it with rows on one side, exploring* $\sum \tau = 0$.)
 3. Apply the assembly twice, with different amounts of rows, and record all the necessary data.
 
-**Question 4: ** Describe the assembly performed, present the data obtained and calculate $P_\text{travessão}$ from the torque balance condition. Estimate the uncertainty of the outcome.
+**Question 4:** Describe the assembly performed, present the data obtained and calculate $P_\text{travessão}$ from the torque balance condition. Estimate the uncertainty of the outcome.
 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

@@ -98,7 +98,7 @@ Determinazione della capacità
 5. connettenti elettrici
 6. carta di grafica lineare
 
-**Avvertimento: ** Il multimetro digitale di questo esperimento sarà utilizzato per misurare la tensione rms ($V$) solo su $R$. **Non utilizzarlo per misurare in altre modalità.**
+**Avvertimento:** Il multimetro digitale di questo esperimento sarà utilizzato per misurare la tensione rms ($V$) solo su $R$. **Non utilizzarlo per misurare in altre modalità.**
 
 **Instruzioni**
 

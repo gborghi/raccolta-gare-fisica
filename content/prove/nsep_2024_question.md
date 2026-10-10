@@ -2959,7 +2959,7 @@ An electric circuit consists of a battery of emf $E$, an inductance $L$ and a re
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Parte A-2 (una o più opzioni possono essere corrette) **
+**Parte A-2 (una o più opzioni possono essere corrette)**
 
 Un circuito elettrico è costituito da una batteria di emf $E$, di induttanza $L$ e di resistenza $R$ in serie. Il interruttore S è chiuso a $t = 0$. La corrente nel circuito cresce esponenzialmente con il tempo come illustrato dalla curva (1). I valori dei parametri del circuito ($E$, $L$ o $R$) sono ora in qualche modo modificati. Il circuito viene chiuso per la seconda volta, la crescita della corrente $I$ segue la curva (2). Si possono trarre le seguenti conclusioni:
 

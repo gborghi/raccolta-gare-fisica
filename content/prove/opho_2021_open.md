@@ -222,7 +222,7 @@ Compute $T(20) + T(500) + T(2021)$ in degrees Celsius.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Termo ** Un treno di lunghezza $100\,\text{m}$ e massa $10^5\,\text{kg}$ viaggia a $20\,\text{m/s}$ lungo una pista retta. Il conducente attiva i freni e il treno inizia a rallentare a velocità costante, arrivando a fermarsi dopo aver percorso una distanza $d = 2000\,\text{m}$. Quando il treno rallenta, l'energia rilasciata come calore dai freni va nelle binarie, che hanno una capacità termico lineare di $5000\,\text{J}\,\text{m}^{-1}\,\text{K}^{-1}$. Supponiamo che la velocità di generazione e trasferimento del calore sia uniforme nel corso del treno in un determinato momento.
+**Termo** Un treno di lunghezza $100\,\text{m}$ e massa $10^5\,\text{kg}$ viaggia a $20\,\text{m/s}$ lungo una pista retta. Il conducente attiva i freni e il treno inizia a rallentare a velocità costante, arrivando a fermarsi dopo aver percorso una distanza $d = 2000\,\text{m}$. Quando il treno rallenta, l'energia rilasciata come calore dai freni va nelle binarie, che hanno una capacità termico lineare di $5000\,\text{J}\,\text{m}^{-1}\,\text{K}^{-1}$. Supponiamo che la velocità di generazione e trasferimento del calore sia uniforme nel corso del treno in un determinato momento.
 
 Se le binarie partono a una temperatura ambientale di $20\,^\circ\text{C}$, esiste una funzione $T(x)$ che descrive la temperatura (in Celsius) delle binarie a ciascun punto $x$, dove la parte posteriore del punto di partenza del treno è a $x = 0$. Supponiamo (irrealizzativamente) che il 100% dell'energia cinetica originale del treno sia trasferito sulle binarie (il treno non assorbe alcuna energia), che non vi sia alcuna conduzione di calore lungo le binarie e che il trasferimento di calore tra le binarie e l'ambiente è trascurabile.
 
@@ -325,7 +325,7 @@ dove $\alpha$, $\beta$, $\gamma$ e $\delta$ sono tutte costanti senza dimensioni
 
 <div class="qlang-split" data-lang="it"></div>
 
-Pico-Pico 1.** Poncho è un giocatore molto bravo del leggendario gioco di carnevale noto come Pico-Pico. La sua configurazione consiste in una sfera di acciaio, rappresentata da una massa puntaria, di raggio trascurabile e di una pista verticale senza attrito. L'obiettivo di Pico-Pico è quello di spostare la palla dall'inizio della pista (punto $A$) in modo che possa attraversare la pista senza mai uscire dalla pista, raggiungendo con successo la fine (punto $B$). Il design più famoso della pista è quello di forma parabola; in particolare, la pista gigante è di forma $h(x) = 5 - 2x^2$ in metri. I punti di partenza e di fine delle binarie sono i due punti di intersezione della binaria $y = 0$. Se $(v_a, v_b]$ è l'intervallo della velocità iniziale della palla $v_0$ che soddisfa la condizione di vincita di Pico-Pico, aiuta Poncho a trovare $v_b - v_a$. Questa parte è raffigurata di seguito:
+Pico-Pico 1. Poncho è un giocatore molto bravo del leggendario gioco di carnevale noto come Pico-Pico. La sua configurazione consiste in una sfera di acciaio, rappresentata da una massa puntaria, di raggio trascurabile e di una pista verticale senza attrito. L'obiettivo di Pico-Pico è quello di spostare la palla dall'inizio della pista (punto $A$) in modo che possa attraversare la pista senza mai uscire dalla pista, raggiungendo con successo la fine (punto $B$). Il design più famoso della pista è quello di forma parabola; in particolare, la pista gigante è di forma $h(x) = 5 - 2x^2$ in metri. I punti di partenza e di fine delle binarie sono i due punti di intersezione della binaria $y = 0$. Se $(v_a, v_b]$ è l'intervallo della velocità iniziale della palla $v_0$ che soddisfa la condizione di vincita di Pico-Pico, aiuta Poncho a trovare $v_b - v_a$. Questa parte è raffigurata di seguito:
 
 ![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p10_f10.png]]
 
@@ -422,7 +422,7 @@ Note: For this problem, you may assume that the size of the ball is negligible.
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Le seguenti informazioni si applicano ai problemi 13 e 14. ** Nei due seguenti problemi esamineremo il tiro a basket. Modellare la pallacanestro come una sfera vuota elastica con raggio $0.1$ metri. Modellare la rete e il cestino come mostrato di seguito, dimensioni segnate. Non si deve pensare all'attrito tra la schiena e il basket, e assumere che tutte le collisioni siano perfettamente elasticate.
+> **Le seguenti informazioni si applicano ai problemi 13 e 14.** Nei due seguenti problemi esamineremo il tiro a basket. Modellare la pallacanestro come una sfera vuota elastica con raggio $0.1$ metri. Modellare la rete e il cestino come mostrato di seguito, dimensioni segnate. Non si deve pensare all'attrito tra la schiena e il basket, e assumere che tutte le collisioni siano perfettamente elasticate.
 
 ![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p8_f13.png]]
 
@@ -932,7 +932,7 @@ Quindi, illuminiamo una fonte di luce monocromatica e coerente di lunghezza d'on
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Le seguenti informazioni si applicano ai problemi 29 e 30. ** Un certo pianeta con raggio $R = 3\times10^{4}\,\text{km}$ è costituito da un liquido con densità costante $\rho = 1.5\,\text{g/cm}^3$, ad eccezione di un nucleo solido omogeneo di raggio $r = 10\,\text{km}$ e di massa $m = 2.4\times10^{16}\,\text{kg}$. Normalmente, il nucleo si trova al centro geometrico del pianeta. Tuttavia, un piccolo disturbo ha spostato il centro del nucleo $x = 1\,\text{km}$ lontano dal centro geometrico del pianeta. Il nucleo viene rilasciato dal riposo e il fluido è invisibile e incompressibile.
+> **Le seguenti informazioni si applicano ai problemi 29 e 30.** Un certo pianeta con raggio $R = 3\times10^{4}\,\text{km}$ è costituito da un liquido con densità costante $\rho = 1.5\,\text{g/cm}^3$, ad eccezione di un nucleo solido omogeneo di raggio $r = 10\,\text{km}$ e di massa $m = 2.4\times10^{16}\,\text{kg}$. Normalmente, il nucleo si trova al centro geometrico del pianeta. Tuttavia, un piccolo disturbo ha spostato il centro del nucleo $x = 1\,\text{km}$ lontano dal centro geometrico del pianeta. Il nucleo viene rilasciato dal riposo e il fluido è invisibile e incompressibile.
 
 **Core solido - 1.** Calcolare la grandezza della forza dovuta alla gravità che agisce ora sul nucleo. Lavorare con l'ipotesi che $R \gg r$.
 
@@ -1029,9 +1029,9 @@ Supponiamo che le dimensioni dei solenoidi siano molto più piccole del raggio d
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Le seguenti informazioni si applicano ai problemi 32 e 33. ** Adithya è in un razzo con corretta accelerazione $a_0 = 3.00\times10^{8}\,\text{m/s}^2$ a destra, ed Eddie è in un razzo con corretta accelerazione $\tfrac{a_0}{2}$ a sinistra. Che il telaio del razzo di Adithya sia $S_1$, e il telaio del razzo di Eddie sia $S_2$. Inizialmente, entrambi i razzi sono a riposo rispetto l'uno all'altro, e l'orologio di Adithya e quello di Eddie sono entrambi impostati su $0$.
+> **Le seguenti informazioni si applicano ai problemi 32 e 33.** Adithya è in un razzo con corretta accelerazione $a_0 = 3.00\times10^{8}\,\text{m/s}^2$ a destra, ed Eddie è in un razzo con corretta accelerazione $\tfrac{a_0}{2}$ a sinistra. Che il telaio del razzo di Adithya sia $S_1$, e il telaio del razzo di Eddie sia $S_2$. Inizialmente, entrambi i razzi sono a riposo rispetto l'uno all'altro, e l'orologio di Adithya e quello di Eddie sono entrambi impostati su $0$.
 
-**Racetti acceleranti - 1. ** Nel momento in cui l'orologio di Adithya raggiunge $0.75\,\text{s}$ in $S_2$, qual è la velocità del razzo di Adithya in $S_2$?
+**Racetti acceleranti - 1.** Nel momento in cui l'orologio di Adithya raggiunge $0.75\,\text{s}$ in $S_2$, qual è la velocità del razzo di Adithya in $S_2$?
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Special Relativity]]
@@ -1058,7 +1058,7 @@ Supponiamo che le dimensioni dei solenoidi siano molto più piccole del raggio d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Accelerazione dei razzi - 2. ** Nel momento in cui l'orologio di Adithya raggiunge $0.75\,\text{s}$ in $S_2$, qual è l'accelerazione del razzo di Adithya in $S_2$?
+**Accelerazione dei razzi - 2.** Nel momento in cui l'orologio di Adithya raggiunge $0.75\,\text{s}$ in $S_2$, qual è l'accelerazione del razzo di Adithya in $S_2$?
 
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Special Relativity]]
@@ -1089,7 +1089,7 @@ Hint: The surface of the ball will oscillate by "bending" instead of "stretching
 
 <div class="qlang-split" data-lang="it"></div>
 
-> **Le seguenti informazioni si applicano ai problemi 34 e 35. ** Supponiamo che una palla di ping pong di raggio $R$, spessore $t$, fatta di un materiale con densità $\rho_b$ e modulo di Young $Y$, sia colpita in modo che risonasse in mezzo all'aria con piccole oscillazioni di amplitudine. Supponiamo che $t \ll R$. La densità dell'aria intorno (e all'interno) della palla è $\rho_a$, e la pressione dell'aria è $p$, dove $\rho_a \ll \rho_b\,\tfrac{t}{R}$ e $p \ll Y\,\tfrac{t^3}{R^3}$.
+> **Le seguenti informazioni si applicano ai problemi 34 e 35.** Supponiamo che una palla di ping pong di raggio $R$, spessore $t$, fatta di un materiale con densità $\rho_b$ e modulo di Young $Y$, sia colpita in modo che risonasse in mezzo all'aria con piccole oscillazioni di amplitudine. Supponiamo che $t \ll R$. La densità dell'aria intorno (e all'interno) della palla è $\rho_a$, e la pressione dell'aria è $p$, dove $\rho_a \ll \rho_b\,\tfrac{t}{R}$ e $p \ll Y\,\tfrac{t^3}{R^3}$.
 
 **Ping Pong - 1.** Una stima della frequenza di risonanza è $\omega \sim R^a t^b \rho_b^c Y^d$. Trova il valore di $4a^2 + 3b^2 + 2c^2 + d^2$.
 

@@ -184,8 +184,8 @@ Il numero di persone che hanno ricevuto la domanda è stato risolto.
 
 Imballaggio di particelle costituenti un cristallo: si desidera imballare sfere rigide della stessa dimensione. Per semplificare il problema di Kepler, supponiamo che invece di sfere abbiamo dischi identici come, per esempio, monete e vogliamo mettere i dischi vicini l'uno all'altro per ottenere la massima densità possibile. La figura mostra due diversi arrangiamenti:
 
-- L'imballaggio indicato in **(a) ** è chiamato **imballaggio esagonale **.
-- L'imballaggio indicato in **(b) ** è chiamato **imballaggio quadrato**.
+- L'imballaggio indicato in **(a)** è chiamato **imballaggio esagonale**.
+- L'imballaggio indicato in **(b)** è chiamato **imballaggio quadrato**.
 
 In ogni caso indicato, determinare **densità di imballaggio**  frazione dell'area totale occupata dai dischi.
 
@@ -476,7 +476,7 @@ At the 1970 World Cup, a pitch was made in the history of world football. Many r
 
 Analisando o vídeo do lance, percebemos que a bola viaja por aproximadamente $3\,\text{s}$. With the help of maps, we estimate the range of the ball to have been $60\,\text{m}$.
 
-With this data, determine the **start speed ** and the **angle ** at which the ball was thrown. To disregard air resistance and to consider the trajectory of the ball to be a flat curve.
+With this data, determine the **start speed** and the **angle** at which the ball was thrown. To disregard air resistance and to consider the trajectory of the ball to be a flat curve.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -572,7 +572,7 @@ Qual è il ritardo rispetto al momento in cui l'evento è avvenuto in ciascuna d
 
 **Questão 11**
 
-A football match is being broadcast via **geostationary satellite ** to Residence A and via **optical fiber cable ** with refractive index $n = 1{,}5$ to Residence B. The satellite's orbital speed is $3{,}0\,\text{km/s}$. Estas casas são vizinhas e estão a $100\,\text{km}$ de distância do estádio. Residence C is not receiving an electrical signal but, being $170\,\text{m}$ from the stadium, can hear the direct signal from the demonstration of the audience present.
+A football match is being broadcast via **geostationary satellite** to Residence A and via **optical fiber cable** with refractive index $n = 1{,}5$ to Residence B. The satellite's orbital speed is $3{,}0\,\text{km/s}$. Estas casas são vizinhas e estão a $100\,\text{km}$ de distância do estádio. Residence C is not receiving an electrical signal but, being $170\,\text{m}$ from the stadium, can hear the direct signal from the demonstration of the audience present.
 
 At the time an event takes place in the stadium, the residences will receive the signals at different times. Assuming the delay is due solely to the spread of the signals:
 

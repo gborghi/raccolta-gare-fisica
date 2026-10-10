@@ -2765,7 +2765,7 @@ a) 2,5 b) 1,5
 
 <div class="qlang-split" data-lang="it"></div>
 
-**La palma connessa **
+**La palma connessa**
 
 PT12. Mar del Plata, Buenos Aires. Blu. 
 Occhio!! La pava inchiusa!! 
@@ -12529,7 +12529,7 @@ e) ¿Cual es la conclusión de su análisis? ¿Tiene razón el guardia?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Tren **
+**Tren**
 
 PT92. Città di San Luis. Blu. 
 Ud. va a visitare Buenos Aires a casa di sua zia che vive a Quilmes. Per
@@ -20477,7 +20477,7 @@ rifrazione dell'acqua.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Measuring the refractive index of water **
+Measuring the refractive index of water 
 
 PE1. City of Buenos Aires. Blue, please. 
 Find an economical and simple method to measure the value of the index of
@@ -24442,7 +24442,7 @@ correspondiente error, determina el empuje que realiza sobre el globo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Principio di Archimede (impie) **
+**Principio di Archimede (impie)**
 
 PE15. Città di Mendoza. Blu. 
 Archimede (287-212 a.C.), fisico, ingegnere e matematico greco, fu forse il

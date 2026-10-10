@@ -251,7 +251,7 @@ The following table shows the number of cases of the case:
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  Fig.8b carton strip with folds
+**p.6**  Fig.8b carton strip with folds
 ![[_attachments/Naz23SpeT/Naz23SpeT_p6_f18.png]]
 <!--fig:end-->
 

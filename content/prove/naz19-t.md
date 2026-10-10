@@ -242,7 +242,7 @@ Si prendano in considerazione due linee di campo che passano per gli estremi di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P3  There, where the solenoid ends ** *(100 points) *
+**P3  There, where the solenoid ends** *(100 points) *
 
 A circular spiral travelling by a current $i$ generates a magnetic field. The plane containing the spiral is a symmetry plane for the system. This means that, by reflecting against this plane, the spire, the direction of the current within it and therefore also the magnetic field it generates remain unchanged. It follows that all magnetic field lines are geometric curves symmetrical to this plane; similarly, the magnetic field intensities at two points $Q$ and $Q'$, symmetrical to the plane of the spire, are the same.
 
@@ -274,7 +274,7 @@ Two lines of field passing through the ends of a diameter of the last spiral, i.
 *Suggest:* It may be useful to remember that the component of the magnetic field parallel to the solenoid axis undergoes a discontinuity equal to $B_0$ (excluding edge points) passing from the inside to the outside of the solenoid.
 
 <!--fig:start-->
-**p.6 **  Solenoid with points C, P, P' and field
+**p.6**  Solenoid with points C, P, P' and field
 ![[_attachments/Naz19-T/Naz19-T_p6_f3.png]]
 <!--fig:end-->
 

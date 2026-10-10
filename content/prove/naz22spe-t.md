@@ -93,7 +93,7 @@ $$m = \frac{M}{\alpha \tan \alpha} \quad \text{con} \quad \alpha = \frac{\pi T_M
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Pencil-suspended
+**p.4**  Pencil-suspended
 ![[_attachments/Naz22Spe-T/Naz22Spe-T_p4_f2.png]]
 <!--fig:end-->
 
@@ -103,7 +103,7 @@ $$m = \frac{M}{\alpha \tan \alpha} \quad \text{con} \quad \alpha = \frac{\pi T_M
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  Mill with rim and stopper
+**p.6**  Mill with rim and stopper
 ![[_attachments/Naz22Spe-T/Naz22Spe-T_p6_f4.png]]
 <!--fig:end-->
 

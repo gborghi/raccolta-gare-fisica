@@ -145,7 +145,7 @@ A student carried out an experiment to analyze the motion of an ant. To collect 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**02) ** Qual è la velocità media dell'anime tra $t = 0$ e $t = 20$ s?
+**02)** Qual è la velocità media dell'anime tra $t = 0$ e $t = 20$ s?
 
 - **A.** 0
 - **B.** 0,1 cm/s
@@ -161,7 +161,7 @@ A student carried out an experiment to analyze the motion of an ant. To collect 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**02) ** What is the average ant speed between $t = 0$ and $t = 20$ s?
+**02)** What is the average ant speed between $t = 0$ and $t = 20$ s?
 
 - **A.** 0
 - **B.** 0,1 cm/s
@@ -200,7 +200,7 @@ A student carried out an experiment to analyze the motion of an ant. To collect 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**03) ** Qual è la velocità tra $t = 25$ s e $t = 50$ s?
+**03)** Qual è la velocità tra $t = 25$ s e $t = 50$ s?
 
 - **A.** 1 cm/s
 - **B.** −0,16 cm/s
@@ -216,7 +216,7 @@ A student carried out an experiment to analyze the motion of an ant. To collect 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**03) ** What is the speed between $t = 25$ s and $t = 50$ s?
+**03)** What is the speed between $t = 25$ s and $t = 50$ s?
 
 - **A.** 1 cm/s
 - **B.** −0,16 cm/s
@@ -310,7 +310,7 @@ Which of the times below best represents the time in which the ant reversed its 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**05) ** Fa' una stima della posizione dell'animo per il tempo di $t = 30$ s.
+**05)** Fa' una stima della posizione dell'animo per il tempo di $t = 30$ s.
 
 - **A.** 9 cm
 - **B.** 5 cm
@@ -326,7 +326,7 @@ Which of the times below best represents the time in which the ant reversed its 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**05) ** Estimate the position of the ant for the time of $t = 30$ s.
+**05)** Estimate the position of the ant for the time of $t = 30$ s.
 
 - **A.** 9 cm
 - **B.** 5 cm
@@ -365,7 +365,7 @@ Which of the times below best represents the time in which the ant reversed its 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**06) ** Analizzare le seguenti affermazioni e indicare quale di esse ** non corrisponde **.
+**06)** Analizzare le seguenti affermazioni e indicare quale di esse **non corrisponde**.
 
 - **A.** Tutto il corpo rimane in movimento uniforme in assenza di un'azione di forza esterna.
 - **B.** Corpi in caduta libera, lasciati a distanza dalla stessa altezza, arrivano al suolo a velocità che variano a seconda della loro massa.
@@ -381,7 +381,7 @@ Le leggi della meccanica sono le stesse in qualsiasi riferimento inerziale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**06) ** Analyze the following statements below and indicate which ** is incorrect**.
+**06)** Analyze the following statements below and indicate which **is incorrect**.
 
 - **A.** The whole body remains in uniform motion in the absence of external force.
 - **B.** Free-falling bodies, loose at the same height, reach the ground at speeds that vary according to their mass.
@@ -547,7 +547,7 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**09) ** Considerate di nuovo il problema della domanda 8, solo che in questo caso consideri la velocità del suono e la adopti come 300 m/s. Calcola di nuovo la profondità corretta del pozzo.
+**09)** Considerate di nuovo il problema della domanda 8, solo che in questo caso consideri la velocità del suono e la adopti come 300 m/s. Calcola di nuovo la profondità corretta del pozzo.
 
 (utilizza $g = 10$ m/s2)
 
@@ -565,7 +565,7 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**09) ** Consider again the problem of question 8, only in this case take into account the speed of sound and adopt it as being 300 m/s. Calculate the corrected depth of the well again.
+**09)** Consider again the problem of question 8, only in this case take into account the speed of sound and adopt it as being 300 m/s. Calculate the corrected depth of the well again.
 
 (use $g = 10$ m/s2)
 
@@ -611,7 +611,7 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**10) ** Un lampadino composto da due recipienti di vetro separati da una piccola apertura è posizionato su una bilancia come indicato nella figura seguente. In $t=0$ tutta la sabbia è in fondo. In $t = 0{,}001$ h, dopo aver girato l'ampolla, la sabbia cade verso il basso e in $t = 1$ ora tutto il materiale è di nuovo verso il basso. Cosa succede al banco di scalo quando la sabbia cade?
+**10)** Un lampadino composto da due recipienti di vetro separati da una piccola apertura è posizionato su una bilancia come indicato nella figura seguente. In $t=0$ tutta la sabbia è in fondo. In $t = 0{,}001$ h, dopo aver girato l'ampolla, la sabbia cade verso il basso e in $t = 1$ ora tutto il materiale è di nuovo verso il basso. Cosa succede al banco di scalo quando la sabbia cade?
 
 - **A.** Il mostratore rimane costante.
 - **B.** Il mostratore annoterà sempre un peso minore.
@@ -632,7 +632,7 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**10) ** A vial consisting of two glass containers separated by a small opening is placed on a scale as shown below. Em $t=0$ toda a areia está na parte de baixo. In $t = 0{,}001$ h, after the ampoule is turned, the sand falls to the bottom and in $t = 1$ hour the whole material is at the bottom again. What happens to the dial of the scale as the sand falls?
+**10)** A vial consisting of two glass containers separated by a small opening is placed on a scale as shown below. Em $t=0$ toda a areia está na parte de baixo. In $t = 0{,}001$ h, after the ampoule is turned, the sand falls to the bottom and in $t = 1$ hour the whole material is at the bottom again. What happens to the dial of the scale as the sand falls?
 
 - **A.** O mostrador permanece constante.
 - **B.** The dial will always record a smaller weight.
@@ -676,7 +676,7 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Quale delle seguenti affermazioni ** non ** è conforme alle leggi di Newton sulla Meccanica?
+Quale delle seguenti affermazioni **non** è conforme alle leggi di Newton sulla Meccanica?
 
 L'accelerazione di un corpo è dovuta all'azione di una forza esterna.
 Una persona ferma e in piedi subisce l'azione della forza gravitazionale terrestre.
@@ -772,7 +772,7 @@ La posizione di un mobile è stata registrata in funzione del tempo e i risultat
 | 9 | 91 |
 | 10 | 110 |
 
-**12) ** Determina la velocità media del mobile nell'intervallo di tempo da 0 a 10 secondi.
+**12)** Determina la velocità media del mobile nell'intervallo di tempo da 0 a 10 secondi.
 
 - **A.** 1 m/s
 - **B.** 1 cm/s
@@ -811,7 +811,7 @@ The position of a mobile has been recorded in terms of time and the results are 
 | 9 | 91 |
 | 10 | 110 |
 
-**12) ** Determine the average speed of the mobile in the time interval from 0 to 10 s.
+**12)** Determine the average speed of the mobile in the time interval from 0 to 10 s.
 
 - **A.** 1 m/s
 - **B.** 1 cm/s
@@ -855,7 +855,7 @@ Table: position vs time for uniformly accelerated body
 
 <div class="qlang-split" data-lang="it"></div>
 
-**13) ** Determina l'equazione oraria che rappresenta il movimento (possione $s$ in funzione del tempo $t$).
+**13)** Determina l'equazione oraria che rappresenta il movimento (possione $s$ in funzione del tempo $t$).
 
 - **A.** $s(t) = t^2 + 10$
 - **B.** $s(t) = 110t + 10$
@@ -871,7 +871,7 @@ Table: position vs time for uniformly accelerated body
 
 <div class="qlang-split" data-lang="en"></div>
 
-**13) ** Determine the time equation representing the movement (position $s$ in terms of time $t$).
+**13)** Determine the time equation representing the movement (position $s$ in terms of time $t$).
 
 - **A.** $s(t) = t^2 + 10$
 - **B.** $s(t) = 110t + 10$
@@ -910,7 +910,7 @@ Table: position vs time for uniformly accelerated body
 
 <div class="qlang-split" data-lang="it"></div>
 
-**14) ** Determina la velocità istantanea del mobile in $t = 5$ s.
+**14)** Determina la velocità istantanea del mobile in $t = 5$ s.
 
 - **A.** 5 cm/s
 - **B.** 10 cm/s
@@ -965,7 +965,7 @@ The speed of the mobile device shall be determined in $t = 5$ s.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**15) ** Determina l'accelerazione del mobile.
+**15)** Determina l'accelerazione del mobile.
 
 - **A.** 0
 - **B.** 1 m/s²
@@ -1137,7 +1137,7 @@ A esfera parte do repouso de uma altura $h$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**18) ** Una sfera di massa $m$ scivola senza rotolare su un piano inclinato come indicato nella figura seguente. Determina la velocità della sfera al punto più basso del piano (utilizza $g$ come accelerazione gravitazionale e disprezza lo scosciamento tra le superfici).
+**18)** Una sfera di massa $m$ scivola senza rotolare su un piano inclinato come indicato nella figura seguente. Determina la velocità della sfera al punto più basso del piano (utilizza $g$ come accelerazione gravitazionale e disprezza lo scosciamento tra le superfici).
 
 La sfera parte dal riposo di un'altezza $h$.
 
@@ -1160,7 +1160,7 @@ La sfera parte dal riposo di un'altezza $h$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**18) ** A sphere of mass $m$ slides unrolled on an inclined plane as shown in the figure below. Determine the speed of the sphere at the lowest point of the plane (use $g$ as gravitational acceleration and disregard friction between surfaces).
+**18)** A sphere of mass $m$ slides unrolled on an inclined plane as shown in the figure below. Determine the speed of the sphere at the lowest point of the plane (use $g$ as gravitational acceleration and disregard friction between surfaces).
 
 The sphere is at rest at a height $h$.
 
@@ -1213,7 +1213,7 @@ O sistema consiste em uma massa de 2 kg suspensa por duas cordas: corda 1 horizo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**19) ** Trova la tensione $T_2$ sulla corda 2 per il sistema in equilibrio nella figura seguente. ($\cos 60° = 0{,}5$; $\sin 60° = 0{,}87$)
+**19)** Trova la tensione $T_2$ sulla corda 2 per il sistema in equilibrio nella figura seguente. ($\cos 60° = 0{,}5$; $\sin 60° = 0{,}87$)
 
 Il sistema consiste in una massa di 2 kg sospesa da due corde: corda 1 orizzontale e corda 2 a 60° con la linea orizzontale.
 
@@ -1342,7 +1342,7 @@ In the laboratory, two quantities of the same liquid are mixed. The mass of the 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**21) ** Due corpi A e B sono riscaldati. Nei grafici di seguito $\theta$ (°C) rappresenta la temperatura dei corpi e $Q$ (kJ) la quantità di calore assorbita. Qual è la capacità calorifica di ciascun corpo A e B (rispettivamente in kJ/°C)?
+**21)** Due corpi A e B sono riscaldati. Nei grafici di seguito $\theta$ (°C) rappresenta la temperatura dei corpi e $Q$ (kJ) la quantità di calore assorbita. Qual è la capacità calorifica di ciascun corpo A e B (rispettivamente in kJ/°C)?
 
 - **A.** 2,0 e 4,0
 - **B.** 2,0 e 3,0
@@ -1363,7 +1363,7 @@ In the laboratory, two quantities of the same liquid are mixed. The mass of the 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**21) ** Two bodies A and B are heated. In the graphs below $\theta$ (°C) represents the body temperature and $Q$ (kJ) the amount of heat absorbed. What is the Caloric Capacity of each body A and B (respectively in kJ/°C)?
+**21)** Two bodies A and B are heated. In the graphs below $\theta$ (°C) represents the body temperature and $Q$ (kJ) the amount of heat absorbed. What is the Caloric Capacity of each body A and B (respectively in kJ/°C)?
 
 - **A.** 2,0 e 4,0
 - **B.** 2,0 e 3,0
@@ -1407,7 +1407,7 @@ Temperature vs heat graphs for bodies A and B
 
 <div class="qlang-split" data-lang="it"></div>
 
-**22) ** Un termometro a scala lineare ma arbitraria (indicato come X) segna 10° X al punto di fusione del ghiaccio e 200° X al punto di scaldamento dell'acqua. Qual è la lettura di questo termometro al punto di ebollizione dell'alcol etilico $T_e = 78°$ C?
+**22)** Un termometro a scala lineare ma arbitraria (indicato come X) segna 10° X al punto di fusione del ghiaccio e 200° X al punto di scaldamento dell'acqua. Qual è la lettura di questo termometro al punto di ebollizione dell'alcol etilico $T_e = 78°$ C?
 
 - **A.** 100° X
 - **B.** 158° X
@@ -1423,7 +1423,7 @@ Temperature vs heat graphs for bodies A and B
 
 <div class="qlang-split" data-lang="en"></div>
 
-**22) ** A thermometer with a linear but arbitrary scale (indicated as X) marks 10° X at the melting point of the ice and 200° X at the boiling point of the water. What is the reading of this thermometer at the boiling point of ethyl alcohol $T_e = 78°$ C?
+**22)** A thermometer with a linear but arbitrary scale (indicated as X) marks 10° X at the melting point of the ice and 200° X at the boiling point of the water. What is the reading of this thermometer at the boiling point of ethyl alcohol $T_e = 78°$ C?
 
 - **A.** 100° X
 - **B.** 158° X
@@ -1522,7 +1522,7 @@ A cook knows that using a pressure vessel greatly reduces the cooking time of fo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**24) ** Considera il diagramma di fasi dell'acqua riportato nella figura seguente. A che temperatura e pressione si trova l'acqua nei tre stati: liquido, vapore e solido?
+**24)** Considera il diagramma di fasi dell'acqua riportato nella figura seguente. A che temperatura e pressione si trova l'acqua nei tre stati: liquido, vapore e solido?
 
 - **A** 0° C e 4,5 Torr
 - **B.** 0° C e 10 Torr
@@ -1543,7 +1543,7 @@ A cook knows that using a pressure vessel greatly reduces the cooking time of fo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**24) ** Consider the water phase diagram shown in the figure below. At what temperature and pressure can we find water in the three states: liquid, steam and solid?
+**24)** Consider the water phase diagram shown in the figure below. At what temperature and pressure can we find water in the three states: liquid, steam and solid?
 
 - **A** 0° C and 4,5 Torr
 - **B** 0° C and 10 Torr
@@ -1587,7 +1587,7 @@ The following table shows the results of the analysis of the data and the result
 
 <div class="qlang-split" data-lang="it"></div>
 
-**25) ** Le linee di trasmissione elettrica utilizzano fili di materiale conduttore (metalli come il rame e l'alluminio). Cosa succede in estate quando la temperatura media aumenta?
+**25)** Le linee di trasmissione elettrica utilizzano fili di materiale conduttore (metalli come il rame e l'alluminio). Cosa succede in estate quando la temperatura media aumenta?
 
 - **A.** La lunghezza effettiva tra due torri (o poste) diminuisce.
 - **B.** La lunghezza effettiva tra due torri (o poste) aumenta.
@@ -1646,7 +1646,7 @@ As cinco questões que seguem pedem para que você faça estimativas condizentes
 
 Le cinque domande che seguono ti chiedono di fare stime che siano conformi alla realtà.
 
-**26) ** Fai una stima di quanti passi fa un maratonista durante una gara (ricorda che la maratona è una gara da 42 km).
+**26)** Fai una stima di quanti passi fa un maratonista durante una gara (ricorda che la maratona è una gara da 42 km).
 
 - **A.** 35.000
 - **B.** 420
@@ -1703,7 +1703,7 @@ Make an estimate of how many steps a marathon runner takes during a race (rememb
 
 <div class="qlang-split" data-lang="it"></div>
 
-**27) ** Quanti barili di cereali sono necessari come riferimento per misurare una linea di 100 m?
+**27)** Quanti barili di cereali sono necessari come riferimento per misurare una linea di 100 m?
 
 - **A.** 100
 - **B.** 1.000
@@ -1774,7 +1774,7 @@ Quanto tempo (in ore) ci vuole per contare fino a un milione?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**28) ** How long (in hours) does it take to count to one million?
+**28)** How long (in hours) does it take to count to one million?
 
 - **A.** 10
 - **B.** 27

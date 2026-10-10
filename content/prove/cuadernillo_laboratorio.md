@@ -248,7 +248,7 @@ determinare il materiale di tali materiali.
 
 <div class="qlang-split" data-lang="en"></div>
 
-** Determine the density of a body and its material**
+**Determine the density of a body and its material**
 
 Proposal 3
 The task

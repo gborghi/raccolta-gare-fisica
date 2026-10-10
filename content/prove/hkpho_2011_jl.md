@@ -284,11 +284,11 @@ Come si vede nella figura, un orologio di sabbia viene messo su un bilanciatore 
 
 ![[HKPhO_2011_JL_p5_f1.png]]
 
-- **(a) ** La forza aumenta a un valore superiore durante il processo di gocciolare e poi ritorna al valore di equilibrio dopo il processo.
-- **(b) ** La forza diminuisce a un valore inferiore durante il processo di gocciolare e poi ritorna al valore di equilibrio dopo il processo.
-- **(c) ** La forza aumenta momentaneamente all'inizio e riprende il valore di equilibrio, e rimane la stessa dopo.
-- **(d) ** La forza aumenta momentaneamente all'inizio e riprende il valore di equilibrio, diminuisce momentaneamente alla fine del processo di gocciolare, e rimane al valore di equilibrio successivamente.
-- **(e) ** La forza diminuisce momentaneamente all'inizio e riprende il valore di equilibrio, e aumenta momentaneamente alla fine del processo di gocciolare, e rimane al valore di equilibrio successivamente.
+- **(a)** La forza aumenta a un valore superiore durante il processo di gocciolare e poi ritorna al valore di equilibrio dopo il processo.
+- **(b)** La forza diminuisce a un valore inferiore durante il processo di gocciolare e poi ritorna al valore di equilibrio dopo il processo.
+- **(c)** La forza aumenta momentaneamente all'inizio e riprende il valore di equilibrio, e rimane la stessa dopo.
+- **(d)** La forza aumenta momentaneamente all'inizio e riprende il valore di equilibrio, diminuisce momentaneamente alla fine del processo di gocciolare, e rimane al valore di equilibrio successivamente.
+- **(e)** La forza diminuisce momentaneamente all'inizio e riprende il valore di equilibrio, e aumenta momentaneamente alla fine del processo di gocciolare, e rimane al valore di equilibrio successivamente.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oA0ki7i4tg6bLrXzrEXTha1UAWWdMHQD/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -327,11 +327,11 @@ A piece of ice with an embedded stone floats on the surface of water in a glass.
 
 Un pezzo di ghiaccio con una pietra incastrata galleggia sulla superficie dell'acqua in un bicchiere. Dopo che il ghiaccio si è sciolto, la pietra si scende al fondo del vetro. Rispetto al livello iniziale dell'acqua, quale è il cambiamento del livello dell'acqua nel vetro, prima durante il periodo in cui il ghiaccio si scioglie, e secondo dopo che la pietra si affonda al fondo?
 
-- **(a) ** Rimane lo stesso e poi sale.
-- **(b) ** Rimane uguale e poi cade.
-- **(c) ** Rimane lo stesso per tutto il tempo.
-- ** (d) ** Si alza e poi si fa cadere.
-- **(e) ** Le cascate poi si alzano.
+- **(a)** Rimane lo stesso e poi sale.
+- **(b)** Rimane uguale e poi cade.
+- **(c)** Rimane lo stesso per tutto il tempo.
+- **(d)** Si alza e poi si fa cadere.
+- **(e)** Le cascate poi si alzano.
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oA0ki7i4tg6bLrXzrEXTha1UAWWdMHQD/view)
 **Topic:** [[Fluid Mechanics]]
@@ -382,11 +382,11 @@ II. L'elettricità generata dalle turbine può essere fornita ai motori elettric
 
 III. Il La resistenza all'aria dei treni non sarà influenzata.
 
-- **(a) ** Non tutti sono veri
-- **(b) ** Solo I è vero
-- **(c) ** Solo II è vero
-- **(d) ** Solo III è vero
-- **(e) ** Tutti sono veri
+- **(a)** Non tutti sono veri
+- **(b)** Solo I è vero
+- **(c)** Solo II è vero
+- **(d)** Solo III è vero
+- **(e)** Tutti sono veri
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1oA0ki7i4tg6bLrXzrEXTha1UAWWdMHQD/view)
 **Topic:** [[Conservation of Energy]]

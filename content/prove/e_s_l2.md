@@ -44,7 +44,7 @@ Fibers made of elastic rubber can be stretched to lengths $l$, much longer than 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fibra di gomma (12 pts) **
+**Fibra di gomma (12 pts)**
 
 Le fibre in gomma elastica possono essere estese fino a lunghezze $l$, molto più lunghe della lunghezza in stato non deformato $l_0$. Per tali gommi, il volume netto della fibra rimane costante.
 
@@ -98,7 +98,7 @@ Two planets move along circular orbits around a star of mass $M = 2.0 \cdot 10^{
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Planeti (6 pts) **
+**Planeti (6 pts)**
 
 Due pianeti si muovono in orbite circolari intorno a una stella di massa $M = 2.0 \cdot 10^{30}$ kg; costante gravitazionale $G = 6.67 \cdot 10^{-11}$ m$^3$/(kg$\cdot$s$^2$). La dipendenza della distanza angolare tra un pianeta e la stella dal tempo, vista dall'altro pianeta, è raffigurata nella figura.
 
@@ -149,7 +149,7 @@ Due pianeti si muovono in orbite circolari intorno a una stella di massa $M = 2.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lenza a spostamento di inclinazione (6 punti) **
+**Lenza a spostamento di inclinazione (6 punti)**
 
 1) Mostra che un'immagine di una linea retta creata da una lente sottile è anche una linea retta. Considera solo la geometria bidimensionale, cioè presumere che l'asse ottico principale e la linea retta si trovino nella stessa superficie $(x, y)$. Suggerimento: utilizzare il sistema di coordinate, dove l'origine coincide con il centro della lente e rappresentare linee in modo algebrico, ad esempio. $y = ax + b$. Utilizzare la formula di lente sottile $f^{-1} = x^{-1} - x'^{-1}$ ($x > 0$ e $x'$ sono rispettivamente le coordinate $x$ di un punto e della sua immagine) (2 pts).
 
@@ -194,7 +194,7 @@ A thick glass plate is coated by a thin transparent film. The transmission spect
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Filma trasparente (6 pts) **
+**Filma trasparente (6 pts)**
 
 Una piastra di vetro spessa è rivestita da un sottile film trasparente. Lo spettro di trasmissione del sistema è raffigurato nel grafico (la luce cade normalmente sulla targa). L'indice di rifrazione del film $n \approx 1.3$. Qual è lo spessore del film $d$?
 
@@ -241,7 +241,7 @@ A 4th order ellipse is defined by equation $\dfrac{x^4}{a^4} + \dfrac{y^4}{b^4} 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Elisse di quarto ordine (6 punti) **
+**Elisse di quarto ordine (6 punti)**
 
 Un'ellisse di quarto ordine è definita con l'equazione $\dfrac{x^4}{a^4} + \dfrac{y^4}{b^4} = 1$, dove $a$ e $b$ sono le lunghezze degli asse a metà. Considera un cilindro omogeneo, la cui sezione trasversale è un'ellisse di quarto ordine. La posizione del cilindro è misurata dall'angolo $0 \leq \phi \leq \pi/2$ tra la direzione verticale e la semia-asse più lunga, vedi figura.
 
@@ -359,7 +359,7 @@ Consider a passive cooling system. Cold air (at normal conditions: $p_0 = 10^5$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Rifrigio passivo (9 pts) **
+**Rifrigio passivo (9 pts)**
 
 Considerate un sistema di raffreddamento passivo. L'aria fredda (a condizioni normali: $p_0 = 10^5$ Pa, $T_0 = 293$ K) scorre attraverso il disipadore termico di un chip di dissipazione di potenza $P = 100$ W, in un tubo verticale di lunghezza $L = 1$ m e superficie trasversale $S = 25$ cm$^2$. Dopo aver attraversato il tubo, l'aria entra nella stanza ambientale. Supponiamo che l'aria all'interno del tubo si mescolhi bene; trascurate l'attrito viscoso e turbolento dell'aria all'interno del tubo e del termostato. L'aria può essere considerata un gas ideale con esponente adiabatico $\gamma = 1.4$ e massa molare $\mu = 29$ g/mol.
 
@@ -412,7 +412,7 @@ Consider a rectangular loop of wire with dimensions $a = 0.03$ m and $b = 1.0$ m
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Luppo di filo (7 pts) **
+**Luppo di filo (7 pts)**
 
 Si consideri un ciclo rettangolare di filo con dimensioni $a = 0.03$ m e $b = 1.0$ m, il cui lato è parallelo ad un altro lungo filo retto con corrente $I_0 = 1000$ A, a distanza $l = 0.01$ m (vedi figura). L'induttanza magnetica di tale corrente è tracciata come funzione della distanza dal filo nel grafico allegato.
 

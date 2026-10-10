@@ -82,14 +82,14 @@ Una trappola di penning è un dispositivo utilizzato per memorizzare particelle 
 
 ### 1.1
 
-**(a) ** La trappola è un cilindro, parallelo all'asse $z$, con origine al centro. Dentro, il potenziale elettrico è
+**(a)** La trappola è un cilindro, parallelo all'asse $z$, con origine al centro. Dentro, il potenziale elettrico è
 $$V = V_0\,\frac{z^2 - r^2}{2d^2},$$
 dove $d$ è la dimensione caratteristica della trappola. Per generare il campo quadrupolo all'interno, ci sono due set di elettrodi: due cappucci finali e l'elettrodo anello, che sono tenuti alla differenza potenziale $V_0$, e sono solidi di rivoluzione. Per un diagramma, si riferisce alla parte e). La distanza minima tra le cappe finali deve essere $2z_0$ e il diametro interno più piccolo dell'anello deve essere $2r_0$.
 
 - Prendere una sezione incrociata parallela all'asse $z$ attraverso l'origine. Quali sono le equazioni della sezione trasversale dell'anello e degli elettrodi endcap?
 - Esprimere $d$ in termini di $r_0$ e $z_0$.
 
-**(b) ** Il campo magnetico $\mathbf{B} = B_0\hat{z}$ è omogeneo all'interno della trappola. Supponiamo che abbiamo una particella con carica $q$ e massa $m$. Supponiamo che la sua velocità sia non relativistica e trascuriamo la perdita di energia da radiazioni. Per il resto del problema, supponiamo che $q$ sia positivo.
+**(b)** Il campo magnetico $\mathbf{B} = B_0\hat{z}$ è omogeneo all'interno della trappola. Supponiamo che abbiamo una particella con carica $q$ e massa $m$. Supponiamo che la sua velocità sia non relativistica e trascuriamo la perdita di energia da radiazioni. Per il resto del problema, supponiamo che $q$ sia positivo.
 
 - Il movimento dell'asse $z$ è armonico. Trova la frequenza angolare $\omega_z$.
 - Scrivere l'equazione differenziale del movimento nel piano $xy$.
@@ -97,7 +97,7 @@ dove $d$ è la dimensione caratteristica della trappola. Per generare il campo q
 
 In genere $\omega_c \gg \omega_z$. Supponiamo questo per il resto del problema.
 
-**(c) ** Il movimento dell'elettrone nel piano $xy$ consiste in due movimenti circolari uniformi separati sovrapposti l'uno all'altro. Uno è il moto di ciclotrone e l'altro è il moto di magnetron. Trova espressioni per le frequenze angolari del movimento del ciclotrone e del movimento del magnetrone, in termini di $\omega_z$ e $\omega_c$.
+**(c)** Il movimento dell'elettrone nel piano $xy$ consiste in due movimenti circolari uniformi separati sovrapposti l'uno all'altro. Uno è il moto di ciclotrone e l'altro è il moto di magnetron. Trova espressioni per le frequenze angolari del movimento del ciclotrone e del movimento del magnetrone, in termini di $\omega_z$ e $\omega_c$.
 
 ### 1.2
 
@@ -107,7 +107,7 @@ $$P = \frac{q^2 a^2}{6\pi\varepsilon_0 c^3}.$$
 - L'energia dell'orbita decade come $e^{-t/\gamma_c}$. Trova $\gamma_c$.
 - Ora consideriamo l'ammortizzazione delle radiazioni del movimento assiale. L'energia dell'oscillazione decade come $e^{-t/\gamma_z}$. Trova $\gamma_z$.
 
-**(e) ** Per un elettrone a tipico $\omega_c$, $\gamma_c$ è abbastanza piccolo, consentendo un facile ammortizzazione. Tuttavia, $\gamma_z$ è molto più grande, e per un protone, l'ammortizzazione radiologica è insignificante. Per raffreddare le particelle di grandi dimensioni, viene utilizzato un circuito. Prendiamo in considerazione l'ammortizzazione assiale.
+**(e)** Per un elettrone a tipico $\omega_c$, $\gamma_c$ è abbastanza piccolo, consentendo un facile ammortizzazione. Tuttavia, $\gamma_z$ è molto più grande, e per un protone, l'ammortizzazione radiologica è insignificante. Per raffreddare le particelle di grandi dimensioni, viene utilizzato un circuito. Prendiamo in considerazione l'ammortizzazione assiale.
 
 Le oscillazioni dell'ion inducono cariche di immagine nell'elettrodo, che possono essere interpretate come corrente $I$. Vedi il seguente circuito:
 
@@ -118,7 +118,7 @@ Potresti ignorare il potenziale quadrupolo in questa parte.
 - Ci sarà una differenza potenziale di $IR$ tra la cappa finale e l' anello (così come l' altra cappa finale). In questo modo si produce un campo elettrico $E\hat{z}$ proporzionale a $I$ all'interno della trappola. Trova $E$ fino a un fattore costante $\kappa$, che dipende dalla geometria degli elettrodi. *Signore: * se le cappe finali sono piani piatti infiniti, $\kappa$ è uguale a 1.
 - Considerate la potenza perduta attraverso la resistenza. Usare questo per derivare la forza sull'ion, $f = -m\zeta\dot{z}$. Scrivere un'espressione per $\zeta$.
 
-**(f) ** In conclusione, consideriamo come raffreddare il movimento del magnetrone (riducendo il suo raggio).
+**(f)** In conclusione, consideriamo come raffreddare il movimento del magnetrone (riducendo il suo raggio).
 
 - Trova l'energia totale del moto di magnetron. Supponiamo $z = 0$.
 
@@ -181,11 +181,11 @@ In questo problema, esamineremo l'interazione tra oscillazioni veloci e cambiame
 
 Un grande volume di liquido non compressibile non viscoso con densità $\rho$ è conservato a temperatura $T_c$ e pressione $P_c$. Una bolla sferica costituita da particelle di gas ideale $N$ con temperatura $T_0 > T_c$ viene introdotta nel liquido. Ignorare la tensione superficiale e qualsiasi trasferimento di calore tra il liquido e il gas.
 
-** a) ** Trova il raggio di equilibrio $R_0$ della bolla.
+**a)** Trova il raggio di equilibrio $R_0$ della bolla.
 
 Il raggio della bolla è leggermente perturbato dall'equilibrio e le sue oscillazioni sono osservate; il gas rimane vicino all'equilibrio termico in ogni momento. Supponiamo che il movimento del liquido sia laminare e radiale e che la densità del gas sia trascurabile rispetto a $\rho$. Le risposte future potranno essere espresse in termini di $R_0$.
 
-**(b) ** Trova la frequenza $\omega$ delle piccole oscillazioni della bolla.
+**(b)** Trova la frequenza $\omega$ delle piccole oscillazioni della bolla.
 
 ### 2.2
 
@@ -193,9 +193,9 @@ Ora, supponiamo che l'interfaccia tra il gas e il liquido abbia una conduzione t
 
 Se la bolla inizia a raggio $R_0$, trova il tempo approssimativo $\tau$ fino a quando non si riduce a raggio $(R_0 + R_f)/2$. Esprimere la risposta al numero più basso nella quantità $\alpha = R_0/R_f - 1$.
 
-**(d) ** Successivamente, la bolla inizia a oscillarsi intorno a $R_0$ con amplitudine $R_0\delta_0$, dove $\delta_0 \ll 1$; supponiamo che le oscillazioni siano molto più veloci della contrazione. Trova il raggio finale medio temporale $R'_f$ della bolla, fino all'ordine più basso in $\delta_0$. Esprimi qualitativamente la ragione di qualsiasi differenza tra $R'_f$ e $R_f$.
+**(d)** Successivamente, la bolla inizia a oscillarsi intorno a $R_0$ con amplitudine $R_0\delta_0$, dove $\delta_0 \ll 1$; supponiamo che le oscillazioni siano molto più veloci della contrazione. Trova il raggio finale medio temporale $R'_f$ della bolla, fino all'ordine più basso in $\delta_0$. Esprimi qualitativamente la ragione di qualsiasi differenza tra $R'_f$ e $R_f$.
 
-**(e) ** Considerata la situazione di cui alla parte (d), trovare il tempo approssimativo $\tau'$ fino a quando il raggio medio temporale della bolla si riduca a $(R_0 + R'_f)/2$, fino ai livelli più bassi di $\alpha' = R_0/R'_f - 1$ e $\delta_0$.
+**(e)** Considerata la situazione di cui alla parte (d), trovare il tempo approssimativo $\tau'$ fino a quando il raggio medio temporale della bolla si riduca a $(R_0 + R'_f)/2$, fino ai livelli più bassi di $\alpha' = R_0/R'_f - 1$ e $\delta_0$.
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1RJ_qIR9t_tKq42wNvZXZNUiF7sloXszn/view)
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
@@ -264,19 +264,19 @@ In questo problema, indaghiamo sulla formazione dei sistemi stellari.
 
 Si consideri una nube di polvere di raggio $R$ di massa $M$ con particelle di massa $m$, tutte tenute a temperatura costante $T$. Supponiamo che $kT \gg GMm/R$; cioè Le particelle sono abbastanza distanti da sé che le interazioni gravitazionali sono quasi trascurabili.
 
-**(a) ** Qual è il valore atteso e la varianza del momento angolare di una particella nella direzione $\hat{x}$?
+**(a)** Qual è il valore atteso e la varianza del momento angolare di una particella nella direzione $\hat{x}$?
 
-**(b) ** Qual è la varianza nel momento angolare totale della nuvola, $\langle L^2 \rangle$?
+**(b)** Qual è la varianza nel momento angolare totale della nuvola, $\langle L^2 \rangle$?
 
 ### 3.2
 
 Supponiamo che si verifichino alcune fluttuazioni di densità, che portano questa nube di gas al collasso gravitazionale. Ora, dobbiamo tenere conto dell'interazione gravitazionale; supponiamo che la nube rimanga in equilibrio termico e che l'energia totale della nube rimanga costante  il lavoro svolto dal gas esterno è piccolo.
 
-**(c) ** Supponiamo che la nuvola rimanga sfericamente simmetrica. Trova la distribuzione approssimativa delle densità $\rho(r)$. È possibile utilizzare la nuova temperatura di equilibrio nella propria espressione, che verrà calcolata nella parte (f). Il modello che trovi dovrebbe funzionare sotto il limite $r^2 \gg k_b T / (Gm)$.
+**(c)** Supponiamo che la nuvola rimanga sfericamente simmetrica. Trova la distribuzione approssimativa delle densità $\rho(r)$. È possibile utilizzare la nuova temperatura di equilibrio nella propria espressione, che verrà calcolata nella parte (f). Il modello che trovi dovrebbe funzionare sotto il limite $r^2 \gg k_b T / (Gm)$.
 
-**(d) ** Qual è il nuovo raggio della nuvola, $R'$?
+**(d)** Qual è il nuovo raggio della nuvola, $R'$?
 
-**(e) ** Trova la velocità angolare $\omega$ della nuvola, supponendo che la nuvola ruota uniformemente. Prendete il momento angolare totale della nuvola a $\sqrt{\langle L^2 \rangle}\,\hat{z}$, che avete trovato nella parte (b).
+**(e)** Trova la velocità angolare $\omega$ della nuvola, supponendo che la nuvola ruota uniformemente. Prendete il momento angolare totale della nuvola a $\sqrt{\langle L^2 \rangle}\,\hat{z}$, che avete trovato nella parte (b).
 
 **(f)** What is the new temperature of the cloud, $T'$?
 
@@ -284,11 +284,11 @@ Supponiamo che si verifichino alcune fluttuazioni di densità, che portano quest
 
 La nebulosa non è nello stato più stabile a causa della sua alta velocità angolare. Supponiamo che la parte della nuvola che raggiunge oltre un limite di densità critica $\rho_c$ crolla e inizia a formare una stella.
 
-**(g) ** Trova il raggio iniziale del collasso, $R_c$, e la massa della stella $M_s$. Supponiamo che il raggio della stella sia molto più piccolo di $R_c$.
+**(g)** Trova il raggio iniziale del collasso, $R_c$, e la massa della stella $M_s$. Supponiamo che il raggio della stella sia molto più piccolo di $R_c$.
 
 Per le ultime due parti, supponiamo che il potenziale gravitazionale sia quadratico, $U = \tfrac{1}{2}k(x^2 + y^2 + z^2)$, e la velocità angolare delle particelle è $\omega$. Lasciate le risposte in termini di variabili indicate in questa parte.
 
-**(h) ** Supponiamo che tutto il materiale rimanente, alcune particelle $N$ a temperatura $T'$, iniziino a fissarsi in un gas. Qual è il valore atteso per $r^2$, la distanza tra queste particelle e l'asse di rotazione, una volta raggiunti i loro stati più stabili?
+**(h)** Supponiamo che tutto il materiale rimanente, alcune particelle $N$ a temperatura $T'$, iniziino a fissarsi in un gas. Qual è il valore atteso per $r^2$, la distanza tra queste particelle e l'asse di rotazione, una volta raggiunti i loro stati più stabili?
 
 **(i)** What is the approximate variance in the orbital inclination for this leftover material — that eventually begins to form asteroids and planets? (a prima ordine in $\omega^2$)
 
@@ -363,28 +363,28 @@ In questo problema, indaghiamo un modello unidimensionale di atomi in un solido.
 
 In primo luogo, supponiamo che la massa sia distribuita continuamente in tutta la catena (in altre parole, $a$ è molto piccola). Qui, le onde longitudinali hanno la stessa velocità per tutti i valori della frequenza angolare $\omega$ e del numero d'onda $k$.
 
-**(a) ** Trova questa velocità del suono nel solido, $v$, fino a una costante senza dimensioni.
+**(a)** Trova questa velocità del suono nel solido, $v$, fino a una costante senza dimensioni.
 
 Ora, ci liberiamo di questa ipotesi e risolviamo completamente.
 
-**(b) ** Trovare una relazione di dispersione (una relazione tra $\omega$ e $k$) per la catena di atomi se $a$ non è richiesta per essere piccola. Utilizzare questo risultato per trovare la costante dimensionaria della parte (a).
+**(b)** Trovare una relazione di dispersione (una relazione tra $\omega$ e $k$) per la catena di atomi se $a$ non è richiesta per essere piccola. Utilizzare questo risultato per trovare la costante dimensionaria della parte (a).
 
 ### 4.2
 
 Possiamo utilizzare i risultati di cui sopra per trovare la capacità termico della catena. Per questo, trattare ogni possibile frequenza $\omega$ come un suo oscillatore armonico quantistico (QHO) con una particella di massa $m$ che si muove in un potenziale definito da $V(x) = \tfrac{1}{2}m\omega^2 x^2$. Ciascuno di questi oscillatori armonici è in equilibrio termico e l'energia totale della catena è la somma dei contributi di ogni frequenza. Potreste trovare utili i seguenti integrali:
 $$\int_0^\infty \frac{x}{e^x - 1}\,dx = \frac{\pi^2}{6}, \qquad \int_0^\infty \frac{x^3}{e^x - 1}\,dx = \frac{\pi^4}{15}.$$
 
-**(c) ** In primo luogo, derivare i livelli di energia di un oscillatore armonico quantistico utilizzando l'approssimazione WKB:
+**(c)** In primo luogo, derivare i livelli di energia di un oscillatore armonico quantistico utilizzando l'approssimazione WKB:
 $$
 \oint p(x)\,dx = 2\pi\hbar\left(n + 1/2\right) \tag{1}
 $$
 Qui, $p(x)$ è la dinamica della particella come funzione di posizione e l'integrale è attraverso un periodo classico.
 
-**(d) ** Utilizando il modello della parte a), derivare la capacità energetica e termica totale in funzione della temperatura $T$. (Il risultato deve essere valido solo per $\beta\hbar\omega_{\mathrm{avg}} \gg 1$, con $\beta = 1/k_B T$.) Supponiamo che gli atomi alle estremità della catena debbano rimanere fissi in posizione.
+**(d)** Utilizando il modello della parte a), derivare la capacità energetica e termica totale in funzione della temperatura $T$. (Il risultato deve essere valido solo per $\beta\hbar\omega_{\mathrm{avg}} \gg 1$, con $\beta = 1/k_B T$.) Supponiamo che gli atomi alle estremità della catena debbano rimanere fissi in posizione.
 
-**(e) ** Usando la relazione di dispersione della parte (b), trovare la capacità di energia e calore al successivo ordine in $T$.
+**(e)** Usando la relazione di dispersione della parte (b), trovare la capacità di energia e calore al successivo ordine in $T$.
 
-**(f) ** In precedenza abbiamo supposto $\beta\hbar\omega_{\mathrm{avg}} \gg 1$. Perché i nostri risultati non sono riusciti per $T$?
+**(f)** In precedenza abbiamo supposto $\beta\hbar\omega_{\mathrm{avg}} \gg 1$. Perché i nostri risultati non sono riusciti per $T$?
 
 ### 4.3
 
@@ -393,7 +393,7 @@ $$
 E_n = mc^2\left(-1 + \sqrt{1 + \frac{2\hbar\omega}{mc^2}\left(n + \frac{1}{2}\right)}\right) \tag{2}
 $$
 
-**(g) ** Utilizzare i livelli di energia dati per trovare la capacità energetica e termica totale della catena in cui ogni particella si muove relativisticamente; si può presumere che la relazione di dispersione sia lineare come nella parte (d). Rispondi al ordine più basso in $\hbar\omega/mc^2$.
+**(g)** Utilizzare i livelli di energia dati per trovare la capacità energetica e termica totale della catena in cui ogni particella si muove relativisticamente; si può presumere che la relazione di dispersione sia lineare come nella parte (d). Rispondi al ordine più basso in $\hbar\omega/mc^2$.
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1RJ_qIR9t_tKq42wNvZXZNUiF7sloXszn/view)
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]

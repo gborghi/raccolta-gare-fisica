@@ -617,14 +617,14 @@ Theory 2014
 
 3.14 Identify S, T, U and V in the following sequence.
 
-**Note: Methylation using SAM takes place at the more nucleophilic nitrogen.
+**Note: Methylation using SAM takes place at the more nucleophilic nitrogen.**
 (3.5 marks)
 3.15 Biosynthetic pathways are usually established by isotopic labeling of potential
 precursors. If ornithine is labeled with 14C at C2 and 15N at nitrogen on C2, draw the
 structure of the hygrine obtained indicating the labeled atoms.
 
 (1 mark)
-**
+
 Indian National Chemistry Olympiad
 
 Theory 2014

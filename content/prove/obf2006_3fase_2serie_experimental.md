@@ -261,7 +261,7 @@ Mettete due set di base-fast-fist. Prendi le bacche alle basi con le porche moto
 > $$\text{Diferença relativa} = \frac{\text{Diferença}}{\text{valor de referência}}$$
 > $$\text{Diferença relativa percentual} = \text{Diferença relativa} \times 100\%$$
 
-1. Togli le ruole e gli anelli del passaggio. Sospende il passaggio attraverso il foro ** situato a destra del foro centrale**. Metti un gancio sul lato due.
+1. Togli le ruole e gli anelli del passaggio. Sospende il passaggio attraverso il foro **situato a destra del foro centrale**. Metti un gancio sul lato due.
 2. Appendi **due righe** sul gancio e lascia il passaggio in equilibrio orizzontale.
 3. Misura la distanza $d_2$ dal gancio all'asse di rotazione e registra nella Tabella 3.
 4. Ripeti con **tre righe** e poi con **quattro righe**.
@@ -396,7 +396,7 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 
 ### Experimental procedure II  Balance of static moments
 
-1. Take the dynamometer out. Place the pendant on the clutch and suspend the crossing through the **central hole **.
+1. Take the dynamometer out. Place the pendant on the clutch and suspend the crossing through the **central hole**.
 2. Put two hooks on the cross, one on side 1 and one on side 2.
 3. Hang **two rows** on the side hook 1 and **three rows** on the side hook 2. Write down the codes in Table 2.
 4. Move the hooks until the crossover is in horizontal balance.
@@ -422,7 +422,7 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 > $$\text{Diferença relativa percentual} = \text{Diferença relativa} \times 100\%$$
 
 1. Remove the hooks and the rails from the crossing. Suspend the crossing by the **hole to the right of the centre hole**. Put a hook on side two.
-2. Hang the **two rows ** on the hook and leave the crossing in horizontal balance.
+2. Hang the **two rows** on the hook and leave the crossing in horizontal balance.
 3. Measure the $d_2$ distance from the hook to the rotating axis and register in Table 3.
 4. Repeat with **three rows** and then with **four rows**.
 
@@ -452,8 +452,8 @@ Before assembling, mark on the pencil the points $5\ \text{cm}$, $10\ \text{cm}$
 2. At the bottom of the dynamometer, place a hook to suspend the crossing.
 3. In the moving claw of the other set, also place a hook.
 4. Suspend the crossing by the two hooks.
-5. Place (and maintain) the hook from ** side 1** to $d_1 = 5\ \text{cm}$ of the centre hole.
-6. Place the **side 2 ** hook (linked to the dynamometer) to $d_2 = 5\ \text{cm}$; adjust the claws until the cross is horizontal and register $F_\text{DIN}$ in Table 4.
+5. Place (and maintain) the hook from **side 1** to $d_1 = 5\ \text{cm}$ of the centre hole.
+6. Place the **side 2** hook (linked to the dynamometer) to $d_2 = 5\ \text{cm}$; adjust the claws until the cross is horizontal and register $F_\text{DIN}$ in Table 4.
 7. Repeat with $d_2 = 10\ \text{cm}$ and $d_2 = 15\ \text{cm}$.
 
 **Table 4**

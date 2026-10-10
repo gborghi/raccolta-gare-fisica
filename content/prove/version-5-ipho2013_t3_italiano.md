@@ -258,7 +258,7 @@ Per stimare la grandezza dell'attrazione gravitazionale sull'acqua, lo strato di
 
 A small ice particle with an initial position $(x_0, H)$ on the surface will, over time, pass as part of the ice sheet along a trajectory of movement $z(x)$ in the vertical plane $(x, z)$.
 
-**(3.5) ** It is an expression for the flow path $z(x)$.
+**(3.5)** It is an expression for the flow path $z(x)$.
 
 *(punteggio: 0.9)*
 
@@ -268,7 +268,7 @@ A small ice particle with an initial position $(x_0, H)$ on the surface will, ov
 
 Based on the components of the flow rate and the ice sheet, it is possible to estimate the ice age at a specific depth from the ice sheet surface.
 
-**(3.6) ** Write an expression for the age of ice $t(z)$ in terms of the height $z$ with respect to the ground, exactly at the ice divider ($x = 0$).
+**(3.6)** Write an expression for the age of ice $t(z)$ in terms of the height $z$ with respect to the ground, exactly at the ice divider ($x = 0$).
 
 *(punteggio: 1.0)*
 
@@ -282,15 +282,15 @@ where $\left[\,{}^{18}\text{O}/{}^{16}\text{O}\,\right]$ indicates the relative 
 
 Greenland ice sheet observations show that $\delta^{18}\text{O}$ in snow varies approximately linearly with temperature, Fig. 3.2(a). Assuming this has always occurred, $\delta^{18}\text{O}$ derived from the carotene sample at depth $d = H - z$ leads to an estimate of the temperature of Greenland at the time $t(z)$.
 
-**Figure 3.2: ** (a) Observed ratio of $\delta^{18}\text{O}$ in snow to mean annual surface temperature. (b) Measurements of $\delta^{18}\text{O}$ in terms of depth from the surface, taken from a surface-carotene ice core to the rock bed at a specific point along the Greenland ice divide where $H = 3060\ \text{m}$.
+**Figure 3.2:** (a) Observed ratio of $\delta^{18}\text{O}$ in snow to mean annual surface temperature. (b) Measurements of $\delta^{18}\text{O}$ in terms of depth from the surface, taken from a surface-carotene ice core to the rock bed at a specific point along the Greenland ice divide where $H = 3060\ \text{m}$.
 
 Measurements of $\delta^{18}\text{O}$ in a 3060 m long Greenland ice core show a sharp change from $\delta^{18}\text{O}$ to a depth of 1492 m, Fig. 3.2 (b), signalling the end of the last glaciation. The glaciation began 120,000 years ago, at a depth of 3,040 m, and the present interglacial period began 11,700 years ago, at a depth of 1,492 m. Assume that these two periods can be described by two different accumulation rates, $a_{\text{ia}}$ (ice age, 'ice age') and $a_{\text{ig}}$ (interglacial age, 'interglacial age', respectively). Puoi assumere che $H$ rimanga costante durante questi 120000 anni.
 
-**(3.7a) ** Determines the accumulation rates of $a_{\text{ia}}$ and $a_{\text{ig}}$.
+**(3.7a)** Determines the accumulation rates of $a_{\text{ia}}$ and $a_{\text{ig}}$.
 
 *(punteggio: 0.8)*
 
-**(3.7b) ** Using the data in Fig. 3.2, finds the temperature change during the transition from the ice age to interglacial.
+**(3.7b)** Using the data in Fig. 3.2, finds the temperature change during the transition from the ice age to interglacial.
 
 *(punteggio: 0.2)*
 
@@ -300,7 +300,7 @@ Measurements of $\delta^{18}\text{O}$ in a 3060 m long Greenland ice core show a
 
 A complete melting of the Greenland ice sheet would cause sea levels to rise throughout the ocean. For a rough estimate of sea level rise, a uniform ocean-wide rise of constant area $A_{\text{ocean}}$ can be considered.
 
-**(3.8) ** Calculates the average global sea level rise $\Delta h_{\text{sea}}$ that would result from the complete melting of Greenland's ice sheet, given its current area $A_{\text{ice}} = 1.7 \times 10^{12}\ \text{m}^2$, $H = 2\ \text{km}$, $\rho_{\text{ghiaccio}} = 917\ \text{kg/m}^3$, $\rho_{\text{acqua}} = 1025\ \text{kg/m}^3$, and $A_{\text{ocean}} = 3.62 \times 10^{14}\ \text{m}^2$.
+**(3.8)** Calculates the average global sea level rise $\Delta h_{\text{sea}}$ that would result from the complete melting of Greenland's ice sheet, given its current area $A_{\text{ice}} = 1.7 \times 10^{12}\ \text{m}^2$, $H = 2\ \text{km}$, $\rho_{\text{ghiaccio}} = 917\ \text{kg/m}^3$, $\rho_{\text{acqua}} = 1025\ \text{kg/m}^3$, and $A_{\text{ocean}} = 3.62 \times 10^{14}\ \text{m}^2$.
 
 *(punteggio: 0.6)*
 
@@ -310,7 +310,7 @@ Greenland's massive ice sheet exerts a gravitational pull on the surrounding oce
 
 To estimate the magnitude of gravitational attraction on water, the Greenland ice sheet is now modeled as a point of mass located at ground level, having a mass equal to that of the Greenland ice sheet $M_{\text{ice}}$. Copenhagen lies $d_C = 3500\ \text{km}$ along the Earth's surface from the centre of the ice ball. We can consider the Earth, without the ice ball, to have spherical symmetry and a global ocean spread over the entire surface of the Earth equal to $A_{\text{ocean}} = 3.62 \times 10^{14}\ \text{m}^2$. All the effects of the Earth's rotation can be overlooked.
 
-**(3.9) ** Using this model, it determines the difference $\Delta h = h_C - h_A$ between sea levels in Copenhagen ($h_C$) and at a point diametrically opposite Greenland ($h_A$).
+**(3.9)** Using this model, it determines the difference $\Delta h = h_C - h_A$ between sea levels in Copenhagen ($h_C$) and at a point diametrically opposite Greenland ($h_A$).
 
 *(punteggio: 1.8)*
 

@@ -382,7 +382,7 @@ The amplitude of the gravitational wave emitted by the binary system in C.5 is p
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Set the mind experiment with three watches
+**p.3**  Set the mind experiment with three watches
 ![[_attachments/exam-theory-Q2-italiano_4/exam-theory-Q2-italiano_4_p3_f2.png]]
 <!--fig:end-->
 
@@ -392,7 +392,7 @@ The amplitude of the gravitational wave emitted by the binary system in C.5 is p
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Arrival time delay depending on the orbital phase
+**p.4**  Arrival time delay depending on the orbital phase
 ![[_attachments/exam-theory-Q2-italiano_4/exam-theory-Q2-italiano_4_p4_f4.png]]
 <!--fig:end-->
 

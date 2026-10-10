@@ -411,7 +411,7 @@ quanto vale l'errore relativo percentuale della misura ottenuta da Francesco, ri
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Heat resistance **
+**Heat resistance**
 
 Francesco wants to measure the electrical resistance a certain resistor has at room temperature. To do this, it causes a current of $100\ \text{mA}$ to flow through the resistor for a very long time. However, such a current is high enough to significantly heat the resistor, changing its resistance and affecting the measurement. Knowing that:
 
@@ -537,7 +537,7 @@ Sapendo che tutte le resistenze del circuito in figura sono uguali e pari a $1\ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Excess resistance **
+**Excess resistance**
 
 Knowing that all the resistors of the circuit in the figure are equal to $1\ \Omega$, what is the equivalent resistance between the points $A$ and $B$?
 

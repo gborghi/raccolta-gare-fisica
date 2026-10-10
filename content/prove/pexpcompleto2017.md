@@ -100,7 +100,7 @@ La ecuación (1) indica que se espera $T$ proporcional a $L^{1/2}$. Imagine ahor
 
 <div class="qlang-split" data-lang="it"></div>
 
-La prova sperimentale. Determinazione del modulo di taglio del rame.**
+La prova sperimentale. Determinazione del modulo di taglio del rame.
 
 **Obiettivo**
 

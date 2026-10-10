@@ -101,10 +101,10 @@ Quando una persona inizia a fare esercizio fisico, molti parametri del corpo cam
 
 Le **P** e **Q** rappresentano probabilmente:
 
-- (A) ** P **: livello di anidride carbonica nelle vene  ** Q **: livello di ossigeno nelle arterie.
-- (B) ** P **: frequenza respiratoria  ** Q **: livello di anidride carbonica nell' arteria.
-- (C) ** P **: livello di ossigeno nelle arterie  ** Q **: livello di anidride carbonica nelle vene.
-- (D) ** P **: livello di ossigeno nelle arterie  ** Q**: livello di ossigeno nelle vene.
+- (A) **P**: livello di anidride carbonica nelle vene  **Q**: livello di ossigeno nelle arterie.
+- (B) **P**: frequenza respiratoria  **Q**: livello di anidride carbonica nell' arteria.
+- (C) **P**: livello di ossigeno nelle arterie  **Q**: livello di anidride carbonica nelle vene.
+- (D) **P**: livello di ossigeno nelle arterie  **Q**: livello di ossigeno nelle vene.
 
 **Topic:** [[Biology]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -676,7 +676,7 @@ Quando il KI solido viene riscaldato in un tubo di prova aperto e secco, viene r
 - A) combinazione chimica B) decomposizione termica
 - (C) doppio spostamento (D) reazione di spostamento
 
-**14.4. ** L' iodio in tintura è un antisettico, efficace anche nell' inattivazione del nuovo coronavirus. Si prepara sciogliendo 20 g di iodio e 25 g di KI in 500 ml di alcol e aggiungendo quindi acqua distillata per rendere il volume 1000 ml. In questo processo, l'iodio si combina con I− per produrre specie I3−.
+**14.4.** L' iodio in tintura è un antisettico, efficace anche nell' inattivazione del nuovo coronavirus. Si prepara sciogliendo 20 g di iodio e 25 g di KI in 500 ml di alcol e aggiungendo quindi acqua distillata per rendere il volume 1000 ml. In questo processo, l'iodio si combina con I− per produrre specie I3−.
 
 Sumit e Rekha preparavano separatamente iodio di tintura utilizzando la procedura sopra indicata. Sumit lavorava in fretta, perché voleva partecipare a una festa di compleanno. Per errore, ha aggiunto il tetracloruro di carbonio nella bottiglia invece di alcol. Alla fine del procedimento, nel suo flacone sono apparsi due strati liquidi immiscibili. Sumit scuotette il flacone con forza e lo tenne per un po'. I due strati rimangono separati. Ha osservato che lo strato inferiore aveva un colore più profondo mentre lo strato superiore aveva un colore debole a causa di una miscela omogenea.
 
@@ -863,7 +863,7 @@ Il numero medio di errori (qualsiasi deviazione dal percorso corretto più corto
 - (d) La ricompensa dei ratti ha migliorato i risultati finali.
 - (e) Si è verificato un apprendimento attivo nei ratti del gruppo 2 anche prima dell' 11° giorno.
 
-** 16.2. ** Che risposta si può aspettare se i ratti del gruppo 1 sono stati tenuti affamati prima dell' esperimento? Supponiamo che tutte le altre condizioni della precedente configurazione sperimentale rimangano le stesse. Scegli l'opzione più appropriata tra le scelte di seguito e giustifica la tua scelta sulla base delle osservazioni sperimentali presentate sopra (solo). Indicare anche le ragioni per cui si rifiutano le altre tre opzioni.
+**16.2.** Che risposta si può aspettare se i ratti del gruppo 1 sono stati tenuti affamati prima dell' esperimento? Supponiamo che tutte le altre condizioni della precedente configurazione sperimentale rimangano le stesse. Scegli l'opzione più appropriata tra le scelte di seguito e giustifica la tua scelta sulla base delle osservazioni sperimentali presentate sopra (solo). Indicare anche le ragioni per cui si rifiutano le altre tre opzioni.
 
 - A. Aumento complessivo della linea 1 sopra la linea 3.
 - B. Aumentano gli errori mentre l'esperimento procede.

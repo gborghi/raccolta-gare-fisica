@@ -1006,7 +1006,7 @@ Nel film di James Bond "The Spy Who Loved Me", James sciò su una pendicia nevic
 
 Quante pallottole James ha dovuto sparare per assicurarsi che l'assassino non potesse raggiungerlo? Supponiamo che tutti i proiettili abbiano perso il bersaglio (in caso contrario questo esercizio sarebbe terminato). Se si dà $M = 100\ \text{kg}$, la massa e la velocità di muffa di un proiettile sono rispettivamente $m = 0.02\ \text{kg}$ e $v = 500\ \text{m/s}$.
 
-**(b) ** Viaggiando con la velocità finale ottenuta nella parte (a), James Bond è riuscito a sfuggire scivolando giù da una scogliera ad una penetrazione di $20^\circ$. Dopo $20$ secondi, aprì il paracadute e atterrò in sicurezza. La resistenza media dell'aria durante la caduta è $600\ \text{N}$ sia nelle direzioni verticale che orizzontale, purché le componenti della velocità non siano zero. Calcola la posizione di atterraggio di James Bond e l'altezza della scogliera. (Non si deve considerare la distanza che ha percorso con un paracadute.)
+**(b)** Viaggiando con la velocità finale ottenuta nella parte (a), James Bond è riuscito a sfuggire scivolando giù da una scogliera ad una penetrazione di $20^\circ$. Dopo $20$ secondi, aprì il paracadute e atterrò in sicurezza. La resistenza media dell'aria durante la caduta è $600\ \text{N}$ sia nelle direzioni verticale che orizzontale, purché le componenti della velocità non siano zero. Calcola la posizione di atterraggio di James Bond e l'altezza della scogliera. (Non si deve considerare la distanza che ha percorso con un paracadute.)
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Conservation of Momentum]]
@@ -1055,9 +1055,9 @@ Si ritiene che le tracce d'aria durante le tracce di pendenza in su e in giù ab
 
 ![[HKPhO_2013_p10_f2.png]]
 
-**(a) ** Derivare un'espressione per la forza necessaria per guidare la bicicletta verso l'alto a velocità uniforme.
+**(a)** Derivare un'espressione per la forza necessaria per guidare la bicicletta verso l'alto a velocità uniforme.
 
-**(b) ** Derivare un'espressione della potenza necessaria per guidare la bicicletta verso l'alto per inclinarsi a velocità uniforme.
+**(b)** Derivare un'espressione della potenza necessaria per guidare la bicicletta verso l'alto per inclinarsi a velocità uniforme.
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -1098,9 +1098,9 @@ Considerate due navi sul mare come mostrato nella figura. La nave A si muove con
 
 ![[HKPhO_2013_p11_f3.png]]
 
-**(a) ** Trova la distanza più breve tra le navi e il tempo in cui raggiungono questa posizione.
+**(a)** Trova la distanza più breve tra le navi e il tempo in cui raggiungono questa posizione.
 
-**(b) ** Supponiamo che a $t = 0$ la velocità della nave A rimanga a $u$, ma la sua direzione può essere regolata. Qual è la direzione della nave A tale che la distanza più breve tra le due navi sia minima e quanto è tale distanza minima inferiore al risultato ottenuto dalla parte a)?
+**(b)** Supponiamo che a $t = 0$ la velocità della nave A rimanga a $u$, ma la sua direzione può essere regolata. Qual è la direzione della nave A tale che la distanza più breve tra le due navi sia minima e quanto è tale distanza minima inferiore al risultato ottenuto dalla parte a)?
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -1139,7 +1139,7 @@ In the proposed experiment, several test bodies are enclosed in a vacuum box in 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**STEP ** (15 punti)
+**STEP** (15 punti)
 
 Secondo la seconda legge di Newton, $F = m_I a$, dove $m_I$ è la massa inerziale. Secondo la legge di Newton della gravitazione universale, la forza gravitazionale tra la Terra e un oggetto è $F = GM_E m_G / R^2$, dove $m_G$ è la massa gravitazionale dell'oggetto (qui $R$ è la distanza tra il centro della Terra e l'oggetto). Attualmente è ampiamente accettato che $m_G = m_I$, ma alcuni fisici vorrebbero testare la validità di questa ipotesi. Se c'è una differenza tra $m_I$ e $m_G$, anche piccola come una parte di $10^{18}$, la nostra attuale comprensione della gravità deve essere rivista. Proposero quindi un esperimento satellitare chiamato STEP per misurare il rapporto di massa $r = m_G/m_I$. (STEP rappresenta il test satellitare del principio di equivalenza.)
 
@@ -1149,9 +1149,9 @@ Nell'esperimento proposto, diversi corpi di prova sono chiusi in una scatola a v
 
 Il satellite proposto ha un'orbita circolare con un periodo di $24$ ore. Calcolare il suo raggio orbitale $R$. Esprimete la vostra risposta in moltiplicati di $R_E$, il raggio della Terra.
 
-**(b) ** Considerare i corpi di prova A e B con i rapporti di massa $r_A$ e $r_B$ rispettivamente, come mostrato nella figura. Supponiamo che i due corpi abbiano la stessa posizione in un punto dell'orbita. Quando il corpo A completa un'orbita, qual è il spostamento del corpo B rispetto al corpo A?
+**(b)** Considerare i corpi di prova A e B con i rapporti di massa $r_A$ e $r_B$ rispettivamente, come mostrato nella figura. Supponiamo che i due corpi abbiano la stessa posizione in un punto dell'orbita. Quando il corpo A completa un'orbita, qual è il spostamento del corpo B rispetto al corpo A?
 
-**(c) ** Semplifica il risultato nella parte (b) usando l'approssimazione $(1+x)^n \approx 1+nx$ quando $|x| \ll 1$. Supponiamo che i sensori di posizione del satellite possano rilevare cambiamenti di posizione di $10^{-15}\ \text{m}$. Qual è la durata del volo satellitare prima che si possano rilevare differenze nel rapporto di massa dell'ordine $10^{-18}$? Esprimi la tua risposta in ore.
+**(c)** Semplifica il risultato nella parte (b) usando l'approssimazione $(1+x)^n \approx 1+nx$ quando $|x| \ll 1$. Supponiamo che i sensori di posizione del satellite possano rilevare cambiamenti di posizione di $10^{-15}\ \text{m}$. Qual è la durata del volo satellitare prima che si possano rilevare differenze nel rapporto di massa dell'ordine $10^{-18}$? Esprimi la tua risposta in ore.
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Gravitation]]
@@ -1188,17 +1188,17 @@ As shown in the left figure, a cylindrical piece of ice floats in water. Its cro
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il ghiaccio galleggiante ** (15 punti)
+**Il ghiaccio galleggiante** (15 punti)
 
 Come mostra la figura a sinistra, un pezzo di ghiaccio cilindrico galleggia nell'acqua. La sua superficie trasversale è $A$ e la sua altezza è $h$. Le densità di ghiaccio e acqua sono rispettivamente $\rho_I$ e $\rho_W$.
 
 ![[HKPhO_2013_p12_f5.png]]
 
-**(a) ** Trova $d$, la profondità del ghiaccio immerso nell'acqua.
+**(a)** Trova $d$, la profondità del ghiaccio immerso nell'acqua.
 
-**(b) ** Supponiamo che il ghiaccio sia spinto leggermente in direzione verticale. Trova la frequenza delle oscillazioni. Potreste pensare che il movimento dell'acqua sia insignificante.
+**(b)** Supponiamo che il ghiaccio sia spinto leggermente in direzione verticale. Trova la frequenza delle oscillazioni. Potreste pensare che il movimento dell'acqua sia insignificante.
 
-**(c) ** Supponiamo che il ghiaccio galleggi in acqua in un contenitore di superficie trasversale $4A$, come mostrato nella figura destra. Il ghiaccio è spostato dall'equilibrio da $z$ nella direzione verticale. (i) Calcolare la variazione dell'energia potenziale totale del sistema, fino all'ordine $z^2$. (ii) Calcolare l'energia cinetica del sistema durante la spinta quando il ghiaccio si muove a velocità $v$. Si può supporre che l'acqua sotto il livello inferiore del ghiaccio non si muova, e l'acqua sopra il livello inferiore del ghiaccio si muove con la stessa velocità. (iii) Trova quindi la frequenza delle oscillazioni.
+**(c)** Supponiamo che il ghiaccio galleggi in acqua in un contenitore di superficie trasversale $4A$, come mostrato nella figura destra. Il ghiaccio è spostato dall'equilibrio da $z$ nella direzione verticale. (i) Calcolare la variazione dell'energia potenziale totale del sistema, fino all'ordine $z^2$. (ii) Calcolare l'energia cinetica del sistema durante la spinta quando il ghiaccio si muove a velocità $v$. Si può supporre che l'acqua sotto il livello inferiore del ghiaccio non si muova, e l'acqua sopra il livello inferiore del ghiaccio si muove con la stessa velocità. (iii) Trova quindi la frequenza delle oscillazioni.
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1J1GAPCoA7eyYPj09jjKGH5L3B7rF1JoW/view)
 **Topic:** [[Fluid Mechanics]]

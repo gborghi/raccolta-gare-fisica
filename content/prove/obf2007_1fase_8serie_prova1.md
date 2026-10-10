@@ -156,7 +156,7 @@ la neve, si noti un comune schema geometrico, che è:
 - **A** Octogonale.
 - **B** Esagonale.
 - MSK1 Pentagonale.
-- ** D** Heptagonale.
+- **D** Heptagonale.
 - MSK0/>E.
 
 **Topic:** [[Thermodynamics]]
@@ -173,10 +173,10 @@ Looking at the four photographs of the flocks of
 snow, a common geometric pattern is noted, which is:
 
 - **A** Octogonal.
-- ** B ** Hexagonal.
+- **B** Hexagonal.
 - The Pentagon.
 - MSK1 - Heptagonal.
-- MSK0/>E** Starred.
+- MSK0/>E Starred.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]

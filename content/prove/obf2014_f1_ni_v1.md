@@ -414,7 +414,7 @@ Batteries or batteries that we buy in the supermarket convert ____________ energ
 - A. Wind power
 - **B** thermal
 - **C** chemical
-- ** D** magnetic
+- **D** magnetic
 - **E** hydraulic
 
 **Topic:** [[Electrostatics]], [[Conservation of Energy]]

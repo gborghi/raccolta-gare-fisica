@@ -2346,7 +2346,7 @@ rendimiento del motor?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il martello (Kamikaze) **
+**Il martello (Kamikaze)**
 
 PT10. Bryn Gwyn, Chubut. Verde. 
 Il Martello (Kamikaze) 
@@ -4295,7 +4295,7 @@ Densità dell'acqua = 1 kg/l
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Ice falling into storage **
+**Ice falling into storage**
 
 PT24. The city of Santiago del Estero. Blue, please. 
 A piece of ice at 0 oC falls from the resting place into a tank containing 15 litres of water, which is
@@ -4460,7 +4460,7 @@ b) Qual è la distanza totale percorsa dal cellulare?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**After acceleration and braking **
+**After acceleration and braking**
 
 PT26. It's the heat, the pumpkin. Blue, please. 
 A moving part of the resting with a 1 m acceleration for 10 seconds. In terms of abscesses 
@@ -5851,7 +5851,7 @@ Mientras Ud. resuelve estas cuestiones dejó agua caliente, para que al terminar
 recipiente es de forma cúbica de 10cm de lado (interior), hecho de vidrio pyrex de 3mm de espesor en 
 sus 6 caras, cuyo coeficiente de conductividad térmica es 1,09 watt/m °C. El agua –que llena 
 totalmente el recipiente- se coloca a 80°C y no debe enfriarse por debajo de los 50°C; teniendo en 
-cuenta: * el marco teórico que se dá al pie; ** que la temperatura ambiente en ese momento es de 
+cuenta: * el marco teórico que se dá al pie;  que la temperatura ambiente en ese momento es de 
 20°C y *** en el supuesto que se considere que el calor del agua se transfiera en forma instantánea a 
 las paredes del recipiente: 
 e) Obtenga un tiempo “razonable”, en alcanzar los 50°C.  
@@ -5902,7 +5902,7 @@ Mentre tu... Quando ha risolto queste questioni ha lasciato acqua calda, così c
 contenitore è cubo di 10 cm di lato (interno), fatto di 3 mm di spessore di vetro pyrex in 
 Le sue 6 facce, il cui coefficiente di conducitù termico è di 1,09 watt/m °C. L'acqua che riempie
 il recipiente è completamente riposto a 80°C e non deve essere raffreddato al di sotto di 50°C;
-* il quadro teorico che si dà alla luce; ** che la temperatura ambiente in quel momento è di 
+* il quadro teorico che si dà alla luce;  che la temperatura ambiente in quel momento è di 
 20°C e *** se si ritiene che il calore dell'acqua sia trasferito istantaneamente a 
 le pareti del recipiente: 
 (e) Ottenere un tempo ragionevole per raggiungere i 50°C. 
@@ -5952,7 +5952,7 @@ While you do. He left some hot water for the man to drink. El
 The container is cubic in shape with a side of 10 cm (interior) made of 3 mm thick pyrex glass in 
 Its 6 faces, the coefficient of thermal conductivity of which is 1,09 watt/m °C. The water that fills
 The container must be fully placed at 80°C and must not be cooled below 50°C;
-The following table shows the theoretical framework: * the theoretical framework is set; ** that the ambient temperature at that time is 
+The following table shows the theoretical framework: * the theoretical framework is set;  that the ambient temperature at that time is 
 20°C and *** if it is considered that the water heat is instantaneously transferred to 
 the walls of the container: 
 (e) Get a reasonable time to reach 50°C. 
@@ -9339,7 +9339,7 @@ indica quando. Come?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Straight straight movement **
+**Straight straight movement**
 
 PT47. Santa Rosa, the Pampa. Blue, please. 
 Analyze the given graph, which corresponds to a straight line movement in several stages. 
@@ -11350,7 +11350,7 @@ il massimo di altezza che raggiunge il blocco sul piano inclinato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Flat-slung block with friction **
+**Flat-slung block with friction**
 
 PT62. San Salvador de Jujuy. He was a great man. Blue, please. 
 A block slides down a curved track without friction and then rises up a plane.
@@ -14835,7 +14835,7 @@ Supponiamo che l'accelerazione della gravità sia g = 10,0 m/s2.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Wheel-line distance measurement **
+**Wheel-line distance measurement**
 
 PT84. St. Michael of Tucumán. Green, please. 
 A linear distance meter, usually used by plumbing or plumbing companies 
@@ -18210,7 +18210,7 @@ aceleración en funciòn del tiempo en el intervalo que dura la caida
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'esercizio fisico è stato effettuato in modo da consentire la riduzione delle perdite.
+**L'esercizio fisico è stato effettuato in modo da consentire la riduzione delle perdite.**
 
 PT114. Navarro, Buenos Aires. Blu. 
 Un corpo di 1250 kgf cade liberamente da 50 m. 
@@ -18603,7 +18603,7 @@ Sarebbe necessario?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Tubes with naphtha **
+**Tubes with naphtha**
 
 PT119. General Acha, the Pampa. Green, please. 
 on the bottom of an open tube of 4 cm2. a metallic disc weighing 2 g has been placed. El 
@@ -19127,7 +19127,7 @@ Calcular los siguientes valores:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Circuito elettrico **
+**Circuito elettrico**
 
 PT126. Città di Buenos Aires. Verde. 
 Nel circuito dato, passano 8.1018 elettroni in 4 secondi attraverso il conduttore di uscita della fonte di 

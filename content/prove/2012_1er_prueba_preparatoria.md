@@ -242,7 +242,7 @@ g) Quanto compressa la massa $M$ alla primavera?
 
 h) Quanto raggiunge la massa $M$ dopo aver lasciato la primavera?
 
-**Dati: **
+**Dati:**
 
 # Magnitude # Valore #
 |---|---|

@@ -243,17 +243,17 @@ Possiamo presumere che tutta la pressione sia idrostatica e isotròpica (cioè a
 
 **A.4** *(0,4pt) * Scrivere il rapporto tra le versioni "standard" e "migliorate" della formula barometrica $p_h^{imp}/p_h^{sta}$. La stima è di $h = 4.0 \times 10^5\,m$. Usare ulteriormente la versione "migliorata".
 
-**A.5 ** *(0.2pt) * Indicare la densità dell'aria $\rho_h$ e la concentrazione di molecole di aria neutrale $n_h$ ad altezza $h$, con precisione $O(z_h^2)$.
+**A.5** *(0.2pt) * Indicare la densità dell'aria $\rho_h$ e la concentrazione di molecole di aria neutrale $n_h$ ad altezza $h$, con precisione $O(z_h^2)$.
 
 ### Parte B: decelerazione orbitale e tasso di discesa della stazione [3.0 punti]
 
 Consideriamo il problema di determinare il tasso di decadimento orbitale di un satellite con massa $M_S$ che sperimenta una forza di attrito costante $\vec{F}_{drag}$ che agisce su di esso. Supponiamo che la diminuzione dell'altitudine $dh$ sia molto inferiore all'altitudine di volo $h$ stessa ($dh \ll h$).
 
-**B.1 ** *(0,5pt) * Scrivere la velocità del satellite $v_h$ e il periodo di rivoluzione $\tau_h$ su un'orbita stabile di altitudine $h$.
+**B.1** *(0,5pt) * Scrivere la velocità del satellite $v_h$ e il periodo di rivoluzione $\tau_h$ su un'orbita stabile di altitudine $h$.
 
 **B.2** *(0,5pt) * Indicare l'energia totale $E_S$ di un satellite che si muove lungo un'orbita circolare con raggio $R_E + h$.
 
-**B.3 ** *(1.0pt) * La forza decelerante totale esercitata su un satellite di massa costante è data da una forza di frenata esterna $\vec{F}_{drag}$. Di conseguenza, la ISS rallenta e la sua altitudine diminuisce di un'altezza $dh$ per un piccolo intervallo di tempo, $dt$. Scrivere l'equazione per il bilancio energetico totale della ISS e del sistema circostante, dato un valore di $F_{drag}$.
+**B.3** *(1.0pt) * La forza decelerante totale esercitata su un satellite di massa costante è data da una forza di frenata esterna $\vec{F}_{drag}$. Di conseguenza, la ISS rallenta e la sua altitudine diminuisce di un'altezza $dh$ per un piccolo intervallo di tempo, $dt$. Scrivere l'equazione per il bilancio energetico totale della ISS e del sistema circostante, dato un valore di $F_{drag}$.
 
 **B.4** *(0,5pt) * Definire la velocità di discesa (deorbita) $u_h$ del satellite. Suggerimento: La velocità di decorrimento in orbita dipende dalla forza di attrito, dall'altitudine del satellite e dalla massa del satellite.
 
@@ -281,19 +281,19 @@ Consideramo l'influenza sul movimento del satellite del campo magnetico terrestr
 
 Quando un satellite si muove ad alta velocità in un campo magnetico, si verifica una corrente elettrica indotta (forza elettromotrice (EMF)) negli elementi di corrente conduttori della struttura del satellite. Questa forza elettromotrice provoca una ridistribuzione delle cariche elettriche negli elementi di corrente conduttori della struttura satellitare. Un campo elettrico appare intorno al satellite, che influenza il movimento delle particelle elettricamente cariche nell'ambiente. Gli elettroni sono attirati da quelle parti del satellite che hanno un potenziale positivo (rispetto alla parte centrale del satellite), e gli ioni carichi positivamente sono attirati da quelle parti del satellite che hanno un potenziale negativo. Gli elettroni e gli ioni che colpiscono la superficie delle strutture satellitari sono combinati in atomi di ossigeno neutri, mentre gli elettroni 'viano' nelle strutture conduttive del satellite, creando una corrente elettrica. Il satellite, che si muove nello spazio, "colleziona" elettroni e ioni dallo spazio circostante e li colpisce. Per una stima approssimativa della grandezza della corrente che può fluire attraverso le strutture conduttive del satellite, presumere che la raccolta si verifichi solo da un'area pari all'area trasversale $S$ del satellite, e tutti gli ioni ed elettroni partecipano alla creazione di questa corrente.
 
-**E.1 ** *(0,6pt) * Valutare approssimativamente la grandezza della corrente elettrica indotta $I_{ind}$.
+**E.1** *(0,6pt) * Valutare approssimativamente la grandezza della corrente elettrica indotta $I_{ind}$.
 
 **E.2** *(0.6pt)* Determinare un'espressione approssimativa della forza di "freno" di Ampere $F_{ind}$ indotta nella direzione opposta alla direzione del movimento del satellite. $\phi$ sia l'angolo tra il campo magnetico terrestre $\vec{B}$ lungo le linee di longitudine. Per semplificare, si può approssimare la lunghezza del satellite $L$ come radice quadrata dell'area del satellite $S$. Inoltre, invece di calcolare la media di $\sin(\phi)$, è possibile approssimirla con $\sin(\pi/2 - \theta)$. Per calcolare un valore medio si può utilizzare un numero discreto di punti campione.
 
-**E.3 ** *(0.8pt) * Indicare la velocità di discesa $u_{ind}$ del satellite a causa del campo magnetico terrestre. Scrittura del tasso di discesa $H_h^{ind}$ per una rotazione causata dall'effetto di trazione magnetica. Suggerimento: tenere conto delle relazioni $h \ll R_E$.
+**E.3** *(0.8pt) * Indicare la velocità di discesa $u_{ind}$ del satellite a causa del campo magnetico terrestre. Scrittura del tasso di discesa $H_h^{ind}$ per una rotazione causata dall'effetto di trazione magnetica. Suggerimento: tenere conto delle relazioni $h \ll R_E$.
 
 ### Parte F: risultati numerici e conclusioni [1,0 punti]
 
-**F.1 ** *(0,4pt) * Calcolare e compilare la tabella 1 nella scheda di risposta.
+**F.1** *(0,4pt) * Calcolare e compilare la tabella 1 nella scheda di risposta.
 
 **F.2** *(0.4pt)* Calcolare e compilare la tabella 2 nella scheda delle risposte.
 
-**F.3 ** *(0.2pt) * Rendichi questi tre processi di rallentamento orbitale in base alla loro forte influenza sulle altitudini orbitali della ISS superiori a $380\,km$. Per la Stazione Spaziale Internazionale, che orbita ad un'altitudine superiore a $380\,km$, annotare i fattori più significativi che contribuiscono al decadimento orbitale.
+**F.3** *(0.2pt) * Rendichi questi tre processi di rallentamento orbitale in base alla loro forte influenza sulle altitudini orbitali della ISS superiori a $380\,km$. Per la Stazione Spaziale Internazionale, che orbita ad un'altitudine superiore a $380\,km$, annotare i fattori più significativi che contribuiscono al decadimento orbitale.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1MGt2u1UM9fUkBTsgnEmUuy8kJqKh08fN/view)
 
@@ -423,7 +423,7 @@ From these conditions, find $\beta$ and $\gamma$. Using them find the correspond
 
 Preambolo
 
-**Notazioni e convenzioni: ** La lunghezza di un vettore $\vec{A}$ è semplicemente indicata come $A \equiv |\vec{A}|$. I suoi componenti $x, y, z$ sono indicati rispettivamente da $A_x, A_y, A_z$. La derivata temporale di una quantità è indicata dal punto sopra la quantità: $\dot{\vec{A}} \equiv d\vec{A}/dt$, $\dot{A} \equiv dA/dt$. Il vettore unitario lungo la direzione del vettore $\vec{A}$ è indicato come $\hat{A}$. I vettori unitari lungo le coordinate cartesiane sono quindi $\hat{x}$, $\hat{y}$ e $\hat{z}$. Le definizioni dei prodotti scalari e vettoriali sono:
+**Notazioni e convenzioni:** La lunghezza di un vettore $\vec{A}$ è semplicemente indicata come $A \equiv |\vec{A}|$. I suoi componenti $x, y, z$ sono indicati rispettivamente da $A_x, A_y, A_z$. La derivata temporale di una quantità è indicata dal punto sopra la quantità: $\dot{\vec{A}} \equiv d\vec{A}/dt$, $\dot{A} \equiv dA/dt$. Il vettore unitario lungo la direzione del vettore $\vec{A}$ è indicato come $\hat{A}$. I vettori unitari lungo le coordinate cartesiane sono quindi $\hat{x}$, $\hat{y}$ e $\hat{z}$. Le definizioni dei prodotti scalari e vettoriali sono:
 
 $$(\vec{A}\cdot\vec{B}) = (\vec{B}\cdot\vec{A}) = A_x B_x + A_y B_y + A_z B_z = AB\cos\theta$$
 
@@ -471,9 +471,9 @@ In primo luogo iniziamo con il caso più semplice in cui la velocità angolare d
 
 **A.3** *(0.2pt) * Trova la velocità $\vec{v}$ in termini di $\Omega$, $\vec{R}$, $\vec{v}_0$, $\vec{R}_0$, $r$, $m$ e $I$.
 
-**A.4 ** *(0,5pt) * Scrivere una soluzione esplicita per la traiettoria della palla data le condizioni iniziali $\vec{v}_0$ e $\vec{R}_0$.
+**A.4** *(0,5pt) * Scrivere una soluzione esplicita per la traiettoria della palla data le condizioni iniziali $\vec{v}_0$ e $\vec{R}_0$.
 
-**A.5 ** *(0,5pt) * Supponiamo che la palla abbia una densità di massa uniforme, cioè $I = 2mr^2/5$. La traiettoria che hai trovato è un cerchio e il suo raggio è $R_t$. Scegliere la sua magnitudine per essere uguale a $R_0$. Quanto tempo ci vuole per avvicinare la palla al punto iniziale del tavolo (la posizione sul rotolo a $t = 0$) con la distanza più vicina?
+**A.5** *(0,5pt) * Supponiamo che la palla abbia una densità di massa uniforme, cioè $I = 2mr^2/5$. La traiettoria che hai trovato è un cerchio e il suo raggio è $R_t$. Scegliere la sua magnitudine per essere uguale a $R_0$. Quanto tempo ci vuole per avvicinare la palla al punto iniziale del tavolo (la posizione sul rotolo a $t = 0$) con la distanza più vicina?
 
 ### Parte B: palla su giradischi liberi [4,0 punti]
 
@@ -487,7 +487,7 @@ In questa parte, il giradischi può ruotare liberamente senza attrito intorno al
 
 **B.4** *(0.1pt) * Dal risultato di B.3, per un dato $\Omega_0$, $R_0$, si trova il massimo possibile $\Omega$.
 
-**B.5 ** *(2.5pt) * Scrivere la componente verticale il momento angolare $\hat{z}M_z$ dell'intero sistema. Sottoprendere qualsiasi termine costante e rinominare la parte rimanente come $\hat{z}L$. Nella parte B.1 si trova la velocità della palla $\vec{v}$, che può essere scritta come la somma di una parte che dipende dalla posizione della palla $\vec{R}$ e di un vettore costante. Chiamiamo questo vettore costante $\vec{c}$. Scegli la direzione dell'asse $x$ lungo questo vettore e dell'asse $y$ lungo $\hat{z}\times\vec{c}$. In questo quadro di riferimento, trovare $\Omega$ in termini di $L$, $\vec{R}$, $\vec{c}$, $\hat{z}$, $R^2$, $r$, $m$, $I$ e $I_d$. Combinando questo con il risultato di B.3, annotare un'equazione contenente solo $R^2$ e $y$ variabili e $L$, $r$, $m$, $I$, $c$ e $I_d$. Qui $c$ è la magnitudine di $\vec{c}$. In sostituzione di $R^2 = x^2 + y^2$, annotare un'espressione contenente solo $x$ e $y$ variabili e descrivere una curva. Da qui, elencare tutti i tipi di traiettorie possibili.
+**B.5** *(2.5pt) * Scrivere la componente verticale il momento angolare $\hat{z}M_z$ dell'intero sistema. Sottoprendere qualsiasi termine costante e rinominare la parte rimanente come $\hat{z}L$. Nella parte B.1 si trova la velocità della palla $\vec{v}$, che può essere scritta come la somma di una parte che dipende dalla posizione della palla $\vec{R}$ e di un vettore costante. Chiamiamo questo vettore costante $\vec{c}$. Scegli la direzione dell'asse $x$ lungo questo vettore e dell'asse $y$ lungo $\hat{z}\times\vec{c}$. In questo quadro di riferimento, trovare $\Omega$ in termini di $L$, $\vec{R}$, $\vec{c}$, $\hat{z}$, $R^2$, $r$, $m$, $I$ e $I_d$. Combinando questo con il risultato di B.3, annotare un'equazione contenente solo $R^2$ e $y$ variabili e $L$, $r$, $m$, $I$, $c$ e $I_d$. Qui $c$ è la magnitudine di $\vec{c}$. In sostituzione di $R^2 = x^2 + y^2$, annotare un'espressione contenente solo $x$ e $y$ variabili e descrivere una curva. Da qui, elencare tutti i tipi di traiettorie possibili.
 
 ### Parte C: palla su giradischi in campo magnetico [4,5 punti]
 
@@ -502,7 +502,7 @@ In questa parte, consideriamo un profilo di densità in modo che $I = mr^2/10$. 
 
 **C.2** *(0,5pt) * Usando i risultati di C.1, trovare espressione per l'accelerazione lineare della palla rispetto al telaio di laboratorio in termini di $Q$, $r$, $\vec{\omega}$ e $\vec{B}$.
 
-**C.3 ** *(1.0pt) * Supponiamo che tutte le quantità di lunghezza unitaria siano misurate per metro, tutte le velocità angolari abbiano unità di 1 Hertz, e tutte le quantità di tempo abbiano l'unità di 1 secondo. L'equazione per l'accelerazione lineare che hai trovato nella parte C.2 è un'equazione differenziale di secondo ordine per $\vec{R}$ della seguente forma:
+**C.3** *(1.0pt) * Supponiamo che tutte le quantità di lunghezza unitaria siano misurate per metro, tutte le velocità angolari abbiano unità di 1 Hertz, e tutte le quantità di tempo abbiano l'unità di 1 secondo. L'equazione per l'accelerazione lineare che hai trovato nella parte C.2 è un'equazione differenziale di secondo ordine per $\vec{R}$ della seguente forma:
 
 $$\frac{d^2\vec{R}}{dt^2} - \gamma\frac{d\vec{R}}{dt}\times\hat{z} + \beta\vec{R} = 0.$$
 
@@ -516,7 +516,7 @@ in modo che le nuove equazioni non abbiano il termine derivato della prima volta
 $$x(0) = 1\ m, \quad y = 0\ m, \quad v_x(0) = \dot{x}|_{t=0} = 1\ m/s, \quad v_y(0) = \dot{y}|_{t=0} = -1\ m/s.$$
 Da queste condizioni, trovare $\beta$ e $\gamma$. Con queste informazioni si trova la corrispondente $\Omega$. Segna la traiettoria. La carica della superficie è negativa o positiva? Per la risposta negativa scrivete $-$ e per la risposta positiva scrivete $+$ sulla scheda di risposta.
 
-**C.5 ** *(1.6pt) * Considera la soluzione che hai trovato nella parte C.4. Se l'ha identificato correttamente, la soluzione deve avere un $\vec{R}(t)$ in rotazione. Trova le espressioni per il numero di rotazioni $N \gg 1$ per il numero di variazioni di energia totali e per rotazione. Qui si possono ignorare i termini piccoli rispetto a $N$. In questa parte, supponiamo che la massa e il raggio della palla siano $m = 1\ kg$ e $r = 1\ m$ in modo che $I = 1/11\ kg\cdot m^2$.
+**C.5** *(1.6pt) * Considera la soluzione che hai trovato nella parte C.4. Se l'ha identificato correttamente, la soluzione deve avere un $\vec{R}(t)$ in rotazione. Trova le espressioni per il numero di rotazioni $N \gg 1$ per il numero di variazioni di energia totali e per rotazione. Qui si possono ignorare i termini piccoli rispetto a $N$. In questa parte, supponiamo che la massa e il raggio della palla siano $m = 1\ kg$ e $r = 1\ m$ in modo che $I = 1/11\ kg\cdot m^2$.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xRaCt27TXndEGTpm-z255u1kgQH5O85a/view)
 
@@ -810,7 +810,7 @@ Ora studieremo la dinamica dettagliata di una bolla sferica composta da un misto
 
 **B.1** *(1.5pt) * Supponiamo che una singola bolla sferica risieda all'interno di acqua che riempie uniformemente lo spazio e che la bolla possa evolvere in dimensioni senza distorcere la sua forma sferica, a causa di variazioni, ad esempio, nella pressione esterna $p_\infty$. Derivare un'equazione che relaziona il raggio della bolla $R(t)$ e le sue derivate temporali $R'(t)$ e $R''(t)$, la tensione superficiale $\sigma$, la densità dell'acqua $\rho$, la pressione lontana dalla bolla $p_\infty$ e la pressione all'interno della bolla $p$. Dividere quindi la pressione $p$ in due termini, supponendo che la bolla abbia entrambe le vapore (con pressione parziale $p_v$) e l'aria, e che l'aria segua un processo adiabatico con esponente $\gamma$. Per fornire un punto di riferimento, la pressione parziale dell'aria deve essere $q_0$ quando la dimensione della bolla è uguale a $R_0$. Supponiamo che l'evaporazione, la condensazione o il trasferimento di aria tra la cavità della bolla e l'acqua circostante non abbiano alcun effetto sul volume dell'acqua.
 
-**B.2 ** *(1.0pt) * Un serbatoio d'acqua sotto pressione esterna $p_\infty^- = 101\ \mathrm{kPa}$, contenente un nucleo di raggio $R_0 = 10^{-5}\ \mathrm{m}$ inizialmente in equilibrio, è stato esposto al vuoto, in modo che il sistema abbia improvvisamente $p_\infty = 0$. Calcolare il valore terminale (asinttico) della velocità di crescita $R'$, nonché il tempo in cui raggiunge questo valore terminale.
+**B.2** *(1.0pt) * Un serbatoio d'acqua sotto pressione esterna $p_\infty^- = 101\ \mathrm{kPa}$, contenente un nucleo di raggio $R_0 = 10^{-5}\ \mathrm{m}$ inizialmente in equilibrio, è stato esposto al vuoto, in modo che il sistema abbia improvvisamente $p_\infty = 0$. Calcolare il valore terminale (asinttico) della velocità di crescita $R'$, nonché il tempo in cui raggiunge questo valore terminale.
 
 **B.3** *(1.0pt)* A water tank under the external pressure $p_\infty^- = 1.600\ \mathrm{kPa}$, containing a gas bubble of radius $R_0 = 10^{-5}\ \mathrm{m}$ initially in equilibrium, was suddenly exposed to the atmospheric pressure $p_\infty = 101\ \mathrm{kPa}$. Calcola il raggio minimo della bolla prima che rimbalzi.
 
@@ -818,9 +818,9 @@ Ora studieremo la dinamica dettagliata di una bolla sferica composta da un misto
 $$R(t) \sim (T - t)^\alpha,$$
 dove $T$ è il tempo di crollo.
 
-**B.5 ** *(1.0pt) * Sulla base dell'equazione derivata da B3, si trova la frequenza naturale dell'oscillazione sferica di una bolla di raggio $R_0 = 0.1\ \mathrm{mm}$.
+**B.5** *(1.0pt) * Sulla base dell'equazione derivata da B3, si trova la frequenza naturale dell'oscillazione sferica di una bolla di raggio $R_0 = 0.1\ \mathrm{mm}$.
 
-**B.6 ** *(1.0pt) * Supponiamo che la bolla descritta nella parte precedente sia sottoposta a un'onda sonora in piedi lungo l'asse $x$, il cui campo di pressione è dato da
+**B.6** *(1.0pt) * Supponiamo che la bolla descritta nella parte precedente sia sottoposta a un'onda sonora in piedi lungo l'asse $x$, il cui campo di pressione è dato da
 $$p(x, t) = p_0 + A\sin\left(\frac{2\pi f}{c}(x + a)\right)\sin(2\pi f t),$$
 dove $f$ è la frequenza e $c$ è la velocità del suono. I parametri $p_0$, $A$ e $a$ sono costanti, i cui significati possono essere facilmente dedotti dall'equazione. Trova la forza media esercitata sulla bolla. La bolla si trova all'origine del sistema di coordinate $xyz$ e la sua dimensione è molto inferiore alla lunghezza d'onda del suono.
 
@@ -830,7 +830,7 @@ In questa sezione finale, complementare alla parte B, ci concentriamo sull'effet
 
 **C.1** *(2.0pt) * Supponiamo che un nucleo costituito da aria e vapore, con raggio $R_0 = 10^{-5}\ \mathrm{m}$, sia collocato in una soluzione acqua-aria, in cui l'aria dissoluta è in equilibrio con la pressione atmosferica sopra l'acqua. La pressione parziale dell'aria nella bolla è $q = 1.70\cdot 10^5\ \mathrm{Pa}$ e la pressione del vapore può essere trascurata. Calcolare il tempo necessario per la completa riassorbazione della bolla nell'acqua. I quantitativi $p_\infty$, $\kappa$, $\delta$ e $\sigma$ assumono i loro valori tipici dalla tabella 1. Supponiamo che la regione che circonda la bolla in cui si verifica la diffusione dell'aria diventi immediatamente molto più grande della bolla stessa.
 
-**C.2 ** *(0,5pt) * Considera una crepa conica nella parete di un contenitore d'acqua, con un angolo di apertura $\alpha$, vedi figura seguente. Una piccola quantità di aria e vapore risiede all'interno del cono. Scrivi la condizione di equilibrio meccanico e diffuso. Determinare quando la tasca di aria rimane nella spaccatura senza scomparire. L'angolo di contatto dell'acqua sulla superficie è $\theta$.
+**C.2** *(0,5pt) * Considera una crepa conica nella parete di un contenitore d'acqua, con un angolo di apertura $\alpha$, vedi figura seguente. Una piccola quantità di aria e vapore risiede all'interno del cono. Scrivi la condizione di equilibrio meccanico e diffuso. Determinare quando la tasca di aria rimane nella spaccatura senza scomparire. L'angolo di contatto dell'acqua sulla superficie è $\theta$.
 
 <!--fig:start-->
 ![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p7_f1.png]]

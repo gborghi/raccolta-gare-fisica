@@ -429,9 +429,9 @@ Considerate due elettroni puntiformi situati nelle posizioni $\mathbf{r}_1$ e $\
 
 **A.2** *(0,4 pt) * Usando il risultato di A.1 e tenendo conto della fase dell'onda incidente, che dipende dalla posizione, a $\mathbf{r}_1$ e $\mathbf{r}_2$, si trova la differenza di fase tra i due contributi diffratti al rilevatore, espressa in termini di $\mathbf{q}$ e $\mathbf{r}$. La differenza di fase è definita come $\Delta\phi \equiv \phi_1 - \phi_2$, dove $\phi_1$ e $\phi_2$ sono le fasi dei contributi degli elettroni a $r_1$ e $r_2$.
 
-**A.3 ** *(0,6 pt) * Esprimere l'ampiezza complessa totale dell'onda diffratta da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$. Potreste ignorare qualsiasi fattore di fase comune, poiché non influisce sull'intensità. Supponiamo che l'ampiezza reale di un'onda diffratta da un singolo elettrone puntiforme sia una costante $f_0$, indipendente dalla posizione.
+**A.3** *(0,6 pt) * Esprimere l'ampiezza complessa totale dell'onda diffratta da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$. Potreste ignorare qualsiasi fattore di fase comune, poiché non influisce sull'intensità. Supponiamo che l'ampiezza reale di un'onda diffratta da un singolo elettrone puntiforme sia una costante $f_0$, indipendente dalla posizione.
 
-**A.4 ** *(0,4 pt) * Esprimere l'intensità delle onde diffratte da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$.
+**A.4** *(0,4 pt) * Esprimere l'intensità delle onde diffratte da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$.
 
 ### Parte B: Coerenza longitudinale finita (modello di salto di fase) (2,3 punti)
 
@@ -461,7 +461,7 @@ Qui $d^3r$ indica l'elemento volume nello spazio tridimensionale. In coordinate 
 
 $$\int_0^\infty e^{-r^2/R_0^2}\, 4\pi r^2\, dr = \pi^{3/2} R_0^3, \qquad \int_{\mathbb{R}^3} e^{-\alpha r^2} e^{i\mathbf{k}\cdot\mathbf{r}}\, d^3r = \left(\frac{\pi}{\alpha}\right)^{3/2} \exp\!\left(-\frac{k^2}{4\alpha}\right), \quad \alpha > 0.$$
 
-**C.1 ** *(0,4 pt) * Ottieni la relazione tra $Q_0$, $\rho_0$ e $R_0$.
+**C.1** *(0,4 pt) * Ottieni la relazione tra $Q_0$, $\rho_0$ e $R_0$.
 
 **C.2** *(0,4 pt)* Valutare l'ampiezza
 
@@ -469,7 +469,7 @@ $$A_2(\mathbf{q}) \equiv \int_{\mathbb{R}^3} \rho_2(\mathbf{r})\, e^{i\mathbf{q}
 
 e confrontarlo con l'ampiezza della carica puntiforme $A_1(\mathbf{q}) = Q_0$.
 
-**C.3 ** *(0,2 pt) * Stimare il rapporto delle intensità diffratte, $\dfrac{I_2}{I_1}$, per questi due casi idealizzati quando $q = \dfrac{2}{R_0}$.
+**C.3** *(0,2 pt) * Stimare il rapporto delle intensità diffratte, $\dfrac{I_2}{I_1}$, per questi due casi idealizzati quando $q = \dfrac{2}{R_0}$.
 
 ### Parte D: Diffrazione da un film con morfologia non piatta di superficie (2.4 pts)
 
@@ -489,7 +489,7 @@ come estensione continua corrispondente. Supponiamo che l'intensità di diffrazi
 
 $$I(q_z) \equiv \big|\langle A(q_z) \rangle\big|^2, \qquad \langle A(q_z) \rangle = \int_{-\infty}^{\infty} P(N)\, A_N(q_z)\, dN.$$
 
-**D.1 ** *(2,4 pt) * Calcolare i rapporti di intensità
+**D.1** *(2,4 pt) * Calcolare i rapporti di intensità
 
 $$\frac{I(q_z,\ \sigma = 0.4,\ \bar{N} = 5)}{I(q_z,\ \sigma = 0,\ \bar{N} = 5)}$$
 
@@ -640,9 +640,9 @@ $$F(t) = \begin{cases} 0, & t < 0 \\ +m f_0, & 0 \le t < T_0/2 \\ -m f_0, & T_0/
 
 Qui $\omega_0 = 2\pi/T_0$ è la frequenza angolare dell'oscillatore $q(t)$. Supponiamo che la condizione iniziale sia data come $q(0) = A\sin\delta$, $\dot{q}(0) = A\omega_0 \cos\delta$. Prima che agisca la forza esterna, l'energia si conserva e il suo valore è $E_0 = \frac{m}{2}\omega_0^2 A^2$. Senza perdere la generalità, supponiamo $-\pi \le \delta < \pi$.
 
-**A.1 ** *(1.2 pt) * Trova la posizione $q$ e la velocità $\dot{q} = \frac{dq}{dt}$ a $t = T_0$. Esprimili in funzione di $A$, $\delta$, $f_0$, $\omega_0$.
+**A.1** *(1.2 pt) * Trova la posizione $q$ e la velocità $\dot{q} = \frac{dq}{dt}$ a $t = T_0$. Esprimili in funzione di $A$, $\delta$, $f_0$, $\omega_0$.
 
-**A.2 ** *(1.2 pt) * Considera l'energia meccanica totale $E(t) = \dfrac{m(\dot{q}^2 + \omega_0^2 q^2)}{2}$. Calcolare la differenza di $E(t)$ tra $t = T_0$ e $t = 0$, a causa dell'effetto della forza esterna $F(t)$. In altre parole, calcolare $\Delta E \equiv E(t \ge T_0) - E(t \le 0)$ e esprimere in termini di $A$, $\delta$, $f_0$, $\omega_0$.
+**A.2** *(1.2 pt) * Considera l'energia meccanica totale $E(t) = \dfrac{m(\dot{q}^2 + \omega_0^2 q^2)}{2}$. Calcolare la differenza di $E(t)$ tra $t = T_0$ e $t = 0$, a causa dell'effetto della forza esterna $F(t)$. In altre parole, calcolare $\Delta E \equiv E(t \ge T_0) - E(t \le 0)$ e esprimere in termini di $A$, $\delta$, $f_0$, $\omega_0$.
 
 **A.3** *(1.2 pt) * Supponiamo che $\delta$ sia una variabile casuale con una distribuzione uniforme nell'intervallo di $-\pi \le \delta < \pi$. In altre parole, abbiamo un gran numero di oscillatori armonici forzati identici che seguono tutti la stessa equazione (1). Le loro condizioni iniziali sono indicate in modo che $A$ sia la stessa, ma $\delta$ è scelto a caso da $-\pi \le \delta < \pi$. Calcolare la media statistica dell'energia assorbita $\langle \Delta E \rangle$, nonché il secondo momento $\langle (\Delta E)^2 \rangle$.
 
@@ -708,9 +708,9 @@ se sono scelte appropriatamente $\Omega$ e $\tan\Theta$.
 
 Consideriamo ora un gran numero di spin con una distribuzione statistica delle configurazioni iniziali: a $t = 0$, i valori medi soddisfano $\langle S_x(0) \rangle = \langle S_y(0) \rangle = 0$ e $\langle S_z(0) \rangle > 0$. Tutti gli spin soddisfano la stessa equazione derivata da Eq.(2).
 
-**B.4 ** *(1,5 pt) * Calcolare $\langle S_z(t) \rangle$.
+**B.4** *(1,5 pt) * Calcolare $\langle S_z(t) \rangle$.
 
-**B.5 ** *(1,5 pt) * Se $\langle S_z(t) \rangle = 0$ a multipli dispari di $T_1$ (cioè $t = T_1, 3T_1, 5T_1, \cdots$) e $\langle S_z(t) \rangle > 0$ altrimenti, quanto vale $\omega_1 T_1$?
+**B.5** *(1,5 pt) * Se $\langle S_z(t) \rangle = 0$ a multipli dispari di $T_1$ (cioè $t = T_1, 3T_1, 5T_1, \cdots$) e $\langle S_z(t) \rangle > 0$ altrimenti, quanto vale $\omega_1 T_1$?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11uexakrtqQn-Mavu3OmrqUxD5Sndn4PP/view)
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]

@@ -177,7 +177,7 @@ The number of photons measured is equal to the number of electrons in the capaci
 
 For the remaining questions in this Part, the exposure time $\tau = 10^4\,\text{s}$ is assumed and the reading error is set to $\sigma_r = 14$.
 
-**B.3 ** (0.5 pts) An operating temperature of $T_p = 7.5\,\text{K}$ is assumed. The minimum number of incident photons per second $p$ shall be calculated so that the number of photons is ten times the uncertainty of the count.
+**B.3** (0.5 pts) An operating temperature of $T_p = 7.5\,\text{K}$ is assumed. The minimum number of incident photons per second $p$ shall be calculated so that the number of photons is ten times the uncertainty of the count.
 
 **B.4** (0.5 pt) Assumendo che tutti i fotoni siano appena in grado di eccitare un elettrone attraverso il gap di energia, qual è l'intensità della sorgente di fotoni trovata in B.3 sullo specchio primario? The result is expressed in $\text{W/m}^2$.
 
@@ -235,7 +235,7 @@ The response sheet contains internal energy charts per unit mass in relation to 
 
 **D.3** (1.4 pt) Assuming $V_2 = 0.100\,\text{m}^3/\text{kg}$ and $T_2 = 7.5\,\text{K}$, the graph is used to find a numerical value for the conserved physical size found in question D.2. You can see the construction on the chart.
 
-**D.4 ** (0.8 pt) The maximum possible temperature is for $T_1$. You can see the construction on the chart.
+**D.4** (0.8 pt) The maximum possible temperature is for $T_1$. You can see the construction on the chart.
 
 **D.5** (0.2 pt) Assume for the maximum $T_1$ the value found in D.4, the numerical value for $P_1$ is found.
 

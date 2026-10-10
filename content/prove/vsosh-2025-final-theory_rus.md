@@ -161,7 +161,7 @@ The board moves with a constant horizontal acceleration $a$, directed perpendicu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**9-T3. Inserimento di tre lingue
+**9-T3. Inserimento di tre lingue**
 In una galassia lontana, le stazioni straniere sono in grado di attirare le navi spaziali che si trovano nella zona di loro azione. La forza di forza $\vec{F}$ è direttamente proporzionale alla distanza $\vec{r}$ dalla stazione al navio: $\vec{F} = -P\vec{r}$, dove $P$  il coefficiente di forza della stazione.
 
 Tre stazioni sono situate sulle cime di un triangolo retto con angolo $30°$ e di una linea di linea di $l$. Due stazioni, situate in cima agli angoli isolanti, sono caratterizzate da un coefficiente di forza $P$, mentre una stazione in cima ad angolo retto  da un coefficiente di forza $2P$.
@@ -244,7 +244,7 @@ The spacecraft again finds itself at the midpoint of the hypotenuse with zero in
 
 <div class="qlang-split" data-lang="it"></div>
 
-**9-T4. "Gorjaccio" è un'operazione di calore.
+**9-T4. "Gorjaccio" è un'operazione di calore.**
 Sul disegno è riportato un frammento della grafica della dipendenza dal tempo $\tau$ della potenza media $N_{\text{ср}}$, pari al rapporto della quantità totale di calore, trasmessa all'allocco d'argento di massa $m = 50$, al tempo del suo scambi di calore con i corpi esterni. Dopo un certo periodo di tempo dopo l'inizio del cambio di temperatura, la temperatura della fusione in stato $A$ è aumentata a $t_A = 40\,°C$, e dopo ancora $2{,}2$ min (in stato $B$) è ripresa a $t_A$. Udeльная теплоёмкость серебра $c = 240\,\frac{\text{Дж}}{\text{кг}\cdot°C}$.
 
 Il grafico delle unità è costituito da un'ossina $N_{\text{ср}}$; si possono vedere punti $A$, $C$, $D$, $B$, $N_{\text{ср}} = 4{,}0$, etc.
@@ -526,7 +526,7 @@ The acceleration due to gravity is $g$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**10-T3. Il porcellino che si trova in terra
+**10-T3. Il porcellino che si trova in terra**
 Nel vaso cilindrico, stabilito verticale nel campo di forza di gravità, si trova un gas ideale atomico sotto una porzione orizzontale massiccia di $m = 100$ kg. - Non posso. Il porcellino è in equilibrio e può spostarsi lungo le mura del corpo praticamente senza sforzo.
 
 Le porzioni sono fissate in questa disposizione di equilibrio, dopo la quale vengono impostate su di essa masse $M$. Poi la porcellana viene liberata. In seguito al movimento della porzione dal suo minimo di distanza $h_{\min}$ fino al giorno del compito in due volte meno di distanza di partenza $h_0 = 1{,}0$ m.
@@ -605,14 +605,14 @@ Determine:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**10-T4. Quadrat vs circolo
+**10-T4. Quadrat vs circolo**
 Dalla sottile, non conducente piastra piatta sono state tagliate cinque figure di forma e dimensioni diverse. Ciascuno di essi è caricato con una carica elettrica permanente, positiva e uguale per tutte le figure di densità superficiale.
 
 Figura 1  quadrato con lato $2a$, da cui da un angolo è stato tagliato il quadrato con lato $a$ (fig. 1). Modulo di tensione del campo elettrico, creato a un punto $O$ (in angolo esteso), pari a $E_0$.
 
-1. Che è pari a $E'/E_0$, dove $E'$  modulo di tensione del campo in punto $O'$ ** della seconda figura**, che ha la forma di quadrato con lato $2\lambda a$, da cui da un angolo è stato tagliato il quadrato con lato $\lambda a$ (fig. 2)? $\lambda$  un certo numero positivo.
+1. Che è pari a $E'/E_0$, dove $E'$  modulo di tensione del campo in punto $O'$ **della seconda figura**, che ha la forma di quadrato con lato $2\lambda a$, da cui da un angolo è stato tagliato il quadrato con lato $\lambda a$ (fig. 2)? $\lambda$  un certo numero positivo.
 
-2. OFFINITE il modulo e la direzione del vettore di tensione $\vec{E}_A$ del campo al punto $A$ ** terzo elemento **  quadrato con lato $8a$, da cui da un angolo è stato tagliato il quadrato con lato $a$ (fig. 3). Modulo $|\vec{E}_A|$ esprimere attraverso $E_0$.
+2. OFFINITE il modulo e la direzione del vettore di tensione $\vec{E}_A$ del campo al punto $A$ **terzo elemento**  quadrato con lato $8a$, da cui da un angolo è stato tagliato il quadrato con lato $a$ (fig. 3). Modulo $|\vec{E}_A|$ esprimere attraverso $E_0$.
 
 3. OFFINITE il modulo e la direzione del vettore di tensione $\vec{E}_B$ del campo in punto $B$ **quarta figura**  quarto anello (fig. 4) con radius interno $a$ e esterno $2a$. Modulo $|\vec{E}_B|$ esprimere attraverso $E_0$.
 
@@ -741,7 +741,7 @@ Assume that values $\mathcal{E}$ and $r$ are known. The resistance of connecting
 
 <div class="qlang-split" data-lang="it"></div>
 
-**11-T1. Due pietre
+**11-T1. Due pietre**
 Dalla cima delle torri di altezza $h$ con le stesse velocità $v$, orientate perpendicularmente l'una all'altra, sotto angoli diversi all'orizzonte vengono gettati contemporaneamente due pietre in modo che il loro movimento si verifichi in una stessa piattaforma verticale. Dopo un certo tempo, proprio prima della caduta di una pietra, si è scoperto che i vettori della velocità della pietra erano diretti sotto le stesse angolazioni dell'orizzonte.
 
 Determina la grandezza di questo angolo $\varphi$ e la distanza tra le pietre $l$ in questo momento del tempo.

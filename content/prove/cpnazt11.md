@@ -236,7 +236,7 @@ Una particella di massa $m$ e carica $q > 0$, lanciata dall'esterno della distri
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Also the radial electrostatic field of uniform modulus! ** *
+**Also the radial electrostatic field of uniform modulus!** *
 
 Consider two concentric spherical surfaces of $R_1 < R$ and $R_2 = 2R$ radii which delimit a volume $V$; an appropriate charge distribution, at a given position, is such that an electrostatic field whose modulus ($E_0$ is known) is equal at all points of the volume $V$ is considered; the field is zero at the points inside the sphere of minor radius and at points outside the sphere of major radius. To obtain this distribution, a positive charge distribution on the inner surface, a negative charge on the outer surface and a further volumetric distribution in the spherical corona must be obtained so that the total charge is zero.
 
@@ -261,7 +261,7 @@ Explain why the particle trajectory is certainly a flat curve.
 ---
 
 <!--fig:start-->
-**p.? **  Spherical load coil, incoming load at 45 degrees
+**p.?**  Spherical load coil, incoming load at 45 degrees
 ![[_attachments/CpNazT11/CpNazT11_p3_f2.png]]
 <!--fig:end-->
 
@@ -358,7 +358,7 @@ Two speakers, each with a power $P$, emit sinusoidal sound waves with the same f
 **3.** The speakers are moved by maintaining the system configuration in the previous figure, varying the length $d$ of the side of the square. When the $\nu = 440\,\text{Hz}$ note emitted by the speakers is received at the $B$ top, the sound intensity increases and is switched off by switching on and off $S_2$. What are the two smallest values of the distance $d$ for which this occurs?
 
 <!--fig:start-->
-**p.? **  Two speakers at the top of a square
+**p.?**  Two speakers at the top of a square
 
 
 <figure class="tikz-fig">

@@ -48,7 +48,7 @@ L'esperimento n. 1: Determinazione della costante elastica della molla. (punto 4
 
 In questo esperimento si intende verificare una legge fisica utilizzando un carrello di massa $m_c$ bloccato da una mola di costante elastica $k$ su un rampa di legno a variabile inclinazione. Usando la legge di Hooke e diversi angoli di inclinazione della rampa, fai un grafico dell'inclinazione e dell'allungamento della molla. Tutti i valori misurati e/o i risultati delle misure devono essere inseriti con i rispettivi errori di misura.
 
-**Dati: ** $g = 9{,}79 \text{ m/s}^2$, massa del carrello $m_c$ stampato su ciascun carrello (considerate questi valori esatti).
+**Dati:** $g = 9{,}79 \text{ m/s}^2$, massa del carrello $m_c$ stampato su ciascun carrello (considerate questi valori esatti).
 
 a) Ottenere un'equazione delle forze in equilibrio, un'allungamento di riposo della molla e un'altezza $h$ del tocco per la rallentamento del rampa. (05)
 
@@ -72,7 +72,7 @@ The test is not a test. 1: Determination of the elastic constant of the spring. 
 
 In this experiment, a physical law is to be verified using a mass cart $m_c$ attached to a constant elastic spring $k$ on a variable-slope wooden ramp. Using Hooke's law and different ramp slope angles, make a graph of the spring's slope and elongation. All measured values and/or results of measurements shall be entered with their measurement errors.
 
-**Data: ** $g = 9{,}79 \text{ m/s}^2$, mass of cart $m_c$ printed on each cart (consider these exact values).
+**Data:** $g = 9{,}79 \text{ m/s}^2$, mass of cart $m_c$ printed on each cart (consider these exact values).
 
 (a) Obtain a balance force equation, spring rest elongation, and ramp lifting touch height $h$. (05)
 

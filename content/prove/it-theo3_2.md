@@ -69,9 +69,9 @@ The arrangement is shown in the previous figure with the lines $\hat{i}$, $\hat{
 
 Find the force acting on the fluid due to the magnetic field (depending on the $L$, $B$, $h$, $w$, $\rho$ and the new speed $v$). Report the result on the reply sheet.
 
-**b) ** Derives an expression for the new speed $v$ of the fluid after the application of the magnetic field (in the function of $v_0$, $P$, $L$, $B$, $\rho$). Report the result on the reply sheet.
+**b)** Derives an expression for the new speed $v$ of the fluid after the application of the magnetic field (in the function of $v_0$, $P$, $L$, $B$, $\rho$). Report the result on the reply sheet.
 
-**c) ** Derives an expression for the additional power to be provided by the turbine to bring the speed back to its original value $v_0$. Report the result on the reply sheet.
+**c)** Derives an expression for the additional power to be provided by the turbine to bring the speed back to its original value $v_0$. Report the result on the reply sheet.
 
 Now the magnetic field is removed and the mercury replaced with water flowing at a speed of $v_0$. A monochrome electromagnetic wave is sent in the direction of flow to the length $L$ section. The refractive index of water is $n$ and $v_0 \ll c$. Find an expression for the contribution of fluid motion to the wave phase difference between the input and output of the $L$ section. Report the result on the reply sheet.
 

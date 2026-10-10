@@ -667,7 +667,7 @@ IV) - The expression of efficiency (s) of the MCI is always $e = 1 - \dfrac{T_\t
 Cold (hot)
 
 In relation to this dialogue you can state that: a) I, II and III are correct
-- ** B ** II and III are correct.
+- **B** II and III are correct.
 - **C.** I and IV are correct.
 - They're all right.
 - MSK1 only I is correct.
@@ -964,7 +964,7 @@ J of cycles per cylinder. If the engine explodes at a rate
 to spend a 40-liter tank?
 
 - MSK1/> 300 minutes.
-- MSK0/>B ** 360 minutes.
+- MSK0/>B  360 minutes.
 - MSK1/> 280 minutes.
 - MSK1/> 320 minutes.
 - MSK1/> 240 minutes.

@@ -184,7 +184,7 @@ So many lenses for nothing
 
 An optical system shall consist of identical $n$ convergent lenses, arranged along the same optical axis, such that the distance between two consecutive lenses is twice the focal length. By placing an object at a distance of $7.2\ \mathrm{cm}$ to the left of the first lens, the optical system forms a real image at a distance of $6.048\ \mathrm{m}$ from the object and with a modulus magnification equal to $1$. How many lenses is the system made of?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -256,7 +256,7 @@ In figura è mostrato un piano inclinato su cui può scivolare un cuneo di massa
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Complicate the slope of the plane **
+**Complicate the slope of the plane**
 
 The figure shows an inclined plane over which a $M = 1.0\ \mathrm{kg}$ mass cone can glide over which a $m = 0.40\ \mathrm{kg}$ mass block is resting on the far right. The angle of inclination of the inclined plane, equal to that of the cone, is $30°$. The horizontal side of the cone on which the block is resting is $10\ \mathrm{cm}$ long, while the block is of negligible size. There are no friction between the individual parts of the system. How long does it take the lock to reach the far left of the cune when the cune is left free to slide along the sloping plane?
 
@@ -346,7 +346,7 @@ Starting from the state $A$, a perfect monoatomic gas completes a reversible the
 
 How much is the cycle yield?
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -381,7 +381,7 @@ The following is the list of the following:
 
 A loaded spherical shell with a volume load density $\rho$, internal radius $R_1 = a$ and external radius $R_2 = 2a$ shall be given. The $A$ and $B$ shall be two points, respectively, away from the centre of the spherical shell $r_A = 1.5\cdot R_1$ and $r_B = 3\cdot R_2$. Determine the ratio of the electric field module in $A$ to the electric field module in $B$.
 
-The measuring unit: ** additional dimension. The following information is provided:
+The measuring unit:  additional dimension. The following information is provided:
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -418,7 +418,7 @@ In figura è mostrato un cilindro contenente un gas perfetto con pistone mobile 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Heat and push **
+**Heat and push**
 
 The figure shows a cylinder containing a perfect gas with a movable piston surface $S = 1.5\ \mathrm{dm^2}$. The piston is connected to a spring of constant elasticity $k = 150\ \mathrm{N/dm}$, which in turn is connected to a block of mass $m = 5.0\ \mathrm{kg}$. Tra il blocco e il piano d'appoggio è presente una forza d'attrito statico di coefficiente $\mu = 0.50$. The cylinder is attached to the support plane and in thermal contact with a heat source (left in figure). The gas is in thermal and mechanical balance with the environment throughout the process. In particular, at the initial moment the gas is at $T = 20\ ^\circ\mathrm{C}$ temperature, pressure $p = 1.0\ \mathrm{Atm}$ and occupies a volume $V = 3.0\ \mathrm{L}$. While the spring is at rest. At what temperature does the heat source (and therefore the gas) have to be brought in for the block to start moving?
 
@@ -463,7 +463,7 @@ Una sostanza contiene una data concentrazione $c_0$ di un elemento altamente tos
 
 A substance contains a given concentration $c_0$ of a highly toxic element. To purify it, a filtration system is used through a suitable conduit of appropriate length to reduce the concentration of the toxic element to one thousandth of the initial concentration. The filtration system is designed to remove the $3\%$ of impurities when the substance to be purified passes through the $5.0\ \mathrm{cm}$ of the conduit. But unfortunately when the substance passes through the conduction $1.2\ \mathrm{m}$, the $19\%$ is dispersed. How many litres of substance must be introduced into the filtration system if $1$ litres of purified substance are to be obtained?
 
-The unit of measurement: ** litres. The following information is provided:
+The unit of measurement:  litres. The following information is provided:
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -494,11 +494,11 @@ Una bolla di sapone riempita di elio galleggia in sospensione in un ambiente con
 
 <div class="qlang-split" data-lang="en"></div>
 
-**How much does a soap bubble weigh? **
+**How much does a soap bubble weigh?**
 
 A soap bubble filled with helium floats suspended in an atmospheric pressure water vapor-only environment. The heat balance between helium and water vapor is $20\ ^\circ\mathrm{C}$, while the helium pressure, due to the bubble voltage, is $10\%$ higher than that of water vapor. Knowing that the bubble radius is $2\ \mathrm{cm}$, what is the mass of soap water that forms the bubble? The thickness of the soap water film is neglected relative to the bubble's radius.
 
-The unit of measurement: ** kg. The following information is provided:
+The unit of measurement:  kg. The following information is provided:
 
 **Topic:** [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]

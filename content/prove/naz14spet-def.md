@@ -39,7 +39,7 @@ Togli le due pellicole protettive dal blocchetto. Scegli due righe parallele sul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1. The following table shows the results of the tests:
+**1. The following table shows the results of the tests:**
 
 The manufacturer shall provide the manufacturer with the following information:
 
@@ -96,7 +96,7 @@ Poni il foglio millimetrato sopra quello di cartone. Pianta due spilli su una ri
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2. The following is a list of the water quality indicators:
+**2. The following is a list of the water quality indicators:**
 
 Materials: PMMA block, millimeter paper, two spikes, cardboard sheet, cotton cane, water glass, absorbent paper, 2 millimeter plates, 0.5 mm cups.
 
@@ -169,7 +169,7 @@ Per studiare preliminarmente l'immagine prodotta dal sistema sfera–specchio, s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**3. The following table shows the results of the calculation of the weighted average weight of the product:
+**3. The following table shows the results of the calculation of the weighted average weight of the product:**
 
 **Materials:** glass with some gelatinous spheres, absorbent paper sheet, flat mirror, pad to be used as a support for the mirror, metal rod as a support for the sphere, laundry rack, piece of transparent sheet with grille, spoon, millimeter paper, transparent plastic case, rubber.
 

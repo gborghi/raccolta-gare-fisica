@@ -9591,7 +9591,7 @@ Ley de Poiseuille? Considere ηsangre = 4 . 10-3 N s / m2.
 
 <div class="qlang-split" data-lang="it"></div>
 
-** Trasfusione intravenosa**
+**Trasfusione intravenosa**
 
 PT57. Istituto Lasalle. 
  
@@ -20157,7 +20157,7 @@ OAF 2016 - 99
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Passalo e non ritorni **
+**Passalo e non ritorni**
 
 PT135. Il Collegio Nazionale di Buenos Aires. 
  

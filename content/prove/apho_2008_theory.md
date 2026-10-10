@@ -116,7 +116,7 @@ Consider water boiling in a flat-bottomed cylinder glass teakettle at normal atm
 
 La cerimonia del tè è tradizionale in Asia. Uno degli importanti passi nella preparazione del tè è l'ebollizione dell'acqua dolce quando le bolle appaiono all'interno. Le bolle sono familiari dalla vita quotidiana e occupano un ruolo importante nella fisica, chimica, medicina e tecnologia. Tuttavia, il loro comportamento è spesso sorprendente e inaspettato e, in molti casi, ancora incomprensibile.
 
-A temperatura ambiente l'acqua pura è satura di gas. Con l'aumento della temperatura, l'eccesso di pressione del gas sciolto $P_{gb}$ aumenta, l'aria sciolta viene liberata e le bolle d'aria (** ABs**) appaiono al fondo e alle pareti della cella di teacotta (Fig. 2). Per l'acqua pura la umidità è sufficiente e un AB rappresenta una sfera troncata con raggio $R_{ab}$ e con base non umida con raggio $r_{ab} << R_{ab}$. Al caldo più elevato, le AB si espandono e raggiungendo determinate dimensioni possono distaccarsi dal fondo (Fig. 3), che si estende fino alla superficie dell'acqua e si scoppe lì. Le bolle di vapore (** VBs**) si presentano quando la temperatura dell' acqua in fondo raggiunge il valore critico $T_{cr}^b = T_{cr0}^b = 100\,^{\circ}C$ al quale la pressione del vapore saturo supera la pressione esterna. La produzione di vapore aumenta dieci volte, i VB si espandono e si staccano dal basso. Il VB può essere considerato costituito solo da vapore. Se l'acqua viene riscaldata abbastanza, la rivolta VB continua a gonfiarsi, raggiunge la superficie e esplode. Altrimenti, l'acqua non si riscalderà abbastanza negli strati superiori e uscirà da un forte gradiente di temperatura verticale. Per raggiungere livelli relativamente freddi di acqua, il VB crolla nel volume dell'acqua (Fig. 4). Ciò provoca la degasione indotta - forti oscillazioni e una notevole quantità di aria dissoluta viene rilasciata sotto forma di bolle d'aria microscopiche (** MAB**). Questo può generare vibrazioni a ultrasuoni.
+A temperatura ambiente l'acqua pura è satura di gas. Con l'aumento della temperatura, l'eccesso di pressione del gas sciolto $P_{gb}$ aumenta, l'aria sciolta viene liberata e le bolle d'aria ( **ABs**) appaiono al fondo e alle pareti della cella di teacotta (Fig. 2). Per l'acqua pura la umidità è sufficiente e un AB rappresenta una sfera troncata con raggio $R_{ab}$ e con base non umida con raggio $r_{ab} << R_{ab}$. Al caldo più elevato, le AB si espandono e raggiungendo determinate dimensioni possono distaccarsi dal fondo (Fig. 3), che si estende fino alla superficie dell'acqua e si scoppe lì. Le bolle di vapore ( **VBs**) si presentano quando la temperatura dell' acqua in fondo raggiunge il valore critico $T_{cr}^b = T_{cr0}^b = 100\,^{\circ}C$ al quale la pressione del vapore saturo supera la pressione esterna. La produzione di vapore aumenta dieci volte, i VB si espandono e si staccano dal basso. Il VB può essere considerato costituito solo da vapore. Se l'acqua viene riscaldata abbastanza, la rivolta VB continua a gonfiarsi, raggiunge la superficie e esplode. Altrimenti, l'acqua non si riscalderà abbastanza negli strati superiori e uscirà da un forte gradiente di temperatura verticale. Per raggiungere livelli relativamente freddi di acqua, il VB crolla nel volume dell'acqua (Fig. 4). Ciò provoca la degasione indotta - forti oscillazioni e una notevole quantità di aria dissoluta viene rilasciata sotto forma di bolle d'aria microscopiche ( **MAB**). Questo può generare vibrazioni a ultrasuoni.
 
 Le principali fasi dell'evoluzione delle bolle durante il processo di ebollizione sono:
 - l'aspetto e la crescita di AB al fondo e alle pareti, la loro trasmutazione in VB;
@@ -145,7 +145,7 @@ Quando la superficie del liquido ha una forma convexa (concava) appare una forza
 $$ \Delta P = \frac{2\sigma}{R} $$
 se $\sigma$ è il coefficiente di tensione superficiale (unità = N/m), la forza che arriva all'unità di lunghezza della superficie, $R$ è il raggio di curvatura della superficie.
 
-**3) ** Quando si tratta di un processo breve con durata caratteristica "$\tau$", il suo valore inverso può essere considerato come una frequenza caratteristica $\nu = \dfrac{1}{\tau}$. Utilizzare questa definizione per calcolare le frequenze del rumore.
+**3)** Quando si tratta di un processo breve con durata caratteristica "$\tau$", il suo valore inverso può essere considerato come una frequenza caratteristica $\nu = \dfrac{1}{\tau}$. Utilizzare questa definizione per calcolare le frequenze del rumore.
 
 ### Dati utili
 
@@ -183,7 +183,7 @@ Considera l'acqua che bolle in una cella di vetro a cilindro a fondo piatto a pr
 
 **Q2.** Scrivere per un AB la condizione di umidità del distacco dal fondo della cella di teacchetto (Fig.3). Si tiene conto della relazione $r_{ab} << R_{ab}$, [* in termini di $r_{ab}$, $R_{ab}$, $\rho$, $\sigma$* (1,5 punti)
 
-**Q3. ** Considerare un AB con raggio $R_a$ in fondo alla cucitura. Mentre l'acqua viene bollita, la bolla si satura di vapore e aumenta il suo raggio. Scrivere il rapporto $\xi \equiv m_{air} / m_{vapor}$ delle masse dell'aria e del vapore saturo all'interno della bolla a una determinata temperatura T. Calcolare il rapporto a temperatura ambiente T = 20 °C ($R_a = 0.5$ mm) e al punto di ebollizione T = 100 °C ($R_a = 1$ mm). [*in termini di $\mu_{air}$, T, $P_a$, $P_{vapor}$, $R_a$, $\rho$, $\rho_v$, $\sigma$, H* (1,5 punti)
+**Q3.** Considerare un AB con raggio $R_a$ in fondo alla cucitura. Mentre l'acqua viene bollita, la bolla si satura di vapore e aumenta il suo raggio. Scrivere il rapporto $\xi \equiv m_{air} / m_{vapor}$ delle masse dell'aria e del vapore saturo all'interno della bolla a una determinata temperatura T. Calcolare il rapporto a temperatura ambiente T = 20 °C ($R_a = 0.5$ mm) e al punto di ebollizione T = 100 °C ($R_a = 1$ mm). [*in termini di $\mu_{air}$, T, $P_a$, $P_{vapor}$, $R_a$, $\rho$, $\rho_v$, $\sigma$, H* (1,5 punti)
 
 **Q4.** Attraverso i dati NAE e la legge di Newton, si stima il raggio di AB distaccato dal fondo e sollevato a distanza $R_{ac}$ (Fig.3). Supponiamo che la massa aggiunta (tenendo conto dello strato di acqua circostante) di AB sia la metà della bolla d'acqua analogo. (1,0 punti)
 
@@ -193,7 +193,7 @@ Considera l'acqua che bolle in una cella di vetro a cilindro a fondo piatto a pr
 
 **Q7.** Usando dati precedenti per un tipico AB, usando la legge di Stokes di un flusso laminare. [*in termini di $R_{ab}$, $\rho_w$, $\eta_w$*] Estimare il tempo di sollevazione per H = 10 cm. (0,6 punti)
 
-**Q8. ** Scrivere la velocità apparente per VB tipico utilizzando la legge di Stokes di un flusso laminare. [*in termini di $R_{ab}$, $\rho_w$, $\eta_w$*] Estimare il tempo di sollevazione per H = 10 cm. 1,2 punti)
+**Q8.** Scrivere la velocità apparente per VB tipico utilizzando la legge di Stokes di un flusso laminare. [*in termini di $R_{ab}$, $\rho_w$, $\eta_w$*] Estimare il tempo di sollevazione per H = 10 cm. 1,2 punti)
 
 **Q9.** Scrivere la velocità media dell'altezza di VB con tipo turbolento di flusso [* in termini di $R_{ab}$, $\rho_w$, $\eta_w$*] Estimare il tempo di sollevazione per H = 10 cm. 1,2 punti)
 
@@ -288,7 +288,7 @@ Il contributo principale all'energia di legame di un cristallo ionico è dato da
 
 L'interazione elettrica che agisce tra due cariche puntate $q_1$ e $q_2$ in posizione a distanza R è ben definita dal potenziale di Coulomb:
 $$ V_C(R) = k\,\frac{q_1 q_2}{R} $$
-dove $k = 1/4\pi\varepsilon_0 \approx 9 \cdot 10^9$ [N · m2 / C2] è la costante di Coulomb. Una forza negativa implica una forza attraente. La forza è diretta lungo la linea che unisce le due cariche. Per i cristalli NaCl entrambi i tipi di ioni hanno la carica unitaria $\pm e$ e si dovrebbe anche tenere conto di molti altri vicini che agiscono sull'ion scelto. Tenendo conto di tutti gli ioni positivi e negativi in un cristallo di dimensioni infinite si ottiene l'energia potenziale **attraente ** $V_{att}(r) = \alpha \cdot V_C(r)$, dove $r$ è la distanza tra i vicini più vicini e $\alpha = 1.74756$ è la costante Madelung [*E. Madelung, fisico. Zs, 19 (1918) p542*] e utilizzato per determinare l'energia di un singolo ione in un cristallo.
+dove $k = 1/4\pi\varepsilon_0 \approx 9 \cdot 10^9$ [N · m2 / C2] è la costante di Coulomb. Una forza negativa implica una forza attraente. La forza è diretta lungo la linea che unisce le due cariche. Per i cristalli NaCl entrambi i tipi di ioni hanno la carica unitaria $\pm e$ e si dovrebbe anche tenere conto di molti altri vicini che agiscono sull'ion scelto. Tenendo conto di tutti gli ioni positivi e negativi in un cristallo di dimensioni infinite si ottiene l'energia potenziale **attraente** $V_{att}(r) = \alpha \cdot V_C(r)$, dove $r$ è la distanza tra i vicini più vicini e $\alpha = 1.74756$ è la costante Madelung [*E. Madelung, fisico. Zs, 19 (1918) p542*] e utilizzato per determinare l'energia di un singolo ione in un cristallo.
 
 Lungo l'energia potenziale attraente dovrebbe esserci un'energia potenziale **rifulsiva** a causa del principio di esclusione di Pauli e della sovrapposizione di conchiglie elettroniche in una rete cristallina. A differenza della parte attraente del tipo Coulomb, l'energia potenziale repulsiva è di corto raggio.
 
@@ -324,7 +324,7 @@ I dati sperimentali per la costante della reticola $r_0$ e l'energia di dissocia
 
 **Q4.** Con il modello #2 si registra l'energia potenziale netta $V_2(r)$ per ione. Determinare la sua posizione di equilibrio $r = r_0$ e annotare l'energia potenziale netta $V_2(r_0)$. Utilizzare la costante Madelung esatta $n$. [* in termini di $\alpha, r_0, n$*] (2,0 punti)
 
-**Q5. ** Attraverso dati sperimentali (da cui figura la tabella 1) si stima l' esponente Born $n$ per NaCl. Estimare le proporzioni dell'interazione di Coulomb e dell'esclusione di Pauli (parte repulsiva) nell'intera energia potenziale netta nello stato di equilibrio? (1,5 punti)
+**Q5.** Attraverso dati sperimentali (da cui figura la tabella 1) si stima l' esponente Born $n$ per NaCl. Estimare le proporzioni dell'interazione di Coulomb e dell'esclusione di Pauli (parte repulsiva) nell'intera energia potenziale netta nello stato di equilibrio? (1,5 punti)
 
 **Q6.** L'energia di ionizzazione (requisita per estrarre un elettrone da un atomo) dell'atomo Na è +**5.14 eV**, l'affinità elettronica (requisita per ricevere un elettrone ad un atomo) dell'atomo Cl è −**3.61 eV**. Calcolare l'energia di legame totale (che contiene un atomo all'interno della griglia) per atomo nel cristallo NaCl. Il risultato sperimentale è $E_{exp} = -3.28$ [eV]. [*in termini di eV*] Utilizzare la conversione che: 1 [eV] = $1.602 \cdot 10^{-19}$ [J]. (1,5 punti)
 
@@ -449,21 +449,21 @@ Scegliamo il punto più vicino all'osservatore come punto $O$, l'origine sull'as
 *Figura 1*
 <!--fig:end-->
 
-**(1) ** Supponiamo che la luce irradiata al momento dato $t'$ sia osservata al momento $t$. Esprimere $t$ in termini di $d, t', u$ e $v$. (1,0 punti)
+**(1)** Supponiamo che la luce irradiata al momento dato $t'$ sia osservata al momento $t$. Esprimere $t$ in termini di $d, t', u$ e $v$. (1,0 punti)
 
-**(2) ** Al tempo $t = t_0$, l'osservatore vede per la prima volta la particella in posizione $x'_0$. Trova la posizione apparente $x'_0$ e il tempo osservato $t_0$ per questa prima comparsa in termini di $d, v$ e $\theta$. (2,0 punti)
+**(2)** Al tempo $t = t_0$, l'osservatore vede per la prima volta la particella in posizione $x'_0$. Trova la posizione apparente $x'_0$ e il tempo osservato $t_0$ per questa prima comparsa in termini di $d, v$ e $\theta$. (2,0 punti)
 
-**(3) ** Trova la posizione apparente delle particelle $x'$ per un dato tempo $t$. Scrivi la tua risposta in termini di $v, \theta, t$ e $t_0$. (2,0 punti)
+**(3)** Trova la posizione apparente delle particelle $x'$ per un dato tempo $t$. Scrivi la tua risposta in termini di $v, \theta, t$ e $t_0$. (2,0 punti)
 
-**(4) ** Trova la velocità apparente (s) $v'(t)$ della particella per un dato tempo $t$. Scrivi la tua risposta in termini di $v, \theta, t$ e $t_0$. (1,0 punti)
+**(4)** Trova la velocità apparente (s) $v'(t)$ della particella per un dato tempo $t$. Scrivi la tua risposta in termini di $v, \theta, t$ e $t_0$. (1,0 punti)
 
-**(5) ** Trova la velocità apparente (s) $v'$ della prima comparsa della particella. (0,2 punti)
+**(5)** Trova la velocità apparente (s) $v'$ della prima comparsa della particella. (0,2 punti)
 
-**(6) ** Trova la velocità apparente (s) $v'$ della particella a distanze infinite dall'origine, $O$. Scrivi la tua risposta in termini di $v$ e $u$. (0,2 punti)
+**(6)** Trova la velocità apparente (s) $v'$ della particella a distanze infinite dall'origine, $O$. Scrivi la tua risposta in termini di $v$ e $u$. (0,2 punti)
 
-**(7) ** Segnare il grafico della velocità apparente $v'$ contro il tempo $t$, indicando chiaramente i valori asimptotici della velocità apparente. (1,0 punti)
+**(7)** Segnare il grafico della velocità apparente $v'$ contro il tempo $t$, indicando chiaramente i valori asimptotici della velocità apparente. (1,0 punti)
 
-**(8) ** Una velocità apparente può superare la velocità della luce nel vuoto, ovvero $v' > c$? (0,2 punti)
+**(8)** Una velocità apparente può superare la velocità della luce nel vuoto, ovvero $v' > c$? (0,2 punti)
 
 ### 2. Obbiettivo lineare irradiante
 
@@ -478,9 +478,9 @@ In questa sezione, supponiamo che l'oggetto lineare radiante si muova longitudin
 *Figura 2*
 <!--fig:end-->
 
-**(9) ** Determinare l'intervallo temporale di apparenza completa dell'intero oggetto lineare dalla prima apparenza del suo punto di fronte. Scrivi la tua risposta in termini di $L, \gamma$ e $v$. (0,3 punti)
+**(9)** Determinare l'intervallo temporale di apparenza completa dell'intero oggetto lineare dalla prima apparenza del suo punto di fronte. Scrivi la tua risposta in termini di $L, \gamma$ e $v$. (0,3 punti)
 
-**(10) ** Determina la lunghezza apparente dell'oggetto al momento della sua completa comparsa. Scrivi la tua risposta in termini di $d, L, \theta$ e $\gamma$. (0,4 punti)
+**(10)** Determina la lunghezza apparente dell'oggetto al momento della sua completa comparsa. Scrivi la tua risposta in termini di $d, L, \theta$ e $\gamma$. (0,4 punti)
 
 #### B. Movimento perpendicolare
 
@@ -491,13 +491,13 @@ In questa sezione, supponiamo che l'oggetto lineare radiante si muova perpendico
 *Figura 3*
 <!--fig:end-->
 
-**(11) ** Mostra che per un dato tempo $t$, la forma apparente di questo oggetto è un'ellisse o parti di un'ellisse. (0,7 punti)
+**(11)** Mostra che per un dato tempo $t$, la forma apparente di questo oggetto è un'ellisse o parti di un'ellisse. (0,7 punti)
 
 Trova le seguenti quantità e esprimele in termini di $v, \theta$ e $t$.
 
-**(12) ** Trova la posizione $x_c$ del centro di simmetria dell'ellisse per un dato tempo $t$ in termini di $v, \theta$ e $t$. (0,5 punti)
+**(12)** Trova la posizione $x_c$ del centro di simmetria dell'ellisse per un dato tempo $t$ in termini di $v, \theta$ e $t$. (0,5 punti)
 
-**(13) ** Determinare le lunghezze degli assi semi-maggiori e semi-minori dell'ellisse per un determinato tempo $t$ in termini di $v, \theta$ e $t$. (0,5 punti)
+**(13)** Determinare le lunghezze degli assi semi-maggiori e semi-minori dell'ellisse per un determinato tempo $t$ in termini di $v, \theta$ e $t$. (0,5 punti)
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1C5ZfU7uEbq9oSWj2tSev-t7iZK8-b29W/view)
 

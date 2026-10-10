@@ -276,17 +276,17 @@ The sensors under the sloping plane regulate an electronic circuit in the black 
 
 ♪ Definitions ♪
 
-**(i) ** A body descending along an inclined plane is also subjected to the action of a braking force $F$ parallel to the plane and the normal reaction $N$ to the plane. It says:
+**(i)** A body descending along an inclined plane is also subjected to the action of a braking force $F$ parallel to the plane and the normal reaction $N$ to the plane. It says:
 
 $$\xi = \frac{F}{N}$$
 
-**(ii) ** In the case where the braking force is due to the friction force alone, the parameter $\xi$ shall coincide with the dynamic friction coefficient $\mu_k$, or $\xi = \mu_k$. The dynamic friction coefficient is not dependent on speed.
+**(ii)** In the case where the braking force is due to the friction force alone, the parameter $\xi$ shall coincide with the dynamic friction coefficient $\mu_k$, or $\xi = \mu_k$. The dynamic friction coefficient is not dependent on speed.
 
-**(iii) ** When the dark (blue) face of the pedal is in contact with the plane, the braking force parallel to the plane $F_d$ is partly due to friction and partly due to magnetic effects on the pedal. Similarly to the previous one:
+**(iii)** When the dark (blue) face of the pedal is in contact with the plane, the braking force parallel to the plane $F_d$ is partly due to friction and partly due to magnetic effects on the pedal. Similarly to the previous one:
 
 $$\xi_d = \frac{F_d}{N}$$
 
-**(iv) ** The variable $\xi_{dk}$ which takes into account only magnetic effects on the pedal is therefore defined by:
+**(iv)** The variable $\xi_{dk}$ which takes into account only magnetic effects on the pedal is therefore defined by:
 
 $$\xi_{dk} = \xi_d - \mu_k$$
 

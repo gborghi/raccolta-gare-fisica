@@ -764,7 +764,7 @@ R = 0,082 atm l/K mol = 8,31 J/K mol g = 9,82m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-The gas molecules are **
+The gas molecules are 
 
 5. City of Buenos Aires. Blue .
 The molecules of the gas. 
@@ -1171,7 +1171,7 @@ resultado en el Sistema Internacional.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Particella che accelera (grafico) **
+**Particella che accelera (grafico)**
 
 8. Catamarca. Blu e verde. 
 Una particella parte dal riposo e si accelera come indicato nella figura. Determina: 
@@ -1633,7 +1633,7 @@ c) Efectuando los cálculos necesarios, ¿en cuál situación llega más rápido
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lamma di facce parallele (laser) **
+**Lamma di facce parallele (laser)**
 
 13. Città di Buenos Aires. Verde. 
 Per illuminare più velocemente. 
@@ -1656,7 +1656,7 @@ c) Nel fare i calcoli necessari, in che situazione si arriva più velocemente?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Laminated parallel faces (laser) **
+**Laminated parallel faces (laser)**
 
 13. City of Buenos Aires. Green, please. 
 To brighten up faster. 
@@ -2716,7 +2716,7 @@ Elija al menos dos finales alternativos de la historia narrada.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Luchador sordo e mudo (contatore Geiger) **
+**Luchador sordo e mudo (contatore Geiger)**
 
 21. Città di Buenos Aires. Blu. 
 Lottatore sordo e morbido... 
@@ -3043,7 +3043,7 @@ puede fotografiar.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lens di telecamera **
+**Lens di telecamera**
 
 24. Città di Buenos Aires. Blu. 
 Il lente di una fotocamera ha una distanza focale che deve essere uguale alla minima.
@@ -5112,7 +5112,7 @@ aire
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Creando un vuoto (pompa aspirante) **
+**Creando un vuoto (pompa aspirante)**
 
 41. Città di Buenos Aires. Verde. 
 Creando un vuoto
@@ -5242,7 +5242,7 @@ aria
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Creating a vacuum (suction pump) **
+**Creating a vacuum (suction pump)**
 
 41. City of Buenos Aires. Green, please. 
 Creating a void 
@@ -8041,7 +8041,7 @@ Datos numéricos y constantes:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cosa per bambini (cubo galleggiante) **
+**Cosa per bambini (cubo galleggiante)**
 
 57. Salta. Salta. Blu. 
 - Cosa dei bambini .
@@ -9181,7 +9181,7 @@ b) Tras soltarse, calcule la velocidad de cada patinador respecto a la pista.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Scatellazione su ghiaccio (momento angolare) **
+**Scatellazione su ghiaccio (momento angolare)**
 
 64. San Miguel, Tucumán. Verde. 
 Sciareggio su ghiaccio. 
@@ -9663,7 +9663,7 @@ c) Se l'ascensore inizia a scendere in caduta libera, qual sarà in questo caso 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Lifted cube **
+**Lifted cube**
 
 68. Mendoza, please. Blue, please. 
 A cube of a certain material, with a mass of 2 kg, hangs from the ceiling of a
@@ -9730,7 +9730,7 @@ sostanza per elevare la sua temperatura da 10 °C a 70 °C .
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Specific heat of a substance (data) **
+**Specific heat of a substance (data)**
 
 69. Mendoza, please. Blue, please. 
 In the lab it was obtained .
@@ -10474,7 +10474,7 @@ superior se encuentre en el aire. En esas condiciones, el tamaño aparente del g
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Di escursione (lupa) **
+**Di escursione (lupa)**
 
 79. Rosario, Santa Fe. Verde. 
 Per escursioni 
@@ -10811,7 +10811,7 @@ tendremos en cuenta la variación de la resistencia con la temperatura.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Calibrazione di un amperiometro (calorimetro) **
+**Calibrazione di un amperiometro (calorimetro)**
 
 81. Rosario, Santa Fe. Verde. 
 Per esercitare la creatività
@@ -10853,7 +10853,7 @@ si terrà conto della variazione della resistenza con la temperatura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Calibration of an ampere (calorometer) **
+**Calibration of an ampere (calorometer)**
 
 81. Rosario, Santa Fe. Green, please. 
 To exercise creativity 
@@ -10931,7 +10931,7 @@ A
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Lanzamento verticale verso il basso (risorsa) **
+**Lanzamento verticale verso il basso (risorsa)**
 
 82. - Calma Olivia, Santa Cruz. Verde. 
 Se dal terrazzo di un terzo piano, situato 10 metri sopra il suolo, lanci 
@@ -11012,7 +11012,7 @@ Dato: Calor específico del agua Ca = 4.18 . 103 J.Kg-1 . K-1
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Miscua d'acqua (contenitore isolato) **
+**Miscua d'acqua (contenitore isolato)**
 
 83. - Calma Olivia, Santa Cruz. Verde. 
 Se si mescolano 5 litri di acqua a 40°C con 8 litri di acqua a 25°C, la temperatura finale della temperatura di
@@ -11028,7 +11028,7 @@ Data: Calore specifico dell' acqua Ca = 4.18 . 103 J.Kg-1 . K-1
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mix of water (insulated container) **
+**Mix of water (insulated container)**
 
 83. Put Olivia down, Santa Cruz. Green, please. 
 When mixing 5 litres of water at 40oC with 8 litres of water at 25oC the final temperature of the
@@ -11293,7 +11293,7 @@ debe colocar una pantalla entre ambas para que resulte igualmente iluminada por 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Luminazione a due fiamme (fotometria) **
+**Luminazione a due fiamme (fotometria)**
 
 87. Santiago del Estero. Blu. 
 Due fiamme, con intensità di 16 e 9 candele, si trovano a 1,4 metri di distanza. Dove sono?
@@ -11307,7 +11307,7 @@ Dovrebbe mettere un schermo tra i due, così che sia illuminato equamente dalle 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Two-beam lighting (photometry) **
+**Two-beam lighting (photometry)**
 
 87. The first is the Spanish. Blue, please. 
 Two flames of 16 and 9 candles, 1.4 meters apart. Where are you?
@@ -11527,7 +11527,7 @@ solamente).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Slider tirato da cani (suma di forze) **
+**Slider tirato da cani (suma di forze)**
 
 91. Hernando, Cordoba. Blu. 
 Per spostarsi sulla neve, si usano solitamente gli scivoli tirati dai cani. Se le sciacche delle
@@ -11543,7 +11543,7 @@ Qual è la forza netta che agisce sul baglione? (Ricorrezzare la risoluzione gra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Dog-drawn sled (sum of forces) **
+**Dog-drawn sled (sum of forces)**
 
 91. Hernando, Cordoba. What is it? Blue, please. 
 To move on snow, dogs usually use sleds. If the sores of the
@@ -11667,7 +11667,7 @@ e) Inventare un percorso possibile che risponda a questo grafico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A car speed-time chart (2) **
+**A car speed-time chart (2)**
 
 93. Hernando, Cordoba. What is it? Blue, please. 
 The following graph shows how a car's speed varies with time (graph 
@@ -12193,7 +12193,7 @@ g) Representa el movimiento total del cohete en x = f(t), v = f(t) y a = f(t).
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Motore con razzo (casa libera posteriore) **
+**Motore con razzo (casa libera posteriore)**
 
 99. Cordoba. Blu. 
 Un razzo che parte dal riposo, si alza verticalmente con un'accelerazione costante di 2 g (se 
@@ -12216,7 +12216,7 @@ g) Rappresenta il movimento totale della rocket in x = f(t), v = f(t) e a = f(t)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Motor-powered rocket (rear free-fall) **
+**Motor-powered rocket (rear free-fall)**
 
 99. Cordoba. Blue, please. 
 A rocket that leaves resting, rises vertically with a constant acceleration of 2 g (if 
@@ -12267,7 +12267,7 @@ carro?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**L'asino e il carro (azione-reazione) **
+**L'asino e il carro (azione-reazione)**
 
 100. Cordoba. Blu. 
 Un contadino attacca il suo asino alla
@@ -12288,7 +12288,7 @@ Il contadino non ha carotte, come potrebbe dimostrare all'asino che può muovere
 
 <div class="qlang-split" data-lang="en"></div>
 
-**The donkey and the cart (action-reaction) **
+**The donkey and the cart (action-reaction)**
 
 100. Cordoba. Blue, please. 
 A peasant hooks his donkey to the
@@ -12562,7 +12562,7 @@ e) Il liquido è acqua? Considera la densità dell'acqua di 1 g/ cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The pressure-depth graph is **
+The pressure-depth graph is 
 
 103. The first is the Spanish. Blue, please. 
 Look at the graph of p = f (h) where p is the pressure and h is the depth, (i.e. the distance 
@@ -12643,7 +12643,7 @@ Gli interruttori sono aperti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Battery circuit and ampere meter **
+**Battery circuit and ampere meter**
 
 104. The first is the Spanish. Blue, please. 
 In the circuit shown in the figure, the battery and the ampheters, they have resistance.
@@ -12803,7 +12803,7 @@ Dati: Radios della lente: R1 = (-10) cm. R2 = 10 cm. h1 = 60cm  h2 = 40 cm.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Convergent lens on water piles **
+**Convergent lens on water piles**
 
 106. Eduardo Castex, the Pampa. Blue, please. 
 On the edge of a water stack (n of water = 1.333) a convergent lens of 
@@ -12947,7 +12947,7 @@ Coeficiente de rozamiento del acero con la madera: µe = 0,71   µd = 0,55
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Tuttacciare un cubo con un tubo (colonna d'acqua) **
+**Tuttacciare un cubo con un tubo (colonna d'acqua)**
 
 108. Città di Buenos Aires. Blu. 
 C'è un gioco che consiste nel tagliare, con un tubo vuoto di bocca quadrata, un cubo che è
@@ -12995,7 +12995,7 @@ Coefficiente di fratturazione dell'acciaio con il legno: μe = 0,71 μd = 0,55
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Cutting a cube with a tube (water column) **
+**Cutting a cube with a tube (water column)**
 
 108. City of Buenos Aires. Blue, please. 
 There's a game that involves cutting, with a hollow tube of square mouth, a cube that is 
@@ -13238,7 +13238,7 @@ Coeficiente de dilatación volumétrica: βlíquido = 0,9.10-3 l/ºC
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sfera di liquido rotante (senza gravità) **
+**Sfera di liquido rotante (senza gravità)**
 
 110. Città di Buenos Aires. Blu. 
 Si ha una sfera piena di liquido, il cui rivestimento è 
@@ -13353,7 +13353,7 @@ j) ¿Cuánto se comprime el resorte?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ruota di morte (loop e spring) **
+**Ruota di morte (loop e spring)**
 
 111. - Buona erba, Tucumán. Blu. 
 Il circo che è arrivato in città offre uno spettacolo di motociclisti molto interessante. Questo .
@@ -13393,7 +13393,7 @@ che nel tratto di pista circolare la velocità è rimasta costante.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Death wheel (loop and spring) **
+**Death wheel (loop and spring)**
 
 111. It's good grass, Tucumán. Blue, please. 
 The circus that came to town offers a very interesting motorcycle show. This one .
@@ -13592,7 +13592,7 @@ fundirse debido al calor que proporciona este. ¿En qué tiempo se fundirá tota
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Batteria, resistenza e motore (fcem) **
+**Batteria, resistenza e motore (fcem)**
 
 113. - Buona erba, Tucumán. Blu. 
 Una batteria fem E = 12 v e resistenza interna r = 0,5 Ohm si collega in serie con una 
@@ -13629,7 +13629,7 @@ si fondono a causa del calore che questo fornisce. Quando si fonderà completame
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Battery, resistance and engine (fcem) **
+**Battery, resistance and engine (fcem)**
 
 113. It's good grass, Tucumán. Blue, please. 
 A fem E = 12 v battery and internal resistance r = 0,5 Ohm is connected in series with a 
@@ -13718,7 +13718,7 @@ h) En que caso podrá valer 0 el peso de la persona dentro del ascensor.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Manguera antincendio (impulso-colissione) **
+**Manguera antincendio (impulso-colissione)**
 
 114. San Miguel, Tucumán. Blu. 
 Un tubo antincendio lancia 20 kg di acqua al secondo su un edificio in fiamme. El 
@@ -14414,7 +14414,7 @@ Conservación de la Cantidad de Movimiento? Justifique.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Anno nuovo (a partire dalla scorsa settimana) **
+**Anno nuovo (a partire dalla scorsa settimana)**
 
 120. Cordoba. Blu. 
 - Capodanno. In mezzo alla festa, abbiamo deciso di lanciare una lanterna lunga 1,10 metri e che
@@ -14441,7 +14441,7 @@ Conservazione della quantità di movimento? giustifica.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**New year (spanish for "small" year) **
+**New year (spanish for "small" year)**
 
 120. Cordoba. Blue, please. 
 It's the new year. In the middle of the celebration, we decided to throw a 1.10 m long dagger and that
@@ -15099,7 +15099,7 @@ Y cualquier información que considere relevante
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il pendolo fisico (radius di rotazione) **
+**Il pendolo fisico (radius di rotazione)**
 
 124. Città di Buenos Aires. Blu. 
 Il problema: il pendolo fisico
@@ -15647,7 +15647,7 @@ Comentarios que desee realizar referidos a la experiencia.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Constante di una sorgente (metodo statico) **
+**Constante di una sorgente (metodo statico)**
 
 126. Catamarca. Blu e verde. 
 Obiettivo: 
@@ -16515,7 +16515,7 @@ Deberán ser justificados todos los cálculos realizados
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Densità di un solido (picnometro) **
+**Densità di un solido (picnometro)**
 
 129. Città di Buenos Aires. Verde. 
 Determinare la densità di un solido e calcolare l'errore commesso
@@ -16990,7 +16990,7 @@ Comentarios que desee hacer.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Disposizione di un capello (difrazione) **
+**Disposizione di un capello (difrazione)**
 
 131. Città di Buenos Aires. Blu. 
 Obiettivo: 
@@ -17092,7 +17092,7 @@ Commenti che vorrebbe fare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Wight of one hair (diffraction) **
+**Wight of one hair (diffraction)**
 
 131. City of Buenos Aires. Blue, please. 
 The objective: 
@@ -17291,7 +17291,7 @@ Determine el valor de c con su respectivo error.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Calore specifico di un metallo (calorimetro) **
+**Calore specifico di un metallo (calorimetro)**
 
 132. Città di Buenos Aires. Blu. 
 Obiettivo 
@@ -17381,7 +17381,7 @@ Determina il valore di c con il suo errore.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Specific heat of a metal (calorometer) **
+**Specific heat of a metal (calorometer)**
 
 132. City of Buenos Aires. Blue, please. 
 The objective 
@@ -17750,7 +17750,7 @@ función del tiempo de descarga t puede expresarse como:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Capacità e energia conservata (motore CC) **
+**Capacità e energia conservata (motore CC)**
 
 136. Città di Buenos Aires. Blu. 
 Capacità e energia immagazzinata 
@@ -18862,7 +18862,7 @@ modificaciones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Vibrazione di un cavo di rame (tensione) **
+**Vibrazione di un cavo di rame (tensione)**
 
 147. Olivos, Buenos Aires. Blu. 
 L'obiettivo di questo esperimento è di indagare su come la lunghezza di vibrazione di un cavo di
@@ -19923,7 +19923,7 @@ termómetro
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Riconforte sconosciuta (omica o no) **
+**Riconforte sconosciuta (omica o no)**
 
 152. Mendoza. Blu. 
 Obiettivo: Determinare il valore della resistenza sconosciuta e giustificare se è o meno omnica. 
@@ -19959,7 +19959,7 @@ termometro
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Unknown resistance (ohmic or not) **
+**Unknown resistance (ohmic or not)**
 
 152. Mendoza, please. Blue, please. 
 Objective: Determine the value of the unknown resistance and justify whether or not it is omnivorous. 
@@ -20060,7 +20060,7 @@ no calcular el volumen.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Determinazione del zero assoluto (gas) **
+**Determinazione del zero assoluto (gas)**
 
 153. Città di Buenos Aires. Verde. 
                                                                           
@@ -20518,7 +20518,7 @@ Dato: g = 9,8 m/s2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Velocità iniziale di un'armata (tiratura) **
+**Velocità iniziale di un'armata (tiratura)**
 
 156. Rosario, Santa Fe. Verde. 
 Titolo: Determinazione della velocità iniziale di un cellulare. 
@@ -20769,7 +20769,7 @@ e) ¿Qué papel juega la manguera en este dispositivo?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Pressione a diverse profondità (manometro) **
+**Pressione a diverse profondità (manometro)**
 
 157. - Calma Olivia, Santa Cruz. Verde. 
 Risolvere la seguente situazione sperimentale, applicando il corrispondente supporto teorico. 
@@ -20825,7 +20825,7 @@ e) Che ruolo svolge il tubo in questo dispositivo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Pressure at different depths (manometer) **
+**Pressure at different depths (manometer)**
 
 157. Put Olivia down, Santa Cruz. Green, please. 
 Solve the following experimental situation by applying the corresponding theoretical support. 
@@ -20969,7 +20969,7 @@ datos A.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Elasticità e legge di Hooke (estensione) **
+**Elasticità e legge di Hooke (estensione)**
 
 158. Santiago del Estero. Blu. 
 Elasticità e legge di Hooke (estensione). 
@@ -21050,7 +21050,7 @@ dati A.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Elasticity and Hooke's law (stretch) **
+**Elasticity and Hooke's law (stretch)**
 
 158. The first is the Spanish. Blue, please. 
 Elasticity and Hooke's law. 
@@ -21325,7 +21325,7 @@ Y cualquier otra información que considere relevante.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ricarica di un condensatore (RC) **
+**Ricarica di un condensatore (RC)**
 
 160. Città di Buenos Aires. Blu. 
 Obiettivo: analizzare l'espulsione di un capacitore attraverso una resistenza. 
@@ -21614,7 +21614,7 @@ en el cálculo de las velocidades instantáneas.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Movimento di caduta libera (stroboscopia) **
+**Movimento di caduta libera (stroboscopia)**
 
 161. Cordoba. Blu. 
 Obiettivo: 
@@ -21775,7 +21775,7 @@ Dato: g = 9,8m/s2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Constantante di proporzionalità K (Hooke) **
+**Constantante di proporzionalità K (Hooke)**
 
 162. Santiago del Estero. Blu. 
 Si intende trovare la costante di proporzionalità (K) tra la forza che agisce in un 
@@ -22408,7 +22408,7 @@ posibles errores cometidos y las conclusiones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Dipendenza corrente-tensione (conduttore) **
+**Dipendenza corrente-tensione (conduttore)**
 
 165. - Buona erba, Tucumán. Blu. 
 Obiettivo: 
@@ -22556,7 +22556,7 @@ Dato: considere g = (9,78903 + 0,00001)m/s2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Massa di un corpo sconosciuto (pola) **
+**Massa di un corpo sconosciuto (pola)**
 
 166. San Miguel, Tucumán. Blu. 
 Obiettivo: 
@@ -22609,7 +22609,7 @@ Data: considera g = (9,78903 + 0,00001) m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mass of an unknown body (polea) **
+**Mass of an unknown body (polea)**
 
 166. San Miguel, Tucumán. Blue, please. 
 The objective: 
@@ -22706,7 +22706,7 @@ Todos aquellos comentarios que considere relevante para el informe.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Proporzionalità tensione-corrente (conduttore) **
+**Proporzionalità tensione-corrente (conduttore)**
 
 167. San Miguel, Tucumán. Blu. 
 Obiettivo 
@@ -22842,7 +22842,7 @@ Comentarios
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Deformazione di un corpo elastico (gomma) **
+**Deformazione di un corpo elastico (gomma)**
 
 168. Cordoba. Blu. 
 Obiettivo: 

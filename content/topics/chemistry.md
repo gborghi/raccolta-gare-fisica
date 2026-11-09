@@ -14,4 +14,4 @@ tags:
 ### INJSO 2017
 - [[prove/injso2017-question#q03|INJSO 2017 · Problema 3]] — A black dot has a mass of about one femtogram. Assuming that
 
-<div class="paged-list" data-src="cl/142.json" data-count="258"></div>
+<div class="paged-list" data-src="cl/142.json" data-count="260"></div>

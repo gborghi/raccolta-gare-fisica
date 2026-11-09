@@ -220,10 +220,9 @@ $$V_B = \frac{V(1-\mathrm{i}u)}{1+u^2}, \qquad V_D = \frac{V(1+\mathrm{i}w)}{1+w
 
 Taking $V_P = 2V/3$, write $V_{PB}/V = X_B + \mathrm{i}Y_B$ and $V_{PD}/V = X_D + \mathrm{i}Y_D$:
 
-$$\begin{aligned}
-X_B &= \frac{2u^2-1}{3(1+u^2)}, & Y_B &= \frac{u}{1+u^2}, \\
-X_D &= \frac{2w^2-1}{3(1+w^2)}, & Y_D &= -\frac{w}{1+w^2}.
-\end{aligned}$$
+$$X_B = \frac{2u^2-1}{3(1+u^2)}, \qquad Y_B = \frac{u}{1+u^2},$$
+
+$$X_D = \frac{2w^2-1}{3(1+w^2)}, \qquad Y_D = -\frac{w}{1+w^2}.$$
 
 The Lissajous curve degenerates to a line iff $V_{PB}/V_{PD}$ is real, i.e., $X_B Y_D - Y_B X_D = 0$. Substituting and simplifying yields
 
@@ -235,15 +234,16 @@ $$\tan\alpha = \frac{Y_D}{Y_B} = -\frac{w(1+u^2)}{u(1+w^2)}.$$
 
 Substituting $w = 1/(2u)$ gives
 
-$$\tan\alpha = -\frac{2(1+u^2)}{1+4u^2}, \quad \text{so} \quad \frac{1+4u^2}{1+u^2} = \frac{2}{|\tan\alpha|}.
-\tag{$\dagger$}$$
+$$
+\tan\alpha = -\frac{2(1+u^2)}{1+4u^2}, \quad \text{so} \quad \frac{1+4u^2}{1+u^2} = \frac{2}{|\tan\alpha|}.
+\tag{†}
+$$
 
 The amplitude between $B$ and $P$ follows from $X_B^2 + Y_B^2$:
 
-$$\begin{aligned}
-\frac{|V_{PB}|^2}{V^2} &= \frac{(2u^2-1)^2 + 9u^2}{9(1+u^2)^2} \\
-&= \frac{(4u^2+1)(1+u^2)}{9(1+u^2)^2} = \frac{4u^2+1}{9(1+u^2)}.
-\end{aligned}$$
+$$\frac{|V_{PB}|^2}{V^2} = \frac{(2u^2-1)^2 + 9u^2}{9(1+u^2)^2}$$
+
+$$= \frac{(4u^2+1)(1+u^2)}{9(1+u^2)^2} = \frac{4u^2+1}{9(1+u^2)}.$$
 
 Using ($\dagger$):
 
@@ -555,10 +555,13 @@ As in solution 2 to part ii, we again look at the topmost point of the trajector
 
 -   Correct radius formula $R = mg/[2|2m\omega^2 - k|]$ **0.2 pts**
 
-*Solution 2 by Jaan Kalda (for finding the radius)* The particular solution is again (as in solution 4 to part ii) $r_p = A'\sin\omega t$: $$\begin{aligned}
-    -\omega^2 A' &= (\omega^2 - \omega_0^2)A' - g \\
-    \Rightarrow\quad A' &= \frac{g}{2\omega^2 - \omega_0^2} = \frac{mg}{2m\omega^2 - k}.
-  \end{aligned}$$ The corresponding lab-frame orbit is, as in (b), a circle of radius $|A'|/2$, giving the result as in solution 1. For $m\omega^2 < k < 2m\omega^2$ the amplitude $A'$ is positive and the circle sits above the axis (as in parts a, b); at $k = 2m\omega^2$ the driven amplitude diverges (driving resonance --- the bounded circular orbit ceases to exist); for $k > 2m\omega^2$ the amplitude is negative, meaning the circle flips to below the axis, but remains stable. **Grading:**
+*Solution 2 by Jaan Kalda (for finding the radius)* The particular solution is again (as in solution 4 to part ii) $r_p = A'\sin\omega t$:
+
+$$-\omega^2 A' = (\omega^2 - \omega_0^2)A' - g$$
+
+$$\Rightarrow\quad A' = \frac{g}{2\omega^2 - \omega_0^2} = \frac{mg}{2m\omega^2 - k}.$$
+
+The corresponding lab-frame orbit is, as in (b), a circle of radius $|A'|/2$, giving the result as in solution 1. For $m\omega^2 < k < 2m\omega^2$ the amplitude $A'$ is positive and the circle sits above the axis (as in parts a, b); at $k = 2m\omega^2$ the driven amplitude diverges (driving resonance --- the bounded circular orbit ceases to exist); for $k > 2m\omega^2$ the amplitude is negative, meaning the circle flips to below the axis, but remains stable. **Grading:**
 
 -   Solving for particular-solution amplitude $A'$ **0.5 pts**
 
@@ -1225,10 +1228,11 @@ The initial entropies for the two scenarios are read at $T_0 = 298$ K ($25\,^{\c
 
 -   Scenario (b), saturated vapour at $T_0$: $s_b \approx 2550(50)\,\frac{\mathrm{J}}{\mathrm{kg\cdot K}}$.
 
-**Mass fractions.** Applying the lever rule to each: $$\begin{aligned}
-x_a &= \frac{3250 - 2100}{3250 - 400} = \frac{1150}{2850} \approx 0.40, \\
-x_b &= \frac{3250 - 2550}{3250 - 400} = \frac{700}{2850} \approx 0.25.
-\end{aligned}$$
+**Mass fractions.** Applying the lever rule to each:
+
+$$x_a = \frac{3250 - 2100}{3250 - 400} = \frac{1150}{2850} \approx 0.40,$$
+
+$$x_b = \frac{3250 - 2550}{3250 - 400} = \frac{700}{2850} \approx 0.25.$$
 
 So the liquid-fed extinguisher (a) produces a stream that is $\sim$40% dry ice (and 60% vapour) by mass, while the vapour-fed extinguisher (b) produces a stream that is only $\sim$25% dry ice. The liquid scenario yields about 1.6 times more solid CO$_2$ per unit mass discharged --- which is why fire extinguishers are designed to draw liquid.
 
@@ -1355,7 +1359,7 @@ A uniformly magnetised sphere produces an external field identical to that of a 
 
 **Stage 1: locate the axis.** Place the ball-magnet on the flat iron disk. The magnet polarises the iron underneath, creating an attractive image-dipole. The interaction energy is minimised when the magnet's dipole axis is perpendicular to the iron surface (so the two dipoles are aligned head-to-tail). The ball therefore rolls until its axis points straight down at the disk. With a permanent marker, mark a dot at the topmost point of the ball (where the axis exits the upper hemisphere). Then carefully invert the ball, place it on the disk again, and mark a second dot at the new topmost point. The two dots are diametrically opposite and lie on the dipole axis.
 
-For full marking precision, the dot should be placed within $\sim$1 mm of the highest point of the ball; on a 10 mm ball this corresponds to better than $\sim$$10^\circ$ angular alignment.
+For full marking precision, the dot should be placed within $\sim$1 mm of the highest point of the ball; on a 10 mm ball this corresponds to better than $\sim 10^\circ$ angular alignment.
 
 **Stage 2: identify which dot is N.** At Tallinn's latitude, the geomagnetic field $\vec{B}_E$ points downward into the ground (the Earth's dipole moment points southwards as stated, so its field lines re-enter the ground in the northern hemisphere). A free magnet self-orients with $\vec{\mu}_\mathrm{magnet} \parallel \vec{B}_E$. Place the ball on the flat wooden plate (well away from iron objects). The geomagnetic torque rotates the ball until its dipole moment $\vec{\mu}$ aligns with $\vec{B}_E$ --- pointing downward, predominantly. The ball does not roll away: $\vec{B}_E$ itself holds the ball in the aligned orientation, since once $\vec{\mu} \parallel \vec{B}_E$ the torque vanishes.
 

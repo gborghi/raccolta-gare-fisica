@@ -16,4 +16,4 @@ tags:
 ### INJSO 2017
 - [[prove/injso2017-question#q04|INJSO 2017 · Problema 4]] — Among the following, the third strongest energy is highest f
 
-<div class="paged-list" data-src="cl/1.json" data-count="257"></div>
+<div class="paged-list" data-src="cl/1.json" data-count="259"></div>

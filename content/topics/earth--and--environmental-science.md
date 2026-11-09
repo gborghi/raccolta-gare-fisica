@@ -14,4 +14,4 @@ tags:
 ### INJSO 2020
 - [[prove/injso2020-questions-en#q35|INJSO 2020 · Problema 35]] — [8 marks] Any change in an environmental parameter can have
 
-<div class="paged-list" data-src="cl/146.json" data-count="40"></div>
+<div class="paged-list" data-src="cl/146.json" data-count="42"></div>

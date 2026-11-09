@@ -21,6 +21,7 @@ export const COUNTRY = {
   Brazil: ["br", "Brazil"], Estonia: ["ee", "Estonia"], China: ["cn", "China"],
   Taiwan: ["tw", "Taiwan"], Romania: ["ro", "Romania"], Hungary: ["hu", "Hungary"],
   Azerbaijan: ["az", "Azerbaijan"], Portugal: ["pt", "Portugal"],
+  "Repubblica Ceca": ["cz", "Czech Republic"], "Czech Republic": ["cz", "Czech Republic"],
 }
 // -> { iso, name }. iso "" means render the globe (international / multi-country / unmapped).
 export function nationInfo(country, comp, pdf) {

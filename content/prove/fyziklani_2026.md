@@ -2663,7 +2663,7 @@ Answers taken from the official FYKOS solutions (Fyziklani 2026).
 | 24 | CH — Plato's current | $\Phi = \dfrac{Q}{20\,\varepsilon_0}$ |
 | 25 | DA — Warming rezistor | $I = \dfrac{\sqrt{R_0^2 + 4R_0\alpha\beta U^2} - R_0}{2R_0\alpha\beta U} \approx 32\,\mathrm{A}$ |
 | 26 | DB — Triple collision | $v_1 = v\,\dfrac{d^2 - 8r^2}{24r^2 - d^2} \approx 0.067\,\mathrm{m\,s^{-1}}$ |
-| 27 | DC — Watt's magnetic governor | $|\omega| \approx 2.15\,\mathrm{rad\,s^{-1}}$ |
+| 27 | DC — Watt's magnetic governor | $\lvert \omega\rvert \approx 2.15\,\mathrm{rad\,s^{-1}}$ |
 | 28 | DD — Overturned train | $v = \dfrac{gTa}{4\pi b\sin\vartheta} \approx 64\,\mathrm{km\,s^{-1}}$ |
 | 29 | DE — Where to with it? | $k \approx 32\,\mathrm{kN\,m^{-1}}$ |
 | 30 | DF — Hellish | $Q/q = (\tan 72^\circ\cos 54^\circ + \sin 54^\circ)^2 \approx 6.85$ |
@@ -2731,7 +2731,7 @@ Risposte ricavate dalle soluzioni ufficiali FYKOS (Fyziklani 2026).
 | 24 | CH — La corrente di Platone | $\Phi = \dfrac{Q}{20\,\varepsilon_0}$ |
 | 25 | DA — Resistore che si scalda | $I = \dfrac{\sqrt{R_0^2 + 4R_0\alpha\beta U^2} - R_0}{2R_0\alpha\beta U} \approx 32\,\mathrm{A}$ |
 | 26 | DB — Urto triplo | $v_1 = v\,\dfrac{d^2 - 8r^2}{24r^2 - d^2} \approx 0.067\,\mathrm{m\,s^{-1}}$ |
-| 27 | DC — Il regolatore magnetico di Watt | $|\omega| \approx 2.15\,\mathrm{rad\,s^{-1}}$ |
+| 27 | DC — Il regolatore magnetico di Watt | $\lvert \omega\rvert \approx 2.15\,\mathrm{rad\,s^{-1}}$ |
 | 28 | DD — Treno ribaltato | $v = \dfrac{gTa}{4\pi b\sin\vartheta} \approx 64\,\mathrm{km\,s^{-1}}$ |
 | 29 | DE — Dove metterlo? | $k \approx 32\,\mathrm{kN\,m^{-1}}$ |
 | 30 | DF — Infernale | $Q/q = (\tan 72^\circ\cos 54^\circ + \sin 54^\circ)^2 \approx 6.85$ |

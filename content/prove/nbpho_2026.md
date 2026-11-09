@@ -120,7 +120,7 @@ Now we have: object $P$ imaged to $P^\star$, object $Q$ imaged to $D$, through a
 
 **Lente in movimento (6 punti) — Eppu Leinonen**
 
-Il centro di una lente sottile convergente si muove lungo una circonferenza, mentre l'orientazione della lente resta fissa; l'asse ottico della lente giace nel piano della circonferenza (il piano della figura). Due punti fissi $P$ e $Q$, anch'essi in questo piano, vengono immaginati dalla lente; le immagini sono sempre reali. Mentre la lente si muove, ciascuna immagine descrive una curva chiusa nel piano della figura: $P \to P'$, $Q \to Q'$. I due punti ed entrambe le curve sono mostrati in figura.
+Il centro di una lente sottile convergente si muove lungo una circonferenza, mentre l'orientazione della lente resta fissa; l'asse ottico della lente giace nel piano della circonferenza (il piano della figura). La lente forma le immagini di due punti fissi $P$ e $Q$, anch'essi in questo piano; le immagini sono sempre reali. Mentre la lente si muove, ciascuna immagine descrive una curva chiusa nel piano della figura: $P \to P'$, $Q \to Q'$. I due punti ed entrambe le curve sono mostrati in figura.
 
 ![[NBPhO_2026_Q1_fig1.png]]
 
@@ -1541,15 +1541,15 @@ Final results from the official NBPhO 2026 solutions (v1.2).
 | Problem | Title | Risposta |
 |---:|---|---|
 | 1 | Moving lens (6 points) — Eppu Leinonen | geometric construction — see the official solution |
-| 2 | Lissajous bridge (6 points) — Jaan Kalda | $|V_{PB}| = \dfrac{V}{3}\sqrt{\dfrac{2}{|\tan\alpha|}}$ |
+| 2 | Lissajous bridge (6 points) — Jaan Kalda | $\lvert V_{PB}\rvert = \dfrac{V}{3}\sqrt{\dfrac{2}{\lvert \tan\alpha\rvert }}$ |
 | 3 | Kirill on a swing (8 points) — Kaarel Hänni | iii) $N = 6$ stand-ups ($N \ge \tfrac23\ln4/\ln1.2 \approx 5.07$) |
-| 4 | Rod and bead (8 points) — Eero Ristolainen, Jaan Kalda | ii) $R = g/(4\omega^2)$; iii) $k > m\omega^2$, $R = \dfrac{mg}{2|2m\omega^2-k|}$; iv) $\Omega = \tfrac95\omega$, $g = d\omega^2/2$, $a_E = 5d\omega^2$ |
+| 4 | Rod and bead (8 points) — Eero Ristolainen, Jaan Kalda | ii) $R = g/(4\omega^2)$; iii) $k > m\omega^2$, $R = \dfrac{mg}{2\lvert 2m\omega^2-k\rvert }$; iv) $\Omega = \tfrac95\omega$, $g = d\omega^2/2$, $a_E = 5d\omega^2$ |
 | 5 | Saturation pressure of water (8 points) — Eero Uustalu | experimental — e.g. $p_\mathrm{sat} \approx 2.6\,\mathrm{kPa}$ at $22\,^\circ\mathrm{C}$ (see the official solution) |
-| 6 | Pull-up bar rope (5 points) — Jaan Kalda | i) $u = v/\sin\alpha$; ii) $|\ddot x| = \dfrac{v^2}{H}\cot^3\alpha$; iii) $\alpha_0 = \arctan\sqrt[4]{v^2/(gH)}$ |
+| 6 | Pull-up bar rope (5 points) — Jaan Kalda | i) $u = v/\sin\alpha$; ii) $\lvert \ddot x\rvert = \dfrac{v^2}{H}\cot^3\alpha$; iii) $\alpha_0 = \arctan\sqrt[4]{v^2/(gH)}$ |
 | 7 | Water hose (5 points) — Ralf Robert Paabo | i) $R = \rho v D/\mu$; ii) turbulent; iii) $Q'/Q \approx 0.88$, excess pressure $\times 35$ |
 | 8 | Jet sound (8 points) — Teo Kai Wen, Jaan Kalda | ii) $M = 1.5$; iii) $d = \dfrac{\tau c}{1-\sqrt{1-M^{-2}}} \approx 1.5\,\mathrm{km}$ |
 | 9 | CO2 fire extinguisher (8 points) — Jaan Kalda | ii) $x_a \approx 0.40$, $x_b \approx 0.25$; iii) condensation iff $L/(c_pT) > 1$ — yes for water ($\approx 3.0$) |
-| 10 | Ball magnet (10 points) — Jaan Kalda | experimental — e.g. $|B_E| \approx 51\,\mu\mathrm{T}$, $\chi \sim 10^{-4}$ (see the official solution) |
+| 10 | Ball magnet (10 points) — Jaan Kalda | experimental — e.g. $\lvert B_E\rvert \approx 51\,\mu\mathrm{T}$, $\chi \sim 10^{-4}$ (see the official solution) |
 
 **Fonte:** [Testo e soluzioni (PDF)](https://nbpho.ee/wp-content/uploads/2026/04/NBPhO_2026_v1.2.pdf)
 
@@ -1561,14 +1561,14 @@ Risultati finali dalle soluzioni ufficiali NBPhO 2026 (v1.2).
 | Problema | Titolo | Risposta |
 |---:|---|---|
 | 1 | Lente in movimento (6 punti) — Eppu Leinonen | costruzione geometrica — vedi la soluzione ufficiale |
-| 2 | Ponte di Lissajous (6 punti) — Jaan Kalda | $|V_{PB}| = \dfrac{V}{3}\sqrt{\dfrac{2}{|\tan\alpha|}}$ |
+| 2 | Ponte di Lissajous (6 punti) — Jaan Kalda | $\lvert V_{PB}\rvert = \dfrac{V}{3}\sqrt{\dfrac{2}{\lvert \tan\alpha\rvert }}$ |
 | 3 | Kirill sull'altalena (8 punti) — Kaarel Hänni | iii) $N = 6$ volte ($N \ge \tfrac23\ln4/\ln1{,}2 \approx 5{,}07$) |
-| 4 | Asta e perlina (8 punti) — Eero Ristolainen, Jaan Kalda | ii) $R = g/(4\omega^2)$; iii) $k > m\omega^2$, $R = \dfrac{mg}{2|2m\omega^2-k|}$; iv) $\Omega = \tfrac95\omega$, $g = d\omega^2/2$, $a_E = 5d\omega^2$ |
+| 4 | Asta e perlina (8 punti) — Eero Ristolainen, Jaan Kalda | ii) $R = g/(4\omega^2)$; iii) $k > m\omega^2$, $R = \dfrac{mg}{2\lvert 2m\omega^2-k\rvert }$; iv) $\Omega = \tfrac95\omega$, $g = d\omega^2/2$, $a_E = 5d\omega^2$ |
 | 5 | Tensione di vapore saturo dell'acqua (8 punti) — Eero Uustalu | sperimentale — ad es. $p_\mathrm{sat} \approx 2{,}6\,\mathrm{kPa}$ a $22\,^\circ\mathrm{C}$ (vedi la soluzione ufficiale) |
-| 6 | La fune sulla sbarra (5 punti) — Jaan Kalda | i) $u = v/\sin\alpha$; ii) $|\ddot x| = \dfrac{v^2}{H}\cot^3\alpha$; iii) $\alpha_0 = \arctan\sqrt[4]{v^2/(gH)}$ |
+| 6 | La fune sulla sbarra (5 punti) — Jaan Kalda | i) $u = v/\sin\alpha$; ii) $\lvert \ddot x\rvert = \dfrac{v^2}{H}\cot^3\alpha$; iii) $\alpha_0 = \arctan\sqrt[4]{v^2/(gH)}$ |
 | 7 | Tubo dell'acqua (5 punti) — Ralf Robert Paabo | i) $R = \rho v D/\mu$; ii) turbolento; iii) $Q'/Q \approx 0{,}88$, sovrapressione $\times 35$ |
 | 8 | Il suono del jet (8 punti) — Teo Kai Wen, Jaan Kalda | ii) $M = 1{,}5$; iii) $d = \dfrac{\tau c}{1-\sqrt{1-M^{-2}}} \approx 1{,}5\,\mathrm{km}$ |
 | 9 | Estintore a CO₂ (8 punti) — Jaan Kalda | ii) $x_a \approx 0{,}40$, $x_b \approx 0{,}25$; iii) condensa se $L/(c_pT) > 1$ — sì per l'acqua ($\approx 3{,}0$) |
-| 10 | Magnete sferico (10 punti) — Jaan Kalda | sperimentale — ad es. $|B_E| \approx 51\,\mu\mathrm{T}$, $\chi \sim 10^{-4}$ (vedi la soluzione ufficiale) |
+| 10 | Magnete sferico (10 punti) — Jaan Kalda | sperimentale — ad es. $\lvert B_E\rvert \approx 51\,\mu\mathrm{T}$, $\chi \sim 10^{-4}$ (vedi la soluzione ufficiale) |
 
 **Fonte:** [Testo e soluzioni (PDF)](https://nbpho.ee/wp-content/uploads/2026/04/NBPhO_2026_v1.2.pdf)

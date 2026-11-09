@@ -19,7 +19,7 @@ tags:
 
 
 
-**T1. Three problems**
+**QUESTION T1 [10 pts]. Three problems**
 
 This question consists of three independent problems.
 
@@ -61,9 +61,30 @@ A photon with angular frequency $\omega$ strikes an ozone molecule O$_3$ at rest
 
 **T1-C1 [2.5 pts].** If the angle that the momentum of the outgoing O$_2$ with respect to the incident photon is $\theta$, determine the minimum angular frequency $\omega_{\mathrm{min}}$ required for this dissociation to occur at this angle. Write your answer in terms of $\hbar$, $c$, $\theta$, $\Delta U = U_f - U_i$, and the mass $m$ of an oxygen atom.
 
-**T1-C2 [1.0 pts].** If $\theta = \pi/6$, calculate the value of $\hbar\omega_{\mathrm{min}} - \Delta U$. Give your answer in electronvolts (eV). Take $\Delta U = 1.10\,e\mathrm{V}$ and $m = 16.0\,\mathrm{amu}$.
+**T1-C2 [1.0 pts].** If $\theta = \pi/6$, calculate the value of $\hbar\omega_{\mathrm{min}} - \Delta U$. Give your answer in electronvolts (eV). Take $\Delta U = 1.10\,\mathrm{eV}$ and $m = 16.0\,\mathrm{amu}$.
 
 *Hint:* $$(1+x)^r = 1 + rx + \frac{r(r-1)}{2!}x^2 + \frac{r(r-1)(r-2)}{3!}x^3 + \cdots$$
+
+**Physical Constants** — reference values for selected physical constants (official table of the exam: always use these values unless otherwise noted).
+
+| Constant | Notation | Value | Units |
+|---|---|---|---|
+| Speed of light in vacuum | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Planck constant | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Reduced Planck constant | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Avogadro number | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Boltzmann constant | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Ideal gas constant | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Elementary charge | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Universal gravitational constant | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Vacuum permeability | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Vacuum permittivity | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Mass of the electron | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Mass of the proton | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Atomic mass unit | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+
+*N.d.R.: refusi del testo ufficiale, riprodotti senza modifiche: «meaing» (meaning, T1-B2) e «eccentricty» (eccentricity, Hint 1).*
 
 **Soluzione:**
 
@@ -127,6 +148,12 @@ Up to second order in $\Delta U$ $$\omega_\mathrm{min} = \frac{\Delta U}{\hbar} 
 
 *Soluzione ufficiale (official solution), trascrizione LaTeX di olimpicos.net: [IPhO_2026_S1.pdf](https://olimpicos.net/files/ipho/IPhO_2026_S1.pdf).*
 
+*N.d.R. — errori della soluzione ufficiale, riprodotta qui senza modifiche:*
+
+- *Intestazione «T1-B [2.5 pts]»: nel testo la parte T1-B vale 3.5 punti (T1-B1 1.0 + T1-B2 2.5).*
+- *T1-B2: nel calcolo dell'eccentricità «$4ke^2(15\hbar^2)$» va letto $4ke^2(15\hbar)^2$.*
+- *T1-C1, Soluzione 2: nella conservazione dell'energia il termine $\frac{1}{2}\times\frac{p_\gamma^2\sin^2\theta}{3m}$ va letto $\frac{p_\gamma^2\sin^2\theta}{3m}$, cioè $\frac{1}{2}\cdot 6m\,v_1^2$ con $v_1 = v_{CM}\sin\theta$. Nel riquadro finale di $\omega_{min}$ manca inoltre un fattore 2 sotto radice; la forma corretta, coerente con il $p_\gamma$ della stessa soluzione e con la Soluzione 1, è $\omega_{min} = \dfrac{3mc^2}{(2\sin^2\theta+1)\hbar}\left[1-\sqrt{1-\dfrac{2\Delta U\,(2\sin^2\theta+1)}{3mc^2}}\right]$.*
+
 **Topic:** [[Fluid Mechanics]], [[Electrostatics]], [[Conservation of Momentum]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
@@ -136,7 +163,7 @@ Up to second order in $\Delta U$ $$\omega_\mathrm{min} = \frac{\Delta U}{\hbar} 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T1. Tre problemi**
+**PROBLEMA T1 [10 pt]. Tre problemi**
 
 Questo quesito è costituito da tre problemi indipendenti.
 
@@ -178,9 +205,28 @@ Un fotone di frequenza angolare $\omega$ colpisce una molecola di ozono O$_3$ in
 
 **T1-C1 [2.5 pt].** Se l'angolo tra la quantità di moto della molecola O$_2$ uscente e il fotone incidente è $\theta$, determina la minima frequenza angolare $\omega_{\mathrm{min}}$ necessaria perché la dissociazione avvenga con quell'angolo. Esprimi la risposta in funzione di $\hbar$, $c$, $\theta$, $\Delta U = U_f - U_i$ e della massa $m$ di un atomo di ossigeno.
 
-**T1-C2 [1.0 pt].** Se $\theta = \pi/6$, calcola il valore di $\hbar\omega_{\mathrm{min}} - \Delta U$. Esprimi la risposta in elettronvolt (eV). Assumi $\Delta U = 1.10\,e\mathrm{V}$ e $m = 16.0\,\mathrm{u}$.
+**T1-C2 [1.0 pt].** Se $\theta = \pi/6$, calcola il valore di $\hbar\omega_{\mathrm{min}} - \Delta U$. Esprimi la risposta in elettronvolt (eV). Assumi $\Delta U = 1.10\,\mathrm{eV}$ e $m = 16.0\,\mathrm{u}$.
 
 *Suggerimento:* $$(1+x)^r = 1 + rx + \frac{r(r-1)}{2!}x^2 + \frac{r(r-1)(r-2)}{3!}x^3 + \cdots$$
+
+**Costanti fisiche** — valori di riferimento (tabella ufficiale della prova: usa sempre questi valori, salvo diversa indicazione).
+
+| Costante | Simbolo | Valore | Unità |
+|---|---|---|---|
+| Velocità della luce nel vuoto | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Costante di Planck | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Costante di Planck ridotta | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Numero di Avogadro | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Costante di Boltzmann | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Costante dei gas | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Carica elementare | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Costante di gravitazione universale | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Costante di Stefan–Boltzmann | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Permeabilità magnetica del vuoto | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Costante dielettrica del vuoto | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Massa dell'elettrone | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Massa del protone | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Unità di massa atomica | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
 
 **Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel PDF ufficiale.
 
@@ -198,7 +244,7 @@ Un fotone di frequenza angolare $\omega$ colpisce una molecola di ozono O$_3$ in
 
 
 
-**T2. Cooking with sunlight?**
+**QUESTION T2 [10 pts]. Cooking with sunlight?**
 
 The redistribution of luminous flux into regions of high and low intensity due to reflection or refraction can lead to the formation of *caustics:* curves formed by the intersection of infinitesimally close light rays. As an example, Figure 2a shows the caustic formed by rays incident paraxially on a half-cylindrical mirror. Figure 2b shows a photograph of the caustic formed by the reflection of light on the bottom part of a coffee cup. The brightest and central point of the caustic is called the *cusp*; at this point, the light intensity is maximal.
 
@@ -263,6 +309,27 @@ Fig. 2g.
 **T2-C3 [1.0 pts].** Find the coordinates of the point of intersection $(X_c, Y_c)$ between the reflected rays of $A$ and $B$. Write your answer in terms of $R$ and $\theta$.
 
 **T2-C4 [1.0 pts].** For $\theta \ll 1$, we have $Y_c = v|X_c|^{p/q}+u$. Write $v$ and $u$ in terms of $R$ and find the values of the integers $p$ and $q$ (equivalently, give the rational number $p/q$).
+
+**Physical Constants** — reference values for selected physical constants (official table of the exam: always use these values unless otherwise noted).
+
+| Constant | Notation | Value | Units |
+|---|---|---|---|
+| Speed of light in vacuum | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Planck constant | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Reduced Planck constant | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Avogadro number | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Boltzmann constant | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Ideal gas constant | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Elementary charge | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Universal gravitational constant | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Vacuum permeability | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Vacuum permittivity | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Mass of the electron | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Mass of the proton | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Atomic mass unit | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+
+*N.d.R.: refuso del testo ufficiale, riprodotto senza modifiche: «cyllinder» (cylinder, T2-B2).*
 
 **Soluzione:**
 
@@ -385,6 +452,11 @@ Y_C &= \frac{R}{2}\cos(\theta)(2 - \cos(2\theta))\\
 
 *Soluzione ufficiale (official solution), trascrizione LaTeX di olimpicos.net: [IPhO_2026_S2.pdf](https://olimpicos.net/files/ipho/IPhO_2026_S2.pdf).*
 
+*N.d.R. — errori della soluzione ufficiale, riprodotta qui senza modifiche (T2-C2):*
+
+- *La riga «$\cot(2\theta) - 2\Delta\theta(1 - \tan^2(2\Delta\theta))$» va letta $\cot(2\theta) - 2\Delta\theta\,(1 + \cot^2 2\theta)$; il risultato nel riquadro, $m_B = \cot(2\theta) - 2\csc^2(2\theta)\,\Delta\theta$, è corretto.*
+- *Nella terza forma equivalente $\Delta\theta$ è nel posto sbagliato: va letta $\frac{1}{2}\left(\cot\theta - \tan\theta - \csc^2\theta\,\sec^2\theta\,\Delta\theta\right)$.*
+
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
@@ -394,7 +466,7 @@ Y_C &= \frac{R}{2}\cos(\theta)(2 - \cos(2\theta))\\
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T2. Cucinare con la luce del Sole?**
+**PROBLEMA T2 [10 pt]. Cucinare con la luce del Sole?**
 
 La ridistribuzione del flusso luminoso in regioni di alta e bassa intensità dovuta a riflessione o rifrazione può portare alla formazione di *caustiche*: curve formate dall'intersezione di raggi luminosi infinitamente vicini. Ad esempio, la Figura 2a mostra la caustica formata da raggi parassiali incidenti su uno specchio semicilindrico. La Figura 2b mostra una fotografia della caustica formata dalla luce riflessa sul fondo di una tazzina da caffè. Il punto centrale e più luminoso della caustica si chiama *cuspide*: in quel punto l'intensità luminosa è massima.
 
@@ -460,6 +532,25 @@ Suggerimento: la forma attesa è $m_A = K_1\cot(K_2\theta)$ e $b_A = R\frac{K_3}
 
 **T2-C4 [1.0 pt].** Per $\theta \ll 1$ si ha $Y_c = v|X_c|^{p/q}+u$. Scrivi $v$ e $u$ in funzione di $R$ e trova i valori degli interi $p$ e $q$ (o, equivalentemente, il numero razionale $p/q$).
 
+**Costanti fisiche** — valori di riferimento (tabella ufficiale della prova: usa sempre questi valori, salvo diversa indicazione).
+
+| Costante | Simbolo | Valore | Unità |
+|---|---|---|---|
+| Velocità della luce nel vuoto | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Costante di Planck | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Costante di Planck ridotta | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Numero di Avogadro | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Costante di Boltzmann | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Costante dei gas | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Carica elementare | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Costante di gravitazione universale | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Costante di Stefan–Boltzmann | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Permeabilità magnetica del vuoto | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Costante dielettrica del vuoto | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Massa dell'elettrone | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Massa del protone | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Unità di massa atomica | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+
 **Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel PDF ufficiale.
 
 **Topic:** [[Geometric Optics]]
@@ -476,7 +567,7 @@ Suggerimento: la forma attesa è $m_A = K_1\cot(K_2\theta)$ e $b_A = R\frac{K_3}
 
 
 
-**T3. Chasing the absolute zero**
+**QUESTION T3 [10 pts]. Chasing the absolute zero**
 
 A refrigeration cycle must be carried out by a system with characteristics appropriate for the temperatures to be achieved. One hundred years ago, in 1926, the chemist William Giauque and, independently, the physicist Peter Debye proposed paramagnetic salts as ideal systems for lowering temperatures far below $1\,\mathrm{K}$. Indeed, beginning in the following decade, temperatures as low as $0.0044\,\mathrm{K}$ were achieved (Wander de Haas and Gerrit Wiersma, 1935, Leiden Cryogenic Laboratories). In this question, the paramagnetic Carnot refrigeration cycle is studied.
 
@@ -541,6 +632,25 @@ $Q_c$: absolute value of the heat absorbed from the cold reservoir
 
 **T3-C5 [1.5 pts].** The efficiency of a refrigerator is quantified by its *coefficient of performance* $\mathrm{COP} = Q_c/W$. Determine the overall COP of the refrigerator of question T3-C4 with all the cycles performed until time $t$. Write your answer in terms of $T_0$ and $T_h$ and $T$.
 
+**Physical Constants** — reference values for selected physical constants (official table of the exam: always use these values unless otherwise noted).
+
+| Constant | Notation | Value | Units |
+|---|---|---|---|
+| Speed of light in vacuum | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Planck constant | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Reduced Planck constant | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Avogadro number | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Boltzmann constant | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Ideal gas constant | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Elementary charge | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Universal gravitational constant | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Vacuum permeability | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Vacuum permittivity | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Mass of the electron | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Mass of the proton | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Atomic mass unit | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+
 **Soluzione:**
 
 **T3-A [1.0 points]**\
@@ -565,6 +675,8 @@ Q_h &= -\left(-\mu_0\frac{nK}{T_h}\frac{H_1^2 - H_4^2}{2}\right) = \mu_0\frac{nK
 
 *Soluzione ufficiale (official solution), trascrizione LaTeX di olimpicos.net: [IPhO_2026_S3.pdf](https://olimpicos.net/files/ipho/IPhO_2026_S3.pdf).*
 
+*N.d.R. — refusi della soluzione ufficiale: la prima parte è intestata «T1-A1 [0.2 pts]» invece di T3-A1 (riprodotto senza modifiche); il titolo della soluzione ufficiale è «Chashing abolute zero» (Chasing the absolute zero).*
+
 **Topic:** [[Thermodynamics]], [[Magnetism]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ampère's Law (metodo)|Ampère's Law]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
@@ -574,7 +686,7 @@ Q_h &= -\left(-\mu_0\frac{nK}{T_h}\frac{H_1^2 - H_4^2}{2}\right) = \mu_0\frac{nK
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T3. A caccia dello zero assoluto**
+**PROBLEMA T3 [10 pt]. A caccia dello zero assoluto**
 
 Un ciclo frigorifero deve essere realizzato con un sistema le cui caratteristiche siano adatte alle temperature da raggiungere. Cento anni fa, nel 1926, il chimico William Giauque e, indipendentemente, il fisico Peter Debye proposero i sali paramagnetici come sistemi ideali per scendere a temperature molto inferiori a $1\,\mathrm{K}$. Infatti, a partire dal decennio successivo, si raggiunsero temperature fino a $0.0044\,\mathrm{K}$ (Wander de Haas e Gerrit Wiersma, 1935, Laboratori criogenici di Leida). In questo quesito si studia il ciclo frigorifero di Carnot paramagnetico.
 
@@ -638,6 +750,25 @@ $Q_c$: valore assoluto del calore sottratto alla sorgente fredda
 **T3-C4 [2.0 pt].** Per abbassare con continuità la temperatura di un corpo di capacità termica costante $C_c$, si fanno avvenire nel tempo cicli di Carnot in modo che la potenza $P$ fornita al frigorifero resti costante. Si assume che la temperatura $T_h$ della sorgente calda resti costante e che in ogni ciclo la temperatura $T_c$ del corpo raffreddato diminuisca di $dT_c$, con $dQ_c/dQ_h = T_c/T_h$. Se a $t = 0$ si ha $T_c = T_0$, determina il tempo $t$ per cui il frigorifero di Carnot deve funzionare perché il corpo raggiunga una temperatura $T < T_0$. Esprimi la risposta in funzione di $C_c$, $T_h$, $P$, $T_0$ e $T$.
 
 **T3-C5 [1.5 pt].** L'efficienza di un frigorifero si misura con il suo *coefficiente di prestazione* $\mathrm{COP} = Q_c/W$. Determina il COP complessivo del frigorifero della domanda T3-C4, considerando tutti i cicli compiuti fino al tempo $t$. Esprimi la risposta in funzione di $T_0$, $T_h$ e $T$.
+
+**Costanti fisiche** — valori di riferimento (tabella ufficiale della prova: usa sempre questi valori, salvo diversa indicazione).
+
+| Costante | Simbolo | Valore | Unità |
+|---|---|---|---|
+| Velocità della luce nel vuoto | $c$ | $2.99792458\times10^{8}$ | $\mathrm{m\cdot s^{-1}}$ |
+| Costante di Planck | $h$ | $4.135667696\ldots\times10^{-15}$ | $\mathrm{eV\cdot s}$ |
+| Costante di Planck ridotta | $\hbar = h/2\pi$ | $6.582119569\ldots\times10^{-16}$ | $\mathrm{eV\cdot s}$ |
+| Numero di Avogadro | $N_\mathrm{A}$ | $6.02214076\times10^{23}$ | $\mathrm{mol^{-1}}$ |
+| Costante di Boltzmann | $k_\mathrm{B}$ | $8.617333262\times10^{-5}$ | $\mathrm{eV\cdot K^{-1}}$ |
+| Costante dei gas | $R$ | $8.31446261815324$ | $\mathrm{kg\cdot m^2\cdot s^{-2}\cdot mol^{-1}\cdot K^{-1}}$ |
+| Carica elementare | $e$ | $1.602176634\times10^{-19}$ | $\mathrm{A\cdot s}$ |
+| Costante di gravitazione universale | $G$ | $6.67430(15)\times10^{-11}$ | $\mathrm{m^3\cdot kg^{-1}\cdot s^{-2}}$ |
+| Costante di Stefan–Boltzmann | $\sigma$ | $5.670374419\times10^{-8}$ | $\mathrm{kg\cdot s^{-3}\cdot K^{-4}}$ |
+| Permeabilità magnetica del vuoto | $\mu_0$ | $1.25663706127(20)\times10^{-6}$ | $\mathrm{kg\cdot m\cdot A^{-2}\cdot s^{-2}}$ |
+| Costante dielettrica del vuoto | $\varepsilon_0$ | $8.8541878188(14)\times10^{-12}$ | $\mathrm{A^2\cdot s^4\cdot kg^{-1}\cdot m^{-3}}$ |
+| Massa dell'elettrone | $m_\mathrm{e}$ | $5.1099895069(16)\times10^{5}$ | $\mathrm{eV}/c^2$ |
+| Massa del protone | $m_\mathrm{p}$ | $9.3827208943(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
+| Unità di massa atomica | $\mathrm{amu}$ | $9.3149410372(29)\times10^{8}$ | $\mathrm{eV}/c^2$ |
 
 **Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel PDF ufficiale.
 

@@ -627,7 +627,7 @@ La Figura 3b mostra il diagramma $H$–$T$ del ciclo frigorifero di Carnot $1 \r
 $T_h$: temperatura della sorgente calda\
 $T_c$: temperatura della sorgente fredda\
 $Q_h$: valore assoluto del calore ceduto alla sorgente calda\
-$Q_c$: valore assoluto del calore assorbito dalla sorgente fredda
+$Q_c$: valore assoluto del calore sottratto alla sorgente fredda
 
 **T3-C1 [0.2 pt].** Segna $T_h$ e $T_c$ sull'asse $T$ del diagramma $H$–$T$. Indica anche le trasformazioni in cui avvengono, rispettivamente, gli scambi $Q_h$ e $Q_c$.
 

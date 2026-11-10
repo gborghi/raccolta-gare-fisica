@@ -9,8 +9,8 @@ tags:
 
 
 
-*Skill* — **9531** problemi/quesiti.
+*Skill* — **9551** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/135.json" data-count="9397"></div>
+<div class="paged-list" data-src="cl/135.json" data-count="9417"></div>

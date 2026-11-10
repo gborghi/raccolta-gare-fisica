@@ -46,6 +46,24 @@ When the dirt is in the ground, its density is given by $\rho_1$. As you dig out
 
 **7.** Electricity prices are skyrocketing to \$0.44 per kilowatt hour (kWh). How much will the electricity cost to dig this hole using the machine (in dollars)? What fraction is this of the tradie's wage (\$100 per hour)? (3 marks)
 
+**Risposta:** 1. False, True; 2. $h_2 = h_1(\rho_1/\rho_2)^{1/3}$; 3. $W = \dfrac{\rho_1 g h_1^4\left(1+(\rho_1/\rho_2)^{1/3}\right)}{12}$; 4. $13\,900\ \mathrm{J}$; 5. $2.4\ \mathrm{h}$; 6. $46\ \mathrm{s}$; 7. electricity about \$0.017, about 1.3% of the tradie's pay for that time (about \$1.28) — negligible
+
+**Soluzione:**
+
+**2.** Mass is conserved: $V_1\rho_1 = V_2\rho_2$, so $h_2 = h_1(\rho_1/\rho_2)^{1/3}$.
+
+**3.** $W = mgh$ with $m = \rho_1 h_1^3/3$ and the centre of mass raised by $(h_1+h_2)/4$: $W = \rho_1 h_1^3 g\,\dfrac{h_1 + h_1(\rho_1/\rho_2)^{1/3}}{12} = \dfrac{\rho_1 g h_1^4\left(1+(\rho_1/\rho_2)^{1/3}\right)}{12}$.
+
+**4.** $W \approx 13\,900\ \mathrm{J}$.
+
+**5.** Useful digging power $\approx 5800\ \mathrm{J/h}$, so about $2.4\ \mathrm{h}$.
+
+**6.** About $46\ \mathrm{s}$.
+
+**7.** The tradie's wage is \$100/3600 s, about \$0.027 per second, i.e. about \$1.28 for the job. The electricity costs 0.44 dollars/kWh $\times\,(13\,900/0.1)\ \mathrm{J}/(3.6\times10^6\ \mathrm{J/kWh})$, about \$0.017, i.e. about 1.3% of the wage. In practice call-out fees, travel and set-up dominate, so the electricity cost is negligible.
+
+*Official answers and marking scheme: Australian Science Innovations, [2024 ASO Physics Exam with Answers](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf). © Australian Science Innovations.*
+
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
@@ -81,6 +99,10 @@ Quando la terra è nel terreno, la sua densità è $\rho_1$. Man mano che scavi 
 **6.** Un operaio ha uno strumento di scavo da $3.00\,\text{kW}$ efficiente al 10%. Spiega il procedimento che useresti per determinare il tempo che gli servirebbe per scavare la buca della Domanda 4. In base al tuo procedimento, trova una stima di quanto tempo gli servirebbe per scavare la buca (in secondi). Mostra i passaggi. (2 punti)
 
 **7.** I prezzi dell'elettricità stanno salendo alle stelle a \$0.44 per kilowattora (kWh). Quanto costerà l'elettricità per scavare questa buca usando la macchina (in dollari)? Che frazione è questa della paga dell'operaio (\$100 all'ora)? (3 punti)
+
+**Risposta:** 1. Falsa, Vera; 2. $h_2 = h_1(\rho_1/\rho_2)^{1/3}$; 3. $W = \dfrac{\rho_1 g h_1^4\left(1+(\rho_1/\rho_2)^{1/3}\right)}{12}$; 4. $13\,900\ \mathrm{J}$; 5. $2{,}4\ \mathrm{h}$; 6. $46\ \mathrm{s}$; 7. elettricità circa 0,017 dollari, circa l'1,3% della paga dell'operaio per quel tempo (circa 1,28 dollari) — trascurabile
+
+**Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel [PDF ufficiale delle risposte](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf).
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -124,6 +146,22 @@ After doing some research, Student B finds that the kinetic friction coefficient
 
 **8.** Describe the movement of the model snake if the static and kinetic friction coefficients are large when the model snake moves backward and are 0 when it moves forward. (2 marks)
 
+**Risposta:** 1. $p = 0.069\ \mathrm{kg\,m/s}$; 2. scale reading constant $mg = 9.80\ \mathrm{N}$ before $t=0$, then constant $mg + mv^2/L = 9.82\ \mathrm{N}$; 3. $9.8\ \mathrm{N}$ before $t=0$, then linear decrease to zero at $t = L/v = 8.7\ \mathrm{s}$; 4. $1.36\ \mathrm{s}$; 7. $0.75\ \mathrm{m}$; 8. closing: front mass stays, rear mass pulled forward; opening: rear mass stays, front mass pushed forward
+
+**Soluzione:**
+
+**1.** At $t = 4\ \mathrm{s}$ the risen length is $L_{\rm rise} = vt$; with $\lambda = m/L$, $m_{\rm rise} = vtm/L$ and $p = m_{\rm rise}v = v^2tm/L = (0.15)^2\times4\times1.0/1.3 \approx 0.069\ \mathrm{kg\,m/s}$.
+
+**4.** Each mass accelerates at $F_c/m$, relative acceleration $2F_c/m$: $t = \sqrt{mL/F_c} = \sqrt{0.5\times1.3/1.4} = 0.68\ \mathrm{s}$ for closing and the same for opening; one cycle lasts $1.36\ \mathrm{s}$.
+
+**5.** By Newton's third law (equivalently, conservation of momentum) the internal forces between the masses cannot move the centre.
+
+**7.** Closing: $a_r = F_c/m - \mu_f g$, $a_f = \mu_b g - F_c/m$, closing time $t = \sqrt{2L/(2F_c/m - (\mu_b+\mu_f)g)} = 1.24\ \mathrm{s}$; the rear mass moves $s_r = \tfrac12 a_r t^2 = 1.02\ \mathrm{m}$. Opening: same time $1.24\ \mathrm{s}$, rear-mass displacement $\tfrac12(\mu_b g - F_o/m)t^2 = -0.27\ \mathrm{m}$. The centre advances $1.02 - 0.27 = 0.75\ \mathrm{m}$ per cycle.
+
+**8.** During closing the front mass stays in place while the rear mass is pulled forward; during opening the rear mass stays in place while the front mass is pushed forward.
+
+*Official answers and marking scheme: Australian Science Innovations, [2024 ASO Physics Exam with Answers](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf). © Australian Science Innovations.*
+
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
@@ -160,6 +198,10 @@ Dopo aver fatto alcune ricerche, lo studente B scopre che il coefficiente di att
 **7.** Calcolare la distanza che il centro del serpente modello si muove in avanti dopo un ciclo di chiusura-apertura. (7 punti)
 
 **8.** Descrivere il movimento del serpente modello se i coefficienti di attrito statico e cinetico sono grandi quando il serpente modello si muove verso l'indietro e sono 0 quando si muove verso l'avanguardia. 2 punti)
+
+**Risposta:** 1. $p = 0{,}069\ \mathrm{kg\,m/s}$; 2. lettura costante $mg = 9{,}80\ \mathrm{N}$ prima di $t=0$, poi costante $mg + mv^2/L = 9{,}82\ \mathrm{N}$; 3. $9{,}8\ \mathrm{N}$ prima di $t=0$, poi decrescita lineare fino a zero a $t = L/v = 8{,}7\ \mathrm{s}$; 4. $1{,}36\ \mathrm{s}$; 7. $0{,}75\ \mathrm{m}$; 8. in chiusura la massa anteriore resta ferma e quella posteriore è tirata in avanti; in apertura la posteriore resta ferma e l'anteriore è spinta in avanti
+
+**Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel [PDF ufficiale delle risposte](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf).
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -216,6 +258,24 @@ Our violinist wants to create a new musical system called the **'decimal scale'*
 *Grafico velocità arco su corda violino vs tempo*
 <!--fig:end-->
 
+**Risposta:** 1. $400\ \mathrm{Hz}$; 4. $a = \tfrac12$, $b = -\tfrac12$ ($v = \sqrt{T/\mu}$); 6. A: $4f_{\rm open}$, B: $3f_{\rm open}$, C: $2f_{\rm open}$; 7. $f = \tfrac43 f_B = 658.51\ \mathrm{Hz}$; 8. $f(N) = f_0\,2^{N/10}$, $f = 106.2\ \mathrm{Hz}$
+
+**Soluzione:**
+
+**1.** $400\ \mathrm{Hz}$.
+
+**2.–3.** Sketches (marking scheme): a periodic sawtooth-like displacement–time graph with the correct period and amplitude at the bow; the string profile has a peak at the bow ($\pm1.25\ \mathrm{cm}$), only two nodes, and zero displacement at bridge and nut.
+
+**4.** $\mathrm{m/s} = (\mathrm{kg\,m/s^2})^a(\mathrm{kg/m})^b$: for kg $a = -b$, for m $a + b = 0$ with the time exponent giving $a = \tfrac12$, $b = -\tfrac12$.
+
+**6.** A: $4f_{\rm open}$; B: $3f_{\rm open}$; C: $2f_{\rm open}$.
+
+**7.** $L_B = f_A L/f_B$; the final effective length is $L' = 3L_B/4$, so $f = f_B L_B/L' = \tfrac43 f_B = 658.51\ \mathrm{Hz}$.
+
+**8.** $f(N) = f_0 \times 2^{N/10}$ (exponential, not linear), giving $f = 106.2\ \mathrm{Hz}$.
+
+*Official answers and marking scheme: Australian Science Innovations, [2024 ASO Physics Exam with Answers](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf). © Australian Science Innovations.*
+
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
@@ -266,6 +326,10 @@ Schema violino: piroli, capotasto, ponte, cassa
 Grafico velocità arco su corda violino vs tempo
 <!--fig:end-->
 
+**Risposta:** 1. $400\ \mathrm{Hz}$; 4. $a = \tfrac12$, $b = -\tfrac12$ ($v = \sqrt{T/\mu}$); 6. A: $4f_{\rm open}$, B: $3f_{\rm open}$, C: $2f_{\rm open}$; 7. $f = \tfrac43 f_B = 658{,}51\ \mathrm{Hz}$; 8. $f(N) = f_0\,2^{N/10}$, $f = 106{,}2\ \mathrm{Hz}$
+
+**Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel [PDF ufficiale delle risposte](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf).
+
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
@@ -302,6 +366,14 @@ Her mirror is made up of a layer of glass backed by a reflective metal layer. Th
 *Sezione specchio: metallo, vetro, aria; oggetto-osservatore*
 <!--fig:end-->
 
+**Risposta:** Three reflections: one off the front surface of the glass, one off the silvered back after refraction, and one after an extra internal reflection inside the glass; their apparent positions are slightly shifted
+
+**Soluzione:**
+
+**1.** There are three possible paths for light from the object to reach the camera: one reflecting off the front surface of the mirror's glass; one entering the glass and reflecting off the back of the mirror; and one reflecting off the back of the mirror, reflecting off the inside of the glass layer and then off the back again. Tracing these rays back from the observer in straight lines, the apparent positions of the three paths are slightly shifted from each other, creating the three reflections seen in the photo.
+
+*Official answers and marking scheme: Australian Science Innovations, [2024 ASO Physics Exam with Answers](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf). © Australian Science Innovations.*
+
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
@@ -332,6 +404,10 @@ Foto specchio con frecce tre riflessioni
 ![[_attachments/2024_ASO_Physics_Exam_Questions/2024_ASO_Physics_Exam_Questions_p9_f5.png]]
 *Sezione specchio: metallo, vetro, aria; oggetto-osservatore*
 <!--fig:end-->
+
+**Risposta:** Tre riflessioni: una sulla superficie anteriore del vetro, una sul retro argentato dopo la rifrazione e una dopo un'ulteriore riflessione interna nel vetro; le loro posizioni apparenti risultano leggermente spostate
+
+**Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel [PDF ufficiale delle risposte](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf).
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Superposition Principle (metodo)|Superposition Principle]]
@@ -407,6 +483,24 @@ You find that the coefficient of friction is unrealistically high. You realise t
 *Foto torre Lego orizzontale da 44 mattoncini*
 <!--fig:end-->
 
+**Risposta:** 1. clockwise, anticlockwise, clockwise; 4. the tower breaks at the wall (largest cumulative torque); 5. $\mu = nL_0/h = 13.28$; 6. $N = Mg\,(L - 0.5h\mu)/(0.5h\mu) = 145.31\ \mathrm{N}$
+
+**Soluzione:**
+
+**1.** Clockwise, anticlockwise, clockwise.
+
+**2.** (a) forces balanced/unbalanced as appropriate; (b) forces and torques balanced, with a consistent labelled diagram; (c) net force in the direction of the acceleration, consistent torque diagram.
+
+**3.** Free-body diagram: the weight of the tower (at its centre of mass or distributed), the upward force at the wall, the friction force, and the pivot point.
+
+**4.** The tower breaks at the wall: assuming the same friction force between each brick, the largest cumulative torque acts at the end attached to the wall.
+
+**5.** With $n$ bricks of length $L_0$ and height $h$, tower mass $M$ and $L = nL_0/2$: $\sum M_O = 0 \Rightarrow MgL = 0.5\,hF$ with $F = M g\mu$, so $\mu = nL_0/h = 13.28$.
+
+**6.** $MgL = 0.5\,hMg\mu + 0.5\,hN\mu$, so $N = Mg\,(L - 0.5h\mu)/(0.5h\mu) = 145.31\ \mathrm{N}$.
+
+*Official answers and marking scheme: Australian Science Innovations, [2024 ASO Physics Exam with Answers](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf). © Australian Science Innovations.*
+
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
@@ -476,8 +570,47 @@ Si scopre che il coefficiente di attrito è irrealmente alto. Ti rendi conto che
 *Foto torre Lego orizzontale da 44 mattoncini*
 <!--fig:end-->
 
+**Risposta:** 1. orario, antiorario, orario; 4. la torre si rompe al muro (momento cumulativo massimo); 5. $\mu = nL_0/h = 13{,}28$; 6. $N = Mg\,(L - 0{,}5h\mu)/(0{,}5h\mu) = 145{,}31\ \mathrm{N}$
+
+**Soluzione:** La soluzione ufficiale completa (in inglese) è nella versione originale di questo quesito e nel [PDF ufficiale delle risposte](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf).
+
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
+
+
+
+<span class="atom-split" id="risposte" data-atom="risposte" data-title="ASO 2024 National · Answer key — Answer key" data-tags="kg/prova,comp/ASO,tipo-gara/individuale"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
+
+Answers from the official ASI answers (2024 ASO Physics Exam with Answers). Sketch/explanation parts are described in the solutions.
+
+| Problem | Title | Risposta |
+|---:|---|---|
+| 1 | Digging Disaster | 1. False, True; 2. $h_2 = h_1(\rho_1/\rho_2)^{1/3}$; 3. $W = \dfrac{\rho_1 g h_1^4\left(1+(\rho_1/\rho_2)^{1/3}\right)}{12}$; 4. $13\,900\ \mathrm{J}$; 5. $2.4\ \mathrm{h}$; 6. $46\ \mathrm{s}$; 7. electricity about \$0.017, about 1.3% of the tradie's pay for that time (about \$1.28) — negligible |
+| 2 | Slithering Snake | 1. $p = 0.069\ \mathrm{kg\,m/s}$; 2. scale reading constant $mg = 9.80\ \mathrm{N}$ before $t=0$, then constant $mg + mv^2/L = 9.82\ \mathrm{N}$; 3. $9.8\ \mathrm{N}$ before $t=0$, then linear decrease to zero at $t = L/v = 8.7\ \mathrm{s}$; 4. $1.36\ \mathrm{s}$; 7. $0.75\ \mathrm{m}$; 8. closing: front mass stays, rear mass pulled forward; opening: rear mass stays, front mass pushed forward |
+| 3 | Violin Vibrations | 1. $400\ \mathrm{Hz}$; 4. $a = \tfrac12$, $b = -\tfrac12$ ($v = \sqrt{T/\mu}$); 6. A: $4f_{\rm open}$, B: $3f_{\rm open}$, C: $2f_{\rm open}$; 7. $f = \tfrac43 f_B = 658.51\ \mathrm{Hz}$; 8. $f(N) = f_0\,2^{N/10}$, $f = 106.2\ \mathrm{Hz}$ |
+| 4 | Reflection Replicas | Three reflections: one off the front surface of the glass, one off the silvered back after refraction, and one after an extra internal reflection inside the glass; their apparent positions are slightly shifted |
+| 5 | Twisting Torques and Leaning Lego | 1. clockwise, anticlockwise, clockwise; 4. the tower breaks at the wall (largest cumulative torque); 5. $\mu = nL_0/h = 13.28$; 6. $N = Mg\,(L - 0.5h\mu)/(0.5h\mu) = 145.31\ \mathrm{N}$ |
+
+**Fonte:** [Testo e soluzioni (PDF)](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Risposte tratte dalle soluzioni ufficiali ASI (2024 ASO Physics Exam with Answers). I punti con grafici o spiegazioni sono descritti nelle soluzioni.
+
+| Problema | Titolo | Risposta |
+|---:|---|---|
+| 1 | Disastro di scavo | 1. Falsa, Vera; 2. $h_2 = h_1(\rho_1/\rho_2)^{1/3}$; 3. $W = \dfrac{\rho_1 g h_1^4\left(1+(\rho_1/\rho_2)^{1/3}\right)}{12}$; 4. $13\,900\ \mathrm{J}$; 5. $2{,}4\ \mathrm{h}$; 6. $46\ \mathrm{s}$; 7. elettricità circa 0,017 dollari, circa l'1,3% della paga dell'operaio per quel tempo (circa 1,28 dollari) — trascurabile |
+| 2 | Il serpente che striscia | 1. $p = 0{,}069\ \mathrm{kg\,m/s}$; 2. lettura costante $mg = 9{,}80\ \mathrm{N}$ prima di $t=0$, poi costante $mg + mv^2/L = 9{,}82\ \mathrm{N}$; 3. $9{,}8\ \mathrm{N}$ prima di $t=0$, poi decrescita lineare fino a zero a $t = L/v = 8{,}7\ \mathrm{s}$; 4. $1{,}36\ \mathrm{s}$; 7. $0{,}75\ \mathrm{m}$; 8. in chiusura la massa anteriore resta ferma e quella posteriore è tirata in avanti; in apertura la posteriore resta ferma e l'anteriore è spinta in avanti |
+| 3 | Vibrazioni del violino | 1. $400\ \mathrm{Hz}$; 4. $a = \tfrac12$, $b = -\tfrac12$ ($v = \sqrt{T/\mu}$); 6. A: $4f_{\rm open}$, B: $3f_{\rm open}$, C: $2f_{\rm open}$; 7. $f = \tfrac43 f_B = 658{,}51\ \mathrm{Hz}$; 8. $f(N) = f_0\,2^{N/10}$, $f = 106{,}2\ \mathrm{Hz}$ |
+| 4 | Riflessi replicati | Tre riflessioni: una sulla superficie anteriore del vetro, una sul retro argentato dopo la rifrazione e una dopo un'ulteriore riflessione interna nel vetro; le loro posizioni apparenti risultano leggermente spostate |
+| 5 | Momenti torcenti e Lego sporgenti | 1. orario, antiorario, orario; 4. la torre si rompe al muro (momento cumulativo massimo); 5. $\mu = nL_0/h = 13{,}28$; 6. $N = Mg\,(L - 0{,}5h\mu)/(0{,}5h\mu) = 145{,}31\ \mathrm{N}$ |
+
+**Fonte:** [Testo e soluzioni (PDF)](https://asi.edu.au/wp-content/uploads/2025/06/2024_ASO_Physics_Exam_with_Answers_ASI.pdf)

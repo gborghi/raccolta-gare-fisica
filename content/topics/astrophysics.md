@@ -8,8 +8,8 @@ tags:
 <img class="concept-icon" src="../static/concept-icons/astrophysics.svg" alt="" loading="lazy">
 
 
-*Topic* — **683** problemi/quesiti.
+*Topic* — **686** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/140.json" data-count="664"></div>
+<div class="paged-list" data-src="cl/140.json" data-count="667"></div>

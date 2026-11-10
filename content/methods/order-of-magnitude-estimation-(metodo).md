@@ -8,8 +8,8 @@ tags:
 <img class="concept-icon" src="../static/concept-icons/order-of-magnitude-estimation-metodo.svg" alt="" loading="lazy">
 
 
-*Method* — **525** problemi/quesiti.
+*Method* — **529** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/51.json" data-count="517"></div>
+<div class="paged-list" data-src="cl/51.json" data-count="521"></div>

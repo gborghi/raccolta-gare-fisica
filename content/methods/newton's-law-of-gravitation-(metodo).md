@@ -8,8 +8,8 @@ tags:
 <img class="concept-icon" src="../static/concept-icons/newtons-law-of-gravitation-metodo.svg" alt="" loading="lazy">
 
 
-*Method* — **871** problemi/quesiti.
+*Method* — **872** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/50.json" data-count="860"></div>
+<div class="paged-list" data-src="cl/50.json" data-count="861"></div>

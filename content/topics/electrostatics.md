@@ -9,8 +9,8 @@ tags:
 
 
 
-*Topic* — **1253** problemi/quesiti.
+*Topic* — **1254** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/150.json" data-count="1255"></div>
+<div class="paged-list" data-src="cl/150.json" data-count="1256"></div>

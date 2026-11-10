@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/cerca</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/biologia</loc>
     <lastmod>2026-07-19T09:10:43.000Z</lastmod>
@@ -15,22 +15,22 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/fluidi</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/gravitazione-e-astrofisica</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/matematica</loc>
     <lastmod>2026-07-19T09:10:43.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/meccanica</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/metodi-trasversali</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/onde-e-oscillazioni</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/ottica</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -42,13 +42,13 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/amp%C3%A8re's-law-(metodo)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/approximation--and--series-expansion-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/bernoulli's-equation-(metodo)</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -60,7 +60,7 @@
     <lastmod>2026-10-10T15:41:53.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/calculus-integration-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/conservation-laws-(metodo)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -69,7 +69,7 @@
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/conservation-of-momentum-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/continuity-equation-(metodo)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -93,16 +93,16 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/energy-conservation-method-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/equivalent-circuit-reduction-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/error-propagation-(metodo)</loc>
     <lastmod>2026-10-10T15:41:53.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/experimental-data-analysis-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/faraday's-law-of-induction-(metodo)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -111,7 +111,7 @@
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/free-body-diagram-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/gauss's-law-(metodo)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -120,10 +120,10 @@
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/hooke's-law-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/hydrostatic-equilibrium-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/ideal-gas-law-(metodo)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -135,10 +135,10 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/kepler's-laws-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/kinematic-equations-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/kinetic-theory-of-gases-(metodo)</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -159,10 +159,10 @@
     <lastmod>2026-10-08T17:50:33.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/newton's-law-of-gravitation-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/order-of-magnitude-estimation-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/photon-energy-relation-(metodo)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -180,7 +180,7 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/simple-harmonic-motion-analysis-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/small-angle-approximation-(metodo)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -195,10 +195,10 @@
     <lastmod>2026-11-09T21:06:21.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/superposition-principle-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/symmetry-argument-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/thermodynamic-cycle-analysis-(metodo)</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -207,10 +207,10 @@
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/torque--and--angular-momentum-analysis-(metodo)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/vector-decomposition-(metodo)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/wave-equation-(metodo)</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -219,7 +219,7 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/ball-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/battery-(object)</loc>
     <lastmod>2026-11-09T21:06:21.000Z</lastmod>
@@ -231,7 +231,7 @@
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/block-(object)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/bubble-(object)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -243,7 +243,7 @@
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/cart-(object)</loc>
-    <lastmod>2026-11-09T21:06:21.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/coil-(object)</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -279,7 +279,7 @@
     <lastmod>2026-07-19T09:08:50.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/inclined-plane-(object)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/inductor-(object)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -315,7 +315,7 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/pendulum-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/photon-(object)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -327,7 +327,7 @@
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/planet-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/point-charge-(object)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -336,22 +336,22 @@
     <lastmod>2026-07-19T09:08:50.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/projectile-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/pulley-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/resistor-(object)</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/rod-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/rope-string-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/satellite-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/screen-(object)</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -369,16 +369,16 @@
     <lastmod>2026-07-19T09:08:50.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/spring-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/star-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/switch-(object)</loc>
     <lastmod>2026-07-19T09:08:50.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/tank-container-(object)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/tuning-fork-(object)</loc>
     <lastmod>2026-07-19T09:08:50.000Z</lastmod>
@@ -2608,6 +2608,12 @@
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/prove/hkpho_2023</loc>
     <lastmod>2026-10-10T15:41:53.000Z</lastmod>
+  </url><url>
+    <loc>https://gborghi.github.io/raccolta-gare-fisica/prove/hkpho_2024</loc>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
+  </url><url>
+    <loc>https://gborghi.github.io/raccolta-gare-fisica/prove/hkpho_2025</loc>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/prove/http</loc>
     <lastmod>2026-10-03T08:50:03.000Z</lastmod>
@@ -4986,34 +4992,34 @@
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/diagrammatic-reasoning-(competenza)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/error-propagation-(competenza)</loc>
     <lastmod>2026-10-10T15:41:53.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/estimation--and--approximation-(competenza)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/experimental-data-analysis-(competenza)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/graph-linearization-(competenza)</loc>
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/mathematical-modeling-(competenza)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/measurement--and--instrumentation-(competenza)</loc>
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/physical-reasoning-(competenza)</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/significant-figures-(competenza)</loc>
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/unit-conversion-(competenza)</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/soluzioni/00_nbpho_2025_solutions_v1.0-(soluzioni)</loc>
     <lastmod>2026-10-08T21:06:01.000Z</lastmod>
@@ -5868,16 +5874,16 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/conservation-of-energy</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/conservation-of-momentum</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/earth--and--environmental-science</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/elasticity--and--materials</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/electromagnetic-induction</loc>
     <lastmod>2026-11-09T22:06:11.000Z</lastmod>
@@ -5889,13 +5895,13 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/fluid-mechanics</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/geometric-optics</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/gravitation</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/kinetic-theory</loc>
     <lastmod>2026-11-09T21:51:51.000Z</lastmod>
@@ -5910,7 +5916,7 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/newtonian-mechanics</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/nuclear--and--particle-physics</loc>
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
@@ -5922,13 +5928,13 @@
     <lastmod>2026-07-19T09:10:43.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/oscillations--and--waves</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/rigid-body-statics</loc>
-    <lastmod>2026-11-10T00:55:07.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/rotational-dynamics</loc>
-    <lastmod>2026-11-09T23:03:45.000Z</lastmod>
+    <lastmod>2026-11-10T02:26:19.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/special-relativity</loc>
     <lastmod>2026-11-10T00:55:07.000Z</lastmod>
@@ -5940,23 +5946,23 @@
     <lastmod>2026-11-09T23:03:45.000Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/clusters/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/methods/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/objects/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/prove/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/skills/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/soluzioni/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url><url>
     <loc>https://gborghi.github.io/raccolta-gare-fisica/topics/</loc>
-    <lastmod>2026-11-10T02:08:34.199Z</lastmod>
+    <lastmod>2026-11-10T02:45:32.938Z</lastmod>
   </url></urlset>

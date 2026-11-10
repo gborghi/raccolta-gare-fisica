@@ -9,8 +9,8 @@ tags:
 
 
 
-*Area* — **1535** problemi · **5** topic.
+*Area* — **1541** problemi · **5** topic.
 
 ## Topic dell'area
 
-<div class="paged-list" data-src="cl/2.json" data-count="342"></div>
+<div class="paged-list" data-src="cl/2.json" data-count="348"></div>

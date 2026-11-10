@@ -9,8 +9,8 @@ tags:
 
 
 
-*Area* — **801** problemi · **2** topic.
+*Area* — **802** problemi · **2** topic.
 
 ## Topic dell'area
 
-<div class="paged-list" data-src="cl/10.json" data-count="186"></div>
+<div class="paged-list" data-src="cl/10.json" data-count="187"></div>

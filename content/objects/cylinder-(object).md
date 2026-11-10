@@ -7,8 +7,8 @@ tags:
 ---
 
 
-*Object* — **640** problemi/quesiti.
+*Object* — **641** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/82.json" data-count="638"></div>
+<div class="paged-list" data-src="cl/82.json" data-count="639"></div>

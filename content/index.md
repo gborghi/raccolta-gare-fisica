@@ -14,8 +14,8 @@ title: Raccolta Gare di Fisica
 </a>
 </div>
 <div class="home-stats">
-<div class="home-stat home-stat--accent"><div class="home-stat-n">17158</div><div class="home-stat-l">quesiti classificati</div></div>
-<div class="home-stat"><div class="home-stat-n">1338</div><div class="home-stat-l">prove atomizzate</div></div>
+<div class="home-stat home-stat--accent"><div class="home-stat-n">17162</div><div class="home-stat-l">quesiti classificati</div></div>
+<div class="home-stat"><div class="home-stat-n">1339</div><div class="home-stat-l">prove atomizzate</div></div>
 <div class="home-stat"><div class="home-stat-n">8</div><div class="home-stat-l">aree tematiche</div></div>
 <div class="home-stat"><div class="home-stat-n">40+</div><div class="home-stat-l">enti e paesi</div></div>
 </div>
@@ -38,12 +38,12 @@ title: Raccolta Gare di Fisica
 <section class="home-section">
 <div class="home-section-head"><h2>Modi di esplorare</h2></div>
 <div class="home-modes">
-<a class="home-mode home-mode--graph" href="cerca"><div class="home-mode-k">Ricerca</div><div class="home-mode-t">Ricerca per più tag</div><div class="home-mode-d">Filtra i 17158 quesiti combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità.</div></a>
+<a class="home-mode home-mode--graph" href="cerca"><div class="home-mode-k">Ricerca</div><div class="home-mode-t">Ricerca per più tag</div><div class="home-mode-d">Filtra i 17162 quesiti combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità.</div></a>
 <a class="home-mode" href="topics"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Argomenti</div><div class="home-mode-d">Naviga per argomento fisico specifico, dal generale al particolare.</div></a>
 <a class="home-mode" href="methods"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Metodi risolutivi</div><div class="home-mode-d">Le tecniche e le strategie ricorrenti per risolvere i problemi.</div></a>
 <a class="home-mode" href="skills"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Abilità</div><div class="home-mode-d">Le competenze allenate da ciascun quesito.</div></a>
 <a class="home-mode" href="objects"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Oggetti</div><div class="home-mode-d">Gli oggetti fisici ricorrenti nei problemi: corpi, dispositivi, strumenti.</div></a>
-<a class="home-mode" href="prove"><div class="home-mode-k">Fonti</div><div class="home-mode-t">Prove</div><div class="home-mode-d">Sfoglia le 1338 prove, ciascuna atomizzata nei suoi quesiti.</div></a>
+<a class="home-mode" href="prove"><div class="home-mode-k">Fonti</div><div class="home-mode-t">Prove</div><div class="home-mode-d">Sfoglia le 1339 prove, ciascuna atomizzata nei suoi quesiti.</div></a>
 </div>
 </section>
 

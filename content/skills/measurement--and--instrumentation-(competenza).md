@@ -8,8 +8,8 @@ tags:
 <img class="concept-icon" src="../static/concept-icons/measurement-instrumentation-competenza.svg" alt="" loading="lazy">
 
 
-*Skill* — **506** problemi/quesiti.
+*Skill* — **507** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/136.json" data-count="505"></div>
+<div class="paged-list" data-src="cl/136.json" data-count="506"></div>

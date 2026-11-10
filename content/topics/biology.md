@@ -14,4 +14,4 @@ tags:
 ### INJSO 2017
 - [[prove/injso2017-question#q05|INJSO 2017 · Problema 5]] — In a hypothetical situation, a cell was found to lack rough
 
-<div class="paged-list" data-src="cl/141.json" data-count="313"></div>
+<div class="paged-list" data-src="cl/141.json" data-count="314"></div>

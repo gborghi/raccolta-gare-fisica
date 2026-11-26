@@ -15,7 +15,7 @@ import path from "node:path"
 const PUB = process.env.QUARTZ_OUT || "public"
 const SRC = path.join(PUB, "static", "quesiti.json")
 const OUT = path.join(PUB, "static", "searchMeta.json")
-const SKIP = new Set(["href", "summary", "flag", "kw"])
+const SKIP = new Set(["href", "summary", "flag", "kw", "answer"])
 const PAGE_FIELDS = new Set([
   "country", "flag_name", "competition", "comp_code", "family", "year", "level",
   "tipo_gara", "modalita", "difficolta",

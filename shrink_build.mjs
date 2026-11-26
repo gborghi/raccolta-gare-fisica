@@ -39,5 +39,6 @@ async function stubFolderPage(rel, redirectTo, label) {
   if (sz > 3e6) await stubFolderPage("prove/index.html", "../cerca", "Cerca prove")
   else console.log(`prove/index.html: ${(sz / 1e6).toFixed(1)}MB, kept as Prove list`)
 }
+await import("./scripts/strip-public-answers.mjs") // quesiti.json: no answer letter in the published JSON
 await import("./scripts/make-search-meta.mjs") // static/searchMeta.json (boolean search: metadata / campo:valore)
 console.log("shrink_build done")

@@ -780,7 +780,6 @@ async function main() {
     if (data.tipo === "quesito" && !outQ) {
       const tags = Array.isArray(data.tags) ? data.tags : []
       const cluster = data.cluster ? String(data.cluster) : ""
-      const ans = content.match(/^\*\*Risposta:\*\*\s*\*\*\s*([A-E])\s*\*\*/m)
       // SPA: repoint atom pages (old prove/<stem>__qnn slug) to their fragment
       // section prove/<stem>#<atomId> -- the atom no longer has its own page.
       const oldSlug = slugFromRel(rel)
@@ -810,7 +809,7 @@ async function main() {
         comp_code: compCodeV,
         quesito: data.quesito ?? "",
         summary: summarize(content),
-        answer: ans ? ans[1] : "",
+        answer: "", // letter stays in the page details only; not in quesiti.json
         topics: topicsV,
         methods: metaLinks(content, "Metodi"),
         skills: metaLinks(content, "Competenze"),

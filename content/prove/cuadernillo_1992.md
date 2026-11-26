@@ -1790,19 +1790,17 @@ Un mortero di trincea lancia un proiettile con angolo $53^\circ$ sopra l'orizzon
 
 <div class="qlang-split" data-lang="en"></div>
 
-**23. Neuken - Mortar and tank**
+**23. Neuquen - Mortar and Tank**
 
-23. - I'm not going to.
+23. Neuquen.
 
-A trench mortar fires a projectile with an angle of $53^\circ$ above the horizontal, and the initial velocity is 60 m/s. A tank is moving directly towards the mortar, on horizontal ground, at a speed of 3 m/s. What distance must be from the mortar to the tank to achieve a target, the moment the first is fired?
+A trench mortar fires a projectile at an angle of $53^\circ$ above the horizontal, with an initial velocity of 60 m/s. A tank moves directly toward the mortar over horizontal ground at a speed of 3 m/s. What should the distance from the mortar to the tank be in order to hit the target at the instant the projectile is fired?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Argentina 1992 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/rope-string"></span>
 
@@ -2123,19 +2121,17 @@ Una macchina si muove a velocità costante di 30 m/sec. Se il diametro delle ruo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**29. Neuken - Motor vehicle angular speed wheels**
+**29. Neuquen - Automobile wheel angular velocity**
 
-29. - I'm not going to.
+29. Neuquén.
 
-A car moves at a constant speed of 30 m/s. If the diameter of the wheels is 120 cm, calculate: (a) The linear velocity of the points located on the surface of the deck that is in contact with the ground. (b) The angular speed at which the wheels move. (c) The revolutions made by each wheel in one hour.
+A car moves at a constant speed of 30 m/s. If the diameter of the wheels is 120 cm, calculate: a) The linear speed of the points located on the surface of the tire that is in contact with the ground. b) The angular speed at which the wheels rotate. c) The number of revolutions made by each wheel in one hour.
 
 **Topic:** [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wheel (object)|Wheel]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="Argentina 1992 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
 
@@ -2184,25 +2180,23 @@ f) tutto il lavoro svolto sul scheletro si trasforma in energia cinetica? Spiega
 
 <div class="qlang-split" data-lang="en"></div>
 
-**30. Neuken - Nino is drawing a slide**
+**30. Neuquén - Boy Pulls a Sled**
 
-30. - I'm not going to.
+30. Neuquen.
 
-A child pulls a 3 Kg sled through a rope that forms an angle of $30^\circ$ with the horizontal. The coefficients of friction are $\mu_c = 0.2$ and $\mu_e = 0.18$.
-(a) insulate the sled and represent the forces acting on it.
-(b) what is the minimum force that initiates the movement?
-(c) what type of movement causes a force of 30 N in the direction indicated? Justify it.
-(d) what forces are working on the sleigh? Calculate total work when the sled moves 5 m. Whereas the force of 30 N is acting;
-(e) the kinetic energy of the sled is variable? If yes, calculate it.
-(f) is all work done on the sleigh transformed into kinetic energy? Explain it from the principle of energy conservation.
+A child pulls a sled weighing 3 kg by means of a rope that makes an angle of $30^\circ$ with the horizontal. The coefficients of friction are $\mu_c = 0.2$ and $\mu_e = 0.18$.
+a) Isolate the sled and represent the forces acting on it.
+b) What is the minimum force that will initiate motion?
+c) What type of motion would give rise to a force of 30 N in the indicated direction? Justify.
+d) Which forces do work on the sled? Calculate the total work when the sled moves 5 m, assuming a force of 30 N is acting.
+e) Does the kinetic energy of the sled vary? If so, calculate it.
+f) Does all the work done on the sled get converted into kinetic energy? Explain this using the principle of conservation of energy.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="Argentina 1992 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/spring,object/inclined-plane,object/block"></span>
 
@@ -5962,15 +5956,15 @@ $\varepsilon = 12$ V; $r = 0.1\ \Omega$; $R_1 = 5\ \Omega$; $R_2 = 15\ \Omega$; 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**94. Neuken - Circuit with source and resistance**
+**94. Neuquen - Circuit with a Source and Resistors**
 
-94. - I'm not going to.
+94. Neuquen.
 
-Given the next circuit. (Figure) Find out:
-(a) the equivalent strength
-(b) the current intensity circulating through the resistances $R_1$ and $R_3$
-(c) the potential difference between points (a) and (b), (b) and (c), (d) and (e).
-(d) power delivered by the source
+Given the following circuit. (figure) Find:
+a) the equivalent resistance
+b) the current intensity flowing through resistors $R_1$ and $R_3$
+c) the potential difference between points a and b, b and c, d and e.
+d) the power delivered by the source
 $\varepsilon = 12$ V; $r = 0.1\ \Omega$; $R_1 = 5\ \Omega$; $R_2 = 15\ \Omega$; $R_3 = 15\ \Omega$; $R_4 = 15\ \Omega$
 
 
@@ -5983,8 +5977,6 @@ $\varepsilon = 12$ V; $r = 0.1\ \Omega$; $R_1 = 5\ \Omega$; $R_2 = 15\ \Omega$; 
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 1992 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/wire"></span>
 
@@ -6588,14 +6580,14 @@ c) Calcolare l'energia consumata nella resistenza $6\ \Omega$ per un'ora nelle c
 
 <div class="qlang-split" data-lang="en"></div>
 
-**104. Neuken - Resistance equivalent between X and Y**
+**104. Neuquen - Equivalent resistance between X and Y**
 
-104. - I'm not going to.
+104. Neuquen.
 
-(Figure, resistance network: $16\ \Omega$, $20\ \Omega$, $16\ \Omega$, $8\ \Omega$, $9\ \Omega$, $18\ \Omega$, $6\ \Omega$ between points X and Y)
-(a) Calculate the equivalent resistance of the circuit in the figure between x and y.
-(b) What is the potential difference between x and a if the intensity in the resistance of $8\ \Omega$ is 0.5 A?
-(c) Calculate the energy consumed at $6\ \Omega$ resistance for one hour under the conditions of point (b).
+(figure, resistor network: $16\ \Omega$, $20\ \Omega$, $16\ \Omega$, $8\ \Omega$, $9\ \Omega$, $18\ \Omega$, $6\ \Omega$ between points X and Y)
+a) Calculate the equivalent resistance of the circuit in the figure between x and y.
+b) What is the potential difference between x and a if the current through the $8\ \Omega$ resistor is 0.5 A?
+c) Calculate the energy consumed in the $6\ \Omega$ resistor over one hour under the conditions of point b.
 
 
 <!--fig:start-->
@@ -6607,8 +6599,6 @@ c) Calcolare l'energia consumata nella resistenza $6\ \Omega$ per un'ora nelle c
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q109" data-atom="q109" data-title="Argentina 1992 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/switch"></span>
 
@@ -7241,11 +7231,11 @@ Un raggio di luce colpisce normalmente la faccia ab di un prisma di cristallo di
 
 <div class="qlang-split" data-lang="en"></div>
 
-**116. Neuken - Prism submerged in water, total reflection**
+**116. Neuquen - Prism immersed in water, total reflection**
 
-116. - I'm not going to.
+116. Neuquén.
 
-A beam of light normally hits the ab face of a lens lens lens with a refractive index $n_c = 1.52$, as shown in the figure. Whereas the prism is submerged in water ($n_a = 1.33$). What is the maximum value of the angle $\alpha$ for the beam to be fully reflected on the face ac? Justify the answer. (Figure, prism with vertices a, b, c and angle $\alpha$)
+A ray of light strikes the face ab of a crystal prism with refractive index $n_c = 1.52$ normally, as indicated in the figure. Assuming the prism is immersed in water ($n_a = 1.33$), what is the maximum value of the angle $\alpha$ for which the ray undergoes total internal reflection at face ac? Justify the answer. (figure: prism with vertices a, b, c and angle $\alpha$)
 
 
 <!--fig:start-->
@@ -7257,8 +7247,6 @@ A beam of light normally hits the ab face of a lens lens lens with a refractive 
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Prism (object)|Prism]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
-
-
 
 <span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 1992 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 

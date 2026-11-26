@@ -144,51 +144,48 @@ f) Determina il valore della frequenza soglia, $f_o$, e della funzione di lavoro
 
 **Experimental problem. Photoelectric effect**
 
-Although Albert Einstein is primarily known for his Theory of Relativity, he received the Nobel Prize in 1921 for his explanation of the photoelectric effect, by which light is capable of plucking electrons from the surface of a metal.
+Although Albert Einstein is best known for his Theory of Relativity, he was awarded the Nobel Prize in 1921 for his explanation of the photoelectric effect, in which light is capable of knocking electrons off the surface of a metal.
 
-**Theoretical model.**
-The originality of Einstein's 1905 theory was to assume that, when it interacts with matter, light can be considered as a set of particles, called photons, each of which has an energy of $E = h \cdot f$, where $f$ is the frequency of light and $h$ the Planck constant, a universal constant. When the surface of a metal is illuminated, a photon interacts with an electron in the metal, gives it all its energy, and if that's enough, it pulls it out of the atom. If it does not have enough energy, it cannot start the electron, no matter how much the intensity of the light increases (i.e. the number of photons).
+**Theoretical model.** The originality of the theory formulated by Einstein in 1905 lay in assuming that, when light interacts with matter, it can be regarded as a collection of particles called photons, each of which has an energy of $E = h \cdot f$, where $f$ is the frequency of the light and $h$ is Planck's constant, a universal constant. When the surface of a metal is illuminated, a photon interacts with an electron in the metal, transfers all its energy to the electron, and, if this energy is sufficient, knocks the electron out of the atom. If the photon does not have enough energy, it cannot knock the electron out, no matter how much the intensity of the light (that is, the number of photons) is increased.
 
-If the incident photon energy is greater than the energy needed to start the electron, the rest of the energy provides it with kinetic energy, so the maximum energy with which the electron exits the metal is given by
+If the energy of the incident photon is greater than that required to knock the electron out, the remaining energy gives the electron kinetic energy, so the maximum energy with which the electron leaves the metal is given by
 
 $$(E_c)_{\max} = \tfrac{1}{2}m_e v_{\max}^2 = hf - W_o \quad (1)$$
 
-where $W_o$ is the energy required to start the electron off the metal surface. This is why it is called a work function (or extraction work) and depends on the characteristics of the metal.
+where $W_o$ is the energy required to remove the electron from the metal surface. Therefore, it is called the work function (or extraction work) and depends on the properties of the metal.
 
-The photoelectric effect only occurs if the photon frequency exceeds the threshold frequency, $f_o$, so $W_o = h f_o$, so we can rewrite (1) as
+The photoelectric effect occurs only if the photon frequency exceeds the frequency corresponding to the threshold frequency, $f_o$, so that $W_o = h f_o$, hence we can rewrite (1) in the form
 
 $$(E_c)_{\max} = h(f - f_o) \quad (2)$$
 
-**Experimental setup.**
-The figure shows a diagram of the device used to study the photoelectric effect. The metal plate on which the light hits is inside a tube in which the vacuum has been made, at one of its ends. The other one is a metal plate. Both are electrically connected via an ampere, which allows the current intensity in the circuit to be measured, and a variable voltage (or potential difference) source, with a value of $\Delta V$. The electrons produced by the photoelectric effect exit the metal plate with a maximum kinetic energy given by (2) and can reach the plate at the other end by closing the circuit. By varying the potential difference $\Delta V$ electrons can be held back, preventing them from reaching the plate, and thus making the intensity zero. The smallest $\Delta V$ value for which the amperage intensity is zero is called braking potential, $V_f$, and corresponds to
+**Experimental setup.** The figure shows a schematic of the device used to study the photoelectric effect. The metal plate on which the light falls is located inside a tube that has been evacuated at one of its ends. At the other end, another metal plate is placed. Both are electrically connected via an ammeter, which makes it possible to measure the current intensity in the circuit, and a variable voltage source (or potential difference) with a value of $\Delta V$. The electrons produced by the photoelectric effect emerge from the metal plate with a maximum kinetic energy given by (2) and can reach the plate at the other end, thereby closing the circuit. By varying the potential difference $\Delta V$, the electrons can be slowed down, preventing them from reaching the plate and thus making the current intensity zero. The smallest value of $\Delta V$ for which the ammeter reading is zero is called the stopping potential, $V_f$, and corresponds to
 
 $$V_f = \frac{h}{e}(f - f_o) \quad (3)$$
 
-**Questions.**
-The following table shows the braking potential values $V_f$ when the metal is illuminated with different frequencies:
+**Questions.** The following table lists the values of the braking potential $V_f$ when the metal is illuminated with light of different frequencies:
 
-| Color de la luz | $f$ ($\times 10^{14}$ Hz) | $V_f$ (V) |
+| Light color | $f$ ($\times 10^{14}$ Hz) | $V_f$ (V) |
 |---|---|---|
-♪ Yellow ♪ 5.20 ♪ 0.49 ♪
-♪ Green is 5.49 ♪ 0.68 ♪
-♪ Blue ♪ 6.88 1.24 ♪ and I'm going to be a big fan of the show ♪
-♪ And the whole world is going to be so happy ♪
-♪ And then I'm going to be a little bit more excited ♪
-You know, I'm just going to be a little bit more excited.
+| Yellow | 5,20 | 0,49 |
+| Green | 5,49 | 0,68 |
+| Blue | 6,88 | 1,24 |
+| Violet | 7,41 | 1,41 |
+| Ultraviolet | 8,22 | 1,76 |
+| Ultraviolet | 8,98 | 2,12 |
 
-(a) Graphically represent the $(x, y) = (f, V_f)$ points on millimeter paper.
+a) Graphically represent the points $(x, y) = (f, V_f)$ on the graph paper.
 
-(b) Determine the value of the slope $p$ of the straight line that best fits these points.
+b) Determine the value of the slope $p$ of the line that best fits these points.
 
-(c) From the slope $p$ and the expression (3) deduces the value of the Planck constant, $h$.
+c) Using the slope $p$ and expression (3), deduce the value of Planck's constant, $h$.
 
-(d) Make a reasoned estimate of the slope uncertainty $\Delta p$ obtained in paragraph (b).
+d) Provide a reasoned estimate of the uncertainty $\Delta p$ of the slope obtained in section b).
 
-(e) In view of the above, make an estimate of the uncertainty $\Delta h$ in the value of the Planck constant you have obtained in c).
+e) Taking the above into account, estimate the uncertainty $\Delta h$ in the value of Planck's constant that you obtained in c).
 
-(f) Determines the value of the threshold frequency, $f_o$, and the work function, $W_o$.
+f) Determine the value of the threshold frequency, $f_o$, and of the work function, $W_o$.
 
-**Dato:** Carga del electrón, $e = 1{,}602 \times 10^{-19}$ C.
+**Given:** Electron charge, $e = 1{,}602 \times 10^{-19}$ C.
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA EXPERIMENTAL/2023 34 OAF 2023 PRUEBA EXPERIMENTAL_p1_f1.png]]
@@ -200,3 +197,4 @@ You know, I'm just going to be a little bit more excited.
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19TI2bj4vGfqUByefo5FODGICK_ZEOy7m/view)
+

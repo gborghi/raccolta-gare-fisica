@@ -72,50 +72,44 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-# # Theoretical problem # 2: Watching a motorcycle bar
+## Theoretical Problem No. 2: Observing a Bar in Motion
 
-**Physical situation.** A dark chamber, the pointed opening hole of which is located at $x_0$ and is placed at a distance $D$ from the $x$ axis, takes photographs of a bar by opening the hole for a very short time. As shown in the figure, along the $x$ axis, equidistant tiles are shown to measure the apparent length of the bar on photographs taken with the dark camera. On a photograph of the resting bar its length is $L$. The bar in the problem is not fixed, however, but moves at a constant speed $v$ along the $x$ axis.
+**Physical situation.** A camera obscura, whose point-like aperture is located at $x_0$ and is situated at a distance $D$ from the $x$ axis, takes photographs of a rod by opening the aperture for a very short time. As shown in the figure, along the $x$ axis there are equally spaced marks that make it possible to measure the apparent length of the rod in the photographs taken with the camera obscura. In a photograph of the rod at rest, its length is found to be $L$. However, in the problem the rod is not stationary; instead, it moves with a constant speed $v$ along the $x$ axis.
 
-**Fundamental Relations.** A camera-shadow image shows, in the position $x_{foto}$, the image of a thin strip on the bar.
+**Fundamental relationships.** A photograph taken with the camera obscura shows, at position $x_{foto}$, the image of a thin dash present on the bar.
 
-**2.1** (0.6) Qual è la posizione effettiva $x_{eff}$ di questo trattino nell'istante in cui la foto viene scattata? Express your response in terms of $x_{foto}$, $x_0$, $D$, $v$ and the speed of light $c = 3{,}00 \times 10^8\,\text{m s}^{-1}$. Use the amounts $\beta = v/c$ and $\gamma = 1/\sqrt{1-\beta^2}$ if they are useful to simplify your result.
+**2.1** (0.6) What is the actual position $x_{eff}$ of this dash at the instant the photo is taken? Express your answer in terms of $x_{foto}$, $x_0$, $D$, $v$, and the speed of light $c = 3{,}00 \times 10^8\,\text{m s}^{-1}$. Use the quantities $\beta = v/c$ and $\gamma = 1/\sqrt{1-\beta^2}$ if they are helpful for simplifying your result.
 
-**2.2** (0.9) Also finds the corresponding inverse relationship, i.e. express $x_{foto}$ as a function of $x_{eff}$, $x_0$, $D$, $v$ and $c$.
+**2.2** (0.9) Also find the corresponding inverse relation, that is, express $x_{foto}$ as a function of $x_{eff}$, $x_0$, $D$, $v$, and $c$.
 
-*Note: The actual position is the measured position in the reference system in which the dark chamber is stationary.*
+*Note: The actual position is the position measured in the reference frame in which the camera obscura is at rest.*
 
-**Apparent length of bar.** The camera takes a picture the instant the actual position of the bar centre is at a certain point $x_c$.
+Apparent length of the bar. The camera obscura takes a photograph at the instant when the actual position of the center of the bar is at a certain point $x_c$.
 
-**2.3** (1.5) Determine, depending on the given variables, the apparent length of the bar in this photo.
+**2.3** (1.5) Determine, in terms of the given variables, the apparent length of the bar in this photo.
 
-**2.4** (1.5) Select one of the response alternatives in the Answer Sheet to indicate how the apparent length changes over time:
-- at first it increases, reaches a maximum value, then it decreases.
-- at first it decreases, reaches a minimum value, then increases.
-- It keeps getting smaller.
-- It's always going up.
+**2.4** (1.5) Choose one of the answer options provided on the Answer Sheet to indicate how the apparent length changes over time: - at first it increases, reaches a maximum value, then decreases. - at first it decreases, reaches a minimum value, then increases. - it always decreases. - it always increases.
 
-**Symmetrical photo.** One of the camera shots shows both ends of the bar at the same distance from the hole.
+**Symmetrical photo.** One of the photos taken with the camera shows both ends of the bar at the same distance from the hole.
 
 **2.5** (0.8) Determine the apparent length of the bar in this photo.
 
-**2.6** (1.0) What is the actual position of the centre of the bar at the moment this image is taken?
+**2.6** (1.0) What is the actual position of the center of the bar at the instant this photo is taken?
 
-**2.7** (1.2) Dove è collocata in questa foto l'immagine del centro della sbarra?
+**2.7** (1.2) Where, in this photo, is the image of the center of the bar located?
 
-**Foto scattate molto presto e molto tardi.** La camera ha preso un'immagine molto presto, quando la sbarra era molto lontana e in fase di avvicinamento, e prende un'altra foto molto tardi, quando la sbarra è molto lontana e in fase di allontanamento. On one image the apparent length is $1{,}00\,\text{m}$, on the other it is $3{,}00\,\text{m}$.
+Photos taken very early and very late. The camera took a picture very early, when the bar was very far away and moving closer, and it takes another photo very late, when the bar is very far away and moving away. In one of the images, the apparent length is $1{,}00\,\text{m}$; in the other, it is $3{,}00\,\text{m}$.
 
-**2.8** (0.5) Select one of the answer alternatives in the Answer Sheet to indicate which length is detected in which image:
-- The apparent length is $1\,\text{m}$ in the very early photo and $3\,\text{m}$ in the very late photo.
-- The apparent length is $3\,\text{m}$ in the very early photo and $1\,\text{m}$ in the very late photo.
+**2.8** (0.5) Choose one of the answer options provided on the Answer Sheet to indicate which length is measured in which image: - The apparent length is $1\,\text{m}$ in the photo taken very early and $3\,\text{m}$ in the one taken very late. - The apparent length is $3\,\text{m}$ in the photo taken very early and $1\,\text{m}$ in the one taken very late.
 
-**2.9** (1.0) Determina la velocità $v$.
+**2.9** (1.0) Determine the velocity $v$.
 
-**2.10** (0.6) Determine the length of the resting bar $L$.
+**2.10** (0.6) Determine the length $L$ of the bar at rest.
 
-**2.11** (0.4) Takes the apparent length in the symmetrical photo.
+**2.11** (0.4) Derive the apparent length in the symmetrical photo.
 <!--fig:start-->
 ![[_attachments/IPhO-37.Th2_final_ITA/IPhO-37.Th2_final_ITA_p1_f1.png]]
-*Dark camera with hole and bar in motion*
+*Camera obscura with an aperture and a moving bar*
 <!--fig:end-->
 
 **Topic:** [[Special Relativity]], [[Geometric Optics]]
@@ -123,3 +117,4 @@ tags:
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nxTE2boT4chAdN4IBJVkQbiws484Oq6d/view)
+

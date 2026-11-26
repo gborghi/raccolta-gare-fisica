@@ -221,97 +221,30 @@ Determinare l’esponente be stimare l’incertezza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. Other, of a kind used for the manufacture of goods of heading 810
-Important precautions
-• Do not apply excessive lateral force to the plastic cylinder mounted on the speaker. Please note
-which will not be provided with spare devices in case of torn speaker membranes; or
-They're cut off from the plastic cylinder.
-• Turn off the speaker group when not in use to avoid unnecessary use of the speaker
-I'm not going to get a battery.
-• In this experiment, the speaker handles located on the signal generator are available
-a 4 Hz saw-tooth signal is output.
-• The width of the saw tooth signal can be adjusted using the correct power meter labeled as speaker width (4). A continuous voltage proportional to the signal width shall be emitted on the speaker width socket (6) (as compared to the GND socket (7)). The numbers are
-refer to the photograph (Figure 2) in the general instructions.
-• The speaker membrane is delicate. Make sure you don't put too much pressure on your
-of it by any means, either vertically or sideways.
-Experiments
-Italian (Italy)
-Q2-4
-Experiments
-Italian (Italy)
-Q2-5
-Part A. Critical excitation amplitude (3.3 points)
-Before you start the actual tasks of this problem, connect the speaker to the terminals on the signal generator side (make sure you use the correct polarity). Put some (e.g. 50) seeds of
-poppy seed in the cylinder mounted on the speaker and use a cut piece from the provided glove to close the cylinder up to keep the poppy seed in the cylinder. Turn on the excitation using
-The switch and the amplitude adjustment by rotating the correct power meter
-(4) using the provided crusher. Observe the arrangement of the beads by testing different amplitudes.
-The first task is to determine the critical scale of excitement of this transition. To do
-This is the case for the number of N1 and N2 beads in the two compartments (selecting the names of the
-two valves so that N1 $\leq N2$) depending on the ADV displayed, which is the voltage measured in the
-The length of the speaker is not less than 6 minutes. This voltage is proportional to the waveform width of the wave
-The tooth of a saw that drives the speaker. At least 5 measurements per voltage value shall be made.
-I suggest you:
-• To always have movement in the particles you study, only investigate amplitudes corresponding to the speaker amplitude voltage greater than 0.7 V. Start by analyzing the behavior of the system simply by varying the voltage slowly without any counting of the beads. Some of the beads may remain attached to the base due to phenomena of
-The electrostatic system. Don't count these beads.
+4. Adhesive tape
+Important Precautions • Do not apply excessive lateral force to the plastic cylinder mounted on the speaker. Note that no spare parts will be provided if the speaker diaphragms are torn or detached from the plastic cylinder. • Turn off the speaker assembly when not in use to avoid unnecessary battery drain. • In this experiment, a 4 Hz sawtooth signal is available at the output on the speaker terminals located on the signal generator. • The amplitude of the sawtooth signal can be adjusted using the correct potentiometer labeled Speaker Amplitude (4). A DC voltage proportional to the signal amplitude is output at the Speaker Amplitude Jack (6) (with respect to the GND Jack (7)). The numbers refer to the photograph (Figure 2) indicated in the general instructions. • The speaker diaphragm is delicate. Make sure not to apply excessive pressure to it by any means, either vertically or laterally. Experiment Italiano (Italy) Q2-4 Experiment Italiano (Italy) Q2-5 Part A. Critical Excitation Amplitude (3.3 points) Before starting the actual tasks for this problem, connect the speaker to the terminals on the signal generator side (make sure to use the correct polarity). Place some (for example, 50) poppy seeds in the cylinder mounted on the speaker, and use a piece cut from the supplied glove to close the top of the cylinder in order to keep the poppy seeds inside the cylinder. Turn on the excitation using the switch and adjust the amplitude by turning the correct potentiometer labeled Speaker Amplitude (4) using the supplied screwdriver. Observe the sorting of the beads by trying different amplitudes. The first task is to determine the critical-amplitude excitation for this transition. To do this, you need to determine the number of beads N1 and N2 in the two compartments (choosing the names of the two compartments so that N1 $\leq N2$) as a function of the displayed amplitude AD, which is the voltage measured at the Speaker Amplitude Jack (6). This voltage is proportional to the amplitude of the sawtooth waveform that drives the speaker. Take at least 5 measurements for each voltage value. Suggestion: • To ensure that the particles you are studying are always in motion, investigate only amplitudes corresponding to a speaker voltage amplitude greater than 0.7 V. Start by analyzing the system's behavior simply by varying the voltage slowly without counting any beads at all. Some of the beads may remain attached to the base due to electrostatic phenomena. Do not count these beads.
 A.1
-Please note in Table A.1 your counts of the number of particles N1 and N2 in
-each half of the container for different AD amplitudes.
-1.2pt
+Record your counts of the number of particles N1 and N2 in each half of the container for various AD amplitudes in Table A.1. 1.2pt
 A.2
-Calculate the standard deviation of your measurements of N1 and N2 and report the result
-in Table A.1. In Chart A.2 build a functional chart of N1 and N2
-of the amplitude shown AD, including their experimental uncertainties.
-1.1pt
+Calculate the standard deviation of your measurements of N1 and N2 and enter the result in Table A.1. In Graph A.2, plot N1 and N2 as a function of the displayed amplitude AD, including their experimental uncertainties. 1.1pt
 A.3
-Based on your chart, determine the critical display width AD, written for the
-where N1 = N2, after waiting until a state is reached
-The stationary.
-1pt
-Part B. The following shall be added:
-The amplitude shown AD corresponds to a voltage applied to the speaker. However, the quantity of physical interest is the maximum displacement of the speaker's oscillation, as this is linked to how strongly the beads are excited. Therefore, the width should be calibrated
-The display. To this end, you can use any material and tools that have been provided to you.
+Based on your graph, determine the displayed critical amplitude AD,crit for which N1 = N2, after waiting until a steady state is reached. 1 pt Part B. Calibration (3.2 points) The displayed amplitude AD corresponds to a voltage applied to the loudspeaker. However, the physically relevant quantity is the maximum displacement A of the loudspeaker's oscillation, since this is related to how strongly the beads are excited. Therefore, the displayed amplitude must be calibrated. For this purpose, you may use any materials and instruments that have been provided to you.
 B.1
-Represent the configuration used to measure the amplitude of excitation, i.e. the maximum distance A(in mm) travelled by the speaker in a period of time
-of oscillation.
-0.5pt
+Represent the configuration used to measure the excitation amplitude, that is, the maximum distance A (in mm) traveled by the loudspeaker over one oscillation period. 0.5pt
 B.2
-Determine the Ain mm width for an appropriate number of points, i.e. record in Table B.2 the Ain width function of the width shown ADe
-indicate the experimental uncertainties of your measurements.
-0.8pt
-Experiments
-Italian (Italy)
-Q2-6
+Determine the amplitude Ain in mm for an appropriate number of points, that is, record in Table B.2 the amplitude Ain as a function of the displayed amplitude ADe, and indicate the experimental uncertainties of your measurements. 0.8pt Experiment Italiano (Italy) Q2-6
 B.3
-Report your data to Graph B.3, including experimental uncertainties.
-1.0pt
+Enter your data in Chart B.3, including the experimental uncertainties. 1.0pt
 B.4
-Determine the parameters of the resulting curve using an appropriate fit for
-determine the calibration function A(AD).
-0.8pt
+Determine the parameters of the resulting curve, using an appropriate fit to determine the calibration function A(AD). 0.8pt
 B.5
-It determines the extent of critical excitation of poppy seed acrit.
-0.1pt
-Part C. Critical exposure (3.5 points)
-In our system, the temperature corresponds to the kinetic energy provided by the excitation. This energy is proportional to the square of the speaker's speed, i.e. at v2 = A2f2, where the frequency
-The oscillation. We will now analyse this dependence and determine the law of the
-The power which regulates the behavior of the order parameter (see Eq. 1).
+Determine the critical excitation amplitude Acrit of poppy seeds. 0.1 pt Part C. Critical exponent (3.5 points) In our system, temperature corresponds to the kinetic energy supplied by the excitation. This energy is proportional to the square of the speaker's velocity, i.e., to v2 = A2f2, where f is the oscillation frequency. We will now analyze this dependence and determine the exponent b of the power law governing the behavior of the order parameter (see Eq. 1).
 C.1
-The unbalanced size $∣N1-N2$
-N1+N2 is a good candidate for a parameter of order for our system as it is zero above critical width and
-It's equal to 1 at low excitement. Determine this order parameter in
-function of width A. Record your results in Table C.1.
-1.1pt
+The unbalanced quantity $∣N1-N2$ N1+N2 ∣ is a good candidate for an order parameter for our system because it is zero above the critical amplitude and equals 1 at low excitation. Determine this order parameter as a function of the amplitude A. Record your results in Table C.1. 1.1pt
 C.2
-In Chart C.2 it represents the unbalanced magnitude $∣N1-N2$
-N1+N2 in function of
-∣A2
-Crit $-A2∣$, where both axes have logarithmic scales (bialogarithmic scale). Table C.1 may be used for calculations. The points on the graph can
-The results of the analysis of the data are presented in the following table:
-The formula.
-1pt
+In Graph C.2, plot the unbalanced quantity $∣N1-N2$ N1+N2 ∣as a function of∣ A2 crit $-A2∣$, with both axes on a logarithmic scale (a double-logarithmic scale). Table C.1 may be used for the calculations. The points on the graph may appear not to follow a linear relationship; nevertheless, a linear regression must be performed in order to determine the critical exponent of the formula. 1pt
 C.3
-Determine the respondent and estimate the uncertainty.
-1.4pt
+Determine the exponent be and estimate the uncertainty. 1.4pt
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]], [[Statistical Averaging (metodo)|Statistical Averaging]]
@@ -319,3 +252,4 @@ Determine the respondent and estimate the uncertainty.
 **Objects:** [[Membrane (object)|Membrane]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fMHuKcDU3Fh6bYqVnYvfNgcdql7iD250/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
+

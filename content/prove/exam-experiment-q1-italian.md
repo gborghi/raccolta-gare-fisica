@@ -206,183 +206,77 @@ o ”-1” (a sinistra del display) per valori
 
 <div class="qlang-split" data-lang="en"></div>
 
-Experiments
-Q1-1
-Italian (Italy)
-The following table shows the calculation of the value of the input:
-The electronic technology in modern society is based on a simple but powerful device: the transistor, which can be used both as a switch and as an amplifier. In switch mode the
-The transistor is used for storing and processing digital information.
-Here we will analyze two types of field-effect transistors: the JFET (transistor)
-The test results shall be presented in accordance with the following conditions:
-Let's briefly explain how a FET works. A FET is a non-linear device with 3 terminals [the terminals are called Base (Gate G); emitter (Source S); collector (Drain D) ] that can control the flow
-The current between Source and Drain acting on the voltage applied between Gate and Source . In a simple, though imperfect, analogy, a FET works similarly to a water tap, where the manoeuvre that is used is
-controls the flow of water plays a similar role to the Gate.
-Figure 1 is shown. Scheme of a JFET with  channel n (left), its hydraulic analogy (center) and the
-the symbol of the electrical circuit (right). The arrows in the JFET diagram (Figure left) indicate the flow of electric current between Source (S) and Drain (D) through the narrow channel n.
-The channel width depends on the voltage applied between Gate (G) and Source (S).
-Junction-FET (JFET) works by the properties of the junction (contact) between two types of semiconductor material, such as p and n-duty silicon. For this reason it is called Junction-FET. Un
-JFET contains a narrow channel through which current flows between Source and Drain, and in a  channel n FET this channel is made of n-type material. The width of this channel can be controlled
-in modo preciso applicando una tensione negativa tra Gate e Source, VGS= $VG-VS$. For the purposes of this Regulation, the following:
-The current flowing between Source and Drain depends nonlinearly on the voltage applied between Drain
-e Source, VDS= $VD-VS$. However, if the VDS voltage is small, the current depends linearly on the
-The JFET follows Ohm's law. However, the output resistance, RDS=VDS
-Other
-It depends heavily on the applied VGS voltage, and follows the law closely:
-RDS =
-R0
-DS
-1 $-VGS/VP$
-,
-(1)
-where R0
-DS is the output resistance for VGS=0 and VP<0 is a JFET relative parameter called the voltage
-I'm not going to be a pinch-off. Clearly, at the pinch-off voltage, the FET completely blocks the current flow.
-For each fixed VGS> VP, the current between Source and Drain will begin to deviate from the linear behavior of increasing VDS, and at some point will reach saturation at an almost constant value.
-We call the IDSS the saturation current for VGS=0. In the saturation regime (i.e. for VDSgrande),
-The saturation current depends on the VGS as follows:
-IDS = IDSS (1 $-VGS/VP)2$ .
-(2)
+Experiment Q1-1 Italian (Italy) Paper Transistor (10 points) Electronic technology in modern society is based on a simple but powerful device: the transistor, which can be used both as a switch and as an amplifier. In switch mode, the transistor is used for storing and processing digital information. Here we will analyze two types of field-effect transistors (FET = Field Effect Transistor): the JFET (junction field-effect transistor) and the TFT (thin-film transistor). Let us briefly explain how an FET works. An FET is a 3-terminal nonlinear device [the terminals are called Base (Gate G); emitter (Source S); collector (Drain D)] that can control the current flow between Source and Drain by acting on the voltage applied between Gate and Source. In a simple but imperfect analogy, an FET works somewhat like a water tap, where the knob that controls the water flow plays a role analogous to that of the Gate. Figure 1. Schematic of an n-channel JFET (on the left), its hydraulic analogy (in the middle), and the electrical circuit symbol (on the right). The arrows in the JFET schematic (figure on the left) indicate the flow of electric current between Source (S) and Drain (D) through the narrow n-channel. The width of the channel depends on the voltage applied between Gate (G) and Source (S). The Junction-FET (JFET) operates thanks to the properties of the junction (contact) between two types of semiconductor material, such as p- and n-doped silicon. For this reason it is called a "Junction"-FET. A JFET contains a narrow channel through which current flows between Source and Drain, and in an n-channel FET this channel is made of n-type material. The width of this channel can be precisely controlled by applying a negative voltage between Gate and Source, VGS= $VG-VS$. For a fixed VGS, the current flowing between Source and Drain depends nonlinearly on the voltage applied between Drain and Source, VDS= $VD-VS$. However, if the voltage VDS is small, the current depends linearly on the applied voltage; therefore, the JFET obeys Ohm's law. However, the output resistance, RDS= VDS IDS, depends strongly on the applied voltage VGS and follows, to a very good approximation, the law: RDS = R0 DS 1 $-VGS/VP$ , (1) where R0 DS is the output resistance for VGS= 0 and VP< 0 is a parameter relating to the JFET called the pinch-off voltage. Clearly, at pinch-off voltage, the FET completely blocks the current flow. For any fixed VGS > VP, the current between Source and Drain will begin to deviate from linear behavior as VDS increases, and at some point it will reach saturation at an almost constant value. Let us call IDSS the saturation current for VGS = 0. In the saturation region (that is, for large VDS), the saturation current depends on VGS as follows: IDS = IDSS (1 $-VGS/VP)2$ . (2)
 
-Experiments
-Q1-2
-Italian (Italy)
-We have to highlight two very important features of a JFET. Although its resistance to
-The output (controlled by the voltage) can be very low, the input resistance (RGS = VGS/IGS) is
-estremamente alta, solitamente maggiore di 109 $\Omega$, quindi questo dispositivo utilizza pochissima corrente in ingresso. In addition, the capacity of a small JFET is rather low, making it a
-A very fast device that can open and close at frequencies above MHz.
-Now let's go on to describe how a different type of FET works, the TFT.
-Like any other FET, the TFT allows the control of a current between two contacts, the electrodes Drain
-and Source, by a potential applied to the third electrode, the Gate.
-The Gate electrode is physically separated from the semiconductor layer by a dielectric which allows the creation of a vertical electric field which controls the free charge carriers present in the gate.
-The test chemical shall be used to determine the concentration of the test chemical. The dielectric layer can be replaced by an electrolytic membrane such as a sheet of paper in which there are movable ions (see Figure 2) and in this case the voltage
-Applied to the Gate will push oppositely charged ions towards the semiconductor interface, creating
-a layer of ionic charge that will modify the density of the free charge carriers present inside
-The manufacturer shall ensure that the vehicle is equipped with a safety-guaranteed system. Researchers at the Universidade Nova in Lisbon, were pioneers in 2008 in the development of the paper transistor, and are world leaders in this field.
-The field.
-Figure two. The thin film transistor (TFT) scheme to be used in this problem. S =
-The following elements are added: source; D = drain; G = gate; A = paper (dielectric layer); B - substrate; C - semiconductor layer (gallium-Hindu-Zinc oxide (GIZO)); X - metal contacts. The arrows indicate the flow
-The current.
-Like JFETs, TFT transistors can operate in two basic operating modes, one
-linear mode and saturation mode. In contrast to JFETs, the intrinsic capacity of TFTs is a
-a parameter relevant to the device's performance.
-In this experimental problem, you're asked to examine how an n-channel JFET and a TFT work.
-- It's paper.
-You have to determine the characteristic curves (CC) of these devices by measuring the current between Se D(IDS)
-The application of various voltages to G(VGS) and D(VDS).
-The two most important CCs are the output and transfer curves:
-• Output curve: for this curve the current between Source and Drain (IDS) will be measured and traced in
-The voltage between Source and Drain (VDS) function, leaving VDS to vary from 0 V to +3 V, in steps
-the following, while keeping VGS constant.
+Experiment Q1-2 Italian (Italy) We must emphasize two very important characteristics of a JFET. Although its output resistance (controlled by voltage) can be very low, its input resistance (RGS = VGS/IGS) is extremely high, usually greater than 109 $\Omega$, so this device draws very little input current. Moreover, the capacitance of a small JFET is rather low, which makes it a very fast device that can "open and close" at frequencies above 1 MHz. Now let us proceed to describe how a different type of FET, the TFT, works. Like any other FET, the TFT allows control of a current between two contacts, the "Drain" and "Source" electrodes, by means of a potential applied to the third electrode, the Gate. The Gate electrode is physically separated from the semiconductor layer by a dielectric that enables the creation of a vertical electric field controlling the free charge carriers present in the semiconductor (field effect). The dielectric layer can be replaced by an electrolytic membrane such as a sheet of paper in which mobile ions exist (see Figure 2); in this case, the voltage applied to the Gate will drive ions of opposite charge toward the semiconductor interface, creating a layer of ionic charges that will modify the density of free charge carriers present inside the semiconductor (Electrolye Gated Transistors - EGT). Researchers at "Universidade Nova" in Lisbon were pioneers in 2008 in developing the "paper transistor" and are world leaders in this field. Figure 2. Schematic of the thin-film transistor (TFT) to be used in this problem. S = Source; D = Drain; G = Gate; A = paper (dielectric layer); B = substrate; C = semiconductor layer (gallium indium zinc oxide (GIZO)); X = metallic contacts. The arrows indicate the current flow. Similar to JFETs, TFTs can operate in two fundamental operating modes: a linear mode and a saturation mode. Unlike JFETs, the intrinsic capacitance of TFTs is a parameter relevant to device performance. In this experimental problem, you are asked to examine how an n-channel JFET and a paper TFT work. You must determine the characteristic curves (CC) of these devices by measuring the current between S and D (IDS) through the application of various voltages to G (VGS) and D (VDS). The two most important CCs are the output and transfer curves: • Output curve: for this curve, the current between Source and Drain (IDS) will be measured and plotted as a function of the voltage between Source and Drain (VDS), with VDS varied from 0 V to +3 V in successive steps while keeping VGS constant.
 
-Experiments
-Q1-3
-Italian (Italy)
-• Transfer curve: for this curve, IDS will be measured and graphed as a function of VGS. VDS
-The transistor shall be kept constant at an appropriate value so that the transistor is operating in mode
-The VGS will be varied by $-3$ V 0 Vin next steps.
+Experiment Q1-3 Italian (Italy) • Transfer curve: for this curve, IDS will be measured and plotted as a function of VGS. VDS will be held constant at an appropriate value so that the transistor operates in saturation, and VGS will be varied from $-3$ V to 0 V in successive steps.
 
-Experiments
-Q1-4
-Italian (Italy)
-Other materials
-The following material (Figure 3) is provided for this experimental problem:
-1. Multi-meter
-2. JFET transistor (provided inside a labelled plastic bag)
-3. Other, of a width of not more than 30 mm, but not more than 30 mm
-4. Plated crocodile seals (4, provided in a plastic bag)
-5. batterie (4 $\times$ 1,5 V)
-6. Other, of a kind used for the manufacture of motor vehicles
-7. a diameter of not more than 30 mm,
-8. Other, of a kind used for the manufacture of electrical equipment
-9. pencil HB
-10. a pen with a silver ink conductor (Circuit Scribe)
-11. The time-meter
-12. Paper with printed circuit board and TFT incorporated, using paper as a dielectric layer
-(Figure 4)
-13. Bag with writing material (1 pen, 1 pencil, 1 rubber/tinder, 1 ruler)
+Experiment Q1-4 Italian (Italy) Materials The following materials (Figure 3) are provided for this experimental problem: 1. multimeter 2. JFET transistor (provided inside a labeled plastic bag) 3. cables (10) with alligator clips 4. flat alligator clips (4, provided inside a plastic bag) 5. batteries (4 $\times$ 1.5 V) 6. battery holder 7. perforated board (mini-breadboard) with stand 8. thin wires (3) for connections to the perforated board 9. HB pencil 10. pen with conductive silver ink (Circuit Scribe) 11. stopwatch 12. sheet of paper with printed circuits and an integrated TFT that uses the paper as a dielectric layer (Figure 4) 13. bag containing writing materials (1 pen, 1 pencil, 1 eraser/sharpener, 1 ruler)
 
-Experiments
-Q1-5
-Italian (Italy)
-Figure 3 is shown. Testing material
+Experiment Q1-5 Italian (Italy) Figure 3. Experimental material
 
-Experiments
-Q1-6
-Italian (Italy)
-Figure 4 is shown. Left: sheet of paper with printed circuit boards included in the material: paper (1), tracks
-Silver conductors (2), carbon resistant tracks (3), paper transistors (4),
-The voltage score (R1 and R2) shall be determined by the following: Right: physical dimensions of the resistance of the scorer of
-The voltage (the steps of 0,5 mm are constant for each piece).
-Important precautions:
-Do not fold the paper with the printed circuit board and the inserted transistor as it may be damaged. Try to leave it as flat as possible during the measurements in order to reach the best
-The results.
-For the purposes of the measures, it is important to consider the following important information:
+Experiment Q1-6 Italian (Italy) Figure 4. On the left: paper sheet with printed circuits included in the materials: paper (1), silver-coated conductive tracks (2), carbon resistive tracks (3), paper transistor (4), voltage divider resistors (R1 and R2). On the right: physical dimensions of the voltage divider resistors (the 0.5 mm steps are constant for each part). Important precaution: Do not bend the paper sheet with the printed circuits and the inserted transistor, as it could be damaged. Try to keep it as flat as possible during measurements in order to achieve the best results. For the measurements, it is important to consider the following important information:
 
-Experiments
-Q1-7
-Italian (Italy)
-• The multimeter must always operate in CD mode
-• The multimeter does not self-regulate the range and you must carefully choose the most appropriate ones
-For your measurements . If the value is outside the read range , the display will display 1
-or -1 (left of the display) for values
+Experiment Q1-7 Italian (Italy) • The multimeter must always operate in DC mode • The multimeter does not automatically select the range; you must carefully choose the most appropriate ranges for your measurements. If the value is outside the reading range, the display will show "1" or "-1" (to the left of the display) for values
 
 <!--fig:start-->
-**p.1** — Schema JFET, analogia idraulica e simbolo
+**p.1** — JFET schematic, hydraulic analogy, and symbol
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Schema TFT a effetto di campo
+**p.2** — TFT field-effect structure
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Materiale sperimentale fornito
+**p.5** — Experimental material provided
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p5_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6**  Paper printed circuit boards and resistance sizes
+**p.6** — Printed circuit board sheet and resistor dimensions
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p6_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.8** — Partitore di tensione
+**p.8** — Voltage divider
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p8_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.9** — Punti di contatto sulle linee tracciate
+**p.9** — Contact points on the drawn lines
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p9_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.9** — Connessioni delle batterie
+**p.9** — Battery Connections
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p9_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10** — Apparato caratterizzazione JFET e piedinatura
+**p.10** — JFET characterization setup and pinout
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p10_f8.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.11** — Partitore di tensione con carico
+**p.11** — Voltage divider with load
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p11_f9.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.13** — Misura caratteristiche TFT
+**p.13** — TFT characteristic measurement
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p13_f10.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.14** — Amplificatore a Source comune, circuito inverter
+**p.14** — Common-source amplifier, inverter circuit
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p14_f11.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.15** — Setup inverter/amplificatore a Source comune
+**p.15** — Common-source inverter/amplifier setup
 ![[_attachments/exam-experiment-Q1-italian/exam-experiment-Q1-italian_p15_f12.png]]
 <!--fig:end-->
 
@@ -391,3 +285,4 @@ or -1 (left of the display) for values
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Battery (object)|Battery]], [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cojFcVayhOC9tEgmWMsMMBGYT0Nun7US/view)
+

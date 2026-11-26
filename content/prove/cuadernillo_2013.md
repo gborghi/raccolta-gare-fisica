@@ -18993,75 +18993,32 @@ Densità dell'aria 1.1993kg/m3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The vehicle shall be equipped with a single-cylinder engine.
+Pneumatic vacuum elevator
 
-PT100. College of the Sun
+PT100. Colegio del Sol
  
-St. Michael of Tucumán. 
+San Miguel de Tucumán.
  
-The elevator came to the College of the Sun .
-After the winter break, when we got to school we were all surprised by
-installation of an elevator for use by students with difficulties 
-The engine. 
-One of the tasks was to investigate the type of elevator and how it works. 
-The type of elevator is vacuum tyre, it is formed by the combination of 
-a vertical and cylindrical pipe with a smooth internal surface and a cabin in it 
-conduit moving inside it. 
-The cab has a roof that forms a piston surrounded by a seal.
-sliding and airtight, allowing for minimal friction, the
-Which rises as it generates in the thrown upstream of a depression.
-- I'm not going to. This makes the atmospheric pressure itself, higher than the existing one 
-The piston is the main component of the piston. 
-A valve that allows air to enter the top of the duct,
-It regulates the air pressure which allows the descent and controls the speed of the
-The cabin. 
-The bottom of the duct has an opening that ensures free entry and
-the exhaust air at atmospheric pressure. The method of air suction is through 
-two turbines to establish a pressure difference 
-between atmospheric and a smaller one. 
-It has a brake system called parachutes that act in case there is a problem.
-atmospheric pressure at the top of the piston, consisting of a diaphragm 
-or piston housed on the roof of the cab which powers the brake devices 
-The technical specifications of the same are: 
-The following is the list of the types of vehicles that are included in the list:
-The following is the maximum diameter of the vehicle:
-The maximum height of the device is approximately 10 mm.
-Mass of the lift and two parachutes……526kg 
-The weight of the vehicle shall be calculated on the basis of the weight of the vehicle.
-It is asked:
-(a) Calculate the pressure variation generated between the lower cab and the lower cab.
-higher to keep it at rest without load. 
-(b) Indicate the air flow rate for the time to be extracted or entered into the
-the upper cabin to lift up or down. 
-(c) Describe the variation in pressure to rise from rest and arrive.
-to the second floor at zero speed. The height of each floor is 3.2m 
-(d) What kind of movements does he make? calculate the accelerations at each 
-I'll take the stretch. 
-Suppose the elevator is on the second floor and air is coming in.
-It's unstable and it starts to fall. Automatically, in the same 
+The elevator arrived at Colegio del Sol. After the winter break, when we got to school, we were all surprised to find an elevator installed for use by students with motor difficulties. One of the tasks was to investigate the type of elevator and how it works. The type of elevator is a vacuum pneumatic elevator; it consists of a vertical, cylindrical shaft with a smooth inner surface, and a cabin within that shaft that moves inside it. The cabin has a roof that forms a piston surrounded by a sliding, airtight seal that allows it to move with minimal friction; the cabin rises when a pneumatic depression is created at the upper end of the shaft. This means that atmospheric pressure itself—which is greater than the pressure inside the shaft and acts beneath the piston—provides the lifting force. A valve that allows air to enter the upper part of the shaft regulates the pneumatic pressure that enables descent and controls the cabin's speed. The lower part of the shaft has an opening that ensures the free entry and exit of air at atmospheric pressure. Air is drawn in by means of two turbines whose purpose is to establish a pressure difference between atmospheric pressure and a lower pressure. It has a braking system (called a parachute brake) that activates if atmospheric pressure is present on the upper side of the piston; this system consists of a diaphragm or piston housed in the cabin roof, which actuates the braking devices. Its technical specifications are: Nominal speed............................9 m/min External diameter............................1338 mm Height.......................................2340 mm Mass of the elevator and the two parachute brakes......526 kg Nominal load...............................238 kg Requested:
+a) Calculate the pressure variation that is generated between the lower cabin and
+Superior to keep it at rest without load.
+b) Indicate the air flow rate per unit time that must be extracted from or introduced into
+The upper cabin so that the elevator goes up or down.
+c) Describe the pressure variation for ascending starting from rest and reaching
+to the second floor at zero speed. The height of each floor is 3.2 m.
+d) What type of movements does it perform? Calculate the acceleration at each
+Section. Suppose the elevator is on the second floor, and air enters, destabilizing it, and it starts to fall. Automatically, in the same
 
  
-The following points shall be added:
-Instantly a friction brake starts to act against the side guides of the
-The same one that applies a constant modulus force of 1600 N. 
-(e) Indicate the type of energy and value of the energy before falling. 
-(f) Calculate the work of the friction force during fall. He will succeed .
-Stop him right downstairs? 
-(g) What kind of energy does the floor come in with? How much is it worth? 
-(h) Calculate the speed at which it arrives . 
-(i) Calculate the weight of a person of 80 kg who is inside the
-Elevator during the fall. Explain .
-Data from the report 
-Air pressure 101300 pa 
-The following conditions shall apply:
+OAF 2013 - 112 At that instant, a friction brake begins to act on its side guides, applying to them a force of constant magnitude, 1600 N.
+e) Indicate the type of energy and its value before falling.
+f) Calculate the work done by the frictional force during the fall. Will it manage to stop it exactly at ground level? g) What type of energy does it arrive with at the floor? What is its value? h) Calculate the speed at which it arrives. i) Calculate the weight of an 80 kg person inside the elevator during the fall. Explain. Data: Atmospheric pressure 101300 Pa; Air density 1.1993 kg/m³
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ZjOHaivInz1ql2TMC4e_aXJri9PIrQlv/view)
-
-
 
 <span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 2013 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/disk"></span>
 

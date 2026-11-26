@@ -499,33 +499,13 @@ $\text{W/(m}\cdot\text{K)}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question seven. In the Arctic region of Canada, indigenous peoples live who build hunting shelters made of compacted snow. These shelters are known throughout the rest of the world
-like igloos. The purpose of igloo, in addition to protecting against
-wind, is to create a relatively pleasant indoor environment compared to a much lower outdoor temperature. Suppose a situation of balance
-♪ In which the inside of you keeps on holding ♪
-The heat from the body is emitted by three hunters who are
-Sleeping inside and the heat losses are happening.
-exclusively through the walls of the igloo. Consider that the igloo
-can be approximated by an inner radius hemisphere R
-and thickness d. If d is much smaller than R, the transmission
-The heat from the spherical surface is equivalent to what would be
-transmitted by a flat surface of area and thickness
-They're the same. Using this approach and disregarding the exchanges
-If the floor is hot, estimate the thickness of the wall of a
-a radius of $R = 1{,}60$ m for a balancing position of
-has internal temperature $T_i = 2\ ^\circ\text{C}$ and external temperature
-$T_e = -38\ ^\circ\text{C}$. Consider that the body heat emitted by
-Each hunter has a power of $P = 250$ W and that the
-The heat conductivity of the compressed snow is $k = 0{,}240$
-$\text{W/(m}\cdot\text{K)}$.
+Question 7. In Canada's Arctic region, Indigenous peoples live who build hunting shelters made of compacted snow. These shelters are known worldwide as igloos. Besides protecting against the wind, the purpose of an igloo is to create an internal environment with a relatively mild temperature compared with the much lower outside temperature. Suppose a steady-state situation in which the internal temperature remains constant thanks to the body heat emitted by three hunters sleeping inside the igloo, and in which heat loss occurs solely through the walls of the igloo. Assume that the igloo can be approximated as a hemisphere with internal radius R and thickness d. If d is much smaller than R, heat transfer through the spherical surface is equivalent to that which would be transferred through a flat surface of equal area and thickness. Using this approximation and neglecting heat exchange with the floor, estimate the thickness d of the wall of an igloo with radius $R = 1{,}60$ m for a steady-state situation with internal temperature $T_i = 2\ ^\circ\text{C}$ and external temperature $T_e = -38\ ^\circ\text{C}$. Assume that the body heat emitted by each hunter has a power of $P = 250$ W and that the thermal conductivity of compacted snow is $k = 0{,}240$ $\text{W/(m}\cdot\text{K)}$.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk"></span>
 

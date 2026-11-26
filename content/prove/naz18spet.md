@@ -147,31 +147,31 @@ Dalle dimensioni delle tracce circolari si può risalire alla durata del contatt
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Duration of impact  Size of footprint** (50 points)
+**Duration of Impact — Imprint Size** (50 points)
 
-Even if the ball's impact appears instantaneous, its duration is nothing but very short. This very short duration is linked to the intense forces that come into play during the impact, slowing the movement at first and then causing the ball to bounce.
+Even though the ball's impact seems instantaneous, its duration is not zero—it is merely very short. This extremely brief duration is linked to the intense forces that come into play during the impact, initially slowing the motion and then causing the ball to bounce back.
 
-Wear gloves and apply the adhesive tape to the tablet with the carbonic tape, about 10 cm long. You make the layer even by blowing it with the cotton swab.
+Put on gloves and blacken the paper adhesive strip on the tablet with carbonic material over a length of about 10 cm. Even out the layer by blowing on it with a cotton bud.
 
-If the ball falls on the blackened area, it leaves a circular mark in the contact area, with a darker dot in the center (Figure 2). A "circular" grey track appears on the surface of the ball as well (Figure 3).
+If the ball falls on the blackened area, it leaves a circular mark in the contact area, with a darker dot in the center (Figure 2). A "circular" gray mark also appears on the surface of the ball (Figure 3).
 
-The ping-pong ball is made of material that has particular hardness and elasticity properties, which make it deform in impact, but recovers immediately after its initial shape.
+The table tennis ball is made of a material with particular hardness and elasticity properties; thanks to these properties, the ball deforms on impact but immediately returns to its original shape afterward.
 
-Possiamo pensare che la parte inferiore della pallina si appiattisca, rientri in una piccola ammaccatura e torni poi alla forma sferica convessa, e che il processo avvenga senza che si deformi in modo significativo la parte superiore della pallina stessa come indicato nella figura 4 a lato, dove $r$ è il raggio della pallina, $a$ il raggio della sua traccia, $d$ la deformazione in direzione verticale. Figure 4 is not in scale.
+We can imagine that the lower part of the ball flattens, sinks into a small dent, and then returns to a convex spherical shape, and that this process occurs without the upper part of the ball itself deforming significantly, as indicated in Figure 4 alongside, where $r$ is the radius of the ball, $a$ is the radius of its trace, and $d$ is the deformation in the vertical direction. Figure 4 is not to scale.
 
-This $d$ deformation indicates how far downward the $O$ point has moved which until the moment of impact was at the centre of the ball. The distance $d$, is then traveled upwards, when the ball returns to its original shape.
+This deformation $d$ indicates how far the point $O$—which, up to the instant of impact, was at the center of the ball—has shifted downward. The distance $d$ is then traveled upward when the ball returns to its initial shape.
 
-From the size of the circular tracks, the duration of contact can be traced, assuming that the force on the ball is constant in the compression phase, and then still constant in the subsequent return to the spherical shape, with a discontinuity from one phase to the next. The assumption, although coarse, allows us to estimate the duration of the impact.
+From the dimensions of the circular traces, the duration of contact can be inferred by making the following assumption: it is assumed that the force on the ball is constant during the compression phase and is again constant during the subsequent return to a spherical shape, with a discontinuity between the two phases. Although crude, this assumption makes it possible to estimate the duration of the impact.
 
-**2.1**  Drop the ball so that its center falls by about $25\text{ cm}$. Please note the value of the quota chosen.
+**2.1** — Drop the ball so that its center comes to rest at approximately $25\text{ cm}$. Record the value of the chosen elevation.
 
-**2.2**  Examine the footprint left on the tablet and/or the ball and, if the footprint is circular, measure the diameter $2a$ and calculate the deformation $d$. It records all the data in the table.
+**2.2** — Examine the impression left on the plate and/or the one left on the ball, and if the impression is circular, measure its diameter $2a$ and calculate the deformation $d$. Record all data in the table.
 
-**2.3**  Determine the total duration of the impact $t$, in the case of constant forces. The uncertainty of $t$ is not required. Just write the value in scientific notation, and only the numbers you think are significant.
+**2.3** — Determine the total duration $t$ of the impact, under the aforementioned assumption of constant forces. The uncertainty of $t$ is not required. Simply write its value in scientific notation, using only the digits you consider significant.
 
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p5_f4.png]]
-*Figura 4: schema deformazione pallina urto*
+*Figure 4: diagram of ball deformation upon impact*
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Elasticity & Materials]]
@@ -180,8 +180,6 @@ From the size of the circular tracks, the duration of contact can be traced, ass
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1U3n7kjiAzQCicG8zEQDDyACAMSGHyTlh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jPrh7aUYfyYnDRUmNf6LKTu5Ilmm-OCv/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2018 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/capacitor,object/resistor,object/battery,object/switch"></span>
 

@@ -88,39 +88,37 @@ Dati sul Sole:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Please read the text below carefully and answer the questions from 01 to 05.
+Read the text below carefully and answer questions 01 to 05.
 
-The sun is the closest star to us. All the planets in the solar system orbit around it, and each one has a different period. He's responsible for the energy supply of most planets. The Sun is only a star because of its enormous mass, which is about 300,000 times the mass of the Earth.
+The Sun is the star closest to us. All the planets in the solar system orbit around it, and each has a different orbital period. It is responsible for supplying energy to most of the planets. The Sun is a star only because of its enormous mass, which is on the order of 300,000 times the mass of the Earth.
 
-Data on the Sun:
+Data about the Sun:
 
-♪ Greatness and Value ♪
+| Quantity | Value |
 |---|---|
-♪ I'm going to be a big fan ♪
-| Superfície | $6{,}16 \times 10^{13}$ km² |
+| Radius | 695,500 km |
+| Surface Area | $6{,}16 \times 10^{13}$ km² |
 | Volume | $1{,}44 \times 10^{18}$ km³ |
-| Massa | $1{,}9 \times 10^{30}$ kg |
-| Densidade | $1{,}4$ g/cm³ |
-| Luminosidade | $3{,}9 \times 10^{27}$ kW |
-This is the surface temperature.
-| Temperatura no Centro | $1{,}5 \times 10^{7}$ K |
-This is the first time that we've seen this.
+| Mass | $1{,}9 \times 10^{30}$ kg |
+| Density | $1{,}4$ g/cm³ |
+| Luminosity | $3{,}9 \times 10^{27}$ kW |
+| Surface Temperature | 5770 K |
+| Central Temperature | $1{,}5 \times 10^{7}$ K |
+| Surface Gravity | 276 m/s² |
 
 **01)** Which of the following units cannot be used to represent the mass of the Sun:
 
-- **A** kg (kg)
-- **B** g (gram)
-- **C** tonne (tonne)
-- **D** mg (milligrams)
-- **E** kgf (kg/force)
+- **A.** kg (kilogram)
+- **B.** g (gram)
+- **C.** ton (tonne)
+- **D.** mg (milligram)
+- **E.** kgf (kilogram-force)
 
 **Topic:** [[Astrophysics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BfQ1fq-kFkqYqzHEsV2Jrc4MGaMmV3Nr/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2009 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/star"></span>
 

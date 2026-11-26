@@ -554,20 +554,16 @@ k .
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 9
-Beatrice vuole tracciare un grafico di linea retta e trovare il valore di k dal gradiente del grafico. To do
-Questo, dovrebbe:
-a. Il plot T vs m, e poi il gradiente è 1
+Domanda 9 Beatrice vuole tracciare un grafico di una linea retta e determinare il valore di k a partire dalla pendenza del grafico. Per farlo, dovrebbe:
+a. Traccia il grafico di T in funzione di m; quindi il coefficiente angolare è 1.
 k.
-b. Il plot T vs m, e poi il gradiente è $2\pi$
-$\sqrt{}$
-k.
-c. Il plot T 2 vs m, e poi il gradiente è $2\pi$
-$\sqrt{}$
-k.
-d. Il plot T 2 vs m, e poi il gradiente è $2\pi$
+b. Traccia il grafico di T in funzione di m; quindi il gradiente è $2\pi$
+$\sqrt{}$ k.
+c. Traccia il grafico di T 2 in funzione di m; poi il gradiente è $2\pi$
+$\sqrt{}$ k.
+d. Traccia il grafico di T 2 in funzione di m; quindi il gradiente è $2\pi$
 k .
-e. Il plot T 2 vs m, e poi il gradiente è $4\pi2$
+e. Traccia il grafico di T 2 in funzione di m; quindi il gradiente è $4\pi2$
 k .
 
 **Topic:** [[Oscillations & Waves]]
@@ -575,8 +571,6 @@ k .
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1tZRpwbNO8XkOH8h5FKm6TQ90Zfty_HTL/view)
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="ASOE 2019 — Quesito 10" data-tags="kg/prova,paese/Australia,comp/ASOE,cluster/Meccanica"></span>
 

@@ -251,71 +251,72 @@ Suggerire un modello matematico per interpretare i risultati ottenuti. Adoperare
 
 <div class="qlang-split" data-lang="en"></div>
 
-The magnetic field
+**THE MAGNETIC PIECE**
 
-> In this experiment, the uncertainties in measurements, calculated values and graphs are indicated.
+> In this experiment, uncertainties **MUST** be indicated for the measurements, the calculated values, and the graphs.
 
-### Goal
+### Objective
 
-Studying the forces acting on a magnetic pedal as it slides on an inclined plane.
+Study the forces acting on a magnetic pawn as it slides down an inclined plane.
 
 ### Recommendation
 
-*NOT Touch* with your hands the base of the foot or the paper surface on the sloping plane. Always wear the gloves provided. The base of the block is covered with paper of different colour for convenience, but the friction coefficients can be considered the same for both faces.
+*DO NOT TOUCH* the bases of the pawn or the paper surface on the inclined plane with your hands. Always use the gloves provided. For convenience, the bases of the block are covered with paper of different colors, but the coefficients of friction can be considered equal for the two faces.
 
-### Measures of time
+### Units of Time
 
-The sensors under the sloping plane regulate an electronic circuit in the black box: a green LED remains on during the time interval when the magnetic block is sliding in the stretch between the two sensors. The multimeter measures the difference in potential between the heads of a capacitor; for the entire time the green LED remains on the capacitor is connected to a constant current generator. The current intensity is directly proportional to the voltage of the battery. The reading on the multimeter display is therefore a measure of the time it takes the pedal to slide from one sensor to another along the sloping plane. This reading allows the speed of the block to be measured in units of arbitrary measurement.
+The sensors beneath the inclined plane regulate an electronic circuit inside the black box: a green LED remains on during the time interval in which the magnetic block is sliding along the section between the two sensors. The multimeter measures the potential difference across a capacitor; throughout the entire time interval in which the green LED remains on, the capacitor is connected to a constant-current generator. The current intensity is directly proportional to the battery voltage. The reading on the multimeter display is therefore a measure of the time taken by the pawn to slide from one sensor to the other along the inclined plane. This reading makes it possible to measure the speed of the block in arbitrary units of measurement.
 
 **How to use the timer:**
 
-- (i) Press and hold the black button on the side of the box. This way the electronic device is powered and functioning.
-- (ii) If the green light happens to light itself, the pedal will slide  holding the yellow face up  above the sensor below. The green LED should go off.
-- (iii) To zero the difference in the capacitor heads, press the red button first for at least 10 seconds each time the pedal is released.
-- (iv) The difference in the potential to the battery head shall be measured by connecting the multimeter to the black box terminals marked with the voltage generator symbol.
+- (i) Press and hold the black button on the side of the box. This powers the electronic device and gets it running.
+- (ii) If the green light comes on by itself, slide the pawn—with the yellow face facing up—past the lowest sensor. The green LED should turn off.
+- (iii) To zero the potential difference across the capacitor, each time you release the pawn, first press the red button for at least 10 seconds.
+- (iv) The potential difference across the battery shall be measured by connecting the multimeter to the terminals of the black box marked with the voltage source symbol.
 
-♪ Definitions ♪
+### Definitions
 
-**(i)** A body descending along an inclined plane is also subjected to the action of a braking force $F$ parallel to the plane and the normal reaction $N$ to the plane. It says:
+**(i)** A body descending along an inclined plane is also subjected to the action of a braking force $F$ parallel to the plane and to the reaction $N$ normal to the plane. Let:
 
 $$\xi = \frac{F}{N}$$
 
-**(ii)** In the case where the braking force is due to the friction force alone, the parameter $\xi$ shall coincide with the dynamic friction coefficient $\mu_k$, or $\xi = \mu_k$. The dynamic friction coefficient is not dependent on speed.
+**(ii)** If the braking force is due solely to the frictional force, the parameter $\xi$ coincides with the dynamic friction coefficient $\mu_k$, that is, $\xi = \mu_k$. The dynamic friction coefficient does not depend on velocity.
 
-**(iii)** When the dark (blue) face of the pedal is in contact with the plane, the braking force parallel to the plane $F_d$ is partly due to friction and partly due to magnetic effects on the pedal. Similarly to the previous one:
+**(iii)** When the dark (blue) face of the pawn is in contact with the plane, the braking force parallel to the plane $F_d$ is partly due to friction and partly to magnetic effects on the pawn. Analogously to before, we set:
 
 $$\xi_d = \frac{F_d}{N}$$
 
-**(iv)** The variable $\xi_{dk}$ which takes into account only magnetic effects on the pedal is therefore defined by:
+**(iv)** The variable $\xi_{dk}$, which takes into account only the magnetic effects on the pawn, is therefore defined by:
 
 $$\xi_{dk} = \xi_d - \mu_k$$
 
-### Important notes and suggestions
+### Important Notes and Suggestions
 
-- (i) It will be very helpful to start by observing the behavior of the pedal on the inclined plane.
-- (ii) Reasoning on the physical model before starting any quantitative study and remembering to use graphic representation whenever possible.
-- (iii) Avoid collecting excessive amounts of experimental data unless there is enough time to do so.
-- (iv) Remember that the potential drop is measured at the ends of an electrolytic capacitor whose behavior is not the same as that of a simple air or vacuum capacitor; a slow discharge current is normal, so the potential difference does not remain completely constant.
-- (v) A magnetic pedal and a 9.0 V battery were delivered. Don't waste your battery! The constant current charging the capacitor is directly proportional to the voltage to the battery head. It is recommended that the voltage value be checked periodically. Sensors provide unreliable data if the battery voltage drops below 8.4 V. If this happens, ask for another battery.
-- (vi) Only 4 sheets of millimetre paper are supplied; no other sheets will be supplied. At the end of the experiment, you can keep the magnetic trail.
-- (vii) In case of doubts or difficulties with the digital multimeter, ask for assistance from an assistant.
+- (i) It will be of great help to begin by qualitatively observing the behavior of the pawn on the inclined plane.
+- (ii) Reason about the physical model before beginning any quantitative study, and remember to use graphical representation whenever possible.
+- (iii) Avoid collecting an excessive amount of experimental data unless there is plenty of time to do so.
+- (iv) Remember that the potential drop across an electrolytic capacitor is measured, and that the behavior of such a capacitor is not the same as that of a simple capacitor in air or in a vacuum; a slow discharge current is normal, so the potential difference does not remain entirely constant.
+- (v) A magnetic pawn and a 9.0 V battery have been delivered. Do not waste the battery unnecessarily! The constant current that charges the capacitor is directly proportional to the voltage across the battery terminals. It is recommended to check the voltage value periodically. The sensors provide unreliable data if the battery voltage falls below 8.4 V. **If this happens, request another battery.**
+- (vi) Only 4 sheets of graph paper are provided: no additional sheets will be given. At the end of the experiment, you may keep the magnetic pawn.
+- (vii) If there are any doubts or difficulties with the digital multimeter, ask an assistant for help.
 
-♪ ♪ The data ♪
+### Data
 
-- Weight of the magnetic pad $= 5.84 \times 10^{-2}\,\text{N}$
-- The read on the multimeter display is a measure of the time it takes the pedal to slide from one sensor to another. If the difference in battery power is 9.0 V, then 1 V is $0.213\,\text{s}$.
+- Weight of the magnetic pawn $= 5.84 \times 10^{-2}\,\text{N}$
+- The reading on the multimeter display is a measure of the time it takes for the pawn to slide from one sensor to another. If the battery's potential difference is 9.0 V, then 1 V corresponds to $0.213\,\text{s}$.
 - The distance between the two sensors is $\ell = 0.294\,\text{m}$.
 
-♪ experiment ♪
+### Experiment
 
-Using only the equipment provided, study how the $\xi_{dk}$ coefficient depends on the speed achieved by the pedal and the $\theta$ steering inclination relative to the horizontal.
+Using only the provided equipment, investigate how the coefficient $\xi_{dk}$ depends on the speed attained by the pawn and on the inclination $\theta$ of the guide relative to the horizontal.
 
-The formulas and steps taken to analyse the data and to draw the graphs shall be indicated on the answer sheet.
+On the answer sheet, indicate the formulas and the steps taken to analyze the data and to create the graphs.
 
-Suggest a mathematical model to interpret the results obtained. Use the data collected to verify the consistency and reliability of the model within tolerances.
+Suggest a mathematical model for interpreting the results obtained. Use the derived data to verify the consistency and reliability of the model within the tolerances.
 
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Magnet (object)|Magnet]], [[Inclined Plane (object)|Inclined Plane]], [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1mLy-qaWe_FsP1hdv1TTVeodOY-mkiBLL/view)
+

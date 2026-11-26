@@ -132,52 +132,51 @@ Per concludere, aggiungiamo un po' di fantasia e immaginazione. Un giocatore NBA
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P1. Plutón, el planeta enano.**
+**P1. Pluto, the dwarf planet.**
 
-Pluto was discovered in 1930, and its name alludes to the Roman god of the underworld. Until 2006, it was considered the smallest and farthest planet from our solar system.
+Pluto was discovered in 1930, and its name refers to the Roman god of the underworld. Until 2006, it was considered the smallest and most distant planet in our solar system.
 
-In August 2006, the General Assembly of the International Astronomical Union (IAU) agreed to lower the category of Pluto, from planet to dwarf planet. Since then it has been part of celestial bodies orbiting the Sun at a greater distance than Neptune, with enough mass for its own gravity to confer it an almost spherical shape, but insufficient to empty its orbit of neighboring bodies. The IAU named these stars *Plutoids*.
+In August 2006, the General Assembly of the International Astronomical Union (IAU) agreed to reclassify Pluto from a planet to a dwarf planet. Since then, Pluto has been among the celestial bodies orbiting the Sun at a greater distance than Neptune, with enough mass for its own gravity to give it an almost spherical shape but not enough to clear its orbit of neighboring bodies. The IAU named these celestial bodies plutoids.
 
-However, the scientific interest in Pluto has been increasing, to the point that in January 2006, before the UAI Assembly, NASA launched from Cape Canaveral an Atlas V rocket carrying on board the space probe *New Horizons*, in order to approach Pluto to photograph and investigate it. In March 2015, observations began and on July 14, 2015, the *New Horizons* reached its maximum approach to Pluto: $12\,700\ \text{km}$. The probe failed to orbit Pluto, because it did not have enough fuel to slow its motion. He merely passed nearby and will continue to investigate his satellites and the Kuiper belt, which will be surpassed in 2018 predictably.
+However, scientific interest in Pluto has been growing, to the point that in January 2006, before the IAU General Assembly, NASA launched an Atlas V rocket from Cape Canaveral carrying the *New Horizons* space probe aboard, with the aim of approaching Pluto to photograph and study it. Observations began in March 2015, and on July 14, 2015, *New Horizons* achieved its closest approach to Pluto: $12\,700\ \text{km}$. The probe did not enter orbit around Pluto, as it did not have enough fuel to slow its motion. It merely flew by at close range and will continue to study Pluto's moons and the Kuiper Belt, which it is expected to pass beyond in 2018.
 
-The Earth's orbit around the Sun is almost circular, but Pluto's is elliptical with great eccentricity. For this reason, in its perihelion, the distance from Pluto to the Sun is even slightly smaller than that of Neptune.
+Earth's orbit around the Sun is nearly circular, but Pluto's orbit is elliptical with high eccentricity. For this reason, at perihelion, Pluto's distance from the Sun is even slightly less than Neptune's.
 
-En la **Tabla I** se encuentran datos suficientes para resolver las cuestiones que se plantean en este ejercicio.
+In **Table I**, there is sufficient data to resolve the issues raised in this exercise.
 
-**a)** Taking into account Kepler's third law, calculate the period of Pluto's orbit around the Sun.
+**a)** Taking Kepler's third law into account, calculate the period of Pluto's orbit around the Sun.
 
-The small Pluto has no less than five satellites: Charon, Nix, Hydra, Cerberus, and Stigia. The first of these is the closest to Pluto, and also the largest. So much so that the Pluto-Caronte system can be considered a "double planet". Both bodies orbit around the centre of mass (CM) of the system at angular velocity $\omega$, subject to mutual gravitational interaction (see figure 3, with distances $r_P$ and $r_C$ to the CM and total separation $D$ between centres).
+Small Pluto has no fewer than five moons: Charon, Nix, Hydra, Styx, and Kerberos. The first of these is the closest to Pluto and also the largest. So much so that the Pluto-Charon system can be regarded as a "double planet." Both bodies orbit the system's center of mass (CM) with angular velocity $\omega$, subject to their mutual gravitational interaction (see figure 3, with distances $r_P$ and $r_C$ to the CM and total separation $D$ between centers).
 
-**b)** Assuming that the orbits of Pluto and Charon around the CM are circular, analytically determines and calculates the radii of these orbits, $r_P$ and $r_C$.
+**b)** Assuming that the orbits of Pluto and Charon around the barycenter are circular, determine analytically and calculate the radii of these orbits, $r_P$ and $r_C$.
 
-> **Help:** To solve the above question, it is enough to know that it is fulfilled
-> $$M_P\, r_P = M_C\, r_C \quad (1)$$
+**Help:** To answer the previous question, it is enough to know that > $$M_P\, r_P = M_C\, r_C \quad (1)$$ holds.
 
-**c)** Determines and calculates the period of rotation of Pluto and Charon around their CM, $T_{P-C}$. Express your result in earthly days.
+**c)** Determine and calculate the rotation period of Pluto and Charon around their CM, $T_{P-C}$. Express your result in Earth days.
 
-Cuando la *New Horizons* estaba en las proximidades de Plutón, las señales de radio que enviaba tardaban unas cuatro horas y media en llegar a la Tierra.
+When New Horizons was near Pluto, the radio signals it transmitted took about four and a half hours to reach Earth.
 
-**d)** Haz una estimación de la distancia a la Tierra, en unidades astronómicas, a la que se encontraba la sonda.
+**d)** Estimate the distance from Earth, in astronomical units, at which the probe was located.
 
-And to finish, we'll add a little bit of fantasy and imagination. An NBA player is capable of jumping vertically to a height of $1{,}2\ \text{m}$.
+To conclude, let's add a bit of fantasy and imagination. An NBA player can jump vertically up to a height of $1{,}2\ \text{m}$.
 
-**e)** ¿Hasta qué altura saltaría en la superficie de Plutón?
+**e)** How high would you jump on the surface of Pluto?
 
 ---
 
-**Tabla I**
+**Table I**
 
-♪ Magnitude ♪ Value ♪
+| Magnitude | Value |
 |---|---|
-| Máxima aproximación de Plutón al Sol (afelio) | $r_{\max} = 49{,}30\ \text{ua}$ |
-| Mínima aproximación de Plutón al Sol (perihelio) | $r_{\min} = 29{,}66\ \text{ua}$ |
-| Unidad astronómica (distancia media Tierra–Sol) | $1\ \text{ua} = 1{,}49 \times 10^{11}\ \text{m}$ |
-| Masa de Plutón | $M_P = 1{,}31 \times 10^{22}\ \text{kg}$ |
-| Masa de Caronte | $M_C = 1{,}52 \times 10^{21}\ \text{kg}$ |
-| Distancia entre los centros de Plutón y Caronte | $D = 1{,}96 \times 10^{7}\ \text{m}$ |
-| Radio de Plutón | $R_P = 1{,}19 \times 10^{6}\ \text{m}$ |
-| Aceleración de la gravedad en la superficie de la Tierra | $g_T = 9{,}81\ \text{m/s}^2$ |
-| Constante de Gravitación Universal | $G = 6{,}674 \times 10^{-11}\ \text{N\,m}^2\,\text{kg}^{-2}$ |
+| Pluto's greatest distance from the Sun (aphelion) | $r_{\max} = 49{,}30\ \text{ua}$ |
+| Pluto's closest approach to the Sun (perihelion) | $r_{\min} = 29{,}66\ \text{ua}$ |
+| Astronomical unit (average Earth–Sun distance) | $1\ \text{ua} = 1{,}49 \times 10^{11}\ \text{m}$ |
+| Mass of Pluto | $M_P = 1{,}31 \times 10^{22}\ \text{kg}$ |
+| Mass of Charon | $M_C = 1{,}52 \times 10^{21}\ \text{kg}$ |
+| Distance between the centers of Pluto and Charon | $D = 1{,}96 \times 10^{7}\ \text{m}$ |
+| Radius of Pluto | $R_P = 1{,}19 \times 10^{6}\ \text{m}$ |
+| Acceleration due to gravity at Earth's surface | $g_T = 9{,}81\ \text{m/s}^2$ |
+| Universal gravitational constant | $G = 6{,}674 \times 10^{-11}\ \text{N\,m}^2\,\text{kg}^{-2}$ |
 
 
 ---
@@ -187,8 +186,6 @@ And to finish, we'll add a little bit of fantasy and imagination. An NBA player 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1sWaqD4EG6FBmAcfA30DJE8HFzY-SMafK/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2017 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/planet"></span>
 

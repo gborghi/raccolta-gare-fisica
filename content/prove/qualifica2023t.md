@@ -211,11 +211,11 @@ Si supponga che l'atmosfera terrestre sia composta da $N$ molecole identiche, ci
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Molecole nell'atmosfera**
+Molecules in the Atmosphere
 
-Assume that the Earth's atmosphere is composed of $N$ identical molecules, each of which has a mass equal to $30$ times that of the proton. Quanto vale $\log_{10} N$?
+Suppose that the Earth's atmosphere is composed of $N$ identical molecules, each having a mass equal to $30$ times the mass of a proton. What is the value of $\log_{10} N$?
 
-*Unità di misura:* adimensionale. *Precisione richiesta:* $1.0\%$.
+*Unit of measurement:* dimensionless. *Required precision:* $1.0\%$.
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Kinetic Theory]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -223,8 +223,6 @@ Assume that the Earth's atmosphere is composed of $N$ identical molecules, each 
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="GaS 2023 Qualifica Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/squadre,livello/qualifica,difficolta/2,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
 
@@ -440,11 +438,11 @@ All'interno di un tubo verticale di altezza $h$ e raggio $R \ll h$ viene lasciat
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Rimbalzo su una pallina**
+**Bounce on a Ball**
 
-Within a vertical tube of $h$ height and $R \ll h$ radius, a ball of mass $M$ is dropped from the stand. After a certain time $t$, a second ball, of mass $m = 0.1M$, is dropped, always standing. The first ball bounces to the ground and then hits the second ball, dropping it upwards. Suppose all the bumps are elastic, that any form of friction is negligible, and that the balls have a radius equal to that of the tube. If $t$ is changed, $H$ shall be the maximum height achieved by the second ball. Quanto vale $H/h$?
+Inside a vertical tube of height $h$ and radius $R \ll h$, a ball of mass $M$ is dropped from rest. After a certain time $t$, a second ball of mass $m = 0.1M$ is also dropped from rest. The first ball bounces off the ground and then strikes the second ball, flinging it upward. Assume that all collisions are elastic, that all forms of friction are negligible, and that the radius of the balls equals that of the tube. As $t$ varies, let $H$ be the maximum height attainable by the second ball. What is the value of $H/h$?
 
-*Unità di misura:* adimensionale. *Precisione richiesta:* $0.5\%$.
+*Unit of measurement:* dimensionless. *Required precision:* $0.5\%$.
 
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -452,8 +450,6 @@ Within a vertical tube of $h$ height and $R \ll h$ radius, a ball of mass $M$ is
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="GaS 2023 Qualifica Teorica — Problema 13" data-tags="nazione/italia,tipo-gara/squadre,livello/qualifica,difficolta/2,multidisciplina/bi,topic/rotational-dynamics,topic/gravitation,argomento/meccanica,object/planet"></span>
 
@@ -475,9 +471,9 @@ Il piccolo principe, di massa $50\ \text{kg}$, vive su un asteroide sferico unif
 
 <div class="qlang-split" data-lang="en"></div>
 
-The small prince, mass $50\ \text{kg}$, lives on a uniform spherical asteroid, mass $3.75 \times 10^{13}\ \text{kg}$ and radius $1960\ \text{m}$. Initially the asteroid is stationary and the little prince is sitting watching the sunset. Envious of the planets that revolve around his axis, he decides to make his asteroid also rotate on itself: so he begins to move, walking at small steps, along his equator. Using this strategy, however, he is unable to give the asteroid an angular velocity greater than a certain value $\Omega$. Quanto vale $\Omega$?
+The Little Prince, with mass $50\ \text{kg}$, lives on a uniform spherical asteroid with mass $3.75 \times 10^{13}\ \text{kg}$ and radius $1960\ \text{m}$. Initially, the asteroid is at rest, and the Little Prince is sitting and watching the sunset. Envious of the planets that rotate about their own axes, he decides to make his asteroid rotate on its own axis too: so he starts moving, taking small steps, along its equator. Using this strategy, however, he cannot give the asteroid an angular velocity greater than a certain value $\Omega$. What is the value of $\Omega$?
 
-*Unità di misura:* $10^{-15}\ \text{rad/s}$. *Precisione richiesta:* $0.5\%$.
+*Unit of measurement:* $10^{-15}\ \text{rad/s}$. *Required precision:* $0.5\%$.
 
 **Topic:** [[Rotational Dynamics]], [[Gravitation]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -485,8 +481,6 @@ The small prince, mass $50\ \text{kg}$, lives on a uniform spherical asteroid, m
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="GaS 2023 Qualifica Teorica — Problema 14" data-tags="nazione/italia,tipo-gara/squadre,livello/qualifica,difficolta/2,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas,object/piston,object/tank-container"></span>
 

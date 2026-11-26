@@ -452,13 +452,11 @@ Quanto vale, come minimo, $E_\gamma$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Minimum energy for the production of a peony**
+Minimum energy for producing a pion
 
-Consider a proton $p$, initially stationary, which is hit by a photon $\gamma$ of energy $E_\gamma$. This interaction produces a neutral lead $\pi^0$ (mass $134.98\ \mathrm{MeV}/c^2$), according to the reaction
-$$p + \gamma \to p + \pi^0.$$
-Quanto vale, come minimo, $E_\gamma$?
+Consider a proton $p$, initially at rest, that is struck by a photon $\gamma$ with energy $E_\gamma$. This interaction produces a neutral pion $\pi^0$ (of mass $134.98\ \mathrm{MeV}/c^2$), according to the reaction $$p + \gamma \to p + \pi^0.$$ What is the minimum value of $E_\gamma$?
 
-**Unità di misura:** MeV. **Precisione richiesta:** 0.5%.
+**Unit of measurement:** MeV. **Required precision:** 0.5%.
 
 **Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
@@ -466,8 +464,6 @@ Quanto vale, come minimo, $E_\gamma$?
 **Objects:** [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y34RZDzWQuwnPjUc1rCA1ynxGcsVXr2f/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bOuc16yWGpi7Vz70TczIJH9Ckbl7zhi8/view)
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="GaS 2026 Nazionale Squadre — Problema 13" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-energy,argomento/meccanica,object/ball"></span>
 

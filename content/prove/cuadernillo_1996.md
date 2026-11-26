@@ -997,20 +997,17 @@ Tomar g = 9,8 m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-10. Federal capital. Green. 
+10. FEDERAL CAPITAL. GREEN.
  
  
-A block of 2 kg mass moving on a plane inclined 30° downwards, 
-impact with a spring of constant elasticity of 15 N/m. 
+A block with a mass of 2 kg, moving on an inclined plane 30º toward the lower end, collides with a spring having a spring constant of 15 N/m.
  
-The spring is shortened by a maximum of 2 m. If the dynamic friction coefficient is between 
-the block and plane is 0.2, calculate: 
-(a) What is the block speed module at the instant of impact? 
-(b) After impacting the spring, the block moves over the plane. What distance does it travel over?
-The same until you stop? 
-(c) Assuming that the plane is only 2.10 m long measured from the edge of the spring 
-the tablet, indicate whether the block reaches a stop on the plane or falls, and in this case what 
-distance falls from the edge of the plane. 
+The spring undergoes a maximum shortening of 2 m. If the coefficient of kinetic friction between the block and the plane is 0.2, calculate:
+a) What is the magnitude of the block's velocity at the instant of the collision?
+b) After colliding with the spring, the block moves across the plane. What distance does it travel over
+the same until it stops?
+c) Assuming that the plane has a length of only 2.10 m measured from the edge of the spring
+When compressed, indicate whether the block manages to come to a stop on the plane or falls, and if it falls, how far from the edge of the plane it falls.
  
  
  
@@ -1019,17 +1016,13 @@ distance falls from the edge of the plane.
  
  
  
-The following is the list of the following:
-
-
+TOMAR g = 9.8 m/s²
 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Argentina 1996 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/cart"></span>
 
@@ -1373,30 +1366,25 @@ m1= 5Kg. m2 =½ m1          m3 = 2 m1
 
 <div class="qlang-split" data-lang="en"></div>
 
-14. The word, good air. Blue. 
+14. EL PALOMAR, BUENOS AIRES. AZUL.
  
  
-Three masses are placed as shown in the figure . The rope passes through a pole without a razor .
-. Calculate:
+Three masses are arranged as shown in the figure. The string passes over a frictionless pulley. Calculate:
  
  
-(a) Acceleration of the system. 
+a) The acceleration of the system.
  
  
-(b) String strains 
+b) The tensions of the strings
  
  
-m1= 5Kg. m2 =½ m1          m3 = 2 m1
-
-
+m1 = 5 kg. m2 = ½ m1 m3 = 2 m1
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Argentina 1996 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -1534,24 +1522,16 @@ F_Un calo della sua velocità da 20 a 10m/s in 30m di percorso.
 
 <div class="qlang-split" data-lang="en"></div>
 
-16. Pain, good air. Blue and green. 
+16. DOLORES, BUENOS AIRES. BLUE AND GREEN.
  
  
-Find the constant force applied to a body of 30 kgde weighing tell you:
-a_an acceleration of 3m/s2 
-The speed of the vehicle shall be at least 50 cm/s2.
-A speed of 9m/s to 6s of starting to move. 
-d_Require a space of 30 m to 5s of starting to move. 
-An increase in its speed from 5m/s to 15m/s in 4s. 
-F_A decrease in speed from 20 to 10m/s on 30m of travel.
+Find the constant force that, when applied to a body weighing 30 kg, will impart: a) an acceleration of 3 m/s²; b) an acceleration of 50 cm/s²; c) a velocity of 9 m/s after 6 s from the start of motion; d) a distance of 30 m after 5 s from the start of motion; e) an increase in its velocity from 5 m/s to 15 m/s in 4 s; f) a decrease in its velocity from 20 to 10 m/s over a distance of 30 m.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Argentina 1996 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cylinder,object/sphere"></span>
 
@@ -1742,29 +1722,27 @@ b) Grafica il percorso seguito da ogni pietra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-19. Sea of the Plate, good air. Blue and green. 
+19. MAR DEL PLATA, BUENOS AIRES. BLUE AND GREEN.
  
  
-A stone thrown from the floor, with speed v0 = 12 m/s and forming an angle of 45° with the 
+A stone thrown from the ground, with an initial velocity v0 = 12 m/s and making an angle of 45º with the
 
  
 - 9 -
-Horizon fell to the ground at a distance s from the launch site. 
+The horizon fell to the ground at a distance s from the launch site.
  
  
-(a) From what height h would have to throw another stone horizontally to communicate it 
-The same initial velocity v0 would fall in the same place as the first? 
+a) From what height h would another stone have to be thrown horizontally so that, by imparting to it
+Would the one with the same initial velocity v0 fall in the same place as the first one?
  
  
-(b) Draw the trajectory followed by each stone.
+b) Graph the path followed by each stone.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Argentina 1996 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
@@ -1894,13 +1872,13 @@ b) Quanto vale la forza normale che il binario esercita sul carro quando passa a
 
 <div class="qlang-split" data-lang="en"></div>
 
-21. Moron, good weather. Blue and green. 
+21. MORÓN, BUENOS AIRES. BLUE AND GREEN.
  
  
-A car with a mass of m = 100 kg, moves around the roller coaster without a scratch. 
+A cart with a mass of m = 100 kg moves along the roller coaster with no friction.
  
-(a) Calculate the speed of the car when passing through points A, B and C. 
-(b) What is the normal force exerted by the railway on the wagon when it passes through point A?
+a) Calculate the speed of the cart as it passes through points A, B, and C.
+b) What is the value of the normal force exerted by the rail on the cart when it passes through point A?
 
 
 <!--fig:start-->
@@ -1912,8 +1890,6 @@ A car with a mass of m = 100 kg, moves around the roller coaster without a scrat
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Argentina 1996 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
@@ -2306,25 +2282,22 @@ b) L'immagine precedente quando l'ascensore scende ad un'accelerazione di 3 m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-27. Red, good air. Green. 
+27. ROJAS, BUENOS AIRES. GREEN.
  
  
-Paul hangs a 2kg block from the roof of the elevator and at the bottom of the block, hangs
-Another block of double mass.
-(a) The tensions of the two strings when the elevator moves upwards at high speed.
-It's constant. 
+Pablo hangs a 2 kg block from the ceiling of the elevator, and from the bottom of block 1, he hangs another block with twice the mass. Determine:
+a) The tensions in the two cables when the elevator moves upward at a speed
+constant.
 
  
 - 11 -
-(b) The same as before when the elevator is lowered at an acceleration of 3 m/s2.
+b) Same as above when the elevator descends with an acceleration of 3 m/s².
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Argentina 1996 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -3447,11 +3420,10 @@ tempo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-43. I'm going to be a little bit nervous. 
+43. CÓRDOBA, CÓRDOBA.
  
  
-The following graph represents the position of a moving body in terms of time.
-The line is straight. 
+The following graph represents the position of a body in rectilinear motion as a function of time.
  
  
  
@@ -3459,15 +3431,14 @@ The line is straight.
 
  
 - 15 -
-(i) Indicate and justify: 
-(a) the moment/s in which the body reverses the sense of its movement. 
-(b) the instant/s in which the body is braking. 
-(c) the speed sign in the instant (s) in which the body passes through the source of the system of 
-reference. 
-(d) the intervals in which the speed and acceleration of the body are the same. 
+I) Indicate and justify:
+a) the instant(s) at which the body reverses the direction of its motion.
+b) the instant(s) at which the body is slowing down.
+c) the sign of the velocity at the instant(s) at which the body passes through the origin of the system of
+reference.
+d) the interval(s) in which the velocity and the acceleration of the body have the same direction.
  
-(ii) Qualitatively perform the chart of the speed and acceleration of the body in accordance with the
-time.
+II) Qualitatively sketch the graph of the body's velocity and acceleration as functions of time.
 
 
 <!--fig:start-->
@@ -3479,8 +3450,6 @@ time.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q44" data-atom="q44" data-title="Argentina 1996 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
@@ -4005,23 +3974,16 @@ Accelerazione del corpo su questa superficie orizzontale, e distanza percorsa fi
 
 <div class="qlang-split" data-lang="en"></div>
 
-51. General Pico, the father. Blue and green. 
+51. GENERAL PICO, LA PAMPA. BLUE AND GREEN.
  
  
-On a 30° slope, as shown in the figure, a 300 kg body slides,
-if a friction coefficient between the plane and the body μ=0,2 exists. 
+On an inclined plane of 30º, as shown in the figure, a body weighing 300 kg slides, and there is a coefficient of friction µ=0.2 between the plane and the body.
  
  
 
  
 - 17 -
-a- Determine the acceleration to which the body is subjected while sliding over that plane 
-I'm not going to lie. 
-b- If it is on the top of the inclined plane, and slides from the resting point above it, with 
-the speed at which it will reach the base of the inclined plane, if the plane is 6 m high. 
-c- If the coefficient of friction between the body and the horizontal surface is μ=0.2, calculate the 
-The acceleration of the body over this horizontal surface, and the distance travelled to stop.
-I'm totally out of it.
+a- Determine the acceleration to which the body is subjected while it slides along said inclined plane. b- If it is at the top of the inclined plane and slides down it from rest, what speed will it have when it reaches the base of the inclined plane, if the height of the plane is 6 m? c- If the coefficient of friction between the body and the horizontal surface is µ=0.2, calculate the acceleration of the body on this horizontal surface and the distance traveled until it comes to a complete stop.
 
 
 <!--fig:start-->
@@ -4033,8 +3995,6 @@ I'm totally out of it.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q52" data-atom="q52" data-title="Argentina 1996 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -4222,21 +4182,14 @@ Calcolare l'accelerazione del sistema e la tensione della corda.
 
 <div class="qlang-split" data-lang="en"></div>
 
-53. General Pico, the father. Blue and green. 
+53. GENERAL PICO, LA PAMPA. BLUE AND GREEN.
  
  
-The figure shows a two-body system that we will identify as body [1] and body [2], 
-United by an unstretchable rope passing through a rattling pulley: 
+The figure shows a two-body system that we will designate as body [1] and body [2], connected by an inextensible string that passes over a frictionless pulley:
  
-The data
-P1 is 500 new. 
-m2 = 10 Kg. 
-μ = 0,2 (coefficient of friction between the plane and both bodies) 
-a- Draw a diagram of the interactions on each 
-- The body.
-b- Determine in which direction the system will move // 
+DATA P1 = 500 N, m2 = 10 kg, µ = 0.2 (coefficient of friction between the plane and both bodies) a- Draw a diagram of the forces acting on each body. b- Determine the direction in which the system will move //
  
-Calculate the system acceleration and the string tension.
+Calculate the acceleration of the system and the tension in the rope.
 
 
 <!--fig:start-->
@@ -4248,8 +4201,6 @@ Calculate the system acceleration and the string tension.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q54" data-atom="q54" data-title="Argentina 1996 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -5030,21 +4981,16 @@ energia cinetica che colpisce il palo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-65. - It's a lie. Blue. 
+65. MENDOZA. AZUL.
  
  
-A martinette used to bury poles weighs 100 kg and falls from a height of 2 m . Calculate the 
-kinetic energy that hits the pole.
-
-
+A hammer used to drive posts into the ground weighs 100 kgρ and falls from a height of 2 m. Calculate the kinetic energy with which it strikes the post.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q66" data-atom="q66" data-title="Argentina 1996 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
@@ -5164,13 +5110,12 @@ b) La tensione della corda.
 
 <div class="qlang-split" data-lang="en"></div>
 
-67. - It's a lie. Green. 
+67. MENDOZA. GREEN.
  
  
-In the figure, blocks A and B weigh 20kgf and 30kgf respectively. The coefficient of 
-The friction with each surface is 0.20. Calculate: 
-(a) Acceleration of the system. 
-(b) The tension of the rope. 
+In the figure, blocks A and B weigh 20 kgf and 30 kgf respectively. The coefficient of friction with each surface is 0.20. Calculate:
+a) The acceleration of the system.
+b) The tension of the string.
  
 
  
@@ -5186,8 +5131,6 @@ The friction with each surface is 0.20. Calculate:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q68" data-atom="q68" data-title="Argentina 1996 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/pulley,object/rope-string"></span>
 
@@ -5299,20 +5242,16 @@ quando arriva alla base dello schema.
 
 <div class="qlang-split" data-lang="en"></div>
 
-69. I'm not going to lie. Blue. 
+69. MENDOZA, MENDOZA. AZUL.
  
  
-A block of 5 kg of mass, descends from the resting point, by a plane tilted by 30°, whose
-length is 10 m. The coefficient of friction is 0.1. Find the kinetic energy of the block,
-When you get to the bottom of the plane.
+A block with a mass of 5 kg starts from rest and descends down an inclined plane of 30º, whose length is 10 m. The coefficient of friction is 0.1. Find the kinetic energy of the block when it reaches the base of the plane.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q70" data-atom="q70" data-title="Argentina 1996 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
@@ -5357,23 +5296,18 @@ La sfera si alza quando salta dall'acqua. Si disprezza la resistenza dell'aria.
 
 <div class="qlang-split" data-lang="en"></div>
 
-70. I'm not going to lie. Blue. 
+70. MENDOZA, MENDOZA. AZUL.
  
  
-A 30 kg mass and 0.5 m3 volume sphere falls into the water from 32 m high, sinks 2 m 
-And then it goes up (the density of the sphere is less than that of the water). 
+A sphere with a mass of 30 kg and a volume of 0.5 m³ falls into the water from a height of 32 m, sinks 2 m, and then rises (the density of the sphere is less than that of water).
  
-Find the force of friction in the water, assuming it is constant, and the height h, at which 
-The sphere rises when it jumps out of the water. Air resistance is despised. 
-(water density = 1000 kg/m3)
+Find the frictional force in water, assuming it is constant, and the height h to which the sphere rises when it jumps out of the water. Air resistance is neglected. (density of water = 1,000 kg/m³)
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q71" data-atom="q71" data-title="Argentina 1996 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/sphere,object/tank-container"></span>
 
@@ -5657,33 +5591,22 @@ M (terra) = 5,98 . 1024 Kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-74. It's the Hunkul Square, New York. Green. 
+74. PLAZA HUINCUL, NEUQUÉN. GREEN.
  
-The classic problem of spheres ... 
+"The classic problem of spheres ..."
  
  
-A p particle is placed at the top end of a fixed iron sphere (without a mediator 
-The radius of the cartridge is 20 cm. Assuming the particle slides slightly over the sphere (without
-What a rot. If the particle is copper and has a radius of 0.5 cm , answer:
-(a) At what point does it separate from the sphere? 
-(b) What is the speed at that point? 
-(c) Compare the gravitational field attraction of the earth and the iron sphere with respect to the
-Particle when it is 10 cm from the sphere and 4 m from the ground. What opinion could I have?
-broadcast ? 
-Useful data: 
-The following table shows the results of the calculation:
-The following table shows the results of the calculation:
-The following table shows the results of the calculation:
-G = 6,67 . 10 -11 N . m2 / kg2 
-M (land) = 5.98 . 1024 Kg
+A particle p is placed at the top end of a fixed iron sphere (with no friction) having a radius of 20 cm. Assuming that the particle slides slightly over the sphere (without rotating). If the particle is made of copper and has a radius of 0.5 cm, answer:
+a) At what point does it separate from the sphere?
+b) What will the speed be at that point?
+c) Compare the gravitational attraction of the Earth and of the iron sphere with respect to the
+particle when it is 10 cm from the sphere and 4 m from the ground. What opinion could be expressed? Useful data: g = 9.8 m/s², dFe = 7.85 g/cm³, dCu = 8.5 g/cm³, G = 6.67 × 10⁻¹¹ N·m²/kg², M(earth) = 5.98 × 10²⁴ kg
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q75" data-atom="q75" data-title="Argentina 1996 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/sphere,object/particle-beam"></span>
 
@@ -5752,12 +5675,10 @@ F = 60 N
 
 <div class="qlang-split" data-lang="en"></div>
 
-75. I'm not sure I'm going to be able to do this. Blue. 
+75. SAN MARTÍN DE LOS ANDES, NEUQUÉN. BLUE.
  
  
-Three blocks are joined together as shown in the figure on a horizontal table without a scratch. 
-Find the voltages on the strings and calculate the speed and space traveled in 30 seconds. with 
-a constant force of 60 N. 
+Three blocks are connected to one another as shown in the figure on a horizontal frictionless table. Find the tensions in the ropes and calculate the velocity and the distance traveled at 30 s with a constant force of 60 N.
  
  
  
@@ -5772,15 +5693,11 @@ a constant force of 60 N.
  
 F = 60 N
 
-
-
 **Topic:** [[Conservation of Energy]], [[Gravitation]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Particle Beam (object)|Particle Beam]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q76" data-atom="q76" data-title="Argentina 1996 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/rope-string"></span>
 
@@ -5900,24 +5817,21 @@ c) analizzare l'incidenza dell'energia meccanica prima e dopo lo scontro.
 
 <div class="qlang-split" data-lang="en"></div>
 
-77. Five jumps, black river. 
+77. CINCO SALTOS, RÍO NEGRO.
  
  
-It's dropped from a 20-metre building. of a height of one block of mass M. 
+A block of mass M is dropped from a building 20 m high.
  
-At that same instant it throws upwards, at a speed of 40 mts/sec., another block of 
-equal mass. You want to know:
-(a) the height at which the meeting takes place and the time elapsed. 
-(b) assuming that the impact was inelastic, what will the overall motion be like? 
-(c) analyse what happens to mechanical energy immediately before and after the impact.
+At that very instant, another block of the same mass is thrown upward at a speed of 40 m/s. It is desired to find out:
+a) At what height does the meeting occur, and how much time has elapsed?
+b) Assuming the collision were inelastic, what would the combined motion be like?
+c) analyze what happens to mechanical energy at an instant before and after the collision.
 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q78" data-atom="q78" data-title="Argentina 1996 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
@@ -5974,29 +5888,20 @@ spiegare in che cosa cambia il fatto che l'uomo sia seduto sulla bilancia o in p
 
 <div class="qlang-split" data-lang="en"></div>
 
-78. Five jumps, black river. 
+78. CINCO SALTOS, RÍO NEGRO.
  
  
-There's a spring scale hanging over the roof of an elevator. 
+On the ceiling of an elevator, a spring scale is hanging.
  
-A man weighing 80 kg gets in that elevator. The force of this force is at that moment.
-above the elevator floor and what is the voltage of the cable that holds it? Now the elevator and what is the
-the tension of the cable that holds it? Now the elevator starts to go up at a constant speed of 2 .
-The following table shows the results of the tests: What happens to that force? Then it starts speeding up right at the moment in 
-The man has been put on the scale and this marks a weight of 83 kg . What is the value of that?
-- Acceleration ? As this gentleman remembers he forgot to tell his boss something he must come down, but now with 
-a speed of 0,5 mts/sec. In this case , what 's the scale going to be ? 
+An 80-kg man gets into that elevator at that exact moment—what force does he exert on the elevator floor, and what is the tension in the cable that supports the elevator? Now the elevator—and what is the tension in the cable that supports the elevator? Now the elevator starts rising at a constant speed of 2 m/s—what happens to that force? Then it begins to accelerate, precisely at the moment when the man has stepped onto the scale and the scale reads a weight of 83 kg—what is the value of that acceleration? Since this gentleman remembers that he forgot to tell his boss something, he must get off, but now with an acceleration of 0.5 m/s²—in this case, what will the scale read?
  
-Assuming you cut the cable from the elevator, which is what the scale would indicate then, and
-Explain how the fact that a man is sitting on the scale or standing on the floor changes things.
+Assuming the elevator cable were cut, what would the scale then indicate, and explain how things change due to the fact that the man is sitting on the scale or standing on the floor.
 
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q79" data-atom="q79" data-title="Argentina 1996 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/spring"></span>
 
@@ -6282,28 +6187,18 @@ c- Se non si considera il tempo di reazione, qual è il coefficiente di rasatura
 
 <div class="qlang-split" data-lang="en"></div>
 
-82. I'm not going to be able to tell you what happened. Blue. 
+82. SAN MIGUEL DE TUCUMÁN, TUCUMÁN. BLUE.
  
  
  
  
-A 800 kg car, descends down a winding road (as shown in Figure), reaching C with 
-a speed of 120 km/h. and in D you meet a child (CD distance 120m). 
-a- If on the road from A to C the rub can be considered despicable, say what height it has 
-The hill is a hill, knowing that the driver was allowed to slip away from the rest. 
-b- If the braking system provides an acceleration of 5 m/s2 and the driver is delayed in doing so 
-If the brakes are running a reaction time of 0.7 seconds, tell me if it hits the child. 
-c- If the reaction time is not taken into account, what is the coefficient of friction of the CD-section
-
-
+An 800 kg car descends along a winding road (as shown in the figure), reaching point C with a speed of 120 km/h, and at point D it encounters a child (distance CD = 120 m). a- If, on the road from "A" to "C", friction can be considered negligible, state what height hill "A" has, given that the driver let himself slide starting from rest. b- If the braking system provides an acceleration of 5 m/s² and the driver takes a "reaction time" of 0.7 s to apply the brakes, state whether the car runs over the child. c- If the "reaction time" is not taken into account, what is the coefficient of friction for the CD section?
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q83" data-atom="q83" data-title="Argentina 1996 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
 
@@ -6370,21 +6265,18 @@ c- Qual è il peso del blocco C?
 
 <div class="qlang-split" data-lang="en"></div>
 
-83. I'm not going to be able to tell you what happened. Blue. 
+83. SAN MIGUEL DE TUCUMÁN, TUCUMÁN. BLUE.
  
  
  
  
-Two blocks A and B are arranged as shown in the figure and connected by a rope to block C. 
+Blocks A and B are arranged as shown in the figure and are connected by a rope to block C.
 
  
 - 25 -
-Both A and B weigh 200 N and the kinetic friction coefficient between each block and the surface is 0,5. 
+Both A and B weigh 200 N, and the coefficient of kinetic friction between each block and the surface is 0.5.
  
-Block C is descending at a constant speed. 
-a- Draw the corresponding force diagrams indicating the forces acting on A and B. 
-b- Calculate the tension of the rope connecting blocks A and B. 
-c- What is the weight of block C?
+Block C descends at a constant speed. a- Draw the corresponding free-body diagrams showing the forces acting on A and B. b- Calculate the tension in the rope connecting blocks A and B. c- What is the weight of block C?
 
 
 <!--fig:start-->
@@ -6396,8 +6288,6 @@ c- What is the weight of block C?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q84" data-atom="q84" data-title="Argentina 1996 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
 
@@ -6442,23 +6332,16 @@ c- Quale dei due è stato abbattuto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-84. I'm not going to be able to tell you what happened. Blue. 
+84. SAN MIGUEL DE TUCUMÁN, TUCUMÁN. BLUE.
  
  
-A helicopter is trapped on an enemy mortar at 500 meters. 
-Simultaneously, the helicopter dropped a bomb and the mortar fired a projectile (speed of the .
-The projectile is 50 m/s. 
-a- How high are both explosives? 
-b- Explain the movement described by each. 
-c- Which of the two is killed?
+A helicopter is stationary above an enemy mortar at a height of 500 m. At the same time, the helicopter drops a bomb and the mortar fires a projectile (projectile speed: 50 m/s). a- At what height are both explosives? b- Explain the motion described by each. c- Which of the two is brought down?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q85" data-atom="q85" data-title="Argentina 1996 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
 
@@ -6557,37 +6440,29 @@ le lettere b) e c).
 
 <div class="qlang-split" data-lang="en"></div>
 
-85. I'm not going to be able to help you. Blue and green. 
+85. AGUILARES, TUCUMÁN. BLUE AND GREEN.
  
  
-A group of students must present a work at the Science Fair, with the intention of showing 
-Some applications of the principles of physics. 
+A group of students must present a project at the Science Fair, with the aim of demonstrating some applications of the principles of physics.
  
 We present a sketch of the device they designed:
  
  
  
  
-The operation of the device is as follows: 
+The device operates as follows:
  
-From the A-end of a 1.80 m long ramp, with a 35° inclination with respect to the
-horizontal, with a coefficient of friction of 0,12 a block of 200 grams is allowed to slide 
-And when it reaches the BC channel, without any bruising, it impacts with a 100g mass sphere that is initially
-I'm at rest. After impact the block continues at a speed of 1.2 m/s in the same
-The address. From there the sphere enters a non-corrosive, channel-like roller of 12cm radius for
-Continue your march until you reach the spring located at E where you stop for a moment. 
+From end A of a ramp 1.80 m long, inclined at 35º to the horizontal and having a coefficient of friction of 0.12, a block with a mass of 200 g is allowed to slide; upon reaching channel BC, where there is no friction, it collides with a sphere of mass 100 g that is initially at rest. After the collision, the block continues with a speed of 1.2 m/s in the same direction. From there, the sphere enters a frictionless grooved roller with a radius of 12 cm in order to continue its motion until it reaches the spring located at E, where it comes to a brief stop.
  
-In the case of the children, you must:
+Regarding the situation raised by the kids, you must:
  
-(a) Check whether the sphere will complete the spin. 
+a) Check whether the sphere will complete the rotation.
  
-(b) Calculate the length variation that 
-You'll experience the spring. 
+b) Given that the elastic constant is 55 N/m, calculate the change in length that
+Will experience the spring.
  
-(c) Calculate the force applied by the spring until the sphere is stopped. 
-NOTE: If you determine, in a), that the sphere will not complete the spin on the roll, imagine another sphere of 
-The same EC-span characteristics, with a speed of 5m/sec heading towards the spring, to respond 
-points (b) and (c).
+c) Calculate the force exerted by the spring until the sphere comes to a stop.
+NOTE: If, in a), you determine that the sphere will not complete the turn in the roller, imagine another sphere with the same characteristics in segment CE, moving toward the spring at a speed of 5 m/s, in order to answer points b) and c).
 
 
 <!--fig:start-->
@@ -6599,8 +6474,6 @@ points (b) and (c).
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q86" data-atom="q86" data-title="Argentina 1996 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/inclined-plane,object/spring"></span>
 
@@ -6965,33 +6838,19 @@ Sfera
 
 <div class="qlang-split" data-lang="en"></div>
 
-90. Florida, good weather. Green. 
+90. FLORIDA, BUENOS AIRES. GREEN.
  
  
-The insecticide sprayer in the figure has a 60cm diameter embolus. The level of 
-The insecticide is 90 mm below the input tube A, which is 2 mm in diameter. Estimate the
-The minimum speed at which the plume should be pressed so that the air exiting the other end is
-It contains insecticide. Suppose the insecticide has the density of water and the airflow is 
-Uncompressed and power lines. 
+The insecticide sprayer shown in the figure has a plunger with a diameter of 60 cm. The insecticide level is 90 mm below inlet tube A, which has a diameter of 2 mm. Estimate the minimum speed at which the plunger should be pressed so that the air exiting at the other end contains insecticide. Assume that the insecticide has the density of water and that the airflow is incompressible and streamline flow.
  
-Data: EO=8.85 10-42 C2 N m2 
+Data: EO=8.85 10-42 C² N m²
  
  
-I
-mR
-2
-The following table shows the results of the calculation:
-2
-=
+I mR 2-CYLINDER 2 =
  
  
  
-I
-2
-5 mR
-The Sphere
-2
-=
+I 2 5 mR SPHERE 2 =
  
  
 
@@ -7008,8 +6867,6 @@ The Sphere
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q91" data-atom="q91" data-title="Argentina 1996 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/piston,object/pipe-tube"></span>
 
@@ -7050,21 +6907,16 @@ pesa 500 gf. In un esterno, è in equilibrio?
 
 <div class="qlang-split" data-lang="en"></div>
 
-91. Sea of the Plate, good air. Blue. 
+91. MAR DEL PLATA, BUENOS AIRES. AZUL.
  
  
-Where should you put your hand so that a 1m long board weighs 2 kgf and has a
-Weighs 500 gf. In an outer, is it in balance?
-
-
+Where should you place your hand so that a 1 m long table weighing 2 kgf and having a 500 gf weight at one end will be in equilibrium?
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 1996 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/beam"></span>
 
@@ -7489,43 +7341,36 @@ La trama AG non ha rottura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-96. 
+96.
  
  
-The following device is available: 
+The following device is available:
  
  
  
  
-A body weighing one kilogram is dropped. from point A. When you get to position D the speed is 
-of 10 m/s. Calculation: 
+A body with a mass of 1 kg is dropped from point A. When it reaches position D, its speed is 10 m/s. Calculate:
  
-(a) The time taken to travel the DE. 
+a) The time it takes to cover the DE section.
  
-(b) The height from which the body was dropped. 
+b) The height from which the body was dropped.
  
-(c) Speed in the BC section. 
+c) The speed in section BC.
  
-(d) The time it takes to drive a CD. 
+d) The time it takes to travel CD.
  
-(e) What distance from point F falls the body after leaving the DE and what is the distance from the DE?
-, speed module at that instant? 
+e) At what distance from point F does the body land after leaving segment DE, and what is the
+, magnitude of the velocity at that instant?
  
-(f) The body continues its journey along the track with the horizontal component of the speed. On arrival .
-G the track has a coefficient of friction of 0,2. Calculate the path taken from G to 
-It stops. 
+f) The body continues its journey along the track with the horizontal component of its velocity. When it reaches G, the track has a coefficient of friction of 0.2. Calculate the distance traveled from G until the body comes to a stop.
  
 The AG section has no friction.
-
-
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q97" data-atom="q97" data-title="Argentina 1996 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cart"></span>
 
@@ -7662,50 +7507,49 @@ V = 120V
 
 <div class="qlang-split" data-lang="en"></div>
 
-97. Federal capital. Blue and green. 
+97. FEDERAL CAPITAL. BLUE AND GREEN.
  
  
-Given the circuit of the figure: 
- 
- 
- 
- 
-(a) Find the i3 
- 
-(b) Calculate the voltage drop in R2 
- 
-(c) The power dissipated in R1 
- 
-(d) Assuming that the source supplies a variable voltage, plot the dissipated energy in 20 s.
-R5  according to the stress in the resistance
- 
- 
-The data: 
-R1 = 8 W 
- 
- 
-R5 = 6 W 
+Given the circuit in the figure:
  
  
  
-R2 = 7 W 
+ 
+a) Find i3
+ 
+b) Calculate the voltage drop across R2
+ 
+c) The power dissipated in R1
+ 
+d) Assuming the source supplies a variable voltage, plot the energy dissipated over 20 s.
+depending on the voltage across resistor R5
  
  
-R6 = 5 W 
+Data: R1 = 8 W
+ 
+ 
+R5 = 6 W
  
  
  
-R3 = 2 W 
+R2 = 7 W
  
  
-r = 1 W 
+R6 = 5 W
  
  
  
-R4 = 3 W 
+R3 = 2 W
  
  
-V = 120V 
+r = 1 W
+ 
+ 
+ 
+R4 = 3 W
+ 
+ 
+V = 120V
  
  
  
@@ -7723,8 +7567,6 @@ V = 120V
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q98" data-atom="q98" data-title="Argentina 1996 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -7765,21 +7607,18 @@ Colpiscerà l' albero ? Rappresentare qualitativamente x (t); v (t); a (t).
 
 <div class="qlang-split" data-lang="en"></div>
 
-98. 
+98.
   
  
-A driver is driving at 108 km/h and sees a tree falling over the road 100 m away.
-route. It takes 0,75 seconds to apply the brakes, which cause a slowdown of 4 m/second. 
+A driver is traveling at 108 km/h and notices that 100 m ahead, a tree has fallen across the road. It takes 0.75 seconds for the driver to apply the brakes, which produce a deceleration of 4 m/s².
  
-Will it hit the tree ? To represent x (t); v (t); a (t) qualitatively.
+Will it collide with the tree? Represent x(t), v(t), and a(t) qualitatively.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 1996 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -8094,12 +7933,12 @@ A ?
 
 <div class="qlang-split" data-lang="en"></div>
 
-102. - Good weather. Green. 
+102. NAVARRO, BUENOS AIRES. GREEN.
  
  
-(a) Calculate the equivalent resistance of the circuit in the figure between X and Y. 
+a) Calculate the equivalent resistance of the circuit in the figure between X and Y.
  
-(b) What is the potential difference between X and a if the intensity in the resistance of 8W is 0,5 
+b) What is the potential difference between X and a if the current through the 8W resistor is 0.5?
 A ?
 
 
@@ -8112,8 +7951,6 @@ A ?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q103" data-atom="q103" data-title="Argentina 1996 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/galvanometer"></span>
 
@@ -8166,27 +8003,23 @@ b) la potenza fornita dalla fonte
 
 <div class="qlang-split" data-lang="en"></div>
 
-103. Sea of the Plate, good air. Green. 
+103. MAR DEL PLATA, BUENOS AIRES. GREEN.
  
  
-For the circuit of the figure, assuming ideal instruments,
+For the circuit in the figure, assuming ideal instruments,
  
  
-Find the following: 
+find:
  
-(a) the reading of each instrument 
+a) the reading of each instrument
  
-(b) the power delivered by the source
-
-
+b) the power delivered by the source
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 1996 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
@@ -8456,13 +8289,10 @@ Uniforme della figura . Se l'elettrone passa proprio attraverso il bordo della l
 
 <div class="qlang-split" data-lang="en"></div>
 
-107. The rocks, boy. 
+107. BARRANQUERAS, CHACO.
  
  
-An electron is projected (-1.6 . 10-1
-oC) with initial speed vo = 107 m/s within the field 
-uniform of the figure . If the electron passes right through the edge of the upper plate when it comes out
-The intensity of this one.
+An electron (-1.6 × 10-1 º C) is projected with an initial velocity vo = 107 m/s into the uniform field shown in the figure. If the electron passes exactly by the edge of the upper plate when it exits the field, find the magnitude of this field.
 
 
 <!--fig:start-->
@@ -8474,8 +8304,6 @@ The intensity of this one.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Electron (object)|Electron]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q108" data-atom="q108" data-title="Argentina 1996 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge,object/rope-string"></span>
 
@@ -8872,26 +8700,16 @@ carico di elettrone 1,6.10-19 C).
 
 <div class="qlang-split" data-lang="en"></div>
 
-112. I'm not going to lie. Blue. 
+112. MENDOZA, MENDOZA. AZUL.
  
  
-In the next circuit, two identical flat capacitors are connected whose sheets have
-a length of 15 metres and separated by 0,02 metres. The capacitors are oriented .
-perpendicular to each other. The source fem is known to be 4 V and its
-a maximum of 0,3 ohm. Find the resistance needed for an electron to penetrate.
-One of the capacitors parallel to its sheets at a speed of 2,107 m/s, reach then 
-the second capacitor and exit from it parallel to its sheets (electron mass 9,1.10-31 kg, 
-The electron charge is 1.6.10-19 C.
-
-
+In the following circuit, two identical parallel-plate capacitors are connected; their plates have a length of 15 meters and are separated by 0.02 m. The capacitors are oriented perpendicular to each other. It is known that the emf of the source is 4 V and its internal resistance is 0.3 ohms. Find the resistance required so that an electron, which enters one of the capacitors parallel to its plates with a speed of 2.107 m/s, then reaches the second capacitor and exits this one parallel to its plates (mass of the electron: 9.1×10⁻³¹ kg; charge of the electron: 1.6×10⁻¹⁹ C).
 
 **Topic:** [[Electrostatics]], [[Electromagnetism]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q113" data-atom="q113" data-title="Argentina 1996 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/capacitor,object/battery"></span>
 
@@ -9078,40 +8896,38 @@ E = 20 V
 
 <div class="qlang-split" data-lang="en"></div>
 
-114. I'm from the Andes, New York. 
+114. JUNÍN DE LOS ANDES, NEUQUÉN.
  
  
-In the circuit of the figure determine: 
+In the circuit shown in the figure, determine:
  
-(a) Current flowing through each resistor. 
+a) Current flowing through each of the resistors.
  
-(b) Amount of heat dissipated in R4 resistance at 50. 
+b) Amount of heat dissipated in resistor R4 in 50'.
  
-C) Suddenly one of the masses is dissolved, which currents change and which do not. 
+C) Suddenly, one of the masses detaches—which currents change and which do not?
  
  
  
-R1 = 5 Ω 
+R1 = 5 Ω
   
-R4 = 4 Ω 
+R4 = 4 Ω
  
-R7 = 5 Ω 
+R7 = 5 Ω
  
-R10 = 5 Ω 
-R2 = 7 Ω 
+R10 = 5 Ω R2 = 7 Ω
   
-R5 = 5 Ω 
+R5 = 5 Ω
  
-R8 = 10 Ω 
+R8 = 10 Ω
  
-R11 = 9 Ω 
-R3 = 6 Ω 
+R11 = 9 Ω R3 = 6 Ω
   
-R6 = 4 Ω 
+R6 = 4 Ω
  
-R9 = 6 Ω 
+R9 = 6 Ω
  
-E = 20 V 
+E = 20 V
 
  
 - 34 -
@@ -9126,8 +8942,6 @@ E = 20 V
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q115" data-atom="q115" data-title="Argentina 1996 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/conducting-sphere,object/rope-string"></span>
 
@@ -9168,21 +8982,16 @@ dal punto di sospensione al centro della sfera è di 10 cm. e i pesi sono di 5 .
 
 <div class="qlang-split" data-lang="en"></div>
 
-115. I'm not sure I'm going to be able to do that. 
+115. SAN MARTÍN DE LOS ANDES, NEUQUÉN.
  
  
-Two spheres of equal radii and weights are suspended from threads so that their surfaces are
-They're playing. What charge will it take to communicate to you so that the voltage on the wires is 0.098 N? The distance 
-from the point of suspension to the centre of the sphere is 10 cm. And the weights are five . 10-9 
-We're not going to stop.
+Two spheres with equal radii and weights are suspended by threads such that their surfaces touch. What charge must be imparted to them so that the tension in the threads is 0.098 N? The distance from the suspension point to the center of the sphere is 10 cm, and the weights are 5 × 10⁻⁹ kgρ force.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q116" data-atom="q116" data-title="Argentina 1996 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -9255,37 +9064,29 @@ rCu = 0,017 (W . mm2 / m )
 
 <div class="qlang-split" data-lang="en"></div>
 
-116. It's the Hunkul Square, New York. Green. 
+116. PLAZA HUINCUL, NEUQUÉN. GREEN.
  
-The lamps couldn't be missing.
+The little lamps couldn't be missing...
  
  
-We need to light three enclosures with three 40 W, 50 W and 100 W lamps respectively.
-(the portals are arranged according to the graph, disregarding their length) connected by a wire of
-a copper section of 5 mm2. The internal resistance of the lamps is 200 W, 315 W, 425 
-W also in their respective form. The potential difference is 100 V. If the battery has one
-The following results are available:
+We have to illuminate three rooms with three lamps of 40 W, 50 W, and 100 W respectively (the lamp holders are arranged as shown in the diagram; ignore their length), connected by a copper cable with a cross-section of 5 mm². The internal resistances of the lamps are 200 W, 315 W, and 425 W, also respectively. The potential difference is 100 V. If the battery has an energy content of 2.3 kWh and an internal resistance of 45 W (ignore its length), answer:
  
-(a) Is it possible to maintain the system for 8 hours? 
+a) Will it be possible to keep the system running for 8 hours?
  
-(b) What is fem. of the battery in the process? 
+b) What is the female counterpart of the battery in the process?
  
  
  
  
-Useful data: 
+Useful information:
  
-rCu = 0,017 (W . mm2 / m )
-
-
+rCu = 0.017 (W·mm²/m)
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q117" data-atom="q117" data-title="Argentina 1996 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge,object/electron"></span>
 
@@ -9342,29 +9143,22 @@ C_l'intensità del campo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-117. Pain, good air. Blue and green. 
+117. DOLORES, BUENOS AIRES. BLUE AND GREEN.
  
  
-The natural hydrogen atom has a proton in its nucleus and an electron in its orbit; each 
-of these particles have a module charge of 1.6. 10 to 19 coul. Assuming the orbit it orbits 
-The electron is circular and the distance between the two particles is 5.3.10-11m, find: 
-The electrical force of attraction . 
+The natural hydrogen atom has a proton in its nucleus and an electron in its orbit; each of these particles has a charge with a magnitude of 1.6 × 10⁻¹⁹ C. Assuming that the electron's orbit is circular and that the distance between the two particles is 5.3 × 10⁻¹¹ m, find: a) The electric attractive force.
  
  
  
  
  
-m=9,11.10-31Kg 
-b_The linear velocity of the electron. 
-The intensity of the field.
+m=9.11×10⁻³¹ kg b_ The linear velocity of the electron. c_ The field strength.
 
 **Topic:** [[Electrostatics]], [[Circuits]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 1996 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -9449,43 +9243,36 @@ Unità di tempo e quale è quel valore.
 
 <div class="qlang-split" data-lang="en"></div>
 
-118. I'm not going to be able to help you. Green. 
+118. AGUILARES, TUCUMÁN. GREEN.
  
  
-Two 20V and 8V batteries, whose internal resistance is negligible, are serial connected with 
-the circuit shown in Figure 1. 
+Two batteries with voltages of 20 V and 8 V, whose internal resistances are negligible, are connected in series with the circuit shown in the figure.
  
  
 
  
 - 35 -
  
-The following data are obtained: V1=20V; V2=8V; IT=4A; I3=0,8A; R5=7W; R1=2W; R2=4W. 
+The following data are given: V1 = 20 V; V2 = 8 V; IT = 4 A; I3 = 0.8 A; R5 = 7 W; R1 = 2 W; R2 = 4 W.
  
  
-You must determine: 
-(1) (a) The readings given by the instruments indicated on the circuit. 
+You must determine: (1) a) The readings given by the instruments indicated in the circuit.
  
-(b) resistance R3. 
+b) the resistance R3.
  
-(c) The equivalent resistance of the circuit. 
+c) The equivalent resistance of the circuit.
  
-(d) The conventional direction of total current, shown in the figure. 
+d) The conventional direction of the total current, indicated in the figure.
  
-(e) The specific resistance of R3, if the section of R3 is 0,1 mm and its length is 1,36 m. 
+e) The specific resistance of R3, if its cross-section is 0.1 mm and its length is 1.36 m.
  
-(f) How would you connect the given resistors to dissipate the least amount of energy by 
-unit of time and what is that value.
-
-
+f) How would you connect the given resistors so that they dissipate the least amount of energy per unit time, and what is that value?
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q119" data-atom="q119" data-title="Argentina 1996 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
@@ -9618,25 +9405,15 @@ Quali saranno i valori della temperatura di equilibrio interno e della pressione
 
 <div class="qlang-split" data-lang="en"></div>
 
-120. St. Teresa, good weather. Green. 
+120. SANTA TERESITA, BUENOS AIRES. GREEN.
  
  
-The following device is available: 
+The following device is available:
  
  
-Data: 
-Power: 1 HP 
-Operating time: 1 hour 
-η = 0,9 
-π = 1,5 kg. 
-Air mass: 1 kg. 
-Mass of water: 50 litres 
-The amount of the aid shall be calculated as follows:
-Kg C
-°
+Data: Motor power: 1 HP Operating time: 1 hour η = 0.9 π = 1.5 kg. Air mass: 1 kg. Water mass: 50 liters Cv (air): 0.17 kcal. Kg C °
  
-If the initial air pressure was 1014 Hpa. and the internal temperature of 20 °C: 
-What will be the values of the internal equilibrium temperature and air pressure after 1 hour ?
+If the initial air pressure was 1014 hPa and the indoor temperature was 20 °C, what will the values of the indoor equilibrium temperature and the air pressure be after 1 hour?
 
 
 <!--fig:start-->
@@ -9648,8 +9425,6 @@ What will be the values of the internal equilibrium temperature and air pressure
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 1996 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/heat-engine"></span>
 
@@ -9706,14 +9481,10 @@ quale variazione di entropia si verifica dentro e fuori casa per questo valore d
 
 <div class="qlang-split" data-lang="en"></div>
 
-121. Florida, good weather. Green. 
+121. FLORIDA, BUENOS AIRES. GREEN.
  
  
-In an air conditioning system, a room is kept at 290oK, while the air conditioning system is kept at
-The outside temperature is 305oK. The refrigerator has the compression cylinders operating at
-320oK (located outside) and compression springs inside the house operating at 280oK. Si la 
-The machine works in a reversible way, what work must be done to extract 5000J of heat from the
-What variation in entropy occurs inside and outside the house for this cooling value? 
+In an air-conditioning system, a room is maintained at 290ºK, while the outside temperature is 305ºK. In the refrigeration machine, the compression cylinders operate at 320ºK (located outside), and the compression coils inside the house operate at 280ºK. If the machine operates in a reversible manner, what work must be done to extract 5000 J of heat from the house? What change in entropy occurs inside and outside the house for this cooling value?
  
  
  
@@ -9727,8 +9498,6 @@ What variation in entropy occurs inside and outside the house for this cooling v
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Heat Engine (object)|Heat Engine]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q122" data-atom="q122" data-title="Argentina 1996 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
@@ -9791,19 +9560,18 @@ c) Qual è la temperatura media in oC, oF e oK.
 
 <div class="qlang-split" data-lang="en"></div>
 
-122. San Fernando from the Catarina Valley, Catarina. Blue. 
+122. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. BLUE.
  
  
-The following graph shows the variation, over a period of time, in temperature in San
-Fernando del Valle of Catamarca: 
+The following graph shows the variation in temperature in San Fernando del Valle de Catamarca over a certain period:
  
  
  
-By analyzing the graph data, answer:
-(a) What is the maximum and minimum temperature in degrees Farenheit? 
-(b) What is the temperature difference between 8am and 12 noon in OF and 
-ºK? 
-(c) What is the average temperature in oC, oF and oK?
+Analyzing the data in the chart, answer:
+a) What are the maximum and minimum temperatures in degrees Fahrenheit?
+b) What is the temperature difference between 8 a.m. and noon in °F and
+ºK?
+c) What is the average temperature in °C, °F, and K?
 
 
 <!--fig:start-->
@@ -9815,8 +9583,6 @@ By analyzing the graph data, answer:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q123" data-atom="q123" data-title="Argentina 1996 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
@@ -9857,21 +9623,18 @@ Qual è il calore specifico dell'alluminio? (Supponiamo che non ci sia perdita d
 
 <div class="qlang-split" data-lang="en"></div>
 
-123. San Fernando from the Catarina Valley, Catarina. Blue. 
+123. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. BLUE.
  
  
-When 100 gr. The aluminium is heated to 100 °C and is introduced in 500 grams. water
-Initially at 18,3 °C, the final temperature of the balanced mixture is 21,7 °C. 
+When 100 g of aluminum are heated to 100º°C and placed into 500 g of water initially at 18,3º°C, the final temperature of the equilibrium mixture is 21,7 º°C.
  
-What is the specific heat of aluminum? (Suppose there is no heat loss outward)
+What is the specific heat of aluminum? (Assume that there is no heat loss to the outside.)
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q124" data-atom="q124" data-title="Argentina 1996 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono"></span>
 
@@ -9914,22 +9677,19 @@ b) Quanto carbone con calore di combustione di 7.10 cal/g fornirà tale calore?
 
 <div class="qlang-split" data-lang="en"></div>
 
-124. San Fernando from the Catarina Valley, Catarina. Blue. 
+124. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. BLUE.
  
  
-The walls of a building are solid concrete, its thickness is 28 cm and its total area of 
-450cm. If the average temperature difference in winter is 10oC
-(a) How much heat is transmitted per day? (Conductivity of the concrete 2. 
-10 cal/scm.oc)
-(b) How much coal with a combustion heat of 7.10 cal/g will this heat provide?
+The walls of a building are made of solid concrete; their thickness is 28 cm and their total area is 450 cm. If the average temperature difference in winter is 10º°C
+a) What quantity of heat is transferred per day? (Thermal conductivity coefficient of concrete 2.
+10 cal/s·cm·°C
+b) How much coal with a heat of combustion of 7.10 cal/g will provide this heat?
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q125" data-atom="q125" data-title="Argentina 1996 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor,object/tank-container"></span>
 
@@ -9982,15 +9742,12 @@ Supponendo che la resistenza non varia con la temperatura, quanto vale la R. ?
 
 <div class="qlang-split" data-lang="en"></div>
 
-125. The rocks, boy. 
+125. BARRANQUERAS, CHACO.
  
  
-How long a circulating water heater of P=9 Kw must be connected if it is to be filled 
-A container with 200 kg of water at 37°C ? The temperature at which the water enters is 12°C and the temperature at which the water enters is 12°C.
-the heat output of the heater is 0.78. 
+How long must a circulating water heater with P=9 kW be connected if a container holding m=200 kg of water is to be filled to 37º°C? The water enters at 12º°C, and the thermal efficiency of the heater is 0.78.
  
-What's the current value if the voltage is 220 V? ? 
-Assuming the resistance doesn't vary with temperature, what's the R worth? ? 
+What is the current value if the voltage is 220 V? Assuming the resistance does not vary with temperature, what is the value of R?
  
 
  
@@ -10001,8 +9758,6 @@ Assuming the resistance doesn't vary with temperature, what's the R worth? ?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q126" data-atom="q126" data-title="Argentina 1996 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/rigid-body-statics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/rope-string,object/calorimeter"></span>
 
@@ -10441,42 +10196,32 @@ MN= 28 g/mol
 
 <div class="qlang-split" data-lang="en"></div>
 
-131. It's the Hunkul Square, New York. Green. 
+131. PLAZA HUINCUL, NEUQUÉN. GREEN.
  
-Another gas to suffer a little...
- 
- 
-A cylindrical (diabatic) container has a spherical ampoule inside it (with the
-The radius of the spheres …! is 5 cm, the latter with gaseous oxygen at 25 °C and 1.3 atmospheres (the system of 
-the ampoule is adiabatic). The rest of the cylinder is filled with nitrogen closed by a moving piston (a 
-the height of the sphere) of 8000 grams (with a radius of 53,7 mm). Let 's say the atmospheric pressure .
-of 110 kPa. When the gas is heated from 30 ° C to 100 ° C, the piston is raised 20 cm. 
- 
-From that point on, the piston is secured in that place (leaving it fixed) by descending the piston.
-Piston temperature back to its original value. If the gases behave ideally,
-Answer: 
-(a) What is the difference between the heat received in the process and the heat lost during the process?
-cooling ? 
-(b) The cylinder then maintains its temperature, with a pressure of 5 atmospheres. Magically (that
-The inside container (I don't want to write again bottle…Uy !) breaks and the remains 
-They occupy 5% of the cylinder; the temperature evolves to 43 or C. What's the pressure now on the
-inside the cylinder ? 
-(c) What is the mass of each gas? 
+Another one of gases to suffer a little...
  
  
-Useful data: 
+A cylindrical (adiabatic) vessel contains inside it a spherical ampoule (there you go with the spheres…!) with a radius of 5 cm; this ampoule holds gaseous oxygen at 25 °C and 1.3 atmospheres (the ampoule system is adiabatic). The rest of the cylinder is filled with nitrogen, closed off by a movable piston (at the level of the sphere) weighing 8000 grams (with a radius of 53.7 mm). Suppose the atmospheric pressure is 110 kPa. When the gas is heated from 30 ° °C to 100 ° °C, the piston rises by 20 cm.
  
-The following table shows the results of the calculation:
+From that moment on, the piston is secured in that position (leaving it fixed) by lowering the piston's temperature back to its original value. If the gases behave ideally, respond:
+a) What is the difference between the heat received in the process and the heat lost during the
+cooling?
+b) Then the cylinder maintains its temperature, with a pressure of 5 atmospheres. Magically (May
+Well!) The inner vessel (I don't want to write "ampolla" again… Oops!) breaks, and the debris occupies 5% of the cylinder; the temperature evolves to 43 º C. What is the pressure now inside the cylinder?
+c) What mass of each gas is present?
  
-MN = 28 g/mol
+ 
+Useful information:
+ 
+MO = 32 g/mol
+ 
+MN= 28 g/mol
 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q132" data-atom="q132" data-title="Argentina 1996 Locale — Quesito 132" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi"></span>
 
@@ -10529,14 +10274,10 @@ e cadono, una volta che si è riposato nel lago e ha consegnato la sua energia a
 
 <div class="qlang-split" data-lang="en"></div>
 
-132. I'm not going to be able to help you. Blue and green. 
+132. AGUILARES, TUCUMÁN. BLUE AND GREEN.
  
  
-An erupting volcano, H=500m high, throws a 200kg rock so it rises
-h= 100m in the air and from there falls into a lake containing a water-ice system in the state of 
-The merger. The rock has a temperature of 500°C and its specific heat is 0,3 cal/g °C. What amount?
-The ice is melted if the rock is not considered to exchange heat with the environment during its ascent.
-And fall, once it's rested inside the lake and delivers its energy to that system?
+An erupting volcano, with a height of H = 500 m, ejects a 200 kg rock so that it rises h = 100 m into the air and from there falls into a lake containing a water-ice system in a state of melting. The rock has a temperature of 500°C and a specific heat capacity of 0.3 cal/g °C. How much ice does it manage to melt, assuming that the rock does not exchange heat with the surroundings during its ascent and descent and that, once it comes to rest inside the lake, it transfers its energy to that system?
 
 
 <!--fig:start-->
@@ -10548,8 +10289,6 @@ And fall, once it's rested inside the lake and delivers its energy to that syste
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q133" data-atom="q133" data-title="Argentina 1996 Locale — Quesito 133" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens"></span>
 
@@ -10612,21 +10351,18 @@ E' il schema a scala.
 
 <div class="qlang-split" data-lang="en"></div>
 
-133. Pain, good air. Blue and green. 
+133. DOLORES, BUENOS AIRES. BLUE AND GREEN.
  
  
-The radii of curvature of a biconvex lens are 18cm and 20cm . Knowing that when a
-Object is located at a distance of 24cm from it , a real image is formed at 32cm from it ,
-calculate: 
-The focal length . 
+The radii of curvature of a biconvex lens are 18 cm and 20 cm. Given that when an object is placed at a distance of 24 cm from the lens, a real image is formed at a distance of 32 cm from the lens, calculate: a) the focal length.
  
-The refractive index of the lens. 
+b_The refractive index of the lens.
  
-The power of the lens. 
+The Power of the Lens.
  
-d_The relationship between the height of the object and the image. 
+d_The relationship between the heights of the object and the image.
  
-The scale scheme. 
+e_The scaled diagram.
 
  
 - 39 -
@@ -10636,8 +10372,6 @@ The scale scheme.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q134" data-atom="q134" data-title="Argentina 1996 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror,object/tank-container"></span>
 
@@ -10678,21 +10412,16 @@ finché non ritorna in onda. A che distanza dal bordo destro lo fa?
 
 <div class="qlang-split" data-lang="en"></div>
 
-134. San Fernando from the Catarina Valley, Catarina. Blue. 
+134. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. AZUL.
  
  
-Given that the bottom of the fish tank is mirrored, the path of the light beam continues.
-Until it's back on the air. How far from the right edge does it go?
-
-
+Given that the bottom of the fish tank is mirrored, trace the path of the light ray until it emerges back into the air. How far from the right edge does it do so?
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q135" data-atom="q135" data-title="Argentina 1996 Locale — Quesito 135" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
@@ -10743,26 +10472,23 @@ c) Se continua a camminare, rischia di essere vittima di un attacco termonuclear
 
 <div class="qlang-split" data-lang="en"></div>
 
-135. San Fernando from the Catarina Valley, Catarina. Blue. 
+135. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. BLUE.
  
  
-A convex spherical mirror, whose radius of curvature is r=40cm. It's used to focus sunlight on its focus. 
+A convex spherical mirror with a radius of curvature of r = 40 cm is used to concentrate sunlight at its focal point.
  
-When the device is armed, an accidentally 0.4cm fly is placed on the axis of the device.
-mirror and 30cm from the top. 
-(a) Find: size, position, orientation and nature of the image. 
-(b) The fly walks along the axis approaching the mirror . Indicate the changes that the
-The image. 
-(c) If you persist in your walk, are you at risk of being the victim of a thermonuclear attack?
-- The alien? - Explain that.
+When the device is assembled, a 0.4 cm fly accidentally lands on the mirror's axis, 30 cm from the vertex.
+a) Determine: size, position, orientation, and nature of the image.
+b) The fly walks along the axis, approaching the mirror. Indicate the changes that the  undergoes
+image.
+c) If they persist in their walk, are they at risk of being a victim of a thermonuclear attack?
+Extraterrestrial? Explain.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q136" data-atom="q136" data-title="Argentina 1996 Locale — Quesito 136" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
 
@@ -10987,19 +10713,16 @@ Determinare il tipo di specchio sferico da cui occorre accedere e la distanza da
 
 <div class="qlang-split" data-lang="en"></div>
 
-138. Moron, good weather. 
+138. MORÓN, BUENOS AIRES.
  
  
-The image of a lamp, amplified 5 times, is to be projected onto a wall located 4 meters away. 
-Determine the type of spherical mirror to be specified and the distance to be placed.
+It is desired to project the image of a lamp, magnified fivefold, onto a wall located 4 m from the lamp. Determine the type of spherical mirror required and the distance at which it must be placed.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q139" data-atom="q139" data-title="Argentina 1996 Locale — Quesito 139" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
@@ -11042,22 +10765,16 @@ al di fuori dello specchio e a 30 cm dal vertice. Trovare posizione, dimensione,
 
 <div class="qlang-split" data-lang="en"></div>
 
-139. Red, good air. Blue. 
+139. ROJAS, BUENOS AIRES. AZUL.
  
  
-A spherical mirror, concave, whose radius of curvature is 40cm, is used to concentrate light from the sun.
-Sun in its spotlight. When the device is armed, an accidental 0.4cm fly lands on the shaft.
-from the mirror and 30cm from the top. Find the position, size, orientation and nature of the image. 
-1) The fly walks along the axis approaching the mirror. Indicate the changes in its image. 
-2) To continue on your journey: Is there a risk of a thermonuclear attack? Explain
+A concave spherical mirror with a radius of curvature of 40 cm is used to concentrate sunlight at its focal point. When the device is set up, a fly measuring 0.4 cm accidentally lands on the mirror's axis, 30 cm from the vertex. Determine the position, size, orientation, and nature of the image. 1) The fly walks along the axis toward the mirror. Indicate the changes that its image undergoes. 2) If it continues walking, is it at risk of being a victim of a thermonuclear attack? Explain.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q140" data-atom="q140" data-title="Argentina 1996 Locale — Quesito 140" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
@@ -11333,30 +11050,21 @@ Supponendo che il fascio si muova in piano verticale, calcolare:
 
 <div class="qlang-split" data-lang="en"></div>
 
-142. Federal capital. Green. 
+142. CAPITAL FEDERAL. GREEN.
  
  
-The K cannon emits a laser beam parallel to the main axis of the L lens at a distance of 5 .
-- It's about a centimeter. 
+Cannon K emits a laser beam parallel to the principal axis of lens L at a distance of 5 cm from that axis.
  
-After refraction in the lens (power = - 10 dioptrias , assuming negligible thickness ), the
-The beam hits an ABC prism, isosceles rectangle, at the midpoint of the face AB (four cm from the
-length ), which through a total reflection emerges from the AC face to impact the E mirror , whose 
-The centre is 1 m from the optical centre and on the main lens axis , supported on the J axis (J belongs to 
-the horizontal plane). 
+After refraction by the lens (power = -10 diopters; assume the thickness is negligible), the ray strikes an isosceles right-angled prism ABC at the midpoint of face AB (4 cm in length); by total internal reflection, it emerges through face AC and strikes mirror E, whose center is 1 m from the optical center and lies on the principal axis of the lens, with the mirror supported on axis J (J belongs to the horizontal plane).
 
  
 - 41 -
  
-The mirror is moved by the R lever which only raises it 10° at the maximum point of its rotation. 
+The mirror is moved by cam R, which only raises it 10° at the maximum point of its rotation.
  
-The reflected beam then barred the cylindrical surface S whose radius is 0.5 m with centre 
-en J. 
+The reflected ray consequently sweeps across the cylindrical surface S, which has a radius of 0.5 m and a center at J.
  
-Assuming that the beam is moving in the vertical plane, calculate: 
-1o) The x- and A-vertical coordinates of the prism with respect to the lens. 
-2o) The slope of the hypotenuse BC with respect to the main lens axis. 
-3°) The length z of the arc being swept on the surface S.
+Assuming that the beam moves in the vertical plane, calculate: 1º ) The x ; y coordinates of vertex A of the prism relative to the lens. 2º ) The inclination & of the hypotenuse BC relative to the principal axis of the lens. 3º ) The length z of the arc swept on surface S.
 
 
 <!--fig:start-->
@@ -11368,8 +11076,6 @@ Assuming that the beam is moving in the vertical plane, calculate:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]], [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q143" data-atom="q143" data-title="Argentina 1996 Locale — Quesito 143" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
 
@@ -11416,24 +11122,20 @@ c) Verificare graficamente i risultati.
 
 <div class="qlang-split" data-lang="en"></div>
 
-143. Federal capital. Blue and green. 
+143. CAPITAL FEDERAL. BLUE AND GREEN.
  
  
-A 1 cm long nail is placed vertically 80 cm from a screen. 
-(a) In which position/positions shall a convergent lens with a focal length of 10 cm be placed for 
-That the image of the nail is formed on the screen? 
-(b) What is the relationship between the nail sizes and its image in that/those positions/positions? 
-(c) Graphically verify the results.
-
-
+A nail 1 cm long is positioned vertically 80 cm from a screen.
+a) In which position(s) will a converging lens with a focal length of 10 cm have to be placed in order to
+That the image of the nail is formed on the screen?
+b) What is the relationship between the sizes of the nail and its image at that/those position(s)?
+c) Verify the results graphically.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q144" data-atom="q144" data-title="Argentina 1996 Locale — Quesito 144" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens"></span>
 
@@ -11516,29 +11218,25 @@ Qual è la distanza più breve che permette a Fernando di leggere lettere con gl
 
 <div class="qlang-split" data-lang="en"></div>
 
-144. The Rosary of Holy Faith, Holy Faith. Blue and green. 
+144. ROSARIO DE SANTA FE, SANTA FE. BLUE AND GREEN.
  
  
-Paul and Ferdinand have different vision defects. Pablo is hypertrophic and Fernando has.
-Myopia. Using your glasses you see as a person with normal vision who can see clearly a person.
-object located 25 cm in front of the eye. 
+Pablo and Fernando have different vision defects. Pablo is hyperopic, and Fernando is myopic. When wearing their glasses, they see as a person with normal vision would—that is, they can see clearly an object located 25 cm in front of the eye.
  
-(a) If the objective of the lens in the hypermeter is to remove the image of the object, which is 25 cm away 
-What kind of lens does Paul use? Justify your answer .
-using the mathematical expression for thin lenses. 
+a) If, in the hyperopic eye, the lens's function is to move the image of the object, which is located at 25 cm, farther away
+of the eye, so that he can see it clearly. What type of lens does Pablo use? Justify your answer using the mathematical expression for thin lenses.
  
-It schematizes the path of the rays when the correction lens is interspersed. 
+Sketch the path of the rays when the correction lens is inserted.
 
  
 - 42 -
-(b) What kind of lens does Fernando use, if for a nearsighted eye, the closest point at which he can 
-If a clear image is formed in the retina, it's closer than a person with vision.
-- What ? Justify your answer and outline the trajectory of the lightning. 
+b) What type of lens does Fernando use, if, for a myopic eye, the nearest point at which it can
+Is the point at which a clear image is formed on the retina closer than it is for a person with normal vision? Justify your answer and sketch the path of the rays.
  
-(c) Once, they accidentally changed their glasses. Paul wearing Fernando's glasses, he noticed.
-It can see clearly only objects that are extremely distant. 
+c) Once, by chance, they swapped glasses. Pablo, wearing Fernando's glasses, noticed
+That can clearly see only objects that are extremely distant.
  
-What is the shortest distance that allows Fernando to read small letters with Paul's glasses?
+What is the shortest distance that enables Fernando to read small letters with Pablo's glasses?
 
 
 <!--fig:start-->
@@ -11550,8 +11248,6 @@ What is the shortest distance that allows Fernando to read small letters with Pa
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q145" data-atom="q145" data-title="Argentina 1996 Locale — Quesito 145" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono"></span>
 
@@ -11594,22 +11290,18 @@ Il valore della larghezza dell'onda di pressione per questi due casi e la compar
 
 <div class="qlang-split" data-lang="en"></div>
 
-145. General Alvear, the man. Green. 
+145. General Alvear, Mendoza. Green.
  
  
-The maximum intensity tolerated by the human ear for a frequency of 1000 Hz is 
-approximately 1 watt/m2. 
+The maximum intensity that the human ear can tolerate at a frequency of 1000 Hz is approximately 1 watt/m².
  
-The minimum you can detect for that same frequency is about 10-12 watts/m2. Calculate the 
-The pressure wave amplitude value for those two cases and compare it with atmospheric pressure.
+The minimum it can detect at that same frequency is around 10–12 watts/m². Calculate the value of the pressure wave amplitude for those two cases and compare it with atmospheric pressure.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q146" data-atom="q146" data-title="Argentina 1996 Locale — Quesito 146" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/gas,object/piston,object/lens"></span>
 
@@ -11900,128 +11592,90 @@ Tamb = 17 oC
 
 <div class="qlang-split" data-lang="en"></div>
 
-146. Federal capital. Green. 
+146. CAPITAL FEDERAL. GREEN.
  
  
-A car lift system consists of two rails supported on four piston engines.
-at their ends as shown in Figure 1. 
+A system for lifting automobiles consists of two rails supported on four pistons located at their ends, as shown in Figure 1.
  
-Pistons have oxygen (O2) inside, which when heated expands and raises the rails. 
+The pistons contain oxygen (O2) inside them; when heated, the oxygen expands and raises the rails.
  
-Figure 2 shows the piston. 
+Figure 2 shows the piston.
  
-The surface S1 is the one that supports the rails. The surface S2 is circular and is at 
-contact with O2. Its diameter is the same as that of the piston and is F = 55 cm. 
+Surface S1 is the one that rests on the rails. Surface S2 is circular and is in contact with O2. Its diameter is the same as that of the piston and is F = 55 cm.
  
-The process is as follows: 
+The process is as follows:
  
  
-Initially O2 is at atmospheric pressure and room temperature of 17°C, so 
-The piston does not exert any force on the rail. 
+Initially, O2 is at atmospheric pressure and an ambient temperature of 17º°C, so the piston exerts no force on the rail.
  
  
-When a car needs to be lifted, methane gas is burned at a rate of 0.5 g/s. (the methane)
-has a combustion heat of 50 cal/g). This raises the O2 pressure until its increase is equal.
-the pressure exerted by the car on the piston (constant volume compress). 
+When a car needs to be lifted, methane gas is burned at a rate of 0.5 g/s (methane has a heat of combustion of 50 cal/g). This raises the pressure of the O2 until its increase equals the pressure exerted by the car on the piston (constant-volume compression).
  
  
-From this point on, the piston begins to rise to the maximum height that it is.
-20 cm above the initial (expansion under constant pressure). 
+From this moment on, the piston begins to rise until it reaches its maximum height, which is 20 cm above the initial height (expansion at constant pressure).
  
-Calculation: 
- 
- 
-a. The mass of O2 knowing its molecular weight is MO2 = 32 g/mol. 
+Calculate:
  
  
-b. If the car weighs 10,000 N, and disregarding the mass of the rails and piston, find the
-The time it took from the time methane was started to burn until the car started to burn.
+a. The mass of O2, given that its molecular weight is MO2 = 32 g/mol.
+ 
+ 
+b. If the automobile weighs 10,000 N, and neglecting the mass of the rails and the piston, find the
+The time required from the moment methane combustion began until the car started to
 
  
 - 43 -
-The heat is then absorbed by the O2 h=100%. 
+Rise (it is assumed that all the heat released by methane is absorbed by O2, h=100%).
  
  
-c. Find the temperature of the O2 once the car reaches its maximum height. 
+c. Find the temperature of O2 once the car has reached its maximum altitude.
  
  
-d. Find the time it takes from when methane was started to burn to when the car was
-reached its maximum height. 
+d. Find the time required from the moment methane combustion began until the car
+It reached its maximum height.
  
  
-e. Perform an expansion diagram in a graph p=f(V). 
+e. Draw a diagram of the expansion on a p=f(V) graph.
  
-Once the car is raised, the lights are tested. These are built of mirrors .
-Contain yourself with a lamp placed in its focus so that the light rays emerge parallel.
-each other. However, if the lamp is running from the focus of the mirror, the rays will not come out parallel to each other.
-sí. 
+Once the car has been raised, its lights are tested. These lights are made up of concave mirrors with a lamp placed at their focal point in such a way that the light rays emerge parallel to one another. If, however, the lamp is displaced from the mirror's focal point, the rays will not emerge parallel to one another.
  
-A convergent lens is placed 40 cm in front of the car (50 cm in front of the mirror focus 
-I was a convalescent. A white screen is placed on the focal plane of the lens and the image is observed. If this is it .
-A spot image is because the lamp is well placed, but if the image is a spot
-The light is bright because the lamp is not in the focus of the mirror. 
+A converging lens is placed 40 cm in front of the car (50 cm in front of the focal point of the concave mirror). A white screen is placed in the focal plane of the lens, and the image is observed. If this is a point image, it means the lamp is positioned correctly; on the other hand, if the image is a bright spot, it is because the lamp is not at the focal point of the respective mirror.
  
-This is how the car's headlights are tested and it is observed that using a convergent lens of 50
-The focal length of the screen is about 10 cm. 
+This is how automobile headlights are tested, and it is observed that, when a converging lens with a focal length of 50 cm is used, a luminous spot 10 cm in diameter is formed on the screen.
  
-Figure 3 shows the assembly of the test system. 
+Figure 3 shows the assembly of the test system.
  
-The concave mirror has a radius of 40 cm. 
+The concave mirror has a radius of 40 cm.
  
-Find out: 
+Find:
  
  
-f. How far from the converging lens should the screen be placed to view an image 
-I'm on time. 
+f. At what distance from the converging lens should the screen be placed to view a point image?
  
  
-g. What is the focus of the mirror and the radii of curvature of the lens assuming they are both 
-The glass refractive index is n=1,5. 
+g. What is the focal point of the mirror and the radii of curvature of the lens, assuming that both are equal and that the refractive index of the glass is n=1.5?
  
  
-h. What is the x distance that the lamp must be moved forward to place it in the focus of the mirror. 
-The data: 
+h. What is the distance x by which the lamp must be advanced to place it at the focal point of the mirror? Data:
  
-R = 8,3 
-J
-Other
-K
-⋅
+R = 8.3 J mol K⁻¹
  
  
  
  
  
  
-Cv
-= 0,155   
-(02)
-Cal
-g
-K
-⋅
+Cv = 0.155 (02) cal g K ⋅
  
  
  
  
  
-p
-=  101300 N / m
-Other
-2  
-Mr
-g / mol
-02 = 32
+p = 101300 N/m atm 2 Mr g/mol 02 = 32
  
-Cp
-= 0,218   
-(02)
-Cal
-g
-K
-⋅
+Cp = 0.218 (02) cal g K ⋅
  
-Tamb = 17 oC
+Tamb = 17 ºC
  
  
 
@@ -12038,8 +11692,6 @@ Tamb = 17 oC
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q147" data-atom="q147" data-title="Argentina 1996 Locale — Quesito 147" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor,object/tank-container"></span>
 
@@ -12325,30 +11977,22 @@ Calore latente di evaporazione dell'acqua: 80 Cal/g
 
 <div class="qlang-split" data-lang="en"></div>
 
-149. Federal capital. Blue and green. 
+149. CAPITAL FEDERAL. BLUE AND GREEN.
  
  
-You want to evaporate 0.25 liters of water in less than 5 minutes. You have a battery of 
-10 ohms. 
+You want to evaporate 0.25 liters of water in less than 5 minutes. To do this, you have a 10-ohm battery at your disposal.
  
-1) How long would it take you to use only one resistance? 
-2) What is the resistance setting you should use to evaporate water in less?
-five minutes? How many resistors did you use? 
-3) Based on the above configuration, how long would it take to evaporate all the water? 
+1) How long would it take you if you used only one resistor?
+2) What is the resistor configuration you should use to achieve evaporation of the water in less than
+5 minutes? How many resistors did you use? 3) According to the previous setup, how long would it take you to evaporate all the water?
  
-Data from the report 
-Density of water: 1 kg/l 
-Specific water heat: 1 cal/g
-1 Cal = 4,16 J 
-Latent heat of evaporation of water: 80 Cal/g
+Data: Water density: 1 kg/L; Specific heat of water: 1 Cal/g °C; 1 Cal = 4.16 J; Latent heat of vaporization of water: 80 Cal/g
 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q150" data-atom="q150" data-title="Argentina 1996 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas,object/cylinder,object/resistor"></span>
 
@@ -12465,27 +12109,21 @@ V = 90V
 
 <div class="qlang-split" data-lang="en"></div>
 
-150. Quilmes, good weather. Blue. 
+150. QUILMES, BUENOS AIRES. AZUL.
  
  
-A cylinder 1m high and 30 cm in diameter contains 100g of nitrogen at 20oC. El 
-container has a resistance inside which is connected to a circuit with a 100V fem. 
+A cylinder 1 m high and 30 cm in diameter contains 100 g of nitrogen at 20º°C. Inside the container, there is a resistor connected to a circuit with an electromotive force of 100 V.
  
-The current circulates for five minutes. 
-How much is the heater's resistance? 
-What's the pressure inside the container after 5 minutes? 
-Consider that 85% of the heat emitted by the resistance is reversed in the heating of the gas. 
+The current flows for 5 minutes. What is the resistance of the heater? What is the pressure inside the vessel after 5 minutes? Assume that 85% of the heat released by the resistor is used to heat the gas.
  
-The following table shows the results of the calculation:
-CV 
-g ºC 
+cp N2: 0.172 cal CV g ºC
  
  
  
  
  
  
-The following data are collected: 
+Circuit data:
  
  
  
@@ -12496,7 +12134,7 @@ The following data are collected:
  
  
  
-A = 2A 
+A = 2A
  
  
  
@@ -12509,15 +12147,11 @@ A = 2A
  
 V = 90V
 
-
-
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q151" data-atom="q151" data-title="Argentina 1996 Locale — Quesito 151" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/resistor,object/lens,object/capacitor"></span>
 
@@ -12628,43 +12262,28 @@ C1 = 4 µF   C2 = 4 µF   C3 = 12µF
 
 <div class="qlang-split" data-lang="en"></div>
 
-151. Federal capital. 
+151. CAPITAL FEDERAL.
  
  
-In a DC electrical installation of a Physics Laboratory powered by a
-The 200 V generator is tested simultaneously: 
-A) A resistance heater Ro = 20 W, is used to determine the melting heat of water. For 
-This is a 1 kg piece of ice extracted from a freezer that keeps the temperature at -18°C.
-C. Despite the loss of transport, it is placed within a team that takes advantage of 70% of the
-heat delivered by the heater. After 7 minutes, the temperature of the water is checked.
-de 52ºC. What has been the melting heat of the ice obtained in practice? 
-The specific heat of the ice = 0,53 cal/g.oC 
-The specific heat of the water = 1 cal/g.oC 
-1 Joule = 0.24 cal
+In a direct-current electrical installation in a Physics Laboratory, powered by a 200 V generator, two experiments are carried out simultaneously:
+A) A resistance heater with Ro = 20 W is used to determine the heat of fusion of water. For
+Hello, there is a 1 kg piece of ice taken from a freezer that maintains the temperature at -18º.
+C. Disregarding the transfer losses, it is placed within a system that utilizes 70% of the
+Heat delivered by the heater. After 7 minutes, it is found that the water temperature is 52º°C. What was the heat of fusion of the ice obtained in the experiment? Specific heat capacity of ice = 0.53 cal/g·°C; specific heat capacity of water = 1 cal/g·°C; 1 joule = 0.24 cal
 
  
 - 46 -
  
-(b) An optical equipment composed of a 30 mW output power laser with a performance of 
-0,5 % is used to determine the refractive index of a lens. 
+B) An optical system consisting of a laser with an output power of 30 mW and an efficiency of
+0.5% is used to determine the refractive index of a lens.
  
  
  
  
-Find out: 
-• a) Focus of the convergent lens A 
-• (b) If the lens has a radius of 4 cm, what is the refractive index of the lens? 
+Find: • a) Focal point of converging lens A • b) If the radii of the lens are 4 cm, what is its refractive index?
  
-C) A combination of resistors and capacitors is available, one of which, C3, is used for combustion.
-Test the relationships between magnitudes 
-electrical connections to capacitors. 
-(c1) Find the voltage indicated on the voltmeter 
-Digital (Winter considered infinite) and 
-calculate the electrical load on the plates. 
-(c2) If the distance between C3 plates is d 
-= 1mm; find the electric field 
-(c3) Find the equivalent capacity. 
-C1 = 4 µF   C2 = 4 µF   C3 = 12µF
+C) There is a combination of resistors and capacitors, one of which, C3, is used for com-
+Test the relationships between the electrical quantities associated with the capacitors. c1) Determine the voltage indicated on the digital voltmeter (internal resistance considered infinite) and calculate the electric charge on the plates. c2) If the distance between the plates of C3 is d = 1 mm, find the electric field. c3) Find the equivalent capacitance. C1 = 4 µF, C2 = 4 µF, C3 = 12 µF
 
 
 <!--fig:start-->
@@ -12676,8 +12295,6 @@ C1 = 4 µF   C2 = 4 µF   C3 = 12µF
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Lens (object)|Lens]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q152" data-atom="q152" data-title="Argentina 1996 Locale — Quesito 152" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor,object/wire"></span>
 
@@ -12776,50 +12393,21 @@ Problemi sperimentali. LUOGIO E CATEGORIA.
 
 <div class="qlang-split" data-lang="en"></div>
 
-152. St. Teresa, good weather. 
+152. SANTA TERESITA, BUENOS AIRES.
  
  
-An electric heater  to resistance  is built, with a 6 cm wire. of length; 0,3 
-mm diameter, of a material whose specific resistance at 20 oC is r: 0,1 mm
-m
-2 and whose coefficient 
-The temperature is a: 5 . 10-3 . 
-1
-C
-O
-  . 
-This resistance shall be connected to the 200 V line and may be assumed to operate at 800 oC. 
-You want to know: 
-1) What will be the value of the resistance in operation ? 
-2) What will be the intensity of the flow ? 
-3) What power dissipates ? 
-If we use this heater to heat 1 litre of water from 20 oC to 85 oC, knowing that the
-The product is made of aluminium and weighs 300 grams, with CeH2O: 1 
-Cal
-gr
-C
-o⋅
-and CeAl: 0.22
-Cal
-gr. C
-o
-And also, that 
-40% of the heat produced is lost by conduction, convection and radiation: 
-4) How long does it take to warm the water ? 
+An "resistive" electric heater is constructed using a wire 6 cm long and 0.3 mm in diameter, made of a material whose resistivity at 20 º°C is r: 0.1 mm²/m and whose temperature coefficient is a: 5 × 10⁻³ /°C. This resistor will be connected to the 200 V line, and it can be assumed that it will operate at 800 º°C. The following are to be determined: 1) What will be the value of the resistance in operation? 2) What will be the current flowing through it? 3) What power will it dissipate? If, with this heater, we intend to heat 1 liter of water from 20 º°C to 85 º°C, knowing that the kettle containing the water is made of aluminum and weighs 300 g, with CeH2O: 1 cal/g·°C and CeAl: 0.22 cal/g·°C, and also that 40% of the heat produced is lost by conduction, convection, and radiation: 4) How long will it take for the water to heat up?
  
 
  
 - 47 -
-Local instances. 
-The problem is experimental. Location and category.
+Local Instances. Experimental Problems. Place and Category.
 
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q153" data-atom="q153" data-title="Argentina 1996 Locale — Quesito 153" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/mirror,object/screen"></span>
 
@@ -13065,32 +12653,27 @@ la misurazione effettuata. Preparare un rapporto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-154. - Good weather. Blue. 
+154. NAVARRO, BUENOS AIRES. AZUL.
  
  
-The springs have a restorative force which makes the spring always close to its
-the originating position. 
+Springs have a restoring force, which causes the spring to always tend toward its original position.
  
-The restorative force is variable and depends on a constant of elasticity (K) and the
-The output of the spring from its starting position (XO) is given by the formula: F= -K.XO 
+The restoring force is variable and depends on an elasticity constant (K) and on the stretch of the spring from its original position (XO); in formula: F = -K.XO
  
-The elasticity constant of a spring is to be determined. Only the following are available 
-elements to do so: 
+If you wish to determine the spring constant of a spring, only the following items are available for doing so:
  
-A spring, weights, millimeter paper, vertical support. 
+A spring, weights, graph paper, a vertical support.
  
-(a) Propose a method to do so 
+a) Propose a method for doing it
  
-(b) Develop the procedure indicated and determine the constant indicating the error or uncertainty of the
-the measurement carried out. Make a report.
+b) Develop the indicated procedure and determine the constant, stating the error or uncertainty of
+The measurement has been carried out. Prepare a report.
 
 **Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q155" data-atom="q155" data-title="Argentina 1996 Locale — Quesito 155" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile,object/screen"></span>
 
@@ -13271,91 +12854,77 @@ R)
 
 <div class="qlang-split" data-lang="en"></div>
 
-155. I'm going to be a little late. Blue and green. 
+155. ROSARIO DE SANTE FE, ROSARY. BLUE AND GREEN.
  
  
-Determination of the trajectory of a projectile in flight. 
+Determination of the trajectory of a projectile in flight.
  
  
-Record different points of the path described by a sphere on a screen, to: 
+Record different points on the path traced by a small sphere on a screen, for:
  
 
  
 - 48 -
  
-(a) Draw the curve that best fits the points marked once the operations are completed 
-of record. 
+a) Draw the curve that best fits the marked points once the operations are completed.
+of registration.
  
  
-(b) Determine the values of the range (R) and height (H) of the shot using the curve 
-It's experimental. 
+b) Determine the values of the range (R) and the height (H) of the shot using the curve
+experimental.
  
-(c) Drawing with the measured H and R values and the trajectory equation, the theoretical curve in the
-The same sheet where the experimental curve was recorded. 
- 
- 
-(d) To analyse possible differences and to draw the relevant conclusions. 
+c) Using the measured values of H and R and the trajectory equation, plot the theoretical curve in the
+The same sheet on which the experimental curve was recorded.
  
  
-Present the results in a report containing: 
+d) Analyze the possible differences and state the corresponding conclusions.
  
  
-* Description of the method used. 
+Present the results in a report that includes:
  
  
-The treatment of measured values and calculation of uncertainties. 
+* The description of the method used.
  
  
-* Results with their corresponding uncertainties. 
+* Treatment of measured values and calculation of uncertainties.
  
  
-Elements provided: 
+* The results with their corresponding uncertainties.
  
  
-The following table shows the number of rows of rows:
+Provided elements:
  
  
-* Screen with support 
+* Rail with support
  
  
-The following table shows the results of the calculation:
+* Screen with stand
  
  
-* White paper and carbon paper 
+* Esferita
  
  
-The following information shall be provided:
+* White paper and carbonic
  
  
-Useful information: 
+* Poster paper
  
  
-To record trajectory, place the screen perpendicular to the launch track. 
+Useful information:
  
  
-It displaces the screen in a parallel shape to its initial position, but by making a lateral run of 
-45°. 
+To record the trajectory, position the screen perpendicular to the launch track.
  
-The trajectory equation: 
-y
-H
-x
-R (1
-x
-R)
-=
-−
-4
-
-
+ 
+Displace the screen parallel to its initial position, but with a lateral shift of 45°.
+ 
+Trajectory equation: y H x R (1 x R) = −4
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Projectile (object)|Projectile]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q156" data-atom="q156" data-title="Argentina 1996 Locale — Quesito 156" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -13434,40 +13003,33 @@ densità del materiale e volume del materiale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-156. General Pico, the father. 
+156. GENERAL PICO, LA PAMPA.
  
  
-Determine the density (or specific weight) of a piece of material using the elements 
-solid - 
+Determine, using the available elements, the density (or specific weight) of a piece of solid material -
  
  
-The following is the list of the items available:
+AVAILABLE ELEMENTS
  
-A scale .
+A balance scale
  
-A graduated container in units of volume 
+A graduated container in units of volume
  
-A piece of material .
+A piece of material
  
-A container of water .
+A container with water
  
-Developing from experience 
-• Explain the methodology you will use to determine the density of the material. 
-• Experimentally determine the required values and calculate the density.
-• Estimate errors in measurements made.
+EXPERIENCE DEVELOPMENT • Explain the methodology to be used to determine the density of said material. • Determine the required values experimentally and calculate the density. • Estimate the errors made in the measurements carried out.
 
  
 - 49 -
-• Explain how you would perform a similar experiment for the purposes of determining the relationship between the
-density of the material and volume of the material.
+• Explain how you would carry out an experiment similar to those aimed at determining the relationship between the density of a material and its volume.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q157" data-atom="q157" data-title="Argentina 1996 Locale — Quesito 157" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -14177,70 +13739,55 @@ Peso specifico (Pe ) = Peso (P ) / Volume (V)
 
 <div class="qlang-split" data-lang="en"></div>
 
-158. - Rancul, the father. 
+158. REALICÓ - RANCUL, LA PAMPA.
  
-Determination of the density of a material 
-Using the available elements, determine the specific weight of a material 
+Determination of the Density of a Material: Using the available equipment, determine the specific weight of a material.
  
-Elements Available 
-Various bodies of the same material and different sizes (volumes) 
-Graduated samples in units of volume 
-A container of water .
-A scale .
-A little bit .
+Available Elements: Several bodies made of the same material but of different sizes (volumes); a graduated specimen in volume units; a container with water; a balance; a pipette
  
-Suggestions 
-Determine the Weight and Volume of each of the bodies available 
-Point values in the table below indicating the units used 
-Turn the values achieved on an axis system such as the one shown below 
+Suggestions: Determine the weight and volume of each of the available bodies; record the values in the table below, indicating the units used; plot the obtained values on a coordinate system such as the one shown below.
  
-Table of values 
-body 
-Mass 
-(        ) 
-volume 
-(        ) 
-1 
+Body Mass Values Table ( ) Volume ( ) 1st
  
  
-2 
+2
  
  
-3 
+3
  
  
-4 
+4
  
  
-5 
+5
  
  
-6 
+6
  
  
-7 
+7
  
  
-8 
+8
  
  
-9 
+9
  
  
-10 
+10
  
  
-11 
+11
  
  
-12 
+12
  
  
-13 
+13
  
  
  
-Graph: Weight - Volume
+Chart: Weight - Volume
  
  
  
@@ -14452,8 +13999,7 @@ Graph: Weight - Volume
  
  
  
-Help
-Specific weight (Pe) = Weight (P) / Volume (V) 
+Aids Specific weight (Pe) = Weight (P) / Volume (V)
  
 
  
@@ -14464,8 +14010,6 @@ Specific weight (Pe) = Weight (P) / Volume (V)
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q159" data-atom="q159" data-title="Argentina 1996 Locale — Quesito 159" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/galvanometer,object/wire,object/resistor"></span>
 
@@ -14502,19 +14046,16 @@ filo metallico di microme e regola, resistenza senza valore noto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-159. Armsstrong, Holy Faith. Blue. 
+159. ARMSTRONG, SANTA FE. BLUE.
  
  
-Establish the resistance measurement with the following materials: FEM 9V, Galvanometer, 
-Micromethane and regulated metal thread, resistance without known value.
+Determine the value of a resistance using the following materials: 9 V EMF, galvanometer, micrometer metal wire and ruler, and a resistance of unknown value.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Galvanometer (object)|Galvanometer]], [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q160" data-atom="q160" data-title="Argentina 1996 Locale — Quesito 160" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono,object/wire"></span>
 
@@ -14680,24 +14221,21 @@ Materiali: • Una moneta di \$1
 
 <div class="qlang-split" data-lang="en"></div>
 
-162. RAUCH, good weather. Blue. 
+162. RAUCH, BUENOS AIRES. AZUL.
  
-Objective: Determine the weight of the silver-colored part of the \$1 coin. Estimate the error made. 
-Materials: • A \$1 coin 
+Objective: To determine the weight of the silver-colored part of the coin of \$1. Estimar el error cometido. Materiales: • Una moneda de \$1
  
-• A coin of the same material as the gold part of the \$1. 
+• A coin made of the same material as the gold-colored part of the \$1 coin.
  
-• Millimeter sheet 
+• Millimeter paper.
  
-• A dynamometer
+• A dynamometer.
 
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q163" data-atom="q163" data-title="Argentina 1996 Locale — Quesito 163" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/slit"></span>
 
@@ -14734,19 +14272,16 @@ Come si potrebbe usare tale esperienza per determinare la lunghezza d'onda della
 
 <div class="qlang-split" data-lang="en"></div>
 
-163. Moron, good weather. 
+163. MORÓN, BUENOS AIRES.
  
  
-Suggest and conduct an interference experiment to determine that light is a phenomenon.
-How would this experience be used to determine the wavelength of red light?
+Suggest and carry out an interference experiment to determine that light is a wave phenomenon. How would such an experiment be used to determine the wavelength of red light?
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Slit (object)|Slit]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q164" data-atom="q164" data-title="Argentina 1996 Locale — Quesito 164" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
@@ -14805,17 +14340,15 @@ Preparare un rapporto
 
 <div class="qlang-split" data-lang="en"></div>
 
-164. Red, good air. Blue. 
+164. ROJAS, BUENOS AIRES. AZUL.
  
  
-The specific weight of a lead piece is required to be calculated.
-1 lead
+It is required to calculate the specific weight of a piece of lead. Provided: 1 plumb bob.
  
  
-1 dynamometer
-1 container of water 
+1 dynamometer, 1 container with water
  
-Preparation of a report 
+Prepare a report
  
  
 
@@ -14827,8 +14360,6 @@ Preparation of a report
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q165" data-atom="q165" data-title="Argentina 1996 Locale — Quesito 165" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/mirror,object/screen"></span>
 
@@ -15315,35 +14846,33 @@ Trova la distanza focale della lente convergente con il metodo che ritieni più 
 
 <div class="qlang-split" data-lang="en"></div>
 
-167. Federal capital. Blue and green. 
+167. CAPITAL FEDERAL. BLUE AND GREEN.
  
  
-Delivered items: 
+Elements delivered:
  
  
-Bank Optic 
+Optical Bench
  
-Lantern with elastic gum
+Lantern with Elastic Bend
  
-Lens with Portalente 
+Lens with Lens Portal
  
 Screen
  
-Object (Translucent screen with an arrow drawn) 
+Object (Translucent screen with an arrow drawn on it)
  
-Mirror .
+Mirror
  
-Millimeter rule
+Millimeter scale ruler
  
-Find the focal length of the converging lens using the method you deem most convenient.
+Determine the focal length of the converging lens using the method you consider most appropriate.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q168" data-atom="q168" data-title="Argentina 1996 Locale — Quesito 168" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -15551,64 +15080,59 @@ Materiali:
 
 <div class="qlang-split" data-lang="en"></div>
 
-169. I'm not going to be able to tell you what happened. Blue. 
+169. SAN MIGUEL DE TUCUMÁN, TUCUMÁN. BLUE.
  
  
-Determine the specific heat of a given sample. 
+Determine the specific heat of a given sample.
  
-Useful information: 
- 
- 
-c = Q / m D t 
- 
-c:Specific heat. 
+Useful information:
  
  
+c = Q / m D t
  
- 
- 
-Q: How much heat? 
+c: Specific heat.
  
  
  
  
  
-m: mass. 
+Q: Amount of heat.
  
  
  
  
  
-The following conditions shall apply: 
- 
- 
-p = Q / t 
+m: mass.
  
  
  
  
-d = m / V 
+ 
+t: temperature variation.
+ 
+ 
+p = Q / t
+ 
+ 
+ 
+ 
+d = m / V
  
 
  
 - 53 -
-Density of water: d = 1 g/cm3. 
+Density of water: d = 1 g/cm³.
  
-Present your findings in a report containing: 
+Present your results in a report that includes:
  
-a- Description of the measurement methods used. 
-b- Experimental values obtained by direct measurements made by you. 
-c- Treatment of measured values and their errors. 
-d- Final results with their corresponding errors. 
-Note: Consider the value of g = 10 m/s2. 
-Materials: 
+a- A description of the measurement methods used. b- The experimental values obtained from direct measurements carried out by you. c- The processing of the measured values and their errors. d- The final results together with their corresponding errors. Note: Consider the value of g = 10 m/s². Materials:
  
-- Bonsen engine power (25 + 3) cal/s. 
-- A support. 
-- A timepiece. 
-- A metal cloth with asbestos. 
-- A thermometer. 
-- A glass of graduated precipitation. 
+- Bonsen power burner (25 + 3) cal/s.
+- A support.
+- A stopwatch.
+- A metal cloth containing asbestos.
+- A thermometer.
+- A graduated precipitation vessel.
 - A glass rod.
 
 **Topic:** [[Thermodynamics]]
@@ -15616,8 +15140,6 @@ Materials:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q170" data-atom="q170" data-title="Argentina 1996 Locale — Quesito 170" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
@@ -15756,70 +15278,68 @@ Un bicchiere di precipitazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-170. I'm not going to be able to help you. Blue and green. 
+170. AGUILARES, TUCUMÁN. BLUE AND GREEN.
  
  
-Determine the energy per unit of time delivered by the heat source supplied. 
+Determine the energy per unit time delivered by the heat source provided to it.
  
  
-Present your findings in a report containing: 
- 
- 
- 
-- Description of the method used. 
- 
-- The exponential values obtained by direct measurements of the variables you consider. 
- 
- 
-- the processing of measured values and the calculation of errors. 
- 
- 
-- Graphic representation of the variables you considered. 
- 
- 
-- Final results with their corresponding errors. 
- 
- 
-Elements provided: 
+Present your results in a report that includes:
  
  
  
-A container with water. 
+- Description of the method used.
+ 
+- The exponential values obtained through direct measurements of the variables you consider.
  
  
-The following information is provided for the purpose of this Regulation: 
+- Processing of measured values and calculation of errors.
  
  
-* Vestag with ring. 
+- Graphical representation of the variables he/she considered.
  
  
-The following table shows the results of the analysis of the results of the analysis: 
+- The final results with their corresponding errors.
  
  
-The thermometer shall be the thermometer. 
+Supplied elements:
  
  
-A watch. 
+ 
+* A container with water.
  
  
-A little bit of a spit. 
+* Universal support.
  
  
-A glass of precipitate. 
+* Stem with ring.
  
  
-The size of the sample shall be determined by the following: 
+* Asbestos mesh.
  
  
-The following is the list of the parameters of the measurement:
+* Thermometer.
+ 
+ 
+* A clock.
+ 
+ 
+* A lighter.
+ 
+ 
+* A beaker.
+ 
+ 
+* Millimeter paper.
+ 
+ 
+* Ruler graduated in millimetres.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q171" data-atom="q171" data-title="Argentina 1996 Locale — Quesito 171" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
@@ -15894,38 +15414,25 @@ Calcolare il coefficiente di viscosità del liquido presente nel campione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-171. It's the Hunkul Square, New York. Green. 
+171. PLAZA HUINCUL, NEUQUÉN. GREEN.
  
-The other state of matter (a little liquid) was missing...
+The other state of matter was missing (a bit of liquids)...
  
-With the following materials: 
+With the following materials:
  
-• 10 spheres of metal. 
-• 1 vial with liquid. 
-• 1 Timekeeper 
-• 1 caliber. 
-• 1 Rule. 
-• 2 samples. 
+• 10 metal spheres. • 1 flask containing liquid. • 1 stopwatch. • 1 caliper. • 1 ruler. • 2 test tubes.
 
  
 - 54 -
-• 2 test tubes (and cork) 
-• 1 dynamometer 
-• 1 adhesive tape. 
-• 1 thread coil. 
-• 1 thermometer 
-• 1 pinch of wood. 
-• Filter and adhesive paper. 
+• 2 test tubes (and stoppers). • 1 dynamometer. • 1 adhesive tape. • 1 spool of thread. • 1 thermometer. • 1 wooden clamp. • Filter paper and strainer.
  
-Calculate the viscosity coefficient of the liquid in the sample.
+Calculate the viscosity coefficient of the liquid present in the test specimen.
 
 **Topic:** [[Oscillations & Waves]], [[Gravitation]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q172" data-atom="q172" data-title="Argentina 1996 Locale — Quesito 172" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
@@ -16004,40 +15511,26 @@ Al termine del lavoro dovrai fornire un rapporto completo di ciò che hai fatto,
 
 <div class="qlang-split" data-lang="en"></div>
 
-172. General Alvear, the man. Green. 
+172. General Alvear, Mendoza. Green.
  
-Objective 
+OBJECTIVE
  
  
-- measure the value of g using a pendulum. 
+- measure the value of g using a pendulum.
  
-Conditions 
-According to the item list, you'll need to put together a device for that purpose. 
+CONDITIONS: According to the list of components, you will have to assemble a device for this purpose.
  
-Elements 
-. Small balls 
-. A hooked tweezer .
-. Nylon yarn 
-. A support rod .
-. A support base .
-. A timekeeper .
+Elements. Small balls. A hooked clamp. Nylon thread. A support rod. A support base. A stopwatch.
  
-Requirements 
+Requirements
  
-At the end of the work, you must provide a full report of your work, which includes:
-. Diagram of the experimental device 
-. Description and justification 
-. Analytical planting 
-. Result obtained 
-. Error (possibly originating)
+Upon completion of the work, you must submit a complete report on what you did, containing: . Diagram of the experimental setup . Description and rationale . Analytical formulation . Result obtained . Error (possible origin)
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q173" data-atom="q173" data-title="Argentina 1996 Locale — Quesito 173" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -16092,28 +15585,19 @@ Presenta i risultati in un rapporto contenente:
 
 <div class="qlang-split" data-lang="en"></div>
 
-173. I'm not going to lie. Blue. 
+173. MENDOZA, MENDOZA. AZUL.
  
-Objective: To determine the rate of discharge of tap water. 
+Objective: Determine the exit velocity of water from the tap.
  
-Elements provided: 
-The following table shows the methodology used for calculating the value of the product:
-The time limit for the measurement of the time is the maximum time limit for the measurement of the time limit.
-A graduated rule 
+Supplied items: * Cylindrical vessel * A stopwatch * A graduated ruler
  
-Present the results in a report containing: 
-- Description of the measurement methods used 
-- Experimental values obtained by direct measurements 
-- the processing of measured values and the calculation of errors. 
-- Final results with their corresponding errors.
+Present the results in a report that includes: - A description of the measurement methods used - The experimental values obtained from direct measurements - The processing of the measured values and the calculation of errors - The final results together with their corresponding errors.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q174" data-atom="q174" data-title="Argentina 1996 Locale — Quesito 174" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -16270,42 +15754,39 @@ P / Vf
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the most commonly used methods of calculating the value of the investment:
+Archimedes' Principle
 
-174. Stop, cross the rivers. Blue. 
+174. PARANÁ, ENTRE RÍOS. AZUL.
  
-OBJECTIVE: Measuring the PE of a substance 
+OBJECTIVE: To measure the Pe of a substance
 
  
 - 55 -
-MATERIAL: Sulphur flakes, graduated probe, dynamometers, millimeter paper, water, regulation and
-Squad. 
-DISCLAIMER: 1) Take different pieces of sulphur and determine their weight with the
-The dynamometer. 
+MATERIALS: Pieces of sulfur, a graduated cylinder, dynamometers, graph paper, water, a ruler, and a set square. TASKS TO BE PERFORMED: 1) Take different pieces of sulfur and determine their weight using the dynamometer.
  
  
-2) Place any volume of water in the sample (V0) 
+2) Place any volume of water in the graduated cylinder (V0)
  
  
-3) Place each piece one by one in the sample and measure its volume. 
+3) Place each piece, one by one, into the test specimen and measure its volume.
  
  
  
  
  
-4) Bring the values to a picture. 
+4) Transfer the values to a table.
  
  
-P 
+P
  
  
-V0 
+V0
  
-V 
+V
  
-Vf=V- V0 
+Vf=V- V0
  
-P / Vf 
+P / Vf
  
  
  
@@ -16329,20 +15810,18 @@ P / Vf
  
  
  
-5) Given the uncertainties, graphically represent Vf=f(P) and P/Vf=f(P) 
+5) Taking uncertainties into account, graphically represent Vf = f(P) and P/Vf = f(P).
  
  
-6) What is the P/V ratio? 
+6) What does the P/V quotient represent?
  
-7) Draw up your final conclusions from the experience.
+7) Formulate your final conclusions from the experience.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q175" data-atom="q175" data-title="Argentina 1996 Locale — Quesito 175" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring,object/tank-container"></span>
 
@@ -16679,25 +16158,23 @@ b) Indicare che rappresenta la pendenza della curva precedente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-178. Sea of the Plate, good air. Blue and green. 
+178. MAR DEL PLATA, BUENOS AIRES. BLUE AND GREEN.
  
  
-Given the graduated container, which contains water that can flow, and a timer: 
+Given the graduated container, which contains water that can flow, and a stopwatch:
  
  
  
-(a) chart the movement of the liquid over time, 
+a) Graph the displacement of the liquid as a function of time,
  
  
-(b) indicate that it represents the slope of the previous curve.
+b) indicates what the slope of the previous curve represents.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q179" data-atom="q179" data-title="Argentina 1996 Locale — Quesito 179" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/block"></span>
 
@@ -16732,18 +16209,16 @@ Determinare il peso dei corpi
 
 <div class="qlang-split" data-lang="en"></div>
 
-179. 
+179.
  
  
-Determining the Weight of Bodies
+Determine the weight of bodies
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q180" data-atom="q180" data-title="Argentina 1996 Locale — Quesito 180" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container,object/block"></span>
 
@@ -16868,63 +16343,60 @@ Sviluppare il modo o le procedure che utilizza .
 
 <div class="qlang-split" data-lang="en"></div>
 
-180. Pain, good air. Blue and green. 
+180. DOLORES, BUENOS AIRES. BLUE AND GREEN.
  
  
-Determine the weight of the bodies and their mass, inside and outside the container, taking into account the
-the following elements: 
+Determine the weight and mass of the bodies, both inside and outside the container, taking into account the following elements:
  
-container . 
- 
- 
- 
- 
- 
-- It's water. 
+container.
  
  
  
  
  
-A piece of wood. 
+Water.
  
  
  
  
  
-A piece of iron. 
+Piece of wood.
  
  
  
  
  
-Graduated syringe. 
+Piece of iron.
  
  
  
  
  
-Rule or square millimeter. 
+Graduated Syringe.
  
  
  
  
  
-Specific weight of iron 7,8 g/cm 
+Millimetered rule or set square.
  
  
  
  
  
-Develop the form or procedures he uses .
+Specific weight of iron: 7.8 g/cm³
+ 
+ 
+ 
+ 
+ 
+Develop the form or procedures it uses.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q181" data-atom="q181" data-title="Argentina 1996 Locale — Quesito 181" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/tank-container"></span>
 
@@ -17339,25 +16811,22 @@ Materiale consegnato: fiocco metallico, sfera, regola graduata, filo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-182. Sea of the Plate, good air. Blue and green. 
+182. MAR DEL PLATA, BUENOS AIRES. BLUE AND GREEN.
  
  
-Whereas the braking force is maintained constant along the submitted rail, 
-determine: 
-(a) energy lost by friction if the delivered sphere is dropped from height 
-I'm not going to show you. 
-(b) the speed at the lowest part of the trajectory. 
+Considering that the frictional force remains constant along the given rail, determine:
+a) the energy lost due to friction if the delivered sphere is dropped from the height
+shown.
+b) the speed at the lowest point of the trajectory.
  
  
-Material delivered: Metal rail, sphere, graduated rule, thread.
+Materials provided: metal rail, sphere, graduated ruler, thread.
 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
-
 
 <span class="atom-split" id="q183" data-atom="q183" data-title="Argentina 1996 Locale — Quesito 183" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/pipe-tube"></span>
 
@@ -17440,29 +16909,25 @@ II) Descrivere e giustificare il metodo per determinare la
 
 <div class="qlang-split" data-lang="en"></div>
 
-183. St. Teresa, good weather. 
+183. SANTA TERESITA, BUENOS AIRES.
  
  
-The refractive index of certain materials is to be measured by using the following methods:
-The following elements: 
-1) A monochrome light source (sodium light) and a collimator to obtain a lightning
-They're bright. 
-2) A piece of optical fiber gigantic formed by: 
+If you intend to measure the refractive index of certain materials, having the following elements available: 1) A monochromatic light source (sodium light) and a collimator that makes it possible to obtain a "beam" of light. 2) A piece of "giant" optical fiber formed by:
  
-(a) a cylindrical glass rod with a known refractive index n1 , which acts as a core; 
+a) a cylindrical glass rod with known refractive index n1, serving as the core;
  
-(b) a coating of the material whose refractive index is to be measured;
+b) a "coating" of the material whose refractive index nx is to be measured;
  
-(c) a coating which serves the purpose of protection.
+c) a coating that serves a protective function.-
  
  
  
  
-For measuring the refractive index of the coating: 
+To measure the refractive index of the coating:
  
-I) What should be its index with respect to the core? 
+I) How should its index be with respect to the nucleus?
  
-(ii) Describe and justify the method for determining the
+II) Describe and justify the method for determining nx
 
 
 <!--fig:start-->
@@ -17474,3 +16939,4 @@ I) What should be its index with respect to the core?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+

@@ -56,10 +56,10 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** The figure shows a mass cart $m$ with engine, on a mass base $4m$ lifted by an air cushion. At a certain moment the cart starts to move to the right. Quando il carrello ha assunto la velocità $v$ rispetto al suolo, la base... (a) remains stationary; (b) moves to the right at $v/5$; (c) moves to the left at $v/5$; (d) moves to the right at $v/4$; (e) moves to the left at $v/4$.
+**Q2.** The figure shows a cart of mass $m$ equipped with a motor, on a base of mass $4m$ supported by an air cushion. At a certain instant, the cart begins to move to the right. When the cart has attained a speed of $v$ relative to the ground, the base... A) remains at rest; B) moves to the right with a speed of $v/5$; C) moves to the left with a speed of $v/5$; D) moves to the right with a speed of $v/4$; E) moves to the left with a speed of $v/4$.
 
 <!--fig:start-->
-**p.2**  Carriage with base engine with air cushion
+**p.2** — Motorized cart on an air-cushion base
 ![[_attachments/loc96 (2 files merged)/loc96 (2 files merged)_p2_f1.png]]
 <!--fig:end-->
 
@@ -69,8 +69,6 @@ tags:
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 **Risposta:** **E**
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 1996 1° Livello Quiz — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/mirror"></span>
 

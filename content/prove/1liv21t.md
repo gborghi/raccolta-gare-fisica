@@ -77,15 +77,15 @@ Quale delle seguenti alternative descrive correttamente la forza tra le molecole
 
 The graph shows the potential energy $U$ as a function of the distance $r$ between two molecules.
 
-Which of the following correctly describes the force between molecules?
+Which of the following options correctly describes the force between molecules?
 
-♪ attractive for you ♪ repulsive for you ♪
+| | attractive to | repulsive to |
 |---|---|---|
 | (A) | $r < r_1$ | $r > r_1$ |
 | (B) | $r > r_1$ | $r < r_1$ |
 | (C) | $r < r_2$ | $r > r_2$ |
 | (D) | $r > r_2$ | $r < r_2$ |
-| (E) | tutti i valori di $r$ | nessun valore di $r$ |
+| (E) | all values of $r$ | no value of $r$ |
 
 **Topic:** [[Newtonian Mechanics]], [[Electrostatics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]]
@@ -93,8 +93,6 @@ Which of the following correctly describes the force between molecules?
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
 **Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2021 1° Livello — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/wave-optics,argomento/meccanica"></span>
 
@@ -1347,23 +1345,22 @@ Quanto vale la potenza termica $P$ che attraversa il muro?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A wall in a room is $5\,\text{m}$ long, $3\,\text{m}$ high and often $30\,\text{cm}$. The coefficient of thermal conductivity of the wall is $k = 0{,}6\,\text{W m}^{-1}\text{K}^{-1}$. The internal temperature of the room is $20^\circ\text{C}$ and the external temperature is $0^\circ\text{C}$.
+One wall of a room is $5\,\text{m}$ long, $3\,\text{m}$ high, and $30\,\text{cm}$ thick. The thermal conductivity coefficient of the wall is $k = 0{,}6\,\text{W m}^{-1}\text{K}^{-1}$. The indoor temperature of the room is $20^\circ\text{C}$, and the outdoor temperature is $0^\circ\text{C}$.
 
-Quanto vale la potenza termica $P$ che attraversa il muro?
+What is the value of the thermal power $P$ that passes through the wall?
 
 - **A.** $P = 54\,\text{W}$
 - **B.** $P = 60\,\text{W}$
 - **C.** $P = 150\,\text{W}$
 - **D.** $P = 600\,\text{W}$
 - **E.** $P = 8790\,\text{W}$
+
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
 **Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
-
-
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="OII 2021 1° Livello — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica"></span>
 

@@ -522,20 +522,11 @@ trattando la cabina stessa come un punto materiale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q6
-A cab with a panoramic wheel (highlighted in black in figure),
-In an amusement park, it weighs 400 kg and describes a
-a vertical circumference of 5,3 m radius. During the wheel test, this
-It is rotated evenly at a speed of $5.5\ \text{m s}^{-1}$, much higher
-I'm not going to say anything about the exercise.
-•
-Find the force pattern that the wheel structure exert on the cabin
-where the point at which it is attached is at the height of the centre of rotation,
-Treating the cabin itself as a material spot.
+Q6 A gondola on a Ferris wheel (highlighted in black in the figure), in an amusement park, has a mass of 400 kg and moves along a vertical circle of radius 5.3 m. During testing of the wheel, the wheel is rotated uniformly at a speed of $5.5\ \text{m s}^{-1}$, much greater than the operating speed. • Find the magnitude of the force exerted by the wheel structure on the gondola when the point at which the gondola is attached is at the same height as the center of rotation, treating the gondola itself as a point particle.
 
 <!--fig:start-->
 ![[_attachments/2liv20T/2liv20T_p3_f5.png]]
-The vehicle shall be equipped with a 'R' or 'R' system.
+Panoramic wheel with rotating cabin
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -544,8 +535,6 @@ The vehicle shall be equipped with a 'R' or 'R' system.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2020 2° Livello — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/magnetism,argomento/elettromagnetismo,object/wire"></span>
 

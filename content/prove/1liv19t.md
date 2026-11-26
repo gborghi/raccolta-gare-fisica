@@ -61,7 +61,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** A transparent solid and liquid have the same refractive index $n$. Quando la luce passa dal liquido al solido, cosa succede alla velocità $v$ e alla lunghezza d'onda $\lambda$? (a) $v$ remains the same and $\lambda$ remains the same; (b) $v$ decreases and $\lambda$ decreases; (c) $v$ remains the same and $\lambda$ increases; (d) $v$ increases and $\lambda$ increases; (e) $v$ remains the same and $\lambda$ decreases.
+**Q2.** A transparent solid and a transparent liquid have the same refractive index $n$. When light passes from the liquid into the solid, what happens to the speed $v$ and the wavelength $\lambda$? A) $v$ remains the same and $\lambda$ remains the same; B) $v$ decreases and $\lambda$ decreases; C) $v$ remains the same and $\lambda$ increases; D) $v$ increases and $\lambda$ increases; E) $v$ remains the same and $\lambda$ decreases.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]]
@@ -69,8 +69,6 @@ tags:
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Zx4oms_0i6o1ezlO0Jisndxvd5cnfqd2/view)
 **Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/17ltcEhFFTwr4vzx6ojopE_yS3OYHwjRo/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2019 1° Livello Quiz — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/point-charge"></span>
 

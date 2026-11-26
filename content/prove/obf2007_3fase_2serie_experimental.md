@@ -160,72 +160,73 @@ Con i dati sperimentali raccolti ($x_{0i}$, $y_{0i}$, $\ell_i$, $L$, $M$, $m$), 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Descending staircase against the wall**
+I am descending a staircase against the wall
 
-*(Prova Experimental para alunos do 2º ano — duração: 2 h 30 min)*
+*(Experimental Test for 2º-Year Students — Duration: 2 h 30 min)*
 
-A person of mass $M$ descends a ladder of length $L$, mass $m$, supported on a wall with angle of inclination $\theta$. Stability of the ladder depends on the static friction coefficient $\mu_e$ between it and the ground. The friction between the wall and the staircase is considered to be negligible. The forces acting on the ladder are: gravity $mg$, weight of the 'person' $Mg$, friction force with the floor $F_{at}$, normal wall force $N_p$ and normal ground force $N_s$.
+A person of mass $M$ descends a ladder of length $L$ and mass $m$, which is supported against a wall at an inclination angle of $\theta$. The stability of the ladder depends on the coefficient of static friction $\mu_e$ between the ladder and the ground. The friction between the wall and the ladder is considered negligible. The forces acting on the ladder are: gravity $mg$, the weight of the "person" $Mg$, the frictional force with the ground $F_{at}$, the normal force from the wall $N_p$, and the normal force from the ground $N_s$.
 
-In the directions $x$ and $y$:
+In the $x$ and $y$ directions:
 
 $$x:\quad N_p = F_{at} = \mu_e(m+M)g \quad (1)$$
 
 $$y:\quad N_s = (m+M)g$$
 
-Since the sum of the moments relative to the top of the ladder is zero (staircase in static equilibrium):
+Since the sum of the moments about the upper point of the ladder is zero (the ladder is in static equilibrium):
 
 $$-mg\sin\theta\,\frac{L}{2} - Mg\sin\theta\,\ell + F_{at}\cos\theta\,L - N_s\sin\theta\,L = 0 \quad (2)$$
 
-Substituting (1) for (2) and simplifying it is obtained:
+Substituting (1) into (2) and simplifying yields:
 
 $$\mu_e = \frac{1}{2}\cdot\frac{M}{M+m}\cdot\frac{\ell}{L}\cdot\frac{x_0}{y_0} \quad (3)$$
 
-where $\ell$ is the position of the 'person' along the ladder (measured from the foot), $L$ is the total length of the ladder, and $x_0$, $y_0$ are the foot coordinates of the ladder at the moment it starts to slide.
+where $\ell$ is the position of the "person" along the staircase (measured from the foot), $L$ is the total length of the staircase, and $x_0$, $y_0$ are the coordinates of the foot of the staircase at the instant when it begins to slide.
 
 ---
 
 **Experimental material provided:**
 
-- A galvanized L-shaped steel profile (simulated to a vertical wall);
-- A piece of wood coated as a base (simulated 'floor'  two sides: smooth and rough);
-- A piece of wood with holes like a ladder;
-- A rack ($M = 13{,}6\ \text{g}$) attached to a hook (simulated as 'person');
-- Fits are cracked;
-- A 30 cm rule.
+- A galvanized steel L-shaped section (simulates the vertical wall);
+- A piece of coated wood serving as a base (it simulates the "floor" — two sides: smooth and rough);
+- A piece of wood with holes like a "staircase";
+- A washer ($M = 13{,}6\ \text{g}$) tied to a hook (simulates the "person");
+- Crepe tape;
+- A 30 cm ruler.
 
 ---
 
-**Experimental procedure I:**
+**Experimental Procedure I:**
 
-1. Measure with the rule the length $L$ of the 'staircase' and the lengths $\ell_i$ ($i=1,2,3,4$) of each hole at the foot of the staircase. Record the values.
+1. Using the ruler, measure the length $L$ of the "ladder" and the lengths $\ell_i$ ($i=1,2,3,4$) of each hole at the foot of the ladder. Record the values.
 
-2. Place the galvanized steel profile simulating a vertical wall and the wooden board with the smooth side **** upwards as "floor". Centralize the racket into the top hole of the staircase and fix it with crepe tape. Gradually increase the slope $\theta$ until the ladder loses stability and slides. Mark the foot point of the ladder and measure $x_0$ and $y_0$ with the rule. Test several times; record the final point with graphite pencils.
+2. Place the galvanized steel profile to simulate a vertical wall, and place the wooden board with its **smooth** side facing up as the "floor". Center the washer in the highest hole on the "ladder" and secure it with masking tape. Gradually increase the inclination angle $\theta$ until the ladder loses stability and slides. Mark the point at the foot of the ladder and measure $x_0$ and $y_0$ with a ruler. Test several times; record the final point with a graphite pencil.
 
-3. Repeat to the bottom three holes, obtaining four pairs $(x_{0i},\, y_{0i})$ with the smooth side.
+3. Repeat for the three lower holes, obtaining four pairs $(x_{0i},\, y_{0i})$ with the smooth side.
 
-4. Turn the plate by placing the **sharp side** upwards and repeat the procedure, obtaining four more pairs $(x_{0i},\, y_{0i})$.
+4. Turn the plate over with the **rough** side facing up and repeat the procedure, obtaining four more pairs of $(x_{0i},\, y_{0i})$.
 
 **Data provided:**
 
-♪ Greatness and Value ♪
+| Quantity | Value |
 |---|---|
-| Massa da arruela | $M = 13{,}6\ \text{g}$ |
-| Massa da "escada" | $m = 35{,}7\ \text{g}$ |
-| Comprimento da "escada" | $L$ (a medir com a régua) |
-| Distâncias dos furos ao pé | $\ell_1,\, \ell_2,\, \ell_3,\, \ell_4$ (a medir) |
+| Washer mass | $M = 13{,}6\ \text{g}$ |
+| "Ladder" mass | $m = 35{,}7\ \text{g}$ |
+| "Ladder" length | $L$ (to be measured with the ruler) |
+| Distances from the holes to the foot | $\ell_1,\, \ell_2,\, \ell_3,\, \ell_4$ (to be measured) |
 
 ---
 
-**Experimental procedure II:**
+**Experimental Procedure II:**
 
-With the **rule hanging** on the "staircase" by the hook (instead of a crepe-tape grip), repeat Procedure I for the four holes, using only the **smooth** side of the base as the "floor". For each hole, record the values of $x_0$ and $y_0$.
+With the washer **hanging** on the "ladder" by the hook (instead of being secured with duct tape), repeat Procedure I for the four holes, using only the **smooth** side of the base as the "floor". For each hole, record the values of $x_0$ and $y_0$.
 
 ---
 
-Using the experimental data collected ($x_{0i}$, $y_{0i}$, $\ell_i$, $L$, $M$, $m$), use equation (3) to determine the static friction coefficient $\mu_e$ between the ladder and the floor in different cases (flat side, rough side, stuck row, hanging row), and answer the questions in the resolution book.
+Using the experimental data collected ($x_{0i}$, $y_{0i}$, $\ell_i$, $L$, $M$, $m$), apply equation (3) to determine the static friction coefficient $\mu_e$ between the ladder and the floor in the different cases (smooth side, rough side, washer secured, hanging washer), and answer the questions in the solution booklet.
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1a3aTppkc43qq62IlA7nxMjoo06n5UPu7/view)
+

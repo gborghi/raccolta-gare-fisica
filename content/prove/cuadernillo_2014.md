@@ -16024,22 +16024,19 @@ con un riscaldatore elettrico di 1,5 kW, se la temperatura dell'acqua è di 25 �
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Heating water with electric heater**
+Heating water with an electric heater
 
-PT79. Our Lady of Lourdes Institute 
+PT79. Nuestra Señora de Lourdes Institute
  
-The gate, Cordoba. 
+Porteña, Córdoba.
  
-Find the time needed to heat 100l of water to 75oC 
-with an electric heater of 1,5 kW, if the water temperature is 25 °C.
+Find the time required to heat 100 l of water to a temperature of 75º°C using a 1.5 kW electric heater, if the water temperature is 25º°C.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1U2wmejf2JxAe7MVlFioD3q2SzgaD8bdV/view)
-
-
 
 <span class="atom-split" id="q86" data-atom="q86" data-title="Argentina 2014 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
 
@@ -28327,61 +28324,29 @@ OAF 2014 - 154
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+Atwood Energy Conservation
 
-PE27. Holy Rosary College .
+PE27. Colegio Santísimo Rosario
  
-Monteros, Tucumán. What is it? 
+Monteros, Tucumán.
  
-Conservation of energy 
-Objective: Verify energy conservation for a two-tier system 
-bodies. 
-Materials: Polish with support, fine thread, weights of different masses, but not very 
-different, rules, timetable. 
-The procedure: 
-1. Choose two weights and place them on the tied poles at the ends of the
-The wire is so that the larger mass is at a height h
-On the table. Measure this height with a rule. 
-2. Release the weights and determine with the chronometer how long it takes to
-I'm going to fall. 
-3. Calculate the acceleration of the drop of the weighing by the expression: 
-𝑎=  𝑚2 −𝑚1
-𝑚2 + 𝑚1
- . 𝑔 
-4. Calculate the speed at which the weight reaches the ground by using the
-The expression: 
-𝑣= 𝑎. 𝑡 
-5. Repeat the experience with other weight pairs, scoring on each.
-case h and v. 
-6. Calculate, for each case, the gravitational energy of the weighing before 
-fall and kinetic energy on reaching the floor: 
-7. Analyze the results. 
-Conclusions: 
-a. Has the same value been obtained for both energies in each case? 
-Is that what you expected? Explain 
-b. For which weight pairs have the results been delayed most; for those of
-For larger or smaller ones? Explain this phenomenon. 
-c. What have been the major sources of measurement error? 
-Write a report of your experience where you say: 
- Objectives of your work  Analytical planning. 
- Experience gained  Experimental design used. 
-• Value, tables obtained. 
- Sources of errors and analysis of how they influence the final results 
-- I'm not going to. 
-• Considerations and assumptions you have made. 
- Anything you consider relevant to your report.
+Conservation of Energy Objective: To verify the conservation of energy for a two-body system. Materials: Pulley with stand, thin string, weights of different but not very different masses, rulers, stopwatch. Procedure: 1. Choose two weights and attach them to the pulleys tied to the ends of the strings, such that the heavier weight is at a height h above the table. Measure this height with a ruler. 2. Release the weight and use the stopwatch to determine the time it takes to fall. 3. Calculate the acceleration of the weight's fall using the formula: a = (m2 − m1) / (m2 + m1) · g. 4. Calculate the speed with which the weight reaches the ground using the formula: v = a · t. 5. Repeat the experiment with other pairs of weights, recording h and v in each case. 6. For each case, calculate the gravitational potential energy of the weight before it falls and its kinetic energy when it reaches the floor: 7. Analyze the results. Conclusions:
+a. Has the same value been obtained for both forms of energy in each case?
+Was it what was expected? Explain.
+b. For which pairs of weights have the results differed the most; for those of
+For greater mass or for those of lesser mass? Explain this phenomenon.
+c. What have been the major sources of error in the measurements?
+Draft a report on your experience, recording the following:  Objectives of your work – Analytical approach.  Work carried out – Experimental design used.  Values and tables obtained.  Sources of error and an analysis of how they affect the specified final results.  Considerations and assumptions you have made.  Everything you consider relevant for your report.
  
 
  
-The following points shall be added:
+OAF 2014 - 154
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1U2wmejf2JxAe7MVlFioD3q2SzgaD8bdV/view)
-
-
 
 <span class="atom-split" id="q150" data-atom="q150" data-title="Argentina 2014 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/calorimeter,object/resistor"></span>
 

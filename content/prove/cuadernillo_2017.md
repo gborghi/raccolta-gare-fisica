@@ -10315,25 +10315,22 @@ e) La velocità della palla in D è di 8m/s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total weight of the ball:
+Ball on slide ABCD
 
-PT52. The amount of the adjustment shall be reported in the following table:
+PT52. ESRN No. 123
  
-St. Charles of Bariloche, Rio Negro. 
+San Carlos de Bariloche, Río Negro.
  
-A 2kg ball slides without friction through the ABCD slide. In A, the kinetic energy of 
-The sphere is 10J and its potential energy is 54J. Which of the following statements 
-They're true and they're not. Clearly explain what laws or principles you base your ideas on.
-I'm not going to answer. 
+A 2 kg ball slides without friction down the slide ABCD. At A, the sphere's kinetic energy is 10 J and its potential energy is 54 J. Which of the following statements are true and which are not? Explain clearly on what laws or principles you base your answers.
  
-(a) The kinetic energy of the ball as it passes through.
-B es de 64J. 
-(b) The potential energy of the ball in C is 
-de 18J. 
-(c) The kinetic energy of the ball in C is equal to 
-46J. 
-d) The mechanical energy in D is 64J. 
-(e) The speed of the ball in D is 8m/s
+a) The kinetic energy of the ball as it passes through
+B is less than 64J.
+b) The potential energy of the ball at C is
+from 18 years
+c) The kinetic energy of the ball at C is
+46J.
+d) The mechanical energy at D is 64 J.
+e) The speed of the ball at D is 8 m/s.
 
 
 <!--fig:start-->
@@ -10345,8 +10342,6 @@ d) The mechanical energy in D is 64J.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view)
-
-
 
 <span class="atom-split" id="q59" data-atom="q59" data-title="Argentina 2017 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter,object/resistor"></span>
 

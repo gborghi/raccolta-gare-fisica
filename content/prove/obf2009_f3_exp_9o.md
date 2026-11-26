@@ -126,55 +126,56 @@ Il punto di riferimento è il centimetro.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A razão Comprimento/Diâmetro da circunferência**
+**Circumference Length/Diameter Ratio**
 
-The purpose of the experiment is to experimentally determine the ratio between the length $C$ and the diameter $D$ of circumferences of different sizes, verifying that this ratio is the constant $\pi$:
+The aim of the experiment is to experimentally determine the ratio between the length $C$ and the diameter $D$ of circles of different sizes, verifying that this ratio is the constant $\pi$:
 
 $$\frac{C}{D} = \pi$$
 
-Experimental material available
+### Material Experimentally Made Available
 
-- 2 reams of $0$–$25\ \text{cm}$ paper;
-- 2 reams of $25$–$50\ \text{cm}$ paper;
-- a sheet of paper with circles to be removed from the experimental roadmap;
-- Crack pie is available in the experiment room.
+- 2 paper strips of $0$–$25\ \text{cm}$;
+- 2 paper strips of $25$–$50\ \text{cm}$;
+- A sheet of paper with circles, to be removed from the Experimental Guide;
+- Crepe tape is available in the experimental room.
 
-♪ Experimental procedures ♪
+### Experimental Procedures
 
-**1.** Retire do Roteiro Experimental a última folha, onde você encontrará 5 (cinco) circunferências concêntricas.
+**1.** Remove the last sheet from the Experimental Guide; on it, you will find 5 (five) concentric circles.
 
-**2.** Fasten the sheet over the table with the crepe tape in a way that facilitates the experimental procedure to follow.
+**2.** Secure the sheet to the table with the masking tape in such a way that it facilitates the following experimental procedure.
 
-**3.** Take one of the paper straws of $0$–$25\ \text{cm}$ and wrap it around your fingers to curve the paper straw, making it easy to measure.
+**3.** Take one of the paper rulers from $0$ to $25\ \text{cm}$ and roll it around your fingers to give the paper ruler a curve, making measurement easier.
 
-**4.** Measure with the rule the length $C$ of the smallest circumference (circumference 01). For measurements, make circles with the rule, adjusting them gradually to the size of the circle on paper. At the end of the measurement, mark the verified value on the rule. Make 3 measurements and note the result of each in the **Experimental Data Registry I**:
+**4.** Measure with the ruler the length $C$ of the smallest circumference (circumference 01). For the measurements, use the ruler to draw circles, gradually adjusting them to the size of the circle on the paper. At the end of the measurement, mark the value obtained on the ruler. Perform 3 measurements and record the result of each in **Experimental Data Record I**:
 
-**Registro de Dados Experimentais I — Comprimento das circunferências ($C$)**
+**Experimental Data Record I — Circumference Lengths ($C$)**
 
-♪ ♪ Measure one inch ♪ Measure two centimetres ♪ Measure three centimetres ♪
+| | Measurement 1 (cm) | Measurement 2 (cm) | Measurement 3 (cm) |
 |---|---|---|---|
-♪ The first circle ♪
-♪ Circumference two ♪
-♪ Circumference three ♪
-♪ The fourth circle ♪
-♪ The circle of fifth ♪
+| Circumference 1 | | | |
+| Circumference 2 | | | |
+| Circumference 3 | | | |
+| Circumference 4 | | | |
+| Circumference 5 | | | |
 
-**5.** Take step 4 for the following circumferences (circumference 02 to 05) and also note the measurements in Experimental Data Registry I above. You will find circles larger than $25\ \text{cm}$; then use the crepe tape at your disposal in the lab and make a rule of $50\ \text{cm}$ to perform these measurements.
+**5.** Perform step 4 for the following circles (from Circle 02 to 05), and also record the measurements in the Experimental Data Record I above. You will find circles larger than $25\ \text{cm}$; so, use the masking tape available to you in the laboratory and make a ruler of $50\ \text{cm}$ to take these measurements.
 
-**6.** A seguir, meça com a régua o diâmetro $D$ das circunferências de 1 a 5, e anote-as no **Registro de Dados Experimentais II**:
+**6.** Next, use the ruler to measure the diameter $D$ of circles 1 to 5, and record them in **Experimental Data Record II**:
 
-**Registro de Dados Experimentais II — Diâmetro das Circunferências ($D$)**
+Experimental Data Record II — Diameter of the Circles ($D$)
 
-♪ And the size of the box ♪
+| | Measurement (cm) |
 |---|---|
-♪ Circumference one ♪
-♪ Circumference two ♪
-♪ Circumference three ♪
-♪ The circle of four ♪
-♪ Circumference five ♪
+| Circumference 1 | |
+| Circumference 2 | |
+| Circumference 3 | |
+| Circumference 4 | |
+| Circumference 5 | |
 
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1kXyVUx-S3a1ZkuSARqzAUPGPjYH5PJ_G/view)
+

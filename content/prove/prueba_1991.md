@@ -80,35 +80,21 @@ g) L'altezza massima raggiunta dal carico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-It is a cannon used to send loads containing
-scientific instrument.
-The cannon is arranged in such a way that the driving force produced by the gases of the
-The explosion is constant throughout the course of the load within the cannon and is cancelled when the
-The load leaves it. We call $F$ the module of this force and $l$ the length of the cannon. They 're despised .
-the brushing forces, both of the gun load and of the gun air load. You want to know:
-(a) The directions, senses and intensities of the forces acting on the load while
-This one moves inside the cannon, as do those from the resulting cannon.
-(b) The total force acting on the off-gun load in:
-(i) the midpoint of the upward trajectory;
-(ii) the maximum height point;
-(iii) the midpoint of the downward trajectory.
-(c) The work performed by the force $F$ of the gases on the load.
-(d) Kinetic energy and speed of load at the instant of exit through the mouth of the cannon.
-(e) The type of movement of the load within the cannon, the law describing that movement
-and the value or expression of the parameters or constants of that law for this problem.
-Basically his answer.
-(f) The class of movement of the load outside the cannon, the law describing its movement and
-the value or expression of the parameters or constants of that law for this problem.
-Basically his answer.
-(g) The maximum height reached by the load.
+The idea is to use a cannon to vertically launch, up to a certain height, payloads containing scientific instruments. The cannon is arranged such that the propelling force produced by the explosion gases is constant along the payload's path inside the cannon and vanishes when the payload leaves the cannon. We call $F$ the magnitude of this force and $l$ the length of the cannon. Frictional forces—both those between the payload and the cannon and those between the payload and the air—are neglected. The following is to be determined:
+a) The directions, senses, and magnitudes of the forces acting on the load while
+This moves within the barrel, as do those of its resultant.
+b) The total force acting on the projectile outside the barrel in:
+i) the midpoint of the ascending trajectory; ii) the point of maximum altitude; iii) the midpoint of the descending trajectory.
+c) The work done by the force $F$ of the gases on the load.
+d) The kinetic energy and the velocity of the projectile at the instant it exits the muzzle of the cannon.
+e) The class of motion of the charge inside the barrel, the law that describes that motion
+and the value or expression of the parameters or constants of that law for this problem. Justify your answer. f) The type of motion of the charge outside the cannon, the law describing its motion, and the value or expression of the parameters or constants of that law for this problem. Justify your answer. g) The maximum height reached by the charge.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-9LEDSHDhP0YEzx742VhzAO8091xREwY/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1991 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere"></span>
 
@@ -163,28 +149,20 @@ Spiega ogni sua ipotesi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two electric pendulums consist of two small identical metal spheres of mass $m$, bound to
-the ends of wire paths of electrically insulating material. The threads have a length $L$ and mass
-I'm not a big fan of this.
-The pendulums are suspended from a support such that, in balance, the threads are vertical and
-The contact spheres. Under these conditions the spheres are electrically charged with the same charge.
-and their centres are separated by a distance $d$. It asks:
-(a) Draw a diagram of the pendulums and qualitatively represent the forces acting on them
-about each of the masses.
-(b) Find an expression for the load that each sphere has in terms of the others
-the constants and/or variables that appear in the problem.
-(c) Determine the total force exerted by the pendulums loaded on the support.
-(d) propose, using this device, an experimental procedure to verify the
-The law of forces between electric charges.
-Explain each of your hypotheses.
+Two electric pendulums consist of two identical small metallic spheres of mass $m$, attached to the ends of two threads made of an electrically insulating material. The threads have length $L$ and negligible mass. The pendulums are suspended from a support in such a way that, in equilibrium, the threads are vertical and the spheres are in contact. Under these conditions, the spheres become electrically charged with identical charge, and their centers are separated by a distance $d$. Required:
+a) Draw a diagram of the pendulums and qualitatively represent the forces acting.
+on each of the masses.
+b) Find an expression for the charge on each sphere in terms of the charges on the others.
+Constants and/or variables that appear in the problem.
+c) Determine the total force exerted by the charged pendulums on the support.
+d) Using this device, propose an experimental procedure that makes it possible to verify
+The law of forces between electric charges. State each of its hypotheses explicitly.
 
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-9LEDSHDhP0YEzx742VhzAO8091xREwY/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1991 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston,object/prism"></span>
 

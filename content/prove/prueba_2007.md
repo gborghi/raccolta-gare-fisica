@@ -712,85 +712,39 @@ $k = 1.38\times10^{-23}\ \text{J/K}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: Optical molasses
+Problem 3: Optical Melasses
 
-In 1995 a group of researchers from the University of Colorado
-(US) achieved, for the first time, a Bosse-Einstein condensation
-cooling rubidium atoms ($^{87}\text{Rb}$) to extremely low temperatures ($1
-I'm not going to say anything.
+In 1995, a group of researchers from the University of Colorado (USA) achieved, for the first time, Bose-Einstein condensation by cooling rubidium atoms ($^{87}\text{Rb}$) to extremely low temperatures ($1 \times10^{-7}\ \text{K}$).
 
-How could they get so cold? The first step in cooling was to use
-The second step is what you do.
-It's known as a magnetic trap.
+How were they able to cool things so much? The first step in the cooling process was the use of a technique called laser cooling, and the second step is what is known as a magnetic trap.
 
-In this problem we are dealing with the first technique, namely the
-Laser cooling.
+In this problem, we are dealing with the first technique, namely laser cooling.
 
-Interpreting light in terms of photons (particles of zero mass that are
-The process of absorbing a
-A photon on the part of an atom can be interpreted as a collision between the
-The photon and the atom. The application of this idea is what is used to make
-slower to the gaseous atoms, that is, cool them.
+Interpreting light in terms of photons (massless particles that carry linear momentum in addition to energy), the process of an atom absorbing a photon can be interpreted as a collision between the photon and the atom. The application of this idea is what is used to slow down gaseous atoms—that is, to cool them.
 
-To show how this effect is achieved, let's consider atoms of a gas,
-as shown in Figure 1a, moving in one direction,
-While they're being irradiated from both sides by laser beams with a
-frequency ($\nu_L$) of which the value is slightly less than the 'resonance frequency'
-atomic ($\nu_A$), i.e. the value necessary to be absorbed by these atoms
-(Figure 1b)
+To show how this effect is achieved, let us consider atoms of a gas, such as those depicted in Figure 1a, moving in a single direction while being irradiated from both sides by laser beams with a frequency ($\nu_L$) whose value is slightly lower than the atomic "resonance frequency" ($\nu_A$)—that is, lower than the value required for these atoms to absorb the radiation (Figure 1b).
 
-The following table shows the following:
+Figure 1a
 
-The following table shows the following:
-Frequency
-Absorption
-$\nu_L$
-$\nu_A$
-$\nu_L + \nu_\text{Doppler}$
-$\nu_L - \nu_\text{Doppler}$
+Figure 1b Absorption Frequency $\nu_L$ $\nu_A$ $\nu_L + \nu_\text{Doppler}$ $\nu_L - \nu_\text{Doppler}$
 
-Atoms, as they move, find the value of the
-frequency of photons traveling in opposite directions and decreased
-The frequency of photons traveling in the same direction (this phenomenon
-It's called the Doppler Effect. So, given that the frequency used is
-The resulting atomic radiation is less than the resonance, and the atoms are more likely to
-absorbing photons traveling in opposite directions to them than photons that
-The two are traveling in the same direction (Figure 1b). So when an atom absorbs
-A photon, in addition to remaining in an excited state, will suffer a decrease in
-Linear momentum preferably in the direction of motion. After
-At a characteristic time $\tau$, the atom will spontaneously emit a photon in
-an arbitrary direction returning to its fundamental state. After
-Several of these absorption-emission events will have a non-zero change of
-linear momentum of the atom due to absorption, while the change
-The average spontaneous emission is zero, since this emission has
-isotropic angular distribution, that is, it occurs in all directions.
-With laser pairs along the three coordinate axes, the
-The three-way braking, that is, the cooling of the gas from the atoms.
-Given the similarity of the braking force that atoms suffer due to the
-laser light with a viscous force, this system is called "optical meshes".
+When atoms are in motion, the frequency of photons traveling in the opposite direction increases for them, while the frequency of photons traveling in the same direction decreases (this phenomenon is known as the Doppler Effect). Thus, since the frequency used is lower than the resonance frequency, atoms will be more likely to absorb photons traveling in the opposite direction than photons traveling in the same direction (Figure 1b). Then, when an atom absorbs a photon, in addition to ending up in an excited state, it will experience a decrease in linear momentum preferentially in the direction of motion. After a characteristic time $\tau$, the atom will spontaneously emit a photon in an arbitrary direction and return to its ground state. After several such absorption-emission events, the atom will have a non-zero change in linear momentum due to absorption, whereas the change due to spontaneous emission averages to zero, since this emission has an isotropic angular distribution—that is, it occurs in all directions. With laser pairs along the three coordinate axes, deceleration in all three directions is achieved—that is, the atomic gas is cooled. Given the similarity between the braking force experienced by atoms due to laser light and a viscous force, this system is called "optical molasses".
 
-Taking into account the above and limiting the case to a motion
-One-dimensional:
+Taking into account what has been set out and restricting the case to that of one-dimensional motion:
 
-(a) Calculate the change in the velocity module of an atom of
-Rubidium mass $1.42\times10^{-25}\ \text{kg}$ when absorbing a photon from a laser
-a wavelength of $\lambda = 780\ \text{nm}$.
-(The linear moment of a photon wavelength $\lambda$ is given by $h/\lambda$; $h$
-is Planck's constant)
+a) Calculate the change in the magnitude of the velocity of an atom of
+Rubidium with mass $1.42\times10^{-25}\ \text{kg}$ when it absorbs a photon from a laser with wavelength $\lambda = 780\ \text{nm}$. (The linear momentum of a photon with wavelength $\lambda$ is given by $h/\lambda$; $h$ is Planck's constant)
 
-b) Assuming a rubidium atom absorbs one photon for every $\tau = 27
-\times10^{-9}\ \text{s}$, give the value of the ratio between the braking force of light and the braking force of the braking force of the braking force.
-gravity force.
+b) Assuming that a rubidium atom absorbs one photon every $\tau = 27
+\times10^{-9}\ \text{s}$, give the value of the ratio between the braking force due to light and the gravitational force.
 
-(c) Calculate the time required to stop a rubidium atom that
-is at room temperature ($T = 300\ \text{K}$).
-Consider rubidium gas as an ideal monoatomic gas.
+c) Calculate the time required to stop a rubidium atom that
+It is at room temperature ($T = 300\ \text{K}$). Consider the rubidium gas to be a monatomic ideal gas.
 
-(d) Determine the minimum temperature at which a gas can be cooled
-Rubidium atoms by this method.
+d) Determine the minimum temperature to which a gas can be cooled
+of rubidium atoms by this method.
 
-Useful constants: $h = 6.626\times10^{-34}\ \text{Js}$
-$g = 10\ \text{m/s}^2$
+Useful constants: $h = 6.626\times10^{-34}\ \text{Js}$ $g = 10\ \text{m/s}^2$
 
 $k = 1.38\times10^{-23}\ \text{J/K}$
 
@@ -799,3 +753,4 @@ $k = 1.38\times10^{-23}\ \text{J/K}$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Atom (object)|Atom]], [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1uha2jP7_H8asxTy3Gngq_a6BCzLHDQum/view)
+

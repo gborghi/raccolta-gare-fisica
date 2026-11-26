@@ -69,47 +69,18 @@ a) la quantità di calore $Q_1$ assorbita dalla massa gassosa affinché lo stant
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 01) The device represented shows a
-a cylindrical container containing a casing inside it
-“E”. Both are heat-insulated and present
-the thermal capacity is irrelevant. The shell is thick
-$m_E=300\ \text{kg}$, slides without friction and has a circular base of
-área $S=100\ \text{cm}^2$. In the environment represented by the letter A
-there is 1 mol ($4{,}00\cdot10^{-3}\ \text{kg}$) of helium gas at the temperature
-$T_o=300\ \text{K}$ capable of balancing pressure by weight
-$P_E$
-do
-Other
-overlapping
-à
-pressure
-atmospheric
-$p_\text{atm}=1{,}00\ \text{atm}$, thus keeping the measure a equal to
-$0{,}600\ \text{m}$. At a given instant the output is connected to a
-a constant voltage source equal to $110\ \text{V}$ to, by means of
-Resistor R, heat the gas mentioned. The resistor shall be kept on until the moment the
-The gas expansion of the embolus causes a total displacement equal to $2b$. The piece F, of
-mass $m_F=100\ \text{kg}$, is simply supported on the top of the container and will be
-displaced as the embezzlement rises. This piece is equipped with a hole to hold air in the
-the atmosphere B, under pressure equal to atmospheric pressure. Admitting that $c_P$
-♪ Be the heat ♪
-specific for helium gas isobaric evolution, which $c_V=3125\ \text{J/(kg}\cdot{}^\circ\text{C)}$ is heat
-specific to isometric changes, the ratio $\gamma= c_P/c_V$ is equal to $1{,}664$, the
-measure b equal to $0{,}200\ \text{m}$ and the electrical resistance of the resistor R equal to
-$1210\ \Omega$, calcule:
-(a) the amount of heat $Q_1$ absorbed by the gaseous mass so that the plunger E is only
-the anchorage in part F.
-- **B.** the time interval $\Delta t$ for the resistor to remain on.
-- **C** the output $\eta$ of the device considering the work performed and the energy consumption
-electrical.
+Question 01) The device shown depicts a cylindrical container containing a piston “E” inside it. Both are thermally insulated and have negligible heat capacity. The piston has mass $m_E=300\ \text{kg}$, slides without friction, and has a circular base of area $S=100\ \text{cm}^2$. In the environment denoted by the letter “A”, there is 1 mol ($4{,}00\cdot10^{-3}\ \text{kg}$) of helium gas at temperature $T_o=300\ \text{K}$, capable of balancing the pressure exerted by the weight $P_E$ of the piston superimposed on the atmospheric pressure $p_\text{atm}=1{,}00\ \text{atm}$, thus keeping the measurement “a” equal to $0{,}600\ \text{m}$. At a given instant, the socket is connected to a constant voltage source equal to $110\ \text{V}$ in order, via resistor R, to heat the aforementioned gas. The resistor is kept connected until the instant at which the piston, owing to gas expansion, undergoes a total displacement equal to $2b$. Part “F”, of mass $m_F=100\ \text{kg}$, simply rests on the upper part of the container and will be displaced as the piston rises. This part has an orifice to keep the air in environment “B” at a pressure equal to atmospheric pressure. Assuming that $c_P$ is the specific heat of helium gas for isobaric processes, that $c_V=3125\ \text{J/(kg}\cdot{}^\circ\text{C)}$ is the specific heat for isochoric processes, that the ratio $\gamma= c_P/c_V$ is equal to $1{,}664$, that the measurement of “b” is equal to $0{,}200\ \text{m}$, and that the electrical resistance of resistor R is equal to $1210\ \Omega$, calculate:
+a) the amount of heat $Q_1$ absorbed by the gaseous mass so that the piston E merely
+Abut against part F.
+- **B.** or the time interval $\Delta t$ during which the resistor must remain connected.
+- **C.** or the efficiency $\eta$ of the device, considering the work performed and the energy consumption
+Electrical.
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hnQq-trLkJDIQftCBv9dZg7hra9JWm--/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery,object/resistor"></span>
 

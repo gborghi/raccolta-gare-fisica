@@ -18306,64 +18306,24 @@ Ricordate che 1 cal è pari a 4.182 J.
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT117. The first is the Capraro Institute.
+PT117. Primo Capraro Institute
  
-St. Charles of Bariloche, Rio Negro. 
+San Carlos de Bariloche, Río Negro.
  
-Measuring length in a crawling manner. 
-The materials engineer had a rough day and better than a good mate for it.
-renew your strength and start again. When he returns to his lab he proposes to heat up .
-Water, and as a matter of fact, he was cut off from gas for nonpayment, he decides to do it.
-Using a cable from a new material you're researching and consisting of
-40% nickel and 60% copper. Such cable shall be used as resistance connected to 
-A 12V battery that you have in the lab. 
-Knowing that the density of nickel is Ni = 8.9 g/cm3 and that of copper is Cu = 8.96 g/cm3, 
-and that the density of the wire meets the mixture rule (proportion): 
-(a) Calculate the density of the wire. 
-To determine the length of the cable, not having the tape measure, they stole the cable.
-the previous night, and having a scale that allows measuring a range of 200 g to 400 g,
-The study of the longevity of the human body is based on the knowledge of the Archimedes principle.
-cable. Place a container of water on the scale by reading 243.28 g. 
-Then he rolls the cable, ties it up with a very fine thread and plunges the cable completely into the water.
-without touching the bottom of the container. In this situation the balance accuses 244.82 g. See 
-Figure: 
+Measuring length in a convoluted way. The materials engineer had a complicated day, and what better than a good yerba mate to replenish his strength and start over? When he returned to his laboratory, he set out to heat water, and since, to top it all off, his gas had been cut off due to non-payment, he decided to do it by using a wire made of a new material he was investigating, which consisted of 40% nickel and 60% copper. This wire would be used as a resistor connected to a 12 V battery available in the laboratory. Knowing that the density of nickel is δNi = 8.9 g/cm³ and that of copper is δCu = 8.96 g/cm³, and that the density of the wire obeys the mixing rule (proportionality):
+a) Calculate the density of the wire.
+To determine the length of the cable, since they do not have the measuring tape—which was stolen the night before—and since they have a scale capable of measuring within a range from 200 g to 400 g, they use their knowledge of Archimedes' principle to determine the length of the cable. They place a container of water on the scale and obtain a reading of 243.28 g. Then they coil the cable, tie a very thin thread to it, and submerge the cable completely in the water without letting it touch the bottom of the container. In this situation, the scale reads 244.82 g. See figure:
  
  
-Knowing that the density of the water is 1 g/cm3, and that the diameter of the cable is 1 
-mm: 
-(b) determine the length of the cable. 
-(c) determine the mass of the cable. 
-This cable will perform the function of electrical resistance in an electric heater 
-connected to the 12 V battery. One of the main properties of the material.
-The power of the cable is that its electrical resistance remains constant with temperature. 
-Knowing that the resistance of a wire meets the following equation:
-A
-l
-R
-
-
-where  
-is the resistivity of the material that is equal to 
-m
-mm2
-50
-,0
-
-, l is the length of the cable and A is the area 
-of the cross section, calculate: 
-(d) the electrical resistance of the cable. 
-(e) The electrical power of the heater. 
+Knowing that the density of water is 1 g/cm³ and that the diameter of the cable is 1 mm:
+b) determine the length of the cable.
+c) determine the mass of the cable.
+This cable will serve as an electrical resistor in an electric heater connected to the 12 V battery. One of the main properties of the cable material is that its electrical resistance remains constant with temperature. Given that the resistance of a wire follows the equation R = ρl/A, where ρ is the resistivity of the material, equal to 0.50 Ω·mm²/m, l is the length of the cable, and A is the cross-sectional area, calculate:
+d) the electrical resistance of the cable.
+e) The electrical power of the heater.
 
  
-The following points shall be added:
-If we assume that all the heat supplied by the heater is used to heat
-half a liter of water and take it from an initial temperature of 16° C to 82° C (ideal for a 
-good mate) and that the specific heat of the water is 1 cal / g °C: 
-(f) how long will it take the engineer to heat the water to take the first time 
-What's that? If the engineer gets picked up to take him home in 15 minutes
-After you put the water to heat, will you be able to taste the first?
-I'm not going to kill you. 
-Remember that 1 cal is 4,182 J.
+104 - OAF 2015 If we assume that all the heat supplied by the heater is used to heat half a liter of water and raise its temperature from an initial value of 16° °C to 82° °C (ideal for a good mate) and that the specific heat of water is 1 cal/g·°C: f) How long will it take the engineer to heat the water in order to have his first little mate? If the engineer is picked up to be taken home 15 minutes after he has put the water on to heat, will he have time to savor his first mate? Remember that 1 cal = 4.182 J.
 
 
 <!--fig:start-->
@@ -18375,8 +18335,6 @@ Remember that 1 cal is 4,182 J.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/17F59CjVv0LqGAppd63cd5cPYLxiuBRWO/view)
-
-
 
 <span class="atom-split" id="q134" data-atom="q134" data-title="Argentina 2015 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/5,multidisciplina/mono,object/electron,object/nucleus"></span>
 

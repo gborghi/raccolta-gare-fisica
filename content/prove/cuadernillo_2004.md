@@ -499,76 +499,52 @@ Potenza calorifica gas: 9396 Kcal/m3
 
 <div class="qlang-split" data-lang="en"></div>
 
-Energy and savings
+Energy and Savings
 
-PT5. City of Buenos Aires. Blue, please. 
+PT5. City of Buenos Aires. Azul.
  
-Energy and savings. 
-The storm broke out suddenly and soon the temperature dropped sharply.
-The room was 5 degrees Celsius. It was necessary to heat it up somehow until the air
-It is 22 oC. The house had been uninhabited for a long time and we should have taken some .
-I'll collect before I light the stoves. We had two options:
-• 
-an electric oil radiator - 1500 watts - 220 volts 
-• 
-a balanced fire stove of 2500 Kcal/h 
-The electric radiator first heats the oil to the emission temperature and then heats the air.
-from the room. If you consider this stove as a perfect black body, the power it radiates is
-can be established by the following equation: 
-P = σ . T4 . A 
-where T is the emission temperature, A is the total surface it emits and σ is the Stefan constant-
-Boltzman, you know. 
-The gas stove, once lit, heats the room's air to the desired temperature. 
-Of course, 50% of the energy released is lost in the hot gases of combustion towards the
-outside. 
+Energy and savings. The storm broke out suddenly, and soon the temperature dropped sharply; the thermometer in the room read 5 º°C. It was necessary to heat the room in some way until the air reached 22 º°C. The house had been unoccupied for a long time, and we had to take some precautions before turning on the heaters. We had two options: • an oil-filled electric radiator - 1500 watts - 220 volts • a balanced-draft heater with an output of 2500 Kcal/h. The electric radiator first heats the oil to the emission temperature and then heats the air in the room. If this heater is regarded as a perfect black body, the radiated power can be determined using the following equation: P = σ . T4 . A, where T is the emission temperature, A is the total emitting surface, and σ is the Stefan-Boltzmann constant. Once switched on, the gas heater gradually heats the air in the room to the desired temperature. Of course, 50% of the energy released is lost to the outside through the hot combustion gases.
  
-(a) Whereas the radiator is composed of 6 rectangular metal plates stamped with 
-0.70 m high, 0.15 m wide and a despicable thickness emitted by each of them to both sides, and 
-Inside it is 3.5 liters of oil. How long does it take to heat the room radiator?
-electric since it went on? (the room dimensions can be estimated, considering that no 
-There are losses for doors and windows, and you can disregard the volume occupied by the furniture). 
+a) Whereas the radiator consists of 6 rectangular plates of stamped metal of
+0.70 m high, 0.15 m wide, and of negligible thickness; each one emits [heat] to both sides, and inside it holds 3.5 litres of oil. How long does it take for the electric radiator to heat the room from the moment it is switched on? (The dimensions of the room may be estimated; assume there are no heat losses through doors and windows, and the volume occupied by furniture may be neglected.)
  
-(b) The electric stove has two switches; each switches on a different resistance with powers 
-600 W and 900 W respectively, allowing the stove to be used with a switch or
-with both together, thus achieving their ultimate power. 
+b) The electric stove has two switches; each switch turns on a different heating element with powers
+Of 600 W and 900 W respectively, allowing the heater to be used with either switch interchangeably or with both switches together, thereby achieving its maximum power in the latter case.
  
-Squeeze the circuit of the stove with both resistors and their switches. 
+Sketch the heater circuit with both resistors and their switches.
  
-(c) The installation of the sockets does not allow an electric current intensity of more than 5 A,
-How do you turn it on so it's hot fast without burning the facility? 
+c) The socket installation cannot handle an electric current exceeding 5 A—of
+What's the way it should be switched on so that it heats up quickly without damaging the installation?
  
 
-d) In addition to rapidly heating the room, we want to work with the government and try to
-use the medium with the lowest cost. Which of the two stoves is better to light? 
-(considering the electric radiator with the power permitted by the installation). 
+d) In addition to heating the room quickly, we want to collaborate with the government and try to
+Use the option with the lowest cost. Which of the two heaters should be turned on? (considering the electric radiator with the power permitted by the installation).
  
-The data: 
+Data:
  
-σ = 5,7 x 10-8 W/m2.K4 
+σ = 5,7 x 10-8 W/m2.K4
  
-The following table shows the results of the calculations:
+Ceaceite = 0.4 cal/g.°C
  
-Ceaire = 0,237 cal/g.oC 
+Ceaire = 0.237 cal/g.°C
  
-The following table shows the results of the evaluation:
+δoil = 920 kg/m³
  
-The following conditions shall apply:
+δaire = 1.29 kg/m³
  
-1 cal = 4,18 J 
+1 cal = 4.18 J
  
-Electricity cost: $0.041/Kw-h 
+Electricity cost: $0.041/kWh
  
-Gas cost: 0,153469 $/m3 
+Gas cost: 0.153469 $/m³
  
-Heating capacity of gas: 9396 Kcal/m3
+Gas calorific value: 9396 kcal/m³
 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2004 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas,object/tank-container"></span>
 
@@ -657,45 +633,31 @@ P0 = 101300 Pa = 1 atm
 
 <div class="qlang-split" data-lang="en"></div>
 
-We're going to the hospital.
+**Let's go**
 
-PT6. City of Buenos Aires. Blue, please. 
+PT6. City of Buenos Aires. Azul.
  
-There we go. 
-We're going on vacation this year!! We're going to spend a few days in La Paz, Bolivia. Before you go out
-We'll check the car carefully to get it ready and onto the road. The car manual indicates that the pressure of the
-air inside the tyres shall be 30 lb/plg2. The compressor takes air from the environment and it
-It's compressed on the deck. 
-(a) What volume of air should be taken from the air to inflate the tyres before leaving the air?
-What about Buenos Aires? 
-(b) When going out on the road, rubbing with asphalt causes an increase in the temperature of the road.
-25 degrees. How much does the air pressure vary inside the tire? 
-c) We got to La Paz and we had to change a wheel and put the helmet. What volume of 
-air is compressed to inflate? (Consider that atmospheric density and temperature 
-They're constant throughout the whole ascent.) 
-(d) In reality, as the density of the atmosphere is not constant with respect to altitude, it can be 
-approximate the calculation of atmospheric pressure with the following expression: 
+Here we go. This year we're going on vacation!! We'll go spend a few days in La Paz, Bolivia. Before we set off, we'll give the car a thorough check to get it ready and hit the road. The car's manual states that the air pressure inside the tires should be 30 psi. The compressor draws air from the atmosphere and compresses it into the tire.
+a) What volume of air must it draw from the surroundings to inflate the tires before leaving
+Buenos Aires?
+b) When out on the road, friction with the asphalt causes a rise in the temperature of the
+A tyre of about 25ºC. By how much does the air pressure inside the tyre vary?
+c) We arrived in La Paz and had to change a wheel and put on the spare. What volume of
+Is air compressed to inflate it? (Assume that the density and temperature of the atmosphere remain constant throughout the entire ascent.)
+d) In fact, since the density of the atmosphere is not constant with respect to altitude, one can
+Approximate the calculation of atmospheric pressure using the following expression:
  
-P = po.e[(-g.δo/po).∆h] 
+P = po.e[(-g.δo/po).∆h]
  
-What volume of air is compressed to inflate the helmet wheel with this new one?
-The approach? 
+What volume of air is compressed to inflate the spare tire using this new approach?
  
-Note: 
-A tire has an outer radius of 24.3 cm, 17.5 cm wide, and the tire has 17.8 cm radius. 
-Buenos Aires is located at sea level and La Paz at 4000 m above sea level. 
-G= 9,8 m/s2 
-δ0 air = 1.29 Kg/m3 at sea level 
-The following is the list of the following:
-The following conditions shall apply:
+Note: A tire has an outer radius of 24.3 cm and a width of 17.5 cm, and the rim has a radius of 17.8 cm. Buenos Aires is at sea level, and La Paz is 4000 m above sea level. G = 9.8 m/s², δ0 air = 1.29 kg/m³ at sea level, p0 = 101300 Pa = 1 atm, 1 lb/in² = 69 hPa = 0.068 atm
 
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Argentina 2004 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
 
@@ -1258,93 +1220,24 @@ m
 
 <div class="qlang-split" data-lang="en"></div>
 
-Measuring the magnetic field with a cube
+Measuring the magnetic field with a tank
 
-PT11. Jump in. Blue and Green. 
+PT11. Jump. Blue and Green.
  
-With the scarcity of instruments, we sharpen our wit. 
-A physicist at a major magnetism research center is interested in measuring the
-The magnetic field is strong, but it does not have an adequate gausemeter, as the
-The fact that the budget in the laboratory is reduced deprives him of it. 
-In this situation, a device is set up to measure the magnetic field.
-It has a rectangular cube with a conductive liquid, with the particularity that in two
-The surface is conductive and the other two are not. 
-The liquid fills the container to a certain level I, the density of the same isδ , of conductivity σ and 
-of a heat capacity of Cp. 
-First the cube is arranged under the action of the magnetic field to be measured and
-immediately connected to a variable voltage source. As the potential difference 
-∆V starts to grow, a fluid imbalance appears between the walls no 
-front and rear drivers of the bucket. 
-The physicist records the change in slope depending on the applied voltage by obtaining the following 
-The results. 
-The following is the list of the current operating conditions:
-⎟
-⎠
-⎞
-⎜
-⎝
-⎛
-−
-a
-Y
-Y
-0
-0 
-0 
-0.5 
-1.10 
-1 
-2.20 
-1.5 
-3.30 
-2 
-4.40 
-a-Graphing 
-⎟
-⎠
-⎞
-⎜
-⎝
-⎛
-−
-a
-Y
-Y
-0
-The functional relationship between the two is determined by the functional relationship between the two functions. 
+In the face of a shortage of instruments ... we sharpen our wits. A physicist at an important magnetism research center is interested in measuring the strength of a magnetic field but does not have a suitable gaussmeter, since the reduction in the laboratory's budget has deprived him of one. Given this situation, a device is to be assembled to enable him to measure the magnetic field; for this purpose, he has a rectangular tank containing a conductive liquid, with the particularity that at two opposite ends of the tank the surface is conductive and the other two ends are not. The liquid fills the container up to a certain level Yo; its density is δ, its conductivity is σ, and its heat capacity is Cp. First, the tank is placed under the action of the magnetic field to be measured, and it is immediately connected to a variable-voltage source. As the potential difference ∆V begins to increase, a difference in level is observed in the liquid between the front and rear non-conductive walls of the tank. The physicist records the variation of the slope as a function of the applied voltage, obtaining the following results. ∆V(volts) ⎟ ⎠ ⎞ ⎜ ⎝ ⎛ − a Y Y 0 0 0 0.5 1.10 1 2.20 1.5 3.30 2 4.40 a-Plot ⎟ ⎠ ⎞ ⎜ ⎝ ⎛ − a Y Y 0 as a function of ∆V and find the functional relationship between them.
  
-b-Take a volume element over the surface and draw the forces causing the imbalance and 
-calculate the current value established when the maximum potential difference was applied. 
+b- Take a volume element on the surface, draw the forces that cause the height difference, and calculate the value of the current that flows when the maximum potential difference is applied.
  
-With what we've done so far, is the physicist able to calculate what the magnetic field is? 
-If so, how would you do it and what would be its value? 
+c- With what has been done so far, is the physicist in a position to calculate what the magnetic field is? If so, how would they do it, and what would its value be?
  
-d-Find a functional relationship of the field to the parameters governing its intensity and which 
-take into account the ratio obtained in 
+d- Find a functional relationship of the field with the parameters governing its intensity, one that takes into account the relationship obtained in
 (a). 
  
-d-Calculate the maximum value of the field 
-Magnetic that physicists can measure without.
-The conductive fluid is poured from 
-the bowl, when the voltage was applied to it.
-- That's it. 
+d- Calculate the maximum value of the magnetic field that the physicist can measure without the conductive liquid spilling out of the tank, when the maximum voltage is applied to it.
  
-What is the final temperature that you
-It acquires the substance when it is given to it.
-applied the maximum voltage for 2 
-Seconds? 
-Assuming that
-That 
-se 
-It was 25 degrees Celsius. 
+e- What is the final temperature reached by the substance when the maximum voltage was applied to it for 2 seconds? Assuming it was at 25 degrees Celsius.
  
-Data from the report 
-Yo=0.5 m   , a=0.25m ,    b=2m,   c=1,70m    σ =22.7 
-m
-Ω
-1
-  Cp
- = 5,18 KJ /kg.K   δ = 2 g/cm3
+Data: Yo=0.5 m, a=0.25 m, b=2 m, c=1.70 m, σ=22.7 mΩ, 1 Cp=5.18 kJ/kg·K, δ=2 g/cm³
 
 
 <!--fig:start-->
@@ -1356,8 +1249,6 @@ m
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Argentina 2004 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/multi,object/spring,object/tank-container"></span>
 
@@ -1690,87 +1581,35 @@ G = 6,67 x 10-11 Nm2/Kg2
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Bible says that "the kingdom of God will come".
+Armageddon: Salvation of the Earth
 
-PT13. Rosario, Santa Fe. Green, please. 
+PT13. Rosario, Santa Fe. Green.
  
-Would you leave the salvation of the Earth in the hands of the writer of this film? 
-In the movie Armageddon, an asteroid the size of Texas is heading directly toward Earth and the Earth.
-The only way to save humanity is to place a nuclear bomb that will split it, in such a way.
-Let the two fragments pass through the sides of the earth without causing any harm. 
+Would you entrust the salvation of Earth to the screenwriter of this movie? In the film "Armageddon," an asteroid the size of Texas is heading straight for Earth, and the only way to save humanity is to place a nuclear bomb that will split the asteroid so that the two fragments pass by the sides of Earth without causing any damage.
  
-For this to happen, two conditions must be met: 1) the nuclear bomb must blow up the asteroid in
-two approximately equal parts and 2) the separation rate of the halves must be 
-Large enough to separate them from each other at a distance equivalent to the diameter of the Earth plus
-1300 km (according to the movie), in the time it takes the asteroid to reach our planet after
-The nuclear explosion. To analyze this odyssey, we will make the following assumptions:
+For this to happen, two conditions must be met: 1) the nuclear bomb must split the asteroid into two roughly equal parts, and 2) the separation speed of the halves must be large enough to separate them by a distance equal to the Earth's diameter plus 1300 km (according to the film), within the time it takes the asteroid to reach our planet after the nuclear explosion. To analyze this odyssey, we will make the following assumptions:
  
-Assumptions 
-Comments from the press
-The asteroid has a diameter of 1240 km.
-East-west dimension of Texas 
-Density of the asteroid: 5500 Kg/m3 
-Equivalent to the density of the Earth 
-The shape of the asteroid: Sphere 
-In the movie, the asteroid is elongated.
-Nuclear bomb: 100 megatons
-The largest atomic bomb in existence .
-Quantity of thermonuclear energy 
-converted to kinetic energy: 100% 
-Energy divided equally between 
-The two halves of the asteroid .
-Time for the fragments to reach the
-Ground after detonation: 2 h 
-In the general context of the 
-- What ?
+Assumptions Comments Asteroid diameter: 1240 km East-west dimension of Texas Asteroid density: 5500 kg/m3 Equivalent to Earth's density Asteroid shape: Sphere In the film, the asteroid is elongated Nuclear bomb: 100 megatons The largest atomic bomb in existence Amount of thermonuclear energy converted into kinetic energy: 100% Energy divided equally between the two halves of the asteroid Time for the fragments to reach Earth after the detonation: 2 h According to the overall context of the film
  
-Data from the report 
-Comments from the press
-Speed of the asteroid: 35400 Km/h 
-Date of the movie 
-The land-based radio: 6380 km 
+Data Comments Asteroid speed: 35400 km/h Film data Earth radius: 6380 km
  
-One megaton is 4,184 . 1015 J 
+1 Megaton = 4.184 × 10^15 J
  
  
-1. Using the assumptions and data from the tables, it determines the separation rate of the
-the asteroid's halves and the distance between them when it reaches Earth. 
+1. Using the assumptions and data from the tables, determine the separation velocity of the
+The halves of the asteroid and the distance between them when it reaches Earth.
  
 2. Before reaching the asteroid, the space shuttle must dock with the Russian space station.
-MIR to get fuel. In the film, the Russian cosmonaut activates gravity.
-Artificial turning the station (little budget of the movie to simulate weightlessness!!). 
-The circle in the figure represents the cross-section of the module core rotating around 
-its center. 
-• 
-Draw in the circle a person of approximately 
-Standing at 6 feet tall on the module. 
-• 
-Calculates the tangential velocity required to produce 
-a centrifugal acceleration of 1 g on the ground at the feet of the 
-Astronaut and the revolutions per minute of the MIR for 
-to achieve this acceleration. 
-• 
-Determine the value of the artificial g in the head of the 
-Astronaut assuming the rpm From the Russian station. 
-• 
-It explains the impossibility of achieving artificial gravity.
-1 g uniformly through the rotation of the MIR. 
+MIR for refueling. In the film, the Russian cosmonaut "activates" artificial gravity by rotating the station (the film had a low budget for simulating weightlessness!!). The circle in the figure represents the cross-section of the module's core rotating about its center. • Draw a person about 1.90 m tall standing inside the module within the circle. • Calculate the required tangential speed to produce a centripetal acceleration of 1 Earth g at the astronaut's feet, and the revolutions per minute of the MIR needed to achieve this acceleration. • Determine the value of the artificial g at the astronaut's head, assuming the Russian station's rpm. • Explain why it is impossible to achieve a uniform 1 g artificial gravity through the rotation of the MIR.
  
-3. Assuming the mission's objective is actually met and the asteroid fragments pass through.
-At the distance, it calculates the gravitational force exerted by these on the Earth and 
-Compare it to the force exerted by the moon. 
-ML = 7,35 . 1022 Kg 
-MT = 5,98 . 1024 Kg 
-DistT,L is 3.85 . 108 m 
-G = 6,67 x 10-11 Nm2/Kg2
+3. Assuming that the mission objective is truly achieved and the asteroid fragments pass
+At the specified distance, calculate the gravitational force exerted by these on Earth and compare it with the force exerted by the Moon. ML = 7.35 × 10^22 kg, MT = 5.98 × 10^24 kg, DistT,L = 3.85 × 10^8 m, G = 6.67 × 10^-11 Nm²/kg²
 
 **Topic:** [[Gravitation]], [[Conservation of Momentum]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Argentina 2004 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/multi,object/lens,object/mirror,object/battery"></span>
 
@@ -2001,116 +1840,57 @@ può fornire una corrente di 60 amperes per un'ora, 30 amperes per 2 ore, ecc.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Other, of a kind used for the manufacture of foodstuffs
+Homemade jams
 
-PT14. Rosario, Santa Fe. Green, please. 
+PT14. Rosario, Santa Fe. Green.
  
-Home-made jams. 
-In a beautiful mountain village tourists have the option to meet a family factory of
-- I'm not going to. During the visit, a person receives them, tells them a family history, guides them in 
-A tour of the facilities and a description of some of the production details. Before you invite them .
-To a showroom where you can show off the products you choose to buy, offer them a taste.
-some of them. Over time, and complementing the area's privileged natural environment, they've gone.
-incorporating services that make the stay of visitors more comfortable: bar, fast food, games 
-for children, and the effort in everything they do is reaping the desired results. 
+Homemade jams. In a beautiful mountain village, tourists have the option of visiting a family-run jam factory. During the visit, someone welcomes them, tells them a bit of family history, guides them around the premises, and describes some details of the production process. Before inviting them into a room where the products they can choose if they wish to buy are displayed, the person offers them a taste of some of the jams. Over time, and complementing the area's privileged natural setting, the family has gradually added services that make visitors' stays more enjoyable: a bar, fast food, games for children…, and the effort they put into everything they do is yielding the expected results.
  
-Some time ago, one of my children who's studying at the polymodal level has the idea of incorporating a species.
-It's the experimental science museum. To do this he plans to conduct a modest test for the purpose of
-Multiple: disseminate the quality of what they do, assess the impact on customers and test their performance 
-The first is the use of the 'supply' method, which is used to show the capacity of the container. 
+Some time ago, one of the children—who is studying at the polymodal level—had the idea of setting up a kind of experimental science museum. To that end, they are planning to carry out a modest, multi-purpose trial: to promote the quality of what they do, to gauge the impact on customers, and to test their own skills—namely, to demonstrate, on a reduced scale, the "vacuum" packaging of preserves jars.
  
-In the reception room he aims to project the image of the lid of a bottle where being reproduces part
-The beautiful facade of your house/factory and the surrounding area. You want to make a few-piece setup .
-The following elements. So, you're willing to deal with:
-• 
-A flat mirror .
-• 
-A four-dioptrial magnifying glass that his grandfather gave him .
-• 
-A 12 V and 60 A-h (ampere-hour) car battery1 
-• 
-A 12 V electric immersion heater
-• 
-A thermos for meat .
-• 
-A halogen lamp (reflector) to illuminate the lid 
-• 
-Some pieces of wood and connecting wires 
+In the reception room, they intend to project the image of a jar lid on which part of the attractive facade of their house/factory and of the surrounding premises is reproduced. They want to create an installation using few elements. Thus, they are willing to make do with: • A flat mirror • A 4-diopter magnifying glass that their grandfather gave them • A 12 V, 60 A-h (ampere-hour) car battery1 • A 12 V electric immersion heater • A food thermos • A halogen lamp (reflector) to illuminate the lid • Some pieces of wood and some connecting cables
  
-The following scheme (which does not include the halogen lamp, the heater for
-Immersion and battery with cables): 
+Keep the following diagram in mind (the halogen lamp, the immersion heater, and the battery with its cables are not included in it):
  
  
-Distance data: 
-d (between the vertical of the strokes and the wall): 3m 
+Distance data: d (between the vertical of the lines and the wall): 3 m
  
  
  
-q ……………………………………....: 0,16 m 
+q ……………………………………....: 0,16 m
  
  
  
-h ………………………………………: 0,026 m 
-The points A and B correspond to the extremes of the top of the lid, the diameter of which is: 
-0,06 cm 
+h ………………………………………: 0.026 m Points A and B correspond to the “ends” of the upper part of the lid, whose diameter is: 0.06 cm
  
-1) It is necessary to calculate some distances, for example: what would be the apparent depth of 
-the lid seen from the air with normal incidence. Data: refractive index: naire = 1; nagua = 1,3 
+1) It is necessary to calculate some distances; for example: what would be the apparent depth of
+The cap seen from above with normal incidence? Data: refractive indices: n_air = 1; n_water = 1.3
  
-2) Perform a simplified scheme showing only lines (identifying c/u) representing: · the 
-surface of the water, the top (AB) of the lid, the image (AB) corresponding to the
+2) Create a simplified diagram showing only lines (identifying each one) that represent: ·the
+water surface, ·the upper part (AB) of the lid, ·the image (A’B’) corresponding to the
 
-The virtual image calculated in item 1), the 45° mirror, the lens and the wall. Now place the image.
- no tracing of rays (AB) is required to form the mirror from (AB). 
+The virtual image calculated in item 1), the mirror at 45º, the lens, and the wall. Now locate the image – ray tracing is not required – (A’’B’’) that the mirror will form from (A’B’).
  
-3) Taking as a reference an object point from the centre of the lid, how far from the wall 
-Should the magnifying glass be there to project the enlarged image of the submerged lid? 
+3) Using a point on the object at the center of the lid as a reference, at what distance from the wall
+Where should the magnifying lens be located to project the enlarged image of the submerged lid?
  
-4) Consider that the vial is almost completely filled with jam, leaving a space for air.
-of a width of only about 0,010 litres (1x10-5 m3) and closed with a wrapper, which 
-It allows gas to escape out of the vial, but it prevents gas from entering. 
-Then keep the vial in boiling water for several minutes and thus achieve the
-The heat balance. To highlight the effectiveness of the closure, a visitor is offered a chance to:
-Try to open it, what force will it take to lift the lid of this bottle after
-have cooled to room temperature, 20 oC? Do not take into account the thermal expansion of 
-The jam and the jar. Data: atmospheric pressure: 1 atm = 101300 Pa. R = 0,082 
-The following table shows the number of samples taken from the sample: 
+4) Assume that the jar is filled almost completely with jam, leaving an air gap
+It holds only about 0.010 liters (1×10⁻⁵ m³) and is sealed with a rubber gasket that allows gases to escape from inside the jar but prevents gas from entering. The jar is then kept in boiling water for several minutes, thereby achieving thermal equilibrium. To demonstrate the effectiveness of the seal, a visitor is invited to try opening it: what force will be required to lift the lid of this jar after it has cooled to room temperature, 20 ºC? Ignore the thermal expansion of the jam and of the jar. Data: atmospheric pressure: 1 atm = 101300 Pa. R = 0.082 [atm·L/(mol·K)] = 8.31 [J/(mol·K)].
  
-5) When the plant tour is started, the heater is connected to the battery and maintained.
-connected for 25 minutes. Taking into account the data below and 
-Disregarding the energy losses:
-(a) What power and resistance should the heater have to heat water (and the heat output)
-The rest of the equipment) from room temperature (20 oC) to 100 oC in 15 minutes. 
-(b) If copper-coated ornaments were to be manufactured and sold for hanging in the
-walls arm the corresponding electrolytic cube, what mass of copper is 
-I could deposit on the ornaments with the remaining battery charge, assuming
-100% performance (and assuming it was connected to the calculated heater 
-in the previous item)?. 
-The data: 
-Eq (equivalent in thermal water) = 0,15 Kg 
-cF (mean specific heat of the vial and jam) = 3600 J/(Kg.oC) 
-mF (joint mass of the bottle and jam) = 0,28 Kg 
-ma (water mass) = 1 kg. [You can disregard the vaporized water mass until you get to 
-100 ºC] 
-The water temperature of the water is approximately 4186 J/(Kgo.C) 
-The value of the product concerned shall be the sum of the values of the product concerned. [Remember that the
-The electrochemical equivalent of an element is the mass of the element deposited or 
-It is emitted in an electrode per unit of electrical charge circulating]. 
-The following equations are used: 
+5) When the tour of the plant begins, the heater is connected to the battery and is maintained
+Connected for 25 minutes. Taking into account the data indicated below and ignoring the energy "losses":
+a) What power and what resistance must the heater have in order to heat the water (and the
+rest of the team) from ambient temperature (20 º°C) to 100 º°C in 15 minutes?
+b) If an attempt were made to manufacture and sell copper-coated ornaments for hanging on the
+Walls – while assembling the corresponding electrolytic cell –, what mass of copper could be deposited on the ornaments using the battery's remaining charge, assuming 100% efficiency (and imagining that it had been connected to the heater calculated in the previous item)? Data: Eq (water equivalent of the thermos) = 0.15 kg; cF (average specific heat of the jar and the jam) = 3600 J/(kg·°C); mF (combined mass of the jar and the jam) = 0.28 kg; ma (mass of water) = 1 kg. [The mass of water vaporized up to reaching 100 ºC can be neglected]; ca (specific heat of water) = 4186 J/(kg·°C); ε (electrochemical equivalent of copper (Cu2+)) = 3.29 × 10-7 kg/C. [Remember that the electrochemical equivalent of an element is the mass of that element deposited or released at an electrode per unit of electric charge passed]. Equivalences: 1 L = 1 dm3 = 1×10-3 m3.
  
-1 The life of a non-rechargeable car battery is expressed in ampere-hours. 
-A typical 12-volt battery has a nominal half-life of 60 amp-hours, which means that 
-It can supply a current of 60 amperes for an hour, 30 amperes for 2 hours, etc.
-
-
+1 The service life of a non-rechargeable car battery is expressed in ampere-hours. A typical 12-volt battery has a nominal average capacity of 60 ampere-hours, meaning it can supply a current of 60 amperes for one hour, 30 amperes for 2 hours, and so on.
 
 **Topic:** [[Geometric Optics]], [[Thermodynamics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Argentina 2004 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/droplet,object/capacitor,object/electron"></span>
 
@@ -2263,64 +2043,33 @@ Volume della sfera: 4/3 π r3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The measurement of the electron charge (Millikan)
+Measurement of the Electron Charge (Millikan)
 
-PT15. Rosario, Santa Fe. Green, please. 
+PT15. Rosario, Santa Fe. Green.
  
-Measurement of the electron charge. 
-In the Institute 's physics lab , it is decided to measure the electrical charge of oil droplets .
-using a similar assembly to that used by A. R. Millikan between 1906 and 1916 to determine the load 
-The electron (e- = 1,6x10-19 C). Numerous trials (more than 3000 measurements showed that the load
-The oil droplets were an entire multiple of a tiny charge, the electron. 
-The device used is essentially a sprayer that throws very small droplets of water into the air.
-oil, electrically charged by friction at the peak of the oil, falling into the air between the plates 
-of a condenser, through a hole in the upper plate. Quickly these drops, that 
-They can be considered fully spherical, acquiring a constant terminal velocity (speed 
+Measurement of the electron charge. In the Institute's Physics Laboratory, it is decided to measure the electric charge of oil droplets using an arrangement similar to the one employed by A. R. Millikan between 1906 and 1916 to determine the charge of the electron (e- = 1.6×10-19 C). Numerous trials (more than 3000 measurements) demonstrated that the charge of the oil droplets was an integer multiple of a very small charge, that of the electron. Essentially, the device used consists of a sprayer that ejects very small electrically charged oil droplets—charged by friction with the sprayer nozzle—which fall through an opening made in the upper plate into the air between the plates of a capacitor. Rapidly, these droplets, which can be regarded as perfectly spherical, acquire a constant terminal velocity (velocity
 
-The friction thus originated is directly
-proportional to the speed and manages to balance the forces acting on the droplet. 
-A uniform electric field is applied between the plates acting on the loads contained in the plates.
-drops by changing their speed. So by connecting and disconnecting the electric field it is possible that
-The same drop is measured several times as much as its terminal velocity of fall without an electric field as 
-Your terminal speed with the electric field. 
+(Stokes' limit) due to friction with the air; the friction thus generated is directly proportional to the velocity and manages to balance the forces acting on the droplet. A uniform electric field is applied between the plates; this field acts on the charges contained in the droplets, modifying their velocity. Thus, by switching the electric field on and off, it is possible to measure, on the same droplet, several times both its terminal falling velocity in the absence of an electric field and its terminal velocity with the electric field applied.
  
  
  
-We ask you to collaborate on some preliminary calculations necessary to carry out the design of the equipment. 
-(a) The diameter of the drop is expected to be 4 x 10-3 mm. The relative density of the oil is 0.8. 
-The Stokes expression for calculating the force of friction with air is f = 6πηrv. 
-The viscosity coefficient of air is η = 1,8.10-5Nsm-2. We will not consider, in principle, the
-I'm pushing because of the air. Calculate the limit velocity value when the drop falls per action of 
-The gravity. 
+We ask you to assist with some preliminary calculations required to carry out the design of the equipment.
+a) The droplet diameter is expected to be 4 x 10-3 mm. The relative density of the oil is 0.8.
+Stokes' formula for calculating the force of friction with air is f = 6πηrv. The viscosity coefficient of air is η = 1.8×10⁻⁵ N·s·m⁻². In principle, we will not consider the buoyant force due to air. Calculate the value of the terminal velocity when the droplet falls under the action of gravity.
  
-(b) It analyses whether or not the air pressure on the drop is not taken into account in practice.
-I'm going to try it. It uses as the relative density of air: δair = 0,0013 
+b) Analyze whether or not neglecting the thrust of the air on the droplet practically affects the
+Experiment. Use the following as the relative density of air: δair = 0.0013
  
-c) It is not actually known how many charges (electrons) may be in the droplet (Millikan had 
-The number of people who have been in the field of education and training is very low, from very few, two or three to hundreds) so it will be necessary to regulate the field in a
-wide range. How will the intensity of the electric field required to make the sphere 
-It remains at rest between the two plates of the capacitor if it has only one electron and if it has 
-Two hundred .
+c) In reality, it is not known how many charges (electrons) may have been in the droplet (Millikan had
+From very few—two or three—up to hundreds), so it will be necessary to adjust the field over a wide range. How will the strength of the electric field required for the sphere to remain at rest between the two capacitor plates vary if it has only one electron and if it has two hundred?
  
-(d) The droplets already have the terminal speed when they enter the capacitor. Millikan 
-He observed that when they were subjected to the electric field, some went up, some went down, and some went down.
-They were still, suspended in the air. This droplets behaviour depended on 
-the load they carried. The mass of the droplet can be known without measuring the
-terminal speeds with no electric field and with electric field and a combination of both 
-Mechanical equilibrium equations. Write the equation obtained this way and use it to 
-determine the load of a drop of 4.10-3 mm diameter. Find the number of electrons in 
-Excessive knowing that the drop goes 4mm in 16s in the first case and 4mm in 10.5s in the second.
-Second case. The potential difference between the 2cm separate plates is 25800V. 
+d) The droplets already have their terminal velocity when they enter the condenser. Millikan
+It was observed that, when subjected to the electric field, some droplets rose, others fell, and some remained motionless, suspended in the air. This behavior of the droplets depended on the charge they carried. It is possible to dispense with knowing the mass of the droplet by measuring the terminal velocities in the absence of an electric field and in the presence of an electric field and by combining the two equations of mechanical equilibrium. Write the equation obtained in this way and use it to determine the charge of a droplet with a diameter of 4.10⁻³ mm. Find the number of excess electrons, knowing that in the first case the droplet travels 4 mm in 16 s and in the second case it travels 4 mm in 10.5 s. The potential difference between the plates, which are 2 cm apart, is 25,800 V.
  
-e) Suppose a drop of 2.8x10-14N acquires a terminal velocity that is 3/2 of the
-The speed it has when it is under the action of gravity, what will be the force?
-If the displacement is downward, what is the force?
-electrical if its movement is upward. If the distance between the plates is doubled without
-the voltage change, how does the limit speed vary for each case (up and down)? 
+e) Suppose a drop of 2.8x10^-14 N acquires a terminal velocity that is 3/2 of the
+the speed it has when it is under the action of gravity—what will the electric force acting on it be if its displacement is downward? What will the electric force be if its displacement is upward? If the distance between the plates is doubled without changing the voltage, how does the terminal speed vary in each case (ascending and descending)?
  
-The data: 
-e- = 1,6x10-19 C 
-The following is the list of the relevant data sources:
+Data: e- = 1.6×10⁻¹⁹ C; Volume of the sphere: 4/3 π r³
 
 
 <!--fig:start-->
@@ -2332,8 +2081,6 @@ The following is the list of the relevant data sources:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Argentina 2004 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball"></span>
 
@@ -4817,23 +4564,15 @@ e) Determina l'accelerazione centripeta del sistema di massa quando oscilla.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions shall apply:
+Ramp, Friction, and Pendulum (MAS)
 
-PT23. The city of Mar del Plata, Buenos Aires. Blue, please. 
+PT23. Mar del Plata, Buenos Aires. Azul.
  
-A mass body m = 500 g is released from a height H along a ramp without friction. El 
-angle of the ramp with the horizontal is 30°, reaching at the bottom the mass a 
-speed of 4 m/s. Then a distance d = 2.4 m is advanced, by a surface with a coefficient of friction 
-equal to 0.05 until it collides and becomes attached to another mass m as it is hanging from a 
-The wire length l = 1 m, then performing a simple harmonic movement. 
+A body with mass m = 500 g is released from a height H along a frictionless ramp. The angle that the ramp makes with the horizontal is 30º, and at the bottom of the ramp the body reaches a speed of 4 m/s. It then travels a distance d = 2.4 m over a surface with a coefficient of friction equal to 0.05, until it collides with and sticks to another body of equal mass m that is hanging from a wire of length l = 1 m; the combined system then undergoes simple harmonic motion.
  
  
  
-a) What is the force that the plane makes on the mass? 
-(b) Calculate the distance s travels through the block in the plane. 
-(c) Find the mass velocity over the surface d an instant before the impact. 
-d) What is the period of oscillation of the pendulum formed? 
-) Determine the centrifugal acceleration of the mass system when it oscillates.
+a) What is the magnitude of the force exerted by the plane on the mass? b) Calculate the distance s traveled by the block along the plane. c) Find the velocity of the mass on the surface d an instant before the collision. d) What is the period of oscillation of the pendulum formed? e) Determine the centripetal acceleration of the mass system when it oscillates.
 
 
 <!--fig:start-->
@@ -4845,8 +4584,6 @@ d) What is the period of oscillation of the pendulum formed?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Block (object)|Block]], [[Pendulum (object)|Pendulum]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Argentina 2004 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/resistor"></span>
 
@@ -5173,59 +4910,35 @@ A tal proposito si chiede: calcolare la potenza calorifica che per trasmissione 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The heat resistance of the walls (analogue)
+Thermal resistance of walls (analogy)
 
-PT27. San Fernando of the Catamarca Valley. Blue, please. 
+PT27. San Fernando del Valle de Catamarca. Blue.
  
-To insulate a particular enclosure, walls are usually made of more than one material. For 
-The thermal resistance is usually determined using the analogue calculation method by performing a 
-The comparison between the transmission of electrical energy through a conductor and the conduction of the
-heat energy that is produced in a wall. 
+To isolate a given space, the walls are usually made of more than one material. To determine the thermal resistance, the analog calculation method is commonly used, involving a comparison between the transmission of electrical energy through a conductor and the conduction of thermal energy that occurs in a wall.
  
-It is used 
-s
-d
-R
-λ
-1
-=
+s d R λ 1 = is used
  
-Where: 
+Where:
  
-λ = coefficient of thermal conductivity 
+λ = thermal conductivity coefficient
  
-d = thickness of the wall 
+d = wall thickness
 
  
-s = surface of the wall 
-The heat output is also calculated as: 
-R
-t
-t
-q
-A
-B −
-=
+s = wall area. Likewise, the heat output is calculated as: R t t q A B − =
  
-In this respect, the calculation of the heat output transmitted through the wall of the building is requested.
-layout and dimensions as shown in Figure 1. 
+In this connection, it is requested to calculate the thermal power that, by conduction, passes through the wall having the arrangement and dimensions shown in the figure.
  
  
  
  
-The following shall be added to the list of the following:
-The following is the list of the following:
-The following is the list of the following:
-
-
+λAL = 202 W/(m·K) λCu = 387 W/(m·K) λPb = 35 W/(m·K)
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Argentina 2004 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/bubble"></span>
 
@@ -8570,19 +8283,15 @@ Proprio prima di toccare il terreno 400 metri sotto?
 
 Two balls from a skyscraper
 
-PT40. The city of Formosa. Blue, please. 
+PT40. City of Formosa. Blue.
  
-A ball is dropped from a skyscraper window and 2 seconds. Then it throws vertically towards the
-Down a second ball. What will be the initial speed of the second ball if it hits the first one?
-Just before you hit the ground 400 meters down?
+A ball is dropped from the window of a skyscraper, and 2 s later, a second ball is thrown vertically downward. What will be the initial velocity of the second ball if it catches up with the first ball just before both hit the ground 400 m below?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q41" data-atom="q41" data-title="Argentina 2004 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
 
@@ -9684,53 +9393,32 @@ d) Qual è l'accelerazione che deve avere il sottomarino per salvarlo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-James Bond in stock
+James Bond in Action
 
-PT52. City of Buenos Aires. Blue, please. 
+PT52. City of Buenos Aires. Azul.
  
-James Bond in action. 
-In the last James Bond movie, this one is chased by a car of Russian agents. 
-When James Bond is in St. Louis, Mathews realizes he's under surveillance. Then start with 
-a constant acceleration of 3 m/s2 until 150 m. From that moment on , it 's still moving fast .
-It's constant. 
-By the time Bond starts the Russians are 350 meters behind him travelling at high speed .
-constant of 35 m/s. 
-(a) How long before the Russians catch up to Bond? 
-600 metres from his starting point, James Bond observes a sign announcing the presence of a
-Curve, 300m ahead. In it he can read the characteristics of the curve:
+James Bond in action. In the latest James Bond film, he is pursued by a car carrying Russian agents. When James Bond meets St. Mathews, he realizes he is being watched. He then starts off with a constant acceleration of 3 m/s² until he has covered 150 m. From that point on, he continues at a constant speed. At the moment Bond starts off, the Russians are 350 m behind him, traveling at a constant speed of 35 m/s.
+a) In how much time will the Russians catch up with Bond?
+600 m from his starting point, James Bond notices a sign announcing the presence of a curve 300 m ahead. On it, he manages to read the characteristics of the curve:
  
  
 
  
-WARNING: dangerous curve
-Radio = 160 m α = 9o 
-μS = 0.11 speed. The maximum value of the vehicle shall be: 
+ATTENTION: dangerous curve Radius = 160 m α = 9º µS = 0.11 maximum speed = ….
  
  
-Unfortunately for him he can't read the maximum speed so he's forced, in a few minutes.
-Second, to do calculations to see if you should or should not vary your speed. 
-(b) Could you help him and tell him if he should take advantage of the 300 meters to vary his speed? If you must 
-How much? What should be the module of its acceleration? 
-Thanks to your help, Bond manages to take the curve successfully. Breathe quietly but it's not all over
-- I'll see you in here. You'll immediately receive a signal that your vehicle will self-destruct in 30 seconds. It 's time for you .
-activate your trigger seat, which will project it at a 30° angle. 88 m from the projection site,
-Find the mouth of a water drain at 50 m depth and wide enough to
-I can get down for him. An English submarine 200 m behind the injection point and a
-The water level would be set in motion at the very moment of injection trying to rescue it.
-Just as Bond was coming to the water. 
-(c) How fast should your seat be fired to make it fall into the mouth of the
-I'm not going to run out. 
-(d) What speed shall the submarine have to use to rescue it?
-
-
+Unfortunately for him, he can't read the maximum speed, so within a few seconds he is forced to do some calculations to determine whether or not he should change his speed.
+b) Could you help him and tell him whether he should take advantage of the 300 m to vary his speed? If he should
+Do it: how soon? What should the magnitude of its acceleration be? Thanks to your help, Bond manages to negotiate the curve successfully. Breathe calmly… but not everything ends here. He immediately receives the signal that his vehicle will self-destruct in 30 seconds. It's time to activate his ejection seat, which will propel him at an angle of 30º. 88 m from the ejection point is the mouth of a drain with water 50 m deep and wide enough to allow him to descend through it. An English submarine located 200 m behind the injection point and at the water's surface would start moving at the very instant of the injection, attempting to rescue him just as Bond reaches the water.
+c) At what speed must its seat be launched in order to land inside the mouth of
+Drain?
+d) What acceleration must the submarine have in order to rescue it?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q53" data-atom="q53" data-title="Argentina 2004 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor"></span>
 
@@ -13085,96 +12773,34 @@ considerando la via retta:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Falling reflector and pickup truck (cinematic)**
+**Falling Reflector and Pickup Truck (Kinematics)**
 
-PT75. The housewives, Buenos Aires. Blue, please. 
+PT75. Caseros, Buenos Aires. Blue.
  
-The exhibition grounds were preparing to open their doors and dazzle visitors with their
-new models and prototypes of pickup trucks. 
-(a) The head of the salon went through the facilities to finalize details and noticed a reflector was on the way.
-I'm not going to get out of here. 
-He immediately called an operator who came to fix the problem. He went up the 18th .
-steps crammed into the wall, separating both the first floor and the second floor by 30 cm. El 
-Last step was 20cm away. From the upper gate of the building. Walking down this one he got to the
-reflector; reached the same subject's support to the ceiling of the place with his outstretched arm, which with his 
-They were 2.10 meters high. The 3kg artifact. It was so loose that it still came off by crashing .
-against the floor. 
-(Working from an energy point of view) 
+The exhibition site was being readied to open its doors and dazzle visitors with its new pickup truck models and prototypes.
+a) The head of the hall walked around the premises to finalize the details and noticed that a spotlight was about to go on.
+To come loose. He immediately called a worker, who came over ready to solve the problem. He climbed the eighteen steps bolted to the wall; the first step was 30 cm from the floor, and each step was 30 cm from the next. The last step was 20 cm from the site's upper walkway. Walking along this walkway, he reached the spotlight; stretching out his arm, he managed to grasp its support, which was attached to the ceiling of the place; between his height and the length of his outstretched arm, the total was 2.10 m. The 3-kg device was so loose that it came loose anyway and crashed to the floor. (Working from an energy standpoint)
 
-1) What was the Kinetic Energy of the reflector when it reached the floor and at what speed did it do so? 
-2) What was the Kinetic and Potential Energy when I fell 3m? How fast was the 
-reflector at that instant? 
-3) How many meters had he travelled when the speed was 5 m/s? 
+1) What was the kinetic energy of the reflector when it reached the floor, and at what speed did it do so?
+2) What were the kinetic and potential energies when it had fallen 3 m? What speed did the  have?
+reflector at that instant? 3) How many meters had been traveled when the speed was 5 m/s?
  
-(b) The problem was resolved and the doors were opened and the spectators began to tour the place. 
-Sergio was shocked by the new Volkswagen Touareg whose performance, which was in the brochure,
-It was as follows: 
-The Volkswagen Touareg R5 TDI 
-Engine and transmission 
-Position 
-Longitudinal forward
-Food/fuel 
-Injecting pump, turbo
-Variable geometry 
-Cylinderhead
-2461 cm3 
+b) Once the problem had been resolved, the doors were opened and the spectators began to walk around the venue.
+Sergio was struck by the new Volkswagen Touareg, whose performance, as stated in the brochure, was as follows: Volkswagen Touareg R5 TDI Engine and Transmission: Longitudinal front-mounted; Fuel supply: Unit injector pump, variable-geometry turbocharger; Displacement: 2461 cm3
  
  
-Maximum power
-174 hp at 3500 rpm 
-Maximum par
-400 Nm to 2000 rpm 
-Compression ratio 
-18.5:1 
-Transmission 
-Full-time 4Motion 
-Change box 
-6 speed manual 
-Performances 
-Maximum speed 
-184 Km/h  
-Acceleration from 0 to 100 km/h 
-12.4 seconds. 
-Consumption 
-Interurban
-12.5 Lt/100Km. 
-Out of town .
-8.2 Lt/100Km. 
-Mixed
-9.6 Lt/100Km. 
-General data 
-Fuel storage 
-100Lt 
-Weight in the void 
-2304Kg. 
-Long x wide x high 
-4754 x 1928 x 1726 (mm) 
-- The trunk .
-555 Lt./1670 Lt with seat
-I'm down. 
+Maximum power 174 hp at 3500 rpm; maximum torque 400 Nm at 2000 rpm; compression ratio 18.5:1; permanent all-wheel drive 4Motion; 6-speed manual transmission; performance: maximum speed 184 km/h; 0–100 km/h acceleration 12.4 s; fuel consumption: extra-urban 12.5 L/100 km; interurban 8.2 L/100 km; combined 9.6 L/100 km. General data: fuel tank capacity 100 L; unladen weight 2304 kg; length x width x height 4754 x 1928 x 1726 mm; boot capacity 555 L/1670 L with seat folded down.
  
-The boy quickly asked himself:
-1) What space does it travel in 10 seconds? Starting from the rest? 
-2) How fast does it gain in that time? 
-3) What would the acceleration, speed and space graphs look like depending on the time? 
+The boy quickly considered the following: 1) What distance does he travel in 10 s starting from rest? 2) What velocity does he attain in that time? 3) What would the graphs of acceleration, velocity, and distance as functions of time look like?
  
-c) Later, already at home and with the illusion of owning a Touareg he became enthusiastic about this 
-Question: 
-If my friend with his truck leaves at 7:00. To your beach house 350km away, taking 
-a speed of 70 km/h. And I'm leaving with the same destination nine kilometers away. behind him at 7:30. 
-maintaining a speed equal to half the maximum that the Volkswagen can achieve, 
-Considering the straight line: 
-1) What time do I get there? 
-2) How far from the beach house do I find it? 
-3) How would it be charted?
+c) Later, already at home and filled with the excitement of owning a Touareg, he became enthusiastic about this one
+Question: If my friend leaves at 7:00 a.m. in his pickup truck for his beach house 350 km away, traveling at 70 km/h, and I set off for the same destination, 9 km behind him, at 7:30 a.m., maintaining a speed equal to half of the maximum speed the Volkswagen can reach, assuming a straight road: 1) What time do I catch up with him? 2) How far from the beach house do I meet him? 3) How would this be graphed?
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q76" data-atom="q76" data-title="Argentina 2004 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/rope-string,object/block"></span>
 
@@ -16787,202 +16413,56 @@ grafico di H(d)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The value of the product shall be determined by the method described in paragraphs 1 and 2.
+**PE6: Ferromagnetic force of a solenoid**
 
-PE6. City of Buenos Aires. Green, please. 
+PE6. City of Buenos Aires. Green.
  
-Ferromagnetic force 
-In this experiment we'll measure the force that a solenoid makes to an iron rod that
-It passes through its centre, when a current flows through it. 
+Ferromagnetic Force In this experiment, we will measure the force exerted by a solenoid on an iron rod that passes through its center, when a current flows through the rod.
 
-Materials: 
-- 
-2mm .
-- 
-Solenoid .
-- 
-Iron rod with a millimetre scale mounted on a glass (Figure) 
-- 
-Variable continuous voltage source 
-- 
-Resistance of 10 ohm 10 Watt 
-- 
-Alternating voltage source of 6 v 50 Hz. 
-- 
-Resistance of 100 ohm
-- 
-Foot with support
-- 
-Cable and connectors 
-- 
-Weighing 
-- 
-Millimeter sheets 
+Materials: - 2 multimeters, solenoid, iron rod with a millimeter scale mounted on a beaker (Figure), variable DC voltage source, 10-ohm 10-watt resistor, 6 V 50 Hz AC voltage source, 100-ohm resistor, stand with support, wires and connectors, balance, millimeter paper
  
-Theoretical introduction: 
-The solenoid has an L inductance which depends on how much the rod is inserted into the solenoid. 
-So the energy of the system is:
-( )
-2
-2
-1
-I
-L
-E
-d
-=
+Theoretical introduction: The solenoid has an inductance L that depends on how far the rod is inserted into the solenoid. Therefore, the energy of the system is: ( ) 2 2 1 I L E d =
  
  
  
-Where: E is the energy 
+Where: E is the energy
  
  
  
-I is the current through the solenoid.
+I is the current through the solenoid
  
-d is the length of the part of the bar that is inside the solenoid 
-L inductance dependent on the magnetic properties of the materials,
-of the geometry of the problem and of course of (d). 
-If we move the rod a very small distance ∆d we'll have a variation in the energy ∆E. 
-If we keep the current constant we can write. 
-( )
-2
-2
-1
-I
-L
-E
-d
-∆
-=
-∆
+d is the length of the part of the bar that lies inside the solenoid; L is the inductance, which depends on the magnetic properties of the materials, on the geometry of the problem, and of course on (d). If we move the rod by a very small distance ∆d, we will have a change in energy ∆E. If we keep the current constant, we can write: ( ) 2 2 1 I L E d ∆ = ∆
  
-Knowing that such a variation in energy is the work of magnetic force we can write it as
-force such as: 
-( )
-( )
-2
-2
-2
-1
-I
-H
-I
-d
-L
-d
-E
-F
-d
-d
-=
-∆
-∆
-=
-∆
-∆
-=
+Knowing that this variation in energy is the work done by the magnetic force, we can write this force as: ( ) ( ) 2 2 2 1 I H I d L d E F d d = ∆ ∆ = ∆ ∆ =
  
  
-Where: H is a function that depends on the magnetic properties of the 
-The problem geometry and of course the (d) 
+Where: H is a function that depends on the magnetic properties of the materials, on the geometry of the problem, and of course on (d)
  
-Dependence on the current: 
+Dependence on current:
  
-In the theoretical introduction it was shown that the force exerted by the coil on the rod was
-You can write:
-( )
-2I
-H
-F
-d
-=
+In the theoretical introduction, it was shown that the force exerted by the coil on the rod can be written as: ( ) 2I H F d =
  
  
  
-Where F is the force 
+Where: F is the force
  
  
  
-I 'm the current .
+I is the current
  
-d is the length of the part of the bar that is inside the solenoid 
-H is a function that depends on the magnetic properties of materials 
-And the geometry of the problem.
-i) 
-I 'm leaving it fixed .
-0
-d
-d =
-In an intermediate position, not all outside and not all inside,
-F-measure for different currents 
-ii) 
-Make a graph of F based on 
-2I  
-(iii) 
-Determine 
-(
-)
-0
-d
-H
-With his mistake 
+d is the length of the part of the bar that lies inside the solenoid; H is a function that depends on the magnetic properties of the materials and on the geometry of the problem. i) With 0 d d = fixed at an intermediate position—neither entirely outside nor entirely inside—measure F for different currents. ii) Plot F as a function of 2I. iii) Determine ( ) 0 d H along with its error.
  
-Dependence with d: 
-For all this part it is not necessary for me to make the mistakes treaty. 
+Dependence on d: For this entire part, you do not need to prepare the treatise on errors.
  
 
-iv) 
-Size F for different d 
-v) 
-Using the measurements make an approximate (upright) graph of H(d) 
+iv) Measure F for different d v) Using the measurements, draw an approximate (freehand) graph of H(d)
  
-Another way to get H(d), which is usually more convenient, is to measure the variation in inductance with d and 
-Then do it .
-( )
-d
-L d
-∆
-∆
-to obtain H(d). 
+Another way of obtaining H(d), which is usually more convenient, is to measure the variation of the inductance with d and then compute ( ) d L d ∆ ∆ to obtain H(d).
  
-For the calculation of L, the resistance of the solenoid and the impedance at a given frequency f are measured. 
-Then:
-(
-)
-2
-2
-2
-2
-2
-1
-2
-R
-Z
-f
-L
-fL
-R
-Z
-−
-=
-⇒
-+
-=
-π
-π
+To calculate L, measure the resistance of the solenoid and the impedance at a given frequency f. Then: ( ) 2 2 2 2 2 1 2 R Z f L fL R Z − = ⇒ + = π π
  
  
-vi) 
-Measure R with the multimeter 
-(vii) 
-Using the 6v 50Hz source with 100 ohm resistance in series and both 
-Z-sized multimeters for different d. 
-(viii) 
-Using the measurements make an approximate (upright) graph of L(d) 
-ix) 
-Calculate H(d) from the above graph for some d and check with the first 
-The following table shows the following:
+vi) Measure R with the multimeter. vii) Using the 6 V 50 Hz source with the 100 ohm resistor in series and the two multimeters, measure Z for different d. viii) Using the measurements, draw an approximate graph (freehand) of L(d). ix) Calculate H(d) from the previous graph for some d and verify with the first graph of H(d).
 
 
 <!--fig:start-->
@@ -16994,8 +16474,6 @@ The following table shows the following:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Solenoid (object)|Solenoid]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 2004 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/tank-container"></span>
 
@@ -17480,38 +16958,17 @@ Al termine dell'esperienza dovrà presentare un rapporto che contiene:
 
 **PE9: Specific weight of solid sample**
 
-PE9. San Fernando of the Catamarca Valley. Blue and Green. 
+PE9. San Fernando del Valle de Catamarca. Blue and Green.
  
-Objective: to determine the absolute specific weight and relative to the oil of the sample supplied 
-List of materials: 
-• 
-Graduated test
-• 
-It shows solid .
-• 
-Oil .
-• 
-Dynamometer .
+Objective: to determine the absolute and oil-related specific weight of the provided sample. List of materials: • Graduated cylinder • Solid sample • Oil • Dynamometer
  
-Requirements: 
-• 
-You can only use the items offered, pencil, paper and calculator 
-• 
-At the end of the experience, you must submit a report on: 
-1. The problem is being raised.
-2. Experimental method used 
-3. Value obtained from measurements made 
-4. Sources of error 
-5. Experimental result of the requested product 
-6. Comments you wish to make on the development of experience
+Requirements: • You may only use the provided items: pencil, paper, and calculator • At the end of the experiment, you must submit a report consisting of: 1. Statement of the problem 2. Experimental method used 3. Values obtained from the measurements taken 4. Sources of error 5. Experimental result for what was requested 6. Any comments you wish to make regarding the conduct of the experiment
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q102" data-atom="q102" data-title="Argentina 2004 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
 
@@ -23048,109 +22505,40 @@ Tutti i dati che ritiene pertinenti per il rapporto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE32: Electrical equivalent of heat and cooling**
+**PE32: Electrical Equivalent of the Calorie and Cooling**
 
-PE32. St. Michael of Tucumán. Blue, please. 
+PE32. San Miguel de Tucumán. Blue.
  
-This test is structured in two parts. The first part is to measure the electrical equivalent 
-And in the second part we're going to study the mathematical relationship of the decrease in the
-temperature in a body with a temperature above room temperature. 
+This test is structured in two parts. The first part involves measuring the electrical equivalent of the calorie, and in the second part we will study the mathematical relationship of the temperature drop in a body whose temperature is above the ambient temperature.
  
-Part one
-Electrical equivalent of the calorie 
-The first is the introduction.
-The aim of this practice is to calculate the thermal capacity of a calorimeter and to determine the
-The electrical equivalent of the calorie, through the principle of energy conservation. 
-Materials 
-- 
-A small heater (approximately 1200 W). 
-- 
-A glass of telgopor (calorimeter). 
-- 
-A mercury thermometer. 
-- 
-A graduated plastic glass. 
-Warnings 
-Turn on the heater only when it is submerged in water. In addition, the part of the
-The resistance must be completely covered by water. The cable can be wet without any.
-It's inconvenient. 
-- Turn on the heater at 220 volts. 
-- Be careful not to break the thermometer bulb. 
-The procedure 
-Place 200 ml of water (mag) in the calorimeter (telgopor glass), stir slightly and measure the temperature.
-the initial water temperature (IT). Insert the heater into the thermometer and turn it on for a period of time.
-approximately 1 minute (not necessarily exactly that value). Shake the thermometer slightly and
-measurement of the final temperature (Tf). 
-Recommendation 1: When shaking the calorimeter with water, do so carefully so as not to spill water. 
-Steps .
-Step one:
-Write the mathematical expressions that relate: 
-(a) Heat capacity, heat and temperature variation. 
-(b) Specific heat, thermal capacity and mass. 
-(c) Power, energy and time variation. 
-Step two:
-Using the above expressions, calculate: 
-(a) The heat received by the water (Q), during the time the heater is in place 
-It's on. 
-Data on water: specific heat = 1 cal/g or C; density = 1 g/ml. 
-(b) The energy expended by the heater (E in joules) during the same time interval. 
-It's a disregard for the heat capacity of the thermometer and the heat loss to the environment, and suppose that
-All the heat generated by the heater was used to heat the water. Using the principle of 
-energy conservation, determining how many Joules correspond to a calorie, or in other words,
-determine the electrical equivalent of the calorie (J). 
-Step three:
-Remove the water from the thermometer and seep before continuing. Place 100 ml of water in the 
-heat meter, and leave another 50 ml in the plastic glass. Swing the water in the glass gently and measure its volume .
-The temperature. Using the heater the water from the calorimeter is heated to approximately 50 C (no
-It needs to be exactly that value). Pour the water from the plastic glass into the thermometer, stir it.
-Again and measure the equilibrium temperature. 
-Recommendation 2: Do not remove the heater from the thermometer; consider it together with the thermometer 
-as part of the thermometer. 
-Recommendation 3: As the water is heated, gently shake the thermometer to 
-read it at temperature. 
-Using the expressions in step 1: 
+First Part: Electrical Equivalent of the Calorie Introduction The objective of this experiment is to calculate the heat capacity of a calorimeter and to determine the electrical equivalent of the calorie, using the principle of conservation of energy. Materials A small heater (approximate power: 1200 W). A polystyrene cup (calorimeter). A mercury thermometer. A graduated plastic cup. Warnings Turn on the heater only when it is submerged in water. In addition, the resistance part must be completely covered by water. The cable can get wet without any problem. - Turn on the heater at 220 volts. - Be careful not to break the bulb of the thermometer. Procedure Place 200 ml of water (mág) in the calorimeter (polystyrene cup), stir it gently, and measure the initial temperature of the water (TI). Insert the heater into the calorimeter and turn it on for approximately 1 minute (it does not have to be exactly that value). Stir the calorimeter gently and measure the final temperature (Tf). Recommendation 1: When stirring the calorimeter containing water, do so carefully so as not to spill the water. Step 1: Write the mathematical expressions that relate:
+a) Heat capacity, heat, and change in temperature.
+b) Specific heat, heat capacity, and mass.
+c) Power, energy, and time variation.
+Step 2: Using the preceding expressions, calculate:
+a) The heat received by the water (Q) during the time that the heater remains
+Ignition. Data on water: specific heat = 1 cal/g·°C; density = 1 g/ml.
+b) The energy consumed by the heater (E in joules) during the same time interval.
+Neglect the heat capacity of the calorimeter and the heat loss to the surroundings, and assume that all the heat generated by the heater was used to heat the water. Using the principle of conservation of energy, determine how many joules correspond to one calorie—or, in other words, determine the electrical equivalent of the calorie (J). Step 3: Before continuing, pour the water out of the calorimeter and dry it. Place 100 ml of water in the calorimeter and leave another 50 ml in the plastic cup. Gently stir the water in the cup and measure its temperature. Using the heater, heat the water in the calorimeter to approximately 50 °C (it does not need to be exactly that value). Pour the water from the plastic cup into the calorimeter, stir it again, and measure the equilibrium temperature. Recommendation 2: Do not remove the heater from the calorimeter; consider it, together with the thermometer, as part of the calorimeter. Recommendation 3: As the water is heated, gently stir the calorimeter in order to read the temperature. Using the expressions from Step 1:
 
-(a) Calculate the heat released by the hot water. 
-(b) Calculate the heat received by the cold water. 
-(c) Write the expression for the heat given by the calorimeter. 
-Despite the loss of heat to the environment, consider the heat exchange between water.
-heat, cold water and the thermometer, and calculate the thermal capacity (C) of the thermometer. 
-For a more accurate result, repeat the experiment at least three times and calculate the value.
-the average heat capacity of the calorimeter. 
-For a more accurate result, repeat the experiment at least three times and calculate the value.
-the average heat capacity of the calorimeter. Put the data and results in a table. 
-Recommendation 4: Dry the calorimeter before each experiment. 
-Mass experiment
-(hot water) 
-Temp. 
-Initial
-(water)
-hot) 
-Mass 
-(water)
-cold) 
-Temp. 
-Initial
-(cold water) 
-Temp. de 
-Balance 
-Capacity 
-Heat
-1 
+a) Calculate the heat released by the hot water.
+b) Calculate the heat received by the cold water.
+c) Write the expression for the heat released by the calorimeter.
+Neglecting heat loss to the surroundings, consider the heat exchange among the hot water, the cold water, and the calorimeter, and calculate the thermal capacity (C) of the calorimeter. To obtain a more precise result, repeat the experiment at least three times and calculate the mean value of the calorimeter's thermal capacity. To obtain a more precise result, repeat the experiment at least three times and calculate the mean value of the calorimeter's thermal capacity. Present the data and results in a table. Recommendation 4: Dry the calorimeter before each experiment. Experiment Mass (hot water) Initial temp. (hot water) Mass (cold water) Initial temp. (cold water) Equilibrium temp. Thermal capacity 1
  
  
  
  
  
  
-2 
+2
  
  
  
  
  
  
-3 
+3
  
  
  
@@ -23165,66 +22553,19 @@ Heat
  
  
  
-Average value C: 
+Average Value C:
  
-Step four:
-Take the data from step 2 and calculate the value received by the water and the calorimeter during the 2
-minutes of warm-up. Consider, now, that the energy expended by the heater served to
-The heat is also used to heat the water and the thermometer (barely neglecting the heat loss to the environment), and
-Calculate the electrical equivalent of the calorie again. 
-Step five:
-Consider the value for the electrical (or mechanical) equivalent of the calorie as 4,18 J. 
-Calculate the percentage error (difference, in percentage) between the expected value and the result obtained, 
-First for step two, and then for step four. 
-Which percentage error is less, for step 2 or 4? This was the expected result? Why? Why? 
-What are the main sources of experimental errors in this practice and how they can have
-influence the outcome? 
+Step 4: Take the data from Step 2 and calculate the amount received by the water and by the calorimeter during the 2 minutes of heating. Now consider that the energy expended by the heater was used to heat both the water and the calorimeter (neglect only the heat loss to the surroundings), and recalculate the electrical equivalent of the calorie. Step 5: Take the value for the electrical (or mechanical) equivalent of the calorie as 4.18 J. Calculate the percentage error (the difference, expressed as a percentage) between the expected value and the result obtained, first for Step 2 and then for Step 4. Which percentage error is smaller, that for Step 2 or that for Step 4? Was this result expected? Why? What are the main sources of experimental error in this experiment, and how can they influence the result?
  
-Part Two
-Temperature decline
-If a body is cooled from an initial temperature Ti to a T0, Newton's law can be 
-It's a valid explanation for its cooling. The equation: 
-T – T0 = (Ti – T0)e-k t 
-It could represent the evolution of temperature. 
-We'll then study the cooling of a body based on time. 
-Materials: 
-Glass .
-Thermometer .
-Sheets of millimetre paper 
-The procedure 
-Step one:
-Fill the glass with water and insert the heater so that the water will heat up, no matter what the value.
-reach. Remove the thermometer from the glass and try not to move it too much to not stir the air .
-surrounding. Record the temperature drop with the thermometer, for the first minute every 2 or 
-Three seconds, then every 10 or 30 seconds until room temperature. 
-Step two:
-Draw the temperature (vertical axis) against time (horizontal axis). 
-Step three:
-Now you plot the graph of the function in logarithms. 
+Part Two: Temperature Drop If a body cools from an initial temperature Ti to T0, Newton's law may be valid for explaining its cooling. The equation: T – T0 = (Ti – T0)e-k t could represent the evolution of the temperature. We will then study the cooling of a body as a function of time. Materials: Glass, Thermometer, Graph paper. Procedure Step 1: Fill the glass with water and insert the heater so that the water heats up; the value reached does not matter. Remove the thermometer from the glass and try not to move it much so as not to stir the surrounding air. Record the temperature drop with the thermometer: during the first minute, every 2 or 3 seconds, then every 10 or 30 seconds until the ambient temperature is reached. Step 2: Plot the graph of temperature (vertical axis) against time (horizontal axis). Step 3: Now plot the graph of the function in logarithmic form.
 
-In (T – T0)= 1n (Ti – T0) – k . t 
-Try to get the slope of the straight. 
-Write a report of your experience where you say: 
-- 
-Objectives of his work  Analytical planting 
-- 
-Experience achieved  Experimental design used. 
-- 
-Value, tables and/or graphs obtained. 
-- 
-Sources of errors and analysis of how they influence the final results of the summary. 
-- 
-Considerations and assumptions you have made. 
-- 
-All the data you consider relevant to the report.
+In (T – T0) = 1n (Ti – T0) – k · t, try to obtain the slope of the straight line. Prepare a report on your experiment that includes: the objectives of your work – the analytical approach; the experiment carried out – the experimental design used; the values, tables, and/or graphs obtained; sources of error and an analysis of how they affect the final, bounded results; the considerations and assumptions you have made; and all data you consider relevant for the report.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Calorimeter (object)|Calorimeter]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
-
-
 
 <span class="atom-split" id="q125" data-atom="q125" data-title="Argentina 2004 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/sphere,object/tank-container"></span>
 

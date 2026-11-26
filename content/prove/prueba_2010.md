@@ -330,95 +330,52 @@ il punto)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2: Mass spectrometer
+Problem 2: MASS SPECTROMETER
 
-The mass spectrometer is an instrument that allows for large-scale analysis of the
-accuracy of the composition of different chemical elements and atomic isotopes,
-separating the atomic nuclei according to their mass-to-charge ratio. Currently
-It is used not only in physics but also in chemistry, geology and medicine frequently.
-to identify atoms and their concentrations in samples.
-The first spectrograph was built by J. J. Thomson in 1907 and
-subsequently improved by his PhD student F. W. Aston, who in the year
-1922 won the Nobel Prize in Chemistry for the discovery of isotopes in elements
-Non-radioactive and by its statement of the integer rule using its
-mass spectrometer. En 1932, K.T. Bainbridge (Director of the Trinity test of the
-Manhattan Project), combined a speed selector with the spectrometer
-The first is the use of a semicircular magnetic field to test the relationship between the two
-mass and energy ($E = mc^2$) postulated by Einstein.
+The mass spectrometer is an instrument that makes it possible to analyze with great precision the composition of different chemical elements and atomic isotopes, separating atomic nuclei according to their mass-to-charge ratio. Today it is used not only in physics but also in chemistry, geology, and medicine, often to identify atoms and their concentrations in samples. The first spectrograph was built by J. J. Thomson in 1907 and later improved by his doctoral student F. W. Aston, who in 1922 won the Nobel Prize in Chemistry for the discovery of isotopes in non-radioactive elements and for formulating the whole-number rule using his mass spectrometer. In 1932, K.T. Bainbridge (director of the Trinity test of the Manhattan Project) combined a velocity selector with the semicircular magnetic spectrometer in order to experimentally verify the mass-energy relation ($E = mc^2$) postulated by Einstein.
 
-Figure 1: Scheme of the Mass Spectrometer
+Figure 1: Schematic of the Mass Spectrometer
 
-In the mass spectrometer the compound to be analysed enters the S sector (see
-Figure 1) where it is ionized and then accelerated by applying a
-potential difference between cathode and anode in region S. This beam enters
-subsequently in a speed selector which is a $S_1$ region where they are applied
-electric and magnetic fields perpendicular to each other. In the figure the field
-The magnetic $B_1$ is represented by the crosses indicating that its direction is
-perpendicular to the plane of the sheet of paper and inbound.
+In the mass spectrometer, the compound to be analyzed enters sector S (see Figure 1), where it is ionized and subsequently accelerated by applying a potential difference between the cathode and the anode in region S. This beam then enters a velocity selector, which is a region $S_1$ where mutually perpendicular electric and magnetic fields are applied. In the figure, the magnetic field $B_1$ is represented by crosses, indicating that its direction is perpendicular to the plane of the paper and that it is directed into the page.
 
-Disregarding the effect of gravity, an ion mass $m$ and charge $q$
-(positive), which moves at $v$ speed in an area of space where there are fields
-The electric and magnetic fields experience a force, known as Lorentz force, given the
-by the following expression.
+Neglecting the effect of gravitational force, an ion with mass $m$ and charge $q$ (positive), moving with velocity $v$ in a region of space where electric and magnetic fields are present, experiences a force known as the Lorentz force, given by the following expression.
 
 $$\vec{F} = q\vec{E} + q\vec{v} \times \vec{B}$$
 
-The force $q\vec{v} \times \vec{B}$ due to the magnetic field is perpendicular to that field and
-The ion velocity vector as shown in Figure 2 and has a module $qvB$.
+The force $q\vec{v} \times \vec{B}$, due to the magnetic field, is perpendicular to that field and to the ion's velocity vector, as shown in Figure 2, and has a magnitude of $qvB$.
 
-Figure 2: Scheme of the speed selector
+Figure 2: Speed selector diagram
 
-(a) Draw in Figure 2 the lines of electric field in the capacitor, indicating
-clearly its meaning.
+a) Draw the electric field lines in the capacitor in Figure 2, indicating
+Clearly its meaning.
 
-(b) Draw on the load $q$ of Figure 2, the force that would act on it
-when it is in that electric field.
+b) On the load $q$ in Figure 2, draw the force that would act on it.
+when it is in said electric field.
 
-(c) Knowing that ions traveling parallel to the capacitor plates must be
-pass through the cleft, and $E = 9.50\times10^2\ \text{V/m}$ and $B = 0.93\ \text{T}$ determine the speed
-of the ions coming out of the velocity selector.
+c) Knowing that the ions traveling parallel to the capacitor plates must
+To pass through the slit, and for $E = 9.50\times10^2\ \text{V/m}$ and $B = 0.93\ \text{T}$ to determine the velocity of the ions exiting the velocity selector.
 
-Ion ions having a velocity such that they can pass through the
-The speed selector enters a region $S_2$ of space where there is only one field
-magnético $B_2$. In this region of space the ion has a circular path as it is
-This is shown in Figure 1.
+Ions that have a velocity enabling them to pass through the slit of the velocity selector enter a region $S_2$ of space in which there is only a magnetic field $B_2$. In this region of space, the ion follows a circular path, as seen in Figure 1.
 
-(d) What force acts on the ion in the region $S_2$ and why does it follow that force?
-The rotation of the vehicle is not possible.
+d) What force acts on the ion in the region $S_2$, and why does it follow that
+Circular trajectory.
 
-(e) Express the acceleration of the ion in terms of its velocity and radius of the
-Trajectory
+e) Express the acceleration of the ion in terms of its velocity and the radius of the
+trajectory
 
-(f) Find an expression, in terms of $m$, $q$, $E$ and $B$, for the radius of the
-The trajectory.
+f) Find an expression, in terms of $m$, $q$, $E$, and $B$, for the radius of the trajectory.
 
-For a fixed value of the magnetic field speed and module in the region
-$S_2$, the lower the $m/q$ (mass/load) coefficient, the lower the radius of curvature $r$ of
-The path described by the ions, and therefore their path will be more deflected. Si la
-The sample is made up of isotopes of an element, all of which will have the same charge,
-But the heavier ones will describe a circular path of higher radius. By
-Therefore, ion beams of different mass/charge ratios will reach different points of the
-The number of signals left on the screen is determined by the intensity of the signals left on the screen.
-The relative abundance of each type.
-The natural and stable isotopes of carbon are $^{12}$C (98.89%) and $^{13}$C (1.11%).
-There is also a radioactive isotope $^{14}$C. By analyzing with this spectrometer a
-Carbon samples can be found in different isotopes as well as other
-elements (impurities). In particular, two trajectories were determined, one radio
-$R_1 = 22.4\ \text{cm}$ and another radio $R_2 = 26.2\ \text{cm}$.
+For a fixed value of the velocity and of the magnitude of the magnetic field in region $S_2$, the smaller the ratio $m/q$ (mass/charge), the smaller the curvature radius $r$ of the path described by the ions, and therefore the more their path will be deflected. If the sample consists of isotopes of an element, all will have the same charge, but the heavier ones will describe a circular path with a larger radius. Therefore, ion beams with different mass/charge ratios will reach different points on the photographic plate, and, based on the intensity of the signals they leave, the relative abundance of each type is determined. The natural and stable isotopes of carbon are $^{12}$C (98.89%) and $^{13}$C (1.11%). There is also a radioactive isotope, $^{14}$C. When a carbon sample is analyzed with this spectrometer, different isotopes can be found, as can other elements (impurities). In particular, two paths were determined: one with radius $R_1 = 22.4\ \text{cm}$ and the other with radius $R_2 = 26.2\ \text{cm}$.
 
-(g) Determine which isotope or impurity the sample contains
+g) Determine which isotope or impurity the sample contains
 
-The mass of the element is equal to its atomic weight expressed in a. For example, La
-The mass of hydrogen is 1 um. (You may need the table attached to answer
-this point)
+The mass of an element is equal to its atomic weight expressed in u. For example, the mass of hydrogen is 1 u. (You may need the attached table to answer this point.)
 
 **Topic:** [[Electromagnetism]], [[Magnetism]], [[Nuclear & Particle Physics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Point Charge (object)|Point Charge]], [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1FaB7JemnarKI1U56BMXDci3vxn7SGjS-/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2010 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/disk"></span>
 
@@ -515,44 +472,29 @@ $V_2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: Disco Shockers
+Problem 3: COLLIDING DISCS
 
-On a horizontal surface without friction there are three identical radius discs $R$ and
-mass $M$ as shown in the following figure. Initially the disc is located at
-the left (denoted D) moves, without rotation, at $V_i$ to the right,
-whereas the other two discs (called 1 and 2) are at rest and their centres
-are separated by a distance $2d$.
+On a horizontal, frictionless surface, there are three identical disks with radius $R$ and mass $M$, as shown in the following figure. Initially, the disk on the left (called D) translates without rotating at a speed of $V_i$ to the right, while the other two disks (called 1 and 2) are at rest and their centers are separated by a distance of $2d$.
 
-At a certain moment the disc D collides with the discs 1 and 2 being this collision
-It's very flexible. After the impact the three discs move without rotation, as indicated in the
-the following figure:
+At a given instant, disk D collides with disks 1 and 2, and this collision is elastic. After the collision, the three disks move without rotating, as shown in the following figure:
 
-Remembering that the shock is elastic:
+Recalling that the collision is elastic:
 
-- **A.** Determine the range of values $d$ can take to cause the impact.
-- **B.** Calculate the value of the angle $\alpha$, which supports the direction of motion of the
-discs 1 and 2 with horizontal, according to $d$ and $R$.
-(c) Calculate the values of the $V_D$, $V_1$ and $V_2$ speeds of the three disks after the
-choque en función de $V_i$, $R$ y $d$.
-(d) Determine the value of $d$ for disc D to rest after impact
+- **A.** Determine the range of values that $d$ can take for the collision to occur.
+- **B.** Calculate the value of the angle $\alpha$, which subtends the direction of motion of the
+Discs 1 and 2 with the horizontal, depending on $d$ and $R$.
+c) Calculate the values of the velocities $V_D$, $V_1$, and $V_2$ of the three discs after the
+Shock as a function of $V_i$, $R$, and $d$.
+d) Determine the value of $d$ so that disk D comes to rest after the collision.
 ($V_D = 0$).
-(e) Determine the values of $d$ for which $V_D < 0$, $V_D > 0$.
-(f) Graphic ($V_D / V_i$) as a function of ($d/R$)
+e) Determine the values of $d$ for which $V_D < 0$, $V_D > 0$.
+f) Graph of ($V_D / V_i$) as a function of ($d/R$)
 
-$V_i$
-$2d$
-D
-1
-2
-$V_D$
-D
-1
-2
-$V_1$
-$V_2$
+$V_i$ $2d$ D 1 2 $V_D$ D 1 2 $V_1$ $V_2$
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FaB7JemnarKI1U56BMXDci3vxn7SGjS-/view)
+

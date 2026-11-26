@@ -9297,42 +9297,24 @@ II Se il coefficiente di vetro comune è 9 * 10-6, spiegare perché non è stato
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT32. Paul the Apostle College
-It's good grass, Tucumán. 
+PT32. Colegio Pablo Apóstol Yerba Buena, Tucumán.
  
-We have in the lab a device like the one in Figure 1, consisting of a
-hollow glass cylinder pirex, which has inside, fixed to the top lid a 
-a despicable mass spring with a moving embolus at its end. La 
-The spring constant is K=600N/m. At the base of the cylinder is a valve of 
-gas input. 
-The lab temperature is 16 degrees Celsius. 
-An unknown gas tank is connected to the device, the valve is opened, and the
-If the cylinder is closed, a mass of gas is trapped inside the cylinder (Figure 2). 
+In the laboratory, we have a device like the one shown in Figure 1; it consists of a hollow Pyrex glass cylinder containing, fixed to the top cap, a spring of negligible mass whose end carries a movable piston. The spring constant is K = 600 N/m. At the base of the cylinder there is a gas inlet valve. The laboratory temperature is 16 degrees Celsius. An unknown gas tank is connected to the device, the valve is opened, and when it is closed, a mass of gas is trapped inside the cylinder (Figure 2).
  
-A I Determine the volume of gas 
+A I Determine the volume of gas
  
-Calculate the pressure at which the gas is trapped 
+II Calculate the pressure at which the gas is trapped
  
-III Calculate the work done by gas 
+III Calculate the work done by the gas
  
-B  
-When measuring on a precision scale, the difference between the mass of the
-device with n unknown gas moles and empty is (0,231+ 0,001) 
-- I'm not going to. Determine what gas we're working with. 
+B When measured on a precision balance, the difference between the mass of the device with n moles of unknown gas and the mass of the device when empty is (0.231 ± 0.001) grams. Determine which gas we are working with.
  
  
-Helium .
-Oxygen .
-The following table shows the total weight of the product:
-4 
-32 
+Helium Oxygen Grams/Mol (approx.) 4 32
  
-The cylinder is inserted into a pile with a water and steam mixture in balance.
-The length of the cylinder is 1,0002688 Lo. 
+The cylinder is placed in a tank containing a mixture of water and steam in thermal equilibrium; after several minutes, the length of the cylinder is 1.0002688 Lo.
  
-C I Determine the linear expansion coefficient of the pirex glass 
-If the coefficient of common glass is 9 * 10 to 6, explain why this is not the case.
-commonly used in the laboratory.
+C I Determine the linear expansion coefficient of Pyrex glass. II If the coefficient for ordinary glass is 9 × 10⁻⁶, explain why ordinary glass is not commonly used in the laboratory.
 
 
 <!--fig:start-->
@@ -9344,8 +9326,6 @@ commonly used in the laboratory.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Spring (object)|Spring]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view)
-
-
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="Argentina 2012 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire,object/resistor"></span>
 
@@ -23449,83 +23429,46 @@ i) Verificare che il comportamento sia lineare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-PE9. School of Agriculture 
-General Alvear, Mendoza, please. 
+PE9. General Alvear Agricultural School, Mendoza.
  
-Purged bottle. 
-Objective: To verify the relationship between pressure and depth in a fluid. 
+"Punctured bottle". Objective: To verify the relationship between pressure and depth in a fluid.
  
-We already know that atmospheric pressure decreases as it rises in the atmosphere.
-atmosphere, this is because the weight of the air layer that exerted the pressure
-atmospheric pressure will be lower the higher the height above sea level. 
-When you dive into water, a similar situation occurs. As you 
-We dive we have a change in pressure, since the water layer in a
-The thicker the point the greater the depth of the said point.
-I'm not going to lie. 
-A fluid exertes pressure on the surface of any object submerged in it. 
-This pressure, called hydrostatic pressure, causes, in resting fluids, a
-force perpendicular to the walls of the container. This pressure depends on the
-The density of the liquid and the height at which the body is submerged is calculated.
-by the following expression: 
-P= Px + Po 
+We already know that atmospheric pressure decreases as one ascends through the atmosphere; this is because the weight of the layer of air that exerts atmospheric pressure will be less the greater the altitude above sea level. When one dives underwater, a similar situation occurs. As we dive, the pressure changes, since the water layer at a given point will be thicker the greater the depth of that point. A fluid exerts pressure on the surface of any object immersed in it. This pressure, called hydrostatic pressure, produces, in fluids at rest, a force perpendicular to the walls of the container. This pressure depends on the density of the liquid and on the depth to which the body is submerged, and it is calculated using the following expression: P = Px + Po
  
-Where: Px = ρ.g.h is the pressure exerted by the fluid (its unit is pascal [P] 
+Where: Px = ρ.g.h is the pressure exerted by the fluid (its unit is the pascal [P])
  
-Po = is the atmospheric pressure. [P] 
+Po= is the atmospheric pressure. [P]
  
-The following table shows the number of days in which the number of days in which the number of days is to be filled.
+P = ρ·g·h + Po (1) [P = (kg/m³)·(m/s²)·(m) + Pascals]
  
-Where: ρ= is the density of the fluid, and is measured in kilograms over metre 
-The following table shows the following:
+Where: ρ= is the density of the fluid, and it is measured in kilograms per cubic meter [kg/m³]
  
-g = the acceleration of gravity (m/s2). 
+g= is the acceleration due to gravity (m/s²).
  
-h= the height of the fluid (m). 
-Equation (1) is usually called the fundamental equation of hydrostatics. 
-The relationship between pressure and height can be observed by this equation.
-of the fluid. 
-P   h 
+h is the height of the fluid (m). Equation (1) is commonly referred to as the fundamental equation of hydrostatics. According to this equation, the relationship between pressure and the height of the fluid can be observed. P h
  
  
 
  
-The following points shall be added:
-Materials: 
- Water, plastic bottle, wooden base, 30cm rule, tape 
-The following are the main characteristics of the product:
-500 ml of precipitated water. 
+OAF 2012 - 133 Materials:  Water, Plastic bottle, Wooden base, 30 cm ruler, Adhesive tape, Marker, Graph paper, Set square, Container, 500 mL beaker.
  
-The procedure 
-(a) Verify that the length reached by the water jet (x) increases to 
-increase the amount of water in the bottle. Do a short one .
-the description. 
-(b) Grading the bottle. 
-Using the adhesive tape make marks on the bottle (not less 
-6 inches, approximately every 2 cm from the hole to the part 
-(b) the number of employees 
-(c) Write down the values obtained in measuring the different heights with 
-the corresponding error. 
-(d) Fill the water bottle above the marks made. Locate the 
-The bottle is placed on a wooden base so that it forms an angle of 
-90°. 
-(e) Untie the ribbon covering the hole. Measure what the length is 
-horizontal reached by the water jet exiting the hole 
-When the water level is at each of the heights 
-measures. Take into account the mistake you made. 
-(f) Draw a sketch of what has been done. 
-(g) Draw a table with the values of the horizontal length reached by 
-the water jet and the pressure exerted by the liquid. 
-(h) Draw a horizontal chart of the length reached by the water jet.
-(x) vs. pressure exerted by the liquid (P). 
-(i) Check whether the behaviour is linear.
+Procedure
+a) Verify that the length reached by the water jet (x) increases at the
+Increase the amount of water in the bottle. Provide a brief description.
+b) Calibrate the bottle.
+Using adhesive tape, make marks on the bottle (no fewer than 6, approximately every 2 cm from the hole toward the top).
+c) Record the values obtained when measuring the different heights with
+on its corresponding error.
+d) Fill the water bottle above the marks that have been made. Position the
+Bottle on the wooden base in such a way that they form an angle of 90°.
+e) Peel off the tape covering the hole. Measure what the length is.
+horizontal distance reached by the water jet exiting through said orifice when the water level is at each of the measured heights. Take the error made into account. f) Prepare a sketch describing what was done. g) Prepare a table with the values of the horizontal distance reached by the water jet and the pressure exerted by the liquid. h) Prepare a graph of the horizontal distance reached by the water jet (x) versus the pressure exerted by the liquid (P). i) Check whether the behavior is linear.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view)
-
-
 
 <span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 2012 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
 

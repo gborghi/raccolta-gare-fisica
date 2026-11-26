@@ -42,18 +42,11 @@ questo secchio è critica per il funzionamento del mortaio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. It's building.
-The rice-glare mortar consists of the following parts:
-The mortar, basically a wooden container containing rice.
-The levers, which is a trunk of wood worked with a larger end and a more
-I'm not going to lie. It can rotate around a horizontal axis.
-A pin is attached perpendicular to the smaller end of the lever. It is
-long enough to touch the rice in the mortar when the lever is horizontal.
-The widest part of the lever is dug to form a bucket. The form of
-This bucket is critical to the functioning of the mortar.
+1. Construction.
+The rice-polishing mortar consists of the following parts: the mortar, essentially a wooden vessel that holds the rice; the lever, which is a tree trunk that has been worked so that one end is larger and the other smaller. The lever can rotate about a horizontal axis. A pestle is attached perpendicularly to the smaller end of the lever. It is long enough to touch the rice in the mortar when the lever is horizontal. The wider part of the lever is hollowed out to form a bucket. The shape of this bucket is critical to the operation of the mortar.
 
 <!--fig:start-->
-The following table shows the manufacturer's specifications for the product:
+**p.2** — Figure 1: water mortar for rice
 ![[_attachments/Problema 1 mortaio/Problema 1 mortaio_p2_f1.png]]
 <!--fig:end-->
 
@@ -63,8 +56,6 @@ The following table shows the manufacturer's specifications for the product:
 **Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Teorica — Problema 1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/conservation-of-energy,topic/newtonian-mechanics,argomento/meccanica,object/lever,object/tank-container"></span>
 

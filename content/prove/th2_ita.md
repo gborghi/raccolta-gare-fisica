@@ -187,159 +187,28 @@ che non bagna le pareti
 
 **2)(V−b )=RT**
 
-Theoretical competition. Tuesday, 15 July 2014 1/3
-Problem no. 2. Van der Waals equation of state (11 points)
-In the well-known perfect gas model, whose equation of state obeys Clapeyron's law
-Mendeleev, the following important physical effects are overlooked. First, the molecules of a real gas have a
-The two dimensions are finite and, second, they interact with each other. In this problem, we consider a mole
-- I'm not going to.
-Part A. Equation of state of an imperfect gas (2 points)
-Taking into account the finite dimensions of the molecules, the gas state equation takes the form:
-P $(V-b$ )=RT,
-(1)
-where P, V, T are respectively the gas pressure, volume of a mole and temperature, R is the
-The universal gas constant and b is a constant that represents some volume.
-A1
-Identify a possible relationship between b and the diameter d of the molecules. (Documents and documents)
-Taking into account the attraction of intermolecular forces, Van der Waals proposed the following:
-state equation describing both states of matter: liquid and gaseous.
-(P+ a
-V
-$2)(V-b$ )=RT.
-(2)
-where a is another appropriate constant.
-For temperatures T below a critical value T c, the isotherm of the equation (2) is
-This is well represented by curve 1, shown in Figure 1, which is not monotonous and is called Van der Isotherm.
-Waals. In the same figure, curve 2 shows the isotherm of a perfect gas at the same temperature T. One of them.
-However, the actual isotherm differs from van der Waals's isotherm by a horizontal segment, AВ, traced to
-a certain constant pressure PLG. This segment is positioned between volumes V L and V G, and corresponds to
-the balance between the liquid phase (indicated with the L-point) and the gaseous phase (indicated with the G-point). For the
-Second law of thermodynamics J. Maxwell showed that the PLG pressure must be chosen so that the
-so that areas I and II shown in Figure 1 are the same.
-Figure 1 is shown. Van der Waals isotherm of a
-Gas/liquid (curve 1) and isotherm of a perfect gas
-(curve 2)
-Figure two. Some isotherms for the state equation of
-I'm going to tell you something.
-As the temperature increases, the AB segment in the isotherm shrinks to become a single
-point where the temperature and pressure reach T c and PLG=Pc respectively. The parameters Pc
-The results of the experiment are described as 'critical' and can be measured experimentally with a high degree of accuracy.
-A2
-Express the Van der Waals constants, a and b, as functions of Tc and Pc. (1.3 points)
-A3
-For water T c=647 K and $Pc=2.2\cdot10$
-7Pa. Calculate aw and bw for water. (0.2 points)
-A4
-Estimate the diameter of the water molecule dw. (0.2 points)
+Theoretical competition. Tuesday, 15 July 2014 1/3 Problem No. 2. Van der Waals Equation of State (11 points) In the well-known ideal gas model, whose equation of state obeys the Clapeyron-Mendeleev law, the following important physical effects are neglected. First, the molecules of a real gas have finite size, and second, they interact with one another. In this problem, one mole of water is considered. Part A. Equation of State of a Non-Ideal Gas (2 points) Taking into account the finite size of the molecules, the equation of state of gases takes the form: P $(V-b$ )=RT, (1) where P, V, and T are respectively the pressure of the gas, the volume of one mole, and the temperature; R is the universal gas constant, and b is a constant representing some volume. A1 Identify a possible relationship between b and the diameter d of the molecules. (0.3 points) Taking into account the attraction due to intermolecular forces, Van der Waals proposed the following equation of state describing both states of matter: the liquid and the gaseous state. (P+ a V $2)(V-b$ )=RT. (2) where a is another suitable constant. For temperatures T below a critical value T c, the isotherm of equation (2) is well represented by curve 1 shown in Figure 1; this curve is non-monotonic and is called the Van der Waals isotherm. In the same figure, curve 2 shows the isotherm of an ideal gas at the same temperature T. However, a real isotherm differs from the Van der Waals isotherm by a horizontal segment AB drawn at a certain constant pressure PLG. This segment lies between the volumes V L and V G and corresponds to equilibrium between the liquid phase (denoted by the subscript L) and the gaseous phase (denoted by the subscript G). According to the second law of thermodynamics, J. Maxwell proved that the pressure PLG must be chosen such that the areas I and II shown in Figure 1 are equal. Figure 1. Van der Waals isotherm of a gas/liquid (curve 1) and isotherm of an ideal gas (curve 2). Figure 2. Some isotherms for the Van der Waals equation of state. As the temperature increases, the segment AB on the isotherm shrinks until it becomes a single point at which the temperature and the pressure reach the values T c and PLG=Pc, respectively. The parameters Pc and T c are called critical parameters and can be measured experimentally with a high degree of precision. A2 Express the van der Waals constants a and b in terms of Tc and Pc. (1.3 points) A3 For water, Tc=647 K and $Pc=2.2\cdot10$ 7Pa. Calculate aw and bw for water. (0.2 points) A4 Estimate the diameter of the water molecule, dw. (0.2 points)
 
-Theoretical competition. Tuesday, 15 July 2014 2/3
-Part B. Property of gases and liquids (6 points)
-This part of the problem deals with the properties of water in the gaseous and liquid state in the
-temperatura $T=100^{\circ}C$. It is known that the saturated vapor pressure at this temperature is
-$PLG=p0=1.0\cdot10$
-5 Pa, and the molar mass of the water is $\mu=1.8\cdot10$
-$-2$ kg
-I'm going to be a mole.
-Gas state
-For the description of the properties of water in the gaseous state it is reasonable to assume that it is worth the
-disuguaglianza V $G\gg b$.
-B1
-Find the formula for volume V G and express it as a function of R, T, p0 and a. (i.e. the number of points)
-The volume V G0 can be approximated using the perfect gas law.
-B2
-Assess the relative decrease in gas volume due to intermolecular forces as a percentage,
-$\Delta V$ G
-V G0
-=V $G0-V$ G
-V G0
-. (Documents and documents)
-If the volume of the system drops below V G, the gas begins to condense. If the gas is pure enough, it can
-remain in a mechanically metastable state (called overpressure steam) until its volume
-reaches a certain value of V Gmin.
-The condition of mechanical stability of the constant temperature supersaturated gas is given by: dP
-dV <0.
-В3
-Find and evaluate how many times the volume of water vapor can be reduced while remaining in a
-It was metastable. In other words, calculate V G/V G min. (0.7 points)
-State of the Union
+Theoretical competition. Tuesday, 15 July 2014 2/3 Part B. Properties of Gases and Liquids (6 points) This part of the problem deals with the properties of water in the gaseous and liquid states at temperature $T=100^{\circ}C$. It is known that the saturated vapor pressure at this temperature is $PLG=p0=1.0\cdot10$ 5 Pa, and the molar mass of water is $\mu=1.8\cdot10$ $-2$ kg mol⁻¹. Gaseous state For describing the properties of water in the gaseous state, it is reasonable to assume that the inequality V $G\gg b$ holds. B1 Derive the formula for the volume V G and express it in terms of R, T, p0, and a. (0.8 points) The volume V G0 can be approximately evaluated using the ideal gas law. B2 Evaluate, as a percentage, the relative decrease in the gas volume due to intermolecular forces, $\Delta V$ G V G0 =V $G0-V$ G V G0 . (0.3 points) If the volume of the system falls below V G, the gas begins to condense. If the gas is pure enough, it can remain in a mechanically metastable state (called supersaturated vapor) until its volume reaches a certain value V Gmin. The condition for mechanical stability of supersaturated gas at constant temperature is given by: dP dV <0. В3 Find and evaluate how many times the volume of water vapor can be reduced while it remains in a metastable state. In other words, calculate V G/V G min. (0.7 points) State
 
-Liquid
+liquid
 
-To describe the behavior of water in the liquid state, according to the Van der Waals equation,
-It is reasonable to assume the following inequality $P\ll a/V$
-2.
-B4
-Express the volume of liquid water V L in terms of a,b,R and T. (a) the number of days
-Assuming that bRT $\ll a$, find the following characteristic properties of water. Don't be surprised if
-Some of the values you get don't match the known ones!
-B5
-Express the density of liquid water, $\rho$ L, using some of the terms $\mu,a,b,R$. Calculate the
-So, its value. (Documents and documents)
-B6
-Express the coefficient of thermal expansion $\alpha=$ 1
-V L
-$\Delta V$ L
-$\Delta T$ using some of the terms of a,b,R.
-Calculate its value, then. (0.6 points)
-B7
-Express the latent heat of water vaporization L using some of the terms $\mu,a,b,R$.
-Calculate, therefore, its value. (1.1 points)
-B8
-Consider a monomolecular layer of water and estimate its surface tension $\sigma$. (1.2 points)
-Part C. Liquid-gas system (3 points)
-From Maxwell's rule and Van der Waals' equation, that is, taking into account equality
-The results of the analysis of the data are presented in the following table:
-in Part B) that the PLG saturated vapour voltage depends on the temperature T as follows:
-In PLG = A+B
-T .
-(3)
-A and B are appropriate constants expressed in terms of a and b as follows A=ln(
-a
-b
-$2)-1$,
-$B=-a$
-bR .
+To describe the behavior of water in the liquid state, according to the van der Waals equation, it is reasonable to assume the following inequality $P\ll a/V$ 2. B4 Express the volume of liquid water, V L, as a function of a, b, R, and T. (1 point) Assuming that bRT $\ll a$, find the following characteristic properties of water. Don't be surprised if some of the values you obtain do not match the known ones! B5 Express the density of liquid water, $\rho$ L, using some of the terms $\mu,a,b,R$. Then calculate its value. (0.3 points) B6 Express the coefficient of thermal expansion $\alpha=$ 1 V L $\Delta V$ L $\Delta T$ using some of the terms involving a, b, and R. Then calculate its value. (0.6 points) B7 Express the latent heat of vaporization of water, L, using some of the terms involving $\mu,a,b,R$. Then calculate its value. (1.1 points) B8 Consider a monomolecular layer of water and estimate its surface tension $\sigma$. (1.2 points) Part C. Liquid-gas system (3 points) From the Maxwell rule and the van der Waals equation—that is, by taking into account the equality of the areas and performing a simple integral—it can be shown (also using the approximations made in Part B) that the saturated vapor pressure PLG depends on the temperature T as follows: ln PLG=A+ B T . (3) A and B are suitable constants expressed in terms of a and b as follows: A=ln( a b $2)-1$, $B=-a$ bR .
 
-Theoretical competition. Tuesday, 15 July 2014 3/3
-W. Thomson showed that saturated vapor pressure depends on
-the curvature of the surface of the liquid. It is considered a liquid that does not
-wash the walls of a capillary (angle of contact equal to $180^{\circ}$). When the
-The capillary is submerged in the fluid, the fluid in the capillary is lowered to a
-The surface tension is due to a certain level (see Figure 3).
-С1
-Find the (small) pressure change $\Delta pT$ of the saturated vapor
-It is located above the curved surface of the liquid. Expressing
-The result in terms of the steam density, $\rho s$, of the density of the
-liquid, $\rho L$, of the surface tension, $\sigma$, and of the radius of curvature r
-of the surface. (1.3 points)
-Metastable states, considered in Part B3, are broadly
-For the purposes of this Regulation, the following definitions shall apply:
-I'm going to pick up the elementary particles. They also occur in nature, for example in training.
-of the morning dew. The supersaturated vapor condenses to form droplets of liquid. Very little
-Small ones evaporate quickly, but large ones can grow.
-C2
-Suppose that, one evening, the temperature is t $e=20^{\circ}C$ and that the water vapour in the air is saturated. La
-The following morning, the ambient temperature dropped by a small $\Delta t=5.0^{\circ}C$. Assuming that the
-saturated vapour pressure has not changed, estimate the minimum droplet radius that can be
-I'm going to grow up. Use the table value of the surface tension of the water, $\sigma=7.3\cdot10$
-$-2N/m$. (1.7
-(point)
-Figure 3 is shown. Capillary
-Soaked in a liquid
-♪ That doesn't wet the walls ♪
+Theoretical competition. Tuesday, 15 July 2014 3/3 W. Thomson showed that saturated vapor pressure depends on the curvature of the liquid surface. Consider a liquid that does not wet the walls of a capillary (contact angle equal to $180^{\circ}$). When the capillary is immersed in the liquid, the liquid inside the capillary drops to a certain level due to surface tension (see Figure 3). С1 Find the (small) pressure variation $\Delta pT$ of the saturated vapor located above the curved liquid surface. Express the result in terms of the vapor density, $\rho s$, the liquid density, $\rho L$, the surface tension, $\sigma$, and the radius of curvature r of the surface. (1.3 points) Metastable states, considered in Part B3, are widely used in experimental apparatus such as cloud chambers used to detect elementary particles. They also occur in nature, for example in the formation of morning dew. Supersaturated vapor condenses to form liquid droplets. Very small droplets evaporate rapidly, but droplets large enough can grow. C2 Suppose that one evening the temperature is t $e=20^{\circ}C$ and the water vapor in the air is saturated. The following morning, the ambient temperature has dropped by a small $\Delta t=5.0^{\circ}C$. Assuming that the saturated vapor pressure has not changed, estimate the minimum radius of the droplets that can grow. Use the tabulated value of the surface tension of water, $\sigma=7.3\cdot10$ $-2N/m$. (1.7 points) Figure 3. Capillary immersed in a liquid that does not wet the walls
 
 <!--fig:start-->
-**p.1** — Isoterma di Van der Waals gas/liquido
+**p.1** — Van der Waals gas/liquid isotherm
 ![[_attachments/TH2_ITA/TH2_ITA_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1** — Alcune isoterme dell'equazione di Van der Waals
+**p.1** — Some isotherms of the van der Waals equation
 ![[_attachments/TH2_ITA/TH2_ITA_p1_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3**  Capillary submerged in non-wet liquid
+**p.3** — Capillary immersed in a non-wetting liquid
 ![[_attachments/TH2_ITA/TH2_ITA_p3_f3.png]]
 <!--fig:end-->
 
@@ -349,3 +218,4 @@ Soaked in a liquid
 **Objects:** [[Gas (object)|Gas]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cgGPlAQZEYzn9pKIDkrexLytBy8Zl17P/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKtjIKBi5rSL4D5RiqGiQT3fdqMBaDJJ/view)
+

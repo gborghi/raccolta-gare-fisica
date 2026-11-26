@@ -86,29 +86,29 @@ Fai tre misure di diametro in posizioni diverse. Utilizzare due numeri significa
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part I  BUSH properties and dimensions**
+PART I – PROPERTIES AND DIMENSIONS OF THE COMPASS
 
-The experimental kit consists of: 1  Compass; 2  Magnet encapsulated in a plastic support; 3  15 cm Regular; 4  Transferor of 180°.
+The experimental kit consists of: 1 – Compass; 2 – Magnet enclosed in a plastic holder; 3 – 15 cm ruler; 4 – 180° protractor.
 
-(a) **Relation between the angle of the needle of the compass and the scale printed on the compass.**
+a) **Relationship between the compass needle angle and the scale printed on the compass.**
 
-The compass has a scale printed with the indicated zero of the north direction (N). Indicating how $A$ the value read on the printed scale of the compass determines the proportionality ratio between this and the angle $B$ measured in degrees.
+The compass has a printed scale with zero marked at the north direction (N). Letting $A$ denote the value read on the compass's printed scale, determine the proportionality relationship between this value and the angle $B$ measured in degrees.
 
-(b) **Compass area.**
+b) **Compass Area.**
 
-Considering the area of the circular region of the compass scale (see the trajectory part of the compass  bottom), measure the diameter of this region and calculate its area. Enter the results in a table in the answer book using the model as shown below (use $\pi = 3$):
+Considering the area of the circular region on the compass scale (look at the back of the compass—the base), measure the diameter of this region and calculate its area. Present the results in a table in the answer booklet using the template as indicated below (use $\pi = 3$):
 
-♪ Size ♪ Diameters ♪ Areas ♪
-|--------|--------------|-------------|
+| Measurement | Diameter (cm) | Area (cm²) |
+|-------------|---------------|-------------|
 | 1 | | |
 | 2 | | |
 | 3 | | |
 
-Make three measurements of diameter in different positions. Use two significant algebraic notations to represent the value of the area.
+Take three diameter measurements at different positions. Use two significant figures to represent the value of the area.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F3_9o_exp/OBF2011_F3_9o_exp_p2_f1.png]]
-The following components are used:
+*Kit components: compass, N/S views of a magnet, ruler, protractor*
 <!--fig:end-->
 
 **Topic:** [[Magnetism]], [[Order-of-Magnitude Estimation]]
@@ -116,8 +116,6 @@ The following components are used:
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Significant Figures (competenza)|Significant Figures]]
 **Objects:** [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1o-q_NFDAEpqpsavK2Ly5K1ryOGijbz6c/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2011 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/magnet"></span>
 

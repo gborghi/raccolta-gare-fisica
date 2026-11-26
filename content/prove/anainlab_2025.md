@@ -199,13 +199,13 @@ Lo scafo delle tradizionali barche a vela ha una forma particolare: la parte imm
 
 <div class="qlang-split" data-lang="en"></div>
 
-The hull of traditional sailing boats has a particular shape: the submerged part has a prominence called a keel that extends far below and is made of heavy materials such as iron, lead or steel. Is there any similarity between this choice and the experiment you just conducted? Describe them and try to give them a justification.
+The hull of traditional sailboats has a particular shape: the submerged part has a protrusion called the keel, which extends far downward and is made of heavy materials such as iron, lead, or steel. Are there any similarities between this choice and the experiment you have just carried out? Describe them and try to provide an explanation for them.
 
-♪ I'm not a woman ♪
+![keel](figura-chiglia)
 
 <!--fig:start-->
 ![[_attachments/ANAinLAB_2025/ANAinLAB_2025_p22_f1.png]]
-The following is the list of the vessels and their names.
+*Sailboat keel cross-section diagram*
 <!--fig:end-->
 
 **Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]]
@@ -213,3 +213,4 @@ The following is the list of the vessels and their names.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/1lOiEKC-_zuD1dEANSO6yflgren6lh5hv/view)
+

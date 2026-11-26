@@ -481,23 +481,13 @@ si dice che il ponte è sbalzato e si può scrivere un'espressione per $R_x$ in
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6  The Wheatstone Bridge is a circuit made to measure the value of a
-resistance unknown in terms of known values of three others. A
-The circuit assembly is done according to the diagram below where $R_x$ is the resistance
-Unknown, $R_1$, $R_2$ are known, $R_v$ is a variable resistance also
-I'm familiar with it. The source has a fixed V voltage and between the points C and D there is a
-I'm not going to tell you. To measure the value of the resistance variable, the value of $R_v$ shall be adjusted to the
-the moment when the current measured in the galvanometer is cancelled. When that happens,
-The bridge is said to be balanced and you can write an expression to $R_x$ in
-We're going to have to find the values of the other resistors. You can deduce that expression.
+Question 6 – The Wheatstone bridge is a circuit designed to measure the value of an unknown resistance in terms of the known values of three other resistances. The circuit is assembled according to the diagram below, in which $R_x$ is the unknown resistance, $R_1$ and $R_2$ are known, and $R_v$ is a variable resistance that is also known. The source has a fixed voltage V, and a galvanometer is connected between points C and D. To measure the value of the variable resistance, the value of $R_v$ is adjusted until the current measured in the galvanometer becomes zero. When this happens, the bridge is said to be balanced, and it is possible to write an expression for $R_x$ in terms of the values of the other resistances. Derive this expression.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-SzeDk5KK98M3porKmZxmo4tadB-x8dq/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 · Fase 2 · Livello 3 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Gravitazione e Astrofisica,object/rod,object/resistor,object/wire"></span>
 

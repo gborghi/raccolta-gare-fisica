@@ -494,48 +494,35 @@ il rapporto $k$ è espresso dal rapporto: $T^2 = 4\pi^2 ( m / k )$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 4: Determining the density of a solid body
+PROBLEM 4: DETERMINATION OF THE DENSITY OF A SOLID BODY
 
-Objective: The sample density (absolute or relative) is to be determined according to the
-with the following conditions.
+Objective: It is required to determine the density (absolute or relative) of the provided sample in accordance with the following conditions.
 
-A- Obtain absolute density by measuring the mass and volume of the sample. For that you can
-have all the items provided.
+A- Obtain the absolute density by measuring the mass and volume of the sample. To do this, you may use all the provided items.
 
-B- Determination of sample density relative to water density without use of syringes or the
-The timepiece.
+B- Determine the density of the sample relative to that of water, without using the syringes or the stopwatch.
 
-C- Determine the sample density relative to water, without using the rule or syringe
-Graduated.
+C- Determine the density of the sample relative to that of water, without using the ruler or the graduated syringe.
 
-Present your findings in a report containing:
-- description of the measurement methods used.
-- The experimental values obtained by direct measurements, carried out by you.
-- the processing of measured values and the calculation of errors.
-- Final results with their corresponding errors.
+Present your results in a report that includes: - A description of the measurement methods used. - The experimental values obtained from direct measurements carried out by you. - The processing of the measured values and the calculation of errors. - The final results together with their corresponding errors.
 
-Elements provided:
+Provided elements:
 
-* A body whose density is to be determined (sample).
-A graduated syringe.
-A syringe without a grade.
+* A body whose density must be determined (the sample).
+* A graduated syringe.
+* A non-graduated syringe.
 * A container with water
 * An empty container.
-A plastic tube perforated at its base.
-A tube similar to the previous one but not perforated.
-A lid, for any of the two above tubes, with a hole, a hook for hanging and a
-faithful.
-A spring.
-A support.
-A rule graduated in millimeters.
-The time limit for the time limit of the time limit shall be set at the time of the time limit of the time limit of the time limit.
-The following is the list of the relevant technical specifications for the manufacturer: It's absorbent paper.
+* A plastic tube perforated at its base.
+* A tube identical to the previous one but not perforated.
+* A cap, for either of the two preceding tubes, with a hole, a hanging hook, and a
+Field. * A spring. * A support. * A ruler graduated in millimetres. * A stopwatch. * An indelible ink marker. Absorbent paper.
 
-Useful information: The oscillation period $T$ of a suspended mass $m$ of a constant spring
-The elastic $k$ is expressed as the ratio: $T^2 = 4\pi^2 ( m / k )$.
+Useful information: The oscillation period $T$ of a mass $m$ suspended from a spring with spring constant $k$ is given by the relation: $T^2 = 4\pi^2 ( m / k )$.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
+

@@ -287,17 +287,17 @@ Esprimi la massa $m$ in funzione della quantità di moto $p$, della lunghezza di
 
 **B.1** (0.8 pt)
 
-Identifying high-energy particles generated in collision is important to interpret the interaction process. A simple method is to measure the time ($t$) a particle with known motion quantity takes to travel a length $l$ in a so-called Time-of-Flight (ToF) detector. The typical particles identified in the detector are listed, together with their masses, in Table 2.
+Identifying the high-energy particles produced in the collision is important for interpreting the interaction process. One simple method consists of measuring the time ($t$) it takes for a particle with known momentum to travel a distance $l$ in a so-called Time-of-Flight (ToF) detector. The typical particles identified in the detector are listed, along with their masses, in Table 2.
 
-| Particella | Massa [MeV/$c^2$] |
+| Particle | Mass [MeV/$c^2$] |
 |---|---|
-♪ I'm not a fan ♪
-What is this?
-♪ I'm not going to be able to get you ♪
-♪ I'm going to be a big fan ♪
-What is it?
+| Deuteron | 1876 |
+| Proton | 938 |
+| Charged kaon | 494 |
+| Charged pion | 140 |
+| Electron | 0.511 |
 
-Express the mass $m$ in terms of the engine quantity $p$, the flight length $l$ and the flight time $t$, assuming that these particles have an elementary load $e$, traveling at a speed close to $c$ on straight paths in the ToF detector and traveling perpendicular to the two frames (see Figure 2).
+Express the mass $m$ in terms of the momentum $p$, the flight length $l$, and the flight time $t$, assuming that these particles have an elementary charge $e$, travel at a speed close to $c$ along straight paths in the ToF detector, and travel perpendicular to the two electrodes (see Figure 2).
 
 **Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]]
@@ -305,8 +305,6 @@ Express the mass $m$ in terms of the engine quantity $p$, the flight length $l$ 
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1qbou8RHKD6SM709xLBu2BjbIrPfyUAQA/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2016 — Teorica — Q3 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
 

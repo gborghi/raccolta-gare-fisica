@@ -336,53 +336,53 @@ Prima di montare, segna sullo striscio (la matita) i punti $5\ \text{cm}$, $10\ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimento: Condições de Equilíbrio**
+**Experiment: Equilibrium Conditions**
 
-### Introduction to the book
+### Introduction
 
-Imagine a gangsta playing with two children, one on each side. Even with different masses (and consequently weights), they can, if they wish, keep the gangora at rest horizontally. For this purpose, they must be positioned properly against the axis of rotation of the gangora. This is a practical application of the equilibrium conditions of the rigid body: for a body to remain in equilibrium, the result of the forces acting on it must be zero and the result of the static moments to which it is subjected must also be zero.
+Imagine a seesaw on which two children are playing, one on each side. Even though their masses (and consequently their weights) are different, if they wish, they can keep the seesaw at rest in a horizontal position. To do this, they must position themselves appropriately relative to the seesaw's axis of rotation. This is a practical application of the conditions for equilibrium of a rigid body: for a body to remain in equilibrium, the resultant of the forces acting on it must be zero, and the resultant of the static moments to which it is subject must also be zero.
 
-The state of translation or rest of a particle changes when the resulting forces acting on it are different from zero. In turn, the state of rotational motion or rest of a rigid body changes when the resulting static moments of the forces acting on it are different from zero. The agent of this rotational change is the static momentum of a physical force  magnitude associated with the changes in the characteristics of the rotational motion that that force is capable of provoking in a body.
+The state of translational motion or rest of a particle changes when the resultant of the forces acting on it is non-zero. Likewise, the state of rotational motion or rest of a rigid body changes when the resultant of the static moments of the forces acting on it is non-zero. The agent of this change in rotation is the static moment of a force—a physical quantity associated with the changes in the characteristics of rotational motion that this force is capable of causing in a body.
 
-The resulting moment is obtained by summing all the moments  anti-hours (considered positive) and hours (considered negative)  to which the body is subjected. When the resulting momentum is zero, the body becomes in rotational equilibrium. If the resulting forces acting are also zero, the body will be in translational equilibrium.
+The resultant moment is obtained by summing all the moments—counterclockwise moments (considered positive) and clockwise moments (considered negative)—to which the body is subjected. When the resultant moment is zero, the body is in rotational equilibrium. If the resultant of the forces acting on the body is also zero, the body will be in translational equilibrium.
 
-### Goals
+### Objectives
 
-- **I**  Check the equilibrium conditions of a rigid body.
-- **II**  Determine the weight of a bar (screw).
+- **I** — Verify the equilibrium conditions of a rigid body.
+- **II** — Determine the weight of a bar (crossbar).
 
-♪ ♪ Material ♪
+### Material
 
 - 2 bases (1)
 - 2 rods (2)
-- 2 butterfly pigs (3)
+- 2 wing nuts (3)
 - 2 claws (4)
 - 1 hanger (5)
-- 1 cross section (6)
-- 3 hooks of $0{,}04\ \text{N}$ weight each (7)
-- 10 metallic rules (8)
-- 1 millimetre rule of $30\ \text{cm}$ (9)
+- 1 bar (6)
+- 3 weight hooks $0{,}04\ \text{N}$ each (7)
+- 10 metal washers (8)
+- 1 millimetered ruler of $30\ \text{cm}$ (9)
 - 1 dynamometer of $1\ \text{N}$ (10)
 
-### Mounting
+### Assembly
 
-Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pigs and grab the claws at the top of the rods.
+Mount two base-shaft-gripper assemblies. Secure the shafts to the bases with wing nuts, and attach the grippers to the tops of the shafts.
 
-**Dynamometer calibration:** Hang the dynamometer from the clutch with the eye-level scale. Adjust the 'zero' of the dynamometer by the adjusting screwdriver with the instrument in the vertical position  the zero stroke shall coincide with the start of the metal tube. The scale goes up to approximately $1\ \text{N}$, with divisions of $0{,}01\ \text{N}$.
+**Dynamometer calibration:** Hang the dynamometer on the clamp with the scale at eye level. Set the dynamometer to "zero" using the adjustment screw while the instrument is in a vertical position—the zero mark should align with the beginning of the metal tube. The scale extends to approximately $1\ \text{N}$, with divisions of $0{,}01\ \text{N}$.
 
-**Convention:** Looking at the front assembly, the one on the left is called **side 1** and the one on the right of the centre stem is called **side 2**.
+**Convention:** When viewing the assembly from the front, the side to the left of the central rod is called **Side 1**, and the side to the right is called **Side 2**.
 
 ---
 
-* Experimental procedure I  Determination of the weights of the rows
+### Experimental Procedure I — Determination of Washer Weights
 
-1. Use a quick-whip base set. Stick the top ring of the dynamometer in the claw.
-2. Identify each of the rows by writing $A_1,\, A_2,\, \ldots,\, A_{10}$ in pencil.
-3. Suspenda cada arruela com o dinamômetro e registre os respectivos pesos na **Tabela 1**.
+1. Use a base-shaft-grip assembly. Fit the upper ring of the dynamometer onto the grip.
+2. Identify each washer by writing $A_1,\, A_2,\, \ldots,\, A_{10}$ in pencil.
+3. Suspend each washer using the dynamometer and record the respective weights in **Table 1**.
 
 **Table 1**
 
-♪ The clutch ♪ The weight ♪ The clutch ♪
+| Washer   | Weight (N) | Washer    | Weight (N) |
 |-----------|----------|------------|----------|
 | $A_1$     |          | $A_6$      |          |
 | $A_2$     |          | $A_7$      |          |
@@ -390,106 +390,104 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 | $A_4$     |          | $A_9$      |          |
 | $A_5$     |          | $A_{10}$   |          |
 
-> Responda, no Caderno de Resoluções, a **Questão 1**.
+> In the Solution Booklet, answer **Question 1**.
 
 ---
 
-### Experimental procedure II  Balance of static moments
+### Experimental Procedure II — Equilibrium of Static Moments
 
-1. Take the dynamometer out. Place the pendant on the clutch and suspend the crossing through the **central hole**.
-2. Put two hooks on the cross, one on side 1 and one on side 2.
-3. Hang **two rows** on the side hook 1 and **three rows** on the side hook 2. Write down the codes in Table 2.
-4. Move the hooks until the crossover is in horizontal balance.
-5. With the rule, measure (in millimeters) the distances $d_1$ (side hook 1 to the centre hole) and $d_2$ (side hook 2 to the centre hole). Record in meters in Table 2.
-6. Change the amounts of rows as indicated and repeat steps 4 and 5.
+1. Remove the dynamometer. Place the hanger in the grip and suspend the crossbar from the **central hole**.
+2. Place two hooks on the crossbar, one on side 1 and the other on side 2.
+3. Hang **two washers** on the hook on side 1 and **three washers** on the hook on side 2. Record the codes in Table 2.
+4. Move the hooks until the crossbar is in horizontal equilibrium.
+5. Using the ruler, measure (to the nearest millimetre) the distances $d_1$ (hook side 1 to the central hole) and $d_2$ (hook side 2 to the central hole). Record them in metres in Table 2.
+6. Change the quantities of washers as indicated and repeat steps 4 and 5.
 
 **Table 2**
 
-| Sequência | $n_1$ (lado 1) | Códigos lado 1 | $d_1\ (\text{m})$ | $n_2$ (lado 2) | Códigos lado 2 | $d_2\ (\text{m})$ |
+| Sequence | $n_1$ (Side 1) | Codes Side 1 | $d_1\ (\text{m})$ | $n_2$ (Side 2) | Codes Side 2 | $d_2\ (\text{m})$ |
 |-----------|----------------|----------------|-------------------|----------------|----------------|-------------------|
 | 1         | 2              |                |                   | 3              |                |                   |
 | 2         | 1              |                |                   | 4              |                |                   |
 
-> Responda, no Caderno de Resoluções, a **Questão 2**.
+> In the Answer Booklet, answer **Question 2**.
 
 ---
 
-### Experimental procedure III  Determination of the weight of the cross section
+### Experimental Procedure III — Determination of the Weight of the Crossbar
 
-> **Definições:**
-> $$\text{Diferença} = \lvert \text{valor de referência} - \text{valor obtido} \rvert$$
-> $$\text{Diferença relativa} = \frac{\text{Diferença}}{\text{valor de referência}}$$
-> $$\text{Diferença relativa percentual} = \text{Diferença relativa} \times 100\%$$
+**Definitions:** $$\text{Diferença} = \lvert \text{valor de referência} - \text{valor obtido} \rvert$$ $$\text{Diferença relativa} = \frac{\text{Diferença}}{\text{valor de referência}}$$ $$\text{Diferença relativa percentual} = \text{Diferença relativa} \times 100\%$$
 
-1. Remove the hooks and the rails from the crossing. Suspend the crossing by the **hole to the right of the centre hole**. Put a hook on side two.
-2. Hang the **two rows** on the hook and leave the crossing in horizontal balance.
-3. Measure the $d_2$ distance from the hook to the rotating axis and register in Table 3.
-4. Repeat with **three rows** and then with **four rows**.
+1. Remove the washers and hooks from the crossbar. Suspend the crossbar from the **hole located to the right of the central hole**. Place a hook on side 2.
+2. Hang **two washers** on the hook and keep the crossbar in horizontal balance.
+3. Measure the distance $d_2$ from the hook to the axis of rotation and record it in Table 3.
+4. Repeat with **three washers** and then with **four washers**.
 
 **Table 3**
 
-♪ Sequence ♪ Qtd. arruelas | Códigos | $P_2\ (\text{N})$ | $d_2\ (\text{m})$ |
+| Sequence | No. of washers | Codes | $P_2\ (\text{N})$ | $d_2\ (\text{m})$ |
 |-----------|---------------|---------|-------------------|-------------------|
 | 1         | 2             |         |                   |                   |
 | 2         | 3             |         |                   |                   |
 | 3         | 4             |         |                   |                   |
 
-5. Remove the hook and the grooves and weigh the cross with the dynamometer. Name the value obtained $T_\text{DIN}$:
+5. Remove the hook and the washers, and weigh the crossbar with the dynamometer. Designate the value obtained as $T_\text{DIN}$:
 
 $$T_\text{DIN} = \underline{\hspace{2.5cm}}\ \text{N}$$
 
-> Responda, no Caderno de Resoluções, a **Questão 3**.
+> In the Answer Booklet, answer **Question 3**.
 
 ---
 
-### Experimental procedure IV  Verification of the balance of translation
+### Experimental Procedure IV — Verification of the Translational Equilibrium Condition
 
-*(Usa dois conjuntos base-haste-garra. O gancho preso à haste fica no **lado 1**; o gancho preso ao dinamômetro fica no **lado 2**.)*
+*(Use two base-shaft-claw assemblies. The hook attached to the shaft is on **Side 1**; the hook attached to the dynamometer is on **Side 2**.)*
 
-Before assembling, mark on the pencil the points $5\ \text{cm}$, $10\ \text{cm}$ and $15\ \text{cm}$ of the centre bore on both sides.
+Before assembly, mark points a $5\ \text{cm}$, $10\ \text{cm}$, and $15\ \text{cm}$ of the central hole on the crossbar (with a pencil), on both sides.
 
-1. Stick the top ring of the dynamometer to the claw of one of the sets.
-2. At the bottom of the dynamometer, place a hook to suspend the crossing.
-3. In the moving claw of the other set, also place a hook.
-4. Suspend the crossing by the two hooks.
-5. Place (and maintain) the hook from **side 1** to $d_1 = 5\ \text{cm}$ of the centre hole.
-6. Place the **side 2** hook (linked to the dynamometer) to $d_2 = 5\ \text{cm}$; adjust the claws until the cross is horizontal and register $F_\text{DIN}$ in Table 4.
+1. Fit the upper ring of the dynamometer onto the jaw of one of the assemblies.
+2. At the bottom of the dynamometer, attach a hook to suspend the crossbar.
+3. Also attach a hook to the movable jaw of the other assembly.
+4. Suspend the crossbar by both hooks.
+5. Position (and hold) the hook on **Side 1** at $d_1 = 5\ \text{cm}$ from the central hole.
+6. Position the hook on **Side 2** (connected to the dynamometer) at $d_2 = 5\ \text{cm}$; adjust the jaws until the crossbar is horizontal, and record $F_\text{DIN}$ in Table 4.
 7. Repeat with $d_2 = 10\ \text{cm}$ and $d_2 = 15\ \text{cm}$.
 
 **Table 4**
 
-| Sequência | $d_1\ (\text{m})$ | $d_2\ (\text{m})$ | $F_\text{DIN}\ (\text{N})$ |
+| Sequence | $d_1\ (\text{m})$ | $d_2\ (\text{m})$ | $F_\text{DIN}\ (\text{N})$ |
 |-----------|-------------------|-------------------|---------------------------|
-| 1         | 0,050             | 0,050             |                           |
-| 2         | 0,050             | 0,100             |                           |
-| 3         | 0,050             | 0,150             |                           |
+| 1         | 0.050             | 0.050             |                           |
+| 2         | 0.050             | 0.100             |                           |
+| 3         | 0.050             | 0.150             |                           |
 
-> Responda, no Caderno de Resoluções, a **Questão 4**.
+> In the Answer Booklet, answer **Question 4**.
 
 ---
 
-### Experimental procedure V  Verification of the rotational equilibrium condition
+### Experimental Procedure V — Verification of the Rotational Equilibrium Condition
 
-*(Mesma montagem do Procedimento IV — dois conjuntos base-haste-garra.)*
+*(Same assembly as in Procedure IV — two base-shaft-grip assemblies.)*
 
-1. Place (and hold) the hooks on the sides 1 and 2 at $10\ \text{cm}$ of the centre hole.
-2. Adjust the claws until the crossover is in horizontal balance. Record $F_\text{DIN}$ in Table 5 (sequence 1, 0 rows).
-3. Place a third $d_A = 5\ \text{cm}$ hook to the left of the hook connected to the dynamometer. In this new hook, hang the rows $A_1$ and $A_2$. (*Note: in Table 5, sequence 2 shows 3 rows  check with the Resolution Book.*)
-4. Adjust the claws to new horizontal balance. Record $F_\text{DIN}$ (sequence 2).
-5. Add the rows $A_3$ and $A_4$ to the same hook and repeat the adjustment. Registre $F_\text{DIN}$ (sequência 3).
+1. Position (and hold) the hooks on sides 1 and 2 at $10\ \text{cm}$ from the central hole.
+2. Adjust the jaws until the crossbar is in horizontal equilibrium. Record $F_\text{DIN}$ in Table 5 (sequence 1, 0 washers).
+3. Place a third hook at $d_A = 5\ \text{cm}$ to the left of the hook connected to the dynamometer. Hang washers $A_1$ and $A_2$ on this new hook. (*Note: in Table 5, sequence 2 indicates 3 washers — check with the Solutions Notebook.*)
+4. Adjust the claws for a new horizontal balance. Record $F_\text{DIN}$ (sequence 2).
+5. Add washers $A_3$ and $A_4$ to the same hook and repeat the adjustment. Record $F_\text{DIN}$ (sequence 3).
 
 **Table 5**
 
-♪ Sequence ♪ Qtd. arruelas no gancho central | $F_\text{DIN}\ (\text{N})$ |
+| Sequence | Number of washers on the central hook | $F_\text{DIN}\ (\text{N})$ |
 |-----------|---------------------------------|---------------------------|
 | 1         | 0                               |                           |
 | 2         | 3                               |                           |
 | 3         | 6                               |                           |
 
-> Responda, no Caderno de Resoluções, a **Questão 5**.
+> In the Answer Booklet, answer **Question 5**.
 
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Lever (object)|Lever]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ETuFqpbkllPgIOKf1fVYjniqOsU1oc6P/view)
+

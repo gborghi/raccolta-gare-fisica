@@ -147,123 +147,30 @@ funzione lineare. L’analisi degli errori non è richiesta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Diodo cilindrico**
+Cylindrical diode
 
-Experiments
-Q2-1
-Italian (Italy)
-Other, of a kind used for the manufacture of goods of heading 8106
-Experimental setup and measures
-A vacuum cylindrical diode is made up of two coaxial cylinders. There is a REe radius emitter and length
-ELE emits electrons: these electrons move in the vacuum towards the collector, which has an RC radius
-and an effective length that is infinite. The collector is placed at a positive potential V, while the emitter is
-The electrons are then transported from the emitter to the collector.
-The emitter is heated so that there are always excess electrons ready to be accelerated
-through the potential difference to the collector. The electrons fill the vacuum with a plasma. A
-The reason for the plasma properties is that there is a maximum current that can flow through the diode depending on the
-The potential of the collector and the geometry of the system.
-In this experiment, the measurements should be limited to the condition $RC\geq5RE$.
-When LE is large enough relative to RCsi it assumes that the maximum current passing through the diode
-is given by
-$I\infty=$ GRC
-Other
-Other
-(1)
-where G= G(RC/RE) is not a constant but is instead a function of the dimensionless RC/RE ratio.
-When LE is comparable to RC, a correction to the previous expression must be made.
-and the maximum current through the diode is given by the expression
-IL= $I\infty F(RC$, RE, LE, V)
-(2)
-where Fè is an additive function of some or all of the quantities RC, RE, LE, and V. Equation (1) is a
-special case of Equation (2) when F=1
-In this experiment, any cylinder with a radius of between 0.1 cm and
-20,0 cm, in increments of 0,1 cm; the length of the cylinder may be between 1,0 cm and 99,0 cm,
-always in increments of 0.1 cm. There is a simulated potential difference generator that can provide
-a positive potential to the collector between 0 and 2000 volts, and an ampere meter that can measure the current in the
-I'm not going to say.
-It is recommended that you read the whole matter quickly before you start planning the collection of
-The data is more efficient.
-Description of the simulation software.
-The simulation program, called Exp2, allows the user to perform an unlimited number of
-Maximum current measurements For different input parameters  the collector radius
+Experiment Q2-1 Italian (Italy) Cylindrical Diode Experimental Setup and Measurements A cylindrical vacuum diode consists of two coaxial cylinders. There is an emitter with radius REe and length LE that emits electrons; these electrons move through the vacuum toward the collector, which has radius RC and an effective length of infinity. The collector is held at a positive potential V, while the emitter is connected to ground, so that the electrons are directed from the emitter to the collector. The emitter is heated so that there are always excess electrons ready to be accelerated through the potential difference toward the collector. The electrons fill the vacuum with a plasma. Due to the properties of the plasma, there is a maximum current that can flow through the diode; this current depends on the collector potential and the geometry of the system. In this experiment, the measurements should be limited to the condition $RC\geq5RE$. When LE is sufficiently large relative to RC, it is assumed that the maximum current through the diode is given by $I\infty=$ GRC αLE βVγ (1), where G = G(RC/RE) is not a constant but rather a function of the dimensionless ratio RC/RE. When LE is comparable to RC, it is necessary to introduce a correction to the preceding expression, and the maximum current through the diode is given by the expression IL = $I\infty F(RC$, RE, LE, V) (2), where F is a dimensionless function of some or all of the quantities RC, RE, LE, and V. Equation (1) is a special case of Equation (2) when F = 1. When carrying out this experiment, any cylinder with a radius between 0.1 cm and 20.0 cm, in increments of 0.1 cm, may be used; the length of the cylinder may be between 1.0 cm and 99.0 cm, again in increments of 0.1 cm. There is a simulated potential-difference generator that can apply a positive potential to the collector ranging from 0 to 2000 volts, and an ammeter that can measure the current in the diode. It is recommended to read the entire problem quickly before starting in order to plan data collection more efficiently. Description of the simulation software. The simulation program, called Exp2, allows the user to take an unlimited number of measurements of the maximum current I for different values of the input parameters—the radius of the collector
 
-Experiments
-Q2-2
-Italian (Italy)
-The emission factor shall be the emission factor, the radius of the emitter and the length REe and LE, and the potential difference between the emitter and the V collector. All input parameters are written on the keyboard after the corresponding request
-And then I pressed the Enter key.
-To begin, use the following authorisation sequence when required:
-The error will enter the program into test mode; it will be necessary to restart the program.
-The program.
-A typical interface of a single simulation program cycle looks like this:
-First, the radius of the collector, then the radius of the emitter, then the length of the emitter, each in centimeters, and finally the potential difference, in Volt. Each value is confirmed
-I'm going to press the Enter button.
-The program then returns to the request for the collector's beam.
-If you enter a value that is outside the limits, you get an error message.
-and then you go back to the request for the wrong value you entered.
-All the lengths are rounded only to the nearest millimeter while all the potential differences
-The value of the measurement is not improved by inserting a more precise value. In addition, there is
-an uncertainty of 0.5 mm per length and 0.5 V per potential difference. That is why
-repeated measurements could provide different current values.
-The scale of the amperometer is automatic so it shows only three significant digits and passes through the scale
-A to mA when appropriate. Uncertainty is $\pm$ 1
-2 of the last figure reported. Attention to unity
-of the measurement, if reported in mA or A.
-If you exceed 40 A on the amp, you burn it. The programme reports this fact and therefore the
-It is a preparation for the next measure.
-To stop the program at any time to restart it, press Ctrl+C.
-Part A: Find the exponents (4.5 points)
-Find the value of the exponents in the  Eq (1), giving an analysis of the uncertainty of each result:
+Experiment Q2-2 Italiano (Italy) RC, the radius of the emitter and the length REe LE, and the potential difference between the emitter and the collector V. All input parameter values are typed in using the keyboard after the corresponding prompt and entered by pressing the Enter key. To begin, use the following authorization sequence when prompted: Entering an incorrect value will put the program into test mode; the program will need to be restarted. A typical interface for a single simulation cycle of the program looks like this: First, the radius of the collector is entered, then the radius of the emitter, then the length of the emitter, each in centimeters, and finally the potential difference, in volts. Each value is confirmed by pressing the Enter key. The program then returns to the prompt for the radius of the collector. Entering a value that is outside the limits produces an error message, and the program then returns to the prompt for the incorrect value that was entered. All lengths are rounded only to the nearest millimeter, while all potential differences are rounded only to the nearest volt: entering a more precise value does not improve the measurement. In addition, there is an uncertainty of 0.5 mm in each length and of 0.5 V in each potential difference. For this reason, repeated measurements might yield different values for the current. The ammeter scale is automatic, so it displays only three significant figures and switches from the A scale to mA when appropriate. The uncertainty is $\pm$ 1 2 of the last reported digit. Pay attention to the unit of measurement—whether it is reported in mA or A. Exceeding the value of 40 A on the ammeter will burn it out. The program signals this fact and then prepares it for the next measurement. If at any time you want to stop the program and then restart it, press Ctrl+C. Part A: Find the exponents (4.5 points) Find the value of the exponents in Eq (1), providing an uncertainty analysis for each result:
 
-Experiments
-Q2-3
-Italian (Italy)
+Experiment Q2-3 Italian (Italy)
 A.1
-Collect a set of data that can be used to find the respondent
-Relative to variable V. Report the appropriate chart in the space provided; for
-Your convenience is provided by linear paper and log-log , but is required
-I'm just going to give you a chart. Provide the result for the uncertainty analysis of the
-I'm sorry, but your result.
-1.5pt
+Collect a dataset that can be used to determine the exponent γ associated with the variable V. Plot the appropriate graph in the provided space; for your convenience, both linear and log-log paper are provided, but only one graph is required. Provide the result for γ and an analysis of the uncertainty of your result. 1.5pt
 A.2
-Collect a set of data that can be used to find the respondent
-The value of the product is the value of the product. Report the appropriate chart in the space provided; a
-All you need is a graphic. Provide the result for your uncertainty analysis
-The result.
-1.5pt
+Collect a dataset that can be used to determine the exponent β associated with the variable LE. Present the appropriate graph in the provided space; only one graph is required. Provide the result for β and an analysis of the uncertainty of your result. 1.5pt
 A.3
-Collect a set of data that can be used to find the respondent
-is related to the variable RC. Report the appropriate chart in the space provided; a
-All you need is a graphic. Provide the result for the analysis of your uncertainty
-The result.
-1.5pt
-Part B: Find the G coefficient (1.0 points)
-Find the value of the function G When RC= 10RE:
+Collect a set of data that can be used to determine the exponent α associated with the variable RC. Present the appropriate graph in the provided space; only one graph is required. Provide the result for α and an analysis of the uncertainty of your result. 1.5 pts Part B: Finding the coefficient G (1.0 points) Find the value of the function G when RC = 10RE:
 B.1
-By collecting other data or reusing the previous data, it determines the value of G
-where RC= 10REe provides an analysis of the uncertainty of the result.
-1.0pt
-Part C: Find the additive function F (2.5 points)
-It determines experimentally which of the quantities RC, RE, LE, and Vinfluence when it is comparable to the size of the RCnell Equation (2).
+By collecting additional data or reusing previous data, determine the value of G when RC = 10REe and provide an uncertainty analysis of the result. 1.0 pt Part C: Finding the Dimensionless Function F (2.5 points) Experimentally determine which of the quantities RC, RE, LE, and V influence F when LE is comparable to the dimension of RC in Equation (2).
 C.1
-The list of variables in the reply sheet shall indicate the direction of the effect;
-For example, does it increase, decrease or remain constant if RC increases?
-0.5pt
+In the list of variables on the answer sheet, state the direction of the effect; for example, if RC is increased, does it increase, decrease, or remain constant? 0.5pt
 C.2
-It is noted that when $LE\approx RCla$ function F can be approximated as
-linear in a single variable x, where it's a function of only two between RC,
-RE, LE, e V. The answer sheet contains several possible functional forms for x;
-Choose the one that reproduces the most significant behavior.
-0.5pt
+It is noted that when $LE\approx RCla$, the function F can be approximated as linear in a single variable x, where x is a function of only two of RC, RE, LE, and V. The answer sheet lists several possible functional forms for x; choose the one that reproduces the most significant behavior. 0.5pt
 C.3
-Assume a linear dependence of the form F(x) = A+ Bxper the values of
-$LE\approx RC$, e si determini sperimentalmente il parametro B. The range is limited to the RC/2 $\leq LE\leq2RC$ range. Draw an appropriate chart for the end-term
-of the single selection for the appropriate quantity xper approximate F as a
-linear function. Analysis of errors is not required.
-1.5pt
+Assume a linear dependence of the form F(x) = A + Bx for the values of $LE\approx RC$, and determine the parameter B experimentally. Restrict the analysis to the interval RC/2 $\leq LE\leq2RC$. Draw an appropriate graph of F in terms of the single chosen appropriate quantity x to approximate F as a linear function. Error analysis is not required. 1.5pt
 
 <!--fig:start-->
-**p.1** — Schema del diodo cilindrico coassiale
+**p.1** — Schematic of the coaxial cylindrical diode
 ![[_attachments/exam-experiment-Q2-italiano_3/exam-experiment-Q2-italiano_3_p1_f1.png]]
 <!--fig:end-->
 
@@ -273,3 +180,4 @@ linear function. Analysis of errors is not required.
 **Objects:** [[Cylinder (object)|Cylinder]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16yhRuI2jX6QMR5wSbR1kgZ8_Evq1G8Tt/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KXuT6bDQq8jiG9IX-LCpWdWEAMX1ndDS/view)
+

@@ -246,11 +246,11 @@ In lavori scientifici, la fisica utilizza unità del Sistema Internazionale basa
 
 <div class="qlang-split" data-lang="en"></div>
 
-In scientific work, physics uses units of the International System based on the decimal numeral system, while computing uses units based on the binary numeral system, and uses prefixes, as shown in the table below. Establish the ratio, expressed in $\text{J/B}$ (joules per byte), between the energy consumption of $20\ \text{GJ}$ (gigajoules) and a data storage of $4\ \text{GB}$ (gigabytes).
+In scientific works, physics uses units from the International System based on the decimal number system, whereas computing uses units based on the binary number system and also uses prefixes, as shown in the table below. Determine the ratio, expressed in $\text{J/B}$ (joules per byte), between the energy consumption of $20\ \text{GJ}$ (gigajoules) and a data storage of $4\ \text{GB}$ (gigabytes).
 
-♪ I'm not going to be able to do it ♪
+| Prefix | Physics | Computing |
 |---------|--------|------------|
-| k = quilo | $1\ \text{kJ} = 10^3\ \text{J}$ | $1\ \text{kB} = 2^{10}\ \text{B}$ |
+| k = kilo | $1\ \text{kJ} = 10^3\ \text{J}$ | $1\ \text{kB} = 2^{10}\ \text{B}$ |
 | M = mega | $1\ \text{MJ} = 10^3\ \text{kJ}$ | $1\ \text{MB} = 2^{10}\ \text{kB}$ |
 | G = giga | $1\ \text{GJ} = 10^3\ \text{MJ}$ | $1\ \text{GB} = 2^{10}\ \text{MB}$ |
 | T = tera | $1\ \text{TJ} = 10^3\ \text{GJ}$ | $1\ \text{TB} = 2^{10}\ \text{GB}$ |
@@ -263,8 +263,6 @@ In scientific work, physics uses units of the International System based on the 
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1xDaG1US7R_BRbiUxQagmqyXVvjGwkzd9/view)
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 · Fase 2 · Livello I — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/cart"></span>
 

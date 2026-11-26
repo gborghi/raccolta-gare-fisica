@@ -176,48 +176,19 @@ Il poster!
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2 (10 points)
-Tipping the iceberg
-Table icebergs have a relatively flat top and steep edges. They
-It's a form by breaking off from ice shelves and can be very large.
-Just like with other icebergs, in a floating tabular iceberg the largest part of the ice
-lies not above but below the water.
-In the following, consider an approximately box-shaped tabular iceberg of
-height H, length L and width B. For the density of ice and seawater use
-The approximate values $\rho Eis$ = 0.9 $\cdot$ 103 kg m-3 and $\rho Wasser$ = 1.0 $\cdot$ 103 kg m-3.
-(a) Determine what fraction of the height H of the iceberg lies below the
-water surface.
-When breaking off from an ice shelf, relatively narrow tabular icebergs can
-form, in which the width B is smaller than the height H. Search for an iceberg
-Can tip onto its side.
-b) Show that for a narrow tabular iceberg it is energetically more favourable to tip
-On its side. Determine for which ratio of width to height the
-Most energy is released by tipping over. Assume here that L
-> H.
-The released energy can lead to high waves, which can also become dangerous for ships
-In the vicinity.
-Alongside is a photo of the passenger ship Fram in front of an iceberg.
-The ship has a length of about 114 m.
-(c) Estimate the energy that would be released when the iceberg tips
-- I'm not going to. To do this, simplify by assuming that the photo of the ship was taken from a great
-distance and that the iceberg has approximately the shape
-of a tabular iceberg whose length and width are equal. Calculate
-The mass of TNT that would have to be detonated to release the same
-Energy.
-Photo of a tabular iceberg (by Andrew Shiva, CC BY-SA 4.0)
-Photo of a ship in front of an iceberg (by Kim Hansen, CC BY-SA 4.0).
-Best to hang
-The problems
-directly next to
-The poster!
+Problem 2 (10 points) Tipping Iceberg Tabular icebergs have a relatively flat top and steep edges. They form by breaking off from ice shelves and can be very large. Just as with other icebergs, in a floating tabular iceberg the largest part of the ice lies not above but below the water. In the following, consider an approximately box-shaped tabular iceberg of height H, length L and width B. For the density of ice and seawater use the approximate values $\rho Eis$ = 0.9 $\cdot$ 103 kg m-3 and $\rho Wasser$ = 1.0 $\cdot$ 103 kg m-3.
+a) Determine what fraction of the height H of the iceberg lies below the
+water surface. When breaking off from an ice shelf, relatively narrow tabular icebergs can form, in which the width B is smaller than the height H. Such an iceberg can tip onto its side.
+b) Show that for a narrow tabular iceberg, tipping is energetically more favourable.
+onto its side. Determine for which ratio of width to height the most energy is released by tipping over. Assume here that L > H. The released energy can lead to high waves, which can also become dangerous for ships in the vicinity. Alongside is a photo of the passenger ship Fram in front of an iceberg. The ship has a length of about 114 m.
+c) Estimate the energy that would be released when the iceberg tips
+Over. To do this, simplify by assuming that the photo of the ship was taken from a great distance and that the iceberg has approximately the shape of a tabular iceberg whose length and width are equal. Calculate the mass of TNT that would have to be detonated to release the same energy. Photo of a tabular iceberg (by Andrew Shiva, CC BY-SA 4.0). Photo of a ship in front of an iceberg (by Kim Hansen, CC BY-SA 4.0). Best to hang the problems directly next to the poster!
 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/12l5E4uDa_h-c8gFBQ8HC4Z6ZG57-79Y9/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2022 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/inclined-plane,object/spring,object/block"></span>
 

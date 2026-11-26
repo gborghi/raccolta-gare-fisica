@@ -9010,48 +9010,25 @@ Hai fatto il doppio, ma sai che il circuito della tua cucina è...
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Electricity and heat**
+Electricity and Heat
 
-PT51. Paul the Apostle College
-It's good grass, Tucumán. 
+PT51. Colegio Pablo Apóstol Yerba Buena, Tucumán.
  
-Electricity and heat. 
-A resistance thermometer , which measures the temperature by means of the
-The measurement of a driver's resistance change, is made of platinum and 
-has a resistance of 50 to 20°C. When the device is submerged in a
-container containing cast indium, its strength increases to 76,8. 
-(a) From this information, find the melting point of the Indian. 
-(b) How much heat was received by the thermometer to measure the temperature of the
-The Indian's melting temperature? (Platinum, Ce = 0,0321 cal/g °C and the
-mass is 0,4 kg) 
-(c) What mass of ice could melt with the calculated amount of heat 
-Previously on "The Man Who Came to Earth"? 
-50 g of conductive material is available to produce a resistance of 1,5  
-which is shaped like a solid cylindrical wire. The resistivity of the material is 
-11*10-11m and the density is 7.86g/cm3 
-(d) What length will be required to achieve such resistance? 
-(e) what is the diameter of the wire? 
-The above material can be used to produce 3 resistors equal to those required.
-In the previous point, a heater is built with them that will be used for
-I'm going to eat breakfast. 
-(f) How should resistors be connected to achieve maximum 
-possible energy? Justify it .
-g) This heater is used every day to make breakfast alongside 
-A 1200W power toaster. If these devices are made
-It 's a half hour a day and the Kw.h costs 8 cents .
-Find out how much energy you spend cooking breakfast.
-the whole month? 
-h) Now he wants to change his toaster for another 2400W power, which 
-You're double-clocking, but you know the circuit breaker in your kitchen is
-Can you get this increase? Justify it
+Electricity and heat. A resistance thermometer, which measures temperature by measuring the change in resistance of a conductor, is made of platinum and has a resistance of 50 Ω at 20°C. When the device is immersed in a container holding molten indium, its resistance increases to 76.8 Ω.
+a) Using this information, determine the melting point of indium.
+b) How much heat did the thermometer receive until it managed to measure the
+Melting temperature of indium? (of platinum, Ce = 0.0321 cal/g °C and the mass is 0.4 kg)
+c) What mass of ice could be melted with the calculated amount of heat?
+Previously? You have 50 g of conductive material to make a 1.5 Ω resistor in the form of a solid cylindrical wire. The resistivity of the material is 11×10⁻¹¹ Ω·m, and the density is 7.86 g/cm³.
+d) What length will be required to achieve that resistance?
+e) What should the wire diameter be?
+Using the previous material, it is possible to manufacture 3 resistors identical to those requested in the previous point, and with them a heater is built that will be used for breakfast. f) How should the resistors be connected to achieve the maximum possible energy? Justify. g) This heater is used every day to prepare breakfast alongside a 1200 W toaster. If these appliances are operated for ½ hour per day and a kWh costs 8 cents, find out how much energy you will use to cook breakfast over the whole month. h) Now you want to replace your toaster with another one rated at 2400 W that toasts twice as much, but you know that the circuit breaker in your kitchen is 20 A—can you achieve this increase? Justify.
 
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1GoWx-RT_v_bGc5fYYWJ4G1tn15KuigDa/view)
-
-
 
 <span class="atom-split" id="q58" data-atom="q58" data-title="Argentina 2011 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/4,multidisciplina/multi"></span>
 
@@ -12809,55 +12786,21 @@ valore della sua velocità iniziale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-I'm going to throw a rock.
+Vertical throwing of a stone
 
-PT85. High school No. 41 
+PT85. Secondary School No. 41
  
-The first is the 'Bernardino Rivadavia Institute'.
+Bernardino Rivadavia Institute1
  
-The San Felipe Institute2
-1 Villa Iris  2Pelipe Sola 
-Province of Buenos Aires. 
+San Felipe2 1 Institute, Villa Iris – 2 Felipe Sola, Province of Buenos Aires.
  
-From the base of a building a stone is thrown vertically up with
-a speed of 10 m/s . Assuming you despise the air resistance and
-Taking the acceleration as 10 m/s2 . 
- Obtain the equations that determine the variation in position and the
-speed over time taking as reference system the point 
-The launch... 
-• Calculate the time it takes the stone to reach its maximum height. 
-• Calculate the maximum height. 
- Calculate the stone' s velocity 1.5 seconds after 
-I 'm sorry , but I 'm sorry . How do you interpret the results? 
-How long will it take to get to the floor? 
- What speed was he at the instant before he touched the floor.
-I'm going to do some accounting. 
-• Draw graphs showing the variation in speed and the
-position based on time. 
- If the launch is performed at the same initial speed, from a 
-balcony located at a height of 7.5 m above the floor. Are the amendments made?
-The results obtained justify your answers. 
- The moment the stone reaches its maximum height, which of the following is the
-The following statements are correct? 
-1. Their speed and acceleration are zero .
-2. Their speed is zero and their acceleration is not. 
-3. Their acceleration is zero, but their speed is not. 
-4. Their speed and acceleration do not vary. 
- If a second stone is thrown up vertically with the double 
-The initial speed of the first. Then the maximum height reached
-for the second one will be: 
-1. Twice as much as the first one .
-2. Four times the number of people who have been hit by the first one .
-3. It has a value with the first one reached that depends on the
-the value of its initial speed.
+From the base of a building, a stone is thrown vertically upward with a speed of 10 m/s. Assuming air resistance is neglected and taking the acceleration as 10 m/s²: • Obtain the equations that determine how position and velocity vary with time, using the launch point as the reference frame. • Calculate the time it takes for the stone to reach its maximum height. • Calculate the maximum height. • Calculate the velocity of the stone 1.5 s after it is thrown. How do you interpret the results? • How long will it take to reach the ground? • What velocity did it have at the instant just before touching the ground? Do you need to do calculations? • Plot the graphs showing how velocity and position vary with time. • If the stone is thrown with the same initial speed from a balcony located 7.5 m above the ground, do the results obtained change? Justify your answers. • At the instant when the stone reaches its maximum height, which of the following statements are correct? 1. Its velocity and acceleration are zero. 2. Its velocity is zero and its acceleration is not. 3. Its acceleration is zero but its velocity is not. 4. Its velocity and acceleration do not change. • If a second stone is thrown vertically upward with twice the initial speed of the first, then the maximum height reached by the second stone will be: 1. Twice the height reached by the first. 2. Four times the height reached by the first. 3. It has a value relative to that reached by the first that depends on the value of its initial speed.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1GoWx-RT_v_bGc5fYYWJ4G1tn15KuigDa/view)
-
-
 
 <span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 2011 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container,object/sphere"></span>
 
@@ -15348,23 +15291,17 @@ OAF 2011 - 77
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Reflection in a prism**
+Reflection in a prism
 
-PT99. Higher Industrial School 
-City of Santa Fe. 
+PT99. Ciudad de Santa Fe Higher Industrial School.
  
-A physics professor wants to show his students the phenomenon of reflection. 
-To do this, he inserts an equilateral prism into a glass cup full of water.
-As shown in the figure. It makes a laser beam shine at point A from above, from 
-so that it forms an angle of 35° to the normal. If the refractive index of the 
-prism is 1.66 and water is 1.33, determine: 
-(a) The angle of refraction at point A. 
-(b) The angles of incidence and refraction when the beam reaches the other.
-- I'm not going to. 
-(c) Marking the beam's path in the diagram. 
-(d) Will the teacher be able to show the internal reflection phenomenon with the lightning?
-It emerges from the prism when it reaches the surface separating the water.
-from the air? 
+A physics teacher wishes to show his students the phenomenon of reflection. To this end, he places an equilateral prism into a glass tank filled with water, as shown in the figure. He directs a laser beam onto point A from above, such that it forms an angle of 35° with the normal. If the refractive index of the prism is 1.66 and that of water is 1.33, determine:
+a) The angle of refraction at point A.
+b) The angles of incidence and refraction when the ray reaches the other
+Dear.
+c) Mark the path of the lightning bolt on the diagram.
+d) Will the teacher be able to demonstrate the phenomenon of internal reflection with the ray
+What emerges from the prism when it reaches the surface that separates water from air?
  
  
  
@@ -15375,17 +15312,13 @@ from the air?
  
 
  
-The following points shall be added:
-
-
+OAF 2011 - 77
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Prism (object)|Prism]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1GoWx-RT_v_bGc5fYYWJ4G1tn15KuigDa/view)
-
-
 
 <span class="atom-split" id="q109" data-atom="q109" data-title="Argentina 2011 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string,object/projectile"></span>
 
@@ -29689,37 +29622,18 @@ Calcolare gli errori sperimentali.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Density and friction of wood air**
+Density and Air Friction of Woods
 
-PE48. Rural Polymodal Secondary School 
-Colony of Santa Maria, the Pampa. 
+PE48. Colonia Santa María Ruralized Polimodal Secondary School, La Pampa.
  
-Part A
-Determine the specific density and weight of 
-Other wood (caldene, fibrofacil algae). 
-Elements 
- A balance sheet 
- rule 
- Three pieces of the different material on a regular basis 
- Staircase 
- Metric tape 
- Timetable 
-Experience development: 
-1. Determine the volume of the wood and the weight. 
-2. Determine experimentally the density of the given materials. 
-3. Determine the specific weight of materials experimentally 
-- I'm not going to. 
+Part A: Determine the density and specific weight of different woods (caldén, Álamos fibrofacil) using the materials available. Materials:  A scale  A ruler  Three pieces of different materials with regular shapes  A ladder  A measuring tape  A stopwatch Procedure: 1. Determine the volume and weight of the wood pieces. 2. Experimentally determine the density of the given materials. 3. Experimentally determine the specific weight of the given materials.
 
  
-The following points shall be added:
-4. Calculate the experimental errors. 
+OAF 2011 - 145 4. Calculate the experimental errors.
  
-Part B
-Determine whether the air friction coefficient with the 3 types of wood. ¿es 
-The same or not? 
-Step has continued
-(a) Measure the height of the stairs so that you can pull each of the wood.
-b) Go up and throw the wood by taking the time it takes to get to the floor 
+Part B: Determine whether the air friction coefficient for the 3 types of wood is the same or not. Step to follow
+a) Measure the height of the ladder so that each person can pull each of the pieces of wood.
+b) Go up and drop the wood, timing how long it takes to reach the floor
 Calculate the experimental errors.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -29727,8 +29641,6 @@ Calculate the experimental errors.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1GoWx-RT_v_bGc5fYYWJ4G1tn15KuigDa/view)
-
-
 
 <span class="atom-split" id="q181" data-atom="q181" data-title="Argentina 2011 Locale — Quesito 181" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/pendulum,object/spring"></span>
 

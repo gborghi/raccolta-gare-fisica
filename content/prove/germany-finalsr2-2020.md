@@ -335,32 +335,19 @@ better anti-reflection effect at the wavelength in question.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8. Nella produzione di lenti ottiche, sono spesso fornite con un strato molto sottile di trasparenza.
-Il materiale in ordine di ridurre le riflessioni fatte a determinate lunghezze d'onda.
-Considerate un obiettivo fatto con un materiale con un indice di refraczione 1.40. Questo dovrebbe essere dato un livello più sottile possibile di
-materiale trasparente con indice 1.24, per minimizzare le riflessioni a normale incidenza di luce con una lunghezza d'onda di
-500 nm.
-(A) Determina come deve essere spessa questa strata per determinare l'intensità del
-- Minimizzare la luce.
-Quando la luce è perpendicolare a una transizione da un mezzo con un indice di refraczione $n_A$ a uno con un refractivo
-Indice $n_B$, una porzione dell'intensità luminosa incidente è riflessa. Poiché i componenti riflessi sono molto piccoli
-In queste condizioni, è sufficiente considerare solo le semplici riflessioni.
-La porzione di luce riflessa,
-$$R_{A\to B} = \left(\frac{n_B - n_A}{n_B + n_A}\right)^2$$
-(B) Compare l'intensità dell'on the coated lens at the specified wavelength total reflected
-la luce con l'intensità della luce che passa attraverso un obiettivo non rivestito è riflessa. To do
-Questo, calcola il rapporto di queste intensità.
-Nonostante il rivestimento descritto, l'intensità della luce riflessa è bassa, tuttavia non zero.
-(c) State and explain how the coating would need to be changed to make it clear to achieve a
-migliore effetto anti-riflessione alla lunghezza d'onda in questione.
+Problema 8. Nella produzione delle lenti ottiche, spesso si applica loro uno strato molto sottile di materiale trasparente al fine di ridurre i riflessi che si verificano in determinati intervalli di lunghezze d'onda. Si consideri una lente realizzata con un materiale avente indice di rifrazione 1,40. A questa si dovrebbe applicare lo strato più sottile possibile di materiale trasparente con indice 1,24, per minimizzare i riflessi all'incidenza normale di luce avente lunghezza d'onda di 500 nm.
+(A) Determina quanto dovrebbe essere spessa questa strato per determinare l'intensità del riflesso
+Minimizzazione della luce. Quando la luce è perpendicolare a una transizione da un mezzo con indice di rifrazione $n_A$ a uno con indice di rifrazione $n_B$, una parte dell'intensità della luce incidente viene riflessa. Poiché le componenti riflesse sono molto piccole nelle condizioni attuali, è sufficiente considerare solo le riflessioni semplici. La parte di luce riflessa, $$R_{A\to B} = \left(\frac{n_B - n_A}{n_B + n_A}\right)^2$$
+(B) Confrontare l'intensità della riflessione totale sulla lente rivestita alla lunghezza d'onda specificata
+Viene riflessa la luce la cui intensità è pari a quella della luce che passa attraverso una lente non rivestita. A tal fine, calcolare il rapporto tra queste intensità. Nonostante il rivestimento descritto, l'intensità della luce riflessa è bassa, ma non nulla.
+(C) Indica e spiega in che modo sarebbe necessario modificare il rivestimento per rendere chiaro che si deve raggiungere una
+Migliore effetto antiriflesso alla lunghezza d'onda in questione.
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Germany 2020 — Quesito 9" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/cart,object/wheel"></span>
 

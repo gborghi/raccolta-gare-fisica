@@ -134,48 +134,39 @@ $g = 9{,}8\ \text{m/s}^2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: A risky flight.
+PROBLEM 1: A DANGEROUS ESCAPE.
 
-At the end of the last century, a British court official left his duties to
-I brought with me four bullion gold bars, 10 kg each, which belonged to the royal treasury. His plan
-He was contemplating crossing the English Channel using a hot air balloon. The mass
-The balloon, including the heating system and the canister, was 100 kg and the volume of air
-The content, when inflated, of $1.200\ \text{m}^3$. On the day of the escape the room temperature was
-$T_a = 288{,}16\ \text{K}$ ($15^\circ$C) and the heating system allowed it to heat the balloon air up to $333{,}16\ \text{K}$
-($16^\circ$C).
+At the end of the last century, an official of the British court abandoned his duties, taking with him four gold bars, each weighing 10 kg, that belonged to the royal treasury. His plan involved crossing the English Channel using a hot-air balloon. The mass of the balloon, including the heating system and the gondola, was 100 kg, and the volume of air contained within it when inflated was $1.200\ \text{m}^3$. On the day of the escape, the ambient temperature was $T_a = 288{,}16\ \text{K}$ ($15^\circ$C), and the heating system allowed him to heat the air in the balloon to $333{,}16\ \text{K}$ ($16^\circ$C).
 
-(a) Calculate the net force on the balloon (without passenger or cargo), knowing that the density of the balloon is
-Air at ground level changes with temperature as the expression.
+a) Calculate the net force on the balloon (without a passenger or cargo), knowing that the density of the
+The air at ground level varies with temperature according to the expression.
 
 $$\delta(T) = \delta_0\,\frac{T_a}{T}$$
 
-(b) The man weighed 75 kg. Could he escape with all the bullion or had to
-resign some?
+b) The man's mass was 75 kg; could he have escaped with all the gold bars, or did he have to
+Resign someone/someone(s)?
 
-(c) Demonstrate the validity of the expression in (a) considering air as a gas
-It's perfect.
+c) Demonstrate the validity of the expression given in point a) by considering air as a gas.
+ideal.
 
-(d) Assuming that:
+d) Assuming that:
 
-(i) the atmospheric pressure changes with the height $h$ according to the expression
-$$P(h) = P_0 (1 - \alpha h)$$
-(ii) the ambient temperature shall remain constant at all flight levels.
+i) atmospheric pressure varies with altitude $h$ according to the expression $$P(h) = P_0 (1 - \alpha h)$$ ii) the ambient temperature remains constant at all flight levels.
 
-(iii) air can be considered as an ideal gas.
+iii) Air can be considered an ideal gas.
 
 Calculate the height to which the balloon rose.
 
-(e) While on the way, over the English Channel, a breakdown occurred in the
-The heating system that produced a 5 K drop in the temperature of the balloon air. ¿A
-What height would he go down? Did the officer have to do something to stay in the air?
+e) When it was halfway across the English Channel, a malfunction occurred in the
+A heating system that caused a 5 K decrease in the temperature of the air inside the balloon. At what altitude would it descend? Should the official have done something to stay in the air?
 
-The data:
+Data:
 
-$\delta_0 = 1{,}2256\ \text{Kg/m}^3$ (air density to $15^\circ$ C and at ground level)
+$\delta_0 = 1{,}2256\ \text{Kg/m}^3$ (air density at $15^\circ$ °C and at ground level)
 
 $R = 8{,}314$ Joule/(mol K)
 
-The mass of one mol of air $= 2{,}7453\times10^{-2}$ kg.
+Mass of one mole of air $= 2{,}7453\times10^{-2}$ kg.
 
 $\alpha = 7{,}24\times10^{-5}$ l/m
 
@@ -188,8 +179,6 @@ $g = 9{,}8\ \text{m/s}^2$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1C0pzxfjdpF-_W8GgPG4BmRUaeWZtXhl7/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1993 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica"></span>
 
@@ -272,24 +261,19 @@ $g = 9{,}8\ \text{m/s}^2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two: An interesting game.
+PROBLEM 2: AN INTERESTING GAME.
 
-One place in the "Cordoba Shopping Center" had a consistent game on a track, with "lomo de
-The following is the figure for the following categories: The game was to throw a weave from A, such as
-So he'd be trapped in the CD well. A physically gifted player, inspired by
-the game, decided to do some calculations like the ones asked below, assuming the track without
-reasoning, except in the HG section:
+At one location in the "Córdoba Shopping Center," there was a game consisting of a track with a hump and ramps, as schematically shown in the figure. The game involved throwing a disc from point A in such a way that it became trapped in the well CD. A player with knowledge of physics, inspired by the game, decided to perform some calculations like those requested below, assuming the track was without friction, except for the HG section:
 
-(a) What is the minimum speed at which the yarn must be thrown from A to exceed
-The point C?
-(b) What is the maximum speed at which the yarn must be broken off from A to be
-Always in touch with the lead? (i.e. it doesn't fly; if it takes off the track the player loses).
+a) What is the minimum speed at which the disc must be thrown from A so that it exceeds
+point C?
+b) What is the maximum speed at which the disc must be launched from A so that it is
+Always in contact with the track? (That is, not flying; if the player lifts off the track, they lose.)
 
-(c) What is the maximum reasoning force that can be applied to the mesh between the points
-H and G, so that, having passed C without the player losing, he returns right to the point
-C?.
+c) What is the maximum reasoning force that can act on the disc, between the points
+H y G, so that, after passing through C without the player having lost, it returns exactly to point C?
 
-The data (figure):
+Data (figure):
 
 $\alpha_c = 30^\circ$
 
@@ -306,8 +290,6 @@ $g = 9{,}8\ \text{m/s}^2$
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1C0pzxfjdpF-_W8GgPG4BmRUaeWZtXhl7/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1993 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery,object/resistor,object/switch,object/wire,object/coil"></span>
 
@@ -476,80 +458,73 @@ programmabile. Al termine del lavoro, deve presentare un rapporto che include i 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: an emergency electrical circuit.
+PROBLEM 3: AN EMERGENCY ELECTRICAL CIRCUIT.
 
-A 12V and 45Ampere-hour battery (with internal resistance of $0{,}05\ \Omega$) is available for
-To set up an emergency circuit for a rural home. The circuit includes two 40W lamps
-(for the dining room and one room), one 25W for the bathroom and one 60W for the outside. All of them
-These lamps are for a rated voltage of 12W. The switch and the
-cable needed.
+A 12V, 45-ampere-hour battery (with an internal resistance of $0{,}05\ \Omega$) is available for assembling an emergency circuit for a rural dwelling. The circuit includes two 40W lamps (for the dining room and one bedroom), one 25W lamp for the bathroom, and one 60W lamp for outdoor use. All these lamps are rated for a nominal voltage of 12W. The necessary switches and cable are also available.
 
-1) Draw (schematically) the corresponding circuit for this house.
+1) Draw (schematically) the circuit corresponding to this house.
 
 2) What is the nominal resistance of each lamp?
 
 For the following questions, assume that the resistance of each lamp is equal to its nominal value.
 
-3) In the circuit outlined in point 1), what current is circulating through each lamp
-When they're all on?
+3) In the circuit sketched in point 1), what current flows through each lamp?
+When are they all on?
 
-4) Suppose there is at least one light on. Then calculate the resistance
-maximum and minimum of the circuit.
+4) Suppose that at least one lamp is on. Then, calculate the resistances.
+Maximum and minimum of the circuit.
 
 5) Again, with at least one lamp on, what is the minimum time of
-battery life and maximum
+Battery life? And the maximum?
 
-6) Now suppose you want to light many environments using the same battery before
-the above mentioned and 40W (12V) lamps, available as many as are needed. How many?
-The lighting of the circuit is not limited to the lighting of the circuit.
-of the line at less than 10V).
+6) Now suppose that you want to illuminate many rooms using the same battery as before.
+Mentioned and 40W (12V) lamps, with as many of them as needed available. How many rooms could be illuminated without overloading the circuit? (That is, without the line potential difference falling below 10V.)
 
-This is an experimental test.
+EXPERIMENTAL TEST.
 
-...and it can also be used as a meter.
+...And it can also be used as an ohmmeter.
 
-Objectives: Measure resistance values with the least possible error.
+OBJECTIVES: To measure resistance values with the smallest possible error.
 
-With the elements provided, design and equip a suitable device for this purpose. Keep in mind
-The magnetic field of the Earth.
+Using the provided components, design and assemble a device suitable for this purpose. Keep the Earth's magnetic field in mind.
 
-The following elements:
+ELEMENTS:
 
 - A compass.
 
-- A 100-round coil.
+- A coil with 100 turns.
 
-- A 1.5 V battery.
+- A 1.5 V cell.
 
-- Two known value resistance.
+- Two resistors with known values.
 
-- Three resistors of unknown values (to be measured).
+- Three resistors with unknown values (to be measured).
 
-- A connection hub.
+- A connection base.
 
-- The cables.
+- Cables.
 
-- A rule, millimeter paper and tape.
+- A ruler, graph paper, and adhesive tape.
 
-The following requirements:
+REQUIREMENTS:
 
-You may only use the items provided, paper, pencil or pencil and calculator not
-It's programmable. At the end of the work, a report shall be submitted, including the following points:
+You may only use the provided materials—paper, a pencil or pen, and a non-programmable calculator. At the end of the work, you must submit a report that includes the following points:
 
 - Description of the experimental method used.
 
-- Development of the principle of operation of the designed apparatus.
+- Development of the operating principle of the designed apparatus.
 
-- Values obtained from the measurements made.
+- Values obtained from the measurements carried out.
 
-- Error sources and analysis of how they influence the final result.
+- Sources of error and analysis of how they affect the final result.
 
-- Final result of the requested.
+- Final result of what was requested.
 
-- Any comments you'd like to make.
+- Comments you wish to make.
 
 **Topic:** [[Circuits]], [[Magnetism]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1C0pzxfjdpF-_W8GgPG4BmRUaeWZtXhl7/view)
+

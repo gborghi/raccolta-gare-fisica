@@ -66,28 +66,22 @@ una delle placche, può determinare il suo indice di refraczione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem number one:
+Problem 1:
 
-Two parallel rays of light reaching the $A_1$ and $A_2$ points of two face plates simultaneously
-parallel, arranged as shown in the figure. When the rays emerge, they're detected by sensors.
-$S_1$ y $S_2$. When the first emerges, a clock is set in motion which stops when the second emerges.
-Second.
+Two parallel rays of light arrive simultaneously at points $A_1$ and $A_2$ on two parallel-faced plates arranged as shown in the figure. Upon emergence, the rays are detected by sensors $S_1$ and $S_2$, respectively. When the first ray emerges, a clock starts and stops when the second ray emerges.
 
-Both plates are of the same thickness and their respective refractive indices $n_1$ and $n_2$.
-- **A.** Calculate the angle of refraction of each beam.
+Both plates have the same thickness and their respective refractive indices $n_1$ and $n_2$.
+- **A.** Calculate the angle of refraction for each ray.
 - **B.** Which of the two rays emerges first? Justify your answer.
-- **C.** Calculate the time since the clock started until it stopped.
-- **D.** Propose a change in the device of the figure (variing positions of the plates,
-The time interval measured by the clock and the thickness of the
-One of the plates can determine its refractive index.
+- **C.** Calculate the elapsed time from when the clock was started until it stopped.
+- **D.** Propose a modification to the device in the figure (by varying the positions of the plates,
+eliminating parts, etc.) in such a way that, using the time interval measured by the clock and the thickness of one of the plates, one can determine its refractive index.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1E-LdOiVOZjSxZbMkDF3c6ze-lGMMzfTQ/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1992 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/battery,object/wire,object/resistor"></span>
 

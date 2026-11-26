@@ -266,21 +266,19 @@ Costruire un proiettore di corpi opachi con amplificazione superiore a una.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of test results for the test:
+1997 – Experimental P1: Opaque Body Projector
 
-Build a projector of opaque bodies with amplification greater than one.
+Construct a projector of opaque bodies with a magnification greater than one.
 
-- **A.** Draw a diagram of the instrument indicating the path of light rays.
-- **B.** To perform an estimate of the focal length of the lens.
-- **C.** Determine the condition of the object-lens distance to obtain amplification greater than one.
+- **A.** Draw a diagram of the instrument, indicating the path of light rays.
+- **B.** Estimate the focal length of the lens.
+- **C.** Determine the condition on the object-lens distance for obtaining a magnification greater than one.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Iberoamericana 1991 — Quesito 6" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/bubble"></span>
 
@@ -373,21 +371,19 @@ Una particella di carico $q$ e massa $m$ si muove a velocità $v_0$ parallela al
 
 <div class="qlang-split" data-lang="en"></div>
 
-**1997  P2 theory: charge in motion in the magnetic field**
+**1997 – Theoretical P2: Moving Charge in a Magnetic Field**
 
-A charged particle $q$ and mass $m$ moves at a speed $v_0$ parallel to the $x$ axis in the presence of a uniform magnetic field $\vec{B}$ along the $z$ axis.
+A particle with charge $q$ and mass $m$ moves with velocity $v_0$ parallel to the $x$ axis in the presence of a uniform magnetic field $\vec{B}$ along the $z$ axis.
 
-- **A.** Describe the path of the particle.
+- **A.** Describe the particle's trajectory.
 - **B.** Calculate the radius of the circular orbit.
-- **C.** If the field varies slowly over time, analyze the adiabatic change in the radius of the orbit.
+- **C.** If the field varies slowly over time, analyze the adiabatic change in the orbital radius.
 
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Iberoamericana 1991 — Quesito 8" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/mirror"></span>
 
@@ -804,21 +800,19 @@ Un condensatore sferico a raggi interni $a$ ed esteri $b$ ha la metà dello spaz
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+**1999 – Theory P2: Spherical capacitor with dielectric**
 
-A spherical capacitor of internal radii $a$ and external radii $b$ has half the space between the spheres filled by a dielectric constant $\varepsilon_r$, with the interface diametrically.
+A spherical capacitor with inner radius $a$ and outer radius $b$ has half of the space between the spheres filled with a dielectric of constant $\varepsilon_r$, with the interface diametral.
 
 - **A.** Find the distribution of the electric field.
 - **B.** Calculate the system capacity.
-- **C.** Determine the energy stored based on the load $Q$.
+- **C.** Determine the stored energy as a function of the charge $Q$.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.28](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Iberoamericana 1991 — Quesito 16" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
@@ -1189,9 +1183,9 @@ Due masse $m$ sono unite da una sorgente di costante $k$ e lunghezza naturale $l
 
 <div class="qlang-split" data-lang="en"></div>
 
-2001  Theoretical P1: Two masses connected by a spring in a rotating tube
+**2001 – Theoretical P1: Two masses connected by a spring inside a rotating tube**
 
-Two masses $m$ are joined by a constant spring $k$ and natural length $l_0$ within a horizontal smooth tube that rotates at angular speed $\omega$ around a vertical axis passing through the end of the tube.
+Two masses $m$ are connected by a spring with constant $k$ and natural length $l_0$ inside a smooth horizontal tube that rotates with angular velocity $\omega$ about a vertical axis passing through the end of the tube.
 
 - **A.** Find the equilibrium position of the masses.
 - **B.** Determine the frequencies of the normal modes of oscillation.
@@ -1202,8 +1196,6 @@ Two masses $m$ are joined by a constant spring $k$ and natural length $l_0$ with
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Iberoamericana 1991 — Quesito 23" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/point-charge"></span>
 
@@ -1244,12 +1236,12 @@ Un cubo conduttore laterale $a$ ha un carico punteggiato $q$ nel suo centro geom
 
 <div class="qlang-split" data-lang="en"></div>
 
-2001  Theoretical P2: Driver cube with load in the centre
+**2001 – Theoretical P2: Conducting cube with charge at the center**
 
-A side conducting cube $a$ has a point charge $q$ at its geometric center. The cube is connected to the ground.
+A conducting cube with side $a$ has a point charge $q$ at its geometric center. The cube is grounded.
 
-- **A.** Determine the induced load on the sides of the cube.
-- **B.** Estimate the load distribution on the faces (by symmetry and by field arguments).
+- **A.** Determine the induced charge on the faces of the cube.
+- **B.** Estimate the load distribution on the faces (by symmetry and using field arguments).
 - **C.** Calculate the electrostatic energy of the system.
 
 **Topic:** [[Electrostatics]]
@@ -1257,8 +1249,6 @@ A side conducting cube $a$ has a point charge $q$ at its geometric center. The c
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.44](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Iberoamericana 1991 — Quesito 24" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon,object/electron"></span>
 
@@ -1354,21 +1344,19 @@ Utilizzando una barra metallica riscaldata da resistenza elettrica e un comparat
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be based on the results of the test.
+**2002 – Experimental: Determination of the Linear Expansion Coefficient**
 
-Using a metal bar heated by electrical resistance and a length comparator, determine the linear dilation coefficient $\alpha$.
+Using a metal bar heated by electrical resistance and a length comparator, determine the linear expansion coefficient $\alpha$.
 
-- **A.** Describe the method and assembly.
-- **B.** Measurements of length vs. temperature.
-- **C.** Obtain $\alpha$ with its uncertainty by linear regression.
+- **A.** Describe the method and the setup.
+- **B.** Perform length vs. temperature measurements.
+- **C.** Obtain $\alpha$ with its uncertainty via linear regression.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.48](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="Iberoamericana 1991 — Quesito 26" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/projectile"></span>
 
@@ -1519,21 +1507,19 @@ Una stella di neutroni di massa $M = 1{,}4 M_{\odot}$ e di raggio $R = 10$ km ro
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P3: Neutron star and moment of inertia
+**2002 – Theory P3: Neutron Star and Moment of Inertia**
 
-A neutron star with mass $M = 1{,}4 M_{\odot}$ and radius $R = 10$ km broken with period $T$.
+A neutron star with mass $M = 1{,}4 M_{\odot}$ and radius $R = 10$ km rotates with a period of $T$.
 
-- **A.** Estimate the mean density and compare it with the nuclear density.
-- **B.** Calculate the moment of inertia by assuming uniform distribution.
-- **C.** From the time variation of the period $\dot{T}$, estimate the radiated power and the surface magnetic field.
+- **A.** Estimate the average density and compare it with nuclear density.
+- **B.** Calculate the moment of inertia assuming a uniform distribution.
+- **C.** Based on the temporal variation of the period $\dot{T}$, estimate the radiated power and the surface magnetic field.
 
 **Topic:** [[Astrophysics]], [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.54](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="Iberoamericana 1991 — Quesito 29" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/rod"></span>
 
@@ -1574,21 +1560,19 @@ Usando una barra metallica perforata che può girare in differenti orizzonti, de
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2003 – Experimental: Péndulo físico – determinación de $g$**
+**2003 – Experimental: Physical pendulum – determination of $g$**
 
-Using a perforated metal bar that can rotate in different holes, determine the acceleration of gravity $g$.
+Using a perforated metal bar that can pivot in different holes, determine the acceleration due to gravity $g$.
 
 - **A.** Measure the period for at least 5 pivot positions.
-- **B.** Use the Kater method (equal period for two conjugate positions) to eliminate unknown moment of inertia.
-- **C.** Get $g$ with its uncertainty.
+- **B.** Use Kater's method (equal period for two conjugate positions) to eliminate the unknown moment of inertia.
+- **C.** Obtain $g$ with its uncertainty.
 
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.56](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Iberoamericana 1991 — Quesito 30" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball"></span>
 
@@ -1629,21 +1613,19 @@ Due biliardi identiche di massa $m$ e radio $R$ si colpiscono. Uno è in riposo,
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+**2003 – Theoretical P1: Billiard Ball Collision**
 
-Two identical billiard balls of $m$ mass and radius $R$ collide. One is at rest; the other is moving at $v_0$ speed. The collision is elastic and frictionless.
+Two identical billiard balls with mass $m$ and radius $R$ collide. One is at rest; the other is moving with velocity $v_0$. The collision is elastic and frictionless.
 
-- **A.** Determine the velocities of both balls after the collision according to the impact parameter $b$.
-- **B.** Find the effective differential section $d\sigma/d\Omega$.
-- **C.** Demonstrate that the total effective section is $\pi(2R)^2$.
+- **A.** Determine the velocities of both balls after the collision as a function of the impact parameter $b$.
+- **B.** Find the differential effective cross-section $d\sigma/d\Omega$.
+- **C.** Show that the total cross section is $\pi(2R)^2$.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.58](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="Iberoamericana 1991 — Quesito 31" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
@@ -1684,21 +1666,19 @@ Un capacitore di piastre parallele di area $A$ e separazione $d$ contiene un die
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of electrical equipment used:
+**2003 – Theory P2: Capacitor with Nonlinear Dielectric**
 
-A parallel plate capacitor of area $A$ and separation $d$ contains a dielectric whose permittivity depends on the field: $\varepsilon = \varepsilon_0(1 + \alpha E^2)$.
+A parallel-plate capacitor with area $A$ and separation $d$ contains a dielectric whose permittivity depends on the field: $\varepsilon = \varepsilon_0(1 + \alpha E^2)$.
 
-- **A.** Find the ratio of the $Q$ load to the $V$ voltage.
-- **B.** Calculate the energy stored.
-- **C.** Determine the strength between the plates based on $V$.
+- **A.** Find the relationship between the charge $Q$ and the voltage $V$.
+- **B.** Calculate the stored energy.
+- **C.** Determine the force between the plates as a function of $V$.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.60](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="Iberoamericana 1991 — Quesito 32" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
 
@@ -1904,21 +1884,19 @@ Un filo conduttore retto di lunghezza $L$ e resistenza $R$ si muove a velocità 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P2: conductive hole in a variable magnetic field
+**2004 – Theory P2: Guiding Thread in a Variable Magnetic Field**
 
-A straight conductive wire of length $L$ and strength $R$ moves at speed $v$ perpendicular to a magnetic field $B(t) = B_0 \sin(\omega t)$.
+A straight conducting wire of length $L$ and resistance $R$ moves with velocity $v$ perpendicular to a magnetic field $B(t) = B_0 \sin(\omega t)$.
 
 - **A.** Calculate the induced electromotive force.
 - **B.** Determine the current in the wire as a function of time.
-- **C.** Calculate the dissolved mean power.
+- **C.** Calculate the average power dissipated.
 
 **Topic:** [[Electromagnetic Induction]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.68](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="Iberoamericana 1991 — Quesito 36" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
@@ -2118,21 +2096,19 @@ Un motor opera en ciclo de Carnot usando un gas de van der Waals $\left(P + \fra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2005 – Teórica P2: Motor de Carnot con gas de van der Waals**
+**2005 – Theory P2: Carnot Engine with van der Waals Gas**
 
-Un motor opera en ciclo de Carnot usando un gas de van der Waals $\left(P + \frac{a}{V^2}\right)(V - b) = nRT$.
+An engine operates on the Carnot cycle using a van der Waals gas $\left(P + \frac{a}{V^2}\right)(V - b) = nRT$.
 
-- **A.** Demonstrate that the Carnot cycle efficiency remains $\eta = 1 - T_C/T_H$ regardless of the gas.
+- **A.** Prove that the efficiency of the Carnot cycle remains $\eta = 1 - T_C/T_H$ regardless of the gas.
 - **B.** Find the work done in each process of the cycle.
-- **C.** Calculate the heat exchanged in isotherms.
+- **C.** Calculate the heat exchanged along the isotherms.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
 **Fonte:** [Testo (PDF) — p.76](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="Iberoamericana 1991 — Quesito 40" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
@@ -2173,12 +2149,12 @@ Gli elettroni bidimensionali in un campo magnetico intenso formano livelli di La
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P3: Hall effect of the whole quantum
+2005 – Theoretical P3: Integer Quantum Hall Effect
 
 Two-dimensional electrons in an intense magnetic field form Landau levels with energies $E_n = \hbar\omega_c(n + 1/2)$.
 
-- **A.** Calculate the degeneration of each level of Landau per unit area.
-- **B.** When the Fermi level falls within the level gap, show that the Hall conductivity is $\sigma_{xy} = \nu e^2/h$.
+- **A.** Calculate the degeneracy of each Landau level per unit area.
+- **B.** When the Fermi level falls within the gap between levels, show that the Hall conductance is $\sigma_{xy} = \nu e^2/h$.
 - **C.** Estimate the magnetic field required to observe the quantum Hall effect at $T = 4$ K.
 
 **Topic:** [[Modern-Quantum Physics]], [[Magnetism]]
@@ -2186,8 +2162,6 @@ Two-dimensional electrons in an intense magnetic field form Landau levels with e
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.78](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q41" data-atom="q41" data-title="Iberoamericana 1991 — Quesito 41" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -2558,11 +2532,11 @@ Considerare un'atmosfera in equilibrio idrostatico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P2: Isothermal and adiabatic atmosphere
+**2007 – Theory P2: Isothermal and Adiabatic Atmosphere**
 
 Consider an atmosphere in hydrostatic equilibrium.
 
-- **A.** For an isothermal atmosphere at $T$, derive the pressure profile $P(z) = P_0 e^{-mgz/k_BT}$.
+- **A.** For an isothermal atmosphere at temperature $T$, derive the pressure profile $P(z) = P_0 e^{-mgz/k_BT}$.
 - **B.** For an adiabatic atmosphere, derive the adiabatic temperature gradient $dT/dz = -g/c_p$.
 - **C.** Estimate the height of the tropopause using standard atmospheric data.
 
@@ -2571,8 +2545,6 @@ Consider an atmosphere in hydrostatic equilibrium.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.92](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q48" data-atom="q48" data-title="Iberoamericana 1991 — Quesito 48" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
 
@@ -2778,21 +2750,19 @@ Un interferometro Michelson ha braccia di lunghezza $L_1$ e $L_2$. Si utilizza l
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the most commonly used methods of measuring the concentration of particles in the sample:
+2008 – Theory P2: Michelson Interferometer
 
-A Michelson interferometer has arms of length $L_1$ and $L_2$. Wavelength light $\lambda$ is used.
+A Michelson interferometer has arms of lengths $L_1$ and $L_2$. Light with wavelength $\lambda$ is used.
 
-- **A.** Find the difference in optical path between the two arms.
-- **B.** Determine how many bands are observed by varying $L_1$ to $\Delta L$.
-- **C.** If the source emits two wavelengths $\lambda$ and $\lambda + \Delta\lambda$, determine the coherence length and visibility of the bands.
+- **A.** Find the optical path difference between the two arms.
+- **B.** Determine how many bands are observed when $L_1$ is varied to $\Delta L$.
+- **C.** If the source emits two wavelengths $\lambda$ and $\lambda + \Delta\lambda$, determine the coherence length and the fringe visibility.
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.100](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q52" data-atom="q52" data-title="Iberoamericana 1991 — Quesito 52" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star"></span>
 
@@ -2833,21 +2803,19 @@ Il ciclo pp nel Sole converte l'idrogeno in elio: $4p \to {}^4\text{He} + 2e^+ +
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P3: Nuclear fusion in the Sun
+**2008 – Theory P3: Nuclear Fusion in the Sun**
 
-The pp cycle in the Sun converts hydrogen to helium: $4p \to {}^4\text{He} + 2e^+ + 2\nu_e + \text{energía}$.
+The pp cycle in the Sun converts hydrogen into helium: $4p \to {}^4\text{He} + 2e^+ + 2\nu_e + \text{energía}$.
 
 - **A.** Calculate the energy released per cycle using atomic masses.
-- **B.** Given the sun's luminosity $L_{\odot} = 3.8 \times 10^{26}$ W, estimate the mass of hydrogen burned per second.
-- **C.** Estimate the remaining life of the Sun.
+- **B.** Given the solar luminosity $L_{\odot} = 3.8 \times 10^{26}$ W, estimate the mass of hydrogen burned per second.
+- **C.** Estimate the Sun's remaining lifetime.
 
 **Topic:** [[Nuclear & Particle Physics]], [[Astrophysics]]
 **Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.102](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q53" data-atom="q53" data-title="Iberoamericana 1991 — Quesito 53" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -2888,21 +2856,19 @@ Usando un diodo di silicio e gli strumenti disponibili, misurare la caratteristi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be presented in accordance with the following formula:
+**2009 – Experimental: I-V Curve of a Semiconductor Diode**
 
-Using a silicon diode and available instruments, measure the full I-V characteristic.
+Using a silicon diode and the available instruments, measure the complete I-V characteristic.
 
-- **A.** Measure the current based on the voltage from -5V to +5V with a step of 0.1V in the direct conduction zone.
-- **B.** Verify that $I = I_0(e^{eV/k_BT} - 1)$ and determine $I_0$ and the equivalent temperature.
-- **C.** Measure the break voltage in reverse.
+- **A.** Measure the current as a function of voltage from -5 V to +5 V in steps of 0.1 V in the forward-conduction region.
+- **B.** Verify $I = I_0(e^{eV/k_BT} - 1)$ and determine $I_0$ and the equivalent temperature.
+- **C.** Measure the reverse breakdown voltage.
 
 **Topic:** [[Modern-Quantum Physics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.104](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q54" data-atom="q54" data-title="Iberoamericana 1991 — Quesito 54" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/cylinder"></span>
 
@@ -2943,12 +2909,12 @@ Un cilindro solido di massa $m$ e di raggio $R$ viene lanciato su una superficie
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2009 – Theoretical P1: Sliding and Rolling of a Cylinder
 
-A solid cylinder of mass $m$ and radius $R$ is thrown over a horizontal surface with an initial speed $v_0$ and no initial rotation. The kinetic friction coefficient is $\mu_k$.
+A solid cylinder with mass $m$ and radius $R$ is launched onto a horizontal surface with an initial velocity $v_0$ and no initial rotation. The coefficient of kinetic friction is $\mu_k$.
 
-- **A.** Find the time $t^*$ when the cylinder starts to spin without sliding.
-- **B.** Calculate the final translation speed and angular speed.
+- **A.** Find the time $t^*$ at which the cylinder begins to roll without slipping.
+- **B.** Calculate the final translational velocity and the angular velocity.
 - **C.** Determine the fraction of energy dissipated by friction.
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
@@ -2956,8 +2922,6 @@ A solid cylinder of mass $m$ and radius $R$ is thrown over a horizontal surface 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.106](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q55" data-atom="q55" data-title="Iberoamericana 1991 — Quesito 55" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
@@ -2998,21 +2962,19 @@ Un conduttore sferico a raggi $a$ e $b$ ($b > a$) ha il conduttore interno a pot
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the calculation of the total energy consumption of the product:
+2009 – Theory P2: Spherical capacitor as a particle accelerator
 
-A spherical $a$ and $b$ radiocapacitor ($b > a$) has the internal conductor at potential $V_0$ and the external conductor at ground. A charge particle $q$ and mass $m$ part of the rest from $r = a$.
+A spherical capacitor with radii $a$ and $b$ ($b > a$) has its inner conductor at potential $V_0$ and its outer conductor grounded. A particle with charge $q$ and mass $m$ starts from rest at $r = a$.
 
 - **A.** Find the kinetic energy as a function of $r$.
-- **B.** Calculate the speed when reaching the external driver.
-- **C.** If $V_0$ is large enough, the particle can escape. Find the least potential.
+- **B.** Calculate the speed upon reaching the outer conductor.
+- **C.** If $V_0$ is sufficiently large, the particle can escape. Find the minimum potential.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Gauss's Law (metodo)|Gauss's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.108](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q56" data-atom="q56" data-title="Iberoamericana 1991 — Quesito 56" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3053,11 +3015,11 @@ Il modello di Landau per una transizione di fase di primo ordine ha energia libe
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of data that are used in the report:
+2009 – Theoretical P3: First-Order Phase Transition
 
-Landau's model for a first order phase transition has free energy $F = F_0 + a(T)\phi^2 + b\phi^4 + c\phi^6$ with $b < 0$ and $c > 0$.
+The Landau model for a first-order phase transition has a free energy $F = F_0 + a(T)\phi^2 + b\phi^4 + c\phi^6$ with $b < 0$ and $c > 0$.
 
-- **A.** Find the $F$ minims according to $a$ (which changes sign to $T_0$).
+- **A.** Find the minima of $F$ as a function of $a$ (which changes sign at $T_0$).
 - **B.** Determine the transition temperature $T_c > T_0$.
 - **C.** Calculate the latent heat of the transition.
 
@@ -3066,8 +3028,6 @@ Landau's model for a first order phase transition has free energy $F = F_0 + a(T
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.110](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q57" data-atom="q57" data-title="Iberoamericana 1991 — Quesito 57" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
 
@@ -3108,21 +3068,19 @@ Usando un tubo a colonna d'aria e un altoparlante, determinare la velocità del 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2010  Experimental: Measurement of the speed of sound**
+**2010 – Experimental: Measurement of the Speed of Sound**
 
-Using an air-column tube and a speaker, determine the speed of sound in the air by means of resonance.
+Using a tube with an air column and a loudspeaker, determine the speed of sound in air by means of resonances.
 
-- **A.** Find the resonance condition for an open-close tube.
+- **A.** Find the resonance condition for an open-closed tube.
 - **B.** Measure the frequencies of the first three modes for different lengths.
-- **C.** Get $v_{sonido}$ with its uncertainty and compare it with the theoretical value $v = \sqrt{\gamma RT/M}$.
+- **C.** Obtain $v_{sonido}$ with its uncertainty and compare it with the theoretical value $v = \sqrt{\gamma RT/M}$.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.112](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q58" data-atom="q58" data-title="Iberoamericana 1991 — Quesito 58" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3163,21 +3121,19 @@ Una particella sottoposta a una forza costante $F$ ha la posizione $x(t) = \frac
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the parameters of the Zeno acceleration paradox:
+2010 – Theoretical P1: Zeno's Paradox of Acceleration
 
-A particle subjected to a constant force $F$ has the position $x(t) = \frac{1}{2}at^2$. The travel time of $[x_n, x_{n+1}]$ with $x_n = x_0/2^n$ forms a series.
+A particle subjected to a constant force $F$ has position $x(t) = \frac{1}{2}at^2$. The travel time of $[x_n, x_{n+1}]$ with $x_n = x_0/2^n$ forms a series.
 
-- **A.** Calculate the $t_n$ travel time of the $n$-th segment.
-- **B.** Demonstrate that the $\sum t_n$ series converges.
-- **C.** Generalising the case of a variable force $F(x) = F_0(x_0/x)^\alpha$ and determining for which $\alpha$ the series converges.
+- **A.** Calculate the travel time $t_n$ for the $n$-th segment.
+- **B.** Prove that the series $\sum t_n$ converges.
+- **C.** Generalize to the case of a variable force $F(x) = F_0(x_0/x)^\alpha$ and determine for which $\alpha$ the series converges.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.114](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q59" data-atom="q59" data-title="Iberoamericana 1991 — Quesito 59" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3218,12 +3174,12 @@ Un ferrofluido (liquido con particelle magnetiche in sospensione) di sensibilit�
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2010 – Theory P2: Ferrofluid in a Magnetic Field
 
-A ferrofluid (liquid with suspended magnetic particles) of susceptibility $\chi$ and density $\rho$ is in a magnetic field $B(z)$ which varies with height.
+A ferrofluid (a liquid with magnetic particles in suspension), having susceptibility $\chi$ and density $\rho$, is in a magnetic field $B(z)$ that varies with height.
 
 - **A.** Derive the magnetic pressure in the ferrofluid.
-- **B.** Find the free surface profile based on $B(z)$.
+- **B.** Find the profile of the free surface as a function of $B(z)$.
 - **C.** Estimate the maximum height that the ferrofluid can reach with an electromagnet.
 
 **Topic:** [[Fluid Mechanics]], [[Magnetism]]
@@ -3231,8 +3187,6 @@ A ferrofluid (liquid with suspended magnetic particles) of susceptibility $\chi$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q60" data-atom="q60" data-title="Iberoamericana 1991 — Quesito 60" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom,object/electron"></span>
 
@@ -3273,12 +3227,12 @@ L'atomo di elio ha due elettroni con Hamiltoniano $H = p_1^2/2m + p_2^2/2m - 2e^
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P3: Helium atom and electronic correlations
+2010 – Theoretical P3: Helium Atom and Electronic Correlations
 
 The helium atom has two electrons with Hamiltonian $H = p_1^2/2m + p_2^2/2m - 2e^2/r_1 - 2e^2/r_2 + e^2/r_{12}$.
 
-- **A.** Without the repulsion term $e^2/r_{12}$, write the wave functions of the base state (single) and the first excited state (triple).
-- **B.** Using the mean $\langle e^2/r_{12} \rangle = 5Ze^2/(8a_0)$ of the base state, calculate the energy of the base state.
+- **A.** Without the repulsion term $e^2/r_{12}$, write the wave functions for the ground state (singlet) and the first excited state (triplet).
+- **B.** Using the mean value $\langle e^2/r_{12} \rangle = 5Ze^2/(8a_0)$ of the ground state, calculate the energy of the ground state.
 - **C.** Compare with the experimental value $E = -79$ eV.
 
 **Topic:** [[Modern-Quantum Physics]]
@@ -3286,8 +3240,6 @@ The helium atom has two electrons with Hamiltonian $H = p_1^2/2m + p_2^2/2m - 2e
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Atom (object)|Atom]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.118](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q61" data-atom="q61" data-title="Iberoamericana 1991 — Quesito 61" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/battery"></span>
 
@@ -3328,11 +3280,11 @@ Usando elettrodi di Zn e Cu in soluzione di $\text{ZnSO}_4$ e $\text{CuSO}_4$, m
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of electrical equipment used:
+**2011 – Experimental: Galvanic Cell and Electromotive Force**
 
-Using Zn and Cu electrodes in solution of $\text{ZnSO}_4$ and $\text{CuSO}_4$, measure the electromotive force of the Daniell battery based on concentration.
+Using Zn and Cu electrodes in a solution of $\text{ZnSO}_4$ and $\text{CuSO}_4$, measure the electromotive force of the Daniell cell as a function of concentration.
 
-- **A.** Measuring the FEM for different concentrations of solutions.
+- **A.** Measure the EMF for different concentrations of the solutions.
 - **B.** Verify the Nernst equation: $\mathcal{E} = \mathcal{E}^0 - \frac{RT}{2F}\ln\frac{[\text{Zn}^{2+}]}{[\text{Cu}^{2+}]}$.
 - **C.** Determine $\mathcal{E}^0$ with its uncertainty.
 
@@ -3341,8 +3293,6 @@ Using Zn and Cu electrodes in solution of $\text{ZnSO}_4$ and $\text{CuSO}_4$, m
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.120](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q62" data-atom="q62" data-title="Iberoamericana 1991 — Quesito 62" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3383,12 +3333,12 @@ Due masse uguali $M$ orbitano il loro centro di massa in radiocircoli $R$ con pe
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical P1: The three-body restricted problem
+2011 – Theoretical P1: Restricted Three-Body Problem
 
-Two equal masses $M$ orbit their centre of mass in radial circles $R$ with period $T$. A third small mass $m \ll M$ is at the Lagrange point $L_4$, at 60° of each large mass.
+Two equal masses $M$ orbit their center of mass in circles of radius $R$ with period $T$. A third small mass $m \ll M$ is at the Lagrange point $L_4$, at a distance 60° from each large mass.
 
-- **A.** Prove that the point $L_4$ is a solution of equilibrium.
-- **B.** Analyze the stability of the balance for $m \ll M$.
+- **A.** Prove that the point $L_4$ is an equilibrium solution.
+- **B.** Analyze the stability of the equilibrium for $m \ll M$.
 - **C.** Calculate the frequency of small oscillations around $L_4$.
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
@@ -3396,8 +3346,6 @@ Two equal masses $M$ orbit their centre of mass in radial circles $R$ with perio
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.122](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q63" data-atom="q63" data-title="Iberoamericana 1991 — Quesito 63" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3493,21 +3441,19 @@ L'oscillatore quantistico anammonico ha un Hamiltonian $H = p^2/2m + m\omega^2 x
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2011 – Theory P3: Quantum Mechanics of the Anharmonic Oscillator
 
-The anharmonic quantum oscillator has a Hamiltonian $H = p^2/2m + m\omega^2 x^2/2 + \lambda x^4$.
+The anharmonic quantum oscillator has Hamiltonian $H = p^2/2m + m\omega^2 x^2/2 + \lambda x^4$.
 
-- **A.** Using first order perturbation theory, calculate the correction to the energy of the $n$-th state.
+- **A.** Using first-order perturbation theory, calculate the correction to the energy of the $n$-th state.
 - **B.** Show that $\langle x^4 \rangle_n = 3(\hbar/2m\omega)^2(2n^2 + 2n + 1)$.
-- **C.** Determine how the actual frequency of oscillation changes with amplitude.
+- **C.** Determine how the effective oscillation frequency varies with amplitude.
 
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.126](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q65" data-atom="q65" data-title="Iberoamericana 1991 — Quesito 65" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/resistor"></span>
 
@@ -3548,12 +3494,12 @@ Usando un circuito RC, misurare la costante di tempo $\tau = RC$ durante il cari
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the manufacturer:
+**2012 – Experimental: Charging and Discharging of a Capacitor**
 
-Using an RC circuit, measure the time constant $\tau = RC$ during the load and discharge of the capacitor.
+Using an RC circuit, measure the time constant $\tau = RC$ during the charging and discharging of the capacitor.
 
-- **A.** Measure the voltage in the capacitor as a function of time for at least 3 values of $R$.
-- **B.** Determine $\tau$ for each $R$ and check the ratio $\tau = RC$.
+- **A.** Measure the voltage across the capacitor as a function of time for at least 3 values of $R$.
+- **B.** Determine $\tau$ for each $R$ and verify the $\tau = RC$ relation.
 - **C.** Calculate $C$ with its uncertainty.
 
 **Topic:** [[Circuits]]
@@ -3561,8 +3507,6 @@ Using an RC circuit, measure the time constant $\tau = RC$ during the load and d
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.128](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q66" data-atom="q66" data-title="Iberoamericana 1991 — Quesito 66" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/satellite,object/planet,object/star"></span>
 
@@ -3658,21 +3602,19 @@ Un solido semi-infinito ($x > 0$) ha una temperatura iniziale $T_0$. In $x = 0$ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2012 – Theory P2: Heat Conduction in a Semi-Infinite Solid
 
-A semi-infinite solid ($x > 0$) has an initial temperature of $T_0$. In $x = 0$ the temperature $T_1$ is applied to $t = 0$.
+A semi-infinite solid ($x > 0$) has an initial temperature of $T_0$. At $x = 0$, a temperature of $T_1$ is applied to $t = 0$.
 
-- **A.** Solve the heat diffusion equation $\partial T/\partial t = \kappa \partial^2 T/\partial x^2$ with these contour conditions.
-- **B.** The solution is $T(x,t) = T_0 + (T_1 - T_0)\text{erfc}(x/\sqrt{4\kappa t})$. Check it out.
-- **C.** Calculate the heat flow at $x = 0$ depending on the time.
+- **A.** Solve the heat diffusion equation $\partial T/\partial t = \kappa \partial^2 T/\partial x^2$ with these boundary conditions.
+- **B.** The solution is $T(x,t) = T_0 + (T_1 - T_0)\text{erfc}(x/\sqrt{4\kappa t})$. Verify.
+- **C.** Calculate the heat flux in $x = 0$ as a function of time.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.132](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q68" data-atom="q68" data-title="Iberoamericana 1991 — Quesito 68" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
@@ -3823,21 +3765,19 @@ Usando una cella solare e resistenze variabili, misurare la curva I-V della cell
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of solar cells used in the manufacture of solar cells:
+2013 – Experimental E2: Characterization of a Solar Cell
 
-Using a solar cell and variable resistance, measure the cell's I-V curve under lighting.
+Using a solar cell and variable resistors, measure the I-V curve of the cell under illumination.
 
-- **A.** Measure $I$ vs $V$ by varying the load resistance from 0 to $\infty$.
-- **B.** Determine the short circuit current $I_{sc}$, the open circuit voltage $V_{oc}$ and the maximum power point.
-- **C.** Calculate the fill factor $FF = P_{max}/(I_{sc}V_{oc})$.
+- **A.** Measure $I$ versus $V$ by varying the load resistance from 0 to $\infty$.
+- **B.** Determine the short-circuit current $I_{sc}$, the open-circuit voltage $V_{oc}$, and the maximum power point.
+- **C.** Calculate the filling factor $FF = P_{max}/(I_{sc}V_{oc})$.
 
 **Topic:** [[Modern-Quantum Physics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.138](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q71" data-atom="q71" data-title="Iberoamericana 1991 — Quesito 71" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/block,object/spring"></span>
 
@@ -3933,21 +3873,19 @@ Un toroide di $N$ spirale, radio maggiore $R$ e radio inferiore $r$ conduce un c
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical T2: Magnetic field of a toroid with external thread
+**2013 – Theory T2: Magnetic field of a toroid with an external wire**
 
-A torus of $N$ spirals, greater $R$ radius and lesser $r$ radius conducts a current $I$. A straight thread parallel to the torus axis at a distance $d > R + r$ leads a current $I_0$.
+A toroid with $N$ turns, major radius $R$, and minor radius $r$ carries a current $I$. An infinite straight wire parallel to the toroid's axis and at a distance $d > R + r$ from it carries a current $I_0$.
 
 - **A.** Calculate the magnetic field inside and outside the toroid.
-- **B.** Determine the force per unit length between the torus and the wire.
-- **C.** Calculate the mutual inductance between the toroid and the thread.
+- **B.** Determine the force per unit length between the toroid and the wire.
+- **C.** Calculate the mutual inductance between the toroid and the wire.
 
 **Topic:** [[Magnetism]], [[Electromagnetic Induction]]
 **Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.142](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q73" data-atom="q73" data-title="Iberoamericana 1991 — Quesito 73" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -3988,21 +3926,19 @@ Due treni identici di propria lunghezza $L_0$ si muovono a velocità $+v$ e $-v$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical T3: Lorentz contraction and simultaneity
+2013 – Theoretical T3: Lorentz Contraction and Simultaneity
 
-Two identical trains of own length $L_0$ are moving at speeds $+v$ and $-v$ relative to a resting observer.
+Two identical trains with proper length $L_0$ move with velocities $+v$ and $-v$ relative to a stationary observer.
 
-- **A.** Calculate the length of each train according to the observer at rest.
-- **B.** Determine the relative speed between trains using the relativistic speed addition.
-- **C.** According to an observer on one train, calculate the length of the other train and the time the trains pass.
+- **A.** Calculate the length of each train as measured by an observer at rest.
+- **B.** Determine the relative velocity between the trains using relativistic velocity addition.
+- **C.** According to an observer on one of the trains, calculate the length of the other train and the time it takes for the trains to pass each other.
 
 **Topic:** [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.144](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q74" data-atom="q74" data-title="Iberoamericana 1991 — Quesito 74" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
@@ -4098,21 +4034,19 @@ Utilizzando una sottile canna metallica inserita in un'estremità e una serie di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be presented in accordance with the following formula:
+2014 – Experimental: Young's Modulus by Cantilever Beam Bending
 
-Using a thin metal rod embedded at one end and a series of masses, measure the Young $E$ module.
+Using a thin metal rod fixed at one end and a series of masses, measure the Young's modulus $E$.
 
-- **A.** Measure the deflection $\delta$ at the free end according to the suspended mass.
-- **B.** Using $\delta = FL^3/(3EI)$ with $I = \pi d^4/64$ for circular section, determine $E$.
-- **C.** Get $E$ with its uncertainty.
+- **A.** Measure the deflection $\delta$ at the free end as a function of the hanging mass.
+- **B.** Using $\delta = FL^3/(3EI)$ with $I = \pi d^4/64$ for a circular section, determine $E$.
+- **C.** Obtain $E$ along with its uncertainty.
 
 **Topic:** [[Elasticity & Materials]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.226](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q76" data-atom="q76" data-title="Iberoamericana 1991 — Quesito 76" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/point-charge"></span>
 
@@ -4202,12 +4136,12 @@ La luminosità solare è $L_{\odot} = 3.8 \times 10^{26}$ W. Il Paraguay è a la
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2014 – Theory P2: Solar Radiation and Equilibrium Temperature
 
-The solar luminosity is $L_{\odot} = 3.8 \times 10^{26}$ W. Paraguay is at latitude 25°S.
+The solar luminosity is $L_{\odot} = 3.8 \times 10^{26}$ W. Paraguay is at a latitude of 25°S.
 
-- **A.** Calculate the incident solar power per unit area on the earth's surface in Paraguay at noon of the equinox.
-- **B.** Modeling the Earth as a black body and calculating its equilibrium temperature.
+- **A.** Calculate the solar power incident per unit area on the Earth's surface in Paraguay at noon on the day of the equinox.
+- **B.** Model the Earth as a black body and calculate its equilibrium temperature.
 - **C.** Compare the total solar power with the installed capacity of the Itaipu Dam (14 GW).
 
 **Topic:** [[Astrophysics]], [[Thermodynamics]]
@@ -4215,8 +4149,6 @@ The solar luminosity is $L_{\odot} = 3.8 \times 10^{26}$ W. Paraguay is at latit
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.231](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q78" data-atom="q78" data-title="Iberoamericana 1991 — Quesito 78" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
@@ -4416,21 +4348,19 @@ Nel 1947, Powell scoprì il pion $\pi^+$ in emulsioni fotografiche nel laborator
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the most common types of peony found in the United States.
+2015 – Theoretical P2: Discovery of the Pion at Chacaltaya
 
-In 1947, Powell discovered the $\pi^+$ pawn in photographic emulsions in the laboratory of Chacaltaya (Bolivia, 5200 m). A mass pione $m_\pi$ and moment $p_\pi$ travels at speed $v$ before falling into a muon.
+In 1947, Powell discovered the pion $\pi^+$ in photographic emulsions at the Chacaltaya laboratory (Bolivia, 5200 m). A pion with mass $m_\pi$ and momentum $p_\pi$ travels at speed $v$ before decaying into a muon.
 
-- **A.** Calculate the Lorentz factor $\gamma$ of the pawn in the laboratory system.
-- **B.** In the laboratory system, calculate the mean distance travelled before falling (temporary dilation).
-- **C.** Using the ionization loss (Bethe-Bloch type), estimate the braking length of the pawn in the emulsion.
+- **A.** Calculate the Lorentz factor $\gamma$ of the pion in the laboratory frame.
+- **B.** In the laboratory system, calculate the mean distance traveled before decay (time dilation).
+- **C.** Using ionization loss (Bethe-Bloch type), estimate the stopping length of the pion in the emulsion.
 
 **Topic:** [[Nuclear & Particle Physics]], [[Special Relativity]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.238](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q82" data-atom="q82" data-title="Iberoamericana 1991 — Quesito 82" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
 
@@ -4526,21 +4456,19 @@ Due lastre di vetro formando un angolo $\alpha$ mostrano un pattern di strisce d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test shall be carried out in accordance with the following conditions:
+2016 – Experimental A: Surface Tension Between Wedge-Shaped Glass Plates
 
-Two glass plates forming an angle wedge $\alpha$ show a pattern of water interference bands between them. The surface tension raises the water to different heights.
+Two glass plates forming a wedge with an angle of $\alpha$ exhibit a pattern of water interference fringes between them. Surface tension raises the water to different heights.
 
-- **A.** Observe the pattern of hair growth and measure height according to position.
-- **B.** Use the $h = 2\gamma\cos\theta/(\rho g d)$ ratio where $d$ is the local separation.
-- **C.** Get $\gamma$ with its uncertainty.
+- **A.** Observe the capillary rise pattern and measure the height as a function of position.
+- **B.** Use the relation $h = 2\gamma\cos\theta/(\rho g d)$ where $d$ is the local separation.
+- **C.** Obtain $\gamma$ with its uncertainty.
 
 **Topic:** [[Fluid Mechanics]], [[Wave Optics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.243](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q84" data-atom="q84" data-title="Iberoamericana 1991 — Quesito 84" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/capacitor"></span>
 
@@ -4581,12 +4509,12 @@ Una scatola nera contiene componenti RC sconosciuti (serial o parallelo). Usando
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2016 – Experimental B: Caja gris RC – determinación de $R_x$ y $C_x$**
+2016 – Experimental B: Grey RC Box – determination of $R_x$ and $C_x$
 
-A black box contains unknown RC components (series or parallel). Using a multimeter and signal generator, determine the configuration and values $R_x$, $C_x$.
+A black box contains unknown RC components (series or parallel). Using a multimeter and a signal generator, determine the configuration and the values $R_x$, $C_x$.
 
-- **A.** Measure impedance by frequency.
-- **B.** Determine whether the components are in series or in parallel from the frequency dependence.
+- **A.** Measure impedance as a function of frequency.
+- **B.** Determine whether the components are in series or in parallel based on the frequency dependence.
 - **C.** Calculate $R_x$ and $C_x$ with their uncertainties.
 
 **Topic:** [[Circuits]]
@@ -4594,8 +4522,6 @@ A black box contains unknown RC components (series or parallel). Using a multime
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.246](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q85" data-atom="q85" data-title="Iberoamericana 1991 — Quesito 85" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/black-hole,object/mirror"></span>
 
@@ -4743,21 +4669,19 @@ Un giocattolo è propulso da un propulsore MHD: un corrente $I$ passa attraverso
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2016 – Theory P3: Magnetohydrodynamic (MHD) Thruster
 
-A toy boat is propelled by an MHD propeller: a current $I$ passes through seawater (conductivity $\sigma$) in the presence of a magnetic field $B$, generating a Lorentz force.
+A toy boat is propelled by an MHD thruster: a current $I$ passes through seawater (conductivity $\sigma$) in the presence of a magnetic field $B$, generating a Lorentz force.
 
-- **A.** Calculate the force on the water based on $I$, $B$ and the geometry of the channel.
-- **B.** Using the continuity equation and Ohm's law for fluid, optimize the channel dimensions to maximize efficiency.
-- **C.** Determine the terminal speed of the boat by considering the hydrodynamic resistance $F_{drag} = \frac{1}{2}\rho_{agua}C_D A v^2$.
+- **A.** Calculate the force on the water as a function of $I$, $B$, and the geometry of the channel.
+- **B.** Using the continuity equation and Ohm's law for the fluid, optimize the channel dimensions to maximize efficiency.
+- **C.** Determine the terminal velocity of the boat considering the hydrodynamic resistance $F_{drag} = \frac{1}{2}\rho_{agua}C_D A v^2$.
 
 **Topic:** [[Fluid Mechanics]], [[Magnetism]], [[Electromagnetism]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.265](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q88" data-atom="q88" data-title="Iberoamericana 1991 — Quesito 88" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
 
@@ -4798,21 +4722,19 @@ Usando un bicchiere a doppia parete con acqua calda e misurando la temperatura d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of heat pumps used:
+2017 – Experimental E1: Heat Conduction in a Double-Walled Vessel
 
-Using a double-wall glass with hot water and measuring the cooling temperature based on weather, determine the heat transfer coefficient $B$ of the wall.
+Using a double-walled vessel containing hot water and measuring the cooling temperature as a function of time, determine the heat transfer coefficient $B$ of the wall.
 
 - **A.** Measure the cooling curve $T(t)$.
 - **B.** Verify that $dT/dt = -B(T - T_{amb})$ (Newton's law of cooling) and determine $B$.
-- **C.** Calculate the equilibrium temperature for different external heating rates.
+- **C.** Calculate the equilibrium temperature for different rates of external heating.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.269](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q89" data-atom="q89" data-title="Iberoamericana 1991 — Quesito 89" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wire,object/resistor"></span>
 
@@ -4908,21 +4830,19 @@ Un blocco di massa $m$ è unito a una sorgente di costante $k$ su una superficie
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2017 – Theoretical T1: Block on a Surface That Is Half Smooth and Half Rough
 
-A mass block $m$ is attached to a spring of constant $k$ on a horizontal surface. The left half of the surface is smooth and the right half has a coefficient of friction $\mu$.
+A block of mass $m$ is attached to a spring with constant $k$ on a horizontal surface. The left half of the surface is smooth, and the right half has a coefficient of friction $\mu$.
 
-- **A.** Describe the movement of the block (serial amplitudes, effective equilibrium position).
-- **B.** Find the final resting position of the block.
-- **C.** Calculate the number of oscillations until the block stops.
+- **A.** Describe the motion of the block (successive amplitudes, effective equilibrium position).
+- **B.** Find the final equilibrium position of the block.
+- **C.** Calculate the number of oscillations until the block comes to a stop.
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.274](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q91" data-atom="q91" data-title="Iberoamericana 1991 — Quesito 91" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
@@ -4963,12 +4883,12 @@ Due fogli di conduttore sottili con cariche $+CV_0$ e $-CV_0$ vengono inseriti i
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2017  Theory T2: Two conductive sheets loaded in a capacitor**
+2017 – Theory T2: Two charged conducting plates in a capacitor
 
-Two thin conductive sheets with $+CV_0$ and $-CV_0$ loads are inserted into a capacitor $C$ initially discharged.
+Two thin conducting plates carrying charges $+CV_0$ and $-CV_0$ are inserted into a capacitor with capacitance $C$ that is initially uncharged.
 
 - **A.** Calculate the electric field in each region of the capacitor.
-- **B.** Calculate the work required to exchange the positions of the two sheets.
+- **B.** Calculate the work required to swap the positions of the two blades.
 - **C.** Find the new electric field after the exchange.
 
 **Topic:** [[Electrostatics]]
@@ -4976,8 +4896,6 @@ Two thin conductive sheets with $+CV_0$ and $-CV_0$ loads are inserted into a ca
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.275](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q92" data-atom="q92" data-title="Iberoamericana 1991 — Quesito 92" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas,object/heat-engine"></span>
 
@@ -5290,12 +5208,12 @@ Una rete di condensatori ha una struttura con particolare simmetria che permette
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2018 – Theory P3: Complex Capacitor Network
 
-A network of capacitors has a structure with particular symmetry that simplifies the calculation.
+A capacitor network has a structure with a particular symmetry that makes the calculation simpler.
 
-- **A.** Find the equivalent circuit capacity using symmetry arguments.
-- **B.** Calculate the load distribution in all capacitors.
+- **A.** Find the equivalent capacitance of the circuit using symmetry arguments.
+- **B.** Calculate the charge distribution across all capacitors.
 - **C.** Determine the total energy stored in the grid.
 
 **Topic:** [[Electrostatics]], [[Circuits]]
@@ -5303,8 +5221,6 @@ A network of capacitors has a structure with particular symmetry that simplifies
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.306](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q98" data-atom="q98" data-title="Iberoamericana 1991 — Quesito 98" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
@@ -5345,21 +5261,19 @@ Due elettroni si muovono in direzioni perpendicolari con velocità $v_1$ e $v_2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The theory of relativistic electrons and simultaneity paradox
+2018 – Theory P4: Relativistic Electrons and the Paradox of Simultaneity
 
-Two electrons move in perpendicular directions at $v_1$ and $v_2$ speeds, and their paths intersect.
+Two electrons move in perpendicular directions with velocities $v_1$ and $v_2$, and their paths intersect.
 
-- **A.** In the laboratory system, calculate whether the electrons are simultaneously reaching the intersection point.
-- **B.** Using Lorentz transformations, analyze the simultaneity in the reference system of each electron.
-- **C.** Calculate the total relativistic energy of the system at the center of mass.
+- **A.** In the laboratory system, calculate whether the electrons reach the crossing point simultaneously.
+- **B.** Using Lorentz transformations, analyze simultaneity in the reference frame of each electron.
+- **C.** Calculate the total relativistic energy of the system in the center of mass.
 
 **Topic:** [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.309](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Iberoamericana 1991 — Quesito 99" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
 
@@ -5455,21 +5369,19 @@ Usando un LED e una fotoresistenza (LDR), misurare la caratteristica I-V del LED
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of LEDs used in the manufacture of LEDs:
+2019 – Experimental E2: I-V Characteristic of an LED and Photoresistor
 
-Using an LED and a photoresistance (LDR), measure the I-V characteristic of the LED and the response of the LDR to the LED light.
+Using an LED and a photoresistor (LDR), measure the I-V characteristic of the LED and the LDR's response to the LED's light.
 
-- **A.** Measure the LED current according to the voltage.
-- **B.** Measure the resistance of the LDR based on the current of the LED.
-- **C.** Determine the ratio of the optical power of the LED to $1/R_{LDR}$ by adjusting $P_{LED} \propto 1/R_{LDR}$.
+- **A.** Measure the LED current as a function of voltage.
+- **B.** Measure the resistance of the LDR as a function of the LED current.
+- **C.** Determine the relationship between the optical power of the LED and $1/R_{LDR}$ by adjusting $P_{LED} \propto 1/R_{LDR}$.
 
 **Topic:** [[Modern-Quantum Physics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.326](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q101" data-atom="q101" data-title="Iberoamericana 1991 — Quesito 101" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
@@ -5510,21 +5422,19 @@ Usando la teoria cinetica, derivare la conducibilità termica di un gas ideale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of gas and the types of gas used in the production of the product:
+2019 – Theoretical T1: Thermal Conductivity of a Gas (Kinetic Theory)
 
 Using kinetic theory, derive the thermal conductivity of an ideal gas.
 
-- **A.** Calculate the mean free path $\lambda = 1/(\sqrt{2}n\sigma)$ where $n$ is the numerical density and $\sigma$ the effective collision section.
-- **B.** Derive the coefficient of thermal conductivity $\kappa \approx \frac{1}{3}nm\bar{v}\lambda c_v$.
-- **C.** Discuss the range of validity (dilute gas regime vs. The first is the Knudsen regime and the Pirani caliber principle.
+- **A.** Calculate the mean free path $\lambda = 1/(\sqrt{2}n\sigma)$, where $n$ is the number density and $\sigma$ is the collision cross-section.
+- **B.** Derive the thermal conductivity coefficient $\kappa \approx \frac{1}{3}nm\bar{v}\lambda c_v$.
+- **C.** Discuss the range of validity (dilute gas regime vs. Knudsen regime) and the principle of the Pirani gauge.
 
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.340](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q102" data-atom="q102" data-title="Iberoamericana 1991 — Quesito 102" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron,object/atom"></span>
 
@@ -5565,21 +5475,19 @@ Un elettrone a centripeta accelerazione emette radiazioni. La formula di Larmor 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical T2: Crying radiation and half-life of the Bohr atom
+2019 – Theory T2: Larmor Radiation and the Half-Life of the Bohr Atom
 
-An electron at centripede acceleration emits radiation. The Larmor formula gives the radiated power: $P = e^2 a^2 / (6\pi\varepsilon_0 c^3)$.
+An electron undergoing centripetal acceleration emits radiation. The Larmor formula gives the radiated power: $P = e^2 a^2 / (6\pi\varepsilon_0 c^3)$.
 
-- **A.** For an electron at uniform deceleration, calculate the total radiated energy and the spectrum.
-- **B.** For a simple harmonic oscillator, calculate the half-life of the oscillation.
-- **C.** For the Bohr atom, calculate the half-life of the state $n=2$ and discuss the contradiction with quantum mechanics.
+- **A.** For an electron undergoing uniform deceleration, calculate the total radiated energy and the spectrum.
+- **B.** For a simple harmonic oscillator, calculate the mean lifetime of the oscillation.
+- **C.** For the Bohr atom, calculate the mean lifetime of state $n=2$ and discuss the contradiction with quantum mechanics.
 
 **Topic:** [[Modern-Quantum Physics]], [[Electromagnetism]]
 **Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Electron (object)|Electron]], [[Atom (object)|Atom]]
 **Fonte:** [Testo (PDF) — p.346](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q103" data-atom="q103" data-title="Iberoamericana 1991 — Quesito 103" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/gas,object/tank-container"></span>
 
@@ -5620,21 +5528,19 @@ Due vasi comunicanti: uno fisso e uno sospeso di una sorgente di costante $k_{re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**2019  Theory T3: Communicating vessels with spring-hanging container**
+2019 – Theory T3: Communicating Vessels with a Recipient Suspended by a Spring
 
-Two communication vessels: one fixed and one suspended from a spring of constant $k_{resorte}$ and section area $S$. The system contains an ideal gas above the liquid in the moving container.
+Two communicating vessels: one fixed and one suspended from a spring with constant $k_{resorte}$ and cross-sectional area $S$. The system contains an ideal gas above the liquid in the movable container.
 
 - **A.** Calculate the change in gas pressure when the liquid level changes.
-- **B.** Prove that the effective system spring constant is $k_{ii} = \rho S g / 3$.
-- **C.** Draw the diagram $p$-$V$ for the gas cooling process.
+- **B.** Show that the effective spring constant of the system is $k_{ii} = \rho S g / 3$.
+- **C.** Draw the $p$-$V$ diagram for the gas cooling process.
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Spring (object)|Spring]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.355](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q104" data-atom="q104" data-title="Iberoamericana 1991 — Quesito 104" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lever,object/spring,object/projectile"></span>
 
@@ -5675,21 +5581,19 @@ Una catapulta consiste in una leva di lunghezza totale $2L$ che si snoda al cent
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the calculation of the total value of the assets of the Union industry.
+**2020 – P1: Catapult: spring-loaded lever**
 
-A catapult consists of a lever of total length $2L$ that pivots at its centre. At one end there is a constant spring $k$ compressed a distance $x_0$; at the other end there is a mass $m$.
+A catapult consists of a lever with a total length of $2L$ that pivots at its center. At one end, there is a spring with a constant of $k$, compressed by a distance of $x_0$; at the other end, there is a mass of $m$.
 
-- **A.** Calculate the moment of inertia of the lever (uniform mass $M$, length $2L$) with respect to the pivot.
-- **B.** Using energy conservation, determine the angular velocity of the lever when the spring reaches its natural length.
-- **C.** Calculate the range of the projectile $m$ launched with the catapult.
+- **A.** Calculate the moment of inertia of the lever (uniform mass $M$, length $2L$) about the pivot.
+- **B.** Using conservation of energy, determine the angular velocity of the lever when the spring reaches its natural length.
+- **C.** Calculate the range of the projectile $m$ launched by the catapult.
 
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lever (object)|Lever]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.361](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q105" data-atom="q105" data-title="Iberoamericana 1991 — Quesito 105" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/droplet,object/conducting-sphere"></span>
 
@@ -5730,12 +5634,12 @@ Le gocce di pioggia cariche con carico $q$ cadono ciascuna all'interno di una sf
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weighted average weight of the product:
+**2020 – P2: Charged Drops and an Isolated Metallic Sphere**
 
-Rain droplets loaded with a load $q$ each fall within an insulated metal sphere of capacity $C$.
+Raindrops, each carrying a charge of $q$, fall into an isolated metallic sphere with capacitance $C$.
 
-- **A.** Find the potential of the sphere as a function of the number of drops $n$ that have fallen.
-- **B.** Determine the maximum number of droplets that can enter before the electrical force stops the new droplets (compare with the Coulomb limit).
+- **A.** Find the potential of the sphere as a function of the number $n$ of drops that have fallen.
+- **B.** Determine the maximum number of drops that can enter before the electric force stops new drops (compare with the Coulomb limit).
 - **C.** Calculate the energy accumulated in the sphere when $n = n_{max}$.
 
 **Topic:** [[Electrostatics]]
@@ -5743,8 +5647,6 @@ Rain droplets loaded with a load $q$ each fall within an insulated metal sphere 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Droplet (object)|Droplet]], [[Conducting Sphere (object)|Conducting Sphere]]
 **Fonte:** [Testo (PDF) — p.364](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q106" data-atom="q106" data-title="Iberoamericana 1991 — Quesito 106" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/photon,object/electron"></span>
 
@@ -5787,13 +5689,13 @@ Il sistema binario Algol eclisce periodicamente. Si misurano le curve di luce fo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the most common types of solar eclipses in the world.
+2020 – P3: Stellar Brightness and Photometry of Algol Eclipses
 
-The Algol binary system periodically eclipses. Photometric light curves are measured.
+The Algol binary system undergoes periodic eclipses. Photometric light curves are measured.
 
-Using Stefan-Boltzmann's law and Wien's law, calculate the relative temperatures and luminosities of the two stars.
-- **B.** At the photoelectric threshold, calculate the minimum energy of photons that can expel electrons from the cathode.
-- **C.** For a telescope of $D$ diameter, calculate the diameter of the diffraction image (Airy disc) and the resulting photocurrent.
+- **A.** Using the Stefan-Boltzmann law and Wien's law, calculate the temperatures and relative luminosities of the two stars.
+- **B.** At the photoelectric threshold, calculate the minimum energy of the photons capable of ejecting electrons from the cathode.
+- **C.** For a telescope with a diameter of $D$, calculate the diameter of the diffraction image (Airy disk) and the resulting photocurrent.
 - **D.** Determine the photocurrent reduction factor during the eclipse.
 
 **Topic:** [[Astrophysics]], [[Modern-Quantum Physics]], [[Wave Optics]]
@@ -5801,8 +5703,6 @@ Using Stefan-Boltzmann's law and Wien's law, calculate the relative temperatures
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Star (object)|Star]], [[Photon (object)|Photon]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.365](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q107" data-atom="q107" data-title="Iberoamericana 1991 — Quesito 107" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/membrane"></span>
 
@@ -5843,21 +5743,19 @@ I microtubuli sono polmeri biologici che si assemblano e si disassemblano stocas
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2020 – P4: Microtubule Dynamics
 
-Microtubules are biological polymers that stack together and disassemble stochastically. The mathematical model considers the probability of having a stabilizing GTP.
+Microtubules are biological polymers that assemble and disassemble stochastically. The mathematical model takes into account the probability of having a stabilizing GTP "cap".
 
-- **A.** Modeling the probability of hood stability based on the tubulin concentration $c$.
-- **B.** Find the critical concentration $c^*$ under which the microtubule is de-polymerized.
-- **C.** Calculate the force that the microtubule can exert on a membrane before de-polymerizing and the parameter $\alpha$ that characterizes instability.
+- **A.** Model the probability of cap stability as a function of tubulin concentration $c$.
+- **B.** Find the critical concentration $c^*$ below which the microtubule depolymerizes.
+- **C.** Calculate the force that the microtubule can exert on a membrane before depolymerizing, and the parameter $\alpha$ that characterizes the instability.
 
 **Topic:** [[Modern-Quantum Physics]], [[Newtonian Mechanics]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.367](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q108" data-atom="q108" data-title="Iberoamericana 1991 — Quesito 108" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container,object/pipe-tube"></span>
 
@@ -5898,21 +5796,19 @@ Una bottiglia con un orificio capillare alla base viene svuotata da flusso visco
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the tests carried out by the manufacturer:
+2020 – P5: Bottle discharge: Poiseuille viscous flow
 
-A bottle with a capillary hole at the base is emptied by viscous flow (Poiseuille's regimen). The liquid level decreases exponentially $z(t) = z_0 e^{-t/\tau}$.
+A bottle with a capillary orifice at its base empties due to viscous flow (Poiseuille flow regime). The liquid level decreases exponentially $z(t) = z_0 e^{-t/\tau}$.
 
-- **A.** Derive the differential equation for the level $z(t)$ using Poiseuille's law $Q = \pi r^4 \Delta P/(8\eta L)$.
-- **B.** Demonstrate that the solution is exponential and find $\tau$ based on the system parameters.
-- **C.** Determine the viscosity $\eta$ of the liquid from video data from the discharge.
+- **A.** Derive the differential equation for level $z(t)$ using Poiseuille's law $Q = \pi r^4 \Delta P/(8\eta L)$.
+- **B.** Show that the solution is exponential and find $\tau$ in terms of the system parameters.
+- **C.** Determine the viscosity $\eta$ of the liquid from video data of the discharge.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.370](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q109" data-atom="q109" data-title="Iberoamericana 1991 — Quesito 109" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -5953,12 +5849,12 @@ Usando una simulazione computerizzata del modello Ising 2D su una rete quadrata,
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the samples taken from the sample:
+2021 – Experimental E1: Simulation of the 2D Ising Model
 
-Using a computational simulation of the Ising 2D model on a square grid, study the ferromagnetic phase transition.
+Using a computational simulation of the 2D Ising model on a square lattice, study the ferromagnetic phase transition.
 
-- **A.** Calculate the paramagnetic susceptibility $\chi = \partial M/\partial H|_{H=0}$ to $T > T_C$.
-- **B.** Measure the cycle of hysteresis of the magnetisation $M(H)$ to $T < T_C$.
+- **A.** Calculate the paramagnetic susceptibility $\chi = \partial M/\partial H|_{H=0}$ at $T > T_C$.
+- **B.** Measure the hysteresis loop for magnetization from $M(H)$ to $T < T_C$.
 - **C.** Determine the critical temperature $T_C$ (Curie temperature) and the critical exponents.
 
 **Topic:** [[Modern-Quantum Physics]], [[Thermodynamics]]
@@ -5966,8 +5862,6 @@ Using a computational simulation of the Ising 2D model on a square grid, study t
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.380](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q110" data-atom="q110" data-title="Iberoamericana 1991 — Quesito 110" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -6008,21 +5902,19 @@ Una pietra piana di massa $m$ che colpisce l'acqua all'angolo $\alpha$ prova una
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2021 – Theoretical Q1: Stones That Jump in the Water (Marble)
 
-A flat stone of $m$ mass that hits water at an angle $\alpha$ experiences a hydrodynamic force $F = \rho_{agua} v^2 A \sin\alpha$ perpendicular to the water surface.
+A flat stone of mass $m$ that strikes the water at an angle $\alpha$ experiences a hydrodynamic force $F = \rho_{agua} v^2 A \sin\alpha$ perpendicular to the water surface.
 
-- **A.** Modelling of the rebound: calculate the vertical speed after impact based on contact time.
-- **B.** Calculate the energy dissipated by bounce and the maximum number of bounce $N_{col}$ before the stone sinks.
-- **C.** Calculate the accumulated horizontal range $\Delta X(n)$ after $n$ bounces.
+- **A.** Model the rebound: calculate the vertical velocity after impact as a function of contact time.
+- **B.** Calculate the energy dissipated by rebounding and the maximum number of rebounds $N_{col}$ before the stone sinks.
+- **C.** Calculate the cumulative horizontal range $\Delta X(n)$ after $n$ bounces.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.388](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q111" data-atom="q111" data-title="Iberoamericana 1991 — Quesito 111" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/inductor"></span>
 
@@ -6063,21 +5955,19 @@ Due oscillatori LC identici condividono un diodo ideale e un diodo reale (con te
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2021 – Theory Q2: Double LC Oscillator with Diodes
 
-Two identical LC oscillators share an ideal and a real diode (with threshold voltage $V_b$). The circuit oscillates transferring energy between the two LCs.
+Two identical LC oscillators share one ideal diode and one real diode (with threshold voltage $V_b$). The circuit oscillates by transferring energy between the two LC circuits.
 
-- **A.** Calculate the oscillation period with the ideal diode.
-- **B.** Draw the graph of the load $q(t)$ on the capacitors.
-- **C.** Calculate the lost energy per cycle due to the threshold voltage $V_b$ of the actual diode.
+- **A.** Calculate the oscillation period with an ideal diode.
+- **B.** Draw the graph of the charge $q(t)$ on the capacitors.
+- **C.** Calculate the energy lost per cycle due to the threshold voltage $V_b$ of the real diode.
 
 **Topic:** [[Circuits]], [[Oscillations & Waves]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
 **Fonte:** [Testo (PDF) — p.392](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q112" data-atom="q112" data-title="Iberoamericana 1991 — Quesito 112" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
@@ -6118,21 +6008,19 @@ I muoni sono creati a $h \approx 15$ km di altitudine nell'atmosfera dai raggi c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the most common types of air pollution controls:
+2021 – Theoretical Q3: Atmospheric Muons and Relativity
 
-The muons are created at $h \approx 15$ km altitude in the atmosphere by cosmic rays. Its half-life at rest is $\tau_0 = 2.2\,\mu\text{s}$.
+Muons are created at an altitude of $h \approx 15$ km in the atmosphere by cosmic rays. Their mean lifetime at rest is $\tau_0 = 2.2\,\mu\text{s}$.
 
-- **A.** Calculate the minimum Lorentz factor $\gamma_{min}$ so that the muons reach the ground without disintegration.
-- **B.** Estimate the spectral distribution of muon energy at an altitude $h < 15$ km.
-- **C.** Calculate the depth of soil penetration of muons by ionization and the Broglie wavelength for studying nuclear structures.
+- **A.** Calculate the minimum Lorentz factor $\gamma_{min}$ required for muons to reach the ground without decaying.
+- **B.** Estimate the spectral energy distribution of muons at an altitude of $h < 15$ km.
+- **C.** Calculate the depth of muon penetration into the ground by ionization and the de Broglie wavelength in order to study nuclear structures.
 
 **Topic:** [[Nuclear & Particle Physics]], [[Special Relativity]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[de Broglie Relation (metodo)|de Broglie Relation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.395](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q113" data-atom="q113" data-title="Iberoamericana 1991 — Quesito 113" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus,object/particle-beam"></span>
 
@@ -6173,21 +6061,19 @@ Usando una simulazione di dispersione delle particelle $\alpha$ per un nucleo d'
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+2022 – Experimental: Rutherford Scattering Simulation
 
-Using a simulation of the particle dispersion $\alpha$ by a gold core, check Rutherford's law $I \propto \sin^{-4}(\Theta/2)$ and estimate the nuclear radius.
+Using a simulation of particle scattering $\alpha$ by a gold nucleus, verify Rutherford's law $I \propto \sin^{-4}(\Theta/2)$ and estimate the nuclear radius.
 
 - **A.** Measure the number of scattered particles as a function of the angle $\Theta$.
-- **B.** Adjust the distribution to the Rutherford formula and check the dependence on $\sin^{-4}(\Theta/2)$.
-- **C.** Determine the maximum angle of dispersion and use it to obtain a limit above the radius of the nuclear.
+- **B.** Adjust the distribution to the Rutherford formula and verify the dependence on $\sin^{-4}(\Theta/2)$.
+- **C.** Determine the maximum scattering angle and use it to obtain an upper bound on the nuclear radius.
 
 **Topic:** [[Nuclear & Particle Physics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Nucleus (object)|Nucleus]], [[Particle Beam (object)|Particle Beam]]
 **Fonte:** [Testo (PDF) — p.397](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q114" data-atom="q114" data-title="Iberoamericana 1991 — Quesito 114" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/spring"></span>
 
@@ -6228,21 +6114,19 @@ Due palle di massa uguale $m$ si avvicinano l'una all'altra con velocità oppost
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical: Ball-resort-ball collision
+2022 – Theoretical: Ball-Spring-Ball Collision
 
-Two balls of equal mass $m$ approach each other at opposite speeds $\pm v_0$. Among them is a constant spring $k$.
+Two balls of equal mass $m$ approach each other with opposite velocities $\pm v_0$. Between them there is a spring with constant $k$.
 
-- **A.** Find the velocities of the balls depending on the time during the interaction with the spring.
-- **B.** Calculate the mass centre speed and the width of the spring oscillation.
-- **C.** Determine the graphic condition for a second collision (parameter $\gamma \approx 0.31$).
+- **A.** Find the velocities of the balls as functions of time during the interaction with the spring.
+- **B.** Calculate the velocity of the center of mass and the amplitude of the spring's oscillation.
+- **C.** Determine the graphical condition for a second collision to occur (parameter $\gamma \approx 0.31$).
 
 **Topic:** [[Oscillations & Waves]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.405](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q115" data-atom="q115" data-title="Iberoamericana 1991 — Quesito 115" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
@@ -6283,21 +6167,19 @@ Un pezzo di aria scende adiabatticamente nella cella di Hadley dall'altitudine $
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the most common causes of death in the United States:
+2023 – Theory T1: Hadley Cell and Climate Change
 
-A parcel of air descends adiabatically in the Hadley cell from altitude $z_0$ to the surface. The dry adiabatic temperature gradient is $L_p$ and the saturated temperature is $L_a$.
+A parcel of air descends adiabatically in the Hadley cell from an altitude of $z_0$ to the surface. The dry adiabatic temperature gradient is $L_p$, and the saturated one is $L_a$.
 
-- **A.** Calculate the rise in temperature $\Delta T = (L_p - L_a)(z_0 - z)$ of the plot as it descends.
-- **B.** Using Stefan-Boltzmann's law, estimate the radiative cooling time of the surface.
-- **C.** Analyze how an increase in $\Delta T$ due to climate change affects the intensity of extreme rainfall events.
+- **A.** Calculate the temperature increase $\Delta T = (L_p - L_a)(z_0 - z)$ of the plot when descending.
+- **B.** Using the Stefan-Boltzmann law, estimate the radiative cooling time of the surface.
+- **C.** Analyze how an increase in $\Delta T$ due to climate change affects the intensity of extreme precipitation events.
 
 **Topic:** [[Thermodynamics]], [[Astrophysics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.412](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q116" data-atom="q116" data-title="Iberoamericana 1991 — Quesito 116" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
@@ -6390,21 +6272,19 @@ Una valvola termonica ha un catoda riscaldata che emette elettroni per effetto t
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of air conditioning systems that are used:
+2023 – Theory T3: Thermionic valve (vacuum tube)
 
-A thermo-on valve has a heated cathode that emits electrons by thermo-on effect (Richardson-Dushman's law) and the electrons are accelerated toward the anode.
+A thermionic valve has a heated cathode that emits electrons by the thermionic effect (Richardson-Dushman law), and the electrons are accelerated toward the anode.
 
-- **A.** Write the Richardson-Dushman law $J = AT^2 e^{-\phi/k_BT}$ and calculate the temperature necessary for the current to be limited by emission (not spatial load).
-- **B.** In the space load regime, the current follows Child-Langmuir's law $J \propto V^{3/2}/d^2$. Derive this law using dimensional and mechanical arguments.
-- **C.** Design an AC rectifier for a specific application: choose the cathode material, operating temperature, cathode area, polarization voltage and calculate the dissipated power.
+- **A.** Write the Richardson-Dushman law $J = AT^2 e^{-\phi/k_BT}$ and calculate the temperature required for the current to be limited by emission (not by space charge).
+- **B.** In the space-charge regime, the current follows the Child-Langmuir law $J \propto V^{3/2}/d^2$. Derive this law using dimensional and mechanical arguments.
+- **C.** Design an AC rectifier for a specific application: select the cathode material, the operating temperature, the cathode area, and the bias voltage, and calculate the power dissipated.
 
 **Topic:** [[Modern-Quantum Physics]], [[Circuits]], [[Electrostatics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.426](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q118" data-atom="q118" data-title="Iberoamericana 1991 — Quesito 118" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum"></span>
 
@@ -6494,21 +6374,19 @@ In un superconduttore di tipo II, sopra il campo $H_{c1}$ penetrano vortici quan
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+2013 – Theory T2: Type-II Superconductor and Abrikosov Vortices
 
-In a type II superconductor, over the $H_{c1}$ field quantized flow vortices $\Phi_0 = h/2e$ penetrate.
+In a type-II superconductor, above the field $H_{c1}$, quantized flux vortices $\Phi_0 = h/2e$ penetrate.
 
-- **A.** Calculate the magnetic flux of a vortex and the field within the vortex based on the radius of penetration of London $\lambda_L$.
-- **B.** As the external field increases from $H_{c1}$ to $H_{c2}$, the vortices form a triangular network. Calculate the surface density of vortices based on the $B$ field.
-- **C.** Estimate the upper critical field $H_{c2}$ for the Nb3Sn using the Ginzburg-Landau coherence length $\xi \approx 3$ nm.
+- **A.** Calculate the magnetic flux of a vortex and the field inside the vortex as a function of the London penetration depth $\lambda_L$.
+- **B.** As the external field increases from $H_{c1}$ to $H_{c2}$, the vortices form a triangular lattice. Calculate the surface density of vortices as a function of the field $B$.
+- **C.** Estimate the upper critical field $H_{c2}$ for Nb₃Sn using the Ginzburg-Landau coherence length $\xi \approx 3$ nm.
 
 **Topic:** [[Modern-Quantum Physics]], [[Electromagnetism]], [[Magnetism]]
 **Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.152](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
-
 
 <span class="atom-split" id="q120" data-atom="q120" data-title="Iberoamericana 1991 — Quesito 120" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
 
@@ -6549,16 +6427,17 @@ Una molecola diatomica a massa ridotta $\mu$ ha un potenziale di Morse $V(r) = D
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the study:
+2013 – Theoretical T3: Diatomic molecule – Morse potential and centrifugal distortion
 
-A diatomic molecule with a reduced mass $\mu$ has a Morse potential $V(r) = D_e[1 - e^{-a(r-r_e)}]^2$.
+A diatomic molecule with reduced mass $\mu$ has a Morse potential $V(r) = D_e[1 - e^{-a(r-r_e)}]^2$.
 
 - **A.** Compare the Morse potential with the harmonic potential for small oscillations and find the vibration frequency $\omega_{vib}$.
 - **B.** Include the rotational energy $E_{rot} = \hbar^2 J(J+1)/(2\mu r_e^2)$ and calculate the centrifugal distortion correction at the energy level.
-- **C.** Estimate the temperature above which the rotational states are thermally populated.
+- **C.** Estimate the temperature above which rotational states are thermally populated.
 
 **Topic:** [[Modern-Quantum Physics]], [[Oscillations & Waves]]
 **Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Atom (object)|Atom]]
 **Fonte:** [Testo (PDF) — p.224](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
+

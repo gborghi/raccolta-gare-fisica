@@ -453,11 +453,11 @@ Unità di misura: °. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Luce polarizzata**
+Polarized light
 
-Antonio has a diode laser (which produces polarized light) and two ideal polarizers, which he uses to obtain polarized light in a direction that forms an angle $\theta\neq 0$ relative to the polarization of the laser. Since he cannot change the orientation of the laser, he has the polarizers in place so as to maximize the intensity of the beam of light with the desired polarization. During the night, Beatrice sneaks into the lab and replaces the laser with a filament lamp with equal light intensity, which produces unpolarized light. After realizing the fact, Antonio changes the way the polarizers are arranged, again with the aim of maximizing the intensity of the polarized beam of light. Surprisingly, this intensity is the same as the one he had obtained the day before using the laser. Quanto vale $\theta$?
+Antonio has available a diode laser (which produces polarized light) and two ideal polarizers, which he uses to obtain polarized light in a direction that forms an angle $\theta\neq 0$ with respect to the laser's polarization. Since he cannot change the laser's orientation, he arranges the polarizers so as to maximize the intensity of the light beam with the desired polarization. During the night, Beatrice sneaks into the laboratory and replaces the laser with a filament lamp of equal luminous intensity, but this lamp produces unpolarized light. After realizing what has happened, Antonio changes the arrangement of the polarizers, again with the aim of maximizing the intensity of the polarized light beam. Surprisingly, this intensity turns out to be equal to the intensity he had obtained the previous day using the laser. What is the value of $\theta$?
 
-The unit of measurement: °. Precision required: 0.5%.
+Unit of measurement: °. Required precision: 0.5%.
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -465,8 +465,6 @@ The unit of measurement: °. Precision required: 0.5%.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="GaS 2024 Nazionale Finale — Problema 13" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/mono,topic/gravitation,argomento/meccanica"></span>
 

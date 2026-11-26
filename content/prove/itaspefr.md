@@ -99,76 +99,76 @@ In questa parte devi eseguire esperimenti di piccole oscillazioni usando lo MBB 
 
 <div class="qlang-split" data-lang="en"></div>
 
-♪ The Mechanical Black Box ♪
+### The Mechanical Black Box
 
-**Purpose of the test:** Find the mass of a ball and the elastic constant of two springs in the Mechanical Black Box.
+**Purpose of the test:** To determine the mass of a small ball and the spring constant of two springs located inside the mechanical black box.
 
 ---
 
-General information about the Black Box
+#### General Information on the Black Box
 
-The Mechanical Black Box (MBB) consists of a cylindrical tube of black color containing a rigid ball attached to two springs, as shown in Fig. 1. The two springs are identical in everything except the number of spires. The mass of the springs can be neglected, and the same is true of their length if they are completely compressed. The tube is homogeneous and closed at the ends with two identical lids. Each cap is inserted into the tube for a stretch of $5\ \text{mm}$. The radius of the ball is $r = 11\ \text{mm}$ and the inner diameter of the tube is $23\ \text{mm}$. The acceleration by gravity is $g = 9{,}8\ \text{m/s}^2$. There's a friction between the ball and the inner surface of the tube.
+The mechanical black box (MBB) consists of a black cylindrical tube containing a rigid ball attached to two springs, as shown in Fig. 1. The two springs are identical in every respect except for the number of coils. The mass of the springs can be neglected, and the same applies to their length when they are fully compressed. The tube is homogeneous and closed at both ends by two identical caps. Each cap is inserted into the tube for a distance of $5\ \text{mm}$. The radius of the ball is $r = 11\ \text{mm}$, and the internal diameter of the tube is $23\ \text{mm}$. The acceleration due to gravity is $g = 9{,}8\ \text{m/s}^2$. There is friction between the ball and the inner surface of the tube.
 
-The purpose of this experiment is to determine, without opening the MBB, the mass $m$ of the ball and the elastic constants $k_1$ and $k_2$ of the two springs. The difficult aspect of this problem is that each of the experiments that will be suggested is not able to determine separately the mass $m$ or the position $l$ of the ball, where $l$ is the distance between the geometric centers of the cylinder and the ball when the MBB is placed still in a horizontal plane and the ball is stationary in a position that does not depend on friction.
+The purpose of this experiment is to determine, without opening the MBB, the mass $m$ of the ball and the elastic constants $k_1$ and $k_2$ of the two springs. The difficult aspect of this problem is that none of the experiments that will be suggested is able to determine separately the mass $m$ or the position $l$ of the ball, where $l$ is the distance between the geometric centers of the cylinder and the ball when the MBB is at rest on a horizontal plane and the ball is stationary in a position that does not depend on friction.
 
-**Simboli fisici assegnati:**
+**Assigned physical symbols:**
 
-♪ The size of the symbol ♪
+| Quantity | Symbol |
 |-----------|---------|
-| Massa della pallina | $m$ |
-| Raggio della pallina | $r = 11\ \text{mm}$ |
-| Massa dello MBB, esclusa la pallina | $M$ |
-| Lunghezza del cilindro nero | $L$ |
-| Lunghezza della parte infilata nel cilindro di ciascun tappo | $\delta$ |
-| Accelerazione di gravità | $g = 9{,}8\ \text{m/s}^2$ |
-| Massa attaccata alla cordicella | $m_0$ |
-| Velocità della massa | $v$ |
-| Spostamento verticale in basso della massa | $h$ |
-| Raggio del blocco rotante (zona di avvolgimento della cordicella) | $R$ |
-| Momenti di inerzia | $I,\ I_0,\ I_1,\ I_2,\ \ldots$ |
-| Velocità angolare e frequenze angolari | $\omega,\ \omega_1,\ \omega_2,\ \ldots$ |
+| Mass of the small ball | $m$ |
+| Radius of the small ball | $r = 11\ \text{mm}$ |
+| Mass of the MBB, excluding the small ball | $M$ |
+| Length of the black cylinder | $L$ |
+| Length of the part of each stopper that is inserted into the cylinder | $\delta$ |
+| Acceleration due to gravity | $g = 9{,}8\ \text{m/s}^2$ |
+| Mass attached to the string | $m_0$ |
+| Velocity of the mass | $v$ |
+| Vertical downward displacement of the mass | $h$ |
+| Radius of the rotating block (string-winding region) | $R$ |
+| Moments of inertia | $I,\ I_0,\ I_1,\ I_2,\ \ldots$ |
+| Angular velocity and angular frequencies | $\omega,\ \omega_1,\ \omega_2,\ \ldots$ |
 
 ---
 
-The weight of the ball is measured by the ball position ($m \cdot l$) &nbsp;&nbsp; *(4,0 points) *
+#### PART A — Measurement of the product of mass and position of the ball ($m \cdot l$) &nbsp;&nbsp; *(4.0 points)*
 
-When the MBB is in equilibrium on a horizontal plane (Fig. 1), $l$ is the position of the centre of the ball relative to the geometric centre of the cylinder. Determine the value of the product $m \cdot l$ experimentally. The result will be used to determine the value of $m$ in Part B.
+When the MBB is in equilibrium on a horizontal plane (Fig. 1), $l$ is the position of the ball's center relative to the geometric center of the cylinder. Determine experimentally the value of the product $m \cdot l$. You will need this result to determine the value of $m$ in PART B.
 
-**A1.** *(2,0 points) * Indicates and justifies, using equations, an expression for $m \cdot l$.
+**A1.** *(2.0 points)* Indicate and justify, using equations, an expression for $m \cdot l$.
 
-**A2.** *(2,0 points)* Determine the value of $m \cdot l$ experimentally.
-
----
-
-The ball is measured in the ball mass $m$ and the ball mass *(10,0 points) *
-
-The Fig. 2 shows the MBB fixed horizontally on the rotating block and a mass $m_0$ hanging from a rope whose other end is wrapped around the rotating block. When the mass falls, the rope twists and the MBB turns. By combining the equations for this experiment with the one in Part A, you can find an expression for $m$. A friction force acts between the ball and the inner walls of the cylindrical tube; to simplify the analysis of the system, you can overlook the dissipation of energy due to dynamic friction.
-
-Measures the mass $v$ speed according to different values of the vertical downward shift $h$ of the mass. Measurements should be made on the entire range of variability from $h = 1{,}0 \times 10^{-2}\ \text{m}$ to $h = 4{,}0 \times 10^{-1}\ \text{m}$. Measure $v$ only once for each $h$ value taken for each $1{,}0 \times 10^{-2} \sim 2{,}0 \times 10^{-2}\ \text{m}$. Returns the data on the millimeter paper in a suitable form to find the value of $m$.
-
-When the MBB rotates slowly the ball does not slide from its static equilibrium position due to friction between it and the inner surface of the cylinder. When the MBB rotates at a high enough speed, the ball hits the cap at the end of the tube and is definitely in that position because the springs have a small elastic constant.
-
-**B1.** *(4,0 points)* Identify on the graph the area corresponding to the slow rotation and the area corresponding to the fast rotation.
-
-**B2.** *(1,0 point) * Demonstrate that in the slow-rotating zone your measurements are consistent with $h \propto v^2$, i.e. $h = C v^2$. It also shows that in the fast-rotating zone your measurements are consistent with the $h = A v^2 + B$ ratio.
-
-**B3.** *(1,0 point) * The moment of inertia of a ball of radius $r$ and mass $m$ calculated with respect to a passing axis for its centre is $\tfrac{2}{5} m r^2$; if the axis is parallel to the previous one and distant from it $a$, the term $m a^2$ shall be added. Use the $I$ symbol for the total moment of inertia of the rotating system excluding the ball. It is expressed as the coefficient $C$ according to the parameters of the MBB ($m$, $l$, etc.).
-
-**B4.** *(1,0 points) * It is expressed for the coefficients $A$ and $B$ according to the parameters of the MBB ($m$, $l$, etc.).
-
-**B5.** *(3,0 points) * Gives the mass value $m$ from your measurements and results obtained in Part A.
+**A2.** *(2.0 points)* Determine the value of $m \cdot l$ experimentally.
 
 ---
 
-The measurement of the elastic constants $k_1$ and $k_2$ &nbsp;&nbsp; *(6,0 points) *
+#### PART B — Measurement of the mass $m$ of the small ball &nbsp;&nbsp; *(10.0 points)*
 
-In this part you have to run small oscillation experiments using the MBB as a rigid pendulum. There are two small holes at each end of the MBB: two thin spikes, inserted into the holes, can be used as a pin for small oscillations. The U-shaped support shall be fixed to a stable surface. The force and moment of inertia are calculated with respect to the spine. In a similar way to what was done in Part B, consider the two experimental situations shown in Fig. 3 to eliminate the unknown moment of inertia $I_0$ of the MBB excluding the ball.
+Fig. 2 shows the MBB fixed horizontally to the rotating block and a mass $m_0$ suspended from a string whose other end is wound around the rotating block. When the mass falls, the string unwinds and the MBB rotates. By combining the equations relating to this experiment with the one obtained in PART A, you can find an expression for $m$. A frictional force acts between the ball and the inner walls of the cylindrical tube; to simplify the analysis of the system, you can neglect the dissipation of energy due to dynamic friction.
 
-**C1.** *(1,0 point)* Measures the $T_1$ and $T_2$ periods of small oscillations of the two configurations shown in Fig. 3(1) and Fig. 3(2) and returns the values for each size.
+Measure the velocity $v$ of the mass as a function of different values of the mass's downward vertical displacement $h$. It is advisable to take measurements over the entire range of variation, from $h = 1{,}0 \times 10^{-2}\ \text{m}$ to $h = 4{,}0 \times 10^{-1}\ \text{m}$. Measure $v$ only once for each value of $h$ taken every $1{,}0 \times 10^{-2} \sim 2{,}0 \times 10^{-2}\ \text{m}$. Record the data on the graph paper in a form suitable for determining the value of $m$.
 
-**C2.** *(2,0 points)* Explain (using equations) why the angular frequencies $\omega_1$ and $\omega_2$ of the small oscillations of the two configurations are different. Like in Part B, take an expression for the overall elastic constant of the two-spring system, $k$, and write its value.
+When the MBB rotates slowly, the ball does not slide out of its static equilibrium position due to the friction between the ball and the inner surface of the cylinder. When, however, the MBB rotates at a sufficiently high speed, the ball strikes the cap at the end of the tube and definitely remains in that position because the springs have a small spring constant.
 
-**C3.** *(1,0 points) * It is an expression for $k_1$ and $k_2$. Write down their values.
+**B1.** *(4.0 points)* On the graph, identify the region corresponding to slow rotation and the region corresponding to fast rotation.
+
+**B2.** *(1.0 point)* Prove that in the slow-rotation zone your measurements are consistent with $h \propto v^2$, that is, $h = C v^2$. Also prove that in the fast-rotation zone your measurements are consistent with the relation $h = A v^2 + B$.
+
+**B3.** *(1.0 point)* The moment of inertia of a small ball of radius $r$ and mass $m$, calculated about an axis passing through its centre, is $\tfrac{2}{5} m r^2$; if the axis is parallel to the preceding one and at a distance $a$ from it, the term $m a^2$ must be added. Use the symbol $I$ for the total moment of inertia of the system in rotation excluding the ball. Derive an expression for the coefficient $C$ as a function of the parameters of the MBB ($m$, $l$, etc.).
+
+**B4.** *(1.0 point)* Derive an expression for the coefficients $A$ and $B$ as functions of the parameters of the MBB ($m$, $l$, etc.).
+
+**B5.** *(3.0 points)* Derive the value of the mass $m$ from your measurements and from the results obtained in PART A.
+
+---
+
+#### PART C — Measurement of the Elastic Constants $k_1$ and $k_2$ &nbsp;&nbsp; *(6.0 points)*
+
+In this part, you must carry out small-oscillation experiments using the MBB as a rigid pendulum. There are two small holes at each end of the MBB: two thin pins inserted into the holes can be used as the pivot for the small oscillations. The U-shaped support must be fixed to a stable surface. The force and the moment of inertia are calculated with respect to the pivot. In a manner analogous to what was done in PART B, consider the two experimental setups shown in Fig. 3 in order to eliminate the unknown moment of inertia $I_0$ referred to the MBB excluding the ball.
+
+**C1.** *(1.0 point)* Measure the periods $T_1$ and $T_2$ of the small oscillations of the two configurations shown in Fig. 3(1) and Fig. 3(2), and report the values for each quantity.
+
+**C2.** *(2.0 points)* Explain (using equations) why the angular frequencies $\omega_1$ and $\omega_2$ of the small oscillations of the two configurations are different. Analogously to what was done in PART B, derive an expression for the overall spring constant of the two-spring system, $k$, and write its value.
+
+**C3.** *(1.0 point)* Derive an expression for $k_1$ and $k_2$. Write their values.
 
 ---
 
@@ -177,3 +177,4 @@ In this part you have to run small oscillation experiments using the MBB as a ri
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R8KiYNwh6PMNjUUWMhtiCbFfY49CWE9z/view)
+

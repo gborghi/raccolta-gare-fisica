@@ -140,23 +140,14 @@ Fig. 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. At one end of an ideal spring length of
-The resting $L$, one platform is attached, while the other end is
-the assembly is placed in the vertical position. ♪ So much for the spring ♪
-As the platform has despicable masses. A mass object $m$ is
-Left simply resting on the platform and the set is taken
-slowly to its equilibrium position $x_e$ (see Figure 2). The spring is then
-$x_0$ tablet and then release. The system starts oscillating at MHS
-with angular frequency $\omega$ as long as the mass remains attached to the
-The platform. Contudo, dependendo de $\omega$ e de $x_0$, o corpo pode perder
-I'll contact the platform and be shot up.
+2. At one end of an ideal spring of length
+At rest $L$, a platform is secured, while the other end is fixed to the ground and the assembly is placed in a vertical position. Both the spring and the platform have negligible masses. An object of mass $m$ is simply placed resting on the platform, and the assembly is slowly brought to its equilibrium position $x_e$ (see Figure 2). The spring is then compressed by $x_0$ and subsequently released. The system begins to oscillate in SHM with angular frequency $\omega$ provided the mass remains attached to the platform. However, depending on $\omega$ and $x_0$, the body may lose contact with the platform and be flung upward.
 
-(a) Determine the lowest value of $x_0$ (in function of $\omega$) that allows
-The object is to be removed from the platform and thrown up.
+a) Determine the smallest value of $x_0$ (as a function of $\omega$) that allows
+That the object detaches from the platform and is thrown upward.
 
-(b) Check that the object is thrown upwards if $\omega = 10\ \text{rad/s}$
-e $x_0 = 15\ \text{cm}$. If so, determine the height in relation to the point
-the balance the object attains.
+b) Check whether the object is launched upward if $\omega = 10\ \text{rad/s}$
+e $x_0 = 15\ \text{cm}$. If so, determine the height, relative to the equilibrium point, that the object reaches.
 
 Fig. 2
 
@@ -165,8 +156,6 @@ Fig. 2
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1A07q59VLu2msft9mG4etbJ61tyT3Qn-j/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2008 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/gas,object/cylinder,object/piston"></span>
 

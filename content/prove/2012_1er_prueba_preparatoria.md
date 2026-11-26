@@ -261,44 +261,42 @@ h) Quanto raggiunge la massa $M$ dopo aver lasciato la primavera?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass body $M$, initially resting at a height $H$, descends along the curved surface shown in Figure 2. All the movements are made in the vertical plane. Consider that the track is free from friction except in the marked area of length $d$. Suppose the mass $M$ is pointed.
+A body of mass $M$, initially at rest at a height $H$, descends along the curved surface shown in Figure 2. All motions occur in the vertical plane. Assume that the track is frictionless except in the marked region of length $d$. Assume that the mass $M$ is a point mass.
 
-*(Figure 2: curved track with a long $d$ grinding zone, points $A$ and $B$ over the trajectory, point $C$ at the beginning of the horizontal zone where the spring is located) *
+*(Figure 2: curved track with a friction zone of length $d$, points $A$ and $B$ on the trajectory, point $C$ at the start of the horizontal zone where the spring is located)*
 
-(a) Draw the isolated body diagram by passing through the $A$ and $B$ points.
+a) Draw the free-body diagram when passing through points $A$ and $B$.
 
-(b) At those points, is the total acceleration vector equal to or different from zero?
+b) At those points, is the total acceleration vector equal to zero or different from zero?
 
-(c) Draw a total acceleration vector as possible when passing through $A$.
+c) Draw a possible total acceleration vector when it passes through $A$.
 
-(d) Calculate the total acceleration vector at the $B$ point.
+d) Calculate the total acceleration vector at point $B$.
 
-(e) Assume that the mass $M$ reached the point $C$. What is the value of the work done by the force of friction on the mass $M$?
+e) Suppose that mass $M$ reached point $C$. What is the value of the work done by the frictional force on mass $M$?
 
-(f) Calculate the velocity vector at the point $C$.
+f) Calculate the velocity vector at point $C$.
 
-(g) How much does the mass $M$ compress to the spring?
+g) How much does the mass $M$ compress the spring?
 
-(h) How far does the mass $M$ go after leaving the spring?
+h) How far does mass $M$ travel after leaving the spring?
 
 **Data:**
 
-♪ Magnitude ♪ Value ♪
+| Magnitude | Value |
 |---|---|
 | $M$ | $1\ \text{kg}$ |
 | $H$ | $5\ \text{m}$ |
-| $\mu_c$ | $0{,}1$ (coeficiente de rozamiento dinámico) |
+| $\mu_c$ | $0{,}1$ (dynamic friction coefficient) |
 | $d$ | $30\ \text{m}$ |
-| $g$ | $9{,}8\ \text{m/s}^2$ (aceleración de la gravedad) |
-| $k$ | $784\ \text{N/m}$ (constante elástica del resorte) |
+| $g$ | $9{,}8\ \text{m/s}^2$ (acceleration due to gravity) |
+| $k$ | $784\ \text{N/m}$ (spring constant) |
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FeEQEzv2rdDu5cL4b_C2abwSnGHzTbFl/view)
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2012 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 

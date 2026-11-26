@@ -409,17 +409,7 @@ $R$, $m$, della massa della Terra $M$ e della costante $G$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q9
-A space shuttle of mass $m$ is located on a circular orbit of radius $R$ around the Earth.
-The crew of the shuttle shall take it into a circular orbit of $3R$ radius using the following:
-The procedure: first, turn on the engines for a short time so that at the end of the ignition you are
-on an elliptical orbit with an apogee of $3R$. After half-orbiting, the shuttle is located $3R$ from the
-The spacecraft is then given another impulse by the engines to take the spacecraft into orbit.
-circolare a $3R$.
-•
-How much energy should the engines supply to the space shuttle?
-The mass losses of the shuttle due to engine use are neglected and the result is expressed in terms of
-$R$, $m$, della massa della Terra $M$ e della costante $G$.
+Q9 A spacecraft of mass $m$ is in a circular orbit of radius $R$ around Earth. The spacecraft's crew must place it in a circular orbit of radius $3R$ using the following procedure: first, they fire the engines for a short time so that, at the end of the burn, the spacecraft is in an elliptical orbit with an apogee at $3R$. After completing half an orbit, the spacecraft is at a distance $3R$ from the center of Earth; at this point, another engine impulse is applied to place the spacecraft in a circular orbit at $3R$. • How much energy must the engines supply to the spacecraft in total? Neglect the loss of mass from the spacecraft due to engine use, and express the result in terms of $R$, $m$, the mass of Earth $M$, and the constant $G$.
 
 **Topic:** [[Gravitation]], [[Conservation of Energy]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kepler's Laws (metodo)|Kepler's Laws]]
@@ -427,8 +417,6 @@ $R$, $m$, della massa della Terra $M$ e della costante $G$.
 **Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FOgupzhLh6AHQ1AocoVdS-b9d4d8wx91/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18S5KIElwRSHBZbN-FFH1Rr6mXB6J1rRY/view)
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2022 2° Livello — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/meccanica"></span>
 

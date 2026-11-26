@@ -1514,34 +1514,17 @@ a) 6 hs b) 4 hs c) 3 hs d) 2 hs e) 5 hs
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 14
+Question 14
 
-The maximum amount of electrical charge to be
-accumulated in an automotive battery is indicated in
-I'm not going to take the battery. For example, a battery that has
-indicated 60 Ah accumulates
-60x3600 Coulombs of
-electrical charge. To consume this electrical charge
-It is necessary that there be
-a potential difference in their terminals,
-in a common car is
-de 12 V. If the lamps
-of a motor vehicle, they are all
-power
-de
-180
-W,
-How long would the battery last without charging?
+The maximum amount of electric charge that can be stored in a car battery is indicated on the battery itself. For example, a battery marked 60 Ah stores 60 × 3600 coulombs of electric charge. To consume this electric charge, a potential difference must exist across its terminals; in a typical car, this is 12 V. If the car's lamps together consume 180 W of power, how long would the battery last without recharging?
 
-a) 6 hs b) 4 hs c) 3 hs d) 2 hs e) 5 hs
+a) 6 hours b) 4 hours c) 3 hours d) 2 hours e) 5 hours
 
 **Topic:** [[Circuits]], [[Electrostatics]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2007 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery"></span>
 

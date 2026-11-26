@@ -54,32 +54,32 @@ Si supponga ora di collocare un rivelatore, cioè un dispositivo che conta le pa
 
 <div class="qlang-split" data-lang="en"></div>
 
-♪ Scattering elastically between spheres ♪
+## Elastic Scattering between Spheres
 
-Immaginiamo una sfera rigida, di raggio $R$, vincolata a restare fissa. It is surrounded by a beam of identical particles, also spherical and rigid, each with a radius $r$ and mass $m$. Le particelle hanno tutte la stessa velocità $\vec{v}$ cosicché non si urtano mai. Suppose the collisions between the bouncing particles and those of the accidental beam are negligible. The speed is large enough to allow for the consideration of straight trajectories, both before and after impact. The impact with the fixed sphere is perfectly elastic, and there are no tangential forces between the spheres in the impact.
+Let us imagine a rigid sphere of radius $R$, constrained to remain fixed. A beam consisting of a large number of identical particles strikes this sphere; the particles are also spherical and rigid, each having radius $r$ and mass $m$. All the particles have the same velocity $\vec{v}$, so they never collide with one another. Suppose also that collisions between the rebounding particles and those in the incident beam are negligible. The velocity is large enough that the trajectories can be regarded as straight lines both before and after the collision. The collisions with the fixed sphere are perfectly elastic, and no tangential forces act between the spheres during the collision.
 
-Consider the dimensions shown in the figure: $b$, called the 'impact parameter', and $\theta$, the angle formed between the direction of origin of the incident beam and the direction of the diffuse particle.
+Consider the quantities shown in the figure: $b$, called the "impact parameter", and $\theta$, the angle formed between the direction from which the incident beam comes and the direction of the scattered particle.
 
 **1.** Find the relationship between $b$ and the angle $\theta$, that is, find the function $b(\theta)$.
 
-The beam has a circular cross section whose radius is much greater than the radius $r$ of the particles and also greater than the radius $R$ of the fixed sphere. The intensity of the beam, i.e. the number of particles affecting the unit of surface perpendicular to the beam, in the unit of time, shall be indicated by $I$ and $I$ shall be assumed to be uniform and constant.
+The beam has a circular cross-section whose radius is much greater than the radius $r$ of the particles and also greater than the radius $R$ of the fixed sphere. Let $I$ denote the beam intensity, that is, the number of particles that strike a unit area oriented perpendicular to the beam per unit time, and assume that $I$ is uniform and constant.
 
-**2.** Si trovi il numero $dn_d(\theta)$ di particelle diffuse, nell'unità di tempo, con un angolo compreso tra $\theta$ e $\theta + d\theta$. For what value of $\theta$ does the $dn_d(\theta)/d\theta$ function have a maximum?
+**2.** Find the number $dn_d(\theta)$ of scattered particles per unit time whose angle lies between $\theta$ and $\theta + d\theta$. For which value of $\theta$ does the function $dn_d(\theta)/d\theta$ attain its maximum?
 
-Now suppose we place a detector, that is, a device that counts balls in transit through a certain surface, at a distance $D$ from the fixed sphere and at an angle $\theta$ from the incident beam. Assume that the sensitive area of the detector is a square that is arranged perpendicular to the direction from which the diffuse particles come. The side of the square, $\ell$, is much larger than the $R$ and $r$ radii and at the same time much smaller than $D$: $r, R \ll \ell \ll D$.
+Suppose now that a detector—that is, a device that counts the balls passing through a certain surface—is placed at a distance $D$ from the fixed sphere and at an angle $\theta$ relative to the incident beam. Suppose that the sensitive area of the detector is a square oriented perpendicular to the direction from which the scattered particles come. Let the side of the square, $\ell$, be much greater than the radii $R$ and $r$ and at the same time much smaller than $D$: $r, R \ll \ell \ll D$.
 
-**3.** The detector count rate, $n_r$, i.e. the number of counts in the unit time, is calculated.
+**3.** Calculate the detector count rate, $n_r$, that is, the number of counts per unit time.
 
-**4.** In che modo il tasso di conteggi dipende dall'area della regione sensibile del rivelatore? For which angle $\theta$ does the count rate have the maximum value? How does $n_r$ depend on $D$?
+**4.** How does the count rate depend on the area of the sensitive region of the detector? At what angle $\theta$ does the count rate reach its maximum value? How does $n_r$ depend on $D$?
 
-**5.** A time interval $\Delta t$ is considered long enough for a very large number of particles to be affected on the fixed sphere. What is the average value of the force that particles exert on the sphere?
+**5.** Consider a time interval $\Delta t$ that is long enough for a very large number of particles to impinge on the fixed sphere. What is the average value of the force exerted by the particles on the sphere?
 
 <!--fig:start-->
-**p.1**  Elastic diffusion: impact parameter and angle
+**p.1** — Elastic scattering: impact parameter and angle
 ![[_attachments/Naz12T/Naz12T_p1_f1.png]]
 <!--fig:end-->
 <!--fig:start-->
-**p.1** — Fascio, rivelatore a distanza D
+**p.1** — Beam, remote detector D
 ![[_attachments/Naz12T/Naz12T_p1_f2.png]]
 <!--fig:end-->
 
@@ -89,8 +89,6 @@ Now suppose we place a detector, that is, a device that counts balls in transit 
 **Objects:** [[Sphere (object)|Sphere]], [[Ball (object)|Ball]], [[Particle Beam (object)|Particle Beam]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/160rJs4pgzgyV14USZaW50GNCLuQOiWAl/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2012 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/electromagnetism,argomento/meccanica,object/cylinder"></span>
 

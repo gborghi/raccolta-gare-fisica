@@ -474,25 +474,13 @@ la velocità della sfera nel momento in cui perde contatto con la rampa.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 7 (exclusive for first-year students) - Intended to study movements
-The body and its relationships to mass, was built for a science fair one
-Experiment consisting of a base "b", a ramp "r" and a sphere "e", as illustrated
-in the figure below. The base was fixed to the ground so that its upper surface was flat and
-absolutely smooth would be perfectly level on the horizontal. The ramp, circular
-of $R = 6$ m radius and $5M$ mass, was supported at rest on the base but able to slide
-on it practically without friction. At the top of the ramp, a massive sphere,
-homogênea, de massa $M$ e absolutamente lisa, foi então abandonada, deslizando sem rolar
-through the ramp as shown. Disregarding air resistance and any other friction, and
-Taking into account the gravity acceleration module $g = 10\ \text{m/s}^2$, determine in m/s the module
-The speed of the sphere the moment it loses contact with the ramp.
+Question 7 (exclusive to 1st-year students) - With the aim of studying the motions of bodies and their relationships with mass, an experiment was set up for a science fair; it consists of a base "b", a ramp "r", and a sphere "e", as illustrated in the figure below. The base was fixed to the ground so that its flat, perfectly smooth upper surface was perfectly level in the horizontal plane. The ramp, which is circular with radius $R = 6$ m and mass $5M$, was placed at rest on the base but could slide over it with virtually no friction. At the highest point of the ramp, a solid, homogeneous sphere with mass $M$ and an absolutely smooth surface was then released; it slid down the ramp without rolling, as shown in the figure. Ignoring air resistance and any other friction, and taking the magnitude of the acceleration due to gravity as $g = 10\ \text{m/s}^2$, determine, in m/s, the magnitude of the sphere's velocity at the instant it loses contact with the ramp.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1tHpc5GtBBzyO1JnmNj--SLcUkHDefZJF/view)
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2016 · Fase 2 · Livello 2 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 

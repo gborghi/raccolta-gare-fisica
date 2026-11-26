@@ -146,51 +146,51 @@ e) Considerando quanto precede, si deve calcolare l'incertezza $\Delta h$ sul va
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental problem. The Planck constant**
+**Experimental problem. Planck's constant**
 
-The year 2025 has been declared by UNESCO as the International Year of Quantum Science and Technology to commemorate the centenary of quantum mechanics and to disseminate its advances and applications to society. However, the origins of quantum theory go back to the early 20th century, when Max Planck proposed that electromagnetic radiation be exchanged in the form of quantum energies, the value of which is proportional to the frequency of radiation. Fue Albert Einstein quien, en 1905, demostró la existencia de los cuantos de luz, llamados fotones, cuya energía está dada por la ecuación $E = hf$, donde $f$ es la frecuencia de la onda electromagnética y $h$ la constante de Planck, una constante física universal. The frequency-wavelength ratio of electromagnetic radiation is given by $c = \lambda f$, where $c$ is the speed of light.
+The year 2025 has been declared by UNESCO as the International Year of Quantum Science and Technology to commemorate the centenary of quantum mechanics and to disseminate its advances and applications to society. However, the origins of quantum theory date back to the early 20th century, when Max Planck proposed that electromagnetic radiation is exchanged in the form of quanta of energy, the value of which is proportional to the frequency of the radiation. It was Albert Einstein who, in 1905, demonstrated the existence of light quanta, called photons, whose energy is given by the equation $E = hf$, where $f$ is the frequency of the electromagnetic wave and $h$ is Planck's constant, a universal physical constant. The relationship between the frequency and the wavelength of electromagnetic radiation is given by $c = \lambda f$, where $c$ is the speed of light.
 
-In this experimental problem, the value of the Planck constant $h$ is proposed to be determined by an optoelectronic device called a LED (Light-Emitting Diode).
+In this experimental problem, it is proposed to determine the value of Planck's constant $h$ using an optoelectronic device called an LED (Light-Emitting Diode).
 
 **Theoretical model.**
 
-An LED is a device that is formed by connecting a P-type region and an N-type region of a semiconductor. By applying a potential difference $V_0$ sufficiently large between their terminals, electrons from the conduction band of region N are obtained to pass to the conduction band of region P, generating an electric current $I$, the value of which depends exponentially on the potential difference $V$ between P and N. Electrons passing through the N-zone can fall to locations in the P-zone, becoming desiccated and emitting photon energy $E = hf$ in the process.
+An LED is a device formed by joining a P-type region and an N-type region of a semiconductor. When a sufficiently large potential difference $V_0$ is applied across its terminals, electrons from the conduction band of the N region are transferred to the conduction band of the P region, producing an electric current $I$ whose value depends exponentially on the potential difference $V$ between P and N. The electrons that pass from the N region can fall to locations in the P region, de-exciting and emitting photons of energy $E = hf$ in the process.
 
-The energy difference $E$ between the conduction bands and valence bands has a value of its own and characteristic of each semiconductor, resulting in LEDs emitting light in different colors. It can be shown that a relationship between $V_0$ and $E$ exists given by
+The energy difference $E$ between the conduction and valence bands has a value that is intrinsic and characteristic of each semiconductor, which gives rise to LEDs that emit light in different colors. It can be shown that between $V_0$ and $E$ there exists a relationship given by
 
 $$E = eV_0 + C$$
 
-where $C$ depends on the temperature and doping of regions N and P, although it can be considered practically constant. Thus, by determining $V_0$ for different coloured LEDs, the ratio between $E$ and the frequency $f$ can be established, allowing the Planck constant to be calculated.
+where $C$ depends on the temperature and the doping of the N and P regions, although it can be regarded as practically constant. Thus, by determining $V_0$ for LEDs of different colors, one can establish the relationship between $E$ and the frequency $f$, which makes it possible to calculate Planck's constant.
 
-**Experimental setup.**
+**Experimental assembly.**
 
-The LED is connected to two multimeters: one to measure the current and another to measure the potential difference through it. The battery provides a constant potential difference, but by means of a potentiometer (a variable resistance) connected in parallel with the LED, it is possible to adjust $V$. By measuring $I$ for different values of $V$, the device characteristic curve $I(V)$ can be plotted, which will allow the determination of $V_0$.
+The LED is connected to two multimeters: one to measure the current and the other to measure the potential difference across it. The battery provides a constant potential difference, but by means of a potentiometer (a variable resistor) connected in parallel with the LED, it is possible to adjust $V$. By measuring $I$ for different values of $V$, the characteristic curve $I(V)$ of the device can be plotted, which will make it possible to determine $V_0$.
 
-**Questions.**
+Questions.
 
-The following table summarizes the values of $V_0$ obtained for LEDs using different semiconductor materials:
+The following table presents the values of $V_0$ obtained for LEDs that use different semiconductor materials:
 
 | LED | $\lambda$ (nm) | $V_0$ (V) |
 |---|---|---|
-♪ And the whole world is going to be so happy ♪
-♪ Red is the extreme red ♪
-♪ Red ♪ 632 ♪ 1.55 ♪
-♪ Yellow ♪ 593 ♪ 1.70 ♪
-♪ Green 535 ♪ 1.91 ♪
-♪ Blue ♪ 464 ♪ 2.30
-♪ And the whole world is going to be so happy ♪
+| Infrared | 938 | 0.84 |
+| Extreme red | 730 | 1.28 |
+| Red | 632 | 1.55 |
+| Yellow | 593 | 1.70 |
+| Green | 535 | 1.91 |
+| Blue | 464 | 2.30 |
+| Violet | 405 | 2.58 |
 
-(a) Graphically represent the $(x, y) = (f, V_0)$ points on millimeter paper.
+a) Graphically represent the points $(x, y) = (f, V_0)$ on the graph paper.
 
-(b) Determine the value of the slope $p$ of the straight line that best fits these points.
+b) Determine the value of the slope $p$ of the line that best fits these points.
 
-(c) From the slope $p$, the value of the Planck constant, $h$ is deducted.
+c) Starting from the slope $p$, deduce the value of Planck's constant, $h$.
 
-(d) Make a reasoned estimate of the slope uncertainty $\Delta p$ obtained in paragraph (b).
+d) Provide a reasoned estimate of the uncertainty $\Delta p$ of the slope obtained in section b).
 
-(e) In view of the above, make an estimate of the uncertainty $\Delta h$ in the value of the Planck constant you have obtained in c).
+e) Taking the above into account, estimate the uncertainty $\Delta h$ in the value of Planck's constant that you obtained in c).
 
-**Datos:** Carga del electrón, $e = 1{,}602 \times 10^{-19}$ C; velocidad de la luz en vacío, $c = 3 \times 10^{8}$ m/s.
+**Data:** Electron charge, $e = 1{,}602 \times 10^{-19}$ C; speed of light in a vacuum, $c = 3 \times 10^{8}$ m/s.
 
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA EXPERIMENTAL/2025 36 OAF 2025 PRUEBA EXPERIMENTAL_p1_f1.png]]
@@ -206,3 +206,4 @@ The following table summarizes the values of $V_0$ obtained for LEDs using diffe
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1W342HHradFll13G2YSd5asEOdL5d9oxX/view)
+

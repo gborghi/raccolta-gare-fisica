@@ -864,178 +864,74 @@ precedente
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: The physics of the rainbow
+Problem 3: The Physics of the Rainbow
 
-The most interesting example of chromatic light scattering is the rainbow. The first
-The simplest model is attributed to Descartes who explains the phenomenon using geometric optics.
-In this model, only the refraction and reflection of light rays are considered.
-from the sun, in spherical droplets of water (rain or mist) in the direction opposite to the sun (see
-(Figure 1). During rainy days, in favourable conditions, it is possible to observe, sometimes, two arches
-The iris is concentric. The most intense, which we will call main, is produced by light rays that are
-The resulting effect is to reduce the amount of water in the water.
-droplets and finally refracted as they emerged from the droplets. Like in a prism, the first refraction
-It separates the sunlight into its component colors and the second one increases that separation.
+The most interesting example of chromatic dispersion of light is the rainbow. The first simple model is attributed to Descartes, who explains the phenomenon using geometric optics. In this model, only the refraction and reflection of rays of light coming from the sun are considered, within spherical water droplets (rain or fog), in the direction opposite to the sun (see figure). On rainy days, under favorable conditions, two concentric rainbows can sometimes be observed. The more intense one, which we will call the primary rainbow, is produced by rays of light that are refracted as they enter the droplets, then reflected once at the inner surface of the droplets, and finally refracted as they exit the droplets. As in a prism, the first refraction separates the sunlight into its component colors, and the second increases that separation.
 
-(a) Draw the path of the beam of light shown in Figure 1 taking into account a single
-reflection on the inner surface of the gout.
+a) Draw the path followed by the light ray shown in the figure, considering a single
+Reflection on the inner surface of the droplet.
 
-(b) In the above drawing, indicate the angles of incidence, refraction and reflection which
-They're interested in describing the path of lightning.
+b) In the preceding drawing, indicate the angles of incidence, refraction, and reflection that
+They are of interest for describing the path of the lightning bolt.
 
-(c) Of an expression for the angle of deviation $\delta$ of such a beam, according to the angle of
-incidence and angle of refraction.
+c) Of an expression for the deviation angle $\delta$ of said ray, as a function of the angle of
+incidence and the angle of refraction.
 
-(e) Show that the ratio of the angle of deviation $\delta$ to (d/R) (where R is the radius of the
-drop and d is the distance of the incident beam to the centre of the drop) is given by:
+e) Show that the relationship between the deflection angle $\delta$ and (d/R) (where R is the radius of the
+gota y d is the distance from the incident ray to the center of the droplet) is given by:
 
- $\delta = 2\,(\,2\,\text{arcsen}\,(d/nR) - \text{arcsen}\,(d/R))$
+$\delta = 2\,(\,2\,\text{arcsen}\,(d/nR) - \text{arcsen}\,(d/R))$
 
 (1)
 
-where n is the refractive index in water and we used $\text{arcsen}(C) = \theta$ to indicate a
-angle $\theta$ whose sine is C
+where n is the refractive index in water, and we have used $\text{arcsen}(C) = \theta$ to denote an angle $\theta$ whose sine is C
 
-(e) The visibility of a rainbow depends on the amount of light rays being diverted
-approximately the same angle $\delta$, i.e. within a small angular range
-(the more rays within this range the greater the intensity observed and so the
-The more you can see the rainbow, the more you can see it. From the graph of $\delta$ in relation to d/R it is observed that
-rays that incident with a d value such that d/R is between 0.8 and 0.9 deviate approximately
-with the same angle $\delta$, i.e. within a small angular range. These lightning beams, which emerge
-With angles of deflection near the maximum value of $\delta$, they can produce an intensity
-enough to be seen by our eyes. The angle of maximum deviation, as shown in Figure 1.
-It's a color.
+e) Whether a rainbow is visible depends on the number of rays of light that are deflected.
+Approximately at the same angle $\delta$, that is, within a small angular interval (the greater the number of rays within that interval, the greater the observed intensity will be, and therefore the more feasible it will be to observe the rainbow). From the graph of $\delta$ as a function of d/R, it can be seen that rays incident with a value of d such that d/R lies between 0.8 and 0.9 are deflected at approximately the same angle $\delta$, that is, within a small angular interval. These rays, which emerge at deviation angles close to the maximum value of $\delta$, can produce sufficient intensity to be visible to our eyes. The angle of maximum deviation, as can be seen from (1), depends on color.
 
-Obtain an approximate value of the maximum $\delta$ for the red ($n_R = 1.3307$)
+Obtain an approximate value of the maximum of $\delta$ for the red color ($n_R = 1.3307$).
 
-(f) As set out in (e), all droplets sending the same coloured rays to the observer are
-They're on a conical surface, with an angular aperture equal to what you're looking at. He just
-to determine.
+f) In view of what has been stated in e), all the drops that send rays of the same color to the observer lie on a conical surface whose angular aperture is equal to the one you have just determined.
 
-Now imagine that the observer stands on the top of a hill, at the hour of
-The sunset and observes a primary rainbow caused by rain droplets that are located at 2
-Miles away. The valley is located 500 m below the summit and is completely flat.
+Now imagine that the observer is standing on the top of a hill at sunset and is observing a primary rainbow caused by raindrops located 2 km away. The valley is situated 500 m below the summit and is completely flat.
 
-Calculate the fraction of the circumference of the rainbow visible to the observer
+Calculate the fraction of the circumference of the rainbow visible to the observer.
 
-The test is carried out in a test.
+EXPERIMENTAL TEST
 
-Study of cooling a body
+Study of the Cooling of a Body
 
-1. - Objective:
+1.- Objective:
 
-Experimentally find the law of cooling of a given body.
+Experimentally determine the cooling law for a given body.
 
-- Introduction to the proposal
+2.- Introduction
 
-To determine the law, subject to this test, it is necessary to measure how the temperature of the
-body depending on the time.
-In general, temperature measurements are made indirectly, using the variation of
-some of the physical properties of materials, with temperature. In the most common case it is used
-the volumetric dilation of mercury as a thermometric index. When a thermocouple is used
-As a thermometer, the temperature index is given by the difference in the electric potential that is
-Measures between the terminals of the same. A thermocouple consists of a pair of wires of different lengths.
-Metal alloys, welded together at one end (point A) and connected to connectors of a kind used for the manufacture of metal alloys
-copper at ends B and C, as shown in Figure 1. When the soldier A is
-at a temperature other than reference ends B and C, between the terminals of the
-thermocouple (D and E points) a potential difference can be measured that is proportional to the
-temperature difference between weld A and reference ends B and C. Stop
-use the thermocouple as a thermometer, it is necessary to calibrate it in advance, which
-It will allow for the correlation of potential differences (in mV) with temperatures (in $^\circ\text{C}$). The calibration is
-The potential difference between the two is measured at different known temperatures.
+To determine the law that is the subject of this test, it is necessary to measure how the body's temperature varies with time. In general, temperature measurements are made indirectly, using the variation with temperature of one of the physical properties of materials. In the most common case, the volumetric expansion of mercury is used as the thermometric index. When a thermocouple is used as a thermometer, the temperature index is given by the difference in electrical potential measured between its terminals. A thermocouple consists of a pair of wires made of different metal alloys, welded together at one end (point A) and connected to copper connectors at ends B and C, as illustrated in Figure 1. When the welded end A is at a different temperature from the reference ends B and C, a potential difference can be measured between the thermocouple terminals (points D and E); this potential difference is proportional to the temperature difference between the weld A and the reference ends B and C. To use the thermocouple as a thermometer, it is necessary to calibrate it beforehand; this calibration will make it possible to relate potential differences (in mV) to temperatures (in $^\circ\text{C}$). Calibration is carried out by measuring the potential differences corresponding to different known temperatures.
 
-Figure 1
-3.- List of materials
+Figure 1 3.- Bill of Materials
 
-•
-A heater
-•
-A thermocouple
-•
-A multi-meter
-A
-B
-C
-1.999
-Melting ice
-Copper conductors
-Multi-meter
-(As in millivolt)
-Other, of a kind used for the manufacture of goods
-of a kind
-D
-E
-•
-A timepiece
-•
-Three samples of patterns of alcohol, ice and water used for calibration.
-•
-Two glass containers (vickers).
-•
-A cylinder of aluminium
-•
-A hair clip
-•
-A container of telgopor
-•
-Other paper
-•
-Rule of thumb
-•
-Other, of a kind used for the manufacture of goods
+• A heater • A thermocouple • A multimeter A B C 1.999 Melting ice Copper conductors Multimeter (as a millivoltmeter) Various types of metal alloys D E • A stopwatch • Three standard samples of alcohol, ice, and water used for calibration. • Two glass vessels (Vickers). • An aluminum cylinder • A tweezer • A polystyrene container • Graph paper • Ruler • Insulating material
 
-4.- Experimental procedure
+4.- Experimental Procedure
 
-4.1.- Calibration of the thermocouple
+4.1.- Calibration of the Thermocouple
 
-The calibration of the thermocouple shall be carried out as follows:
+To calibrate the thermocouple, proceed as follows:
 
-i. Connect the thermocouple terminals D and E to the multimeter
-ii. In the multimeter, choose the 200 mV (DC) scale
-(iii) the following: In the telgopor container place molten ice (melting ice) to be used as
-temperatura de referencia ($0\ ^\circ\text{C}$)
-iv. Inside the heater, put a vicker containing water.
-v. Place the welded tip A of the thermocouple in the water and the reference terminals B and C in the
-melting ice (telgopor container)
-vi. Connect the heater to 220 V
-vii.Measured voltage at boiling temperature of water
-Now put a vicker containing alcohol in the heater and measure the voltage.
-at the boiling point of this one.
-ix. Turn off the heater.
-x. Measure the voltage corresponding to the melting ice temperature
-xi. Make a table with the measured voltage values (V) and their corresponding values of
-The temperature (T)
-xii.In a temperature-voltage axle system, mark the points corresponding to the values of
-the table above
-xiii. Draw a straight line that best fits the points marked.
+i. Connect terminals D and E of the thermocouple to the multimeter. ii. On the multimeter, select the 200 mV (DC) range. iii. Place crushed ice (melting ice) in the polystyrene container to use it as the reference temperature ($0\ ^\circ\text{C}$). iv. Place a beaker containing water inside the heater. v. Place the soldered tip A of the thermocouple in the water and the reference terminals B and C in the melting ice (polystyrene container). vi. Connect the heater to 220 V. vii. Measure the voltage corresponding to the boiling temperature of water. viii. Now place a beaker containing alcohol in the heater and measure the voltage corresponding to the boiling temperature of the alcohol. ix. Disconnect the heater. x. Measure the voltage corresponding to the temperature of the melting ice. xi. Prepare a table with the measured voltage values (V) and their corresponding temperature values (T). xii. On a temperature-voltage coordinate system, plot the points corresponding to the values in the previous table. xiii. Draw a straight line that best fits the plotted points.
 
-The straight line drawn is the calibration line which will allow the temperature values to be obtained
-corresponding to the voltage values to be measured.
-The thermocouple is now calibrated.
+The line drawn is the calibration line that will make it possible to obtain the temperature values corresponding to the voltage values that are measured. THE THERMOCOUPLE IS NOW CALIBRATED.
 
-4.2.- Measurement of body temperature during cooling
+4.2.- Measurement of the temperature of a body during its cooling
 
-Caution: Do not keep the heater plugged in for more than 20 minutes.
+CAUTION: Do not keep the heater plugged in for more than 20 minutes.
 
-(i) Determine the ambient temperature ($T_\text{amb}$) by measuring the corresponding voltage
-(ii) With the heater off, place the aluminium cylinder inside and insert the tip
-The heat pump A in the hole containing siliconated (white) fat ensures the
-heat contact.
-(iii) Connect the heater to the 220V line.
-(iv) Heat the cylinder until the reading on the multimeter indicates 4.5 mV.
-v) Turn off the heater quickly.
-(vi) With the help of the tweezer, immediately remove the cylinder from the inside of the heater and place it
-on a ceramic insulator as shown in Figure 2.
-(vii) Measure the voltage of the thermocouple in terms of time t.
-(viii) Make a T vs t table for body cooling.
-(ix) Graph the natural logarithm of ($T - T_\text{amb}$) according to time.
-x) Write the function representing the dependence of temperature over time (Law of
-cooling).
-(xi) Determine the values of the constants that intervene in the law found at point
-previous
-(xii) Express in a few words the physical meaning of the constants calculated in point (xi).
+i) Determine the ambient temperature ($T_\text{amb}$) by measuring the corresponding voltage. ii) With the heater switched off, place the aluminum cylinder inside it and insert the tip of thermocouple A into the hole containing white silicone grease, which ensures thermal contact. iii) Connect the heater to the 220 V line. iv) Heat the cylinder until the multimeter reading indicates 4.5 mV. v) Disconnect the heater quickly. vi) Using the pliers, immediately remove the cylinder from inside the heater and place it on a ceramic insulator as shown in Figure 2. vii) Measure the thermocouple voltage as a function of time t. viii) Prepare a table of T vs t for the cooling of the body. ix) Plot the natural logarithm of ($T - T_\text{amb}$) versus time. x) Write the function representing the dependence of temperature on time (Cooling Law). xi) Determine the values of the constants appearing in the law found in the previous point. xii) In a few words, state the physical meaning of the constants calculated in point xi).
 
 **Topic:** [[Geometric Optics]], [[Thermodynamics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
+

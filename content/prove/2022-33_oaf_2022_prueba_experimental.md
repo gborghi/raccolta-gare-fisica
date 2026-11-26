@@ -140,60 +140,59 @@ La tabella seguente raccoglie i valori di velocità di rotazione media di ogni p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental problem. Weighing the Sun.**
+Experimental problem: Weigh the Sun.
 
-Vera Rubin was born in Philadelphia, USA, in 1928 and died in 2016. She was nominated several times for the Nobel Prize in Physics. He had a long career in the field of Astronomy and Astrophysics. In particular, he was responsible, along with his colleague Kent Ford, for measuring the rotational speeds of stars in the arms of numerous spiral galaxies. These velocities are determined by the Doppler effect on the spectral lines observed.
+Vera Rubin was born in Philadelphia, USA, in 1928 and died in 2016. She was nominated for the Nobel Prize in Physics on several occasions. She had a long career in the field of astronomy and astrophysics. In particular, together with her colleague Kent Ford, she was responsible for measuring the rotational velocities of stars in the arms of numerous spiral galaxies. These velocities are determined using the Doppler effect in the observed spectral lines.
 
-Their measurements in the visible range, along with those of Albert Bosma in radio waves, showed that the dynamics of spiral galaxies cannot be explained by the luminous matter we identify through our telescopes. Hace falta otro tipo de materia, la **materia oscura**, que no emita ni absorba radiación electromagnética de la forma en que lo hace la materia ordinaria que conocemos.
+Their measurements in the visible range, together with those of Albert Bosma in radio waves, demonstrated that the dynamics of spiral galaxies cannot be explained by the luminous matter we identify with our telescopes. Another type of matter is needed—**dark matter**—which does not emit or absorb electromagnetic radiation in the same way as the ordinary matter we know.
 
-Inspired by the work of Vera Rubin, a first-year student in the Physics Degree decides to determine the mass of the Sun by herself from the measurement of the rotational speeds of the planets of the Solar System.
+Inspired by Vera Rubin's work, a first-year physics undergraduate student decides to determine the Sun's mass for herself by measuring the rotational velocities of the planets in the Solar System.
 
 **Theoretical model.**
 
-If the dynamics of all the planets in the Solar System are considered to be dominated by the effect of the Sun, we can use Kepler's third law for circular orbits, or the relationship between gravitational force and centrifugal force, to obtain the relationship between a planet's average orbital speed, $v$, and its average distance from the Sun, $r$, such as:
+If we consider that the dynamics of all the planets in the Solar System are dominated by the Sun's effect, we can use Kepler's third law for circular orbits, or the relationship between gravitational force and centripetal force, to obtain the relationship between a planet's mean orbital speed, $v$, and its mean distance from the Sun, $r$, as:
 
 $$v(r) = \sqrt{\frac{GM}{r}} \quad (1)$$
 
 where $M$ is the mass of the Sun and $G$ is the universal gravitational constant.
 
-From (1) a linear relation can be obtained if we express $v$ as a function of $r^{-1/2}$ in the form
+Starting from (1), a linear relationship can be obtained if we express $v$ in terms of $r^{-1/2}$ in the form
 
 $$v(r) = \sqrt{GM} \cdot r^{-1/2} \quad (2)$$
 
-The slope of this straight line is $\sqrt{GM}$, from which we can get the mass value of the Sun, $M$.
+The slope of this straight line is $\sqrt{GM}$, from which we can obtain the value of the mass of the Sun, $M$.
 
-**Questions.**
+Questions.
 
-The following table summarizes the mean rotational speed values of each planet around the Sun, $v$, together with its mean distance from the Sun, $r$, expressed in Astronomical Units (UA).
+The following table lists the values of the mean orbital speed of each planet around the Sun, $v$, along with its mean distance from the Sun, $r$, expressed in astronomical units (AU).
 
-| Planeta | $r$ (UA) | $v$ (km/s) |
+| Planet | $r$ (AU) | $v$ (km/s) |
 |---|---|---|
-♪ Mercury is 0.39 47.56 ♪
-♪ Venus is 0.72 ♪ 35.41 ♪
-This is the first time I've ever seen a human being.
-♪ I'm not going to be able to do it ♪
-♪ The moon is the moon ♪
-♪ Saturn ♪ 9.54 ♪ 9.28 ♪
-This is the first time that I've ever seen a planet.
-♪ I'm not going to be able to see you ♪
-♪ Pluto ♪ 39,44 6,26
+| Mercury | 0.39 | 47.56 |
+| Venus | 0.72 | 35.41 |
+| Mars | 1.52 | 24.64 |
+| Ceres | 2.77 | 20.67 |
+| Jupiter | 5.20 | 15.57 |
+| Saturn | 9.54 | 9.28 |
+| Uranus | 19.18 | 6.25 |
+| Neptune | 30.06 | 8.25 |
+| Pluto | 39.44 | 6.26 |
 
-(a) Graphically represent the $(x, y) = (r^{-1/2},\, v)$ points on millimeter paper.
+(a) Graphically represent the points $(x, y) = (r^{-1/2},\, v)$ on the graph paper.
 
-(b) Determine the value of the slope $p$ of the straight line that best fits these points.
+(b) Determine the value of the slope $p$ of the line that best fits these points.
 
-(c) From the slope $p$ and the expression (2) deduct the mass value of the Sun, $M$.
+(c) Starting from the slope $p$ and from expression (2), deduce the value of the mass of the Sun, $M$.
 
-(d) Make a reasoned estimate of the slope uncertainty $\Delta p$ obtained in paragraph (b).
+(d) Provide a reasoned estimate of the uncertainty $\Delta p$ of the slope obtained in subsection (b).
 
-(e) In view of the above, estimate the uncertainty $\Delta M$ in the Sun mass value obtained in (c).
+(e) Taking the above into account, estimate the uncertainty $\Delta M$ in the value of the Sun's mass that you obtained in (c).
 
-**Data:**
-- Universal gravity constant: $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2/\text{kg}^2$
-- Astronomical unit (average distance from Earth to the Sun): $1\,\text{UA} = 1{,}5 \times 10^{11}\,\text{m}$
+**Data:** - Universal Gravitational Constant: $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2/\text{kg}^2$ - Astronomical Unit (average Earth-Sun distance): $1\,\text{UA} = 1{,}5 \times 10^{11}\,\text{m}$
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pGrtYvdvaczcH4nfaylGSt_cvCxpZoMy/view)
+

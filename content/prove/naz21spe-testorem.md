@@ -216,26 +216,8 @@ $$\Delta\theta = -4\,k \quad (1)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-3.  Describe what criterion is used to achieve the condition that the intensity of the normal force at the
-The force of the vehicle, $\vec{N}$, is approximately equal to the force of the weight.
-Note: this figure does not represent
-the device used at scale; and
-The angle $\theta$ is exaggerated for
-I'm not going to lie.
-Figure 7  Geometry of the situation.
-The force $\vec{F}$ subtracts mechanical energy from the sphere by performing negative work on it.
-It is proposed to examine this phenomenon in order to measure the $k$ coefficient. La
-The position of the sphere on the circular driving section can be expressed by the direct measurement of the length of an arc thanks
-the use of the millimeter tape you have
-The following table shows the results of the calculation of the total value of the input:
-Note the circle arc $\overset{\frown}{AB}$ and the radius $R$,
-è $\theta = \overset{\frown}{AB}/R$. The ratio of the height $h$ of the centre of the
-The mass of the sphere as a function of the angle $\theta$:
-$$h = (R - r)(1 - \cos\theta)$$
-It can be shown that if the normal force $\vec{N}$ and the dissipative force $\vec{F}$ are the ones described above then there is a
-Simple ratio that expresses the change in the range of oscillations $(\Delta\theta)$ in each complete oscillation
-The sphere
-$$\Delta\theta = -4\,k \quad (1)$$
+3. – Describe which criterion you follow to establish the condition under which the magnitude of the normal force to
+guide, $\vec{N}$, is practically equal to the magnitude of the weight force. Note: this figure does not represent the device used to scale, and the angle $\theta$ is exaggerated for clarity. Figure 7 – Geometry of the situation. The force $\vec{F}$ removes mechanical energy from the sphere by doing negative work on it. The aim is to examine this phenomenon in order to measure the coefficient $k$. The position of the sphere on the circular portion of the guide can be expressed by directly measuring the length of an arc, thanks to the use of the millimetre tape you applied to the ruler (Figure 7). Given the circular arc $\overset{\frown}{AB}$ and the radius $R$, it is $\theta = \overset{\frown}{AB}/R$. From the figure, the relationship expressing the height $h$ of the sphere's centre of mass as a function of the angle $\theta$ is obtained: $$h = (R - r)(1 - \cos\theta)$$ It can be shown that if the normal force $\vec{N}$ and the dissipative force $\vec{F}$ are those described above, then there exists a simple relationship expressing the change in the amplitude of the oscillations $(\Delta\theta)$ in each complete oscillation performed by the sphere $$\Delta\theta = -4\,k \quad (1)$$
 
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
@@ -243,8 +225,6 @@ $$\Delta\theta = -4\,k \quad (1)$$
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Syk-vVW2CMiq3pPta8kmp8J3uKXuWUTe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-J7UGzbyZQY2Z6oGWzPlPUsTUdxLIJZb/view)
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2021 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/sphere"></span>
 

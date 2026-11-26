@@ -326,7 +326,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13.** *(with table: $63\ °\text{C}\to2\ \text{mV}$, $T\to5\ \text{mV}$, $126\ °\text{C}\to9\ \text{mV}$) * At intervals not too large the f.e.m. of a thermocouple is a linear function of the temperature difference between the joints; the cold joint is at a constant temperature. Quanto vale $T$? A) $84\ °\text{C}$; B) $90\ °\text{C}$; C) $91\ °\text{C}$; D) $98\ °\text{C}$; E) $99\ °\text{C}$.
+**Q13.** *(with table: $63\ °\text{C}\to2\ \text{mV}$, $T\to5\ \text{mV}$, $126\ °\text{C}\to9\ \text{mV}$)* Over intervals that are not too large, the emf of a thermocouple is a linear function of the temperature difference between the junctions; the cold junction is at a constant temperature. What is the value of $T$? A) $84\ °\text{C}$; B) $90\ °\text{C}$; C) $91\ °\text{C}$; D) $98\ °\text{C}$; E) $99\ °\text{C}$.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -334,8 +334,6 @@ tags:
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **B**
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 1998 1° Livello Quiz — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
 

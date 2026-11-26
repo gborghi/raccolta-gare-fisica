@@ -468,17 +468,17 @@ La sequenza numerica corretta della seconda colonna è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The first column relates to some energy transformations and the second to appliances in which one of these transformations is predominant. Correctly relate the appliances indicated in the second column to their energy conversion, with the appropriate number in parentheses.
+In the first column, some energy transformations are listed, and in the second, devices in whose operation one of these transformations predominates. Correctly match the devices indicated in the second column with their respective energy transformation by writing the appropriate number in parentheses.
 
-♪ Transforming ♪ The device ♪
+| Transformation | Device |
 |---|---|
-My first is electricity, my second is electricity.
-My first thought was that the electrical energy of the electron is the electrical energy of the electron.
-My first thought was about the power of the electricity generating power plant.
-My first time was in the car.
-My first thought was about the electrical energy of the light bulb.
+| (1) electrical energy → light energy | ( ) battery |
+| (2) electrical energy → mechanical energy | ( ) photoelectric cell |
+| (3) light energy → electrical energy | ( ) generator of a hydroelectric power plant |
+| (4) chemical energy → electrical energy | ( ) shaver |
+| (5) mechanical energy → electrical energy | ( ) lamp |
 
-The correct numerical sequence of the second column is:
+The correct numerical sequence in the second column is:
 
 - **A.** 4-3-5-2-1
 - **B.** 3-4-5-2-1
@@ -491,8 +491,6 @@ The correct numerical sequence of the second column is:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2008 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 

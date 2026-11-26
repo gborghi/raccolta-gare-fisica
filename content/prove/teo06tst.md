@@ -137,32 +137,32 @@ La teoria di Einstein fu presto seguita dalle conferme sperimentali di J. Perrin
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Zig-zagando...** — 50 Punti
+**Zig-zagging...** — 50 Points
 
-The irregular motion of microscopic particles much larger than the molecules of the liquid in which they are immersed is called the **brownian motion**, as it was first observed in 1828 by R. Brown, please. In the theory formulated by A. Einstein in 1905, the Brownian motion of a particle is described using the diffusion coefficient $D$ related to the viscosity of the liquid by the relation (namely Einstein):
+The irregular motion of microscopic particles that are much larger than the molecules of the liquid in which they are immersed is called **Brownian motion**, since it was first observed in 1828 by R. Brown. In the theory formulated by A. Einstein in 1905, the Brownian motion of a particle is described using the diffusion coefficient $D$, which is related to the viscosity of the liquid by the relation (precisely called the Einstein relation):
 
 $$D = \frac{R\,T}{6\pi\,\eta\,a\,N_A}$$
 
-where $R$ is the universal constant of perfect gases (whose value at the time was already known), $T$ the absolute temperature, $\eta$ the viscosity of the liquid, $a$ the particle radius and $N_A$ the Avogadro Number.
+where $R$ is the universal gas constant for ideal gases (whose value was already known at the time), $T$ is the absolute temperature, $\eta$ is the viscosity of the liquid, $a$ is the radius of the particle, and $N_A$ is Avogadro's number.
 
-The diffusion coefficient is related to the mean value on various trajectories of the square of the $\ell$ time shift of the particle $t$, i.e.:
+Around it, the diffusion coefficient is related to the mean value, over various trajectories, of the square of the displacement $\ell$ undergone by the particle over the time $t$, that is:
 
 $$\langle \ell^2 \rangle = 6\,D\,t$$
 
-Einstein's theory was soon followed by J. Perrin (1908) is a writer. In one of these, the phenomenon was used to determine Avogadro's Number. The figure, reproduced in Perrin's book "Les atomes", shows the results of a series of observations  seen under the microscope  of the migration of a radius particle $a = 0.53\ \mu\text{m}$ subject to a brownian motion. The scale factor of the figure is such that the side of a square corresponds to $3.2\ \mu\text{m}$. The points represent the observed position of the particle at constant time intervals $t = 30\ \text{s}$. The water temperature is $25\ ^\circ\text{C}$ and its viscosity is $\eta = 1.00 \times 10^{-3}\ \text{kg\,m}^{-1}\text{s}^{-1}$.
+Einstein's theory was soon followed by J. Perrin's experimental confirmations (1908). In one of these, the phenomenon was used to determine Avogadro's number. The figure, reproduced from Perrin's book "Les atomes", shows the results of a series of microscopic observations of the migration of a particle with radius $a = 0.53\ \mu\text{m}$ undergoing Brownian motion. The scale factor of the figure is such that the side of one small square corresponds to $3.2\ \mu\text{m}$. The points represent the observed position of the particle at constant time intervals $t = 30\ \text{s}$. The temperature of the water is $25\ ^\circ\text{C}$, and its viscosity is $\eta = 1.00 \times 10^{-3}\ \text{kg\,m}^{-1}\text{s}^{-1}$.
 
-1. By measuring at least 10 consecutive movements of the particle (starting from any point in the figure) an estimate of Avogadro's Number $N_A$ is obtained.
+1. By measuring at least 10 consecutive displacements of the particle (starting from any point in the figure), obtain an estimate of Avogadro's number $N_A$.
 
-**Warning:** The solution requires the first position used (starting from the one indicated by n. The following table shows all the measures taken:
+**Warning:** In the solution, it is required to note the first position used (starting from the one indicated by No. 1 in the figure); furthermore, all measurements taken must be recorded in a table of the following type:
 
-♪ I'm not moving ♪ | lunghezza in figura (quadretti) | lunghezza $\ell$ effettiva ($\mu$m) | $\ell^2$ ($\mu\text{m}^2$) |
+| Displacement No. | Length in figure (squares) | Actual length $\ell$ ($\mu$m) | $\ell^2$ ($\mu\text{m}^2$) |
    |---|---|---|---|
    | ... | ... | ... | ... |
 
-2. How could the uncertainty about the previous estimate of Avogadro's Number be assessed?
+2. How could the uncertainty in the previous estimate of Avogadro's number be assessed?
 
 <!--fig:start-->
-**p.2** — Traiettoria a zig-zag del moto browniano
+**p.2** — Zigzag trajectory of Brownian motion
 ![[_attachments/Teo06tst/Teo06tst_p2_f2.png]]
 <!--fig:end-->
 
@@ -172,8 +172,6 @@ Einstein's theory was soon followed by J. Perrin (1908) is a writer. In one of t
 **Objects:** [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1pvUJzKEu25EX1rQ7aWhCB4bOtSpXkaAF/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2006 Nazionale — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/electromagnetism,topic/circuits,topic/magnetism,object/point-charge,object/capacitor,object/solenoid,object/resistor,object/battery"></span>
 

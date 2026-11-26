@@ -749,21 +749,20 @@ Se si raddoppia il modulo della velocità di un oggetto, quale altra quantità r
 
 <div class="qlang-split" data-lang="en"></div>
 
-If you double the speed of an object, what other quantity doubles?
+If the magnitude of an object's velocity is doubled, which other quantity doubles?
 
-- **A.** The form of its motor quantity.
-- **B.** La sua energia cinetica.
-- **C.** The model of its acceleration.
-- **D.** La sua energia potenziale gravitazionale.
-- **E.** The form of the resultant of the forces acting on it.
+- **A.** The magnitude of its momentum.
+- **B.** Its kinetic energy.
+- **C.** The magnitude of its acceleration.
+- **D.** Its gravitational potential energy.
+- **E.** The magnitude of the resultant of the forces acting on it.
+
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
 **Risposta:** **A** · [[1liv15S def|Soluzioni]]
-
-
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OII 2015 1° Livello — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
 

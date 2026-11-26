@@ -72,52 +72,52 @@ E. Le costruzioni grafiche riportate sui dischi di carta possono fornire element
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be presented in the form of a test report.
+**Experimental Test — A Box with Nuts** (120 points)
 
-The following is the list of the Olympic Games in Finland:
+*Physics Olympiad 2000 — National Competition, Senigallia (AN), 13–14 April 2000.*
 
-♪ ♪ The first one ♪
+### Introduction
 
-The cookie box you find on your table is numbered and sealed. **You should not attempt to open it at all.** It contains an equal number of balls, all of them equal to each other, divided into two equal groups and fixed inside the box along its cylindrical wall, at the same distance from the lid and bottom. Knowing that the empty box has a mass of $150\ \text{g}$ while each die has a mass of $42\ \text{g}$ (both of these values have an uncertainty of $1\ \text{g}$), determine:
+The biscuit tin you find on your table is numbered and sealed. **You must absolutely not attempt to open it.** It contains an even number of bolt nuts, all identical to one another, divided into two equal groups and secured inside the tin along its cylindrical wall, at the same distance from the lid and from the base. Given that the empty tin has a mass of $150\ \text{g}$ while each nut has a mass of $42\ \text{g}$ (both of these values have an uncertainty of $1\ \text{g}$), determine:
 
 1. the total number of dice contained in the box;
 
 2. the positions of the two groups of dice;
 
-3. the centre of mass of the whole system consisting of the box and the two sets of dice;
+3. the center of mass of the entire system consisting of the box and the two groups of nuts;
 
-4. the center of mass of the two groups of dice.
+4. the center of mass of the two groups of nuts.
 
-### Notes
+### Note
 
-A. The spirit in which this test is proposed is as follows. Often, it is not necessary to have special measuring instruments at your disposal to obtain meaningful information. You can exploit the objects you happen to have at your disposal, using a variety of tricks and imagination. In this spirit, to answer questions you should only use items delivered to you, although many of them appear to be "office" rather than "laboratory" items. For example, biadhesive tape can be used to attach a pencil to a table or a box, which in turn can be used as a support for another object.
+A. The spirit in which this test is proposed is as follows. Often, to obtain meaningful information, it is not essential to have special measuring instruments at one's disposal: one can make use of objects that happen to be within reach, by devising various tricks and using a great deal of imagination. Bearing this spirit in mind, to answer the questions posed, **you must use only the objects that are handed to you**, even though many of them seem to be "office" rather than "laboratory" objects. For example, the double-sided adhesive tape can be used to attach a pencil to the table or to the box; the pencil, in turn, can serve as a support for another object.
 
-B. You must first cover the lid and bottom of the box with two discs of paper, either with adhesive or biadhesive tape. On these discs you can more easily perform your graphic constructions.
+B. Initially, **you must cover both the lid and the base of the box with two paper discs**, securing them with adhesive tape or double-sided tape. On these discs, you will be able to carry out your graphic constructions more easily.
 
-C. The numbering of the questions is indicative only, in that depending on the route taken in the resolution, it may be appropriate to answer, for example, the question **4.** before **1.**
+C. **The numbering of the questions is purely indicative**, meaning that, depending on the approach taken in solving them, it may be advisable to answer, for example, question **4** before question **1**.
 
-D. The number of methods used to answer individual questions (if they differ significantly) will also be positively assessed.
+D. The **number of methods used** to answer each individual question will also be assessed positively (provided that the methods are significantly different from one another).
 
-E. The graphic constructions on paper discs can provide useful elements to evaluate your work, so at the end of the test you must also deliver those discs, writing your name above. Also remove all the adhesive and biadhesive tape attached to the box, as this should be used for the second round.
+E. The graphical constructions shown on the paper discs can provide useful elements for assessing your work; therefore, at the end of the test, **you must also hand in these discs**, writing your name on them. Also remove all adhesive tape and double-sided tape attached to the box, since the box must also be used for the second session.
 
-### List of materials available
+### List of Available Materials
 
-- A box of cookies
-- N. 6 ball dice identical to those fixed inside the box
-- Drawing team .
-- Righello .
-- The pencil .
-- Nail wire
-- Spaghetti .
-- Two-sided tape roll
-- Roller of adhesive tape
-- N. 3 discs of paper
-- N. 2 sheets of white paper in the form of A4
-- Paper of a thickness of less than 1 mm
-- Wood table partly covered with glass paper
-- Wood in the form of a pack of cigarettes
-- Goniometer .
-- Fork, level and reserve nylon thread (on service tables)
+- Biscuit tin
+- 6 bolt nuts identical to those fixed inside the box
+- Drawing set
+- Ruler
+- Pencil
+- Nylon thread
+- String
+- Roll of double-sided tape
+- Roll of adhesive tape
+- 3 paper discs
+- 2 sheets of white A4 paper
+- Millimeter paper sheet
+- Wooden block partially covered with sandpaper
+- Piece of wood shaped like a cigarette pack
+- Protractor
+- Scissors, spirit level, and spare nylon thread (on the service tables)
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -125,3 +125,4 @@ E. The graphic constructions on paper discs can provide useful elements to evalu
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1uY5MJiFb96dVoFpowyxY1gcDlqCiblTg/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/12fdtXznwZWU4mE7kNppsk8d3QNhcuEmi/view)
+

@@ -1020,19 +1020,19 @@ Sapendo che la sostanza considerata è una di quelle in tabella, di quale si tra
 
 <div class="qlang-split" data-lang="en"></div>
 
-The diagram on the right shows the temperature trend in relation to the heat absorbed by an object of 3 kg of a pure substance initially in the solid phase. Such a substance receives heat from a heat source at a constant rate over time.
+The diagram on the right shows how the temperature varies with the heat absorbed by a 3 kg object made of a pure substance that is initially in the solid phase. This substance receives heat from a thermal source at a rate that remains constant over time.
 
-The following table summarises some characteristic properties of five substances.
+The following table presents some characteristic properties of five substances.
 
-Knowing that the substance in question is one of those in the table, what is it?
+Knowing that the substance in question is one of those listed in the table, which one is it?
 
-| Sostanza | Calore Specifico $[\text{J kg}^{-1}\text{K}^{-1}]$ | Calore latente $[\text{kJ kg}^{-1}]$ | Temperatura di fusione $[\text{K}]$ |
+| Substance | Specific Heat $[\text{J kg}^{-1}\text{K}^{-1}]$ | Latent Heat $[\text{kJ kg}^{-1}]$ | Melting Temperature $[\text{K}]$ |
 |---|---|---|---|
-I'm not going to be able to do this.
-You know, I'm not going to say that.
-This is the first time that I've ever seen this.
-I'm not going to be able to do this.
-♪ I'm not going to be able to do this ♪
+| (A) Iron | 440 | 234 | 1808 |
+| (B) Mercury | 140 | 12 | 234 |
+| (C) Lead | 129 | 24 | 601 |
+| (D) Copper | 385 | 212 | 1358 |
+| (E) Zinc | 390 | 101 | 693 |
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p6_f11.png]]
@@ -1045,8 +1045,6 @@ I'm not going to be able to do this.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
-
-
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="OII 2014 1° Livello — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/projectile"></span>
 

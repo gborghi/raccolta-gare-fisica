@@ -2194,11 +2194,11 @@ Per fare i calcoli senza assegnare valori numerici, sostituisci i dati seguenti 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The work carried out by or on a system composed of an ideal gas is represented by:
+The work done by or on a system consisting of an ideal gas is represented by:
 
-- [ ] the area under the curve with which the transformation experienced by the system is represented in a $PV$ diagram.
-- [ ] the area under the curve with which the transformation experienced by the system is represented in a $PT$ diagram.
-- [ ] the length of the curve representing the transformation the system experienced in a $PV$ diagram.
+- [ ] the area under the curve that represents the transformation undergone by the system in a $PV$ diagram.
+- [ ] the area under the curve that represents the transformation undergone by the system in a $PT$ diagram.
+- [ ] the length of the curve that represents the transformation undergone by the system in a $PV$ diagram.
 
 
 ---
@@ -2209,7 +2209,7 @@ The work carried out by or on a system composed of an ideal gas is represented b
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 24  Situation 1
+## Problema 24 — Situación 1
 
 
 
@@ -2217,13 +2217,13 @@ The work carried out by or on a system composed of an ideal gas is represented b
 
 
 
-Suppose a system that was initially at $123\,^\circ\text{C}$, to which heat is delivered until its temperature rises to $150\,^\circ\text{C}$.
+Suponga un sistema que inicialmente estaba a $123\,^\circ\text{C}$, al cual se le entrega calor hasta que su temperatura se eleva a $150\,^\circ\text{C}$.
 
-(a) It outlines the proposed situation.
+a) Esquematice la situación propuesta.
 
-(b) Determine the temperature change experienced by the system; express it in degrees Celsius and degrees Kelvin.
+b) Determine la variación de temperatura que experimentó el sistema; exprésela en grados Celsius y en grados Kelvin.
 
-(c) Express the initial and final system temperature in Kelvin degrees.
+c) Exprese la temperatura inicial y final del sistema en grados Kelvin.
 
 
 ---
@@ -2233,7 +2233,7 @@ Suppose a system that was initially at $123\,^\circ\text{C}$, to which heat is d
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 25  Situation 2
+## Problema 25 — Situación 2
 
 
 
@@ -2241,13 +2241,13 @@ Suppose a system that was initially at $123\,^\circ\text{C}$, to which heat is d
 
 
 
-Suppose a system composed of $n = 2$ ideal gas moles undergoes an isothermal transformation such that its pressure passes from $6000\,\text{Pa}$ to $3000\,\text{Pa}$.
+Suponga que un sistema compuesto por $n = 2$ moles de gas ideal experimenta una transformación isotérmica, de tal manera que su presión pasa de $6000\,\text{Pa}$ a $3000\,\text{Pa}$.
 
-(a) Schematize the proposed situation; propose a type of container suitable for containing the gas.
+a) Esquematice la situación propuesta; proponga un tipo de recipiente adecuado para contener el mencionado gas.
 
-(b) Determine the volume change experienced by the system.
+b) Determine el cambio de volumen que experimentó el sistema.
 
-(c) Determine the initial volume of the system.
+c) Determine el volumen inicial que tenía el sistema.
 
 
 ---
@@ -2257,7 +2257,7 @@ Suppose a system composed of $n = 2$ ideal gas moles undergoes an isothermal tra
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 26  Situation 3
+## Problema 26 — Situación 3
 
 
 
@@ -2265,13 +2265,13 @@ Suppose a system composed of $n = 2$ ideal gas moles undergoes an isothermal tra
 
 
 
-Consider a system composed of $n = 3$ ideal gas springs. Suppose that it initially had a temperature of $T = 300\,\text{K}$ and occupied a volume of $V = 0{,}030\,\text{m}^3$. After a certain transformation, its volume was $V' = 0{,}020\,\text{m}^3$ and its pressure was $P' = 200\,000\,\text{Pa}$.
+Considere un sistema compuesto por $n = 3$ moles de gas ideal. Suponga que el mismo tenía inicialmente una temperatura de $T = 300\,\text{K}$ y ocupaba un volumen $V = 0{,}030\,\text{m}^3$. Luego de una determinada transformación, su volumen resultó $V' = 0{,}020\,\text{m}^3$ y su presión $P' = 200\,000\,\text{Pa}$.
 
-(a) Schematize the proposed situation; propose a type of container suitable for containing the gas.
+a) Esquematice la situación propuesta; proponga un tipo de recipiente adecuado para contener el mencionado gas.
 
-(b) Determine the $P$ pressure of the gas initially.
+b) Determine la presión $P$ que tenía inicialmente el gas.
 
-(c) Determine the final temperature of the gas $T'$.
+c) Determine la temperatura $T'$ final del gas.
 
 
 ---
@@ -2281,7 +2281,7 @@ Consider a system composed of $n = 3$ ideal gas springs. Suppose that it initial
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 27  Situation 4
+## Problema 27 — Situación 4
 
 
 
@@ -2289,13 +2289,13 @@ Consider a system composed of $n = 3$ ideal gas springs. Suppose that it initial
 
 
 
-In a diagram whose ordered axis corresponds to the pressure $P$ of a system composed of an ideal gas mole and whose abscises axis corresponds to the volume $V$ of that system:
+En un diagrama cuyo eje de ordenadas corresponda a la presión $P$ de un sistema compuesto por un mol de gas ideal y cuyo eje de abscisas corresponda al volumen $V$ que ocupa dicho sistema:
 
-(a) It represents an isobaric transformation.
+a) Represente una transformación isobárica.
 
-(b) It represents an isocoric transformation.
+b) Represente una transformación isocórica.
 
-(c) It is an isothermal transformation.
+c) Represente una transformación isotérmica.
 
 
 ---
@@ -2305,7 +2305,7 @@ In a diagram whose ordered axis corresponds to the pressure $P$ of a system comp
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 28  Situation 5
+## Problema 28 — Situación 5
 
 
 
@@ -2313,15 +2313,15 @@ In a diagram whose ordered axis corresponds to the pressure $P$ of a system comp
 
 
 
-Considering that a quantity of heat $Q$ is positive when entering the system and a quantity of work $W$ is positive when leaving the system (the system works on the outside), the internal energy variation of the system $\Delta U = U_f - U_i$ can be written, according to the first principle of thermodynamics, as follows:
+Considerando que una cantidad de calor $Q$ es positiva cuando ingresa al sistema y que una cantidad de trabajo $W$ es positiva cuando sale del sistema (el sistema trabaja sobre el exterior), la variación de energía interna del sistema $\Delta U = U_f - U_i$ se puede escribir, según el primer principio de la termodinámica, de la forma:
 
 $$\Delta U = Q - W$$
 
-Using the expression above, write:
+Utilizando la expresión anterior, escriba:
 
-(a) The relationship between the variation in the internal energy of the system and the work involved in an adiabatic transformation; that is, one in which there is no heat involved ($Q = 0$).
+a) La relación entre la variación de la energía interna del sistema y el trabajo involucrado en una transformación adiabática; esto es, aquella en la cual no hay calor involucrado ($Q = 0$).
 
-(b) The relationship between the variation in the internal energy of the system and the heat involved in an isocoric transformation; that is, one in which there is no work involved ($W = 0$).
+b) La relación entre la variación de la energía interna del sistema y el calor involucrado en una transformación isocórica; esto es, aquella en la cual no hay trabajo involucrado ($W = 0$).
 
 
 ---
@@ -2331,7 +2331,7 @@ Using the expression above, write:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 29  Situation 6
+## Problema 29 — Situación 6
 
 
 
@@ -2339,11 +2339,11 @@ Using the expression above, write:
 
 
 
-Consider a system composed of $n$ moles of an ideal gas. Recalling that the work done by or on the system is represented by the area under the transformation curve in a $PV$ diagram, give an expression for:
+Considere un sistema compuesto por $n$ moles de un gas ideal. Recordando que el trabajo realizado por o sobre el sistema está representado por el área bajo la curva de la transformación en un diagrama $PV$, dé una expresión para:
 
-(a) The work associated with an isobaric expansion that joins the $(V_i,\, P_0)$ and $(V_f,\, P_0)$ points on a $PV$ diagram. Make a graphic representation of the transformation.
+a) El trabajo asociado a una expansión isobárica que en un diagrama $PV$ une los puntos $(V_i,\, P_0)$ y $(V_f,\, P_0)$. Realice una representación gráfica de la transformación.
 
-(b) Work associated with an expansion in which pressure and volume are linearly related (a straight line in the $PV$ diagram). The transformation joins the $(V_i,\, P_i)$ and $(V_f,\, P_f)$ points. Suppose $P = \alpha V + \beta$, where $\alpha$ and $\beta$ are constants (with $\alpha$ having the appropriate units). Perform a graphical representation of the transformation; consider both positive and negative values for $\alpha$.
+b) El trabajo asociado a una expansión en la que la presión y el volumen están relacionados linealmente (una recta en el diagrama $PV$). La transformación une los puntos $(V_i,\, P_i)$ y $(V_f,\, P_f)$. Suponga $P = \alpha V + \beta$, donde $\alpha$ y $\beta$ son constantes (con $\alpha$ teniendo las unidades apropiadas). Realice una representación gráfica de la transformación; considere valores tanto positivos como negativos para $\alpha$.
 
 
 ---
@@ -2353,7 +2353,7 @@ Consider a system composed of $n$ moles of an ideal gas. Recalling that the work
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 30  McGyver
+## Problema 30 — McGyver
 
 
 
@@ -2361,22 +2361,22 @@ Consider a system composed of $n$ moles of an ideal gas. Recalling that the work
 
 
 
-McGyver has been caught by some bad guys, who have fixed one of the "wife" rings on his right wrist. The other ring was pressed by a metal curtain weighing $280\,\text{kgf}$. The curtain can only move by sliding along vertical guides. McGyver can lift up to $80\,\text{kgf}$, so he must get some help to free himself.
+McGyver ha sido atrapado por unos malhechores, quienes han fijado a su muñeca derecha uno de los anillos de unas "esposas". El otro anillo fue apretado por una cortina metálica que pesa $280\,\text{kgf}$. La cortina solo puede moverse deslizando a lo largo de guías verticales. McGyver puede levantar hasta $80\,\text{kgf}$, de modo que debe conseguir alguna ayuda para liberarse.
 
-The place is a cylindrical iron container containing $2\,\text{g}$ helium inside and is sealed by an iron shell of $S = 20\,\text{cm}^2$ area. There is also a bag with $5\,\text{kg}$ coal. The cylinder is placed in an existing hole on the floor under the curtain. The mass of the container is $15\,\text{kg}$ and that of the embolus $5\,\text{kg}$.
+En el lugar hay un recipiente cilíndrico de hierro que contiene $2\,\text{g}$ de helio en su interior y está herméticamente cerrado por un émbolo de hierro de área $S = 20\,\text{cm}^2$. También hay una bolsa con $5\,\text{kg}$ de carbón. El cilindro está colocado en un hueco existente en el piso debajo de la cortina. La masa del recipiente es de $15\,\text{kg}$ y la del émbolo de $5\,\text{kg}$.
 
-(a) Suggest some way in which McGyver could use the elements at his disposal to get out of this situation. Your proposal must be justified by the physical laws on which it is based.
+a) Sugiera alguna forma en que McGyver podría utilizar los elementos de que dispone para liberarse de esta situación. Su propuesta debe estar justificada consignando las leyes físicas en que se basa.
 
-(b) Determine, by explicit calculations, whether McGyver is effectively released using the method you have used. He suggested. If necessary, include any additional, duly justified assumptions.
+b) Determine, mediante cálculos explícitos, si McGyver logra efectivamente liberarse utilizando el método que Ud. ha sugerido. Si es necesario, incluya cualquier hipótesis adicional, debidamente justificada.
 
-**Data:**
+**Datos:**
 
-- Gas constant: $R = 0{,}082\,\text{L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$
-- Specific heat of helium at constant volume: $C_V = 0{,}75\,\text{cal}/(\text{g}\cdot\text{K})$
-- Specific heat of iron: $C = 0{,}10\,\text{cal}/(\text{g}\cdot\text{K})$
-- Heat released in the combustion of one gram of coal: $5000\,\text{cal}$
-- Equation of state of an ideal gas: $PV = nRT$
-- Acceleration by gravity: $g = 9{,}80\,\text{m/s}^2$
+- Constante de los gases: $R = 0{,}082\,\text{L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$
+- Calor específico del helio a volumen constante: $C_V = 0{,}75\,\text{cal}/(\text{g}\cdot\text{K})$
+- Calor específico del hierro: $C = 0{,}10\,\text{cal}/(\text{g}\cdot\text{K})$
+- Calor liberado en la combustión de un gramo de carbón: $5000\,\text{cal}$
+- Ecuación de estado de un gas ideal: $PV = nRT$
+- Aceleración de la gravedad: $g = 9{,}80\,\text{m/s}^2$
 
 *(Olimpíada Argentina de Física, instancia nacional, 1991)*
 
@@ -2388,7 +2388,7 @@ The place is a cylindrical iron container containing $2\,\text{g}$ helium inside
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 31  With an inflator
+## Problema 31 — Con un inflador
 
 
 
@@ -2396,19 +2396,19 @@ The place is a cylindrical iron container containing $2\,\text{g}$ helium inside
 
 
 
-An improvised system has been developed to control the time it takes for a device to be activated until it allows electric current to flow. It was built using a manual inflator whose valve is closed. The bulb, which can slide without a scratch, has a mass of $100\,\text{g}$ and its volume is negligible.
+Se ha improvisado un sistema que permite controlar el tiempo que demora un dispositivo desde que se lo activa hasta que permite el paso de la corriente eléctrica. El mismo fue construido usando un inflador manual cuya válvula está cerrada. El émbolo, que puede deslizarse sin rozamiento, tiene una masa de $100\,\text{g}$ y su volumen es despreciable.
 
-At the initial moment the embolus is free at $5\,\text{cm}$ from the upper end of the inflator, the ambient pressure is $1\,\text{atm}$ and the ambient temperature is $20\,^\circ\text{C}$.
+En el instante inicial el émbolo se halla libre a $5\,\text{cm}$ del extremo superior del inflador, la presión ambiente es de $1\,\text{atm}$ y la temperatura ambiente es de $20\,^\circ\text{C}$.
 
-A drip adds one drop of mercury each $2\,\text{s}$ into the space between the plunger and the walls of the inflator. As the mercury builds up, the plume drops. The system has been prepared in such a way that when the mercury meniscus reaches $1\,\text{cm}$ from the upper edge of the inflator walls, an electrical contact is closed to allow the current to pass.
+Un gotero agrega una gota de mercurio cada $2\,\text{s}$ en el espacio entre el émbolo y las paredes del inflador. A medida que se acumula el mercurio, el émbolo baja. El sistema se ha preparado de tal manera que cuando el menisco de mercurio llega a $1\,\text{cm}$ del borde superior de las paredes del inflador, se cierra un contacto eléctrico que permite el paso de la corriente.
 
-Assuming that the air inside the inflator behaves as an ideal gas and the temperature remains constant, calculate the maximum drop size so that contact does not close before $20\,000\,\text{s}$ (5 h 33 min 20 s) has elapsed since the first drop was deposited.
+Suponiendo que el aire dentro del inflador se comporte como gas ideal y que la temperatura se mantiene constante, calcule el tamaño máximo de la gota para que el contacto no se cierre antes de que transcurran $20\,000\,\text{s}$ (5 h 33 min 20 s) desde que se depositó la primera gota.
 
-**Data:**
+**Datos:**
 
-- Acceleration by gravity: $g = 9{,}80\,\text{m/s}^2$
+- Aceleración de la gravedad: $g = 9{,}80\,\text{m/s}^2$
 - $1\,\text{atm} = 760\,\text{mmHg}$
-- Mercury density: $\rho = 13\,600\,\text{kg/m}^3$
+- Densidad del mercurio: $\rho = 13\,600\,\text{kg/m}^3$
 
 *(Olimpíada Argentina de Física, instancia nacional, 1992)*
 
@@ -2420,7 +2420,7 @@ Assuming that the air inside the inflator behaves as an ideal gas and the temper
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 32  A risky escape
+## Problema 32 — Una huída riesgosa
 
 
 
@@ -2428,30 +2428,30 @@ Assuming that the air inside the inflator behaves as an ideal gas and the temper
 
 
 
-At the end of the last century, a British court official left his duties carrying with him four gold bullion of $10\,\text{kg}$ each, which belonged to the royal treasury. His plan was to cross the Channel using an aerostatic balloon (hot air). The mass of the balloon, including the heating system and the canister, was $100\,\text{kg}$ and the volume of air contained when inflated was $1200\,\text{m}^3$. On the day of the escape the ambient temperature was $T_a = 288{,}16\,\text{K}$ ($15\,^\circ\text{C}$) and the heating system allowed him to heat the balloon air up to $333{,}16\,\text{K}$ ($60\,^\circ\text{C}$).
+A fines del siglo pasado, un funcionario de la corte Británica abandonó sus tareas llevando consigo cuatro lingotes de oro de $10\,\text{kg}$ cada uno, que pertenecían al tesoro real. Su plan contemplaba cruzar el canal de la Mancha utilizando un globo aerostático (de aire caliente). La masa del globo, incluyendo el sistema de calentamiento y la canastilla, era de $100\,\text{kg}$ y el volumen de aire contenido, cuando éste estaba inflado, de $1200\,\text{m}^3$. El día de la huída la temperatura ambiente era de $T_a = 288{,}16\,\text{K}$ ($15\,^\circ\text{C}$) y el sistema de calentamiento le permitía calentar el aire del globo hasta $333{,}16\,\text{K}$ ($60\,^\circ\text{C}$).
 
-(a) Calculate the net force on the balloon (without passenger or cargo), knowing that ground-level air density changes with temperature according to the expression:
+a) Calcule la fuerza neta sobre el globo (sin pasajero ni carga), sabiendo que la densidad del aire a nivel de tierra cambia con la temperatura según la expresión:
 
 $$\delta(T) = \delta_0 \frac{T_a}{T}$$
 
-(b) The mass of the man was $75\,\text{kg}$. Did he escape with all the gold bullion or did he have to resign some?
+b) La masa del hombre era de $75\,\text{kg}$. ¿Pudo escapar con todos los lingotes de oro o tuvo que resignar alguno/s?
 
-(c) Demonstrate the validity of the expression in (a) by considering air as an ideal gas.
+c) Demuestre la validez de la expresión dada en el punto a) considerando al aire como un gas ideal.
 
-(d) Assuming that:
-- $d_1$) the atmospheric pressure changes with the height $h$ according to the expression $P(h) = P_0(1 - \alpha h)$,
-- $d_2$) the ambient temperature shall remain constant at all flight levels,
-- $d_3$) air can be considered an ideal gas;
+d) Suponiendo que:
+- $d_1$) la presión atmosférica cambie con la altura $h$ de acuerdo a la expresión $P(h) = P_0(1 - \alpha h)$,
+- $d_2$) la temperatura ambiente permanezca constante a todo nivel de vuelo,
+- $d_3$) el aire puede considerarse como un gas ideal;
 
-Calculate the height to which the balloon rose.
+calcule la altura hasta la que se elevó el globo.
 
-(e) While on the way over the Channel, a malfunction in the heating system occurred which resulted in a $5\,\text{K}$ decrease in the temperature of the balloon's air. How high would it go? Did the officer have to do something to stay up?
+e) Cuando estaba a mitad de camino, sobre el canal de la Mancha, ocurrió un desperfecto en el sistema de calentamiento que produjo una disminución de $5\,\text{K}$ en la temperatura del aire del globo. ¿A qué altura descendería? ¿Debió hacer algo el funcionario para mantenerse en el aire?
 
-**Data:**
+**Datos:**
 
-- $\delta_0 = 1{,}2256\,\text{kg/m}^3$ (air density at $15\,^\circ\text{C}$ and at ground level)
+- $\delta_0 = 1{,}2256\,\text{kg/m}^3$ (densidad del aire a $15\,^\circ\text{C}$ y a nivel de tierra)
 - $R = 8{,}314\,\text{J}/(\text{mol}\cdot\text{K})$
-- Mass of one mol of air $= 2{,}7453 \times 10^{-2}\,\text{kg}$
+- Masa de un mol de aire $= 2{,}7453 \times 10^{-2}\,\text{kg}$
 - $\alpha = 7{,}24 \times 10^{-5}\,\text{m}^{-1}$
 - $P_0 = 1{,}013 \times 10^5\,\text{N/m}^2 = 1\,\text{atm}$
 - $g = 9{,}8\,\text{m/s}^2$
@@ -2466,7 +2466,7 @@ Calculate the height to which the balloon rose.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 33  A night watering for the holidays
+## Problema 33 — Un regador nocturno para las vacaciones
 
 
 
@@ -2474,24 +2474,24 @@ Calculate the height to which the balloon rose.
 
 
 
-When you leave on vacation and no one is left in the house, one of the problems you face is keeping plants watered with a certain amount of water each day. One of the resources uses a night plunger (night plunger) that takes advantage of the temperature variation between night and day. The water entering the bottle into the ampoule is diffused through the wet cotton into the pot's soil.
+Cuando se sale de vacaciones y no queda ninguna persona en la casa, uno de los problemas que se plantea es mantener regadas las plantas con cierta cantidad de agua diaria. Uno de los recursos utiliza un aparatito (regador nocturno) que aprovecha la variación de temperatura entre la noche y el día. El agua que ingresa desde el botellón a la ampolla se difunde a través del algodón húmedo hacia la tierra de la maceta.
 
-The watering system is installed during the day in such a way that the pressure in the vial is the atmospheric pressure. At the top end of the wet cotton is a water meniscus that, due to surface tension, prevents air from entering the blister.
+El regador se instala durante el día de tal manera que la presión en la ampolla sea la presión atmosférica. En el extremo superior del algodón húmedo se forma un menisco de agua que, por tensión superficial, evita el ingreso de aire a la ampolla.
 
-Suppose the bulb volume is large enough to disregard the volume variations in the gas mass due to variations in the amount of water inside the bulb or the rise or fall of the water column in the thin tube. In addition, suppose that during the day the temperature remains constant and equal to $25\,^\circ\text{C}$, that for six hours at night it drops to $10\,^\circ\text{C}$, and that the atmospheric pressure remains constant.
+Suponga que el volumen de la ampolla es lo suficientemente grande como para despreciar las variaciones de volumen de la masa gaseosa debidas a las variaciones de la cantidad de agua dentro de la ampolla o al ascenso o descenso de la columna de agua en el tubo delgado. Además, suponga que durante el día la temperatura se mantiene constante e igual a $25\,^\circ\text{C}$, que durante seis horas de la noche baja a $10\,^\circ\text{C}$, y que la presión atmosférica permanece constante.
 
-Under these conditions calculate:
+Bajo estas condiciones calcule:
 
-(a) The maximum height difference $h$ for the waterer to effectively water the plant for six hours at night.
+a) La diferencia de altura $h$ máxima para que el regador efectivamente riegue la planta durante seis horas nocturnas.
 
-Suppose that the drip at the end of the thin tube (which is inside the vial) has been prepared to supply, on average, one drop of $2\,\text{mm}$ in diameter for each $2\,\text{s}$.
+Suponga que el gotero en el extremo del tubo delgado (que está en el interior de la ampolla) se ha preparado para suministrar, en promedio, una gota de $2\,\text{mm}$ de diámetro cada $2\,\text{s}$.
 
-(b) Calculate the minimum water content of the bottle if you want to ensure daily irrigation for 30 days.
+b) Calcule la cantidad mínima de agua que deberá contener el botellón si se quiere asegurar un riego diario durante treinta días.
 
-**Data:**
+**Datos:**
 
-- saturated water vapour pressure at $10\,^\circ\text{C}$: $9{,}16\,\text{mmHg}$; idem at $25\,^\circ\text{C}$: $23{,}55\,\text{mmHg}$.
-- The atmospheric pressure is $760\,\text{mmHg}$ or $10{,}33\,\text{m}$ of water column.
+- Presión de vapor de agua saturado a $10\,^\circ\text{C}$: $9{,}16\,\text{mmHg}$; ídem a $25\,^\circ\text{C}$: $23{,}55\,\text{mmHg}$.
+- La presión atmosférica equivale a $760\,\text{mmHg}$ ó a $10{,}33\,\text{m}$ de columna de agua.
 
 *(Olimpíada Argentina de Física, instancia nacional, 1994)*
 
@@ -2503,7 +2503,7 @@ Suppose that the drip at the end of the thin tube (which is inside the vial) has
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 34  Tire lift
+## Problema 34 — Elevador neumático
 
 
 
@@ -2511,45 +2511,45 @@ Suppose that the drip at the end of the thin tube (which is inside the vial) has
 
 
 
-A cylindrical hole has been drilled in a steel block within which a solid lead piston can be moved. The cylindrical cavity, sealed by the piston, can be filled with a controlled pressure gas. Through a piston the piston can move a load vertically. The total mass of the system (piston + embankment + load) is $1000\,\text{kg}$.
+En un bloque de acero se ha perforado un hueco cilíndrico dentro del cual puede desplazarse un pistón macizo de plomo. La cavidad cilíndrica, sellada por el pistón, puede llenarse con un gas a presión controlada. A través de un émbolo el pistón puede desplazar verticalmente una carga. La masa total del sistema (pistón + émbolo + carga) es de $1000\,\text{kg}$.
 
-(a) In the event that there is no friction between the piston and the cylinder wall, determine the pressure $p$ of the gas required to keep the load at rest (assume that the whole system is at the external pressure of an atmosphere).
+a) En el caso en que no exista rozamiento entre el pistón y la pared del cilindro, determine la presión $p$ del gas necesaria para mantener la carga en reposo (suponga que todo el sistema se encuentra a la presión externa de una atmósfera).
 
-By the action of temperature, solids experience a dilation by which linear magnitudes change according to the law:
+Por acción de la temperatura, los cuerpos sólidos experimentan una dilatación por la cual las magnitudes lineales cambian según la ley:
 
 $$L(t) = L_0\,(1 + \lambda\, t)$$
 
-where $L$ represents any linear dimension of the solid, $L_0$ is the value of that dimension at $0\,^\circ\text{C}$, $t$ is the temperature in degrees Celsius, and $\lambda$ is the coefficient of linear metal dilation.
+donde $L$ representa cualquier dimensión lineal del sólido, $L_0$ es el valor de dicha dimensión a $0\,^\circ\text{C}$, $t$ es la temperatura en grados centígrados, y $\lambda$ es el coeficiente de dilatación lineal del metal.
 
-At $20\,^\circ\text{C}$, the cylinder and piston radius are equal to $R = 5\,\text{cm}$, and the piston height is $h = 10\,\text{cm}$. The operating temperature of the system is $21\,^\circ\text{C}$.
+A la temperatura de $20\,^\circ\text{C}$, el radio del cilindro y del pistón son iguales a $R = 5\,\text{cm}$, y la altura del pistón es $h = 10\,\text{cm}$. La temperatura de trabajo del sistema es $21\,^\circ\text{C}$.
 
-(b) Calculate, at the working temperature ($t = 21\,^\circ\text{C}$), the radius and volume of the lead piston if it is outside the cylinder. Also calculate the radius of the cylindrical cavity inside the steel block at that temperature.
+b) Calcule, a la temperatura de trabajo ($t = 21\,^\circ\text{C}$), el radio y el volumen del pistón de plomo si éste se hallase fuera del cilindro. Calcule también el radio de la cavidad cilíndrica dentro del bloque de acero a dicha temperatura.
 
-(c) Calculate the dimensions of the piston (radius and height) inside the cylinder when the whole system is at the working temperature. Suppose that the elastic deformation of the steel block under piston pressure is negligible, and that the elastic deformation of the piston is at constant volume.
+c) Calcule las dimensiones del pistón (radio y altura) dentro del cilindro cuando todo el sistema está a la temperatura de trabajo. Suponga que la deformación elástica del bloque de acero bajo la presión del pistón es despreciable, y que la deformación elástica del pistón es a volumen constante.
 
-(d) Calculate the pressure $P$ exerted by the cylinder on the piston at the working temperature. This pressure is related to the deformation of the piston radius, $\Delta R$, according to:
+d) Calcule la presión $P$ que ejerce el cilindro sobre el pistón a la temperatura de trabajo. Dicha presión está relacionada con la deformación sufrida por el radio del pistón, $\Delta R$, según:
 
 $$P = Y\,\frac{\Delta R}{R}$$
 
-where $Y$ is the Young module of the material and $R$ is the radius of the non-deformed piston.
+donde $Y$ es el módulo de Young del material y $R$ es el radio del pistón no deformado.
 
-(e) Calculate the maximum possible value for the static friction force between the piston and the cylinder at the working temperature.
+e) Calcule el máximo valor posible para la fuerza de rozamiento estática entre el pistón y el cilindro, a la temperatura de trabajo.
 
-(f) Taking into account the friction between the piston and the cylinder, determine the range of values of the gas pressure within which the load is maintained at rest at working temperature.
+f) Teniendo en cuenta el roce entre el pistón y el cilindro, determine el rango de valores de la presión del gas dentro del cual la carga se mantiene en reposo a la temperatura de trabajo.
 
-(g) Suppose that the pressure of the gas is the maximum pressure that allows the load to be kept at rest. Under these conditions the gas cavity is perfectly sealed, leaving a volume equal to $1\,\text{L}$ locked. By keeping the whole system at a constant working temperature, how much can the bulk be moved upward so that, when released, the load is at rest? Consider that gas behaves like an ideal gas.
+g) Suponga que la presión del gas es la máxima presión que permite mantener la carga en reposo. En esas condiciones se sella perfectamente la cavidad del gas, quedando encerrado un volumen igual a $1\,\text{L}$. Manteniendo todo el sistema a la temperatura de trabajo constante, ¿cuánto puede desplazarse el émbolo hacia arriba de manera tal que, al liberarlo, la carga quede en reposo? Considere que el gas se comporta como un gas ideal.
 
-**Data:**
+**Datos:**
 
-♪ Property ♪ Lead ♪ Steel ♪
+| Propiedad | Acero | Plomo |
 |---|---|---|
-Coef. de dilatación lineal $\lambda$ | $1{,}4\times10^{-5}\,(\text{°C})^{-1}$ | $2{,}9\times10^{-5}\,(\text{°C})^{-1}$ |
+| Coef. de dilatación lineal $\lambda$ | $1{,}4\times10^{-5}\,(\text{°C})^{-1}$ | $2{,}9\times10^{-5}\,(\text{°C})^{-1}$ |
 | Módulo de Young $Y$ | $2{,}16\times10^{5}\,\text{N/mm}^2$ | $1{,}47\times10^{4}\,\text{N/mm}^2$ |
 
-- Static friction coefficient (lead/steel): $\mu_e = 0{,}95$
-- Dynamic friction coefficient (lead/steel): $\mu_d = 0{,}85$
+- Coeficiente de rozamiento estático (plomo/acero): $\mu_e = 0{,}95$
+- Coeficiente de rozamiento dinámico (plomo/acero): $\mu_d = 0{,}85$
 - $g = 9{,}8\,\text{m/s}^2$
-- Air pressure: $P_a = 1{,}033\,\text{kg/cm}^2 = 1033\,\text{hPa}$
+- Presión atmosférica: $P_a = 1{,}033\,\text{kg/cm}^2 = 1033\,\text{hPa}$
 
 *(Olimpíada Argentina de Física, instancia nacional, 1996)*
 
@@ -2561,7 +2561,7 @@ Coef. de dilatación lineal $\lambda$ | $1{,}4\times10^{-5}\,(\text{°C})^{-1}$ 
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 35  A new thermometer
+## Problema 35 — Un termómetro novedoso
 
 
 
@@ -2569,23 +2569,23 @@ Coef. de dilatación lineal $\lambda$ | $1{,}4\times10^{-5}\,(\text{°C})^{-1}$ 
 
 
 
-Consider a vertical tube open at both ends and with different sections above and below (see figure). Inside it are two bulk embols $M = 0{,}35\,\text{kg}$ and $m = 0{,}15\,\text{kg}$ respectively, joined by a rigid bar of despicable weight and volume and length $L$. In the space between the emboluses there is $0{,}1\,\text{mol}$ of an ideal gas. The radius of the larger embolus is $a = 13{,}47\,\text{cm}$ and that of the smaller embolus is $b = 12{,}47\,\text{cm}$. Consider the despicable effects of grinding. The atmospheric pressure is $P_0$.
+Considere un tubo vertical abierto por ambos extremos y con secciones diferentes arriba y abajo (ver figura). En su interior se encuentran dos émbolos de masas $M = 0{,}35\,\text{kg}$ y $m = 0{,}15\,\text{kg}$ respectivamente, unidos por una barra rígida de peso y volumen despreciable y longitud $L$. En el espacio comprendido entre los émbolos hay $0{,}1\,\text{mol}$ de un gas ideal. El radio del émbolo de mayor área es $a = 13{,}47\,\text{cm}$ y el del émbolo de menor área es $b = 12{,}47\,\text{cm}$. Considere efectos de rozamiento despreciables. La presión atmosférica es $P_0$.
 
-(a) Demonstrate that the gas pressure of the system in equilibrium at a temperature $T$ is:
+a) Demuestre que la presión del gas correspondiente al sistema en equilibrio a una temperatura $T$ es:
 
 $$P_G = P_0 + \frac{(M + m)\,g}{\Delta S}$$
 
-where $\Delta S$ is the difference between the areas of the embolus.
+donde $\Delta S$ es la diferencia entre las áreas de los émbolos.
 
-(b) Find an expression that relates the temperature change to the volume change occupied by the gas.
+b) Encuentre una expresión que relacione la variación de temperatura con la variación de volumen ocupado por el gas.
 
-(c) How much will the embolism position change if the temperature varies by $1\,^\circ\text{C}$?
+c) ¿Cuánto cambiará la posición de los émbolos si la temperatura varía en $1\,^\circ\text{C}$?
 
-(d) What is the value of $L$ for the division corresponding to $0\,^\circ\text{C}$ to correspond to a balance position of the main embolism located on the neck of the device?
+d) ¿Cuánto tiene que valer $L$ para que la división correspondiente a $0\,^\circ\text{C}$ corresponda a una posición de equilibrio del émbolo mayor ubicado en el cuello del dispositivo?
 
-(e) Under these conditions, to what temperature can the thermometer be used?
+e) Con estas condiciones, ¿hasta qué temperatura podrá ser utilizado el termómetro?
 
-**Data:**
+**Datos:**
 
 - $R = 8{,}31\,\text{J}/(\text{mol}\cdot\text{K})$
 - $P_0 = 1{,}013 \times 10^5\,\text{N/m}^2$
@@ -2601,7 +2601,7 @@ where $\Delta S$ is the difference between the areas of the embolus.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.29](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
 
-## Problem 36  A job in the air underwater
+## Problema 36 — Un trabajo en el aire bajo el agua
 
 
 
@@ -2609,31 +2609,31 @@ where $\Delta S$ is the difference between the areas of the embolus.
 
 
 
-A diving bell is used by a working team to descend to a certain depth in the sea and perform various tasks in a water-free environment. A simple model of this bell is a cylinder of height $D$ closed at the top and open at the bottom. Workers are placed on a grid-like floor above the safety mark, located at $a$ distance from the top.
+Una campana de buceo es utilizada por un equipo de trabajo para descender hasta una cierta profundidad en el mar y realizar diversas tareas en un ambiente libre de agua. Un modelo sencillo de dicha campana lo constituye un cilindro de altura $D$ cerrado en su parte superior y abierto en su parte inferior. Los trabajadores se ubican sobre un piso tipo rejilla que está encima de la marca de seguridad, ubicada a la distancia $a$ de la parte superior.
 
-Suppose the bell is lowered to a depth of $H$ in the sea. The temperature decreases with depth $h$ according to:
+Suponga que se hace descender la campana hasta una profundidad $H$ en el mar. La temperatura disminuye con la profundidad $h$ de acuerdo con:
 
 $$t(h) = t_0 - k\,h$$
 
-where $t$ and $t_0$ are expressed in $^\circ\text{C}$; $t_0$ is the air temperature above the water surface and $k$ is a constant.
+donde $t$ y $t_0$ se expresan en $^\circ\text{C}$; $t_0$ es la temperatura del aire sobre la superficie del agua y $k$ es una constante.
 
-Suppose that the air inside the bell behaves like an ideal gas, that it quickly reaches the water temperature corresponding to the depth of the water level inside the bell, and that the bell is perfectly rigid (its volume change with temperature is despicable).
+Suponga que el aire en el interior de la campana se comporta como un gas ideal, que éste alcanza rápidamente la temperatura del agua correspondiente a la profundidad del nivel de agua en el interior de la campana, y que la campana es perfectamente rígida (su cambio de volumen con la temperatura es despreciable).
 
-(a) At what depth $h_s$ does the water reach the safety mark on the bell when it is submerged?
+a) ¿A qué profundidad $h_s$ el agua alcanza la marca de seguridad en la campana cuando ésta es sumergida?
 
-(b) If $H > h_s$, what percentage of air, relative to the initial air contained in the bell, should be added so that the water level inside the bell does not exceed the safety mark?
+b) Si $H > h_s$, ¿qué porcentaje de aire, respecto del aire inicial contenido en la campana, se debe agregar para que el nivel de agua en el interior de la campana no sobrepase la marca de seguridad?
 
-First perform the calculations without assigning numerical values; then replace the following data to give the numerical answer.
+Realice primero los cálculos sin asignar valores numéricos; luego reemplace con los siguientes datos para dar la respuesta numérica.
 
-**Numerical data:**
+**Datos numéricos:**
 
-- Air pressure at sea level: $p_0 = 1{,}033 \times 10^5\,\text{Pa}$
+- Presión atmosférica al nivel del mar: $p_0 = 1{,}033 \times 10^5\,\text{Pa}$
 - $a = 2{,}0\,\text{m}$
 - $k = 0{,}5\,^\circ\text{C/m}$
 - $t_0 = 20\,^\circ\text{C}$
-- Density of water: $\rho = 1{,}0\,\text{g/cm}^3$
+- Densidad del agua: $\rho = 1{,}0\,\text{g/cm}^3$
 - $g = 10{,}0\,\text{m/s}^2$
-- Height of the bell: $D = 4{,}0\,\text{m}$
+- Altura de la campana: $D = 4{,}0\,\text{m}$
 - $H = 20{,}0\,\text{m}$
 
 *(Olimpíada Argentina de Física, instancia nacional, 2005)*
@@ -2642,3 +2642,4 @@ First perform the calculations without assigning numerical values; then replace 
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Fonte:** [Testo (PDF) — p.31](https://drive.google.com/file/d/1kBKhrZocn8d3IgsOdlcq5PMCpSSY8lPQ/view)
+

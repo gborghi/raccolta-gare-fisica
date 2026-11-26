@@ -89,67 +89,29 @@ quantità fornite nel testo del problema.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Costanti fisiche**
+**Physical constants**
 
-Theory
-G0-1
-Italian (Italy)
-General instructions: theoretical evidence
-The test takes five hours and is worth a total of 30 points.
-The start and end of the test will be indicated by your Assistant. You don't have to open the envelopes or the files of the gods.
-Documents containing the problems before the Assistant starts the test. There will be announcements every hour .
-which indicate the time elapsed, 15 minutes before the end of the test and at the end of the test.
-During the test:
-• Use only the provided pen. You can use the pencil to draw your figures/schemes/graphs, but
-Please draw the outline of the final version with the pen to ensure the best contrast
-When your work is scanned.
-• Dedicated answer sheets (marked with A) are provided to write the final answers. The paperwork of the
-The work in blank (marked with W) is provided for detailed solutions. Make sure to enter the number of questions in your solutions and always use the worksheets that belong to the
-problem you are working on (check the problem number in the header). If you wrote
-Anything on a sheet you don't want to be evaluated, delete it. Use only the front of each
-Page and don't write anything outside the edge.
-• If you need more white papers, ask your Assistant. Write down your country and student code (copy this information from the worksheets), question numbers and page numbers
-in the heading of each additional sheet provided.
-• In your answers, try to be as concise as possible: use equations, logical operators and schematics
-To illustrate your thoughts whenever possible. Avoid the use of long sentences.
-• Sometimes you may be able to solve later parts of a problem without solving those parts
-previously.
-• You will be registered for the entire examination. You're not allowed to leave your job without
-I'm not going to lie. If you need to go to the bathroom or need other assistance (extra paper or pen,
-If you are not able to take your medicine with you, please take your medicine and take your medicine with you.
-At the end of the test:
-• You must stop writing as soon as the end of the exam is announced.
-• For each problem, sort the corresponding sheets in the following order: top cover, questions
-(Q), answer sheets (A) and finally worksheets (W), including any empty or excess sheets at the bottom.
-• Put all the sheets of a problem in the same envelope or document folder, but leave these General Instruction Sheets (G) on your desk outside any envelope or document folder.
-No paper is allowed outside the examination area.
-• When your Assistant allows you to leave the test room. You can keep the pens, the pencils,
-The following conditions shall apply:
+Theory G0-1 Italiano (Italy) General Instructions: Theory Test The test lasts 5 hours and is worth a total of 30 points. The start and end of the test will be indicated by your Assistant. You must not open the envelopes or folders containing the problems before the Assistant gives the go-ahead for the test. Announcements will be made every hour to indicate the time elapsed, 15 minutes before the end of the test and at the end of the test. During the test: • Use only the pen provided. You may use a pencil to draw your figures/schematics/graphs, but please trace the outlines of the final version with the pen to ensure the best contrast when your work is scanned. • Dedicated response sheets (marked A) are provided for writing the final answers. Blank working sheets (marked W) are provided for detailed solutions. Make sure to indicate the question numbers in your solutions, and always use the working sheets that belong to the problem you are working on (check the problem number in the header). If you have written something on a sheet that you do not want to be assessed, erase it. Use only the front side of each page and do not write anything outside the margins. • If you need more blank sheets, ask your Assistant. Write your country code and your student code (copy this information from the working sheets), as well as the question numbers and page numbers, in the header of each additional sheet provided. • In your answers, try to be as concise as possible: use equations, logical operators, and sketches to illustrate your thoughts where possible. Avoid using long sentences. • Sometimes you may be able to solve successive parts of a problem without having solved the preceding parts. • You will be recorded throughout the exam. You are not allowed to leave your workstation without permission. If you need to go to the bathroom or need other assistance (extra sheets or a pen, more water or a snack), attract your Assistant's attention. At the end of the test: • You must stop writing immediately as soon as the end of the exam is announced. • For each problem, arrange the corresponding sheets in the following order: cover sheet on top, questions (Q), response sheets (A), and finally working sheets (W), including any blank or extra sheets at the bottom. • Put all sheets belonging to a problem in the same envelope or document folder, but leave these sheets of the General Instructions (G) on your desk outside any envelope or document folder. It is not permitted to take any paper sheet out of the examination area. • When your Assistant allows it, you may leave the examination room. You may keep the pens, pencils, pencil sharpeners, erasers, rulers, protractors, and IPhO calculators.
 
-Theory
-G0-2
-Italian (Italy)
-Physical constants
-The following is a list of physical constants that you can use in your solution in addition to the
-quantities provided in the text of the problem.
+Theory G0-2 Italian (Italy) Physical Constants Below is the list of physical constants that you might use in your solution in addition to the quantities provided in the problem statement.
 
-♪ The physical constant ♪ The numerical value ♪
+| Physical constant | Symbol | Numerical value |
 |---|---|---|
-| Velocità della luce nel vuoto | $c$ | $299\,792\,458\ \text{m/s}$ |
-| Permeabilità magnetica del vuoto (costante magnetica) | $\mu_0$ | $4\pi\times10^{-7}\ \text{N/A}^2$; $[1\ \text{N/A}^2 = 1\ \text{Vs/Am}]$ |
-| Permittività elettrica del vuoto (costante dielettrica) | $\varepsilon_0$ | $8.854187817\times10^{-12}\ \text{F/m}$; $[1\ \text{F/m} = 1\ \text{As/Vm}]$ |
-| Carica elementare | $e$ | $1.6021766208(98)\times10^{-19}\ \text{C}$; $[1\ \text{C} = 1\ \text{A}\cdot\text{s}]$ |
-| Massa a riposo dell’elettrone | $m_e$ | $9.10938356(11)\times10^{-31}\ \text{kg}$ |
-| Massa a riposo del protone | $m_p$ | $1.672621898(21)\times10^{-27}\ \text{kg}$ |
-| Massa a riposo del neutrone | $m_n$ | $1.674927471(21)\times10^{-27}\ \text{kg}$ |
-| Unità di massa atomica | $m_\text{amu}$ | $1.660539040(20)\times10^{-27}\ \text{kg}$ |
-| Costante gravitazionale | $G$ | $6.67408(31)\times10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$ |
-| Costante di Avogadro | $N_A$ | $6.022140857(74)\times10^{23}\ \text{mol}^{-1}$ |
-| Costante dei gas perfetti | $R$ | $8.3144598(48)\ \text{J/(K}\cdot\text{mol)}$ |
-| Costante di Boltzmann | $k_B$ | $1.38064852(79)\times10^{-23}\ \text{J/K}$ |
-| Costante di Stefan-Boltzmann | $\sigma$ | $5.670367(13)\times10^{-8}\ \text{W/(m}^2\cdot\text{K}^4)$ |
-| Costante di Planck | $h$ | $6.626070040(81)\times10^{-34}\ \text{J}\cdot\text{s}$ |
-| Costante di Planck ridotta | $\hbar = h/(2\pi)$ | $1.054571800(13)\times10^{-34}\ \text{J}\cdot\text{s}$ |
+| Speed of light in vacuum | $c$ | $299\,792\,458\ \text{m/s}$ |
+| Magnetic permeability of vacuum (magnetic constant) | $\mu_0$ | $4\pi\times10^{-7}\ \text{N/A}^2$; $[1\ \text{N/A}^2 = 1\ \text{Vs/Am}]$ |
+| Electric permittivity of vacuum (dielectric constant) | $\varepsilon_0$ | $8.854187817\times10^{-12}\ \text{F/m}$; $[1\ \text{F/m} = 1\ \text{As/Vm}]$ |
+| Elementary charge | $e$ | $1.6021766208(98)\times10^{-19}\ \text{C}$; $[1\ \text{C} = 1\ \text{A}\cdot\text{s}]$ |
+| Rest mass of the electron | $m_e$ | $9.10938356(11)\times10^{-31}\ \text{kg}$ |
+| Rest mass of the proton | $m_p$ | $1.672621898(21)\times10^{-27}\ \text{kg}$ |
+| Rest mass of the neutron | $m_n$ | $1.674927471(21)\times10^{-27}\ \text{kg}$ |
+| Atomic mass unit | $m_\text{amu}$ | $1.660539040(20)\times10^{-27}\ \text{kg}$ |
+| Gravitational constant | $G$ | $6.67408(31)\times10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$ |
+| Avogadro constant | $N_A$ | $6.022140857(74)\times10^{23}\ \text{mol}^{-1}$ |
+| Ideal gas constant | $R$ | $8.3144598(48)\ \text{J/(K}\cdot\text{mol)}$ |
+| Boltzmann constant | $k_B$ | $1.38064852(79)\times10^{-23}\ \text{J/K}$ |
+| Stefan-Boltzmann constant | $\sigma$ | $5.670367(13)\times10^{-8}\ \text{W/(m}^2\cdot\text{K}^4)$ |
+| Planck constant | $h$ | $6.626070040(81)\times10^{-34}\ \text{J}\cdot\text{s}$ |
+| Reduced Planck constant | $\hbar = h/(2\pi)$ | $1.054571800(13)\times10^{-34}\ \text{J}\cdot\text{s}$ |
 
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]], [[Electrostatics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
@@ -157,3 +119,4 @@ quantities provided in the text of the problem.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15trOE_BSuzsIt2HAUldt1rGBhNrvY0Dm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view)
+

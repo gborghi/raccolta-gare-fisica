@@ -426,118 +426,75 @@ si potranno utilizzare anche ad altre temperature senza errori importanti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-P3 Gravitational lensing  Points 100
+P3 Gravitational Lens — 100 Points
 
-The so-called gravitational lens is an astronomical phenomenon predicted by the theory of general relativity.
-It's caused by the deflection of light from a distant source in a very intense gravitational field.
-One of the most spectacular cases, discovered in 2007, is known as the "Horse Shoe Einstein Ring", and it's shown in the image right next to it, taken from the space telescope.
-Hubble, please. The bright disk at the center of the ring is due to
-to light from a very bright galaxy,
-In this case the (LRG 3-757), which we will call "A". La
-The light coming from the ring was emitted instead of
-Another galaxy, which we'll call "B", is also very much
-Light but not directly visible because it covers
-It's coming to the Hubble Telescope thanks to the
-Gravitational deflection produced by galaxy A. La
-The almost circular shape of the ring indicates that in this case the perspective alignment of the two galaxies is
-Almost perfect.
-The study of this system is complicated by the fact that the two objects are so far apart that they are not
-We can overlook the expansion and curvature of the universe. In this matter, however, we shall leave these out of the question.
-We are not going to be able to do this, but we are going to be able to do this.
-We can ignore them. In this context, we can describe the phenomenon in a simplified form as follows:
-A diagram in which, for clarity, the angles are enormously amplified and the curved path of light
-It is approximated by two straight lines, as if the deviation is in one point.
-In Figure H, the position of the observer, $\theta$ the angle under which the light ring is observed and $\delta$ the angle of deflection
-due to the gravitational field of A; this, expressed in terms of the mass $M$ of galaxy A and the distance
-$R = \overline{AD}$, is written
-$$\delta = \frac{4\,GM}{c^2 R} \quad (1)$$
-($G$ is the universal gravitational constant, $c$ the speed of light)
+The so-called gravitational lens is an astronomical phenomenon predicted by general relativity, arising from the deflection of light from a distant source as it passes through a very strong gravitational field. One of the most spectacular cases, discovered in 2007, is known as the "Horse Shoe Einstein Ring" and is shown in the image beside here, taken by the Hubble Space Telescope. The bright disc at the centre of the ring is due to light from a very bright galaxy—in this case (LRG 3-757), which we will call "A". The light coming from the ring, on the other hand, was emitted by another galaxy, which we will call "B"; this galaxy is also very bright but is not visible directly because it is obscured by the first galaxy; its light reaches the Hubble Telescope thanks to the gravitational deflection produced by galaxy A. The nearly circular shape of the ring indicates that, in this case, the projective alignment of the two galaxies is almost perfect. The study of this system is complicated by the fact that the two objects are at such distances (3) that the expansion and curvature of the universe cannot be neglected. In this problem, however, we will set these aspects aside and confine ourselves to considering what would happen in a smaller region closer to us, where, by contrast, we can neglect them. In this context, we can describe the phenomenon in simplified form with the following diagram, in which, for clarity, the angles are greatly exaggerated and the curved path of the light is approximated by two straight-line segments, as if the deflection occurred at a single point. In the figure, H is the position of the observer, $\theta$ is the angle at which the ring of light is observed, and $\delta$ is the deflection angle due to the gravitational field of A; expressed in terms of the mass $M$ of galaxy A and the distance $R = \overline{AD}$, this is written as $$\delta = \frac{4\,GM}{c^2 R} \quad (1)$$ ($G$ is the universal gravitational constant, $c$ is the speed of light)
 
-1. Express the distance $R$ in terms of the mass $M$ and the distances $d_A$ and $d_B$ of the two galaxies, as shown in
-Figure (Remember the relationship between the angles $\delta$, $\theta$ and $\theta'$ and note that the measurements of these angles are
-The value of the data is always in the order of arc seconds.
-2. Express the angle of deflection $\delta$ in terms of the same magnitude.
-3. Show that the mass $M$ of lens galaxy A can be obtained if the distances $d_A$ and $d_B$ are known and the
-angular measurement ($\theta$) of the radius of the Einstein ring.
+1. Express the distance $R$ as a function of the mass $M$ and the distances $d_A$ and $d_B$ of the two galaxies, indicated in
+Figure (Recall the relationship between the angles $\delta$, $\theta$, and $\theta'$, and bear in mind that the measures of these angles are always on the order of arcseconds). 2. Express the deflection angle $\delta$ in terms of the same quantities. 3. Show that the mass $M$ of the lens galaxy A can be determined if the distances $d_A$ and $d_B$ and the angular measure ($\theta$) of the Einstein ring radius are known.
 
-(3) Distances are between 1 and 4 Gpc (where the unit of length parsec (pc) used in astronomy is approximately $3.1 \times 10^{16}\ \text{m}$)
+(3) The distances range from 1 to 4 Gpc (where the unit of length "parsec" (pc) used in astronomy is approximately $3.1 \times 10^{16}\ \text{m}$)
 
-4. Set the distance $d_A$ and place $d_B = k\,d_A$, determine for which value of $k$ the angular measurement of the ring is
-where H is the maximum and find the corresponding expression $\theta_\text{max}$.
+4. With $d_A$ fixed and $d_B = k\,d_A$ given, determine for which value of $k$ the angular measure of the ring
+As seen from H, it is maximal, and find the corresponding expression for $\theta_\text{max}$.
 
-Suppose that galaxy A is in the shape of a crushed disk and is perpendicular to the line of
-I'm not seeing you. For the ring to be observed, the angular measurement of its radius must be considerably greater
-the angular aperture below which the radius $R_A$ of galaxy A is observed, i.e. at least $\theta > 2\,R_A/d_A$.
-This determines a relationship between the distance of the galaxy and its "compactness", expressed in terms of
-densità superficiale $\sigma = M/(\pi R_A^2)$.
+Suppose that galaxy A is flattened into a disk and lies in a plane perpendicular to the line of sight. For the ring to be observable, the angular measure of its radius must be sufficiently greater than the angular aperture under which the radius $R_A$ of galaxy A is observed—that is, it must be at least $\theta > 2\,R_A/d_A$. This establishes a relationship between the galaxy's distance and its "compactness", expressed in terms of the surface density $\sigma = M/(\pi R_A^2)$.
 
-5. Given that the maximum observed density for a compact galaxy is of the order of $\sigma_0 = 200\ \text{kg}\ \text{m}^{-2}$,
-trovare la minima distanza $d_A$ a cui una galassia compatta può generare un anello di Einstein che sia
-At least twice the apparent size of the galaxy. The result shall be expressed in megaparsec (Mpc)
+5. Considering that the maximum density observed for a compact galaxy is of the order of $\sigma_0 = 200\ \text{kg}\ \text{m}^{-2}$,
+Find the minimum distance $d_A$ at which a compact galaxy can produce an Einstein ring that is at least twice the apparent size of the galaxy. Express the result in megaparsecs (Mpc).
 
-In order to examine the way in which we can talk about gravitational lensing we can compare the trend of the
-The deflection $\delta$ by $R$, given by equation (1), with the analogous ratio for the deflection produced by a
-thin convergent focal length optical lens $f$, in terms of the distance $R$ between the optical axis and the intersection point
-The radius with the lens.
+If one wishes to examine in what sense one can speak of a gravitational lens, one can compare the variation of the deflection $\delta$ as a function of $R$, as given by equation (1), with the analogous relation for the deviation produced by a thin converging optical lens of focal length $f$, as a function of the distance $R$ between the optical axis and the point at which the ray intersects the lens.
 
-6. Determine the $\delta(R)$ function for an optical lens when source and image are $p$ and $q$ from the
-The lens and angles are small (i.e. $p, q \gg R$).
+6. Determine the function $\delta(R)$ for an optical lens when the source and the image are at distances $p$ and $q$ from the
+The lens and the angles are small (that is, for $p, q \gg R$).
 
-Now $q = d_A$ and $p = d_B - d_A$, consider the cone formed by light rays that impact the lens
-Gravitational at a distance $R$ from the optical axis.
+Now that $q = d_A$ and $p = d_B - d_A$ have been placed, consider the cone formed by the light rays that strike the gravitational lens at a distance $R$ from the optical axis.
 
-7. It turns out that, limited to the sum of the rays of this cone, the gravitational lensing equals a
-a lens with a focal length $F$ dependent on the parameter $R$ (as well as other constants) and
-the expression $F(R)$. A sketch shows the different behavior of a gravitational lens.
-compared to an optical lens, tracing  in both cases  three rays relative to three cones with $R = r, 2r, 3r$.
-8. In the particular case where galaxy B can be considered at infinite distance, show that for
-The H-Observer, the light from that galaxy appears to come from a ring-shaped source, located at
-distance $D$ from H: determine that distance in terms of $d_A$.
+7. Prove that, restricted to the set of rays of this cone, the gravitational lens is equivalent to a
+An optical lens with a focal length $F$ that depends on the parameter $R$ (as well as on the other constants), and find the expression for $F(R)$. Using a sketch, illustrate the different behavior of a gravitational lens compared with an optical lens, drawing—in both cases—three rays corresponding to three cones with $R = r, 2r, 3r$. 8. In the particular case where galaxy B can be regarded as being at infinite distance, show that, for observer H, the light from that galaxy appears to come from a ring-shaped source located at a distance $D$ from H: determine this distance in terms of $d_A$.
 
-♪ Some physical constants ♪
+### Some Physical Constants
 
-Rounded values with a relative error of $10^{-5}$ to be considered accurate
+Rounded values with a relative error less than $10^{-5}$ shall be regarded as exact.
 
-♪ And I'm going to tell you ♪
+| CONSTANT | SYMBOL | VALUE | UNIT |
 |---|---|---|---|
-| Velocità della luce nel vuoto | $c$ | $2.9979 \times 10^{8}$ | $\text{m}\ \text{s}^{-1}$ |
-| Carica elementare | $e$ | $1.60218 \times 10^{-19}$ | C |
-| Massa dell'elettrone | $m_e$ | $9.1094 \times 10^{-31}$ | kg |
+| Speed of light in vacuum | $c$ | $2.9979 \times 10^{8}$ | $\text{m}\ \text{s}^{-1}$ |
+| Elementary charge | $e$ | $1.60218 \times 10^{-19}$ | C |
+| Electron mass | $m_e$ | $9.1094 \times 10^{-31}$ | kg |
 | | | $= 5.1100 \times 10^{2}$ | $\text{keV}\ c^{-2}$ |
-| Massa del protone | $m_p$ | $1.67262 \times 10^{-27}$ | kg |
+| Proton mass | $m_p$ | $1.67262 \times 10^{-27}$ | kg |
 | | | $= 9.3827 \times 10^{2}$ | $\text{MeV}\ c^{-2}$ |
-| Massa del neutrone | $m_n$ | $1.67493 \times 10^{-27}$ | kg |
+| Neutron mass | $m_n$ | $1.67493 \times 10^{-27}$ | kg |
 | | | $= 9.3955 \times 10^{2}$ | $\text{MeV}\ c^{-2}$ |
-| Costante dielettrica del vuoto | $\epsilon_0$ | $8.8542 \times 10^{-12}$ | $\text{F}\ \text{m}^{-1}$ |
-| Permeabilità magnetica del vuoto | $\mu_0$ | $1.25664 \times 10^{-6}$ | $\text{H}\ \text{m}^{-1}$ |
-| Costante di Planck | $h$ | $6.6261 \times 10^{-34}$ | J s |
-| Costante universale dei gas | $R$ | $8.3145$ | $\text{J}\ \text{mol}^{-1}\ \text{K}^{-1}$ |
-| Costante di Avogadro | $N$ | $6.0221 \times 10^{23}$ | $\text{mol}^{-1}$ |
-| Costante di Boltzmann | $k$ | $1.38065 \times 10^{-23}$ | $\text{J}\ \text{K}^{-1}$ |
-| Costante di Faraday | $F$ | $9.6485 \times 10^{4}$ | $\text{C}\ \text{mol}^{-1}$ |
-| Costante di Stefan–Boltzmann | $\sigma$ | $5.6704 \times 10^{-8}$ | $\text{W}\ \text{m}^{-2}\ \text{K}^{-4}$ |
-| Costante gravitazionale | $G$ | $6.674 \times 10^{-11}$ | $\text{m}^3\ \text{kg}^{-1}\ \text{s}^{-2}$ |
-| Pressione atmosferica standard | $p_0$ | $1.01325 \times 10^{5}$ | Pa |
-| Temperatura standard ($0\ ^\circ\text{C}$) | $T_0$ | $273.15$ | K |
-| Volume molare di un gas perfetto in condizioni standard ($p_0, T_0$) | $V_m$ | $2.2414 \times 10^{-2}$ | $\text{m}^3\ \text{mol}^{-1}$ |
-| Unità di massa atomica | $u$ | $1.66054 \times 10^{-27}$ | kg |
+| Vacuum permittivity | $\epsilon_0$ | $8.8542 \times 10^{-12}$ | $\text{F}\ \text{m}^{-1}$ |
+| Vacuum permeability | $\mu_0$ | $1.25664 \times 10^{-6}$ | $\text{H}\ \text{m}^{-1}$ |
+| Planck constant | $h$ | $6.6261 \times 10^{-34}$ | J s |
+| Universal gas constant | $R$ | $8.3145$ | $\text{J}\ \text{mol}^{-1}\ \text{K}^{-1}$ |
+| Avogadro constant | $N$ | $6.0221 \times 10^{23}$ | $\text{mol}^{-1}$ |
+| Boltzmann constant | $k$ | $1.38065 \times 10^{-23}$ | $\text{J}\ \text{K}^{-1}$ |
+| Faraday constant | $F$ | $9.6485 \times 10^{4}$ | $\text{C}\ \text{mol}^{-1}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.6704 \times 10^{-8}$ | $\text{W}\ \text{m}^{-2}\ \text{K}^{-4}$ |
+| Gravitational constant | $G$ | $6.674 \times 10^{-11}$ | $\text{m}^3\ \text{kg}^{-1}\ \text{s}^{-2}$ |
+| Standard atmospheric pressure | $p_0$ | $1.01325 \times 10^{5}$ | Pa |
+| Standard temperature ($0\ ^\circ\text{C}$) | $T_0$ | $273.15$ | K |
+| Molar volume of an ideal gas under standard conditions ($p_0, T_0$) | $V_m$ | $2.2414 \times 10^{-2}$ | $\text{m}^3\ \text{mol}^{-1}$ |
+| Atomic mass unit | $u$ | $1.66054 \times 10^{-27}$ | kg |
 
-Other data that may be necessary
+Other data that may be required
 
-Rounded values with a relative error less than $10^{-5}$ to be considered accurate.
-For simplicity  unless explicitly stated  these data, when referring to a specific temperature,
-The use of these devices can be done at other temperatures without significant errors.
+Rounded values with a relative error less than $10^{-5}$ shall be regarded as exact. For simplicity—unless explicitly stated otherwise—when these data refer to a specific temperature, they may also be used at other temperatures without significant errors.
 
-♪ And I'm going to be a big fan of the show ♪
+| | SYMBOL | VALUE | UNIT |
 |---|---|---|---|
-| Accelerazione media di gravità | $g$ | $9.8067$ | $\text{m}\ \text{s}^{-2}$ |
-| Densità dell'acqua (a $4\ ^\circ\text{C}$) | $\rho_a$ | $1.000 \times 10^{3}$ | $\text{kg}\ \text{m}^{-3}$ |
-| Calore specifico dell'acqua (a $20\ ^\circ\text{C}$) | $c_a$ | $4.182 \times 10^{3}$ | $\text{J}\ \text{kg}^{-1}\ \text{K}^{-1}$ |
-| Calore di fusione dell'acqua | $\lambda_f$ | $3.335 \times 10^{5}$ | $\text{J}\ \text{kg}^{-1}$ |
-| Calore di vaporizzazione dell'acqua (a $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.257 \times 10^{6}$ | $\text{J}\ \text{kg}^{-1}$ |
+| Average acceleration due to gravity | $g$ | $9.8067$ | $\text{m}\ \text{s}^{-2}$ |
+| Density of water (at $4\ ^\circ\text{C}$) | $\rho_a$ | $1.000 \times 10^{3}$ | $\text{kg}\ \text{m}^{-3}$ |
+| Specific heat of water (at $20\ ^\circ\text{C}$) | $c_a$ | $4.182 \times 10^{3}$ | $\text{J}\ \text{kg}^{-1}\ \text{K}^{-1}$ |
+| Heat of fusion of water | $\lambda_f$ | $3.335 \times 10^{5}$ | $\text{J}\ \text{kg}^{-1}$ |
+| Heat of vaporization of water (at $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.257 \times 10^{6}$ | $\text{J}\ \text{kg}^{-1}$ |
 
 <!--fig:start-->
-**p.6** — Geometria lente gravitazionale e anello
+**p.6** — Geometry of Gravitational Lensing and the Ring
 ![[_attachments/Naz17T/Naz17T_p6_f3.png]]
 <!--fig:end-->
 
@@ -547,3 +504,4 @@ The use of these devices can be done at other temperatures without significant e
 **Objects:** [[Star (object)|Star]], [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12KyOqQraYgwIOMistNULd0l0emhEpgCY/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AQkZCZv4MOgmw9lkaMVofEiCpd_6gEhM/view)
+

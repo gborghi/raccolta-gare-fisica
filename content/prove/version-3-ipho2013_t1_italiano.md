@@ -172,148 +172,148 @@ Calcola $v_{\text{imp}}^{\max}$, il valore massimo possibile di $v_{\text{imp}}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Il Meteorite Maribo**
+The Maribo Meteorite
 
-♪ ♪ The first one ♪
+### Introduction
 
-A meteorite is a small particle (typically less than 1 m in size) from a comet or asteroid. When a meteorite falls to the ground, it's called a meteorite.
+A meteoroid is a small particle (typically less than 1 m in size) originating from a comet or an asteroid. When a meteoroid falls to the ground, it is called a meteorite.
 
-On the night of January 17, 2009, many people near the Baltic Sea saw a bright trace or a fireball attributed to a meteorite falling into the Earth's atmosphere. In Sweden, a surveillance camera recorded a video of the event, some frames of which are reproduced in Figure 1.1 (a).
+On the night of January 17, 2009, many people near the Baltic Sea saw a bright trail or a fireball attributed to a meteoroid falling into Earth's atmosphere. In Sweden, a surveillance camera recorded a video of the event; some frames from it are shown in Figure 1.1(a).
 
-From these footage and eyewitness accounts, it was possible to narrow down the possible impact area and six weeks later a meteorite of $0{.}025\ \text{kg}$ mass was detected near the town of Maribo in southern Denmark. Measurements of the meteorite, now called Maribo, and its orbit in the sky yielded interesting results. Its velocity at atmospheric entry was extremely high. La sua età, $4{.}4 \times 10^{9}\ \text{anni}$, mostra che si formò poco dopo la nascita del sistema solare. The meteorite Maribo could be part of the comet Encke.
+From these frames and from the eyewitness accounts, it was possible to narrow down the possible impact zone, and six weeks later a meteorite with a mass of $0{.}025\ \text{kg}$ was found near the town of Maribo in southern Denmark. Measurements taken on the meteorite—now called Maribo—and on its orbit across the sky yielded interesting results. Its velocity upon entry into the atmosphere was found to be extremely high. Its age, $4{.}4 \times 10^{9}\ \text{anni}$, indicates that it formed shortly after the birth of the Solar System. The Maribo meteorite could be part of Comet Encke.
 
 ---
 
-♪ The speed of Maribo ♪
+### The Speed of Maribo
 
-The fireball moved about westward, more precisely along a path that formed an angle of $285°$ relative to the north, towards the place where the meteorite was later found, as outlined in Figure 1.1. The meteorite was detected at a distance of $195\ \text{km}$ from the surveillance camera in the direction $230°$ with respect to the north.
+The fireball was moving roughly in a westerly direction—more precisely, along a path that formed an angle of $285°$ with north—toward the location where the meteorite was later found, as schematically illustrated in Figure 1.1. The meteorite was located at a distance of $195\ \text{km}$ from the surveillance camera in the direction of $230°$ relative to north.
 
-Data from Fig. 1.1(b)  azimuth = angular position from north to clockwise in the horizontal plane; altitude = angular position on the horizon:
+Data from Fig. 1.1(b) — azimuth = angular position measured from north clockwise in the horizontal plane; altitude = angular position on the horizon:
 
-♪ The time is now ♪ ♪ The time is now ♪
+| Frame | Time | Azimuth | Altitude |
 |---|---|---|---|
 | 155 | $1{.}46\ \text{s}$ | $215°$ | $19{.}2°$ |
 | 161 | $2{.}28\ \text{s}$ | $221°$ | $14{.}7°$ |
-| Atterraggio a M | — | $230°$ | $0{.}0°$ |
+| Landing at M | — | $230°$ | $0{.}0°$ |
 
-**Domanda 1.1** *(1.3 punti)*
+**Question 1.1** *(1.3 points)*
 
-On the basis of the above and using the data provided in Fig. 1.1, calculates the average Maribo speed in the range between frames 155 and 161. It tracks the curvature of the Earth and the gravitational pull on the meteorite.
+Based on what has been said above and using the data provided in Fig. 1.1, calculate Maribo's average velocity in the interval between frames 155 and 161. Ignore the curvature of the Earth and the gravitational force acting on the meteoroid.
 
 ---
 
-♪ ♪ The crossing of the atmosphere and the fusion ♪
+### Passage Through the Atmosphere and Fusion
 
-The frictional force of air on the moving meteorite in the outermost part of the atmosphere depends on the shape and velocity of the meteorite and the temperature and density of the atmosphere. With a reasonable approximation the friction force $F$ in this region is given by the formula
+The aerodynamic drag force on the meteoroid moving in the outermost part of the atmosphere depends in a complicated way on the shape and velocity of the meteoroid and on the temperature and density of the atmosphere. To a reasonable approximation, the drag force $F$ in this region is given by the formula
 
 $$F = \frac{1}{2}\,C_D\,\rho_{\text{atm}}\,A\,v^2,$$
 
-where $C_D$ is a dimensionless constant, $\rho_{\text{atm}}$ the atmospheric density, $A$ the transverse section of the meteorite projected in the direction of velocity, and $v$ its velocity.
+where $C_D$ is a dimensionless constant, $\rho_{\text{atm}}$ is the density of the atmosphere, $A$ is the cross-section of the meteorite projected in the direction of its velocity, and $v$ is its velocity.
 
-The following simplifying assumptions are used to analyze the meteorite: the object as it entered the atmosphere was a sphere of mass $m_0 = 0{.}5\ \text{kg}$, radius $r_0 = 0{.}04\ \text{m}$, temperature $T_0 = 300\ \text{K}$ and velocity $v_0 = 3{.}0 \times 10^{4}\ \text{m\,s}^{-1}$. The density of the atmosphere is assumed to be constant (with a value equal to that at an altitude of 40 km above the Earth's surface), $\rho_{\text{atm}} = 3{.}97 \times 10^{-3}\ \text{kg\,m}^{-3}$, and the friction coefficient is $C_D = 1{.}0$.
+To analyze the meteoroid, the following simplifying assumptions shall be made: when it entered the atmosphere, the object was a sphere with mass $m_0 = 0{.}5\ \text{kg}$, radius $r_0 = 0{.}04\ \text{m}$, temperature $T_0 = 300\ \text{K}$, and velocity $v_0 = 3{.}0 \times 10^{4}\ \text{m\,s}^{-1}$. The density of the atmosphere is assumed to be constant (with a value equal to that at an altitude of 40 km above the Earth's surface), $\rho_{\text{atm}} = 3{.}97 \times 10^{-3}\ \text{kg\,m}^{-3}$, and the friction coefficient is $C_D = 1{.}0$.
 
-**Domanda 1.2a** *(0.7 punti)*
+**Question 1.2a** *(0.7 points)*
 
-Find the value of the time interval from the meteorite's entry into the atmosphere to its velocity decrease by 10% from $v_0$ to $0{.}9\,v_0$. It traces the gravitational force of the agent on the meteorite and assumes that it maintains the same mass and shape.
+Find the value of the time interval elapsed since the meteoroid entered the atmosphere, such that its speed decreases by 10% from the value $v_0$ to $0{.}9\,v_0$. Neglect the gravitational force acting on the meteoroid and assume that it retains the same mass and shape.
 
-**Domanda 1.2b** *(0.3 punti)*
+**Question 1.2b** *(0.3 points)*
 
-Calculates how many times the kinetic energy of the meteorite at entrance into the atmosphere $E_k$ is greater than the energy $E_{\text{fus}}$ required to completely melt it (see the numerical data table).
+Calculate how many times the kinetic energy of the meteoroid at atmospheric entry $E_k$ is greater than the energy $E_{\text{fus}}$ required to melt it completely (see the numerical data table).
 
 ---
 
-Maribo's warming up during the fall into the atmosphere
+### The heating of Maribo during atmospheric entry
 
-When the Maribo stone meteorite entered the atmosphere at supersonic speed it appeared as a ball of fire due to the surrounding air glowing. Nevertheless, only the outer layer of Maribo was heated. Assume that Maribo is a homogeneous sphere of density $\rho_m$, specific heat $c_m$ and thermal conductivity $\kappa_m$ (the values are given in the numerical data table). Furthermore, upon entering the atmosphere, it had a temperature of $T_0 = 300\ \text{K}$, while crossing the atmosphere its surface temperature remained constant $T_s = 1500\ \text{K}$ due to friction with air, gradually heating its interior in this way.
+When the stony meteoroid Maribo entered the atmosphere at supersonic speed, it appeared as a fireball due to the incandescent surrounding air. Nevertheless, only the outermost layer of Maribo was heated. Assume that Maribo is a homogeneous sphere with density $\rho_m$, specific heat $c_m$, and thermal conductivity $\kappa_m$ (the values are given in the numerical data table). Furthermore, at entry into the atmosphere, it had a temperature of $T_0 = 300\ \text{K}$, while, as it traversed the atmosphere, its surface temperature remained constant at $T_s = 1500\ \text{K}$ owing to friction with the air, thereby progressively heating its interior.
 
-After falling $t$ into the atmosphere for a time, the outermost layer of Maribo of $d$ thickness will be heated to a temperature significantly higher than $T_0$. This thickness value can be estimated on the basis of a dimensional analysis as a simple product of thermodynamic parameters' powers:
+After falling through the atmosphere for a time $t$, Maribo's outermost layer, with a thickness of $d$, will have been heated to a temperature significantly greater than $T_0$. This value of the thickness can be estimated on the basis of a dimensional analysis as a simple product of powers of the thermodynamic parameters:
 
 $$d \propto \kappa_m^{\,\alpha}\, c_m^{\,\beta}\, \rho_m^{\,\gamma}\, t^{\,\delta}.$$
 
-**Domanda 1.3a** *(0.6 punti)*
+**Question 1.3a** *(0.6 points)*
 
-Determine the value of the four exponents $\alpha$, $\beta$, $\gamma$ and $\delta$ by unit dimensional analysis.
+Determine the values of the four exponents $\alpha$, $\beta$, $\gamma$, and $\delta$ by dimensional analysis of the units.
 
-**Domanda 1.3b** *(0.4 punti)*
+**Question 1.3b** *(0.4 points)*
 
-Calculate the $d$ thickness after a fall time $t = 30\ \text{s}$, and determine the $d/r_0$ ratio.
+Calculate the thickness $d$ after a fall time $t = 30\ \text{s}$, and determine the ratio $d/r_0$.
 
 ---
 
-## The age of a meteorite
+### The Age of a Meteorite
 
-The chemical properties of radioactive elements can be different, so that during the crystallization of minerals of a given meteorite some minerals will have a high content of a specific radioactive element and others a low content. This difference can be used to determine the age of a meteorite by radiometric dating of its radioactive minerals.
+The chemical properties of radioactive elements can differ, so during the crystallization of the minerals of a given meteorite, some minerals will have a high content of a specific radioactive element, while others will have a low content. This difference can be used to determine the age of a meteorite by radiometric dating of its radioactive minerals.
 
-As a specific example, we study the isotope $^{87}_{37}\text{Rb}$ (element n. 37), which decays into the stable isotope $^{87}_{38}\text{Sr}$ (element n. 38), with a half-life of $t_{1/2} = 4{.}88 \times 10^{10}\ \text{anni}$, with respect to the stable isotope $^{86}\text{Sr}$. At the time of crystallization the ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ ratio was the same for all minerals while the ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ ratio was different. Over time, the amount of $^{87}\text{Rb}$ decays by decay while the amount of $^{87}\text{Sr}$ increases as a result. Come risultato oggi il rapporto ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ sarà differente. In Fig. 1.2 (a) points on the horizontal line refer to the ratio ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ in different minerals at the time they crystallize.
+As a specific example, we study the isotope $^{87}_{37}\text{Rb}$ (element no. 37), which decays to the stable isotope $^{87}_{38}\text{Sr}$ (element no. 38) with a half-life of $t_{1/2} = 4{.}88 \times 10^{10}\ \text{anni}$, relative to the stable isotope $^{86}\text{Sr}$. At the time of crystallization, the ratio ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ was the same for all minerals, whereas the ratio ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ was different. Over time, the amount of $^{87}\text{Rb}$ decreases due to decay, and consequently, the amount of $^{87}\text{Sr}$ increases. As a result, today the ratio ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ will be different. In Fig. 1.2(a), the points on the horizontal line refer to the ratio ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ in different minerals at the instant when they crystallized.
 
-**Domanda 1.4a** *(0.3 punti)*
+**Question 1.4a** *(0.3 points)*
 
-Write the decay pattern of ${}^{87}_{37}\text{Rb}$ in ${}^{87}_{38}\text{Sr}$.
+Write the decay scheme of ${}^{87}_{37}\text{Rb}$ into ${}^{87}_{38}\text{Sr}$.
 
-**Domanda 1.4b** *(0.7 punti)*
+**Question 1.4b** *(0.7 points)*
 
-It shows that the ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ present-time ratio graph, expressed as a function of the ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ present-time ratio for samples of different minerals but from the same meteorite, is a straight line, the so-called **isocron line**, with slope
+Show that the graph of the ratio ${}^{87}\text{Sr}/{}^{86}\text{Sr}$ at the present time, plotted against the ratio ${}^{87}\text{Rb}/{}^{86}\text{Sr}$ at the present time, for different mineral samples but from the same meteorite, is a straight line—the so-called **isochron line**—with slope
 
 $$s(t) = e^{\lambda t} - 1.$$
 
-Here $t$ is the time elapsed from the formation of the minerals while $\lambda$ is the decay constant inversely proportional to the half-life $t_{1/2}$.
+Here, $t$ is the time elapsed since the formation of the minerals, while $\lambda$ is the decay constant inversely proportional to the half-life $t_{1/2}$.
 
-**Domanda 1.4c** *(0.4 punti)*
+**Question 1.4c** *(0.4 points)*
 
-Determine the age of the meteorite $t_0$ using the Fig isocron line. 1.2(b).
-
----
-
-The comet Encke, from which Maribo may have come
-
-In its orbit around the Sun, the minimum and maximum distances between comet Encke and the Sun are $r_{\min} = 0{.}3140\ \text{AU}$ and $r_{\max} = 4{.}429\ \text{AU}$ respectively.
-
-**Domanda 1.5** *(0.6 punti)*
-
-Calcola il periodo orbitale $T_{\text{Encke}}$ della cometa Encke.
+Determine the age $t_0$ of the meteorite using the isochron in Fig. 1.2(b).
 
 ---
 
-## # Consequences of an asteroid impact on Earth
+### Encke's Comet, from which Maribo may originate
 
-65 milioni di anni fa la Terra fu colpita da un enorme asteroide con densità $\rho_a = 2500\ \text{kg\,m}^{-3}$, raggio $r_a = 5{.}0\ \text{km}$ e velocità finale $v_a = 7{.}4 \times 10^{4}\ \text{m\,s}^{-1}$. This impact resulted in the disappearance of many living forms on Earth and the formation of the enormous Chicxulub Crater. Assume that an identical asteroid hits Earth today in a completely ring-shaped impact and uses the fact that Earth's moment of inertia is $0.83$ times that of a homogeneous sphere of the same mass and radius. The moment of inertia of a sphere of homogeneous mass $M$ and radius $R$ is $\tfrac{2}{5}MR^2$. It tracks every change in Earth's orbit.
+In its orbit around the Sun, the minimum and maximum distances between Comet Encke and the Sun are $r_{\min} = 0{.}3140\ \text{AU}$ and $r_{\max} = 4{.}429\ \text{AU}$, respectively.
 
-**Domanda 1.6a** *(0.7 punti)*
+**Question 1.5** *(0.6 points)*
 
-Suppose the asteroid hits the North Pole. Find the maximum change in the angular orientation $\Delta\theta$ of the Earth's axis after impact.
-
-**Domanda 1.6b** *(0.7 punti)*
-
-Suppose the asteroid hits the equator with a radial impact. Find the $\Delta T$ change in the duration of an Earth revolution after impact.
-
-**Domanda 1.6c** *(0.7 punti)*
-
-Suppose the asteroid hits the equator with a tangential impact in the equatorial plane. Find the $\Delta T$ change in the duration of an Earth revolution after impact.
+Calculate the orbital period $T_{\text{Encke}}$ of Comet Encke.
 
 ---
 
-Maximum impact speed
+### Consequences of an Asteroid Impact with Earth
 
-It considers a celestial body, gravitationally bound to the solar system, hitting the Earth's surface at a speed of $v_{\text{imp}}$. Initially, the effect of the Earth's gravitational field on the body can be overlooked. It traces friction with the atmosphere, the effect of other celestial bodies, and the rotation of the Earth.
+65 million years ago, Earth was struck by an enormous asteroid with density $\rho_a = 2500\ \text{kg\,m}^{-3}$, radius $r_a = 5{.}0\ \text{km}$, and final velocity $v_a = 7{.}4 \times 10^{4}\ \text{m\,s}^{-1}$. This impact caused the disappearance of many forms of life on Earth and the formation of the enormous Chicxulub Crater. Assume that an identical asteroid strikes Earth today in a completely inelastic collision, and use the fact that Earth's moment of inertia is $0.83$ times that of a homogeneous sphere with the same mass and radius. The moment of inertia of a homogeneous sphere with mass $M$ and radius $R$ is $\tfrac{2}{5}MR^2$. Neglect any change in Earth's orbit.
 
-**Domanda 1.7** *(1.6 punti)*
+**Question 1.6a** *(0.7 points)*
+
+Suppose the asteroid strikes the North Pole. Find the maximum change in the angular orientation $\Delta\theta$ of the Earth's axis after the impact.
+
+**Question 1.6b** *(0.7 points)*
+
+Suppose the asteroid strikes the Equator with a radial impact. Find the change $\Delta T$ in the duration of one revolution of the Earth after the impact.
+
+**Question 1.6c** *(0.7 points)*
+
+Suppose the asteroid strikes the Equator with a tangential impact in the equatorial plane. Find the change $\Delta T$ in the duration of one revolution of the Earth after the impact.
+
+---
+
+### Maximum impact velocity
+
+Consider a celestial body gravitationally bound to the Solar System that strikes the Earth's surface with velocity $v_{\text{imp}}$. Initially, the effect of the Earth's gravitational field on the body can be neglected. Neglect friction with the atmosphere, the effect of other celestial bodies, and the Earth's rotation.
+
+**Question 1.7** *(1.6 points)*
 
 Calculate $v_{\text{imp}}^{\max}$, the maximum possible value of $v_{\text{imp}}$.
 
 ---
 
 <!--fig:start-->
-**p.2** — Fotogrammi della palla di fuoco nel cielo
+**p.2** — Frames of the fireball in the sky
 ![[_attachments/Version 3 IPhO2013_T1_Italiano/Version 3 IPhO2013_T1_Italiano_p2_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Mappa Copenaghen-Maribo con azimut
+**p.2** — Copenhagen-Maribo Map with Azimuth
 ![[_attachments/Version 3 IPhO2013_T1_Italiano/Version 3 IPhO2013_T1_Italiano_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Figura 1.2 isocrone datazione del meteorite
+**p.3** — Figure 1.2: isochron dating of the meteorite
 ![[_attachments/Version 3 IPhO2013_T1_Italiano/Version 3 IPhO2013_T1_Italiano_p3_f3.png]]
 <!--fig:end-->
 
@@ -323,3 +323,4 @@ Calculate $v_{\text{imp}}^{\max}$, the maximum possible value of $v_{\text{imp}}
 **Objects:** [[Projectile (object)|Projectile]], [[Planet (object)|Planet]], [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1wPOOx_-WER4HgwqaflTJSJpxA6AawCrq/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
+

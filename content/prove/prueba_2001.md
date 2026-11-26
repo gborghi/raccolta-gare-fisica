@@ -148,69 +148,40 @@ n
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: The toxotic fish in action
+PROBLEM 1: The Toxotes jaculator fish in action
 
-The archery spider (jaculator toxotes) is a very particular specimen of the icticola fauna.
-Get your food by hunting insects (flies, mosquitoes or other insects of the same size)
-In a very curious way. The fish, once it identified its prey (held
-sobre una hoja, por ejemplo), le escupe una gota de agua de masa $m$, que hace que el
-The insect falls into the water, where it is eaten.
+The "archerfish" (Toxotes jaculator) is a very peculiar specimen of the fish fauna. It obtains its food by hunting insects (flies, mosquitoes, or other similarly sized insects) in a very curious way. Once the fish has identified its prey (for example, prey resting on a leaf), it spits a drop of water with mass $m$ at the prey, causing the insect to fall into the water, where the fish eats it.
 
-(a) The position of the insect image, seen by the fish, is above normal n (see figure).
-Calculate the angle $\theta_0$ between the normal to the surface and the OM straight passing through the point
-Or the M image of the insect .
+a) The position of the image of the insect as seen by the fish lies on the normal n (see figure).
+Calculate the angle $\theta_0$ between the normal to the surface and the line OM’ passing through point O and the image M’ of the insect.
 
-(b) Calculate the height $h_i$ with respect to the water level, at which the Mdel image is located
-insect, if this is at a height $h=1\ \text{m}$.
+b) Calculate the height $h_i$ above the water level at which the image M’ of the is located
+insect, if it is at a height of $h=1\ \text{m}$.
 
-(c) Calculate the percentage variation of $h_i$ if $\theta$ varies from $0^\circ$ to $20^\circ$. Use only one number
-It is a very important tool to express your result.
+c) Calculate the percentage change in $h_i$ if $\theta$ varies from $0^\circ$ to $20^\circ$. Use only one digit.
+Significative to express its result.
 
-(d) The archer fish always tosses the drops at the same initial speed. If the maximum height
-The droplet rate is $H=3\ \text{m}$, calculate the speed $v_0$ at which the drops are dropped
-(disregard the braking of the drops because of the viscosity of the air).
+d) The archerfish always launches the droplets with the same initial speed. If the maximum height
+The distance that the drops can reach is $H=3\ \text{m}$; calculate the speed $v_0$ at which the drops are launched (neglect the deceleration of the drops due to the viscosity of the air).
 
-A better approach to solving point (d) is to consider the effect of the force on the
-rub the drops with air:
+A better approach for solving part d) is to consider the effect of the frictional force between the droplets and the air:
 
-(e) Consider that the viscous force of the drop with air is $F_r$. This force
-It always points in the opposite direction to the motion. When the value of $F_r$ is
-much less than $P$ (where $P$ is the weight of the drop) the effect of the brushing force, from
-If the drop comes out until it stops at the highest point of the trajectory, you can
-Consider as a constant brushing force given by $F_r = c\,v_0/2$ where $v_0$ is the
-the initial velocity of the droplet. Calculate the value of $v_0$.
+e) Assume that the viscous frictional force of the droplet with the air is $F_r$. This force
+It always points in the direction opposite to the direction of motion. When the value of $F_r$ is much smaller than $P$ (where $P$ is the weight of the drop), the effect of the frictional force, from the moment the drop leaves until it comes to rest at the highest point of the trajectory, can be regarded as a constant frictional force given by $F_r = c\,v_0/2$, where $v_0$ is the initial velocity of the drop. Calculate the value of $v_0$.
 
-The data:
+Data:
 
-Acceleration of gravity:
-$g = 10\ \text{m/s}^2$
+Acceleration due to gravity: $g = 10\ \text{m/s}^2$
 
-Water refractive index:
-$n_\text{agua} = 1.33$
-Air refractive index:
-$n_\text{aire} = 1$
+Refractive index of water: $n_\text{agua} = 1.33$ Refractive index of air: $n_\text{aire} = 1$
 
-$H = 3\ \text{m}$ ;
-$m = 6.5\times10^{-2}\ \text{g}$ ;
-$c = 8.2\times10^{-6}\ \text{kg/s}$ ;
-$\theta = 15^\circ$.
-O
-M’
-M
-h
-$\theta_0$
-$\theta$
-- What 's the matter ?
-The graph is not made on scale
-n
+$H = 3\ \text{m}$ ; $m = 6.5\times10^{-2}\ \text{g}$ ; $c = 8.2\times10^{-6}\ \text{kg/s}$ ; $\theta = 15^\circ$. O M’ M h $\theta_0$ $\theta$ ATTENTION: The diagram is not drawn to scale n
 
 **Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BMpfq4DS_9qyDwWlthPqkkjqDoDUa08z/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2001 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/rope-string,object/pulley"></span>
 

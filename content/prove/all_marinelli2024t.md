@@ -375,16 +375,16 @@ Unità di misura: °. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Semicilindro di vetro**
+Glass semicylinder
 
-A glass semicircular beam $r=5.0\,\text{cm}$ with a refractive index $n=1.52$ shall be supported with one of its semicircular faces on a plane. The center of the face is anchored to a point of the plane and cannot move; however, the semicircular is free to rotate at any angle around its axis, as shown in Figure 1. A laser beam, radiating to the plane, is pointed toward the center of the face. By rotating the semicylinder, the beam out of it changes direction. However, it is noted that, regardless of the direction of the semicircular, the direction of the outgoing beam is never contained within a certain angle $\beta$ with a vertex in the axis. Quanto vale $\beta$?
+A glass semicylinder with radius $r=5.0\,\text{cm}$ and refractive index $n=1.52$ rests with one of its semicircular faces on a plane. The center of the face is hinged to a point on the plane and cannot move; however, the semicylinder is free to rotate through any angle about its own axis, as shown in the figure. A laser beam, grazing the plane, is directed toward the center of the face. By rotating the semicylinder, the direction of the beam emerging from it changes. It is observed, however, that regardless of how the semicylinder is oriented, the direction of the emerging beam is never contained within a certain angle $\beta$ having its vertex at the axis. What is the value of $\beta$?
 
 
-The unit of measurement: °. Precision required: 0.5%.
+Unit of measurement: °. Required precision: 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_marinelli2024t/all_marinelli2024t_p4_f5.png]]
-*half-cylinder glass with alpha angle *
+*glass semicylinder with alpha angle*
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -393,8 +393,6 @@ The unit of measurement: °. Precision required: 0.5%.
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1EJFT8hzYV_nJIPsGRLXj5mgZ_Ay1lKTv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-o-xoIN6r-7UStD3zsEfFEL11-QslvVK/view)
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="GaS 2024 Allenamento Online — Problema 10" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/geometric-optics,argomento/meccanica"></span>
 

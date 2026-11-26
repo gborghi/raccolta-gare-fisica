@@ -80,11 +80,11 @@ Da un ponte situato a $4.75\ \mathrm{m}$ sopra il livello del mare, Luca lascia 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Canestro!**
+Basket!
 
-From a bridge located at $4.75\ \mathrm{m}$ above sea level, Luke drops a ball, without impressing any initial speed. A basketball basket is fixed on a boat moving at a constant speed of $50\ \mathrm{km/h}$ and is placed at $3.75\ \mathrm{m}$ above sea level. At the moment Luke drops the ball, the horizontal distance between the basket and the vertical of the release point is $d$. Sapendo che la palla entra nel canestro, quanto vale $d$?
+From a bridge located at $4.75\ \mathrm{m}$ above sea level, Luca drops a ball without imparting any initial velocity to it. A basketball hoop is fixed to a boat moving at a constant speed of $50\ \mathrm{km/h}$ and is positioned at $3.75\ \mathrm{m}$ above sea level. At the moment Luca drops the ball, the horizontal distance between the hoop and the vertical line through the release point is $d$. Given that the ball goes into the hoop, what is the value of $d$?
 
-**Unità di misura:** m. **Precisione richiesta:** 0.5%.
+**Unit of measurement:** m. **Required precision:** 0.5%.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -92,8 +92,6 @@ From a bridge located at $4.75\ \mathrm{m}$ above sea level, Luke drops a ball, 
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1m5yyGcN3l8qPP3VGPX8AszsuYlWWQheD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="GaS 2026 Locale Squadre — Problema 3" data-tags="nazione/italia,tipo-gara/squadre,livello/locale,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/tank-container"></span>
 
@@ -678,13 +676,13 @@ Sei cariche puntiformi, tre positive e tre negative, tutte di uguale modulo $q$,
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Eight-header of loads**
+Charge Octahedron
 
-Six point-shaped charges, three positive and three negative, all of the same $q$ form, are placed on the vertices of a regular octahedron. Al variare della disposizione delle cariche sui vertici, determina il rapporto $U_\mathrm{max}/U_\mathrm{min}$ tra l'energia potenziale elettrica massima possibile e quella minima possibile del sistema.
+Six point charges—three positive and three negative—all with the same magnitude $q$, are placed at the vertices of a regular octahedron. As the arrangement of the charges at the vertices varies, determine the ratio $U_\mathrm{max}/U_\mathrm{min}$ between the maximum possible electric potential energy of the system and its minimum possible electric potential energy.
 
-*Good note: this is an octahedron (3D), not an octagon (2D).*
+*Note well: this refers to an octahedron (3D), not an octagon (2D).*
 
-**Unità di misura:** adimensionale. **Precisione richiesta:** 0.5%.
+**Unit of measurement:** dimensionless. **Required precision:** 0.5%.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Electric Potential Method (metodo)|Electric Potential Method]]
@@ -692,8 +690,6 @@ Six point-shaped charges, three positive and three negative, all of the same $q$
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1m5yyGcN3l8qPP3VGPX8AszsuYlWWQheD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="GaS 2026 Locale Squadre — Problema 14" data-tags="nazione/italia,tipo-gara/squadre,livello/locale,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/conducting-sphere"></span>
 

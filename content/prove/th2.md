@@ -111,45 +111,29 @@ accettato a causa di errori sistematici di osservazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Theoretical Problem No. 2**
+Theoretical N. 2
 
 Theoretical Problem No. 2
-(a) A cathode ray tube (CRT), consisting of an electron gun and a screen, is immersed in a uniform and constant magnetic field B. The axis of the beam is parallel to the field lines as shown in figure 2.1.
-The electron beam produced at the anode is aligned with the axis but can spread out up to a
-maximum of 5 from the axis, as shown in figure 2.2. On the screen, in general, a diffuse spot is produced but, for certain values of the magnetic field, a well-focused point is obtained.
-Consider the motion of an electron that, having left the electron gun, initially moves at an angle with respect to the axis (where 5 ) and consider the components of the motion parallel and perpendicular to the axis: derive an expression for the charge-to-mass ratio e/m for the electron as a function of the following quantities:
+(a) A cathode ray tube (CRT), consisting of an electron gun and a screen, is
+Immersed in a uniform and constant magnetic field B. The beam axis is parallel to the field lines, as shown in Figure 2.1. The electron beam produced at the anode is aligned with the axis but can spread out to a maximum of 5 from the axis, as shown in Figure 2.2. On the screen, a diffuse spot is generally produced, but for certain values of the magnetic field, a well-focused spot is obtained. Consider the motion of an electron that, after leaving the electron gun, initially moves at an angle relative to the axis (where 5 ), and consider the components of the motion parallel and perpendicular to the axis: derive an expression for the charge-to-mass ratio e/m of the electron in terms of the following quantities:
 
-the minimum value of B for which the electrons are well focused into a point;
+the minimum value of B for which the electrons are well focused at a point;
 
-the potential difference that accelerates the electrons, V (keep in mind that V < 2 kV)
+The potential difference that accelerates the electrons, V (keep in mind that V < 2 kV)
 
-the distance D between the anode and the screen.
-Write the result in section 2a of the answer sheet.
-(b) Consider this other method for evaluating the charge-to-mass ratio of the electron. The experimental setup is schematized in figure 2.3, where it can be seen both from the side and in plan (view from above). The direction and sense of the uniform magnetic field B are also indicated in the figure. Inside this uniform magnetic field are placed two flat circular brass plates of radius The distance between the plates, t, is very small.
-The plates are parallel and coaxial, with the axis perpendicular to the magnetic field. A photographic film is placed on the inner surface of a cylinder of radius + s, coaxial with the plates. In other words, the film is placed at distance s from the edge of the plates. The entire device is in vacuum. The value of the distance t between the plates is much smaller than both the radius and the distance s.
-A point source of particles that emits the particles uniformly in every direction with speeds within a certain interval is placed halfway between the centers of the plates. A single photographic film is impressed in three different situations:
-situation No. 1
-B = 0 and V = 0, situation No. 2
-B= B0 and V = V0, situation No. 3
-B = -B0 and V = -V0;
-where V0 and B0 are positive constants.
-NOTE: the upper plate is charged positively when V>0 and negatively when
-V<0; il verso del campo magnetico B è quello mostrato nella figura 2.3 quando B>0 and the opposite when B<0.
-For this part the distance between the plates is extremely small.
+The distance D between the anode and the screen. Transfer the result to section 2a of the answer sheet.
+(b) Consider this other method for evaluating the charge-to-mass ratio of the electron. The
+The experimental arrangement is shown schematically in Figure 2.3, where it is seen both in side view and in plan view (from above). The direction and sense of the uniform magnetic field B are also indicated in the figure. Inside this uniform magnetic field, two flat brass circular plates of radius R are placed. The distance between the plates, t, is very small. The plates are parallel and coaxial, with their axis perpendicular to the magnetic field. A photographic film is placed on the inner surface of a cylinder of radius R + s, coaxial with the plates. In other words, the film is placed at a distance s from the edge of the plates. The entire device is in a vacuum. The value of the distance t between the plates is much smaller than both the radius and the distance s. A point source of particles, which emits particles uniformly in all directions with velocities within a certain range, is located halfway between the centers of the plates. The same photographic film is exposed in three different situations: Situation No. 1: B = 0 and V = 0; Situation No. 2: B = B0 and V = V0; Situation No. 3: B = -B0 and V = -V0, where V0 and B0 are positive constants. NOTE: the upper plate is charged positively when V > 0 and negatively when V < 0; the sense of the magnetic field B is that shown in Figure 2.3 when B > 0 and the opposite sense when B < 0. For this part, the distance between the electrodes is extremely small.
 
-Figure 2.3 also shows two portions of the photographic film marked as regions A and B. After exposure and development of the film, for only one of these two regions a photograph similar to the diagram in figure 2.4 is obtained.
-On the answer sheet, at point 2b, state to which region (A or B) the developed film belongs. Justify the answer by showing the directions of the forces acting on the electron.
-(c) After exposure and development of the film, an image like the one schematized in figure 2.4 is obtained. With the microscope, measurements were made of the distance of the two outer tracks (y, in figure 2.4, represents the distance between the tracks for a particular value of the angle ). The result of the measurements is reported in the table below; the angle is defined (see figure 2.3) as the angle between the magnetic field and the line joining the center of the plates to the point impressed on the photographic film.
-Angle to field/degrees = angle with the magnetic field (in degrees)
-Separation/mm = distance between the tracks (in millimeters)
-End of trace = end of the trace
-The numerical values of the system parameters are given below:
-B0 = 6.91 mT
-V0 = 580 V t = 0.80 mm s = 41.0 mm
-Furthermore, recall that the speed of light in vacuum is 3.00 $\times$ 108 m s-1, and the rest mass of the electron is 9.11 $\times$ 10-31 kg.
-Determine the maximum value of the kinetic energy observed for the particles .
-Write on the answer sheet, section 2c, the maximum value of the kinetic energy expressed in eV.
-(c) Using the information given in part c, derive the value of the charge-to-mass ratio of the electron. This must be done by plotting an adequate number of points on the graph paper provided.
-Indicate by means of an algebraic expression the quantities that have been plotted on the horizontal and vertical axes of the graph and transcribe them onto the answer sheet in section 2d.
-Write the obtained value of the charge-to-mass ratio of the electron on the answer sheet in section 2d.
-Keep in mind that the answer you have obtained may differ from the commonly accepted value because of systematic observation errors.
+In Figure 2.3, two sections of the photographic film marked as regions A and B are also indicated. After exposing and developing the film, for only one of these two regions is a photograph obtained that is similar to the diagram in Figure 2.4. On the answer sheet, at point 2b, state to which region (A or B) the developed film belongs. Justify your answer by showing the directions of the forces acting on the electron.
+(c) After exposing and developing the film, an image like that is obtained.
+Schematized in Figure 2.4. Using the microscope, measurements were taken of the distance between the two outer tracks (in Figure 2.4, y represents the distance between the tracks for a particular value of the angle). The results of the measurements are given in the table below; the angle is defined—see Figure 2.3—as the angle between the magnetic field and the line joining the center of the plates to the point imprinted on the photographic film. Angle to field/degrees = angle with the magnetic field (in degrees) Separation/mm = distance between the tracks (in millimetres) End of trace = end of the track The numerical values of the system parameters are given below: B0 = 6.91 mT V0 = 580 V t = 0.80 mm s = 41.0 mm In addition, it is recalled that the speed of light in a vacuum is 3.00 $\times$ 108 m s-1, and the rest mass of the electron is 9.11 $\times$ 10-31 kg. Determine the maximum value of the kinetic energy observed for the particles. On the answers sheet, section 2c, write the maximum value of the kinetic energy expressed in eV.
+(c) Using the information given in part c, determine the value of the charge-to-mass ratio.
+of the electron. This must be done by plotting an appropriate number of points on the graph on the provided paper. Indicate, by means of an algebraic expression, the quantities that have been plotted on the horizontal and vertical axes of the graph, and transfer them to the answer sheet in section 2d. Write the obtained value of the electron's charge-to-mass ratio on the answer sheet in section 2d. Keep in mind that the answer you have obtained may differ from the commonly accepted value due to systematic observational errors.
+
+**Topic:** [[Magnetism]], [[Electromagnetism]], [[Conservation of Energy]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Electron (object)|Electron]], [[Screen (object)|Screen]], [[Particle Beam (object)|Particle Beam]], [[Capacitor (object)|Capacitor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10JxJjfJmlyZ_ZiVdzW0gsef-04I35Yfw/view)
+

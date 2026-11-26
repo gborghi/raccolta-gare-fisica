@@ -2771,60 +2771,20 @@ Scegli almeno due finali alternativi della storia narrata.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of aircraft and their trains used:
+**Deaf-mute Wrestler (Geiger Counter)**
 
-21. City of Buenos Aires. Blue, please. 
-Deaf and dumb fighter... 
-Read the following text: 
-While we reach important heights, we never know if we'll reach the planned one because we never 
-We're at San Antonio of the Cobras. We think we 're getting even higher because we 're
-The upward thermal currents helped, and because one of us understood that, given the
-circumstances, he could have waived the three cement dwarfs he carried in his luggage for
-Emergency cases, and he threw them out. 
-It would have been nice to continue to enjoy the peace of those heights and to be able to see the
-Condors plan majestically around the globe, if it weren't for the fact that they decided to land.
-over it and chop it all up (these bugs!). From that moment on the events were
-They rushed. We accidentally fell with mild violence (enough to make it hurt) 
-bouncing off the entrance to a mysterious cave. Our insight led us to 
-to discover that we were in an archaeological site, a sacred place of the original peoples. 
-We knew it from the way the stones were arranged, from the symbols carved in the
-And the sign said, "Archaeological site: sacred place of the gods".
-The INCs. 
-We entered stealthily (we were afraid to enter alone), and what was not our surprise when
-We found, supported against a large pottery vessel, two ritual mummies in position.
-fetal: a young woman and an old man. Although what caught our attention most was the parrot in the
-The old man's shoulder. The mystery was fascinating to us: since the Incas were masters.
-- What? The age of the mummies would tell us. To get to know her , we 'll shake hands with the Geiger counter .
-(which anyone always carries in their belongings) to know the activity of the
-Carbon 14 decay by measuring neutron emission. 
-Sadly, we discovered that the Geiger's capricious 7.3V battery was out. 
-Luckily we kept counting on our 
-Emergency medicine with alcohol, gas, 
-Oxygenated water, a truck battery,
-Two tractor lamps, a dynamo of 
-A bicycle, a torino horn 69 with the 
-music of the cockroach (which, in a 
-The bottleneck in General Peace sounded.
+21. City of Buenos Aires. Azul.
+Deaf-mute wrestler... Read the following text: "Although we managed to reach significant altitudes, we never knew whether we had reached the planned altitude, because we never made it to San Antonio de los Cobres. We think we went even higher because rising thermal currents helped us and because one of us realized that, given the circumstances, he could do without the three cement dwarfs he carried in his luggage for emergencies, and he threw them into the void. It would have been wonderful to have gone on enjoying the peace of those heights and to have stayed there watching the condors soaring majestically around the globe, if it hadn't been for the fact that they decided to land on it and peck at everything (those creatures!). From that moment on, events rushed forward. We fell haphazardly with a gentle violence (enough to hurt) as we bounced in front of the entrance to a mysterious cave. Our discernment led us to discover that we were at an archaeological site, a sacred place of the indigenous peoples. We knew this from the way the stones were arranged, from the symbols carved at the entrance, and from the sign that read: ARCHAEOLOGICAL SITE: SACRED PLACE OF THE INCAS. We entered stealthily (we were afraid to go in alone), and what a surprise it was when we found, propped against a large ceramic vessel, two ritual mummies in the fetal position: a young woman and an old man. Although what caught our attention most was the parrot on the old man's shoulder. The mystery fascinated us: since when had the Incas trained parrots? The age of the mummies would tell us. To find out, we reached for the Geiger counter (the one that anyone always carries among their belongings) in order to determine the rate of carbon-14 decay by measuring neutron emission. Sadly, we discovered that the Geiger's battery, at a capricious 7.3 V, was dead. Fortunately, our emergency first-aid kit still contained alcohol, gauze, hydrogen peroxide, a truck battery, two tractor lights, a bicycle dynamo, and a horn from a 1969 Torino with the "La Cucaracha" tune (which, in a traffic jam on General Paz, sounded
 
-For four hours straight before the battery runs out of our car) and a notebook with the
-technical specifications for all these devices. With all this, we managed to make the
-Measurements and unraveling the mystery...
+for four consecutive hours before our car's battery ran out) and a notebook containing the technical specifications of all these devices. With all of this, we managed to take the measurements and unravel the mystery..."
  
-• 
-Make a diagram of the circuit used to run the Geiger counter. Please indicate 
-every calculation you make. 
-• 
-Choose at least two alternate endings of the narrated story.
-
-
+• Draw a schematic diagram of the circuit used to operate the Geiger counter. State all calculations you perform. • Choose at least two alternative endings for the story told.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Argentina 2007 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
@@ -3530,21 +3490,16 @@ si arriva a 20,4 [°C]. Calcolare la specificità di calore dell'alleazione. Cea
 
 <div class="qlang-split" data-lang="en"></div>
 
-Other, of a kind used for the manufacture of goods or services
+Calorimeter with alloy
 
-29. Santa Fe. Blue, please. 
-A heat meter of negligible thermal capacity contains 250 [g] of water at 18 [°C]. Then it 's gone .
-Place within the thermometer 75 [g] of an alloy at 100 [°C], the final temperature at which it is 
-The value of the input is 20.4 [°C]. Calculate the specific heat of the alloy. Water = 1 [ cal / g . 
-°C.]
+29. Santa Fe. Azul.
+A calorimeter with negligible heat capacity contains 250 g of water at 18 °C. Then 75 g of an alloy at 100 °C is placed inside the calorimeter, and the final temperature reached is 20.4 °C. Calculate the specific heat of the alloy. C_water = 1 cal/g·°C.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Argentina 2007 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
@@ -4113,56 +4068,38 @@ tutto il potenziale di azione.
 
 **Electrical model of the neuron**
 
-35. City of Buenos Aires. Blue, please. 
-Neurons are the basic functional units that make up the nervous system of all living things.
-living beings. To communicate, they use an electrical phenomenon called the action potential. En 
-We'll look at a very simplified model of this phenomenon. 
-One of the main elements of the neuron is the plasma membrane, which separates the
-inside and outside the cell. An equivalent electrical circuit model of the membrane is 
-the following: 
+35. City of Buenos Aires. Blue.
+Neurons are the basic functional units that make up the nervous system of all living beings. To communicate, they use an electrical phenomenon called the action potential. In this problem, we will study a highly simplified model of this phenomenon. One of the main components of a neuron is the plasma membrane, which separates the inside and the outside of the cell. An equivalent electrical circuit model of the membrane is as follows:
  
-Figure two. Equivalent circuit of the membrane of a neuron. 
+Figure 2. Equivalent circuit of a neuron membrane.
  
 
-Where Vi and Ve represent the potential inside and outside the cell respectively, R1 and R2 are the
-channels allowing loads to flow through the membrane, V1 and V2 potential differences associated with 
-the load and C the membrane capacity. 
-For R1 = 20 KΩ, R2 = 480 KΩ, V1 = 70 mV, V2 = 55 mV and C = 1 μF. Considering one 
-Resting position (no current flow per C). 
+Where Vi and Ve represent the potential inside and outside the cell, respectively; R1 and R2 represent the channels that allow charges to flow through the membrane; V1 and V2 represent the potential differences associated with said charges; and C represents the capacitance of the membrane. For R1 = 20 kΩ, R2 = 480 kΩ, V1 = 70 mV, V2 = 55 mV, and C = 1 µF. Considering a resting state (with no current flowing through C).
  
-1) For I=0. Calculate the membrane resting potential Vm = Ve  Vi. 
+1) For I=0. Calculate the membrane resting potential Vm = Ve – Vi.
  
-To excite the neuron, we'll inject a current I through the membrane. 
+To excite the neuron, we will inject a current I through the membrane.
  
-2) Calculate rest Vm for I = 0,1 μA. 
+2) Calculate the resting Vm for I = 0.1 µA.
  
-The action potential phenomenon can be said to begin when the potential of 
-The membrane reaches a potential threshold of Vu. 
+It can be said that the action potential phenomenon begins when the membrane potential reaches a threshold potential Vu.
  
-3) Calculate the current we need to inject to reach a potential threshold Vu = - 55 
-mV. 
+3) Calculate the current we must inject to reach a threshold potential Vu = -55
+mV.
  
-Once the threshold potential is reached, a sequence of changes in the threshold will occur.
-membrane that will alter its potential. In our model we will consider these.
-changes as a sequence of changes in the value of R2. That is, once you reach the
-The threshold potential, R2 will be 20 KΩ for 1 msec, 1500 KΩ for 5 msec for 
-Then return to its rest value of 480 KΩ. 
+Once the threshold potential is reached, a sequence of changes will occur in the membrane, altering the membrane potential. In our model, we will regard these changes as a sequence of modifications to the value of R2. That is, once the threshold potential is reached, R2 will be 20 KΩ for 1 ms, 1500 KΩ for 5 ms, and then return to its resting value of 480 KΩ.
  
-4) Calculate the resting potential for each action potential stage. ¿Se 
-will they reach such potential at each stage? 
+4) Calculate the resting potentials for each phase of the action potential. Are you
+Will they reach said potentials at each respective stage?
  
-5) Using the millimeter sheet provided, draw a graph of the membrane potential during
-All the action potential.
-
-
+5) Using the provided graph paper, plot a graph of the membrane potential over
+The entire action potential.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="Argentina 2007 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container,object/pipe-tube"></span>
 
@@ -4682,72 +4619,41 @@ Fig. 1: Sezione longitudinale del problema
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Hole sphere floating between two liquids**
+Hollow sphere floating between two liquids
 
-39. City of Buenos Aires. Green, please. 
-A hollow aluminium sphere (2,7,103 kg/m3) of radii r (inner) and R (outer), floating 
-initially in a container with water. 
-An unknown Z fluid is poured floating on the water surface, leaving the part
-The surface of the sphere at rest is equal to the free surface of the upper surface of Z (Fig. 1). They 're despised .
-The effects of air and fluids are at rest. 
+39. City of Buenos Aires. Green.
+A hollow aluminum sphere (2.7 × 10³ kg/m³) with inner radius r and outer radius R initially floats in a container of water. An unknown liquid Z, which floats on the water surface, is poured in, leaving the upper part of the sphere at rest at the level of the upper free surface of Z (Fig. 1). Effects caused by air are neglected, and the fluids are at rest.
  
-(a) Assuming that two thirds of its volume is initially floating in water, determine: 
-A) Inner radius of the sphere according to the outer radius 
-A II)Relation between the depth H of liquid Z , the outer radius of the sphere and densities 
-of water, aluminum and Z. 
-A III) Z density value if the outer radius is R = 5 m and the depth H is 3 m 
+A) Assuming that initially two-thirds of its volume is submerged in water, determine:
+A I) Inner radius of the sphere as a function of the outer radius A II) Relationship between the liquid depth H of Z, the outer radius of the sphere, and the densities of water, aluminum, and Z. A III) Value of the density of Z if the outer radius is R = 5 m and the depth H is 3 m
  
-(b) Considering A I and A II is it physically possible that the sphere is initially 
-Halfway into water? Justify it. 
-E 
-i 
-i1 
+B) Taking A I and A II into account, is it physically possible that initially the sphere be
+Submerged halfway in water? Justify. E i i1
  
-i = 0,5 A  
+i = 0,5 A
  
-i1 = 0,4 A 
-R1 
-R2 
+i1 = 0,4 A R1 R2
 
-Fig. The volume of the body. 2 es    V = 
-
-
-
-
-
-
-−
-3
-3
-2
-H
-RH
-π
+The volume of the body in Fig. 2 is V =       − 3 3 2 H RH π
  
  
   
                                                                                                         
-                                        Z                                                               
-                                                                                                       H 
-                    r           R                                                            
+Z H r R
                                                                        
-H2O Fig. 2 
+H2O Fig. 2
  
  
     
  
  
-Fig. 1: Longitudinal cutting of the problem
-
-
+Fig. 1: Longitudinal section of the problem
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="Argentina 2007 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens"></span>
 
@@ -5244,118 +5150,26 @@ aria
 
 **Creating a vacuum (suction pump)**
 
-41. City of Buenos Aires. Green, please. 
-Creating a void 
-A group of researchers needs to conduct an experiment under low vacuum conditions. For 
-This means you must build a proper bell that is capable of withstanding the pressure difference.
-between the inside and the outside. To facilitate construction, they choose to give it the shape of a cube of
-cm
-0,
-35
-edge, leaving it open at the bottom. 
-1.a) 
-What is the total force that each face of the bell will withstand when the pressure
-Inside it is.
-Other
-01
-,0
-? 
-You can build a bell like the one shown in Figure 2.1. The thickness of the
-walls are uniform and equal to 
-cm
-5,1
-, and the external dimensions are those mentioned .
-previously. Initially the bell contains air to
-Other
-00
-,1
- y 
-C
-º
-27
-. 
+41. City of Buenos Aires. Green.
+Creating a Vacuum A group of researchers needs to carry out an experiment under low-vacuum conditions. To this end, they must construct a suitable bell that can withstand the pressure difference between the inside and the outside. To make construction easier, they opt to give it the shape of a cube with an edge length of 0.35 cm, leaving the bottom open. 1.a) What is the total force that each face of the bell will support when the pressure inside is 0.01 atm? They manage to construct a bell like the one shown in Figure 2.1. The wall thickness is uniform and equal to 1.5 cm, and the external dimensions are those mentioned above. Initially, the bell contains air at 0.10 atm and 27 °C.
  
  
-1.b) 
-What air mass in these conditions is inside the bell? 
+1.b) What mass of air is inside the bell under these conditions?
 
-To extract the air they will use an aspiration pump formed by a cylinder-piston system such as the
-of Figure 2-2. This is called displacement to the volume displaced by the piston between the two.
-The end of the route, and in this case it is valid 
-3
-100cm . 
+To extract the air, they will use a suction pump consisting of a cylinder-piston system like the one shown in Figure 2-2. The volume displaced by the piston between the two ends of its stroke is called displacement; in this case, it is 3,100 cm.
  
  
-Each cycle can be divided into three stages, as shown in the diagram in Figure 2-3. 
-During the first stage, the bell air expands at a constant temperature while
-enters through the valve below the cylinder. During the second stage, the piston compresses 
-adiabatically to the gas contained until its pressure is equal to atmospheric. In the final stage,
-The air is expelled into the atmosphere through the upper valve and the piston returns to its
-The initial position to start another cycle. 
+Each cycle can be divided into three stages, as shown in the diagram in Figure 2-3. During the first stage, the air from the bell expands at constant temperature as it enters the cylinder through the lower valve. During the second stage, the piston adiabatically compresses the gas contained within until its pressure equals atmospheric pressure. In the final stage, the air is expelled into the atmosphere through the upper valve, and the piston returns to its initial position to begin another cycle.
  
  
-2.a) 
-Find the pressure inside the bell after the first, second and fifth cycle. 
-2.b) 
-Find an expression for the ratio between the pressure inside the bell.
-immediately before the intake valve is closed (
-b
-p ) and the one in question.
-When air started entering the cylinder (
-a
-p) in terms of volumes of 
-The bell and the cylinder. 
-2.c) 
-Find an expression for the pressure inside the bell after n cycles. 
-2.d) 
-How many cycles do it take to reach a pressure of 
-Other
-01
-,0
-? 
-In practice, it is observed that in addition to the displacement, there is a residual volume of air of
-3
-80
-,4
-The cylinder cannot be removed from the cylinder due to limitations in the construction of the cylinder.
-device. This prevents the pressure from being carried below a certain quota. 
+2.a) Find the pressure inside the bell after the first, second, and fifth cycles. 2.b) Find an expression for the ratio of the pressure inside the bell immediately before the intake valve closes (b p) to the pressure that existed when air began to enter the cylinder (a p), in terms of the volumes of the bell and the cylinder. 2.c) Find an expression for the pressure inside the bell after n cycles. 2.d) How many cycles are needed to reach a pressure of 0.01 atm? In practice, it is observed that, in addition to the displacement, there is a residual air volume of 380.4 cm³ that cannot be expelled from the cylinder due to limitations in the device's construction. This prevents the pressure from being brought below a certain level.
 
-3.a) 
-What is the minimum pressure that the device can obtain? 
-To save this problem, one of them thinks that if they heat the air from the bell,
-They'd get more air out. 
-3. (b) What temperature should it be at when the minimum pressure is reached so that it will cool down 
-until the initial temperature reaches the desired pressure? 
-The data: 
-K
-Other
-dm
-Other
-R
-⋅
-⋅
-=
-3
-082
-,0
+3.a) What is the minimum pressure at which the device can be obtained? To solve this problem, one of them hits on the idea that if they heated the air in the bell, they would be able to extract more air. 3.b) What temperature must it be at when it reaches the minimum pressure, so that, upon cooling to the initial temperature, the desired pressure is achieved? Data: R = 0.0823 L·atm/(mol·K)
   
-Other
-kg
-The Mraire
-3
-10
-9,
-28
-−
-×
-=
+mol kg Mraire 3 10 9, 28 − × =
  
  
-5
-7
-=
-Air
-γ
+5 7 = aire γ
 
 
 <!--fig:start-->
@@ -5369,8 +5183,6 @@ Air
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q42" data-atom="q42" data-title="Argentina 2007 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/capacitor"></span>
 
@@ -6339,26 +6151,21 @@ b) A che punto dell'asse si annulla il campo elettrico? Dimostri questo con le e
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Charge equilibrium q1 q2 q3
 
-46. That's great. Blue, please. 
-(a) Calculate the value and sign of the load q3 so that the load q2 is in balance. q1= 100 nC       
-q2= - 5µC          q3= ¿? 
+46. Formosa. Blue.
+a) Calculate the value and sign of charge q3 so that charge q2 is in equilibrium. q1 = 100 nC
+q2= - 5µC q3= ¿?
  
-                 q1•                               •q2                                                  • q3   
-                                 3cm                                     8cm                  
+q1• •q2 • q3 3cm 8cm
  
-(b) At what point on the axis is the electric field cancelled? Prove it with equations.
-
-
+b) At what point on the axis does the electric field vanish? Prove it using equations.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q47" data-atom="q47" data-title="Argentina 2007 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -6548,29 +6355,24 @@ a partire dal principio di conservazione dell'energia
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Skin drawn by rope**
+Sled pulled by a rope
 
-48. That's great. Blue, please. 
-A child pulls a 3kg sled by means of a rope that forms an angle of 30° with the
-horizontal. The friction coefficients are μu = 0,18 (threshold or static coefficient), 
-µd = 0,2  
-(a) Isolate the sled and represent the forces acting on it 
-(b) What is the minimum force that will initiate the movement? 
-(c) What kind of motion will a force of 30 N in the indicated direction cause? 
-justify dynamically. 
-(d) What force performs work on the sleigh? Calculate the work when the sleigh is done 
-The force of 30 N is considered to be acting. 
-(e) Do I shift the kinetic energy of the sled? If so, calculate it. 
-(f) Is all work done on the sleigh transformed into kinetic energy? Explain it to him .
-from the principle of energy conservation
+48. Formosa. Blue.
+A boy pulls a 3 kg sled by means of a rope that makes an angle of 30° with the horizontal. The coefficients of friction are µu = 0.18 (threshold or static coefficient) and µd = 0.2.
+a) Isolate the sled and represent the forces acting on it
+b) What is the minimum force that will initiate motion?
+c) What type of motion will a force of 30 N in the indicated direction produce?
+Dynamically justify.
+d) What force does work on the sled? Calculate the work when the sled is m
+It displaced 5 m assuming that a force of 30 N is acting.
+e) Does the kinetic energy of the sled vary? If so, calculate it.
+f) Does all work done on the sled get converted into kinetic energy? Explain this using the principle of conservation of energy.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q49" data-atom="q49" data-title="Argentina 2007 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -6783,16 +6585,16 @@ e. Calcola la potenza totale in ogni circuito.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Serial and parallel resistors**
+Resistors in Series and Parallel
 
-51. May 2nd, missions. Blue, please. 
-Two resistors R1 = 480 Ω and R2 = 960 Ω are given. with an E source = 12 volts. 
-a. It diagrams a connection of the resistors in series and connected to 
-The source. 
-b. It performs the diagram of a parallel resistance connection and 
-connected to the source 
-c. Calculate the total resistance in each of the above circuits. 
-d. Calculate the total intensity in each circuit.
+51. Dos de Mayo, Misiones. Blue.
+There are two resistors, R1 = 480 Ω and R2 = 960 Ω, with a source E = 12 volts.
+a. Draw a diagram of a series connection of resistors connected to
+The source.
+b. Draw a diagram of a parallel connection of resistors and
+connected to the power source
+c. Calculate the total resistance in each of the preceding circuits.
+d. Calculate the total current in each circuit
 e. Calculate the total power in each circuit.
 
 **Topic:** [[Circuits]]
@@ -6800,8 +6602,6 @@ e. Calculate the total power in each circuit.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q52" data-atom="q52" data-title="Argentina 2007 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/spring"></span>
 
@@ -7449,10 +7249,10 @@ Opzione multipla
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Multiple choice
 
-54. Olive trees, from Buenos Aires. Blue, please. 
-Multiple option 
+54. Olivos, Buenos Aires. Blue.
+Multiple-choice option
  
  
 
@@ -7481,7 +7281,7 @@ Multiple option
 
 11
  
-12 
+12
  
 13
  
@@ -7506,9 +7306,9 @@ Multiple option
  
  
 
-18 
+18
  
-19 
+19
  
 20
 
@@ -7519,54 +7319,7 @@ Multiple option
 ![[cuadernillo_2007_p47_f3.png]]
 ![[cuadernillo_2007_p50_f5.png]]
 ![[cuadernillo_2007_p51_f6.png]]
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='142.13321pt' height='105.280904pt' viewBox='-68.01566 -68.01525 142.13321 105.280904'>
-<defs>
-<path id='g0-0' d='M6.56538-2.291407C6.734745-2.291407 6.914072-2.291407 6.914072-2.49066S6.734745-2.689913 6.56538-2.689913H1.175592C1.006227-2.689913 .826899-2.689913 .826899-2.49066S1.006227-2.291407 1.175592-2.291407H6.56538Z'/>
-<path id='g1-43' d='M4.07472-2.291407H6.854296C6.993773-2.291407 7.183064-2.291407 7.183064-2.49066S6.993773-2.689913 6.854296-2.689913H4.07472V-5.479452C4.07472-5.618929 4.07472-5.808219 3.875467-5.808219S3.676214-5.618929 3.676214-5.479452V-2.689913H.886675C.747198-2.689913 .557908-2.689913 .557908-2.49066S.747198-2.291407 .886675-2.291407H3.676214V.498132C3.676214 .637609 3.676214 .826899 3.875467 .826899S4.07472 .637609 4.07472 .498132V-2.291407Z'/>
-</defs>
-<g id='page1'>
-<path d='M-67.81641-59.3125V-67.816H73.9183V-59.3125Z' fill='#ccc'/>
-<path d='M-67.81641-59.3125V-67.816H73.9183V-59.3125Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 15.9683 -82.5497)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g0-0'/>
-</g>
-<g transform='matrix(1 0 0 1 55.654 -82.5497)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g0-0'/>
-</g>
-<g transform='matrix(1 0 0 1 95.3394 -82.5497)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g0-0'/>
-</g>
-<g transform='matrix(1 0 0 1 126.5211 -82.5497)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g0-0'/>
-</g>
-<path d='M.8672-11.125C.8672-13.0508-.6914-14.6094-2.6172-14.6094S-6.1055-13.0508-6.1055-11.125S-4.543-7.6367-2.6172-7.6367S.8672-9.1992 .8672-11.125Z' fill='#b3b3b3'/>
-<path d='M.8672-11.125C.8672-13.0508-.6914-14.6094-2.6172-14.6094S-6.1055-13.0508-6.1055-11.125S-4.543-7.6367-2.6172-7.6367S.8672-9.1992 .8672-11.125Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 72.66188 -51.3681)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g1-43'/>
-</g>
-<path d='M-67.81641 37.066404V28.5625H73.9183V37.066404Z' fill='#ccc'/>
-<path d='M-67.81641 37.066404V28.5625H73.9183V37.066404Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 15.9683 -14.5175)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g1-43'/>
-</g>
-<g transform='matrix(1 0 0 1 55.654 -14.5175)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g1-43'/>
-</g>
-<g transform='matrix(1 0 0 1 95.3394 -14.5175)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g1-43'/>
-</g>
-<g transform='matrix(1 0 0 1 126.5211 -14.5175)'>
-<use x='-67.815698' y='37.06605' xlink:href='#g1-43'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
+![[cuadernillo_2007_p51_f7.png]]
 ![[cuadernillo_2007_p52_f8.png]]
 <!--fig:end-->
 
@@ -7575,8 +7328,6 @@ Multiple option
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q55" data-atom="q55" data-title="Argentina 2007 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/5,multidisciplina/multi,object/rod,object/pulley,object/tank-container"></span>
 
@@ -8540,45 +8291,34 @@ Nota: Considera che non c'è scambi di calore con l'ambiente
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Te, cup and ice cubes**
+**Tea, cup, and ice cubes**
 
-59. City of Buenos Aires. Blue, please. 
-One morning, before going to school, Juan decides to accompany his breakfast with an infusion of
-té. To this end, take an aluminium cup with a mass of 70 g and a
-The temperature of the test chemical is 25°C. Pour 300 cm3 of the infusion into it, reaching the system a
-The following conditions shall apply: 
+59. City of Buenos Aires. Azul.
+One particular morning, before going to school, Juan decides to have tea infusion with his breakfast. To that end, he takes an aluminum cup with a mass of 70 g that is at a temperature of 25°C. He pours 300 cm3 of the said infusion into it, and the system reaches an equilibrium temperature of 77 °C.
  
-(a) What is the initial infusion temperature? 
+a) What is the initial temperature of the infusion?
  
-Since he was getting late and the tea was too hot, he added 100g of milk that
-The refrigerator is removed to 4 °C, achieving a system equilibrium temperature of 60 °C. 
+Since it was getting late and the tea was very hot, they added 100 g of milk taken from the refrigerator to 4 °C, and the system reached an equilibrium temperature of 60 °C.
  
-(b) What is the specific heat of milk? 
+b) What is the specific heat of milk?
  
-Not in accordance with the temperature reached by the infusion, he decides to add an ice cubes to the infusion.
-4 °C, which when fully melted the equilibrium temperature of 45 °C. 
+Not being satisfied with the temperature reached by the infusion, they decide to add an ice cube to –4 °C; when the ice cube melts completely, the equilibrium temperature of 45 °C.
  
-(c) What is the mass of the ice sheet? 
+c) What is the mass of the ice cube?
  
-(d) How many ice cubes of the same mass as the one calculated in the previous item must be added 
-So the equilibrium temperature is 38 degrees Celsius? 
+d) How many cubes of ice with the same mass as that calculated in the previous item must be added?
+So that the equilibrium temperature is 38º°C?
  
 
-The data: 
-The specific heat of the tea = The specific heat of the water = 1 cal/g °C 
-The specific heat of the ice = 0,5 cal/g °C 
-Heat of ice melting = 80 cal/g 
-The specific heat of aluminium = 0,22 cal/g °C 
+Data: Specific heat of tea = Specific heat of water = 1 cal/g °C Specific heat of ice = 0.5 cal/g °C Heat of fusion of ice = 80 cal/g Specific heat of aluminum = 0.22 cal/g °C
  
-Note: Consider that there is no heat exchange with the environment
+Note: Assume that there is no heat exchange with the surroundings.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q60" data-atom="q60" data-title="Argentina 2007 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
@@ -8709,30 +8449,24 @@ e) Come farebbe per rendere la macchia sul muro più nitida? Giustifica la rispo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Laser, fish and mirror**
+**Laser, fish tank, and mirror**
 
-60. City of Buenos Aires. Blue, please. 
-Louis is looking at one of the walls in his room and he sees a red spot, assuming it was the light.
-lighting your fish tank (see Figure 1) 
+60. City of Buenos Aires. Blue.
+Luis is looking at one of the walls of his room and sees a red stain; he assumes it was the light that illuminates his fish tank (see Diagram 1).
  
  
-Laser wall 
+laser pared
  
-fishery 
-30° stain 
-                                                        30 cm                      50 cm                    49 cm 
-         25 cm 
-Mirror .
+Aquarium 30° stain 30 cm 50 cm 49 cm 25 cm Mirror
  
-thickness = 1 cm 80 cm 
-Scheme 1 
+Thickness = 1 cm 80 cm Diagram 1
  
-(a) Draw a diagram with the speed of lightning affecting the fishery.
+a) Draw a diagram showing the path of the ray that strikes the fish tank.
  
-(b) Is the light on the wall due to the laser? It justifies the answer.
+b) Is the light seen on the wall due to the laser? Justify the answer.
  
-c) If the direction of the laser is changed (see Figure 2) does the stain on the wall appear? 
-It justifies the answer.
+c) If the direction of the laser is changed (see Diagram 2), can the spot be seen on the wall?
+Justify the answer
  
  
  
@@ -8741,21 +8475,16 @@ It justifies the answer.
  
 
  
-The wall .
+wall
  
-fishery 
-stain 
-                          30°                       30 cm                            50 cm                 49 cm 
-                         25 cm 
-Mirror .
+Fish tank stain 30° 30 cm 50 cm 49 cm 25 cm Mirror
  
-thickness = 1 cm 80 cm 
-Scheme 2 
+Thickness = 1 cm 80 cm Diagram 2
  
-d) What would you add between the fish and the wall to see only the stain on the wall? 
-It justifies the answer.
+d) What would you add between the fish tank and the wall in order to see only the stain on the wall?
+Justify the answer
  
-(e) How would you make the spot on the wall look sharper? Justifies the Answer
+e) How would you make the stain on the wall look sharper? Justify your answer.
 
 
 <!--fig:start-->
@@ -8767,8 +8496,6 @@ It justifies the answer.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q61" data-atom="q61" data-title="Argentina 2007 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/pendulum,object/mirror"></span>
 
@@ -9089,36 +8816,32 @@ Dati: R1 = 40 Ω - R2 = 20 Ω - R3 = 10 Ω - R4 = 10 Ω - ρ cu = 1,7 x 10  8 Ω
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Circuit with resistors and heaters**
+**Circuit with Resistors and Heaters**
 
-63. Monteros, Tucumán. What is it? Blue, please. 
-The figure shows a circuit with several resistors. 
-(a) R1 and R2 are constructed with a copper wire of the same length. What is the 
-the relationship between their diameters? 
-(b) What would be the reading of instruments (1) and (2)? What instruments are these? 
+63. Monteros, Tucumán. Blue.
+The figure shows a circuit with several resistors.
+a) R1 and R2 are made from copper wire of the same length. What is the
+What is the relationship between their diameters?
+b) What would the readings of instruments (1) and (2) be? Which instruments are being referred to?
 
-(c) R3 and R4 are two immersion heaters placed in a container containing 3 
-liters of water at room temperature (20°C) How long does it take for water to boil 
-complete? 
-(d) If another copper wire of 0,50 cm of diameter is added to this resistance set
-length, 1 mm diameter, in series with R1 and R2 the total current through the circuit increases, 
-decreases or remains the same? 
-The data are: R1 = 40 Ω - R2 = 20 Ω - R3 = 10 Ω - R4 = 10 Ω - ρ cu = 1,7 x 10  8 Ω.m 
+c) R3 and R4 are two immersion heaters placed in a container containing 3
+Liters of water at room temperature (20ºC): How long does it take for the water to come to a full boil?
+d) If another copper wire measuring 0.50 cm of  were added to this set of resistors
+Length, 1 mm in diameter, in series with R1 and R2—does the total current through the circuit increase, decrease, or remain the same? Data: R1 = 40 Ω - R2 = 20 Ω - R3 = 10 Ω - R4 = 10 Ω - ρ copper = 1.7 x 10⁻⁸ Ω·m
   
-                                 R1                                R3                             R4 
+R1 R3 R4
  
  
            
                   
-1                
-      R2  
+1 R2
  
  
  
  
  
  
-                             220 V                                2
+220 V 2
 
 
 <!--fig:start-->
@@ -9130,8 +8853,6 @@ The data are: R1 = 40 Ω - R2 = 20 Ω - R3 = 10 Ω - R4 = 10 Ω - ρ cu = 1,7 x 
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q64" data-atom="q64" data-title="Argentina 2007 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
 
@@ -10131,20 +9852,16 @@ la manovra e la distanza percorsa fino al momento dello sosta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The vehicle shall be equipped with a brake system.
+**Car that brakes**
 
-74. I'm from Navarro, Buenos Aires. Blue and Green. 
-A car with a speed of 54 km/h and a weight of 13.350 N, applies brakes and
-It can stop in three seconds. Find out the net force module acting on the car during
-the manoeuvre and distance travelled to stop.
+74. Navarro, Buenos Aires. Blue and Green.
+A car traveling at 54 km/h and weighing 13,350 N applies the brakes and manages to come to a stop in 3 s. Determine the magnitude of the net force acting on the car during the maneuver and the distance traveled until it comes to a stop.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q75" data-atom="q75" data-title="Argentina 2007 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
 
@@ -10251,22 +9968,16 @@ Calcolare graficamente e analiticamente la posizione e il tempo di incontro.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Meeting of two movements**
+Encounter of Two Mobile Bodies
 
-76. It's the heat, the pumpkin. Blue, please. 
-From point A towards increasing abscesses a mobile starts from rest with a
-The speed of the vehicle shall be: 
-Two seconds later from another point B distant from A 596 m, a second mobile leaves to its 
-I'm meeting a speed of 10 m/s and an acceleration of the same direction of 8 m/s2. 
-Calculate the meeting position and time graphically and analytically.
+76. Caleufú, La Pampa. Blue.
+From point A, in the direction of increasing abscissas, a moving object starts from rest with an acceleration of 4 m/s². Two seconds later, from another point B located 596 m from A, a second moving object starts toward the first one with a speed of 10 m/s and an acceleration of 8 m/s² in the same direction. Determine graphically and analytically the position and time of meeting.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q77" data-atom="q77" data-title="Argentina 2007 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
 
@@ -10337,23 +10048,20 @@ Calcolare:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Ball falling down the track with a scratch**
+Ball falling along an incline with friction
 
-77. It's the heat, the pumpkin. Blue, please. 
+77. Caleufú, La Pampa. Azul.
  
  
  
-From point A, a ball of 4 kg mass is dropped freely. 
-(a) Assuming the free-flowing surfaces are calculated: 
-1) Speed of the ball in B and C. 
-2) Height reached hD. 
+From point A, a ball with a mass of 4 kg is released to fall freely.
+a) Assuming the surfaces are free of friction, calculate:
+1) Ball speed at B and C.
+2) Height reached hD.
  
 
-(b) Assuming surface AB and CD with no brush and BC with brush, where N = 0,4. 
-Calculation: 
-1) speed in B and C. 
-2) work by friction force. 
-3) the hD height achieved.
+b) Assuming surfaces AB and CD are frictionless and BC has friction, with N = 0.4.
+Calculate: 1) the speed at B and C. 2) the work done by the frictional force. 3) the height hD reached.
 
 
 <!--fig:start-->
@@ -10365,8 +10073,6 @@ Calculation:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q78" data-atom="q78" data-title="Argentina 2007 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -10853,47 +10559,26 @@ si terrà conto della variazione della resistenza con la temperatura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Calibration of an ampere (calorometer)**
+Calibration of an ammeter (calorimeter)
 
-81. Rosario, Santa Fe. Green, please. 
-To exercise creativity 
-The Balseiro Institute wishes to organise a competition for pupils of a school, with the aim of 
-To encourage them to study the physical sciences. The work proposal consists of designing 
-technological devices for measuring different physical magnitudes. A group of students .
-In response to this concern, he proposed a device for the calibration of a
-A. The device consists of an insulating container, with a rolling
-wire inside it. A stream of water flows through the inside of the compound entering through the
-the top side next to the T1 thermometer and the bottom side next to the T2 thermometer. 
-The potential difference between the α and β ends of the calorimeter roll is measured 
-using a voltmeter. In an experiment, carried out with such a device, the water flow is of 
-1 g/s, when the T2 thermometer indicates a temperature of 1 °C above that of the T1 thermometer and the 
-The voltmeter provides a reading of 2.09 V. 
-You are asked to determine:
-(a) The power developed by the resistance inside the calorimeter. 
-(b) The current passing through the ampere, assuming the voltmeter is ideal. 
-c) How would you calibrate an amp with this device? 
-(d) What is the impact resistance used? 
-(e) If the roll is of nickel (alloy of nickel and chromium), and has a diameter of 
-1mm, calculates the length of the resistance. 
+81. Rosario, Santa Fe. Green.
+To exercise creativity, the Balseiro Institute wishes to organize a competition for students at a school in order to encourage them in the study of the physical sciences. The proposed task is to design technological devices for measuring various physical quantities. A group of students, echoing such an interest, proposes a device intended for calibrating an ammeter A. The device consists of an insulating vessel with a coil of wire inside it. A stream of water flows through the interior of the enclosure, entering at the top next to thermometer T1 and exiting at the bottom next to thermometer T2. The potential difference between the ends α and β of the calorimeter coil is measured using a voltmeter. In an experiment carried out with such a device, the water flow is 1 g/s, when thermometer T2 indicates a temperature 1ºC higher than that of thermometer T1 and the voltmeter gives a reading of 2.09 V. You are asked to determine:
+a) The power dissipated by the resistor inside the calorimeter.
+b) The current flowing through the ammeter, assuming the voltmeter is ideal.
+c) How would you calibrate an ammeter using this device?
+d) What is the resistance of the winding used?
+e) If the winding is made of nichrome (a nickel-chromium alloy) and has a diameter of
+1 mm: calculate the length of the resistor.
 
-(f) If the voltmeter was not ideal, what would be the value indicated by the
-ampere if the internal resistance of the voltmeter was 20000 Ω. 
-The data: 
-The water is equal to 1 cal/goC 1 cal=4,186 J 
-Other
-ρ
- =1,5 .10-6  Ω.m 
+f) If the voltmeter were not ideal, what value would the ammeter indicate if the internal resistance of the voltmeter were 20000 Ω? Data: cagua = 1 cal/g°C, 1 cal = 4.186 J, nichrome ρ = 1.5 × 10⁻⁶ Ω·m
  
-Note: since the temperature range you are working with is very small, it is not 
-We'll take into account the variation in resistance with temperature.
+Note: Since the temperature range being dealt with is very small, we will not take into account the variation of resistance with temperature.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Calorimeter (object)|Calorimeter]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q82" data-atom="q82" data-title="Argentina 2007 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball,object/spring"></span>
 
@@ -11195,30 +10880,25 @@ per i processi (xa) e (ay).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The first principle in trajectories
+**First principle in trajectories**
 
-85. The first is the Spanish. Blue, please. 
-A system goes from state x to y following the path (xay), when it receives 100 cal and performs 
-a 40 cal work, as shown in Figure: 
-(a) What heat is received or released if the system along the path (xby) performs a 
-80 cal work? 
-(b) If the system releases a heat of 20 cal along the trajectory (xcy), what is the work?
-made by or on the system? 
-(c) When the system returns from y to x along the curve path, it performs a task 
-of 70 cal. What heat does it receive or release? 
+85. Santiago del Estero. Blue.
+A system passes from state x to state y along the path (xay) when it receives 100 cal and does 40 cal of work, as shown in the figure:
+a) What amount of heat is absorbed or released if, along the (xby) path, the system performs a
+80 cal work?
+b) If the system releases 20 cal of heat along the path (xcy), what work is
+Carried out by or on the system?
+c) When the system returns from y to x along the curved path, it does work
+from 70 cal. What heat is absorbed or released?
 
-(d) If the internal energy Ux = 0 and Ua = 45 cal, how much heat and work are worth 
+d) If the internal energy Ux = 0 and Ua = 45 cal, what are the values of the heat and the work done?
 for processes (xa) and (ay).
-
-
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q86" data-atom="q86" data-title="Argentina 2007 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -11374,15 +11054,14 @@ d) Inventare un percorso possibile che risponda a questo grafico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A car speed-time chart**
+**Speed-time graph of a car**
 
-88. Hernando, Cordoba. What is it? Blue, please. 
-The following graph shows how a car's speed varies with time (graph 
-1): 
-(a) At what intervals did it maintain a constant speed? 
-(b) What sections were the fastest? 
-(c) What is the total distance travelled? 
-(d) Invent a possible route that corresponds to this chart.
+88. Hernando, Córdoba. Blue.
+The following graph shows how a car's speed varies with time (Graph 1):
+a) In which intervals did it maintain a constant speed?
+b) In which sections was it faster?
+c) What total distance did they cover?
+d) Invent a possible route that corresponds to this graph.
 
 
 <!--fig:start-->
@@ -11394,8 +11073,6 @@ The following graph shows how a car's speed varies with time (graph
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q89" data-atom="q89" data-title="Argentina 2007 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
@@ -11543,21 +11220,16 @@ Qual è la forza netta che agisce sul baglione? (Ricorrezzare la risoluzione gra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Dog-drawn sled (sum of forces)**
+Dog-drawn sled (sum of forces)
 
-91. Hernando, Cordoba. What is it? Blue, please. 
-To move on snow, dogs usually use sleds. If the sores of the
-which pulls at a certain time, forming an angle of 45 degrees between each dog performs.
-What net force acts on the sled? (To achieve graphic resolution 
-only).
+91. Hernando, Córdoba. Blue.
+To travel over snow, dog-drawn sleds are commonly used. If the ropes that a dog is pulling on at a given moment form an angle of 45º with each other, and each dog exerts a force of 40 kgf, what is the net force acting on the sled? (Carry out only a graphical solution.)
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 2007 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
@@ -11667,18 +11339,17 @@ e) Inventare un percorso possibile che risponda a questo grafico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A car speed-time chart (2)**
+**Speed-time graph of a car (2)**
 
-93. Hernando, Cordoba. What is it? Blue, please. 
-The following graph shows how a car's speed varies with time (graph 
-2): 
+93. Hernando, Córdoba. Blue.
+The following graph shows how the speed of a car varies with time (Graph 2):
  
 
-(a) What total distance did he travel? 
-(b) At what intervals does the speed increase? 
-(c) At what intervals does the speed decrease? 
-d) Was he ever detained? 
-(e) Invent a possible route that corresponds to this chart.
+a) What total distance did they travel?
+b) In which intervals does the velocity increase?
+c) In which intervals does the speed decrease?
+d) Were you detained at any time?
+e) Invent a possible route that corresponds to this graph.
 
 
 <!--fig:start-->
@@ -11690,8 +11361,6 @@ d) Was he ever detained?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q94" data-atom="q94" data-title="Argentina 2007 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/planet"></span>
 
@@ -11991,28 +11660,22 @@ del tempo adeguatamente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Cable and keyed circuit**
+**Circuit with Switch and Capacitor**
 
-97. City of Buenos Aires. Blue, please. 
-In the next circuit is the key initially open. 
+97. City of Buenos Aires. Azul.
+In the following circuit, the switch is initially open.
  
-(a) What is the value of the current intensity delivered by the source? 
-(b) What is the potential difference at the resistance terminals 4 (R4)? 
-(c) What is the current circulating through resistor 4 (R4)? 
-(d) What power dissipates resistance 4 (R4)? 
-(e) What energy is consumed in 10 minutes by resistance 4 (R4)? 
+a) What is the value of the current supplied by the source?
+b) What is the potential difference across the terminals of resistor 4 (R4)?
+c) What is the current flowing through resistor 4 (R4)?
+d) What power is dissipated by resistor 4 (R4)?
+e) What energy is consumed by resistor 4 (R4) in 10 minutes?
  
-At a certain time the key is closed:
+At a certain point, the valve is closed:
  
-(f) What is the current intensity that the ampere will indicate an instant after 
-Shut the key? 
-(g) What current intensity will the ampere indicate once the capacitor is loaded? 
-(h) What is the potential difference between the capacitor terminals once loaded? 
-(i) What is the maximum energy that the capacitor can store under these conditions? 
+f) What current strength will the ammeter indicate an instant after the switch is closed? g) What current strength will the ammeter indicate once the capacitor has been charged? h) What potential difference will exist between the terminals of the capacitor once it has been charged? i) What will be the maximum energy that the capacitor can store under those conditions?
 
-(j) Choose from the following curves which characterises the current intensity as a function 
-of the time properly. 
-(Taking what does not correspond)
+j) Choose from the following curves the one that adequately characterizes current intensity as a function of time. (Cross out what does not apply)
 
 
 <!--fig:start-->
@@ -12024,8 +11687,6 @@ of the time properly.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q98" data-atom="q98" data-title="Argentina 2007 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetic-induction,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire,object/resistor"></span>
 
@@ -12288,26 +11949,16 @@ Il contadino non ha carotte, come potrebbe dimostrare all'asino che può muovere
 
 <div class="qlang-split" data-lang="en"></div>
 
-**The donkey and the cart (action-reaction)**
+**The Donkey and the Cart (Action-Reaction)**
 
-100. Cordoba. Blue, please. 
-A peasant hooks his donkey to the
-Carriage and shouted to him, "Get out!"
-The tour. But the animal, which is very 
-intelligent and read the principles of 
-It's not worth it 
-Try it since the action and the reaction are linear and opposite, when I pull out of the cart,
-She'll throw me as much as I throw her and we won't move forward. 
-The farmer has no carrots. How could he prove to the donkey that he can move the donkey?
-car?
+100. Córdoba. Azul.
+A peasant hitches his donkey to the cart and shouts, "Giddy-up!" to start the journey. But the animal, which is very "intelligent" and has read the principles of dynamics, replies: "There's no point in trying, since action and reaction are collinear and opposite; when I pull the cart, it will pull me with the same force that I pull it, and we won't move forward." The peasant has no carrots—how could he prove to the donkey that it can indeed move the cart?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q101" data-atom="q101" data-title="Argentina 2007 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pendulum"></span>
 
@@ -12374,34 +12025,28 @@ I = 90 cm
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Block that collides with a pendulum ball**
+**Block that collides with ball in pendulum**
 
-101. Cordoba. Blue, please. 
-In the system of the figure block A slides without friction until it collides elastically with 
-The B-ball. 
-Calculation: 
-(a) The speed of B immediately 
-After the crash. 
-(b) The maximum tension of the wire. 
-(c) Maximum height to B. 
+101. Córdoba. Azul.
+In the system shown in the figure, block A slides without friction until it collides elastically with ball B. Calculate:
+a) The velocity of B immediately
+After the collision.
+b) The maximum thread tension.
+c) Maximum height reached by B.
  
 Data: mA = 500 g
  
-mB = 240g 
+mB = 240g
  
-h = 60 cm 
+h = 60 cm
  
 I = 90 cm
-
-
 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q102" data-atom="q102" data-title="Argentina 2007 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
@@ -12472,23 +12117,20 @@ punto B (durante il cadere), sul blocco.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Locked and dropped flat block**
+**Block on an Inclined Plane and Falling**
 
-102. The first is the Spanish. Blue, please. 
-A block of mass is released from rest = 2 kg. From the top of a sloping plane,
-Friction-free, at an angle of 30°, with respect to the horizontal and at a height of h = 0,50m. All the way .
-The slope plane is fixed on a table of height H = 2 m. Look at the figure. 
+102. Santiago del Estero. Azul.
+A block with a mass of = 2 kg is released from rest at the top of a frictionless inclined plane inclined at an angle of 30º to the horizontal and at a height of h = 0.50 m. The entire inclined plane is mounted on a table with a height of H = 2 m. See the figure.
  
 
-Determine: 
-(a) The acceleration of the block as it slides downward on the slope plane 
-(b) the speed when leaving the plane tilted 
-(c) the horizontal distance (L) from the table at which the block will hit the ground. 
-(d) The time elapsed between the time when the block is released and the time when it hits the block.
-I 'm on the ground .
-(e) Does the block mass influence any of the above calculations? 
-f) Draw the vector diagram of the forces at one point A (above the plane) and another 
-point B (during the fall), over the block.
+Determine:
+a) The acceleration of the block as it slides down the inclined plane
+b) the speed when it leaves the inclined plane
+c) the horizontal distance (L) from the table at which the block will hit the floor.
+d) The time elapsed from the moment the block is released until it strikes the
+floor
+e) Does the mass of the block affect any of the preceding calculations?
+f) Graph the vector diagram of the forces at point A (on the plane) and at another point B (during the fall), on the block.
 
 
 <!--fig:start-->
@@ -12500,8 +12142,6 @@ point B (during the fall), over the block.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q103" data-atom="q103" data-title="Argentina 2007 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -12562,18 +12202,15 @@ e) Il liquido è acqua? Considera la densità dell'acqua di 1 g/ cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The pressure-depth graph is 
+**Pressure-depth graph**
 
-103. The first is the Spanish. Blue, please. 
-Look at the graph of p = f (h) where p is the pressure and h is the depth, (i.e. the distance 
-The measurement of the surface of the liquid to each of the points considered.
-liquid contained in an uncovered tank. 
-Answer: 
-(a) What is the atmospheric pressure of the place where the reservoir is located? 
-(b) Write the equation of the straight line p = f(h) 
-(c) What is the slope value of the graph? What does it represent? 
-(d) What is the density of the liquid? 
-(e) Is the liquid water? Consider the density of water of 1 g/ cm3
+103. Santiago del Estero. Blue.
+Observe the graph of p = f(h), where p is the pressure and h is the depth (that is, the distance measured from the liquid surface to each of the points considered), for a liquid contained in an open tank. Answer:
+a) What is the atmospheric pressure at the location where the tank is situated?
+b) Write the equation of the line p = f(h)
+c) What is the value of the slope of the graph? What does it represent?
+d) What is the density of the liquid?
+e) Is the liquid water? Consider the density of water to be 1 g/cm³.
 
 
 <!--fig:start-->
@@ -12585,8 +12222,6 @@ Answer:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 2007 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery,object/resistor,object/switch,object/galvanometer"></span>
 
@@ -12643,29 +12278,23 @@ Gli interruttori sono aperti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Battery circuit and ampere meter**
+**Circuit with Battery and Ammeters**
 
-104. The first is the Spanish. Blue, please. 
-In the circuit shown in the figure, the battery and the ampheters, they have resistance.
-The internal ones are despicable. 
-I 'm not going to lie .
+104. Santiago del Estero. Blue.
+In the circuit shown in the figure, the battery and the ammeters have negligible internal resistances. Find:
 
-(a) The current passing through each of the ampheters, when all the
-The switches are off. 
-(b) Total heat dissipated in the resistors in 10 seconds. 
-(c) The energy supplied by the battery in 10 seconds. 
-(d) The current passing through each of the ampheters, when all the
+a) The current passing through each of the ammeters, when all the
+The switches are closed.
+b) The total heat dissipated in the resistors in 10 s.
+c) The energy supplied by the battery over 10 s.
+d) The current passing through each of the ammeters, when all the
 The switches are open.
-
-
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q105" data-atom="q105" data-title="Argentina 2007 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
@@ -12730,20 +12359,10 @@ Prendere gravità g = 10 M7seg2
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Track block with two rough areas**
+Block per track with two rough zones
 
-105. Eduardo Castex, the Pampa. Blue, please. 
-A block falls without friction from h1 at a speed of V1. There are two areas along the runway.
-rough with different coefficients, at different heights. Find out where the block stops 
-in case you do. 
-Data: mass = 6 kg. 
-L1 =1.2 m 
-h1 = 0.4 m 
-V1 = 1 m/s. H2 = 22 cm. 
-L2 = 1.5 m 
-The coefficient of friction of the coefficient of friction is 0.2
-The value of the product shall be the sum of the values of the product concerned.
-Take gravity g = 10 M7se2
+105. Eduardo Castex, La Pampa. Azul.
+A block falls without friction from h1 with a velocity V1. Along the track, two rough zones with different coefficients of friction are found at different heights. Determine where the block comes to a stop, if it does so. Data: mass = 6 kg, L1 = 1.2 m, h1 = 0.4 m, V1 = 1 m/s, H2 = 22 cm, L2 = 1.5 m, µ1, coefficient of friction 1 = 0.2, µ2, coefficient of friction 2 = 0.31. Take gravity g = 10 m/s².
 
 
 <!--fig:start-->
@@ -12755,8 +12374,6 @@ Take gravity g = 10 M7se2
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q106" data-atom="q106" data-title="Argentina 2007 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens"></span>
 
@@ -12803,24 +12420,16 @@ Dati: Radios della lente: R1 = (-10) cm. R2 = 10 cm. h1 = 60cm  h2 = 40 cm.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Convergent lens on water piles**
+Converging lens over a pool of water
 
-106. Eduardo Castex, the Pampa. Blue, please. 
-On the edge of a water stack (n of water = 1.333) a convergent lens of 
-The following shall be reported: At a height h = 10 cm. The optical axis is affected by a beam of light which 
-It ends up touching the surface of the water. Calculate how far away the edge A of the pile is from the point of contact
-The lightning on the bottom of it. 
-Data: Radius of the lens: R1 = (-10) cm. R2 = 10 cm. h1 = 60cm  h2 = 40 cm.
-
-
+106. Eduardo Castex, La Pampa. Azul.
+On the edge of a pool containing water (refractive index of water = 1.333), a converging lens with a refractive index n = 1.45 is placed. At a height h = 10 cm from the optical axis, a light ray is incident and ultimately strikes the water surface. Calculate the distance from edge A of the pool at which the ray strikes the bottom of the pool. Data: Radii of the lens: R1 = (-10) cm, R2 = 10 cm, h1 = 60 cm, h2 = 40 cm.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q107" data-atom="q107" data-title="Argentina 2007 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor,object/battery"></span>
 
@@ -12871,13 +12480,10 @@ Nota: Determinare le unità di ogni risultato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Water heating circuit**
+**Water-heating circuit**
 
-107. Eduardo Castex, the Pampa. Blue, please. 
-A current I with a Fem circulates per circuit. 24 Volt, R3 resistance is medium heat 
-20 minutes of water, which was initially at 20 oC. Si R1 = 5; R2 = 7 y 
-R3 is 5 ohms. Calculate the final water temperature. (c of water = 1 cal/g. ºC). 
-Note: Determine the units in each result.
+107. Eduardo Castex, La Pampa. Azul.
+A current I flows through the circuit, with an EMF of 24 volts; resistor R3 heats half a liter of water for 20 minutes, and the water was initially at 20 º°C. If R1 = 5, R2 = 7, and R3 = 5 ohms, calculate the final temperature of the water. (Specific heat of water = 1 cal/g·°C). Note: Determine the units in each result.
 
 
 <!--fig:start-->
@@ -12889,8 +12495,6 @@ Note: Determine the units in each result.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q108" data-atom="q108" data-title="Argentina 2007 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/block,object/pipe-tube"></span>
 
@@ -13142,51 +12746,38 @@ n2verde = 1,5
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Refraction in two media and filter**
+Refraction in Two Media and Filter
 
-109. City of Buenos Aires. Blue, please. 
-Imagine you have two means like the ones in the
-the following table is inserted: It incides at a 45° angle with a 
-source that emits only at two wavelengths: 
-The value of the product shall be the value of the product concerned. Both the n1 and 
-The n2 for each wavelength is different. 
+109. City of Buenos Aires. Azul.
+Imagine that you have two media like those in figure I. Incidence occurs at an angle of 45º using a source that emits only at two wavelengths: λyellow = 580 nm, λgreen = 450 nm. Both n1 and n2 differ for each wavelength.
  
  
 
-(a) Calculate the angle at which yellow and green rays exit when they pass from n1 to n2.
-(b) How long does it take, under these same conditions, for each beam to travel a distance 
-a = 1cm? Where a is the thickness of the middle n2 
-(c) At what angle do the two rays exit after crossing n2? Can you tell the difference between 
-One and the other wavelength? - Why? - I don't know. 
-As is well known, not all light that reaches an interface (medium shift) is transmitted. 
-Part of the light is reflected. 
-(d) Assuming that the portion of light transmitted is: 
+a) Calculate the angle at which the yellow and green rays emerge when they pass from n1 to n2.
+b) Under these same conditions, how long does it take each ray to travel a distance?
+a = 1 cm? Where a is the thickness of the n2 medium
+c) At what angle do the two rays emerge after passing through n2? Can one distinguish between
+Both wavelengths? Why? As is well known, not all of the light that reaches an interface (a change of medium) is transmitted. Some of the light is reflected.
+d) Assuming that the portion of light that is transmitted is:
  
-And the light source emits with the same intensity both wavelengths.
-(Yellow = green). Which of the two wavelengths is transmitted more frequently?
-What's the intensity? 
-(e) Assuming that successive media layers n1 and n2 alternate, does it consider that it can 
-use this device as a filter? - Why? - I don't know. 
+And that the light source emits both wavelengths with the same intensity (I0yellow = I0green). Which of the two wavelengths is transmitted with greater intensity?
+e) Assuming successive layers of media n1 and n2 alternate, do you think it can
+Can this device be used as a filter? Why?
  
-The data: 
-n1 yellow = 1,1 
+Data: n1amarillo = 1.1
  
-n2 yellow = 1.2 
+n2amarillo = 1.2
  
  
-n1green = 1.3 
+n1verde = 1.3
  
-n2green = 1,5
-
-
+n2verde = 1.5
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q110" data-atom="q110" data-title="Argentina 2007 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/sphere,object/rope-string"></span>
 
@@ -13512,41 +13103,28 @@ Densità del mercurio 13,6 g/cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mercury and dilation cube**
+Cube in Mercury and Expansion
 
-112. It's good grass, Tucumán. Blue, please. 
-A 200cm3 volume cube is made of a material with a density of 10.5 g/cm3 and is 
-It is completely immersed in a glass container with mercury and then released. Disdainfully
-the frictional forces: 
-(a) Express the value of the upward thrust the body receives from mercury. 
-(b) Calculate the value of the resulting force acting on the cube after it is released. 
-(c) What is the magnitude, direction and direction of the acceleration the body acquires? 
-(d) Assuming the cube has been released to a depth of 50 cm, how long 
-Will it take time to reach the surface of the mercury? 
+112. Yerba Buena, Tucumán. Blue.
+A cube with a volume of 200 cm³ is made of a material with a density of 10.5 g/cm³; it is fully submerged in a glass container filled with mercury and then released. Neglecting frictional forces:
+a) Express the value of the upward buoyant force that the body receives from the mercury.
+b) Calculate the magnitude of the resultant force acting on the cube after it is released.
+c) What are the magnitude, direction, and sense of the acceleration acquired by the body?
+d) Assuming the cube was released at a depth of 50 cm, how much time
+How long will it take to reach the surface of the mercury?
  
-The volume of the glass container is 3000 cm3 to 0 °C and is completely filled with
-mercury at this temperature. When heated to 100°C, 45cm3 of mercury is poured. 
+The volume of the glass container is 3000 cm³ at 0º °C, and at that temperature it is completely filled with mercury. When it is heated to 100º °C, 45 cm³ of mercury spills out.
  
-(e) How much heat was delivered to mercury? 
-(f) What was the actual dilation of mercury? 
-(g) What was the volumetric dilation of the vial? 
-(h) Calculate the coefficient of dilation of the glass from which the container is made. 
-(i) What will happen to the mercury density when heated, will it increase, decrease, or not?
-will it change? 
-(j) And the submerged part of the cube, will it increase, decrease, or not change? 
+e) What quantity of heat was transferred to the mercury?
+f) What was the actual expansion of the mercury? g) What was the volumetric expansion of the flask? h) Calculate the coefficient of expansion of the glass from which the container is made. i) What will happen to the density of the mercury when it is heated—will it increase, decrease, or remain unchanged? j) And the submerged part of the cube—will it increase, decrease, or remain unchanged?
  
-The data: 
-The volumetric coefficient of mercury is 0.18. 10-3 1/ºC 
-The specific heat of mercury 0,033 cal/g.oC 
-The concentration of mercury in the product shall be determined by the following criteria:
+Data: Volumetric coefficient of mercury 0.18 × 10⁻³ 1/°C; specific heat of mercury 0.033 cal/g·°C; density of mercury 13.6 g/cm³
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q113" data-atom="q113" data-title="Argentina 2007 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/battery,object/resistor"></span>
 
@@ -13629,42 +13207,26 @@ si fondono a causa del calore che questo fornisce. Quando si fonderà completame
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Battery, resistance and engine (fcem)**
+Battery, resistance and motor (fcem)
 
-113. It's good grass, Tucumán. Blue, please. 
-A fem E = 12 v battery and internal resistance r = 0,5 Ohm is connected in series with a 
-R = 4 Ohm and with an electric motor of f.c.e.m = 6 v and whose internal resistance 
-R = 1.5 Ohm. 
-When electrical charges pass through the engine they lose electrical energy, which is
-It turns into mechanical energy. Therefore an electric motor, as opposed to a generator 
-It draws energy from electrical charges, and for that reason, it's a source of force.
-The following conditions shall apply: In general, any apparatus or machine in which the
-Electricity is transformed into energy other than heat energy, it is a
-source of f.c.e.m. (receiver) The conversion of electrical energy into heat takes place in the
-electrical resistance. 
+113. Yerba Buena, Tucumán. Blue.
+A battery with emf E = 12 V and internal resistance r = 0.5 Ω is connected in series with a resistor R = 4 Ω and with an electric motor having back emf E_b = 6 V and internal resistance r' = 1.5 Ω. When electric charges pass through the motor, they lose electrical energy, which is converted into mechanical energy. Therefore, unlike an electric generator, an electric motor draws energy from the electric charges and, for this reason, is a source of back emf. In general, any device or machine in which electrical energy is converted into a type of energy other than thermal energy is a source of back emf (a receiving source). The conversion of electrical energy into heat occurs in electrical resistors.
  
-(a) Draw a diagram of this circuit. 
-(b) What is the value of the current passing through the engine? 
-(c) What power is dissipated by the Joule effect on the engine? 
-(d) What total power is dissipated by Joule effect? 
+a) Draw a diagram of this circuit.
+b) What is the value of the current flowing through the motor?
+c) What power is dissipated by the Joule effect in the motor?
+d) What total power is dissipated by Joule heating?
  
-Suppose that due to a mechanical defect the engine mentioned above stopped spinning 
-(even if the electric current continues to pass through the machine) 
+Suppose that, due to a mechanical defect, the aforementioned motor stopped rotating (even though electric current continued to flow through the machine).
  
-(e) What is the value of the current passing through the engine? 
-(f) What will the power dissipated by Joule effect in it be then? 
-(g) Please indicate why an electric motor can burn when it is prevented from turning (without being
-disconnect from your power supply). 
-(h) Suppose that a 1.5 kg ice cube. 0 or C is close to the circuit and starts at 
-melting due to the heat this provides. When will it completely melt?
+e) What will be the value of the current flowing through the motor?
+f) What, then, will be the power dissipated by the Joule effect in it? g) Explain why an electric motor can burn out when it is prevented from rotating (without being disconnected from its power supply). h) Suppose a 1.5 kg block of ice at 0 º °C is near the circuit and begins to melt due to the heat supplied by the circuit. How long will it take for the ice to melt completely?
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q114" data-atom="q114" data-title="Argentina 2007 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/pipe-tube"></span>
 
@@ -13891,30 +13453,23 @@ L'uomo è di 70 kg. Calcolare la massa della barca.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Sailboat and raft**
+Sailboat and raft
 
-115. San Miguel, Tucumán. Blue, please. 
-A sailboat wants to follow the direction marked by F on the bow of it, but the wind 
-blow in the direction indicated by 1, 2, 3, 4. The wind speed is such that 
-The pressure of the candle is 50 Kgf/m2, with an area of 20 m2. 
-(a) Assuming there is no water current, you want to know what force will move the boat,
-assuming that the candle is tilted at 45°. 
+115. San Miguel, Tucumán. Blue.
+A sailing boat wants to continue in the direction marked by F at its bow, but the wind blows in the perpendicular direction indicated by 1, 2, 3, 4. The wind speed is such that the wind exerts a pressure of 50 kgf/m² on the sail, which has an area of 20 m².
+a) Assuming there is no water current, it is desired to determine what force will set the boat in motion,
+Assuming that the sail vv’ is inclined at 45º.
  
  
 
-(b) If the boat is now travelling in the same direction but incorporates the river speed of 
-South to north and the candle is tilted 12 degrees, how much will the force that the water makes on it be worth?
-The boat? (assuming F remains constant). 
-(c) In an emergency, a wooden raft is thrown into the freshwater river with a density of 
-de 1000kg/m3. The density of the raft is 600 kg/m3, its area of 5.7 m2 and the volume 
-de 0.60m3. Find out how far down the river the raft is? 
-(d) If an overweight is added to the raft, indicate between which overweight values are added.
-It will sink. 
-e) A man wants to calculate the mass of the boat and he only has a tape measure. I 'm going to stop .
-The boat is still and headed towards the stern (we disregard the resistance of the
-water which can be done at small speeds). 
-The boat is 12m long and moves 4.5m with respect to the still water and mass.
-The man's weight is 70 kg. Calculate the mass of the boat.
+b) If the boat now travels in the same direction, but the river's velocity of  is incorporated
+On the north side, and the sail is inclined 12º—what will the magnitude of the force exerted by the water on the boat be? (assume that F remains constant).
+c) In the event of an emergency, a wooden raft is thrown into the freshwater river whose density is
+of 1000 kg/m³. The density of the raft is 600 kg/m³, its area is 5.7 m², and its volume is 0.60 m³. Determine how much the raft sinks in the river?
+d) If an excess weight is added to the raft, indicate between which excess-weight values it s
+Will sink.
+e) A man wants to calculate the mass of the boat and has only a measuring tape. He stands
+At the bow of the stationary boat, and it moves toward the stern (we neglect the resistance of the water, which is possible at low speeds). The boat is 12 m long and moves 4.5 m relative to the stationary water, and the man's mass is 70 kg. Calculate the mass of the boat.
 
 
 <!--fig:start-->
@@ -13926,8 +13481,6 @@ The man's weight is 70 kg. Calculate the mass of the boat.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q116" data-atom="q116" data-title="Argentina 2007 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/resistor"></span>
 
@@ -14163,40 +13716,28 @@ usando concetti di lavoro ed energia.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Board with connected masses**
+Board with Connected Masses
 
-117. San Miguel, Tucumán. Blue, please. 
-The chart in the figure, the initial velocity of the body 1 is 1 m/s 
-(a) Determine the speed acquired per m2 = 1.9 kg when the m1  4.0 kg has been
-displaced 0,75 m over the smooth horizontal board. 
-(b) Answer the above question, but considering that the surface is rough and that
-µ1 – 0,10 
-(c) If the board can be tilted 
-a diameter of not more than 30 mm,
-So the mass block 
-m1, go up the board by 
-action of m2. En t = 0, el 
-The system has an energy.
-The initial kinetic value of 2,50 J. 
-Determine the kinetic energy
-of the m1 block when the m2 block has fallen by 0,75 m. 
-(d) Is the mechanical energy of m1 conserved? ¿y la de m2? and the system consisting of m1 and 
-m2, bound together by a despicable mass rope? 
+117. San Miguel, Tucumán. Blue.
+In the diagram, the initial velocity of body 1 is 1 m/s.
+a) Determine the velocity acquired by m2 = 1.9 kg when m1 – 4.0 kg has
+Displaced 0.75 m on the smooth horizontal deck.
+b) Answer the previous question, but considering that the surface is rough and that
+µ1 – 0,10
+c) If the board can be tilted
+forming an angle of 13º, such that the block of mass m1 rises along the board under the action of m2. At t = 0, the system has an initial kinetic energy of 2.50 J. Determine the kinetic energy of block m1 when block m2 has descended 0.75 m.
+d) Is the mechanical energy of m1 conserved? And that of m2? And that of the system formed by m1 and m
+m2, joined by a rope of negligible mass?
  
 
-(e) Calculate the kinetic energy of the block m2, using the conclusion of d) 
-(f) If the board was rough (μ1  0.10), answer question (d) and calculate the EC of m2 
-using concepts of work and energy.
-
-
+e) Calculate the kinetic energy of block m2, using the conclusion from d)
+f) If the board were rough (µ1 – 0.10), answer question d) and calculate the Ec of m2 using concepts of work and energy.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 2007 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/pipe-tube"></span>
 
@@ -14255,30 +13796,16 @@ e la pressione idrostatica di Ph in A1 è 9 volte maggiore di quella di A2.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Blood kinetic energy in the artery**
+Kinetic energy of blood in an artery
 
-118. San Miguel, Tucumán. Blue, please. 
-A certain volume circulates through an artery .
-blood with a constant Q flow of 6,6 ml/s. La 
-The existence of an atheroma plaque makes the 
-Section A1 decreases with respect to Section 
-A2 (see figure). In A2 blood circulates .
-Developing a Kinetic Energy, Ec = 3145.5 
-Erg. 
-Calculate the kinetic energy (in erections) that 
-It will develop blood in A1 knowing that the
-The hydrostatic pressure variation Ph = 320 Ba 
-And the hydrostatic pressure Ph in A1 is 9 times greater than in A2.
-
-
+118. San Miguel, Tucumán. Blue.
+Through an artery, a certain volume of blood flows at a constant flow rate Q of 6.6 ml/s. The presence of an atherosclerotic plaque causes section A1 to have a smaller cross-sectional area than section A2 (see figure). In A2, the blood flows, developing a kinetic energy, Ec = 3145.5 erg. Calculate the kinetic energy (in ergs) that the blood will develop in A1, given that the change in hydrostatic pressure Ph = 320 Ba and that the hydrostatic pressure Ph in A1 is 9 times greater than in A2.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q119" data-atom="q119" data-title="Argentina 2007 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor,object/battery,object/switch"></span>
 
@@ -14349,23 +13876,12 @@ V = 12V
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Circuit heating lead and copper**
+**Circuit that heats lead and copper**
 
-119. San Miguel, Tucumán. Blue, please. 
-A circuit is provided (see figure). You close the switch for 40 seconds and then open it up being 
-1 L water volume according to data to calculate the lead temperature (please note that
-The water-lead-copper system is only interacting with R3 it's disregarding the exchange of 
-heat with the environment). 
+119. San Miguel, Tucumán. Blue.
+A circuit is available (see figure). The switch is closed for 40 s and then opened; given that the water volume is 1 L according to the data, calculate the temperature of the lead (note that the water-lead-copper system interacts only with R3, and heat exchange with the surroundings is neglected).
  
-Ce of Pb 0,031 cal/goC 
-The value of the cu 0,093 cal/goC 
-Water to 20 oC
-The Cu 's mass is 2.5 kg .
-The mass of the Pb is 2.5 kg 
-P1 = 3 Ω 
-Rt de R2 y R3 = 2 Ω 
-R2 = 4 Ω 
-V = 12V
+Ce of Pb 0.031 cal/g·°C Ce of Cu 0.093 cal/g·°C To of water 20 ºC Mass of Cu is 2.5 kg Mass of Pb is 2.5 kg P1 = 3 Ω Rt of R2 and R3 = 2 Ω R2 = 4 Ω V = 12 V
 
 
 <!--fig:start-->
@@ -14377,8 +13893,6 @@ V = 12V
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q120" data-atom="q120" data-title="Argentina 2007 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
@@ -14441,32 +13955,22 @@ Conservazione della quantità di movimento? giustifica.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**New year (spanish for "small" year)**
+New Year (exploding firework)
 
-120. Cordoba. Blue, please. 
-It's the new year. In the middle of the celebration, we decided to throw a 1.10 m long dagger and that
-has a mass of 200 grams (of which only 10 g are of rod and 90 g are of gunpowder),
-whose mesh is 90 cm from the floor, putting it in a long tube to make sure it rises.
-It's very vertical. When it reaches 40 m from the ground it stops its ascent and explodes in 10 equal parts .
-With beautiful lights, all in horizontal direction. 
-One of the parties finally hits the neighbor's table, 1 meter high, located at 30
-metres from our launch site. 
-It is requested to determine: 
-(a) If our neighbor's reaction time at that time of night is 3 seconds
-After the bullets explode, is it enough to get out of the car running before you get to your
-The table? 
-(b) How quickly will it hit your sweet bread? 
-(c) With what kinetic energy? 
-(d) Is it possible to find horizontal velocity using these data by applying the principle of 
-Conservation of the amount of movement? You justify it.
+120. Córdoba. Azul.
+New Year. In the midst of the celebrations, we decided to launch a firework rocket 1.10 m long and weighing 200 grams (of which only 10 g is the rod and 90 g is the gunpowder); its fuse is 90 cm above the ground, and we placed it in a long tube to ensure it rises vertically as it should. When it reaches 40 m above the ground, it stops rising and explodes into 10 equal parts with beautiful lights, all in a horizontal direction. One of the parts ultimately hits the neighbor's table, which is 1 meter high and located 30 meters from our launch site. It is required to determine:
+a) If our neighbor's reaction time at that time of night is 3 seconds
+After the flare goes off, will that be enough time for you to run away before it reaches your table?
+b) At what speed will it hit your sweet bread?
+c) With what kinetic energy?
+d) Is it possible, with these data, to find the horizontal velocity by applying the Principle of
+Conservation of Momentum? Justify.
 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 2007 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -16378,102 +15882,38 @@ H) Valutare un valore per l'errore commesso nel calcolo della refraczione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Refractive index of water
 
-128. The city of Mar del Plata, Buenos Aires. Blue, please. 
-Objective: Determine the refractive index of water. 
+128. Mar del Plata, Buenos Aires. Azul.
+Objective: To determine the refractive index of water.
  
-The first is the introduction.
-The refractive index is a physical quantity, without units, that tells us how fast
-Light travels within a substance relative to how it travels in vacuum. The reference is taken from the
-It's empty because that's where the light has a maximum value, which is known as the constant c = 
-300 000 km/s or so. 
-In other transparent media such as water or glass, the speed of light decreases. 
-The refractive index (n) is defined as the ratio between the speed of light in vacuum, c, 
-And the speed of light v, in that medium. n =  c/ v 
-In this experiment we propose you measure the refractive index of water by using a
-The technique that takes advantage of a property related to this change in the speed of light to 
-It's called refraction. It is known that light propagates in a straight line.
-When traveling in a certain medium but when a beam of light passes from one medium to another it is 
-observes that the beam is propagating in a different direction than the incident beam; i.e.
-The direction of light propagation is altered when it passes from one medium A to another B. Like 
-Figure 1 is shown. 
-When what you see in the figure happens we say that 
-The light experiences refraction, which means that the light is
-refractory when moving from medium A to medium B. 
-It 's interesting to see that this behavior has a law .
-A mathematical concept known as Snell 's Law that relates us
-the refractive index of each medium, the angle 
-The incident α and the angle of refraction β. All these angles 
-measured relative to the vertical or normal. 
-( )
-( )
-β
-α
-Other
-n
-Other
-n
-B
-A
-⋅
-=
-⋅
+Introduction The refractive index is a physical quantity with no units; it indicates the speed at which light travels within a substance relative to the speed at which it travels in a vacuum. The vacuum is taken as the reference because it is there that light has its maximum value, known as the constant c ≈ 300,000 km/s. In other transparent media, such as water or glass, the speed of light decreases. The refractive index (n) is defined as the quotient of the speed of light in a vacuum, c, and the speed of light, v, in that medium. n = c/v In this experiment, we propose that you measure the refractive index of water using a technique that exploits a property related to this change in the speed of light as it passes through different media—a property called refraction. It is known that light propagates in a straight line when it travels in a given medium, but when a beam of light passes from one medium to another, the beam is observed to propagate in a direction different from that of the incident beam; that is, the direction of propagation of light changes when it passes from medium A to medium B, as shown in Figure 1. When what is observed in the figure occurs, we say that the light undergoes refraction—that is, the light is refracted as it passes from medium A to medium B. It is interesting to note that this behavior follows a mathematical law known as Snell's Law, which relates the refractive indices of each medium, the angle of incidence α, and the angle of refraction β. All these angles are measured with respect to the vertical or the normal. ( ) ( ) β α sen n sen n B A ⋅ = ⋅
  
  
-In our experiment, the light source is a red line (L) drawn on a piece of paper, the medium.
-What goes through the light first is the water and then the air. The conveyor and the brooch with the 
-The tube will be used to measure the angle of refraction of light when it comes out of the water, the angle.
-We'll measure the incident by calculating the geometrical parameters around the line. Look at the
-The following table shows the following: 
+In our experiment, the light source is a red line (L) drawn on paper; the first medium through which the light passes is water, and then air. The protractor and the clip with the small tube will be used to measure the angle of refraction of the light as it emerges from the water; we will measure the angle of incidence by calculating the geometric parameters surrounding the line. Observe Figure 2.
  
 
  
-Materials 
+Materials
  
-- 
-The strict plastic rule.
-- 
-A graduate cardboard conveyor in degrees.
-- 
-A wood .
-- 
-A brooch with a tube glued .
-- 
-A transparent plastic container 
-- 
-A sheet of paper .
-- 
-Other, not further worked than hot-rolled
-- 
-Water
+Rigid plastic ruler A cardboard protractor graduated in degrees A piece of wood A clasp with a tube attached A transparent plastic container A sheet of paper Adhesive tape Water
  
-Experimental procedure (in the laboratory) 
+Experimental procedure (IN THE LABORATORY)
  
-1- Place the sheet of paper on the table and fasten it with adhesive tape. 
-2- Place the conveyor parallel to the upper margin of the leaf with the O point matching 
-With the red line drawn on the leaf 
-3- Place the empty container on the edge of the leaf, next to the conveyor. 
-4- Fill the container with water up to the horizontal red line of 90° of the conveyor. 
-5- Measure the water height H. 
-6- Place the tube brush at a β angle of 70°, keeping the radial tube in the centre 
-C. Move the conveyor (forward or backward) until you see the red line through the
-I'm going to tell you. Measure the distance X, between the red line the O-point of the transporter. Tab the value 
-measured. 
-7- Repeat step 6 at least five times by decreasing the angle β 
+1- Place the sheet of paper on the table and secure it with adhesive tape. 2- Position the protractor parallel to the longer edge of the sheet, with point O coinciding with the red line drawn on the sheet. 3- Place the empty container on the line on the sheet, next to the protractor. 4- Fill the container with water up to the horizontal red line at 90º on the protractor. 5- Measure the height H of the water. 6- Place the clip with the small tube at an angle β of 70º, keeping the tube radial to the center.
+C. Move the protractor (forward or backward) until you see the red line through the
+Quickly. Measure the distance X between the red line and point O on the protractor. Tabulate the measured value. 7- Repeat step 6 at least five times, decreasing angle β.
  
 
-Activities (in the classroom) 
-A) Make a table with the measured values of X and β. 
-(b) Calculate the values of α for each case measured. 
-C) Make a table with sen(β) and sen(α). 
-(D) Graph sen(β) according to sen(α). 
-E) Analysis in the above chart What does the slope represent? 
-F) Calculate the refractive index of water, taking naire = 1. 
-G) Perform an analysis of errors made in the experience to determine 
+Activities (IN THE CLASSROOM)
+A) Create a table with the measured values of X and β.
+B) Calculate the values of α for each measured case.
+C) Create a table with sin(β) and sin(α).
+D) Plot sen(β) as a function of sen(α).
+E) In the preceding graph, analyze what the slope represents.
+F) Calculate the refractive index of water, assuming n_air = 1. G) Perform an analysis of the errors made in the experiment to determine
  
-the refractive index of the water. 
-H) Estimate a value for the error in the refractive calculation.
+the refractive index of water. H) Estimate a value for the error made in the calculation of refraction.
 
 
 <!--fig:start-->
@@ -16486,8 +15926,6 @@ H) Estimate a value for the error in the refractive calculation.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q129" data-atom="q129" data-title="Argentina 2007 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
@@ -16534,24 +15972,16 @@ Tutti i calcoli effettuati devono essere giustificati
 
 <div class="qlang-split" data-lang="en"></div>
 
-The value of the underlying material shall be the sum of the values of the underlying materials.
+Density of a solid (pycnometer)
 
-129. City of Buenos Aires. Green, please. 
-Determine the density of a solid and calculate the error made 
-Elements used: 
-Picnometer .
-Distilled water 
-Solid fractionated in bulk 
-Weighing 
-All calculations made must be justified
+129. City of Buenos Aires. Green.
+Determine the density of a solid and calculate the error made. Elements used: pycnometer, distilled water, solid fragmented into granules, balance. All calculations performed must be justified.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q130" data-atom="q130" data-title="Argentina 2007 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/pendulum"></span>
 
@@ -17092,107 +16522,30 @@ Commenti che vorrebbe fare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Wight of one hair (diffraction)**
+Hair thickness (diffraction)
 
-131. City of Buenos Aires. Blue, please. 
-The objective: 
-Determine the thickness of a hair from a ritual mummy incaica1. 
+131. City of Buenos Aires. Blue.
+Objective: To determine the thickness of a hair from an Inca ritual mummy1.
  
-Materials: 
-• 
-Optical bank. 
-• 
-Magnetic bases. 
-• 
-Slide frame. 
-• 
-It's a tape. 
-• 
-Laser light source. 
-• 
-Diffraction network 
-• 
-Plaques are creased. 
-• 
-White screen. 
-• 
-Converging lenses. 
-• 
-The millimeter rule. 
-• 
-It's a tape measure. 
+Materials: • Optical bench. • Magnetic bases. • Slide frame. • Adhesive tape. • Laser light source. • Diffraction grating. • Slotted plates. • White screen. • Converging lenses. • Millimeter ruler. • Measuring tape.
  
-Theoretical framework:
-If you pass a beam of light through a hole
-small enough, it diffracts. If the light is 
-It is monochromatic and coherent, and it is collected in a
-screen placed at a sufficient distance 
-The main thing is that the image of the source is not visible.
-The average number of people in the area is about 0.
-Light and dark (maximum and minimum) called 
-the diffraction pattern. The shape of the pattern depends on the
-From the hole, from the distance d from the screen to the plate 
-Hole, and wavelength λ 
-λ λ 
-λ of the incident beam. 
-In the case of a much longer than wide slot or
+Theoretical Framework: If a beam of light is passed through a hole small enough, it diffracts. If the light is monochromatic and coherent, and if it is collected on a screen placed at a sufficiently large distance, then instead of observing the image of the source, one observes a regular distribution that alternates between illuminated and dark regions (maxima and minima), called a diffraction pattern. The shape of the pattern depends on the shape of the hole, on the distance d from the screen to the perforated plate, and on the wavelength λ λ λ λ of the incident beam. In the case of a slit that is much longer than it is wide or
 
-The distance ∆x between two consecutive minima near the 
-The center of the pattern is given very approximately by: 
-e
-λ
-d
-∆x =
+For a very thin obstacle, the distance ∆x between two consecutive minima near the center of the pattern is given very approximately by: e λ d ∆x =
  
-where e is the width of the slot or the thickness of the obstacle. 
-If instead of a single slot, it's a periodic network of them, called a diffraction network,
-A similar pattern is also observed. In this case, the separation ∆x between the central maximum and 
-Its adjacent depends on the number of lines per unit of length n of the network, the length 
-λ of the light and the distance d from the network to the screen according to: 
-∆x = n λ 
-λ λ 
-λ d 
+where e is the width of the slit or the thickness of the obstacle. If, instead of a single slit, there is a periodic array of slits called a diffraction grating, a similar pattern is also observed. In this case, the separation ∆x between the central maximum and its adjacent maximum depends on the number of lines per unit length n of the grating, on the wavelength λ of the light, and on the distance d from the grating to the screen, according to: ∆x = n λ λ λ λ d
  
-The procedure: 
-1) Dispose the material in a convenient manner so that it can pick up patterns on the screen 
-of diffraction. 
-2) With the material provided, obtain and register a pattern that allows you to obtain a
-measurement of the wavelength of the laser light from the source. 
-3) Place the hair of the mummy through the slide frame, fixing it to this one 
-with adhesive tape. 
-4) Fix the frame to a base and obtain and record the light pattern diffracted by the
-- The hair. 
-5) Get a measure of the thickness of the hair from this. 
+Procedure: 1) Arrange the materials in a suitable manner so that diffraction patterns can be collected on the screen. 2) Using the provided materials, obtain and record a pattern that will allow you to obtain a measurement of the wavelength of the light from the laser source. 3) Place the mummy's hair across the slide mount and secure it to the mount with adhesive tape. 4) Attach the mount to a base and obtain and record the pattern of the light diffracted by the hair. 5) From this, obtain a measurement of the hair's thickness.
  
-The data: 
-• 
-Network density: n= 600 lines/mm 
+Data: • Network density: n = 600 lines/mm
  
-Requirements: 
-Only the data elements, paper, pen and calculator may be used. The report shall be drawn up by the
-be noted: 
-• 
-Description of the procedure used in each party. 
-• 
-Value obtained from measurements made. 
-• 
-Experimental result indicating an indeterminate interval. 
-• 
-The results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the analysis of the results of the results of the analysis of the results of the analysis of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the results of the analysis of the results of the results of the results of the analysis of the results of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the analysis of the results of the results of the results of the results of the results of the analysis.
-the calculation of the interval or the grounds for its estimation. 
-• 
-Any comments you want to make. 
-If you don't have a mummy, use your own hair.
-
-
+Requirements: Only the provided materials—paper, pencil, and calculator—may be used. The report must include: • A description of the procedure used in each part. • The values obtained from the measurements taken. • The experimental result, indicating an uncertainty interval. • Sources of error and an analysis of how they affect the final result, specifying the method for calculating the interval or the basis for estimating it. • Any comments you wish to make. 1 If you do not have a mummy, use your own hair.
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Slit (object)|Slit]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q132" data-atom="q132" data-title="Argentina 2007 Locale — Quesito 132" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
@@ -17381,95 +16734,49 @@ Determina il valore di c con il suo errore.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Specific heat of a metal (calorometer)**
+Specific heat of a metal (calorimeter)
 
-132. City of Buenos Aires. Blue, please. 
-The objective 
-The experiment's goal is to determine the specific heat of a metal. 
+132. City of Buenos Aires. Azul.
+Objective: The objective of the experiment is to determine the specific heat of a metal.
  
-Materials 
-The materials to be used are: 
-- an open thermometer,
-- a glass of 250 cm3 of graded precipitate,
-- a timepiece,
-- a thermometer,
-- a revolver,
-- a hot water source,
-- a glass of precipitate labeled deposit and 
-- a card indicating the mass value of the calorimeter. 
+Materials The materials to be used are: - an open calorimeter, - a graduated 250 cm³ beaker, - a stopwatch, - a thermometer, - a stirrer, - a source of hot water, - a beaker labeled "reservoir", and - a card indicating the mass of the calorimeter.
  
-1. Get 50 cubic centimetres of hot water from the rainwater glass. 
+1. Obtain 50 cm³ of hot water from the beaker.
  
-2. Transfer the 50 cm3 of hot water to the calorimeter and write the water temperature θ. 
-Simultaneously, start measuring time with the chronometer (time t=0 sec) and record the time
-temperatures for the next eight minutes. Turn it on continuously. 
+2. Transfer the 50 cm³ of hot water into the calorimeter and record the temperature θ of the water.
+At the same time, start timing with the stopwatch (time t=0 s) and record the temperatures over the next 8 minutes. Stir continuously.
  
-θ = 
+θ =
  
-3. Deposit the water from the calorimeter in a precipitate glass labeled "deposit". You didn 't .
-You'll be using this water again. 
-Repeat one. y 2. using 125 cubic centimeters of hot water. The initial temperature should be similar to 
-used in 2. You might have to wait for the temperature to drop before you start the heat .
-measurements. 
+3. Pour the water from the calorimeter into the beaker labeled "depósito". You do not
+You will use this water again. Repeat 1 and 2 using 125 cm³ of hot water. The initial temperature should be similar to that used in 2. You may need to wait for the temperature to drop before starting the measurements.
  
-4. Make a table with the measurements obtained in both cases. 
+4. Create a table of the measurements obtained in both cases.
  
-5. Graph the temperature θ according to time t (in minutes) for both measurements. 
-Indicate with an A the curve corresponding to the measurement with 50 cm3 of water, and with a B a 
-The one with 125 cm3 of water. 
+5. Plot the temperature θ as a function of time t (in minutes) for both measurements.
+Label the curve corresponding to the measurement with 50 cm³ of water with an A, and the one corresponding to the measurement with 125 cm³ of water with a B.
  
 
-6. Choose two temperatures θ1 and θ2 that are separated by 10 oC and within the range of both 
-curves. Record the values of θ1 and θ2. 
+6. Choose two temperatures θ1 and θ2 that are separated by 10 ºC and lie within the range of both.
+Curves. Record the values of θ1 and θ2.
  
-7. The time in which the temperature decreases from θ1 to θ2 is tA for curve A and tB for curve B. 
-i. Move on your chart how you determined tA and tB values. 
-ii. Record the values of tA and tB. 
+7. The time it takes for the temperature to decrease from θ1 to θ2 is tA for curve A and tB for curve B.
+i. Show in your graph how you determined the values of tA and tB. ii. Record the values of tA and tB.
  
-8. Estimate the errors involved in the measurements made. You justify it. 
+8. Estimate the errors involved in the measurements carried out. Justify.
  
-9. The theory suggests that: 
-,
-125
-50
-w
-w
-B
-A
-c
-m
-c
-m
-c
-m
-c
-m
-t
-t
-×
-+
-×
-×
-+
-×
-=
+9. The theory suggests that:
+, 125 50 w w B A c m c m c m c m t t × + × × + × =
  
-Where 
-m: is the mass of the calorimeter given on the card, 
-m50: is the mass, in kg, of 50 cm3 of water, 
-m125: is the mass, in kg, of 125 cm3 of water, 
-cw: is the heat capacity of water, 4184 J kg-1K-1, 
-c: is the heat capacity of the calorimeter. 
+where m is the mass of the calorimeter given on the card, m50 is the mass, in kg, of 50 cm³ of water, m125 is the mass, in kg, of 125 cm³ of water, cw is the heat capacity of water, 4184 J kg⁻¹K⁻¹, and c is the heat capacity of the calorimeter.
  
-Determine the value of c with its respective error.
+Determine the value of c along with its corresponding error.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q133" data-atom="q133" data-title="Argentina 2007 Locale — Quesito 133" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
@@ -17516,24 +16823,16 @@ Una regola.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Length of a period pendulum 1s**
+Length of a pendulum with a period of 1 s
 
-133. Santa Fe. Green, please. 
-It determines experimentally the length a simple pendulum must have, so that its
-period is 1 (S) 
-Materials to be used: 
-It's a timepiece. 
-A thread of 1.5 m. 
-A mass. 
-It's a rule.
+133. Santa Fe. Green.
+Determine experimentally the length that a simple pendulum must have so that its period is 1 s. Materials to be used: a stopwatch, a 1.5 m string, a mass, a ruler.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q134" data-atom="q134" data-title="Argentina 2007 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/block"></span>
 
@@ -17680,33 +16979,21 @@ e. Risultato sperimentale della richiesta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Specific weight, volume and thrust**
+Specific weight, volume, and buoyancy
 
-135. Rawson, Chubut. Blue, please. 
-What will be the specific weight, volume of a body and the thrust it receives?
-when you dip it in a container of water? 
-Materials to be used: 
-1. The following table shows the results of the calculation of the weight of the product:
-2. Dynamometer .
-3. Graduated test
-4. Glass container 
-5. Glass glass .
-6. Calculator 
-Requirements: you can only use the items offered. 
-A report on the experience shall be drawn up and shall contain:
-a. Analytical approach to the problem. 
-b. Experimental method used. 
-c. Value obtained from measurements made. 
-d. Calculation of error and how it influences the final result. 
-e. Experimental result of the requested.
+135. Rawson, Chubut. Azul.
+What will the specific weight be, what will the volume of a body be, and what buoyant force will the body experience when it is submerged in a container filled with water? Materials to be used: 1. Body (stone, metal sphere, aluminum cube, etc.) 2. Dynamometer 3. Graduated cylinder 4. Glass container 5. Glass beaker 6. Calculator Requirements: you may use only the items provided. Prepare a report on the experiment; the report must include:
+a. Analytical formulation of the problem.
+b. Experimental method used.
+c. Values obtained from the measurements carried out.
+d. Calculation of the error and how it affects the final result.
+e. Experimental result of what was requested.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q136" data-atom="q136" data-title="Argentina 2007 Locale — Quesito 136" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/capacitor,object/battery"></span>
 
@@ -18191,41 +17478,22 @@ risultato della richiesta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Specific weight of cork**
+Specific weight of cork
 
-139. San Salvador, Jujuy. Blue, please. 
-OBJECTIVE: Determine the specific weight of a light body (cork) 
+139. San Salvador, Jujuy. Blue.
+OBJECTIVE: To determine the specific weight of a light body (cork)
  
-Elements to be used: 
-- 
-It's a plastic glass. 
-- 
-Water (specific weight 1 grf/cm3)
-- 
-Electronic balance sheet 
-- 
-I 'm not .
-- 
-Cork .
-- 
-Metal body 
+ELEMENTS TO BE USED: Plastic vessel. Water (specific weight 1 gf/cm³). Electronic scale. Thread. Cork. Metallic body.
  
-The following requirements: 
-Present the results in a report containing: 
-1- Description of the procedure carried out. 
-2- Experimental values obtained from direct measurements made by you. 
-3- The calculation of the specific weight requested. 
+REQUIREMENTS: Present the results in a report that includes: 1- A description of the procedure carried out. 2- The experimental values obtained from direct measurements taken by you. 3- The calculation of the requested specific weight.
 
-4- Determination of experimental errors for each of the measurements and for the
-result of the requested.
+4- The determination of experimental errors for each of the measurements and for the result of what was requested.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q140" data-atom="q140" data-title="Argentina 2007 Locale — Quesito 140" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/wire,object/magnet"></span>
 
@@ -19549,39 +18817,20 @@ Per raggiungere l'obiettivo devono seguire la seguente sequenza:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Period and length of a pendulum**
+**Period and Length of a Pendulum**
 
-149. City of Buenos Aires. Blue, please. 
-The objective: 
-Determine the relationship between the period and length of a pendulum 
+149. City of Buenos Aires. Azul.
+Objective: To determine the relationship between the period and the length of a pendulum
  
-Materials: 
-• 
-Universal support 
-• 
-I 'm not .
-• 
-Weighs 50 g
-• 
-The time-meter .
-• 
-Rule 
-• 
-Millimeter paper 
+Materials: • Universal stand • Thread • 50 g weight • Stopwatch • Ruler • Graph paper
  
-To achieve the objective, the following sequence must be followed: 
-1. Armed the pendulum with the elements that were delivered to them .
-2. They conduct an experiment to achieve the objective set.
-3. Draft the relevant report 
-4. Determine the value of g with the least experimental uncertainty
+To achieve the objective, they must follow the sequence below: 1. Assemble the pendulum using the components provided to them; 2. Carry out an experiment to achieve the stated objective; 3. Draft the corresponding report; 4. Determine the value of g with the smallest experimental uncertainty.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q150" data-atom="q150" data-title="Argentina 2007 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
@@ -19823,14 +19072,10 @@ con il loro errore.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Minimum deviation angle of a prism**
+Minimum deviation angle of a prism
 
-151. San Miguel, Tucumán. Green, please. 
-Determination of the minimum deviation angle of a prism. 
-If a ray of light hits one side of a triangular prism it will come out through another of its three faces.
-with a different angle of refraction. At the angle that the incident lightning enters with the 
-The resulting refractory is called the angle of deflection. The deviation is minimal when the
-The path of the beam within the prism is parallel to the base of the prism. 
+151. San Miguel, Tucumán. Green.
+Determination of the minimum deviation angle of a prism. If a ray of light strikes one face of a triangular prism, it will emerge from another of its three faces at a different angle of refraction. The angle formed by the incident incoming ray and the refracted outgoing ray is called the deviation angle. The deviation is minimal when the path of the ray inside the prism is parallel to the base of the prism.
  
  
  
@@ -19838,47 +19083,30 @@ The path of the beam within the prism is parallel to the base of the prism.
  
  
  
-δ 
+δ
  
  
  
  
  
-      δm 
-         Φ1                                                        Φ2  
+δm Φ1 Φ2
  
  
-   Φ1                                                     Φ2                
+Φ1 Φ2
                
        
  
-Measurement procedure 
-1- Fix the prism on a millimeter sheet of paper as much as possible. 
+Measurement Procedure 1 - If possible, secure the prism on a sheet of graph paper.
 
-2- Use the laser to point to the prism and verify that the trajectory of the laser is parallel to 
-The prism base is so that the angle of incidence required for a 
-The minimum deviation. 
-3-Put the laser in such a way that it stays in the direction indicated in the 2-, with a trace rule 
-a straight line representing the angle of incidence. 
-4- Measure by trigonometric relations the angle of incidence for the deviation 
-I mean, it's not. 
-5- Take different values from this angle. 
+2- Point the laser at the prism and verify that the laser beam is parallel to the base of the prism in such a way that the angle of incidence required for minimum deviation is obtained. 3- Secure the laser so that it is in the direction indicated in 2-; using a ruler, draw a straight line representing the angle of incidence. 4- Measure the angle of incidence for minimum deviation using trigonometric relationships. 5- Take different values of this angle.
  
-Questionary 
-1- Make a table showing the values of the angle of incidence for 
-a minimum deviation, the values of the trigonometric variables used 
-(coordinates in the plane) to calculate it and the average value of the angle in question 
-with their respective mistakes. 
-2- Find the relationship between the angle of incidence and the angle of minimum deviation. 
-3- Determine and express the value of the minimum angle of deviation.
+Questionnaire 1 - Prepare a table showing the values of the angles of incidence for minimum deflection, the values of the trigonometric variables used (coordinates in the plane) to calculate it, and the average value of the angle in question together with its corresponding error. 2 - Find the relationship between the angle of incidence and the angle of minimum deflection. 3 - Determine and state the value of the angle of minimum deflection.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Prism (object)|Prism]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q152" data-atom="q152" data-title="Argentina 2007 Locale — Quesito 152" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -20118,49 +19346,18 @@ non calcolare il volume.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the following:
+**Determination of Absolute Zero (Gas)**
 
-153. City of Buenos Aires. Green, please. 
+153. City of Buenos Aires. Green.
                                                                           
   
  
-The experimental steps described below will aim to calculate the value 
-The temperature of the test chemical is the lowest possible temperature, i.e. ZERO ABSOLUTO or 0°K(ZERO KELVIN). 
-Why is it the lowest possible? We 'll see that some of the air volume studied is gone .
-reducing by lowering the temperature. This is because, according to the kinetic theory of molecules,
-gas molecules (which are assumed to be non-volume points) are moving more slowly. 
-But if the temperature keeps going down, there will come a time, according to that theory, when they will be in the
-The volume they will occupy will be zero and less volume 
-That's not possible. 
-The experiment consists of measuring the volume of a gas mass to which it is being changed.
-temperature . 
-The experimental arrangement is shown in Figure 1: a thick wall glass tube with 
-Its lower end is closed, which we'll call the capillary tube, inside which there are two drops of
-mercury, which contains the mass of gas (air) being studied. Between the drop 
-The lower, short and upper, long, are defined as the (cylindrical) volume of air of which the value is 
-It shall be: 
-The following table shows the results of the calculation of the total volume of the air flow:
-where R is the inner radius of the capillary and d is the separation between the mercury droplets. 
-At an initial point, the tube is immersed in a bottle of water at temperature.
-The temperature of the water is measured by measuring the temperature t1 and the distance d1 between the drops. Notice how they did it .
-measurement of distance d: first, before the tube is introduced into water, L and h are measured (always 
-Heat .
-Water
+The experimental steps described below will aim to calculate the lowest possible temperature value, that is, “ABSOLUTE ZERO” or “0°K(ZERO KELVIN)”. Why is it “the lowest possible”? We will see that a given volume of the air under study decreases as the temperature falls. According to kinetic-molecular theory, this is because the gas molecules (assumed to be point-like and without volume) move more slowly. But if the temperature continues to fall, according to that theory there will come a point at which the molecules come to a complete stop; therefore, the volume they will occupy will be zero, and it is impossible to have a volume less than that. The experiment consists of measuring the volume of a mass of gas whose temperature is varied. The experimental arrangement is the one shown in Fig. 1: a thick-walled glass tube with its lower end closed, which we will call the “capillary” tube; inside it there are two drops of mercury, between which the mass of gas (air) under study is enclosed. Between the lower, short drop and the upper, long drop, the (cylindrical) volume of air is defined, and its value will be: AIR VOLUME = BASE × HEIGHT = πR2 × d, where R is the inner radius of the capillary and d is the separation between the drops of mercury. At an initial moment, the tube is immersed in a bottle containing water at room temperature (Fig. 2), and the temperature t1 and the distance d1 between the drops are measured. Note how the distance d is measured: first, before the tube is put into the water, L and h are measured (water is always CALOR
 
-measured between the ends of the meniscus of mercury), then, already immersed in the bath water, 
-t1 and h1 are measured and calculated 
-                                                                      d1 = h1- L   
-This is not an unnecessary complication since when you submerge the capillary tube in the thermos with
-Hot water for the second measurement (t2 and d2), the only thing that will be seen from the whole set will be the 
-the upper end of the mercury column and d2 = h2-L  shall be calculated
+It is measured between the ends of the mercury menisci); then, once it has been immersed in the water bath, t1 and h1 are measured and d1 = h1 - L is calculated. This is not an unnecessary complication, since when the capillary tube is immersed in the thermos containing hot water for the second measurement (t2 and d2), the only part of the entire assembly that will be visible will be the upper end of the mercury column, and d2 = h2 - L will be calculated.
                                                                                                                             
-This paragraph has caused confusion. Some students tried to calculate the air volume between 
-The results of the calculation of the number of drops (impossible- not knowing the internal R-, and unnecessary, because for the purposes of calculating the
-the Absolutely zero, gives the same graph T=T(d) as T=T(VOL), since VOL=0 <=> 
-d=0.). While the test was clarified verbally, there was confusion, as a criterion of correction.
-The test was taken to give the test well solved to those who did well the graph T=T(d), obtaining a 
-The value is approximately correct for the absolute zero and not considering whether they tried or
-Not to calculate the volume.
+* THIS paragraph caused confusion. Some students tried to calculate the volume of air between
+The drops (impossible—since R interior was unknown—and unnecessary, because for the purpose of calculating “ABSOLUTE ZERO,” it makes no difference whether T = T(d) or T = T(VOL) is plotted, since VOL = 0 <=> d = 0). Although this was clarified orally in the test, there was confusion; as a marking criterion, it was decided to regard the test as successfully completed for those who plotted T = T(d) correctly and obtained a more or less correct value for “ABSOLUTE ZERO,” and not to take into account whether they had attempted to calculate the volume or not.
 
 
 <!--fig:start-->
@@ -20173,8 +19370,6 @@ Not to calculate the volume.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q154" data-atom="q154" data-title="Argentina 2007 Locale — Quesito 154" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
@@ -20383,26 +19578,24 @@ Elaborare conclusioni.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Heat current change**
+**Variation of Current with Heat**
 
-155. It's the heat, the pumpkin. Blue, please. 
-The objective is to analyse the variation in current according to heat delivery time. 
+155. Caleufú, La Pampa. Blue.
+Objective: to analyze the variation of current as a function of the heat delivery time.
  
-Materials: conductor, board, battery, amp, metal bar, switch, mechanic 
-Bunnsen, timepiece, tripod, pencil, paper, calculator, squad. 
+Materials: conductor, board, battery, ammeter, metal bar, switch, Bunsen burner, stopwatch, tripod, pencil, paper, calculator, set square.
  
-Circuit armament: 
+Circuit assembly:
  
-Place the metal bar over the support, close the switch and measure the current in the circuit. 
+Place the metal bar on the support, turn the switch on, and measure the current in the circuit.
  
-Deliver heat (Q) to the bar and record the ampere signals every two minutes 
-until he's 16. 
+Supply heat (Q) to the bar and record the ammeter readings every two minutes until 16 minutes have elapsed.
  
-Make a chart and chart the current according to the time. 
+Prepare a table and plot the current as a function of time.
  
-Calculate the resistance for each time. 
+Calculate the resistance for each time.
  
-Drawing conclusions.
+Draw conclusions.
 
 
 <!--fig:start-->
@@ -20414,8 +19607,6 @@ Drawing conclusions.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q156" data-atom="q156" data-title="Argentina 2007 Locale — Quesito 156" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball,object/inclined-plane"></span>
 
@@ -21672,48 +20863,26 @@ nel calcolo delle velocità istantanee.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+Free-fall motion (stroboscopy)
 
-161. Cordoba. Blue, please. 
-The objective: 
-Study of the free fall movement. 
-Obtaining the time equation x = f(t) by working 
-graphics. 
+161. Córdoba. Azul.
+Objective: Study of free-fall motion. Derivation of the time-equation x = f(t) through graphical work.
  
-Material used: 
-Stroboscopic photography: a sphere falling. 
-It's a millimeter piece of paper. 
-It's a rule. 
+Materials used: Stroboscopic photograph: a sphere falling. Graph paper. Ruler.
  
-Let's start the experience:
-Estimate the uncertainties in the measurements of variables x and t and 
-Please see the information in the following table. 
-The time interval between two consecutive positions of the
-The spherite is ∆ t = 0,012 sec. 
-The initial velocity of the sphere is zero. 
+Let's begin the experiment: Estimate the uncertainties in the measurements of the variables x and t, and enter the information in the following table. The time interval between two consecutive positions of the small sphere is ∆t = 0.012 s. The initial velocity of the small sphere is zero.
 
  
-Consider the uncertainties ∆s and ∆t that occur when measuring. 
+Consider the uncertainties ∆s and ∆t that arise during measurement.
  
-Systematization of information: 
-Roll the product of your measurements into a table of values. 
+Systematization of information: Transfer the results of your measurements into a table of values.
  
  
 
-We process the information: 
-1. Graphically represent the data in the table x = f (t). He represents the 
-The same pair of axes the data corresponding to the tape (think carefully what scale you will use). 
-2. Look at the curve obtained. Venture a hypothesis about functional dependence 
-between x and t. 
-3. Graph x = f(t2) and tell me if the hypothesis is true. 
-4. Remember the concept of instantaneous speed and calculate it for every instant of time.
-For both curves, in the graph x = f(t). 
-5. Consider the sources of error that influence this calculation and determine the uncertainties 
-In the calculation of instantaneous speeds. 
-6. Build the following value table: 
+We process the information: 1. Create a graphical representation x = f(t) of the data contained in the table. On the same pair of axes, plot the data corresponding to the tape (think carefully about which scale you will use). 2. Observe the curve obtained. Propose a hypothesis regarding the functional dependence between x and t. 3. Plot x = f(t2) and state whether the hypothesis holds. 4. Recall the concept of instantaneous velocity and calculate it for each instant of time, for both curves, on the x = f(t) graph. 5. Consider the sources of error affecting this calculation and determine the uncertainties in the calculation of the instantaneous velocities. 6. Construct the following table of values:
  
  
-7. Graph the values v = f(t) of the table in the same pair of axes (v,t) of uncertainties. 
+7. Plot the values v = f(t) from the table on the same (v,t) axes as those for the uncertainties.
 8. Draw conclusions and compare the hourly equations studied.
 
 
@@ -21727,8 +20896,6 @@ In the calculation of instantaneous speeds.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q162" data-atom="q162" data-title="Argentina 2007 Locale — Quesito 162" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
 
@@ -21813,43 +20980,30 @@ Data: g = 9,8m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Proportionality constant K (Hooke)
 
-162. The first is the Spanish. Blue, please. 
-The aim is to find the proportionality constant (K) between the force acting on a
-The end of the spring, when suspended from it, different objects and the deformation (x) that these give
-The resulting product is F = Kx. This is called Hook's Law. 
-To achieve this goal, use the elements provided as follows. 
+162. Santiago del Estero. Blue.
+If you intend to find the proportionality constant (K) between the force exerted at one end of the spring when different objects are hung from it and the deformation (x) that these objects cause in the spring: F = Kx. This is the so-called Law of Hooke. To achieve this objective, use the provided elements as follows.
  
-1) Hang the spring vertically on the wooden support 
+1) Hang the spring vertically on the wooden support
 
-2) Place different objects (turkeys) on the free end of the spring and measure the
-The lengthening (with the rule) produced by the different masses. At this point it is 
-I recommend starting with the larger mass and adding the nuts from one in the
-- The bag that's being supplied. All masses are in their respective measure. 
-3) Measure the length of the suspension spring of the support without any object placed in it.
-lower end 
-4) Make a table with the data taken 
-5) Draw on Cartesian axes the ratio F = f (x), where F is the force applied to the spring 
+2) Place different objects (nuts) at the free end of the spring and measure the
+Elongation (using the ruler) produced by the different masses. At this point, it is recommended to start with the largest mass and add the nuts one at a time into the small pouch provided. All masses come with their respective measurement. 3) Measure the length of the spring suspended from the support with no object placed at its lower end. 4) Prepare a table with the data collected. 5) Plot, on Cartesian axes, the relationship F = f(x), where F is the force applied to the spring.
  
-It asks: 
-(a) Determine the spring elastic constant from the graph, by summing the figures 
-significantly 
-(b) Estimate the sources of measurement error 
-(c) Determine using the graph the value of the elastic potential energy at its maximum 
-The deformation. 
+Requested:
+a) Determine the spring constant from the graph, rounding the figures
+significant
+b) Estimate the sources of error in the measurement
+c) Determine, using the graph, the value of the elastic potential energy at its maximum
+deformation.
  
-Date: g = 9,8m/s2
-
-
+Given: g = 9.8 m/s²
 
 **Topic:** [[Elasticity & Materials]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q163" data-atom="q163" data-title="Argentina 2007 Locale — Quesito 163" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
 
@@ -22225,137 +21379,36 @@ Espressione qualitativa dei risultati ottenuti come conclusione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the requirements for the type of thermistor:
+Calibration of a Thermistor
 
-164. City of Buenos Aires. Blue, please. 
-Objectives: 
-- 
-Calibrate a thermistor to be used as a temperature measuring instrument. 
-- 
-Measure the curve of a liquid at different initial temperatures until it reaches the
-The heat balance. 
+164. City of Buenos Aires. Azul.
+Objectives: Calibrate a thermistor for use as a temperature measurement instrument. Measure the curve of a liquid at different initial temperatures until it reaches thermal equilibrium.
  
-Materials: 
-- 
-The thermistor
-- 
-Packaging of telgopor 
-- 
-Thermometer .
-- 
-Multimeter (operating as Ohmetro) 
-- 
-Cable .
-- 
-Scotch tape, insulating tape and scissors 
-- 
-Universal foot and thermometer grippers 
-- 
-I 'm not .
-- 
-Try it .
-- 
-- What ?
-- 
-Hot water and cold water with ice .
-- 
-The time-meter .
+Materials: Thermistor, expanded polystyrene containers, thermometer, multimeter (used as an ohmmeter), wires, Scotch tape, insulating tape, and scissors, universal stand and thermometer holders, small cups, graduated cylinder, syringe, hot water and cold water with ice, stopwatch
  
-Theoretical explanation: 
-Many times, to perform an experiment, it is necessary to calibrate the instrument first.
-measurement by which the experimental data will be obtained. The thermistor is a type of 
-an electronic element which has the property of significantly varying its electrical resistance to
-temperature changes in the surrounding environment. Once you get your curve of 
-calibration, turns out to be a very precise instrument, but it has the disadvantage of taking time.
-The resistance value is significantly stabilized. 
+Theoretical Explanation: Often, in order to carry out an experiment, it is necessary first to calibrate the measuring instrument with which the experimental data will be obtained. A thermistor is a type of electronic component that has the property of exhibiting a notable change in its electrical resistance in response to variations in the temperature of its surrounding environment. Once its calibration curve has been obtained, it proves to be a very precise instrument; however, it has the disadvantage of taking a considerable amount of time to stabilize the resistance value.
 
-This type of instrument can be useful when analysing processes where there is a
-continuous temperature variation over time. One of these cases is to put in
-contact of two substances at different temperatures which come into thermal contact. The energy
-The substances exchanged between the substances at different temperatures are characterised by: 
-∆Q = m · c · ∆t 
+This type of instrument can be useful when one wants to analyze processes in which there is a continuous variation of temperature over time. One such case involves bringing two substances at different temperatures into thermal contact. The energy exchanged between substances at different temperatures is characterized by: ∆Q = m · c · ∆t
  
-Part 1: Calibration of the measuring instrument. Description of the system used for 
-to carry out measurements. 
-1) Place the thermometer very carefully in the handle and with the bulb inside the bulb.
-Telgopor container with hot water. 
-2) Put it in the thermistor. Check that it's fully submerged. Connect it to the
-Oh, my God. 
-3) Wait with the lid closed (Why?) until the temperature of the system is stabilized 
-(What criteria do they use to determine that it is stable?) 
-4) Measure the temperature of the hot water with both instruments. 
-5) Add small portions of water to the syringe at room temperature to cool off.
-water and get more temperature values with both instruments. 
-6) Always work with uncertainties, assigning to each instrument an uncertainty.
-It's a good one. 
-7) Draw a graph of R (Temperature), resistance based on the measured temperature
-with the thermometer. 
-8) Remember that if you take few values for calibration, you won't be able to identify what.
-curve is what it's about. 
+Part 1: Calibration of the measuring instrument. Description of the system used to carry out the measurements. 1) Carefully place the thermometer in the holder, with the bulb inside the polystyrene container containing hot water. 2) Place it on the thermistor. Verify that it is fully submerged. Connect it to the ohmmeter. 3) Wait with the lid closed (Why?) until the system temperature stabilizes (What criterion do they use to determine that it is stable?). 4) Measure the temperature of the hot water with both instruments. 5) Using the syringe, add small portions of water at room temperature to cool the water and obtain more temperature readings with both instruments. 6) Always work with uncertainties, assigning an appropriate uncertainty to each instrument. 7) Plot R(temperature), resistance as a function of the temperature measured with the thermometer. 8) Remember that if you take too few readings for the calibration, you will not be able to identify which curve it is.
  
-Some questions to ask yourself… 
-What happens to hot water when you add the cooler water? Is it cooling in shape?
-The uniform? How would you evenly match the temperature without opening the container? 
-Place hot water in the telgopor container. Close the lid. Measure for at least 5
-minutes with the thermistor. Record the temperature values in the closed container in 
-function of time. Roll the data into a graph. Analyze them. Can you consider that the
-The container is adiabatic? - Why? - I don't know. How much heat does it lose per minute? Is this constant?
-proportion? 
-WARNING: ALWAYS work with uncertainty. 
+Some questions to ask yourself… What happens to the hot water when the colder water is added? Does it cool uniformly? How would you equalize the temperature without opening the container? Put hot water into the polystyrene container. Close the lid. Measure with the thermistor for at least 5 minutes. Record the temperature values in the closed container as a function of time. Plot the data on a graph. Analyze them. Can you consider the container to be adiabatic? Why? How much heat is lost per minute? Is this rate constant? WARNING: ALWAYS WORK WITH UNCERTAINTIES.
  
  
  
  
 
-Step 2: Thermal balance and heat exchange. Phase transitions. 
-1) Put ice water in one of the compartments of the other telgopor container. 
-First measure the volume of water you're putting in. You can use the pots (ice)
-It doesn 't go into the sample . 
-2) Also place the two thermistors (one in each compartment). 
-3) Make sure the thermistor is measuring zero degrees by extrapolating from the graph of 
-calibration. 
-4) Add hot water to the other container, first measuring the volume of water that is
-He's going to add. 
-5) Measure the resistance (R) in terms of time for both compartments. Remember that .
-If you are not concentrated when you start measuring, you will lose some of the values you are measuring.
-You should check. 
-6) Turn the data into a graph. 
-7) Comparison and analysis of results. 
-8) Calculate the equilibrium temperature. How much heat was exchanged throughout the whole thing?
-the experience? 
-9) How would you quantify heat exchanged per unit of time based on 
-the temperature difference between the two substances? Could you graph it? 
-10) Discuss the results of the whole experience. 
+Step 2: Thermal equilibrium and heat exchange. Phase transitions. 1) Place water with ice in one of the compartments of the other polystyrene container. First, measure the volume of water you are placing. You can use the small cups (the ice does not fit in the graduated cylinder). 2) Also place the two thermistors (one in each compartment). 3) Make sure the thermistor reads zero degrees by extrapolating from the calibration graph. 4) Add hot water to the other container, first measuring the volume of water you are going to add. 5) Measure the resistance (R) as a function of time for both compartments. Remember that if you are not focused when you start measuring, you will lose some of the values you need to record. 6) Plot the data on a graph. 7) Compare and analyze the results. 8) Calculate the equilibrium temperature. How much heat was exchanged throughout the entire experiment? 9) How would you quantify the heat exchanged per unit time as a function of the temperature difference between the two substances? Could you plot it? 10) Discuss the results of the entire experiment.
  
-COMMENT: Release the theoretical part of the principle to work properly. 
-WARNING: ALWAYS work with uncertainty. 
+COMMENT: Reread the theoretical part of the principle in order to work correctly. ATTENTION: ALWAYS WORK WITH UNCERTAINTIES.
  
-Report: 
-The report shall contain: 
-- 
-A brief and brief introduction to the theoretical concepts involved 
-and the particular mathematical expressions they apply in the report, commenting 
-the objectives set at least. 
-- 
-Description and outline of the measurement methods used. 
-- 
-All experimental values obtained in direct measurements, with their 
-the respective errors. 
-- 
-The processing of measured values (processing), error calculation and charts 
-used. 
-- 
-The final results obtained by their respective errors. 
-- 
-Qualitative expression of the results obtained as a conclusion.
+Report: The report must include: a brief, concise introduction mentioning the theoretical concepts involved and the particular mathematical expressions applicable in the report, with minimal commentary on the stated objectives; a description and diagram of the measurement methods used; all experimental values obtained from direct measurements, along with their respective errors; the treatment (processing) of the measured values, the error calculations, and the graphs used; the final results obtained, along with their respective errors; and a qualitative presentation of the results obtained, serving as a conclusion.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Resistor (object)|Resistor]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q165" data-atom="q165" data-title="Argentina 2007 Locale — Quesito 165" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -22452,49 +21505,23 @@ eventuali errori commessi e le conclusioni.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Current-voltage dependence (conductor)
 
-165. It's good grass, Tucumán. Blue, please. 
-The objective: 
- Investigate the apparent dependence between the current intensity circulating through a
-driver and the potential difference between its connection terminals 
+165. Yerba Buena, Tucumán. Blue.
+Objective: "To investigate the dependence that appears to exist between the current intensity flowing through a conductor and the potential difference between its connection terminals"
  
-Materials: 
-- 
-Multi-meter
-- 
-Variable source 
-- 
-Cables and crocodiles 
-- 
-Resistance .
-- 
-Millimeter paper 
+Materials: Multimeter, Variable power supply, Cables and alligator clips, Resistors, Graph paper
  
-The procedure: 
-1) Write a hypothesis and the corresponding prediction. 
-2) It is proposed to set up one of these two circuits (as shown in the figure) so that it can be
-measuring the current intensity and potential difference in the AB conductor. What?
-of the two circuits is more convenient? - Explain that. 
+Procedure: 1) Formulate a hypothesis and the corresponding prediction. 2) It is proposed to assemble one of these two circuits (as shown in the figure), which will make it possible to measure the current intensity and the potential difference in conductor AB. Which of the two circuits is more convenient? Explain.
  
-3) Once the circuit is selected, read and select the resistance value to use. A 
-Then fire up the circuit. 
-4) Change the potential difference values between A and B; read the values of i and of 
-V and build a table of values. 
-5) Graph I = f (V). Analyze and interpret the result. 
-6) Are the predictions confirmed? 
-7) Develop a report which includes the steps, graphs, calculations, and
-the possible errors and conclusions.
-
-
+3) Once the circuit has been selected, read and select the value of the resistor to be used. A
+Next, assemble the circuit. 4) Modify the values of the potential difference between A and B; read the values of i and V and create a table of values. 5) Plot I = f(V). Analyze and interpret what was obtained. 6) Are the predictions confirmed? 7) Prepare a report that includes the steps taken, the graphs, the calculations, any errors that may have been made, and the conclusions.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q166" data-atom="q166" data-title="Argentina 2007 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/pulley,object/rope-string,object/block"></span>
 
@@ -22609,58 +21636,26 @@ Data: considera g = (9,78903 + 0,00001) m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mass of an unknown body (polea)**
+Mass of an unknown body (pulley)
 
-166. San Miguel, Tucumán. Blue, please. 
-The objective: 
-Determining the mass of an unknown body 
+166. San Miguel, Tucumán. Blue.
+Objective: "Determine the mass of an unknown body"
 
-Materials: 
-- 
-Fine and sturdy yarn 
-- 
-Light blockage
-- 
-The time-meter .
-- 
-A known weight .
-- 
-Millimeter paper 
-- 
-Simple pollea .
-- 
-Tape. 
-The procedure: 
-1) Hang the fixed pole in the shape shown in the figure. 
+Materials: Fine, strong thread; lightweight block; stopwatch; a known weight; graph paper; simple pulley; tape. Procedure: 1) Hang the fixed pulley in the manner indicated in the figure.
  
-2) Tie the ends of the thread to the weight and the body to be examined. For the 
-In successive calculations it is useful to place both objects at the same height as indicated.
-In the figure. 
+2) Attach the weight and the body under examination to the ends of the thread. For the
+In successive calculations, it is useful to position both objects at the same height, as indicated in the figure.
  
-3) Predicting, based on the relationship between known and unknown mass, possible
-cases that may be submitted. 
-4) Take out of the equilibrium position and check which of the predictions is fulfilled. 
-5) When the body descends a height h in a time t, it does so with acceleration 
-It's constant. Using a timekeeper, millimeter paper and tape, measure the h and t it takes.
-down, then calculate the acceleration. 
-h = a t2 /2 
-6) Using the laws of dynamics to obtain the equation to calculate the unknown mass. 
-7) Calculate the unknown mass, its error and shorten. 
-8) After completing the above request, mark the balance sheet and compare the results. 
-9) Develop a report, including steps, charts, calculations, possibilities 
-errors and conclusions. 
+3) Predict, based on the relationship between the known mass and the unknown mass, the possible
+Cases that may arise. 4) Displace from the equilibrium position and check which of the predictions is fulfilled. 5) When the body descends a height h in a time t, it does so with constant acceleration. Using a stopwatch, graph paper, and tape, measure h and the time t it takes to descend, then calculate the acceleration. h = a t²/2 6) Using the laws of dynamics, obtain the equation for calculating the unknown mass. 7) Calculate the unknown mass, its error, and place bounds on it. 8) Once what was requested above has been completed, weigh on the scale and compare the results. 9) Prepare a report that includes the steps followed, graphs, calculations, possible errors made, and conclusions.
  
-Date: consider g = (9,78903 + 0,00001)m/s2
-
-
+Given: consider g = (9.78903 + 0.00001) m/s²
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ttSnlnx821BYqT1Kfnm3GHbfJJOmoLjf/view)
-
-
 
 <span class="atom-split" id="q167" data-atom="q167" data-title="Argentina 2007 Locale — Quesito 167" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/wire,object/battery"></span>
 

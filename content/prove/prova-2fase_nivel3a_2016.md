@@ -387,26 +387,13 @@ m/s, modulo di velocità della sfera nel momento in cui essa perde contatto con 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5  With the intention of studying the movements of bodies and their relations
-The first thing that I'm going to do is to make a point of putting together a mass of data.
-a base 'b', a ramp 'r' and a sphere 'e', as illustrated in the figure below.
-The base was fixed to the ground so that its upper surface was flat and absolutely
-The line would be perfectly level on the horizontal. The ramp, circular in shape with rays
-$R = 6$ m and mass $5M$, was supported at rest on the base but could slide
-on it practically without friction. At the top of the ramp, a massive sphere,
-The resulting material was a homogeneous, mass $M$ and absolutely smooth, then abandoned, slipping without any
-rolling through the ramp as shown. Disregarding the resistance of the air and any other
-the friction, and taking into account the gravity acceleration module $g = 10\ \text{m/s}^2$, determine, in
-m/s, the speed module of the sphere at the moment it loses contact with the
-- Get off the ramp.
+Question 5 – With the intention of studying the motions of bodies and their relationships with mass, an experiment was set up for a science fair; it consists of a base "b", a ramp "r", and a sphere "e", as illustrated in the figure below. The base was fixed to the ground so that its upper surface, which was flat and perfectly smooth, was perfectly level in the horizontal direction. The ramp, which had a circular shape with a radius of $R = 6$ m and a mass of $5M$, was placed at rest on the base but could slide over it with virtually no friction. At the highest point of the ramp, a solid, homogeneous sphere with a mass of $M$ and an absolutely smooth surface was then released; it slid down the ramp without rolling, as shown in the figure. Ignoring air resistance and any other friction, and taking the magnitude of the acceleration due to gravity to be $g = 10\ \text{m/s}^2$, determine, in m/s, the magnitude of the sphere's velocity at the instant when it loses contact with the ramp.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 · Fase 2 · Livello 3 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon"></span>
 

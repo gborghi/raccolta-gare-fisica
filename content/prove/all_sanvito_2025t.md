@@ -286,16 +286,16 @@ In figura è illustrata una schematizzazione della *fontana di Erone*, dispositi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Fontana di Erone**
+**Hero's Fountain**
 
-The figure illustrates a diagram of the *Fountain of Erone*, a device devised by the famous Alexandrian inventor around the 2nd century AD. The top compartment is open upper and communicates with the bottom compartment through two thin vertical conduits, with sections negligible compared to those of the containers. The distances between the lower ends of the pipes and the bottom of the lower valve are very small compared to the heights shown in the figure. The regions indicated by $A$, $B$ and $C$ contain water, while $D$ contains air at slightly higher atmospheric pressure. At a given point, the heights outlined in the figure are $h_1 = 38.5\ \text{cm}$, $h_2 = 3.3\ \text{cm}$ and $h_3 = 12.7\ \text{cm}$ and, in vertical pipelines, the climb speed is less than $7\%$ than the descent speed. Trascurando gli effetti dovuti alla viscosità dell'acqua, quanto vale l'altezza $h$ del getto d'acqua in quel momento?
+The figure illustrates a schematic representation of *Hero's Fountain*, a device devised by the famous Alexandrian inventor around the 2nd century AD. The chamber located at the top is open at the top and communicates with the lower chamber via two narrow vertical conduits whose cross-sections are negligible compared with those of the containers. The distances between the lower ends of the conduits and the bottom of the lower chamber are very small compared with the heights indicated in the figure. The regions marked $A$, $B$, and $C$ contain water, whereas $D$ contains air at a pressure slightly greater than atmospheric pressure. At a certain moment, the heights shown schematically in the figure are $h_1 = 38.5\ \text{cm}$, $h_2 = 3.3\ \text{cm}$, and $h_3 = 12.7\ \text{cm}$, and in the vertical conduits the upward velocity is $7\%$ lower than the downward velocity. Ignoring the effects due to the viscosity of water, what is the value of the height $h$ of the water jet at that moment?
 
 
-*Unità di misura:* m. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* m. *Required precision:* 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p4_f4.png]]
-*fontana di Erone serbatoi A B C D getto*
+*Hero's fountain, tanks A B C D, jet*
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
@@ -304,8 +304,6 @@ The figure illustrates a diagram of the *Fountain of Erone*, a device devised by
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="GaS 2025 Allenamento Quiz — Problema 8" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
 
@@ -338,11 +336,11 @@ In un laboratorio viene svolto l'esperimento delle due fenditure, usando una sor
 
 <div class="qlang-split" data-lang="en"></div>
 
-Find the color of the MSK1
+Find the color
 
-In a laboratory, the experiment is carried out on the two slits, using a monochrome light source. The cracks used are $52\ \mu\text{m}$. On the screen, the position of the clear interference fringes relative to the central fringes is measured at $1.45\ \text{m}$ from the cracks. The data obtained are shown in the table. What is the wavelength of light emitted by the source?
+In a laboratory, the double-slit experiment is carried out using a monochromatic light source. The slits used are $52\ \mu\text{m}$ apart. On the screen, which is placed $1.45\ \text{m}$ from the slits, the positions of the bright interference fringes relative to the central fringe are measured. The data obtained are presented in the table. What is the wavelength of the light emitted by the source?
 
-♪ The order of the strap ♪
+| fringe order | distance [cm] |
 |---|---|
 | 1 | 1.63 |
 | 2 | 3.28 |
@@ -351,7 +349,7 @@ In a laboratory, the experiment is carried out on the two slits, using a monochr
 | 5 | 8.04 |
 | 6 | 9.96 |
 
-The following is the list of the measurement units: The following information is provided:
+*Unit of measurement:* m. *Required precision:* 0.5%.
 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -359,8 +357,6 @@ The following is the list of the measurement units: The following information is
 **Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="GaS 2025 Allenamento Quiz — Problema 9" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/bi,topic/electrostatics,topic/gravitation,argomento/meccanica,object/conducting-sphere"></span>
 

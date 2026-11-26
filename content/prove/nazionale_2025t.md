@@ -155,11 +155,11 @@ Un guscio sferico, avente raggio esterno $r$, spessore $2\ \text{mm}$ e densità
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Boa di tungsteno**
+Tungsten boa
 
-A spherical shell, with an outer radius $r$, thickness $2\ \text{mm}$ and density $19250\ \text{kg/m}^3$, floats on the submerged water exactly half its volume. Quanto vale $r$?
+A spherical shell with an outer radius of $r$, a thickness of $2\ \text{mm}$, and a density of $19250\ \text{kg/m}^3$ floats on water with exactly half of its volume submerged. What is the value of $r$?
 
-*Unità di misura:* m. *Precisione richiesta:* 2.0%.
+*Unit of measurement:* m. *Required precision:* 2.0%.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -167,8 +167,6 @@ A spherical shell, with an outer radius $r$, thickness $2\ \text{mm}$ and densit
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="GaS 2025 Nazionale Quiz — Problema 5" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/bi,topic/special-relativity,topic/oscillations-e-waves,argomento/meccanica,object/mirror"></span>
 
@@ -391,11 +389,11 @@ Due cariche puntiformi di segno opposto, $q_1$ e $q_2 = -10q_1$, sono posizionat
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Linee di campo**
+Field lines
 
-Two opposite-signal point-shaped loads, $q_1$ and $q_2 = -10q_1$, are placed at a certain distance from each other. Consider an electric field line emerging from $q_1$ forming an angle of $90°$ with the two charges connecting. This field line falls on $q_2$ forming a sharp angle $\theta$ with the two charges connecting. Quanto vale $\theta$?
+Two point charges of opposite sign, $q_1$ and $q_2 = -10q_1$, are positioned at a certain distance from each other. Consider an electric field line that emerges from $q_1$ and makes an angle of $90°$ with the line joining the two charges. This field line meets $q_2$, making an acute angle $\theta$ with the line joining the two charges. What is the value of $\theta$?
 
-*Unità di misura:* rad. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* rad. *Required precision:* 0.5%.
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -403,8 +401,6 @@ Two opposite-signal point-shaped loads, $q_1$ and $q_2 = -10q_1$, are placed at 
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="GaS 2025 Nazionale Quiz — Problema 11" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/bi,topic/astrophysics,topic/newtonian-mechanics,argomento/meccanica,object/planet"></span>
 

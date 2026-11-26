@@ -172,149 +172,50 @@ $5 \times 10^{-25}$ s.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theory
-Q2-1
-Italian (Italy)
-Where's the neutrinos? (Figures 1 and 2)
-When two high-energy protons collide in the Large Hadron Collider (LHC), as a result of
-This collision can produce many particles, such as electrons, muons, neutrins, quarks and the
-The results of the tests are presented in the following table: Most of these particles can be observed by the detector of
-particles positioned around the point of collision. For example, quarks undergo a process called
-adronization that turns them into a rain of subatomic particles, called jet (in Italian getto)
-of particles).
-Furthermore, the strong magnetic field in the detectors allows the trajectories of charged particles, even high-energy ones, to be significantly curved so that their amount of motion can be determined. The ATLAS detector uses a superconducting solenoid system that produces a field
-The magnetic constant and uniform of 2.00 Tesla in the inner part of the detector surrounding the area of
-The collision. The particles loaded with a quantity of motion below a certain threshold value shall be
-They're curved so strongly that they rotate indefinitely in the magnetic field, and very likely.
-They're not gonna get to the detector. Given its nature, neutrino is not revealed at all, as
-It goes through the detector without interacting.
-Dati: Massa dell'eletrone a riposo, $m = 9.11 \times 10^{-31}$ kg; carica elementare, $e = 1.60 \times 10^{-19}$ C;
-The speed of light, $c = 3.00 \times 10^8$ m $\text{s}^{-1}$; Dielectric constant of the vacuum, $\epsilon_0 = 8.85 \times 10^{-12}$ F $\text{m}^{-1}$
-Part A. The ATLAS detector physics (4.0 points)
+Theory Q2-1 Italian (Italy) Where Is the Neutrino? (10 points) When two high-energy protons collide at the Large Hadron Collider (LHC), many particles can be produced as a result of this collision, such as electrons, muons, neutrinos, quarks, and their respective antiparticles. Most of these particles can be observed by the particle detector positioned around the collision point. For example, quarks undergo a process called hadronization, which transforms them into a shower of subatomic particles called "jets" (in Italian, "getto di particelle"). Moreover, the strong magnetic field present in the detectors makes it possible to significantly bend the trajectories of charged particles, even those with high energy, so that their momentum can be determined. The ATLAS detector uses a superconducting solenoid system that produces a constant and uniform magnetic field of 2.00 tesla in the inner part of the detector surrounding the collision region. Charged particles with a momentum below a certain threshold value will be bent so strongly that they will orbit indefinitely in the magnetic field and very likely will not reach the detector. Given its nature, the neutrino is not detected at all, since it passes through the detector without interacting. Data: Electron rest mass, $m = 9.11 \times 10^{-31}$ kg; elementary charge, $e = 1.60 \times 10^{-19}$ C; speed of light, $c = 3.00 \times 10^8$ m $\text{s}^{-1}$; vacuum permittivity, $\epsilon_0 = 8.85 \times 10^{-12}$ F $\text{m}^{-1}$ Part A. The Physics of the ATLAS Detector (4.0 points)
 A.1
-It was an expression for the radius of cyclotron, $r$, of the circular trajectory of
-a magnetic force perpendicular to its velocity acting on an electron
-and express this radius in terms of the kinetic energy of the electron, $K$, of the
-The absolute value of its charge, $e$, its mass, $m$, and its magnetic field, $B$. Suppose the electron is a classical nonrelativistic particle, i.e.
-It ignores the relativistic effects.
-0.5pt
-The electrons produced within the ATLAS detector must be studied relativistically. However, the formula for the radius of the cyclotron is also valid in the relativistic case, provided that the
-The quantity of relativistic motion.
+Derive an expression for the cyclotron radius, $r$, of the circular trajectory of an electron subjected to a magnetic force perpendicular to its velocity, and express this radius in terms of the electron's kinetic energy, $K$, the absolute value of its charge, $e$, its mass, $m$, and the magnetic field, $B$. Assume that the electron is a classical non-relativistic particle—that is, neglect relativistic effects. 0.5pt The electrons produced inside the ATLAS detector must be studied in a relativistic manner. However, the formula for the cyclotron radius also holds in the relativistic case, provided that the relativistic momentum is taken into account.
 A.2
-Calculates the minimum value of the amount of motion of an electron required for
-exit from the inside of the detector in radial direction. The inner part
-The detector has a cylindrical shape with a radius of 1.1 meters and the electron
-The vehicle is located at the point of collision exactly in the centre of the cylinder.
-Please provide your answer in MeV/$c$.
-0.5pt
-When they accelerate in a direction perpendicular to their velocity, relativistic particles with
-The electromagnetic radiation emitted by the $e$ charge and the resting mass $m$ is called synchrotron radiation.
-The power of the radiation emitted is given by
-$$P = \frac{e^2 a^2 \gamma^4}{6\pi\epsilon_0 c^3}$$
-where $a$ is the acceleration and $\gamma = [1 - (v/c)^2]^{-1/2}$.
+Calculate the minimum value of the momentum of an electron required to exit the inner part of the detector in the radial direction. The inner part of the detector is cylindrical with a radius of 1.1 meters, and the electron is produced at the collision point located exactly at the center of the cylinder. Provide your answer in MeV/$c$. 0.5pt When accelerated in a direction perpendicular to their velocity, relativistic particles with charge $e$ and rest mass $m$ emit electromagnetic radiation called synchrotron radiation. The power of the emitted radiation is given by $$P = \frac{e^2 a^2 \gamma^4}{6\pi\epsilon_0 c^3}$$, where $a$ is the acceleration and $\gamma = [1 - (v/c)^2]^{-1/2}$.
 
-Theory
-Q2-2
-Italian (Italy)
+Theory Q2-2 Italian (Italy)
 A.3
-A particle is called ultrarelativistic when its velocity is very close to the speed of light. For an ultra-relativistic particle, the power
-the issue may be expressed as:
-$$P = \xi \frac{e^4}{\epsilon_0 m^k c^n} E^2 B^2 ,$$
-where $\xi$ is a real number, $n$, $k$ are integers, $E$ is the energy of the particle
-charge and $B$ is the magnetic field. Determina $\xi$, $n$ e $k$.
-1.0pt
+A particle is called ultrarelativistic when its speed is very close to the speed of light. For an ultrarelativistic particle, the emitted power can be expressed as: $$P = \xi \frac{e^4}{\epsilon_0 m^k c^n} E^2 B^2 ,$$, where $\xi$ is a real number, $n$ and $k$ are integers, $E$ is the energy of the charged particle, and $B$ is the magnetic field. Determine $\xi$, $n$, and $k$. 1.0pt
 A.4
-In the ultra-relativistic limit, the electron energy varies with time
-According to the law:
-$$E(t) = \frac{E_0}{1 + \alpha E_0 t},$$
-where $E_0$ is the initial electron energy. Determine $\alpha$ as a function of $e$, $c$, $B$, $\epsilon_0$ and
-$m$.
-1.0pt
+In the ultrarelativistic limit, the electron's energy varies with time according to the law: $$E(t) = \frac{E_0}{1 + \alpha E_0 t},$$, where $E_0$ is the electron's initial energy. Determine $\alpha$ as a function of $e$, $c$, $B$, $\epsilon_0$, and $m$. 1.0pt
 A.5
-Consider an electron produced at the point of collision along the radial direction with an energy of 100 GeV. Estimate the amount of energy being dissipated
-due to synchrotron radiation until the electron exits the part
-inside the detector. Express your answer in MeV.
-0.5pt
+Consider an electron produced at the collision point along the radial direction with an energy of 100 GeV. Estimate the amount of energy that is lost due to synchrotron radiation until the electron exits the inner part of the detector. Express your answer in MeV. 0.5pt
 A.6
-Find an expression for the electron cyclotron frequency in the function of the
-time within the ultra-relativistic limit.
-0.5pt
-Part B. Find the neutrinos (6.0 points)
-The collision between the two protons shown in Figure 1 leads to the production of a quark top ($t$) and an anti-quark top ($\bar{t}$), the most massive elementary particles ever revealed. The top quark decays into a boson $W^+$ and
-The resulting quark decays in a lower quark ($b$), while the anti-top quark decays in a boson $W^-$ and an anti-quark bottom ($\bar{b}$).
-In the case shown in Figure 1, the boson $W^+$ decays into an anti-muon ($\mu^+$) and a neutrino ($\nu$), and the boson
-$W^-$ decade in un quark e un anti-quark. The aim of this problem is to trace the amount of motorcycle
-of neutrino in all its components using the amount of motion of some particles revealed. For
-All the particles and jets in this problem will be considered massless.
-Except for top quarks and bosons $W^\pm$.
-The motion quantities of all particles created in the decay of the top quark can be determined experimentally (see Table), except for the component along the $z$ axis of the quantity of
-the neutrino motion. The total amount of motion of the particles in the final state captured by the detector is
-zero only on the transverse plane (plane $xy$), and not along the collision line (axis $z$). So it's possible that
-The amount of the transverse motion of the neutrinos (i.e. along the $xy$ plane) is obtained by calculating the amount of
-missing motor on this plane.
-On June 4, 2015, the ATLAS experiment at the LHC recorded a proton-proton collision at the
-00:21:24 GMT + 1 as outlined in Figure 1.
+Find an expression for the electron cyclotron frequency as a function of time in the ultrarelativistic limit. 0.5 pt Part B. Find the neutrino (6.0 points) The collision between the two protons shown in Figure 1 leads to the production of a top quark ($t$) and an anti-top quark ($\bar{t}$), the most massive elementary particles ever observed. The top quark decays into a $W^+$ boson and a bottom quark ($b$), while the anti-top quark decays into a $W^-$ boson and an anti-bottom quark ($\bar{b}$). In the case illustrated in Figure 1, the $W^+$ boson decays into an anti-muon ($\mu^+$) and a neutrino ($\nu$), and the $W^-$ boson decays into a quark and an anti-quark. The goal of this problem is to determine the momentum of the neutrino in all its components using the momentum of some of the detected particles. For simplicity, all particles and all jets in this problem will be considered massless, except for the top quark and the $W^\pm$ bosons. The momenta of all particles created in the top-quark decay can be determined experimentally (see Table), except for the component along the $z$ axis of the neutrino's momentum. The total momentum of the final-state particles recorded by the detector is zero only in the transverse plane (the $xy$ plane), and not along the collision axis (the $z$ axis). Therefore, it is possible to obtain the transverse momentum of the neutrino (that is, along the $xy$ plane) by calculating the missing momentum in this plane. On 4 June 2015, the ATLAS experiment at the LHC recorded a proton-proton collision at 00:21:24 GMT+1, such as the one schematically shown in Figure 1.
 
-Theory
-Q2-3
-Italian (Italy)
-Figure 1 is shown. Schematic representation of the coordinate system within the ATLAS detector (left)
-And a proton-proton collision (right).
-The quantities of motion of the three final particles produced by the decay of the top quark, including neutrino,
-The following table describes each component.
+Theory Q2-3 Italian (Italy) Figure 1. Schematic representation of the coordinate system inside the ATLAS detector (left) and of a proton-proton collision (right). The momenta of the three final-state particles produced by the top-quark decay, including the neutrino, are described component by component in the table below.
 
-| Particella | $p_x$ (GeV/$c$) | $p_y$ (GeV/$c$) | $p_z$ (GeV/$c$) |
+| Particle | $p_x$ (GeV/$c$) | $p_y$ (GeV/$c$) | $p_z$ (GeV/$c$) |
 |---|---|---|---|
-| anti-muone ($\mu^+$) | $-24.7$ | $-24.9$ | $-12.4$ |
+| anti-muon ($\mu^+$) | $-24.7$ | $-24.9$ | $-12.4$ |
 | jet 1 ($j_1$) | $-14.2$ | $+50.1$ | $+94.1$ |
 | neutrino ($\nu$) | $-104.1$ | $+5.3$ | — |
 
 B.1
-Trova un'equazione che leghi il quadrato della massa $m_W^2$ del bosone $W^+$ con
-the components of the neutrino and anti-muon motion quantity listed in the previous table. Express your answer in terms of the amount of motorcycle
-neutrino and anti-moon crossovers,
-$$\vec{p}^{\,(\nu)}_T = p^{(\nu)}_x \,\hat{\imath} + p^{(\nu)}_y \,\hat{\jmath} \quad\text{e}\quad \vec{p}^{\,(\mu)}_T = p^{(\mu)}_x \,\hat{\imath} + p^{(\mu)}_y \,\hat{\jmath},$$
-and the components of their engine quantities along the $z$, $p^{(\mu)}_z$ and $p^{(\nu)}_z$ axes.
-1.5pt
+Find an equation relating the square of the mass $m_W^2$ of the $W^+$ boson to the momentum components of the neutrino and the anti-muon listed in the preceding table. Express your answer in terms of the transverse momenta of the neutrino and the anti-muon, $$\vec{p}^{\,(\nu)}_T = p^{(\nu)}_x \,\hat{\imath} + p^{(\nu)}_y \,\hat{\jmath} \quad\text{e}\quad \vec{p}^{\,(\mu)}_T = p^{(\mu)}_x \,\hat{\imath} + p^{(\mu)}_y \,\hat{\jmath},$$, and the components of their momenta along the $z$, $p^{(\mu)}_z$, and $p^{(\nu)}_z$ axes. 1.5pt
 B.2
-Assuming the mass of the boson $W^+$ is $m_W = 80.4$ GeV/$c^2$, calculate the two
-possible solutions for the amount of neutrino motion along the $z$ axis, i.e. $p^{(\nu)}_z$.
-Give the answer in GeV/$c$.
-1.5pt
+Assuming that the mass of the $W^+$ boson is $m_W = 80.4$ GeV/$c^2$, calculate the two possible solutions for the neutrino's momentum along the $z$ axis, that is, $p^{(\nu)}_z$. Give the answer in GeV/$c$. 1.5pt
 B.3
-Calculate the mass of the top quark for each of the two solutions above. Come on , now .
-The answer in GeV/$c^2$.
-[If you haven't gotten both solutions in B.2, use
-$p^{(\nu)}_z = 70$ GeV/$c$
-e $p^{(\nu)}_z = -180$ GeV/$c$.]
-1.0pt
-The normalised number of collision events for measuring the mass of top quarks (determining the mass of the
+Calculate the mass of the top quark for each of the two previous solutions. Give the answer in GeV/$c^2$. [If you have not derived the two solutions in B.2, use $p^{(\nu)}_z = 70$ GeV/$c$ and $p^{(\nu)}_z = -180$ GeV/$c$.] 1.0pt The normalized number of collision events for the measurement of the top quark mass (determine-
 
-Theory
-Q2-4
-Italian (Italy)
-The experimental signal has two components: the so-called sign (corresponding to the decay of the
-Quark top) and the background, or sfondo in Italian, (corresponding to events derived from other processes
-which do not include quark tops. The experimental data includes both processes, see Fig. 2.
-Figure two. Mass distribution of the top quarks: the frequency of the Eventi, E, (championed at intervals of 12 GeV/$c^2$) is shown in the graph relative to the mass of the top quarks. The points
-The results of the experiment are consistent with the experimental data. The drawn line corresponds to the sign and the zone
-It's colored in the background.
+Theory Q2-4 Italian (Italy) ta experimentally), has two components: the so-called "signal" (corresponding to the decay of top quarks) and the "background" (or "sfondo" in Italian) (corresponding to events arising from other processes that do not involve top quarks). The experimental data include both processes; see Fig. 2. Figure 2. Mass distribution of top quarks: the frequency of "Events", E, (sampled in intervals of 12 GeV/$c^2$) is plotted in the graph against the mass of top quarks. The points correspond to the experimental data. The dashed line corresponds to the "signal", and the colored region corresponds to the "background".
 B.4
-According to this mass distribution of the top quarks, which of the two solutions above is more likely to be the right one? Estimate the probability of
-The most likely solution.
-1.0pt
+According to this mass distribution of top quarks, which of the two previous solutions is more likely to be the correct one? Estimate the probability of the most likely solution. 1.0pt
 B.5
-Calculate the distance traveled by the quark top before it decays, using the most likely solution. Suppose the top quark has a half-life of
-$5 \times 10^{-25}$ s.
-1.0pt
+Calculate the distance traveled by the top quark before it decays, using the most probable solution. Assume that the top quark has a rest-frame mean lifetime of $5 \times 10^{-25}$ s. 1.0pt
 
 <!--fig:start-->
-**p.3** — Rappresentazione schematica rivelatore ATLAS e collisione
+**p.3** — Schematic representation of the ATLAS detector and the collision
 ![[_attachments/exam-theory-Q2-italian/exam-theory-Q2-italian_p3_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Distribuzione di massa del quark top
+**p.4** — Mass distribution of the top quark
 ![[_attachments/exam-theory-Q2-italian/exam-theory-Q2-italian_p4_f2.png]]
 <!--fig:end-->
 
@@ -323,3 +224,4 @@ $5 \times 10^{-25}$ s.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Solenoid (object)|Solenoid]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1M1fG6YizKDqMbECjvjj5V9fC9X9DgcAn/view)
+

@@ -56,34 +56,34 @@ Nell'ipotesi che la distanza percorsa dalla lastra sia sufficientemente lunga, l
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Sistema trasportatore a rulli.** *(Punti 85)*
+**Roller conveyor system.** *(Points 85)*
 
-A roll conveyor system is made up of many homogeneous rolls placed on a sloping plane of an angle $\alpha$, as shown in Figure 1. The axes of the rolls are perpendicular to the sheet and each of them can rotate independently of the others (it is assumed, that is, that the rolls are not in direct contact, but are separated by a negligible distance). Each roll has a mass $m$ and a radius $R$.
+A roller conveyor system is made up of many identical rollers placed on an inclined plane at an angle of $\alpha$, as shown in the figure. The axes of the rollers are perpendicular to the plane of the page, and each roller can rotate independently of the others (that is, it is assumed that the rollers are not in direct contact but are separated by a negligible distance). Each roller has a mass of $m$ and a radius of $R$.
 
-A homogeneous sheet of $M$ mass shall be rested above the rolls. The length of the plate is $\ell = 4\pi R$. It is also assumed that at any moment the plate is in contact with exactly $2N$ rolls, even when the foot of the plate is detached from one roll and the forehead rests on the next one which is stationary. When this happens the plate slows down and the motor stops unless, or when, the speed meets the non-slip condition: for all this time the rolls that meet the plate will rotate so as not to cause it to slip. The final effect will therefore be to slow the plate down at each impact by ramming with it, and to accelerate the roll initially still. In our case, the hypothesis is that everything happens at a negligible time so that the forces of interaction can be treated as impulsive: it is therefore a "shock".
+A homogeneous plate of mass $M$ rests on the rollers. The length of the plate is $\ell = 4\pi R$. It is further assumed that at any instant the plate is in contact with exactly $2N$ rollers, including at the moment when the trailing end of the plate leaves one roller and the leading end comes to rest on the next roller, which is stationary. When this happens, the plate slows down and its motion ceases unless, or when, its speed satisfies the no-slip condition: throughout this entire period, the rollers that come into contact with the plate will rotate in such a way as to prevent the plate from slipping. The final effect will therefore be to slow the plate at each impact by interlocking with it, and to accelerate the roller that was initially stationary. In our case, we adopt the assumption that all of this occurs in negligible time, so that the interaction forces can be treated as impulsive forces: this is therefore a "collision".
 
-Initially all the rolls are stationary and the sheet is rested on them and then left to flow. Whether $g$ the acceleration modulus of gravity; $v$ the speed modulus of the plate centre of mass and $\omega$ the angular speed modulus of the rolls shall be indicated. The static friction between a roller and the plate is assumed to be sufficient to prevent the plate from slipping.
+Initially, all the rollers are at rest, the slab is placed on them, and then allowed to slide. Let $g$ be the magnitude of the acceleration due to gravity; let $v$ denote the magnitude of the velocity of the center of mass of the slab, and let $\omega$ denote the magnitude of the angular velocity of the rollers. Suppose that the static friction between a roller and the slab is sufficient to prevent the slab from slipping.
 
-**1.** Trovare i valori di $v$ e $\omega$ che valgono nel lasso di tempo che intercorre tra un urto ed il successivo, e dire se le velocità angolari dei rulli a contatto con la lastra sono tutte uguali.
+**1.** Find the values of $v$ and $\omega$ that hold during the time interval between one impact and the next, and state whether the angular velocities of the rollers in contact with the plate are all equal.
 
-The speed modules immediately before and immediately after a collision between the plate and the $n$-exim roller shall be indicated by $v_n$ and $v'_n$.
+Let $v_n$ and $v'_n$ denote the magnitudes of the velocities immediately before and immediately after a collision between the plate and the $n$-th roller.
 
-**2.** Consider the movement of the plate between one impact and the other. Calculate how much $v^2$ increases between two strokes, i.e. find $v_{n+1}^2 - v_n^{\prime\,2}$.
+**2.** Consider the motion of the plate between two impacts. Calculate by how much $v^2$ increases between two impacts, that is, find $v_{n+1}^2 - v_n^{\prime\,2}$.
 
-**3.** Si consideri ora il processo di urto della lastra con un rullo. Find a relationship that links $v'_n$ to $v_n$.
+**3.** Consider now the impact process of the plate with a roller. Find a relationship linking $v'_n$ to $v_n$.
 
-If the distance travelled by the plate is sufficiently long, the plate will reach a regime condition.
+Assuming that the distance traveled by the slab is sufficiently long, the slab will reach a steady-state condition.
 
-**4.** Nel caso particolare $M/m = 8$, calcolare i moduli $v_1$ e $v'_1$ delle velocità limite raggiunte dalla lastra subito prima e subito dopo ciascun urto in condizione di regime.
+**4.** In the particular case $M/m = 8$, calculate the moduli $v_1$ and $v'_1$ of the limiting velocities attained by the plate immediately before and immediately after each impact under steady-state conditions.
 
-**5.** Under the mode, how much does the plate speed vary between two consecutive impacts?
+**5.** In the steady-state condition, by how much does the speed of the plate change between two consecutive impacts?
 
-**6.** Draw a graph that shows the time course of the speed of the plate under the condition of steering.
+**6.** Draw a graph showing the time variation of the velocity of the plate under steady-state conditions.
 
 ---
 
 <!--fig:start-->
-**p.?** — Rulli su piano inclinato, angolo alfa
+**p.?** — Rollers on an inclined plane, alpha angle
 ![[_attachments/CpNazT11/CpNazT11_p1_f1.png]]
 <!--fig:end-->
 
@@ -93,8 +93,6 @@ If the distance travelled by the plate is sufficiently long, the plate will reac
 **Objects:** [[Cylinder (object)|Cylinder]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10Lbw9L8BP0GGNfK9fBa15rU6AQtRbZNW/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2011 Nazionale — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/nuclear-e-particle-physics,topic/electrostatics,object/nucleus"></span>
 
@@ -147,30 +145,27 @@ Nella tabella seguente sono elencate alcune coppie di nuclei speculari, per dive
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Nuclei speculari.** *(Punti 85)*
+**Specular nuclei.** *(Points 85)*
 
-In this problem we propose to provide an estimate of the size and density of the atomic nuclei. We'll mark the nuclei with the notation $^A_Z\text{X}$, where $A = Z + N$ is the mass number of the nucleus, $Z$ the number of protons and $N$ the number of neutrons. Supporremo che i nuclei abbiano forma sferica ed una densità di massa $\rho$, uniforme per tutti.
+In this problem, we aim to provide an estimate of the size and density of atomic nuclei. We will denote nuclei using the notation $^A_Z\text{X}$, where $A = Z + N$ is the mass number of the nucleus, $Z$ is the number of protons, and $N$ is the number of neutrons. We will assume that the nuclei are spherical and have a mass density of $\rho$, uniform for all of them.
 
-**1.** Il raggio dei nuclei dipende dal numero di massa $A$; si dimostra che la relazione tra queste due grandezze è del tipo $R(A) = R_0\, A^\alpha$. The expression $R_0$ is given by $A$ and the mass of a nucleon $m_p$, and the value of the parameter $\alpha$ is obtained.
+**1.** The radius of nuclei depends on the mass number $A$; it is shown that the relationship between these two quantities is of the form $R(A) = R_0\, A^\alpha$. Find the expression for $R_0$ in terms of $A$ and the mass of a nucleon $m_p$, and derive the value of the parameter $\alpha$.
 
-In the following problem we propose to obtain a numerical value of $R_0$ from measurements of the energy of the bonding of specular nuclei.
+In the remainder of the problem, we intend to derive a numerical value for $R_0$ starting from measurements of the binding energies of mirror nuclei.
 
-**2.** Si determini l'energia potenziale elettrostatica di una sfera uniformemente carica di raggio $R$ e carica totale $Ze$; si troverà un'espressione del tipo $U_e = \beta\, Z^2 e^2 / A^{1/3}$. The expression $U_e$ and an expression for the coefficient $\beta$ are found in the function $R_0$.
+**2.** Determine the electrostatic potential energy of a uniformly charged sphere of radius $R$ and total charge $Ze$; an expression of the form $U_e = \beta\, Z^2 e^2 / A^{1/3}$ will be obtained. Find the expression for $U_e$ and an expression for the coefficient $\beta$ in terms of $R_0$.
 
-Let's say that two nuclei are **specular** if they meet the $Z_1 = N_2$ and $Z_2 = N_1$ relationships, with the additional condition that the two elements are adjacent in the periodic table, i.e. such as $Z_2 = Z_1 + 1$, i.e. $|Z_2 - Z_1| = 1$.
+Let us say that two nuclei are **mirror-image** if they satisfy the relations $Z_1 = N_2$ and $Z_2 = N_1$, with the further condition that the two elements are adjacent in the periodic table, that is, such that $Z_2 = Z_1 + 1$, that is, $|Z_2 - Z_1| = 1$.
 
-**3.** Si definisca l'**energia di legame** di un nucleo come la quantità $E_l = Z m_p c^2 + N m_n c^2 - M(A,Z)\,c^2$, dove $M(A,Z)$ è la massa del nucleo. We have a semi-empirical formula that expresses the bond energy as the sum of:
-- two terms due to the strong interaction that holds nucleons together; these terms depend only on $A$ (the strong interaction is the same intensity between all types of nucleons: protons and neutrons);
-- a term due to the electrostatic interaction between protons, $U_e$, calculated above: this term is negative, as repulsion tends to disintegrate the nucleus;
-- a term due to the Pauli exclusion principle; the first of these is directly proportional to $(A - 2Z)^2/A$; the second is null in our case.
+**3.** Define the **binding energy** of a nucleus as the quantity $E_l = Z m_p c^2 + N m_n c^2 - M(A,Z)\,c^2$, where $M(A,Z)$ is the mass of the nucleus. Find a semi-empirical formula expressing the binding energy as the sum of: - two terms due to the strong interaction that holds the nucleons together; these terms depend only on $A$ (the strong interaction has the same strength between all types of nucleons: protons and neutrons); - a term due to the electrostatic interaction between the protons, $U_e$, calculated above: this term has a negative sign, since the repulsion tends to break the nucleus apart; - a term due to the Pauli exclusion principle; the first of these is directly proportional to $(A - 2Z)^2/A$; the second is zero in our case.
 
-In conclusion, the difference in the bond energy of two specular nuclei is equal to the opposite of their difference in electrostatic potential energy. An expression for this difference is found in a function of $A$, using the expression derived from point 2 for $U_e$, and an expression for $\beta$ is obtained in a function of $R_0$.
+In conclusion, the difference in binding energy between two mirror nuclei is equal to the opposite of their difference in electrostatic potential energy. Find an expression for this difference in terms of $A$, using for $U_e$ the expression derived in point 2, and then derive an expression for $\beta$ in terms of $R_0$.
 
-**4.** The bond energy difference of two specular nuclei in terms of $A$ shall be shown on a graph using the data in the following table. An estimate of the value of $R_0$ is obtained.
+**4.** Plot on a graph the difference in binding energy of two mirror nuclei as a function of $A$, using the data from the following table. Obtain an estimate of the value of $R_0$.
 
-The following table lists some pairs of specular nuclei, for different values of mass number. For each core, the bonding energy, in MeV, is indicated in parentheses:
+The following table lists some pairs of mirror nuclei for various mass numbers. For each nucleus, the binding energy in MeV is given in parentheses:
 
-| $A$ | Nucleo 1 | Nucleo 2 |
+| $A$ | Core 1 | Core 2 |
 |-----|----------|----------|
 | 35  | ${}^{35}_{17}\text{Cl}$ (298.2) | ${}^{35}_{18}\text{Ar}$ (291.5) |
 | 45  | ${}^{45}_{21}\text{Sc}$ (385.0) | ${}^{45}_{22}\text{Ti}$ (377.1) |
@@ -178,7 +173,7 @@ The following table lists some pairs of specular nuclei, for different values of
 | 65  | ${}^{65}_{29}\text{Cu}$ (556.0) | ${}^{65}_{30}\text{Zn}$ (545.0) |
 | 75  | ${}^{75}_{33}\text{As}$ (633.6) | ${}^{75}_{34}\text{Se}$ (622.3) |
 
-**5.** Using the value found for $R_0$, an estimate of the mass density of the nuclei is given (assuming a mass of a nucleon $1.674 \times 10^{-27}\,\text{kg}$). An estimate of the core charge density ${}^{75}_{33}\text{As}$ shall also be given.
+**5.** Using the value found for $R_0$, provide an estimate of the mass density of nuclei (assume a nucleon mass of $1.674 \times 10^{-27}\,\text{kg}$). Also provide an estimate of the charge density of the nucleus ${}^{75}_{33}\text{As}$.
 
 ---
 
@@ -188,8 +183,6 @@ The following table lists some pairs of specular nuclei, for different values of
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/10Lbw9L8BP0GGNfK9fBa15rU6AQtRbZNW/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2011 Nazionale — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,object/sphere,object/point-charge"></span>
 

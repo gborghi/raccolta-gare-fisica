@@ -909,75 +909,47 @@ Sistema 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the most commonly used methods of calculating the value of the input data:
+**PT6 Newton's Laws (systems)**
 
-PT6. The second river, Cordoba. Blue, please. 
+PT6. Río Segundo, Córdoba. Blue.
  
-In 1610, Galileo Galilei (1564-1642), discussing the movement, reached an important
-Conclusion: A body can move without any force acting on it. The only move 
-possible in the absence of forces is straight and uniform, i.e. at constant speed in modulus 
-and address. 
-In 1685, Isaac Newton correctly formulated the inertia principle: a body will remain in
-resting or in uniform straight motion, unless a force acts on it. 
-Newton's second law states that: the vector sum of the forces applied to a
-The resulting body produces an acceleration with identical sense and direction. In turn, the
-The acceleration (a) the body acquires is inversely proportional to its mass. 
+In 1610, Galileo Galilei (1564–1642), while discussing motion, reached an important conclusion: a body can move without any force acting on it. The only possible motion in the absence of forces is rectilinear and uniform motion—that is, motion at a constant speed in both magnitude and direction. In 1685, Isaac Newton correctly formulated the principle of inertia: a body will remain at rest or in rectilinear uniform motion unless a force acts on it. The second law stated by Newton establishes that the vector sum of the forces applied to a body (the resultant) produces an acceleration with the same sense and direction. In turn, the acceleration (a) acquired by the body is inversely proportional to its mass.
  
 This law is expressed in symbols as follows:
  
-a
-m
-Faplic
-⋅
-=
-∑
+a m Faplic ⋅ = ∑
  
  
-t(s) 
-v(cm/s) 
-0 
-0 
-1/30 
+t(s) v(cm/s) 0 0 1/30
  
-2/30 
+2/30
  
-3/30 
+3/30
  
-4/30 
+4/30
  
-5/30 
+5/30
  
-6/30 
+6/30
  
-The following table shows the following:
-The following table shows the following:
+Table 1 Table 2
 
  
  
-This is a vector equation that can be written as two scalar equations on the x-axis and y,
-which is as usual used: 
+This is a vector equation that can be written as two scalar equations in the x- and y-axes; this is how it is usually used:
  
-                             Σ Fx = m . ax                 Σ Fy = m . ay      
+Σ Fx = m . ax Σ Fy = m . ay
  
-Newton's third law: Every time a body exerts an F force on a body,
-the latter applies a force on the former, equal to and contrary to F. 
+Newton's third law: whenever one body exerts a force F on another body, the latter applies a force on the former that has the same magnitude and the opposite direction to F.
  
-In symbols: 
-                                   F12 = - F21  
+In symbols: F12 = - F21
  
-System 1 
-The system of the figure slides at an acceleration of 0,5 
-2s
-m   . The hanging dish has a mass of 
-2kg. The block that supports the horizontal surface has a mass of 4 kg. How much is the tension worth?
-The rope? How much is the force of friction? What's the normal reaction on block A worth? 
+System 1: The system shown in the figure slides with an acceleration of 0.5 m/s². The hanging mass is 2 kg. The block resting on the horizontal surface has a mass of 4 kg. What is the tension in the rope? What is the frictional force? What is the normal reaction on block A?
  
-System 2 
-Given the following system determines the mass exerted by a force P1 on the bar, at the point 
-the indicated. At the other end is a 1 kgf weight hanging. 
+System 2: Given the following system, determine the mass that a force P1 exerts on the bar at the indicated point. At the other end, a weight of 1 kgf is hanging.
  
  
-System 1 
+System 1
  
  
  
@@ -989,8 +961,6 @@ System 2
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Argentina 2005 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/cylinder,object/tank-container"></span>
 
@@ -1717,27 +1687,25 @@ d. Qual è la posizione della palla 1 secondo prima di arrivare al suolo ?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+**PT10 Projectile Motion of a Ball**
 
-PT10. City of Buenos Aires. Blue, please. 
+PT10. City of Buenos Aires. Azul.
  
-A ball is kicked at a speed of 14 ms-1 and at an angle θ of 30° with respect to the horizontal. 
+A ball is kicked with a speed of 14 m s⁻¹ and at an angle θ of 30º relative to the horizontal.
  
-a. Calculate the range of the ball. 
+a. Calculate the range of the ball.
  
-b. What 's the maximum height the ball can reach ? 
+b. What is the maximum height reached by the ball?
  
-c. Find out the speed of the ball 1 second before it hits the ground. 
+c. Determine the speed of the ball 1 second before it reaches the ground.
  
-d. What 's the ball position one second before it hits the ground ?
+d. What is the position of the ball 1 second before it reaches the ground?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Argentina 2005 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball"></span>
 
@@ -1810,37 +1778,29 @@ A
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT11 Tennis with elastic pulse and shock**
+**PT11 Tennis: Impulse and Elastic Collision**
 
-PT11. City of Buenos Aires. Blue, please. 
+PT11. City of Buenos Aires. Azul.
  
-a. A tennis ball weighs 70 g and approaches a racket at a speed of 6 m.s-1. 
-The ball bounces back and back down the same path it came in at a speed of 5 m.s-1. The ball .
-It's in contact with the racket for 0.2 seconds. Calculation: 
+a. A tennis ball has a mass of 70 g and approaches a racket at a speed of 6 m·s⁻¹.
+The ball bounces and returns along the same path it came on, at a speed of 5 m·s⁻¹. The ball is in contact with the racket for 0.2 s. Calculate:
  
-i. the final and initial momentum of the ball; 
+i. the final and initial momentum of the ball;
  
-ii. the impulse transmitted to the ball; 
+ii. the impulse transmitted to the ball;
  
-(iii) the following: the average force the racket provides to the ball. 
+iii. the average force exerted by the racket on the ball.
  
-b. Two balls of mass M and 2M are approaching, one towards the other, in opposite directions to the same.
-U-speed over the horizontal axis and have an elastic collision. 
+b. Two balls with masses M and 2M approach each other from opposite directions with the same
+U velocity along the horizontal axis, and they undergo an elastic collision.
  
-What are the speeds of both masses after the collision ? 
-  h 
-I 'm a plow .
-Car .
-B 
-A
+What are the velocities of both masses after the collision? h pit car B A
 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Argentina 2005 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
 
@@ -2615,38 +2575,29 @@ DATI: g = 9,8 m/s2 - δ acqua = 1 g/cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of samples taken:
+**PT19 Vessel with a Hole (Torricelli)**
 
-PT19. City of Buenos Aires. Blue, please. 
+PT19. City of Buenos Aires. Azul.
  
-A 7 cm diameter cylindrical glass filled with water is located at the edge of an 80 cm table.
-- Shut up. On the glass wall, almost at the height of the
-There 's a hole in the bottom that a man can climb out of .
-(horizontal) water flow at a speed of 
-1,5 m/s. 
-(a) Calculate the time it takes to reach the floor 
-The little one. 
-(b) Calculate the horizontal distance travelled 
-before we get to the floor. 
-c) If a mouthpiece is placed to make the rattle
-It goes up, in a vertical direction, what?
-maximum height is reached. 
-(d) Using point (c), calculate the volume of the
-I'll take a glass. 
-(e) If the glass is unfolded and falls to the ground
-What's the speed of the shorite's exit? 
+A cylindrical vessel 7 cm in diameter, filled with water, is positioned at the edge of a table 80 cm high. On the wall of the vessel, almost at the level of the bottom, there is a small hole through which a thin (horizontal) jet of water emerges at a speed of 1.5 m/s.
+a) Calculate the time it takes to reach the floor
+The little stream.
+b) Calculate the horizontal distance traveled by
+Before reaching the floor.
+c) If a nozzle is placed so that the little jet
+It ascends upward in a vertical direction—what is its maximum height?
+d) Using point c), calculate the volume of the
+vessel.
+e) If the glass is released and falls toward the floor
+What is the exit velocity of the jet?
  
-DATES: g = 9.8 m/s2 - δ water = 1 g/cm3
-
-
+DATA: g = 9.8 m/s² - δ water = 1 g/cm³
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Argentina 2005 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
@@ -3629,35 +3580,22 @@ Manubra. Spiega la forza che devi fare contro il pavimento per mantenere il tubo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT29 Water-shaped mangrove**
+**PT29 Hose with Elbow (Water Jet)**
 
-PT29. The city of Mar del Plata, Buenos Aires. Blue, please. 
+PT29. Mar del Plata, Buenos Aires. Azul.
  
-As a good citizen you are collaborating in the extinguishing of a weed fire in a
-Field nearby. Hold a hose with an elbow as shown in the figure. Out of the hose comes out
-water in a 1.5 cm radius jet at a speed of 20 m/s. 
-The radius of the hose is triple the radius of the peak. The latter is 
-It is parallel to the horizontal and 1.5 m from the floor. 
-(a) Calculate the impact point of water on the floor. 
-(b) How many liters of water are coming out of the hose in 1 second? 
-(c) What is the water velocity in the hose? 
-(d) What is the mass per unit of time coming out of the peak? 
-(e) Before reaching the elbow the water has a certain amount of movement.
-It's horizontal, and then it's horizontal. Draw the diagram .
-vector of the vectors quantity of water movement and its 
-variation, in elbow, per unit of time. 
-(f) Draw a body diagram isolated from the man holding the
-The hose. Explain the force you must make against the floor to keep the hose horizontal?
-
-
+As a good citizen, you are helping to put out a weed fire in a nearby field. You are holding a hose with an elbow as shown in the figure. Water issues from the hose in a jet with a radius of 1.5 cm and a speed of 20 m/s. The radius of the hose is three times the radius of the nozzle. The nozzle is kept parallel to the horizontal and 1.5 m above the floor. a) Calculate the point where the water strikes the floor.
+b) How many liters of water come out of the hose in 1 second?
+c) What is the speed of the water in the hose?
+d) What is the mass per unit time exiting the peak?
+e) Before reaching the elbow, the water has a quantity of motion
+Upward, whereas afterward it is horizontal. Draw the vector diagram of the water's momentum vectors and their rate of change, at the elbow, per unit time. f) Draw a free-body diagram of the person holding the hose. Explain what force you must exert against the floor to keep the hose horizontal?
 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Argentina 2005 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum,object/sphere"></span>
 
@@ -4386,22 +4324,17 @@ Poi si appongono i freni e la macchina si ferma in altri 5 secondi. Calcolare la
 
 <div class="qlang-split" data-lang="en"></div>
 
-The vehicle shall be equipped with a 'Motor' control system.
+**PT39 Auto MRUA and deceleration (distance)**
 
-PT39. That's great. Blue, please. 
+PT39. Formosa. Blue.
  
-A car leaves the rest and moves at a 1m/s2 acceleration for 1 second. Then it 's gone .
-The engine is turned off and the car slows down due to friction for 10 seconds at an average of 5cm/s2 . 
-Then you apply the brakes and the car stops in another 5 seconds. Calculate the total distance 
-I'm driving around. Make an acceleration chart based on time.
+A car starts from rest and moves with an acceleration of 1 m/s² for 1 second. Then the engine is turned off, and the car decelerates due to friction for 10 seconds at an average rate of 5 cm/s². Next, the brakes are applied, and the car comes to a stop after another 5 seconds. Calculate the total distance traveled by the car. Draw a graph of acceleration versus time.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="Argentina 2005 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -5524,13 +5457,11 @@ Dati: δacqua = 1000 kg/cm3; δcorpo = 800 kg/cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT50 Ramp and drop-off skating**
+**PT50 Skateboard ramp and fall into the pool**
 
-PT50. San Miguel, Tucumán. Green, please. 
+PT50. San Miguel, Tucumán. Green.
  
-A young man is playing with a skateboard on the edge of a pile. Prepare a ramp tilted 30° with respect to the
-the horizontal. It throws through the ramp and manages to maintain a speed of 18 Km/h. 
-Jump over the pile and drop the skate. 
+A young man is playing with a skateboard at the edge of a pool. He sets up an inclined ramp at 30º relative to the horizontal. He launches himself down the ramp and manages to maintain a speed of 18 km/h. He jumps over the pool, letting go of the skateboard.
  
  
  
@@ -5542,17 +5473,16 @@ Jump over the pile and drop the skate.
  
  
  
-(a) How far from the edge of the pile does it reach the water? 
+a) How far from the edge of the pool does it reach the water?
  
-(b) How long did it take to fly to the water? 
+b) How long did it fly before reaching the water?
  
-(c) How high did it reach with respect to water? 
+c) At what height above the water did it reach?
  
-(d) How fast does it reach the water? 
+d) At what speed does it reach the water?
  
-(e) Suppose that when it falls into water, penetrating it, it acts as a point body and that there is no water in it.
-It rubs and when it arrives it sinks completely and instantly. Does the Young man slow down or reach the
-The bottom? (Deepness of 10 m). It's for work and energy. 
+e) Suppose that, when it falls into the water and penetrates it, it acts as a point mass, and that there is no  in the water
+A current, and upon arrival it sinks completely and instantaneously. Does the Young Person come to a stop, or do they reach the bottom? (Depth: 10 m). Solve using work and energy.
  
 Data: δwater = 1000 kg/cm3; δbody = 800 kg/cm3
 
@@ -5566,8 +5496,6 @@ Data: δwater = 1000 kg/cm3; δbody = 800 kg/cm3
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q51" data-atom="q51" data-title="Argentina 2005 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball"></span>
 
@@ -5656,45 +5584,21 @@ velocità dopo l'impatto, e velocità prima dell'impatto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The amount of the loan shall be reported in the following table:
+**PT51 Coefficient of restitution (demonstration)**
 
-PT51. San Miguel, Tucumán. Green, please. 
+PT51. San Miguel, Tucumán. Green.
  
-• 
-Based on the impact between a ball and the floor, find the relationship:
-Ca
-Cd
-E
-E
-k =
+• Based on the collision between a ball and the floor, find the relationship: Ca Cd E E k =
  
-about the height of the body you can measure. k is the kinetic energy ratio after 
-the impact and kinetic energy before the impact. 
-• 
-Find out:
-1
-2
-1
-2
-v
-v
-u
-u
-−
-−
-=
-ε
+With respect to the body height that can be measured. “k” is the ratio of the kinetic energy after the collision to the kinetic energy before the collision. • Find: 1 2 1 2 v v u u − − = ε
  
-about the height of the body you can measure. ε is the so-called Return Coefficient. “U” 
-velocities after impact, and v velocities before impact.
+With respect to the body height that can be measured. “ε” is the so-called coefficient of restitution. “U” denotes the velocities after the collision, and “v” denotes the velocities before the collision.
 
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q52" data-atom="q52" data-title="Argentina 2005 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/5,multidisciplina/multi,object/ball,object/pulley,object/droplet"></span>
 
@@ -5952,57 +5856,25 @@ Numero di Avogadro: N0 = 6,022 x 1023 particelle/mol
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT53 Heated submerged container (dilation, gas)**
+**PT53 Submerged vessel with heating (expansion, gas)**
 
-PT53. Rosario, Santa Fe. Green, please. 
+PT53. Rosario, Santa Fe. Green.
  
-And is it up or down? 
+Y… is it going up or down?
  
-Two physics students are discussing the effect of temperature on a system made up of a
-a mass of water and a submerged container. The problem is this:
-A cylindrical aluminium container is submerged in water at a height of three quarters of its height.
-15 degrees Celsius. The water temperature rises slowly to 85 oC, reaching
-So we think that the temperature of the water and the aluminum container are homogeneous. 
-The characteristics of the container are: radius R = 5 cm and height L = 20 cm (external measurements) and the dimensions of the container are:
-The lower and upper lids are the same thickness, e = 5 mm, as the side wall. 
-The analysis of this situation led them to consider several issues and we ask you to help them to
-answer them. 
-1. Will the container remain submerged three-quarters of the height? If it wasn't like that, what would it be?
-new submerged part? 
-2. If the container contains air inside which was initially pressurized
-The new pressure will be what if the closure is considered airtight? Consider 
-For these pressures and temperatures, air behaves like an ideal diatomic gas. 
-3. How much energy did the container absorb to reach 85 oC? 
-4. If at this point (85 oC) a crack occurs in the unsubmerged part of the container and it is removed 
-Part of the air until the pressure inside is balanced with the atmosphere.
-Was it lost if you consider that the air inside kept the same temperature? 
+Two physics students are discussing the effect of temperature on a system consisting of a mass of water and a submerged container. The problem is as follows: A cylindrical aluminum container is submerged to three-quarters of its height in water at a temperature of 15 º °C. The water temperature is slowly raised until it reaches 85 º °C; at this point, we assume that the temperature of the water and of the aluminum container is uniform. The container's specifications are: radius R = 5 cm and height L = 20 cm (external dimensions), and the bottom and top lids have the same thickness, e = 5 mm, as the side wall. The analysis of this situation led them to consider several questions, and we ask you to help them answer them. 1. Will the container still be submerged to three-quarters of its height? If not, what will the new submerged portion be? 2. If the container contains air inside that was initially at atmospheric pressure, what will the new pressure be if the closure is considered airtight? Assume that, at these pressures and temperatures, the air behaves as a diatomic ideal gas. 3. How much energy did the container absorb to reach a temperature of 85 º °C? 4. If, at this point (85 º °C), a crack forms in the non-submerged part of the container and some of the air escapes until the internal pressure equalizes with atmospheric pressure, how much air was lost, assuming that the air inside remained at the same temperature?
  
-Useful data 
-Water at 15 oC = 999.0 kg/m3
-The water temperature is 85 oC = 968.6 kg/m3
-The following table shows the results of the calculations:
-αAl = 25 x 10-6 oC-1 
-The following table shows the results of the calculations:
-Air composition 21% O2 and 79% N2 
-MO2
-The following table shows the following:
-MN2
-The following table shows the following:
-The following is the list of the following:
-po = 1.013 x 105 Pa 
-k = 1,38 x 10-23 J/K 
+Useful data: ρwater 15 ºC = 999.0 kg/m3, ρwater 85 ºC = 968.6 kg/m3, ρAl = 2.997 x 103 kg/m3, αAl = 25 x 10-6 ºC-1, cAl = 900 J/(kg K). Air composition: 21% O2 and 79% N2. MO2 = 32 g/mol, MN2 = 28 g/mol, γdiatomic gas = cp/cv = 1.4, po = 1.013 x 105 Pa, k = 1.38 x 10-23 J/K.
  
-R = 8,31 J/mol K 
+R = 8.31 J/mol·K
  
-Avogadro number: N0 = 6,022 x 1023 particles/mol
+Avogadro's number: N0 = 6.022 x 10^23 particles/mol
 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q54" data-atom="q54" data-title="Argentina 2005 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/capacitor"></span>
 
@@ -6343,158 +6215,60 @@ log
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the tests:
+**PT54 Axon as a capacitor (nervous system)**
 
-PT54. Rosario, Santa Fe. Green .
+PT54. Rosario, Santa Fe. Green
  
-Don't get nervous about it!!!!! 
+Don't get nervous!!!!!......
  
-The nervous system in humans and higher animals is so complex, it allows us to
-connect with the world, communicate with different parts of the body, govern our muscles. 
-
- 
- 
-We know that messages are transmitted through this system by electrical signals that go
-It's going through neurons (which are very particular cells, forming the nervous system). El 
-The passage of an electrical signal from or to the neuron is called synapse. 
- 
-But how and when does transmission occur? 
-In almost every cell and of course in neurons, there is a net positive charge on the surface.
-The cell membrane outside and a negative charge on the inner surface; implying a
-potential difference between the two sides of that membrane. 
-When the neuron doesn't transmit a signal, the potential difference will be called the resting potential and
-It's related to the concentration of ions inside and outside the membrane. The most common ions 
-are: K+ ; Na+ ; Cl-, the usual concentration in equilibrium of which is: 
- 
-I 'm not .
-Concentration within .
-The axon, Cd (mol/m3) 
-Concentration outside .
-The axon, CF (mol/m3) 
-K+ 
-140 
-5 
-Na+ 
-15 
-140 
-Cl- 
-9 
-125 
- 
-Because of the concentration difference, the ions tend to spread through the membrane. 
-Within the cell there is a higher concentration of K+ and it tends to spread outward, and with the Cl-
-The opposite happens. Both ions after passing through the membrane (or axon wall) remain in their
-The surface of the material is a double layer, loaded on both sides and attracted through it. (within)
-negative and positive) 
- 
- 
-When the concentration difference is offset by the potential difference, the
-The resulting effect is the diffusion phenomenon and the equilibrium is reached; this relationship is expressed in the Nernst equation: 
-d
-f
-f
-d
-C
-C
-e
-Z
-T
-k
-V
-V
-V
-log
-.
-.
-3,2
-=
-−
-=
-(potential rest) 
-Being: 
-V. potential difference between the inside (inside) and outside (outside) of the cell membrane 
-Vd: potential within the cell
-Vf: potential outside the cell
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first paragraph.
-T: absolute temperature (K) 
-Z: number of oxidation at which the ion is involved in the exchange (ion load quantity) 
-e: elementary charge of the electron = 1,6.10-19 C 
-Cd: concentration of the ion considered within the cell (neurone) 
-Cf: concentration of the ion considered outside the cell 
+The nervous system in humans and higher animals is so complex that it enables us to connect with the world, to communicate among the different parts of the body, and to control our muscles.
 
  
  
-This equation is valid for the ions mentioned and shown in the table. 
+We know that messages are transmitted through this system by electrical signals that pass through neurons (which are very special cells that make up the nervous system). The passage of the electrical signal from or to the neuron is called a synapse.
  
-It was found that the K+ spread out and the Na+ spread inwards 
-The importance of neurons lies in the fact that they can conduct electrical signals through it when they are
-It receives some stimulus (thermal, chemical, electrical, pressure difference, light). 
-When the stimulus exceeds a certain threshold, a pulse of tension is propagated (by the axon), and it is
-It's called the action potential. 
+But: How and when does transmission occur? In almost all cells and, of course, in neurons, there is a net positive charge on the outer surface of the cell membrane and a negative charge on the inner surface, implying a potential difference between the two sides of the membrane. When the neuron is not transmitting a signal, the potential difference will be the so-called resting potential, and it is related to the ion concentration inside and outside the membrane. The most common ions are: K+; Na+; Cl-; their usual equilibrium concentration is:
  
-The potential increases from rest -70 mV to 30 or 40 mV (positive) in approximately one time 
-1 ms, propagating along the axon at a speed of between 30 m/s and 150 m/s. 
-The magnitude of the action potential is independent of the intensity of the stimulus; the neuron se 
-Shoot or not. 
-A more intense stimulus does not lead to a greater action potential; rather it generates more pulses; 
-One after the other. 
-But what is the source of the action potential? 
-Apparently, the cell membrane changes its permeability at the point where it receives a stimulus.
-And it lets Na+ ions penetrate abruptly into the cell, acquiring positive charges there.
-temporarily. 
-To this internal region with positive charges are attracted the negative ones, neighbours, also of the
-The positive side of the membrane is shifted to the right and left, but let's go on, for example. a 
-Right as shown in the figure, and along the axon, producing the transmission. 
+Ion Concentration inside the axon, Cd (mol/m3) Concentration outside the axon, CF (mol/m3) K+ 140 5 Na+ 15 140 Cl- 9 125
+ 
+Due to the concentration difference, ions tend to diffuse through the membrane. Inside the cell, the concentration of K+ is higher, and K+ tends to diffuse outward; the opposite occurs with Cl−. After passing through the membrane (or the axon wall), both ions remain on its surfaces, forming a charged double layer on both sides and attracting each other across it. (negative inside and positive outside)
  
  
-We can then treat the axon (when it's in action) as if it were a capacitor. 
+When the concentration difference is compensated by the potential difference, the diffusion phenomenon ceases and equilibrium is reached; this relationship is expressed in the Nernst Equation: d f f d C C e Z T k V V V log . . 3,2 = − = (resting potential), where: V = potential difference between the inside and the outside of the cell membrane; Vd = potential inside the cell; Vf = potential outside the cell; k = Boltzmann constant = 1.38 × 10⁻²³ J/K; T = absolute temperature (K); Z = oxidation number with which the ion participates in the exchange (the ion's charge quantity); e = elementary charge of the electron = 1.6 × 10⁻¹⁹ C; Cd = concentration of the ion in question inside the cell (neuron); Cf = concentration of the ion in question outside the cell.
+
  
-And now, to settle! 
  
-1) What is the electric field intensity in the membrane of an axon of 1.10-8 m thickness if 
-The resting potential is -70 mV? 
+This equation is valid for the ions mentioned and listed in the table.
  
-2) If the concentration of K+ outside the axon was 5 mol/m3, what will be the concentration of K+ 
-Within the axon if the potassium was in equilibrium, with the same resting potential as 
-The body temperature is 37°C. 
+"It was found that K+ ions diffuse outward and Na+ ions diffuse inward." The importance of neurons lies in the fact that, when a stimulus—thermal, chemical, electrical, a pressure difference, or light—is received, the neuron can conduct electrical signals through itself. When the stimulus exceeds a certain threshold, a voltage pulse propagates (along the axon), and this is called an action potential.
+ 
+The potential rises from a resting value of -70 mV to 30 or 40 mV (positive values) in approximately 1 ms, propagating along the axon at a speed of between 30 m/s and 150 m/s. The magnitude of the action potential is independent of the stimulus intensity; the neuron either "fires" or does not. A stronger stimulus does not produce a larger action potential; instead, it gives rise to more pulses, one after another. But what gives rise to the action potential? Apparently, at the point where it receives a stimulus, the cell membrane changes its permeability and suddenly allows Na+ ions to enter the cell, so that the cell temporarily acquires positive charges there. Negative charges in the neighboring region on the inside of the membrane are attracted to this internally positive region, while positive charges move to the right and to the left; but let us continue, for example, to the right as shown in the figure, and along the axon, thereby producing transmission.
+ 
+ 
+After this description, we can treat the axon (when it is active) as if it were a capacitor.
+ 
+And now, let's solve it!
+ 
+1) What is the electric field strength at the membrane of an axon 1.10-8 m thick if
+Is the resting potential -70 mV?
+ 
+2) If the concentration of K+ outside the axon were 5 mol/m³, what would be the concentration of K+?
+Inside the axon, if potassium were in equilibrium, with the same resting potential as in the previous item, and the body temperature being 37ºC.
  
 
  
  
-3) If this axon (or nerve) is stimulated with an electrical pulse, and the action potential is detected 
-at a point 0,034 mm below the axis 0,0052 ms later. When detected
-The action potential at 0,072 mm, total time elapsed is 0,0063 ms. What is the 
-the speed of the electrical pulse along the axon? 
+3) If this axon (or nerve) is stimulated with an electrical pulse, and the action potential is detected
+At a point located 0.034 mm lower on the axon 0.0052 ms later. When the action potential is detected at 0.072 mm, the total time elapsed is 0.0063 ms. What is the speed of the electrical pulse along the axon?
  
-4) A- If the axon, considered cylindrical, is 0.1 mm long, 1μm (1.10-6m) of 
-radius: the thickness of the membrane is approximately 1.10-8 m, and the dielectric constant is 
-3. What will be its capacity? 
-B- What amount of cargo may be displaced as a result of an action potential (between 
--70 mV y 30 mV). 
-     ε0 = 8,85.10-12 C2/ N m2 
-The cylinder area: 2πrl 
+4) A- If the axon, considered cylindrical, has a length of 0.1 mm and 1 µm (1.10⁻⁶ m) of
+Radio: The membrane thickness is approximately 1.10-8 m, and the dielectric constant is 3. What will its capacitance be? B- What amount of charge can be displaced as a result of an action potential (between -70 mV and 30 mV)? ε0 = 8.85.10-12 C2/N m2 Cylinder area: 2πrl
  
-5) A- How much energy is needed to transmit an action potential along the axis of the
-Previously on "Item"? Suggestion: 1 pulse is equivalent to the load and discharge capacity of the axon. 
-B- What is the minimum mean power required for 104 neurons to transmit 100 pulses per second?
-Second? 
+5) A- How much energy is required to transmit an action potential along the axon of the
+Previous item? Suggestion: 1 pulse is equivalent to charging and discharging the axon's capacity. B- What is the minimum average power required for 104 neurons to transmit 100 pulses per second?
  
-6) During the application of the action potential, Na+ penetrates the cell at a rate of about 3.10-7.
-mol/m2.s How much power must the active transport system generate to generate this 
-circulation against a potential difference of +30 mV? 
-Suppose the same axis of 0.1 mm of length but with a diameter of 1.10-8 m and 
-cylindrical. 
-N0 = 6,023.1023 (Avogadro number) 
-Remember: 
-B
-A
-B
-A
-log
-log
-log
-−
-=
+6) During the action potential, Na+ enters the cell at a rate of about 3.10-7
+mol/m²·s How much power must the active transport system generate to produce this circulation against a potential difference of +30 mV? Assume the same previous axon, 0.1 mm in length, but with a diameter of 1.10⁻⁸ m and cylindrical shape. N₀ = 6.023·10²³ (Avogadro's number) Remember: B A B A log log log − =
 
 
 <!--fig:start-->
@@ -6506,8 +6280,6 @@ log
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q55" data-atom="q55" data-title="Argentina 2005 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
@@ -6552,23 +6324,17 @@ A che ora e dove si incrociano i veicoli ?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The vehicle is equipped with a single engine.
+**PT55 Encounter of Two Vehicles**
 
-PT55. The first is the Spanish. Blue, please. 
+PT55. Santiago del Estero. Azul.
  
-A car leaves from Santiago to Buenos Aires at 6 a.m. with a constant acceleration of 
-0.04 meters/second squared, up to 6h. 15 minutes and then continue at a constant speed. 
-At the same time another vehicle is leaving Buenos Aires for Santiago at a constant speed of 
-90 Km/h. At 8 a.m. the 2nd vehicle passes through a village 1020 km from Santiago. 
-What time and where do the vehicles cross ?
+A car departs from Santiago for Buenos Aires at 6:00 a.m. with a constant acceleration of 0.04 meters per second squared until 6:15 a.m., after which it continues at a constant speed. At the same moment, another vehicle departs from Buenos Aires for Santiago at a constant speed of 90 km/h. At 8 a.m., the 2º vehicle passes through a town that is 1020 km from Santiago. At what time and where do the vehicles cross paths?
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q56" data-atom="q56" data-title="Argentina 2005 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane,object/projectile"></span>
 
@@ -6674,20 +6440,17 @@ ottenere un'immagine reale quattro volte più grande?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total value of the input data:
+**PT57 Concave mirror, magnified real image**
 
-PT57. The first is the Spanish. Blue, please. 
+PT57. Santiago del Estero. Blue.
  
-It has a concave mirror with a radius of curvature of 50 cm. Where will you have to place an object to
-Get a real image four times bigger?
+Suppose we have a concave mirror with a radius of curvature of 50 cm. Where must an object be placed to obtain a real image that is four times larger?
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q58" data-atom="q58" data-title="Argentina 2005 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/projectile"></span>
 
@@ -6772,43 +6535,29 @@ risultati ottenuti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT58 Chapulin spinning spike (MCUV and shot)**
+**PT58 Chapulin Chipote Spinning (MCUV and Shot)**
 
-PT58. Jump in. Blue, please. 
+PT58. Jump. Blue.
  
-And now who can help us?
+And now who will be able to help us?
  
-The shrewd Chapulin Colorado watches from a cliff that a thief has committed a robbery and tries to
-He's heading for a car where an accomplice is waiting for him. 
-The Chapulin before this villain goes on the run, starts spinning with his arms outstretched with 
-An angular acceleration of 0.447 rad/sec 2 to give your chile stick enough momentum to
-When thrown, it hits the thief's head with the intention of knocking him out and preventing his escape. 
-The Chillón Chipote's arm is located 1.45 m above the ground of a 20 m high cliff, and the
-The head of the chillón spike is 85 cm from the spin axis of the Chapulín and has 1 kg of mass. 
-The 1.70 m tall thief starts running at a speed of 5 m/s at the precise
-The moment the spike comes out of the Chapulin's hand, 10 meters from the cliff. 
+The cunning Chapulin Colorado, from a cliff, observes that a thief has carried out a robbery and is trying to head toward a car where an accomplice is waiting for him. Before this villain can flee, Chapulin begins to spin with his arms outstretched at an angular acceleration of 0.447 rad/s² in order to give his Screaming Head enough momentum so that, when it is flung, it strikes the thief's head with the aim of knocking the thief unconscious and thus preventing his escape. The Screaming Head's arm is 1.45 m above the ground of a 20-m-high cliff, and the Screaming Head's head is 85 cm from Chapulin's axis of rotation and has a mass of 1 kg. The 1.70-m-tall thief begins to run at a speed of 5 m/s at the exact moment the head leaves Chapulin's hand, 10 m from the cliff.
  
-a-Write the time equation for the villain measured from the base of the cliff 
+a-Write the hourly equation for the villain measured from the base of the cliff.
  
-b-Calculate the distance the thief must have traveled until the hammer hit his head. 
+b- Calculate the distance the thief will have traveled by the time the hammer reaches their head.
  
-c-How long did it take you to be spinning the whistle to achieve your goal? 
+c- How long did the shrill chipote have to keep spinning to achieve its goal?
  
-d-Calculate the speed at which I get to the head. 
+d-Calculate the speed at which I reach the head.
  
-e-If Chapulin had taken chiquitolin 1, which causes a vertical shrinkage according to 
-H(t) = Ho –Kt 
-Where Ho is the height at which the arm is above the rock and K is a known cte
-How could I solve point c, (if it can be solved)? Set a model and discuss them .
-the results obtained.
+e-Si El Chapulin had taken the little one 1, the one that causes him a vertical shrinkage according to H(t) = Ho – Kt, where Ho is the height at which the arm is positioned above the rock, and K is a known constant—how could point c be solved (if it can be solved at all)? Propose a model and discuss the results obtained.
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q59" data-atom="q59" data-title="Argentina 2005 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/5,multidisciplina/multi,object/spring,object/ball,object/pipe-tube"></span>
 
@@ -6953,70 +6702,34 @@ iniziale della targa 20oC
 
 **PT59 Spring pellet and expanded copper plate**
 
-PT59. Jump in. Blue, please. 
+PT59. Jump. Blue.
  
-A device for Olympic Games only 
+Clunky device for Olympics only
  
-A metal ball container is arranged as shown in Figure 10.02 
-cm. and 0.1 kg is dropped by a 10 m long tube, at the bottom of the tube is a 
-spring, ready to shoot the ball to the right, two seconds after it falls. 
-The spring will allow you to reach the center of a square copper plate, thanks to a compression of 5 
-cm, the plate is 50 cm side, right in the center there is a small square hole of 10 cm of 
-Side, the plate thickness is 5mm. 
-A source sets an electric current such that the plate receives uniform heat.
-enough for the center square to expand and the ball to pass through it. 
-The temperature reached by the plate in terms of time is described in the following table. 
+A container for metal balls is arranged as indicated in the figure; a ball measuring 10.02 cm and weighing 0.1 kg is dropped down a 10 m long tube. At the bottom of the tube there is a spring, set to launch the ball to the right two seconds after the ball falls. Thanks to a compression of 5 cm, the spring will enable the ball to reach the center of a square copper plate. The plate has sides 50 cm long; right in its center there is a small square opening with sides 10 cm long, and the plate is 5 mm thick. A source establishes an electric current in such a way that the plate receives uniform heat sufficient for the central square to expand and for the ball to pass through it. The temperature reached by the plate as a function of time is described in the following table.
  
-(b) the following:
-T (grades) 
-0 
-20 
-1000 
-31 
-2000 
-42 
-3000 
-53 
-4000 
-64 
-5000 
-75 
-6000 
-86 
-7000 
-97 
-8000 
-108 
+t(seg) T(degrees) 0 20 1000 31 2000 42 3000 53 4000 64 5000 75 6000 86 7000 97 8000 108
  
 
  
  
-a-Calculate the speed of the ball exiting the tube, the initial speed of its direction to the tube.
-square after interaction with the spring and the coefficient of friction between the ball and the
-surface of the copper plate (the ball is not wheel). 
+a- Calculate the speed at which the small ball exits the tube, the initial speed with which it heads toward the square after interacting with the spring, and the coefficient of friction between the small ball and the surface of the copper plate (the small ball does not roll).
  
-b- Calculate the necessary temperature to be reached by the plate so that the ball can
-I'm going through it. 
+b- Calculate the temperature that the plate must reach for the small ball to be able to pass through it.
  
-c-Graph the temperature of the plate according to time and find the functional relationship between the
-Caloric power delivered to the plate and the temporal temperature variation 
+c- Plot the plate temperature as a function of time and determine the functional relationship between the heat power delivered to the plate and the temporal variation of the temperature.
  
-d-Calculate the total time from the time the ball leaves the container until it can finally
-I'm going through it. 
+d- Calculate the total time from when the little ball leaves the container until it can finally pass through it.
  
-What is the value of the electric current that flows through the plate to accomplish its task? 
+e- What is the value of the electric current flowing through the plate in order for it to fulfill its purpose?
     
-The data: 
-V=3 Volt, δCu=9 g/cm3, α=1.67 Exp(-5) 1/grad, Cp=0, 09 cal/g.grad , k=60 N/m, T0 temperature 
-initial plate 20oC
+Data: V = 3 volts, δCu = 9 g/cm³, α = 1.67 × 10⁻⁵ 1/°C, Cp = 0.09 cal/g·°C, k = 60 N/m, T0 = initial temperature of the plate = 20°C
 
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Spring (object)|Spring]], [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q60" data-atom="q60" data-title="Argentina 2005 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/wheel,object/gas"></span>
 
@@ -8226,34 +7939,25 @@ d) Calcolare la velocità di uscita del surfista in funzione dell'altezza della 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the types of surfing equipment used:
+**PT65 Surf Physics (Buoyancy and Waves)**
 
-PT65. City of Buenos Aires. Blue, please. 
+PT65. City of Buenos Aires. Azul.
  
-Physics of Surfing
-In this problem we'll study the physics of a very fun sport: surfing. 
-In this sport the person floats above a board above the sea surface waiting for the arrival of
-the waves so I can ride them. 
+Physics of Surfing In this problem, we will study the physics of a very fun "sport": surfing. In this sport, a person floats on top of a board on the surface of the sea, waiting for the waves to arrive so they can "ride" them.
  
-(a) Assuming the mass of the table is equal to m and the mass of the person is equal to M. Calculate the 
-Push on the board .
+a) Assuming the mass of the table is equal to m and the mass of the person is equal to M. Calculate the
+push in the table
  
-(b) Assuming for the table surface s and thickness e. Calculate the maximum density of the table of 
-So the person can float over it. 
-Sea waves are made up of many water molecules that make a circular motion in the direction of the water.
-time (see Figure 1). The diameter of the path is equal to the height of the wave. For adults 
-The molecules at the bottom end can't move. 
+b) Assuming surface area s and thickness e for the board. Calculate the maximum density of the board of
+In such a way that the person can float above it. Sea waves consist of many water molecules moving in a clockwise circular motion (see Figure 1). The diameter of the path is equal to the wave height. At great depths, it can be approximated that the molecules at the lower end do not move.
  
 Figure 1: Movement of water molecules within the wave
  
-(c) What is the velocity of the water molecules at the upper end of the wave?
-It's interesting to see a surfer get into the wave because the wave and the surfer must somehow reach.
-The same speed. This is achieved in two ways, bracing forward as strongly as possible one 
-Once you reach the top of the wave, you descend through it as if it were a plane.
-The following table shows the following: 
+c) What is the speed of water molecules at the crest of the wave?
+Watching a surfer enter the wave is interesting because the wave and the surfer must somehow reach the same speed. This is achieved in two ways: by paddling forward as hard as possible once the maximum end of the wave has been reached, descending along the wave as if it were an inclined plane (see Figure 2).
  
-Figure 2: Running the wave
-(d) Calculate the surfer's exit speed based on the wavelength.
+Figure 2: Riding the Wave
+d) Calculate the surfer's exit velocity as a function of the wave height.
 
 
 <!--fig:start-->
@@ -8266,8 +7970,6 @@ Figure 2: Running the wave
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q66" data-atom="q66" data-title="Argentina 2005 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/5,multidisciplina/multi"></span>
 
@@ -8582,33 +8284,26 @@ e) Supponiamo che un uomo che pesa 75 kg indossa un paio di pattinetti e faccia 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The gun is fired from the gun.
+**PT67 Rifle fires a bullet over a block (repeated)**
 
-PT67. San Miguel, Tucumán. Blue, please. 
+PT67. San Miguel, Tucumán. Blue.
  
-A hunter's rifle fires a 0.012-pound bullet. With an exit speed of 600 m/s towards the
-Right. The rifle weighs 4 kg. 
-The bullet is fired over a 3.5 kg block , initially resting at the end of a table without a gun .
-friction of 1 m in height. 
-The bullet remains in the block, and after impact the block falls to the ground. 
+A hunter's rifle fires a bullet of 0.012 kg at an exit velocity of 600 m/s to the right. The mass of the rifle is 4 kg. The bullet is fired at a 3.5 kg block that is initially at rest at the end of a frictionless table 1 m high. The bullet remains in the block, and after the impact the block falls to the floor.
  
-(a) What is the rate of recoil of the rifle when the bullet comes out? 
-(b) If the rifle is stopped by the shoulder of the hunter at a distance of 2.5 cm. What is the force 
-Average shoulder strain from the rifle? 
-(c) If the shoulder is partially restrained in the retreat, will the force exerted on the shoulder be 
-the same as the previous item? Explain .
-(d) Determine the distance from the base of the table to which the block falls. 
-(e) Assuming that a man weighing 75 kg has on some wheel skates and performs 10
-If you're shooting with the same rifle, if you move backwards without a scratch, what's your speed at?
-After the 10 shots?
+a) What is the recoil velocity of the rifle when the bullet leaves?
+b) If the rifle is stopped by the hunter's shoulder at a distance of 2.5 cm, what is the force?
+Average force exerted on the shoulder by the rifle?
+c) If the shoulder is partially restricted during recoil, will the force exerted on the shoulder be
+The same as the previous item? Explain.
+d) Determine at what distance from the base of the table the block lands.
+e) Assuming that the man weighing 75 kg is wearing roller skates and performs 10
+Shots fired with the same rifle—if it moves backward with no friction, what is its speed after the 10 shots?
 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q68" data-atom="q68" data-title="Argentina 2005 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/cylinder,object/block"></span>
 
@@ -9194,72 +8889,34 @@ FL
 
 <div class="qlang-split" data-lang="en"></div>
 
-The pressure test (calorimetry, gas, cap) is performed by the pressure test.
+**PT71 Pressure Cooker (Calorimetry, Gas, Plug)**
 
-PT71. City of Buenos Aires. Blue, please. 
+PT71. City of Buenos Aires. Azul.
  
-The pressure bowl .
+The pressure cooker
  
-Don Joule wanted to make a stew. For this purpose, a cylindrical aluminium pressure vessel is used.
-Interior radius 10cm and exterior radius 10.5cm and 20cm high interior and 21cm outside at temperature 
-The environment. It's got water in it up to half the way through. 
-(a) Calculate the steel mass of the pot and the water mass Joule introduced. 
+Don Joule wanted to make a stew. To do so, he uses a cylindrical aluminum pressure cooker with an inner radius of 10 cm and an outer radius of 10.5 cm, an inner height of 20 cm and an outer height of 21 cm, at room temperature. He puts water into it up to half of its capacity.
+a) Calculate the mass of steel of the pot and the mass of water that Joule introduced.
  
-To heat the food, use a stove that provides 1000 cal/sec. The room temperature is 
-20ºC 
-(b) How long does it take to heat the pot system plus water to boil? 
+To heat the food, you use a burner that delivers 1000 cal/s. The ambient temperature is 20º°C.
+b) How long does it take for the pot-and-water system to heat up until it reaches the boiling point?
  
-The pot has a hole which is covered by a small aluminium cylinder of radius 2 cm and 0,5 cm.
-high as shown in the figure. This one is closed after all the air that was inside the room was evacuated.
-The pot. 
-(c) How long does it take to take the system from the boiling point to the point in 
-That the plug will go off? Suppose this happens when the force exerting the pressure of the steam
-is equal to the weight of the cap plus the force of the outside atmospheric pressure. Disregard the variation of 
-volume of liquid water. 
+The pot has an opening that is covered by a small aluminum cylinder with a radius of 2 cm and a height of 0.5 cm, as shown in the figure. This opening is closed after all the air that was inside the pot has been expelled.
+c) How long does it take to take the system from the boiling point to the moment in
+When does the stopper come off? We assume this happens when the force exerted by the steam pressure equals the weight of the stopper plus the force of the external atmospheric pressure. Neglect the change in volume of the liquid water.
  
-But in doing this, we didn't take into account that the pot when it gets hot expands. Linear dilation of the
-The solids are given by the formula Lf = Lo (1 + λ).
-λ.λ.
-λ.t) where Lf and Lo are the initial and final longitudes, t 
-is the temperature variation and λ is the linear dilation coefficient. 
-d) Calculate the new volume inside the pot. Will it take more or less time to take off now? 
+But in doing this, we did not take into account that a pot expands when heated. The linear expansion of solids follows the formula Lf = Lo (1 + λ·λ·λ·λ·t), where Lf and Lo are the initial and final lengths, t is the change in temperature, and λ is the linear expansion coefficient.
+d) Calculate the new internal volume of the pot. Will it take more or less time to come loose now?
  
-Unfortunately the wine pot failed and the material the lid was made of had a
-The coefficient of dilation was greater than the rest of the pot and its weight was 0,3N. Consequently 
-There was a friction force between this and the pot being the same as μ = 0,5 and the contact pressure 
-to the sides was 1 N/cm2. 
-(e) Now calculate the pressure to be present within the
-the pot so that the lid can be unloaded. 
-Suppose the force of pressure acts on the
-The following shall be reported: Consider the atmospheric force.
-outside. 
-(f) What maximum height can the carpet then reach?
-You mean, getting fired? 
+Unfortunately, the pot was defective, and the material from which the stopper was made had a larger coefficient of expansion than the rest of the pot; its weight was 0.3 N. Consequently, there was a frictional force between the stopper and the pot, with µ = 0.5, and the contact pressure to the sides was 1 N/cm².
+e) Now calculate the pressure that must exist inside
+The pot so that the lid can be lifted off. Suppose the pressure force acts on the stopper for 0.1 s. Take the external atmospheric force into account. f) What maximum height can the little lid reach after being ejected?
  
-Note: consider water vapor as an ideal gas 
-The data: 
-Calcium = 0,22 cal / g oC 
-Water = 1 cal / g oC
-Lague-vappr = 540 cal / g
-Aluminium is 23.8 . 10-6 
-1/ºC 
-δwater = 1 g / cm3 
-The value of the product is not less than EUR 1 million.
-Mragua = 18 g / mol
-1 J = 0,24 cal 
-R            = 8,31 J/(ºK . The following is the list of the following:
-The average rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in the rate of change in
+Note: treat water vapor as an ideal gas. Data: Caluminium = 0.22 cal/g·°C, Cwater = 1 cal/g·°C, Lwater-vapour = 540 cal/g, λaluminium = 23.8 × 10⁻⁶ 1/°C, δwater = 1 g/cm³, δaluminium = 2.7 g/cm³, Mrwater = 18 g/mol, 1 J = 0.24 cal, R = 8.31 J/(°K·mol), G = 9.82 m/s², Patm normal = 10.13 N/cm²
 
  
  
-Land
-The Moon
-RT 
-RL 
-D
-The pto.eq.
-FT 
-FL
+Earth Moon RT RL D Pto.eq. FT FL
 
 
 <!--fig:start-->
@@ -9271,8 +8928,6 @@ FL
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q72" data-atom="q72" data-title="Argentina 2005 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/mono,object/planet,object/satellite"></span>
 
@@ -10221,29 +9876,22 @@ e) il peso specifico dell'acido sulfuro diluito
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of glass tube and tube fittings:
+**PT77 Glass Tube Densimeter**
 
-PT77. Victorica, the Pampa. Blue, please. 
+PT77. Victorica, La Pampa. Blue.
  
-A densimeter is constructed with a glass tube (Pe=2.6 gf/cm3) of 39.80 cm in height, closed in 
-a tip with a lid of the same material of 0,2 cm high and 2 cm in radius which corresponds to the 
-thickness of the glass wall and the outer radius thereof). I 'll put it in such a way that , placed in 
-The water, it dips 30 cm, while when it is placed in diluted sulfuric acid it makes it 21.42 
-cm. 
-Calculate:
-(a) the volume of glass in the densimeter 
-(b) the weight of the uncoated densimeter 
-(c) the weight of the tray placed 
-(d) the volume submerged in diluted sulphuric acid 
-(e) the specific weight of diluted sulphuric acid
+A hydrometer is constructed using a glass tube (Pe = 2.6 gf/cm³) 39.80 cm in height, closed at one end with a cap made of the same material, 0.2 cm in height and 2 cm in radius (which corresponds to the thickness of the glass wall and the outer radius of the tube). It is tared in such a way that, when placed in water, it immerses 30 cm, whereas when placed in dilute sulfuric acid, it immerses 21.42 cm. Calculate:
+a) the glass volume of the hydrometer
+b) the weight of the hydrometer without taring
+c) the weight of the tare placed
+d) the volume immersed in diluted sulfuric acid
+e) Specific weight of diluted sulfuric acid
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q78" data-atom="q78" data-title="Argentina 2005 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
 
@@ -11250,35 +10898,29 @@ e) L'oggetto si muove a velocità costante.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the data in the table below:
+**PT88 Spacetime Graph (Multiple Choice)**
 
-PT88. It's St. Louis. Blue, please. 
+PT88. San Luis. Azul.
  
-The following graph represents the motion of an object. Which of the following is 
-Right? 
-Space .
+The following graph represents the motion of an object. Which of the following statements is correct? Space
  
  
  
  
  
  
-Time is running out .
-(a) The object moves at a constant non-zero acceleration 
-(b) The object is not moving 
-(c) The object moves at a uniformly increasing speed 
-(d) The object moves at a uniformly increasing acceleration 
-(e) The object moves at a constant speed.
-
-
+Time
+a) The object moves with a non-zero constant acceleration
+b) The object does not move
+c) The object moves with uniformly increasing velocity
+d) The object moves with uniformly increasing acceleration
+e) The object moves at a constant speed.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q89" data-atom="q89" data-title="Argentina 2005 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -11398,21 +11040,17 @@ il proiettile a terra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The gun is designed to be used in the event of a collision.
+**PT90 Canon fires a projectile (oblique shot)**
 
-PT90. It's St. Louis. Blue, please. 
+PT90. San Luis. Azul.
  
-A cannon fires a projectile with an initial speed of 90 m/s and a tilt of 40o relative to the target.
-to the horizontal. Calculate: (a) maximum height reached by the projectile (b) The distance at which it impacts 
-The projectile on the ground.
+A cannon fires a projectile with an initial velocity of 90 m/s and an inclination of 40º relative to the horizontal. Calculate: a) the maximum height reached by the projectile; b) the distance at which the projectile hits the ground.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q91" data-atom="q91" data-title="Argentina 2005 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string,object/inclined-plane"></span>
 
@@ -11481,22 +11119,22 @@ c) Calcolare l'accelerazione a cui è sottoposta ogni corpo (nessun ruggine).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weight of the product:
+**PT91 Three masses connected by a thread (acceleration)**
 
-PT91. It's St. Louis. Blue, please. 
+PT91. San Luis. Azul.
  
-The following diagram shows three masses bound together by an inextensible thread: 
-a) Draw the free body diagram on each body (no rubbing). 
-(b) Indicate where the bodies move. 
-(c) Calculate the acceleration to which each body is subjected (no grinding). 
+In the following diagram, three masses are connected by an inextensible thread:
+a) Draw the free-body diagram for each body (there is no friction).
+b) Indicate the direction in which the bodies are moving.
+c) Calculate the acceleration to which each body is subject (there is no friction).
  
-                                       M2= 10 Kg 
+M2 = 10 kg
  
-          M1 = 150 Kg 
+M1 = 150 kg
  
-                                                                                                                M3 = 130 Kg 
+M3 = 130 kg
  
-                                              Β = 50º
+Β = 50º
 
 
 <!--fig:start-->
@@ -11508,8 +11146,6 @@ a) Draw the free body diagram on each body (no rubbing).
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 2005 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/switch,object/battery"></span>
 
@@ -11574,20 +11210,17 @@ F1:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT92 Circuit with four lamps and switch**
+**PT92 Circuit with Four Lamps and a Switch**
 
-PT92. It's St. Louis. Blue, please. 
+PT92. San Luis. Azul.
  
-In the following circuit, four (4) identical lamps (lights) are shown 
-(a) With the switch open classify the brightness of 
-the lamps. 
+The following circuit shows four (4) identical lamps (bulbs).
+a) With the switch open, classify the brightness of
+the lamps.
  
  
-b) If the switch is closed the brightness of the lamp 
-F1: 
-1. Increase .
-2. It will decrease .
-3. It'll be the same.
+b) If the switch is turned off, the brightness of the lamp
+F1: 1. Will increase 2. Will decrease 3. Will remain the same.
 
 
 <!--fig:start-->
@@ -11599,8 +11232,6 @@ F1:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q93" data-atom="q93" data-title="Argentina 2005 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
 
@@ -11957,30 +11588,24 @@ f. Qual è la potenza che deve essere sviluppata dal motore dell'automobile per 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT98 Good acceleration vehicle (power, power)**
+**PT98 Car with Good Acceleration (Energy, Power)**
 
-PT98. May 2nd, missions. Blue, please. 
+PT98. Dos de Mayo, Misiones. Blue.
  
-A factory must build a new car which, according to its market study, must have a
-Good speed. So they decide to build a 1,200-kilogram car, including the
-engine; reaching a speed of 108 Km/h (30 m/s) in 6 seconds. 
-a. Determine the acceleration the car can reach. 
-b. What is the value of the speed that it reaches 3 seconds after there is 
-The rest party? 
-c. What distance does the car travel to reach 108 km/h? 
-d. How much kinetic energy does a car get every six seconds? 
-e. Assuming there are no friction losses, how much energy is consumed?
-the engine until it reaches a speed of 30 m/s? 
-f. What power must the car engine develop to meet the requirements 
-The market research?
+A factory must build a new car that, according to its market study, must have good acceleration. So they decide to build a car with a mass of 1200 kg, including the engine, that reaches a speed of 108 km/h (30 m/s) in 6 seconds.
+a. Determine the acceleration that the car can achieve.
+b. What is the value of the speed reached 3 seconds after having
+Rest match?
+c. What distance does the car travel before it reaches 108 km/h?
+d. What amount of kinetic energy does the car have at 6 seconds?
+e. Assuming there are no frictional losses, what amount of energy does it consume?
+the engine until it reaches a speed of 30 m/s? f. What power must the car's engine develop to meet the requirements of the market study?
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 2005 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cart,object/sphere,object/rope-string"></span>
 
@@ -12838,22 +12463,17 @@ dal suo percorso, fino a raggiungere tale profondità.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT104 Drop and drop into water (push)**
+**PT104 Fall and Entry into Water (Push)**
 
-PT104. The first is the Spanish. Blue, please. 
+PT104. Santiago del Estero. Azul.
  
-From what height was dropped an object, whose density is 0.8 gr/cm3 that is submerged in water 
-up to a depth of 2.5 cm, if it dislodges 5 cm3 when entering the water. Also calculate the total time 
-From its course, to its depth. 
-(consider only the thrust as opposed to the movement, water density 1gr/cm3, g=9.8 m/s2)
+Since an object with a density of 0.8 g/cm³ was dropped from a certain height, it submerges in water to a depth of 2.5 cm; when it enters the water, it displaces 5 cm³. Also calculate the total time of its motion until it reaches that depth. (Consider only buoyancy as the force opposing the motion; density of water = 1 g/cm³; g = 9.8 m/s²)
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q105" data-atom="q105" data-title="Argentina 2005 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/cylinder,object/tank-container"></span>
 
@@ -13256,19 +12876,17 @@ Quanti chili. Agua a 10°C deve essere miscelato con 70 kg. di acqua a 50°C per
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weight of the product:
+**PT109 Mixture of Waters (Calorimetry)**
 
-PT109. Eduardo Castex, the Pampa. Blue, please. 
+PT109. Eduardo Castex, La Pampa. Azul.
  
-How many pounds? Water at 10°C must be mixed with 70 kg. from water at 50°C to water at 35°C?
+How many kg of water at 10º c must be mixed with 70 kg of water at 50º c to obtain water at 35º C.?
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q110" data-atom="q110" data-title="Argentina 2005 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
@@ -13307,20 +12925,17 @@ il suo raggio di curvatura, se l'immagine si forma a 18 cm. di questo stesso?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the components of the manufacturer's technical documentation:
+**PT110 Concave mirror, radius of curvature**
 
-PT110. Eduardo Castex, the Pampa. Blue, please. 
+PT110. Eduardo Castex, La Pampa. Blue.
  
-A concave mirror gives the image of an object placed at 8 cm. From the mirror. What will it be?
-its radius of curvature, if the image is formed at 18 cm. of the same?
+Using a concave mirror, the image of an object placed 8 cm from the mirror is obtained. What will its radius of curvature be if the image is formed 18 cm from the mirror?
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q111" data-atom="q111" data-title="Argentina 2005 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -13367,15 +12982,15 @@ grande con 4 m/s.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT111 Fish that swallows another (inelastic shock)**
+**PT111 Fish that carries another (inelastic collision)**
 
-PT111. The city of Cordoba. Blue, please. 
+PT111. City of Córdoba. Blue.
  
-(a) Consider a 6 kg fish swimming towards another 2 kg fish that is at rest and swallow it. If the fish 
-What's your speed right after lunch? 
-(b) Suppose the small fish is not at rest but is swimming towards the large fish at 2 m/s, 
-while this one moves like a). What will the big one's speed be now after swallowing him? 
-(c) Finally, ask what speed would be if the small fish swims towards the fish before lunch.
+a) Consider a 6 kg fish swimming toward another 2 kg fish that is at rest, and it swallows the latter. If the fish
+Great nothing at 1 m/s—what is its speed right after lunch?
+b) Suppose the small fish is not at rest but is swimming toward the large fish at 2 m/s,
+Whereas this one moves as in a). What will the large one's speed be now after swallowing it?
+c) Finally, answer what the speed would be if the small fish swims toward the fish before lunch.
 large at 4 m/s.
 
 **Topic:** [[Conservation of Momentum]]
@@ -13383,8 +12998,6 @@ large at 4 m/s.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q112" data-atom="q112" data-title="Argentina 2005 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/rod"></span>
 
@@ -13433,25 +13046,20 @@ c) Qual è stata la variazione del diametro?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Other, of a kind used for the manufacture of goods of heading 8106
+**PT112 Iron rods (expansion and heat)**
 
-PT112. The city of Cordoba. Blue, please. 
+PT112. City of Córdoba. Blue.
  
-In the automotive parts industry, cylindrical rods of iron of one cm diameter are used.
-The linear dilation coefficient is 0,000011 oC-1 and the specific heat is 0,11 cal/g.oC, with the 
-length of the rods of 30,010 cm at a temperature of 15 oC, and after being subjected to a 
-The heat source is 30,022 cm. The density of iron is 7.6 g(cm3. 
-(a) What temperature were the rods subjected to? 
-(b) What was the amount of heat needed? 
-(c) What was the variation in diameter?
+In an auto parts industry, cylindrical iron rods with a diameter of 1 cm are used; their linear expansion coefficient is 0,000011 ºC-1, and their specific heat is 0.11 cal/g·°C. The length of the rods is 30.010 cm at a temperature of 15 ºC, and after being subjected to a heat source, it is 30.022 cm. The density of iron is 7.6 g/cm³.
+a) At what temperature were the rods subjected?
+b) What was the amount of heat required?
+c) What was the variation in the diameter?
 
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q113" data-atom="q113" data-title="Argentina 2005 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/pendulum"></span>
 
@@ -13597,21 +13205,18 @@ costante?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT114 Two flat blocks with pulley**
+**PT114 Two blocks in planes with pulley**
 
-PT114. City of Buenos Aires. Green, please. 
+PT114. City of Buenos Aires. Green.
  
-Two blocks connected by a rope that passes through a small one.
-unrazed pulley rests on smooth planes, 
-Because the whole thing is stuck somehow .
-(a) In what sense will the system move when released? 
-(b) What will be the acceleration of the blocks? 
-c) What will be the tension of the rope? 
-(d) If the plans were rough, will the direction of the
-What's the motion? 
-(e) Calculate the acceleration if the friction coefficient is now μ = 0.1 
-(f) What is the coefficient of friction required for the bodies to move at speed?
-constantly?
+Two blocks connected by a rope that passes over a small frictionless pulley remain at rest on smooth planes, because the assembly is somehow locked.
+a) In what direction will the system move when released?
+b) What will the acceleration of the blocks be?
+c) What will the tension in the rope be?
+d) If the planes were rough, would the meaning of the  change?
+Movement?
+e) Calculate the acceleration if the coefficient of friction is now µ = 0.1
+f) What value must the coefficient of friction have for the bodies to move at a constant speed?
 
 
 <!--fig:start-->
@@ -13623,8 +13228,6 @@ constantly?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q115" data-atom="q115" data-title="Argentina 2005 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono"></span>
 
@@ -13683,17 +13286,16 @@ b) qual è lo stato della stacca quando è stata consegnata 3000 cal?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the methodology used for the calculation of the total value of the input:
+**PT115 Solid tin (specific heat and latent heat)**
 
-PT115. City of Buenos Aires. Green, please. 
+PT115. City of Buenos Aires. Green.
  
-If 200 g of solid tin is heated, initially to 82°C, its temperature varies with heat.
-delivered as indicated in the attached graph. Calculate: 
-(a) The specific heat of the solid tin and its latent melting heat. 
+If 200 g of solid tin, initially at á 82º°C, is heated, its temperature varies with the heat supplied as shown in the attached graph. Calculate:
+a) The specific heat of solid tin and its latent heat of fusion.
 
  
  
-(b) what is the status of the tin when 3000cal has been delivered?
+b) What is the state of the tin when 3000 cal have been supplied to it?
 
 
 <!--fig:start-->
@@ -13705,8 +13307,6 @@ delivered as indicated in the attached graph. Calculate:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q116" data-atom="q116" data-title="Argentina 2005 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens,object/mirror"></span>
 
@@ -13901,51 +13501,28 @@ Tutti i commenti che ritiene pertinenti per il rapporto
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE1 Speed of the ball at the end of the track**
+**PE1 Ball speed at the end of the track**
 
-PE1. San Miguel, Tucumán. Blue, please. 
+PE1. San Miguel, Tucumán. Blue.
  
-The aim is to determine, with the least possible error, the speed at which the ball reaches the end of the ball.
-track for different heights of the plane. For this purpose it will use the concepts of Kinetic Energy and Energy 
-gravitational potential and will also use it to calculate the distance from the base of the table to 
-where the ball hits the floor d=v.t
+If desired, one wishes to determine, with the smallest possible error, the speed at which the small ball reaches the end of the track for different heights of the plane. To this end, one will use the concepts of kinetic energy and gravitational potential energy, and will also use d = v·t to calculate the distance from the base of the table to the point where the small ball touches the floor.
  
-Available materials 
-One ball .
-One timepiece .
-1 tape measure 
-1 cardboard
-1 carbon paper 
-One plane .
-(c) Determine, with the least possible error, the speed at which the ball reaches the end of the ball.
-track for different heights of the plane 
-(d) What dimensions should it measure? 
-(e) Include the value obtained 
-(f) Which of the major dimensions introduced the greatest error? 
+Available materials: 1 small ball, 1 stopwatch, 1 measuring tape, 1 piece of cardboard, 1 piece of carbon paper, 1 plan
+c) Determine, with the smallest possible error, the speed at which the little ball reaches the end of the
+Track for different plane heights
+d) What quantities will need to be measured?
+e) Round the obtained value
+f) Which of the quantities introduced the greatest error?
  
-Note: Place the carbon card on the floor, estimating where the ball will fall.
+Note: Place the cardboard with the carbon dioxide on the floor, estimating roughly where the little ball will land.
  
-Write a report of your experience where you say: 
-- 
-Objectives of his work  Analytical planting 
-- 
-Experience  experimental method used 
-- 
-Value obtained from measurements made 
-- 
-Sources of errors and analysis of how they influence the final result 
-- 
-Final result summarised 
-- 
-All comments which you consider relevant to the report
+Draft a report on your experience that includes: Objectives of your work – Analytical approach; Experience – experimental method used; Values obtained from the measurements carried out; Sources of error and an analysis of how they affect the final result; Bounded final result; Any comments you consider relevant to the report.
 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 2005 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
@@ -15998,77 +15575,35 @@ Dati: δ AGUA = 1,00 g/cm3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE7 Density of plastilin by various methods**
+**PE7 Plasticine Density by Various Methods**
 
-PE7. City of Buenos Aires. Blue, please. 
+PE7. City of Buenos Aires. Azul.
  
-Objective: Calculate the density of the plasticine using different methods. 
+Objective: To calculate the density of plasticine using different methods.
  
-Materials: 
-• 
-Plastic .
+Materials: • Plasticine
 
  
  
-• 
-Try it .
-• 
-Dynamometer .
-• 
-Plastic glass 
-• 
-Glass of steel 
-• 
-Tanza 
-• 
-Plastic carpet (Coca-Cola) 
-• 
-Foot 
-• 
-Scaffolding
-• 
-Rule 
-• 
-Water
+• Test specimen • Dynamometer • Plastic cup • Steel cup • Tape measure • Plastic cap (Coca-Cola) • Foot • Scissors • Ruler • Water
  
-They may also use a clock, a squad, a calculator, millimeter sheets, etc. 
+They may also use a clock, a set square, a calculator, graph paper, etc.
  
-The procedure: 
-The idea is to measure the density of the plasticine by at least two methods. 
+Procedure: The idea is to measure the density of plasticine using at least two methods.
  
-• 
-Method 1: Using the dynamometer 
-Calculate the weight and volume of different pieces of plasticine and obtain their density by graphing the weight 
-The volume is equal to the volume. (To calculate the volume, think of various methods: with the sample, with the
-dynamometer - using Archimedes -, by geometrical calculations using the rule, etc.) 
+• Method 1: Using the dynamometer, calculate the weight and volume of different pieces of plasticine and determine their density by plotting weight against volume. (To calculate the volume, consider various methods: using a graduated cylinder, using the dynamometer—applying Archimedes' principle—, or using geometric calculations with a ruler, etc.)
  
-• 
-Method 2: Without the use of the dynamometer 
-Help: Arm a plastic boat that floats in water and measures volumes. Remove the density using 
-The law of Archimedes. You can repeat the procedure for different sizes of plasticine. 
+• Method 2: Without using the dynamometer. Help: Shape a little plasticine boat that floats in water and measure volumes. Derive the density using Archimedes' principle. You can repeat the procedure for different sizes of plasticine.
  
-Report: 
-Submit a report with the following parts: 
-• 
-Description and outline of the measurement methods used. 
-• 
-All the experimental values obtained in the measurements, and their errors. 
-• 
-The treatment of measured values, calculation of errors and charts used. 
-• 
-The final results obtained by their respective errors. 
-• 
-I'm going to draw conclusions. 
+Report: Submit a report with the following sections: • Description and outline of the measurement methods used. • All experimental values obtained from the measurements, along with their errors. • The processing of the measured values, the error calculations, and the graphs used. • The final results obtained, together with their respective errors. • Conclusions.
  
-The data are available in the following formats:
+DATA: δ WATER = 1.00 g/cm3
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q124" data-atom="q124" data-title="Argentina 2005 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart,object/pulley,object/rope-string"></span>
 
@@ -16473,105 +16008,58 @@ Le tue conclusioni.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE9 Measurement of g with pendulum**
+**PE9 Measurement of g with a Pendulum**
 
-PE9. It's good grass, Tucumán. Blue, please. 
+PE9. Yerba Buena, Tucumán. Blue.
  
-G measurement with a pendulum 
+Measurement of g with a pendulum
  
-Objective: Determine the value of the acceleration of gravity in Tucumán. 
+Objective: To determine the value of the acceleration due to gravity in Tucumán.
  
-Method: Math pendulum and graphics. 
+Method: Mathematical pendulum and graphing.
  
-Development 
+Development
  
-The relationship between the period and its length is given by: 
+The relationship between the period and its length is given by:
  
                                  
-g
-L
-T
-π
-2
-=
+g L T π 2 =
  
  
-Where π is 3,14159, l is the length of the rope holding the pendulum and g is the acceleration of the 
-gravity at the point where the pendulum oscillates. 
+Where π is 3.14159, l is the length of the string supporting the pendulum, and g is the acceleration due to gravity at the location where the pendulum oscillates.
  
-To determine the value of g we shall proceed as follows. 
+To determine the value of g, we will proceed as follows.
  
 
  
  
-a) We pick 5 different lengths to swing a pendulum and estimate the values that
-We will get from the corresponding periods. 
+a) We choose 5 different lengths to make a pendulum oscillate and estimate the values that
+We will obtain them from the corresponding periods.
  
-(b) We measure the oscillation period of each of the selected lengths at least three times 
-And We took the mean of them and surrounded them with their error. (As in measuring time 
-We make an error called a reaction of the order of 0.2 s) as we see this value is very
-So we're going to correct this error as follows: we're going to count between 5 and 
-10 consecutive periods and we take the time it takes the pendulum to make that number of
-And then we divide it, so the error is also divided, and it turns out to be smaller.
-The higher the number of consecutive periods we measure. 
+b) We measure the oscillation period of each of the chosen lengths at least three times.
+For each one, we calculate their average and bound it with its error. (When measuring a time, we make an error called reaction error, on the order of 0.2 s.) As we can see, this value is very large for the estimated periods; we correct this error as follows: we count between 5 and 10 consecutive periods and record the time it takes the pendulum to complete that number of oscillations, and then we divide it; in this way, the error is also divided, so it turns out to be smaller the greater the number of consecutive periods we measure.
  
-c) We graphed the periods raised to the square on the vertical axis, rounded by their error 
-and on the horizontal axis the corresponding values of the lengths with their own error. 
+c) We plot the periods squared on the vertical axis, with their errors indicated.
+And on the horizontal axis, the corresponding values of the lengths, together with their own error.
  
-(d) What you should get is a straight line. - Why? - I don't know. We've calculated the value of the slope by taking two.
-points on the straight we got and with them we calculate the value of the slope from which we can
-obtain g as follows: 
+d) What you should obtain is a straight line. Why? We calculate the value of the slope by taking two
+Points on the line we obtained, and using them we calculate the value of the slope, from which we can obtain g as follows:
  
                                      
-g
-m
-π
-2
-=
+g m π 2 =
                            
-2
-2
-4
-m
-g
-π
-=
+2 2 4 m g π =
      
  
-So we can say that we've graphed the mean of the five measurements.
-We did. 
+In this way, we can say that we have "graphically averaged" the value of the 5 measurements we took.
  
-Then make a detailed report of all the steps you took to determine 
-experimentally the g value in Tucumán. In this account of your experience you must state:
-• 
-Your data .
-• 
-The objectives of the experiment 
-• 
-Experience to be gained 
-• 
-I 'll tell you all the details that happened during the measurements and how you did it .
-Each of them and the values obtained 
-• 
-The assumptions you've made, like the thread is unextended, that the counting mass
-It's much smaller than the thread, there's no air brush, etc.) Describe how you had it.
-Consider these factors and how they influenced your experiment. 
-• 
-You must show the graph and EXPLAIN the results of it. 
-• 
-How did you calculate g and what values did you give to π why? 
-• 
-Give us the short value you got from g. 
-• 
-Your conclusions.
+Next, prepare a detailed report of all the steps you took to experimentally determine the value of g in Tucumán. In this account of your experiment, you must include: • Your data • The objectives of the experiment • The experiment to be carried out • An account of all the details that occurred during the measurements, how you performed each measurement, and the values obtained • Any assumptions you made (such as that the string is inextensible, that the mass of the bead is much smaller than that of the string, that there is no air friction, etc.). Describe how you took these factors into account and how they influenced your experiment. • You must present the graph and EXPLAIN its results. • How you calculated g and what values you assigned to π—why? • Provide the bounded value of g that you obtained. • Your conclusions.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q126" data-atom="q126" data-title="Argentina 2005 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
 
@@ -17709,54 +17197,37 @@ e li paragoni con quelli che hai trovato nel punto precedente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the following:
+**PE16 Spring elastic constant (K)**
 
-PE16. City of Buenos Aires. Green, please. 
+PE16. City of Buenos Aires. Green.
  
-Objective: Determine the elastic constant of a spring (K). 
+Objective: To determine the spring constant (K) of a spring.
  
-The following elements: 
+Elements:
  
-• 
-Spring with your support
-• 
-Weight play .
-• 
-Rule 
-• 
-The time-meter .
+• Spring with its support • Set of weights • Ruler • Stopwatch
  
-The procedure: 
+Procedure:
  
-1. Static method: We hang the spring of the support and measure its length at rest. 
-We record the value of mass M and the length of the spring. We change the mass M 
-several times and we'll write down the masses and the lengths. Determine the value of K by 
-the adjustment of a straight line with at least five points. 
+1. Static method: We hang the spring from the support and measure its length at rest.
+We record the value of the mass M and the length of the spring. We vary the mass M several times and keep recording the masses and the lengths. Determine the value of K by fitting a straight line using at least five points.
  
-2. Dynamic method: We record the value of mass M. We're just slightly straining the system.
-And then we release it and we get this simple harmonic movement. 
-We measured the time it takes the system to make 10 oscillations. We change the mass M 
-several times and repeat the process. The expression relating the period of oscillations 
-with the spring elastic constant is: 
+2. Dynamic method: We record the value of the mass M. We tension the system slightly.
+elastic, then we release it and thus obtain simple harmonic motion. We measure the time it takes the system to complete 10 oscillations. We vary the mass M several times and repeat the process. The expression relating the period of the oscillations to the spring constant is:
  
-T2 = 4π2 · M / K 
+T2 = 4π2 · M / K
  
-3. If we take the mass of the spring (m) into account, the oscillation time is the following.
-expression: T2 = 4π2 · (M + fm) / K where f is a certain fraction. Determine the value of 
-K and the value of f by adjusting a straight, using at least five different masses. 
+3. If we take the mass of the spring (m) into account, the oscillation time follows the following
+Expression: T2 = 4π2 · (M + fm) / K, where f is a certain fraction. Determine the value of K and the value of f by fitting a straight line, using at least five different masses.
  
-4. For a mass that you consider appropriate, determine the change in oscillation amplitude at 
-function of time. Show your behavior graphically and propose a formula 
-The following is the list of the relevant technical specifications: Find for some of the different amplitudes measured the value of K 
-And compare them to the ones you found at the point above.
+4. For a mass that you consider appropriate, determine the change in the oscillation amplitude at
+As a function of time. Illustrate its behavior graphically and propose an analytical fitting formula. For some of the different measured amplitudes, determine the value of K and compare them with those found in the previous point.
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q133" data-atom="q133" data-title="Argentina 2005 Locale — Quesito 133" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/screen"></span>
 
@@ -18085,49 +17556,33 @@ il calcolo che corrobora la tua risposta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE17 Lens image forming**
+**PE17 Image Formation with a Lens**
 
-PE17. The housewives, Buenos Aires. Blue, please. 
+PE17. Caseros, Buenos Aires. Azul.
  
-Subject: 
-Study of image formation in front of a lens 
+Topic: Study of Image Formation in Front of a Lens
  
-Materials provided: 
-- A magnifying glass with a support .
-The flashlight .
-Lightning support 
-screen .
-- The metro .
-Millimeter rule 
-The environment is semi-dark. 
+Materials provided: magnifying glass with stand, flashlight, flashlight stand, screen, meter, millimeter ruler, semi-darkened environment.
  
-Schedule: 
+Scheme:
  
  
-The materials given are used to perform the following tasks:
+Using the given materials, you are asked to carry out the following tasks:
  
-1) Install the device as shown in Figure 1. 
+1) Assemble the device as shown in the figure.
  
-2) Choose an appropriate reference system. 
+2) Choose an appropriate reference system.
  
-3) Measures the size of the object Y 
+3) Measure the size of object Y
  
-4) In a dark environment, it modifies and measures the values of X, X, and Y 10 times by making sure that it forms.
-The clear image on the screen, roll these values over to the table. 
+4) In a dimmed environment, modify and measure the values of X, X', and Y' 10 times, making sure that a is formed
+With the clear image on the screen, enter these values into the table.
  
-5) Perform the calculations indicated in the same and complete the units. 
+5) Perform the calculations indicated in it and complete the units.
  
-Table of values: 
+Table of values:
  
-Nº 
-X  [  ] 
-X´[  ] 
-Y´[  ] 
-1/f = 1/X - 1/X´ [   ] 
-f [    ] 
-X´/X 
-Y´/Y 
-1 
+Nº X [ ] X´[ ] Y´[ ] 1/f = 1/X - 1/X´ [ ] f [ ] X´/X Y´/Y 1
  
  
  
@@ -18135,7 +17590,7 @@ Y´/Y
  
  
  
-2 
+2
  
  
  
@@ -18143,7 +17598,7 @@ Y´/Y
  
  
  
-3 
+3
  
  
  
@@ -18151,7 +17606,7 @@ Y´/Y
  
  
  
-4 
+4
  
  
  
@@ -18159,7 +17614,7 @@ Y´/Y
  
  
  
-5 
+5
  
  
  
@@ -18167,7 +17622,7 @@ Y´/Y
  
  
  
-6 
+6
  
  
  
@@ -18175,7 +17630,7 @@ Y´/Y
  
  
  
-7 
+7
  
  
  
@@ -18183,7 +17638,7 @@ Y´/Y
  
  
  
-8 
+8
  
  
  
@@ -18191,7 +17646,7 @@ Y´/Y
  
  
  
-9 
+9
  
  
  
@@ -18199,7 +17654,7 @@ Y´/Y
  
  
  
-10 
+10
  
  
  
@@ -18210,27 +17665,20 @@ Y´/Y
 
  
  
-Based on the results obtained, do the following: 
+Based on the results obtained, do the following:
  
-6) Find the most likely value of the focal length of the lens with its error. 
+6) Find the most probable value of the lens's focal length, along with its error.
  
-7) Tell me what kind of lens it is. It justifies it. 
+7) State what type of lens it is. Justify.
  
-8) Trace the trajectory of the rays that determine the image on the screen and, if you can, deduce 
-geometrically the equation: 
-Y
-Y´
-X
-X´
-A
-=
-=
+8) Trace the path of the rays that determine the image on the screen and, if you can, deduce
+Geometrically, the equation: Y Y´ X X´ A = =
  
  
-9) Say it happens with the image when the object is placed in the focus. Make the trajectory of lightning and
-The calculation that corroborates your answer. 
+9) State what happens to the image when the object is placed at the focal point. Draw the ray diagram and
+The calculation that corroborates your answer.
  
-10) Tell me what kind of image is formed.
+10) State what type of image is formed.
 
 
 <!--fig:start-->
@@ -18242,8 +17690,6 @@ The calculation that corroborates your answer.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q134" data-atom="q134" data-title="Argentina 2005 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball"></span>
 
@@ -18378,68 +17824,36 @@ d) Grafica (con i suoi errori) di ε  √hd in funzione di √ha
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the tests:
+**PE18 Coefficient of Restitution (Experimental Design)**
 
-PE18. San Miguel, Tucumán. Green, please. 
+PE18. San Miguel, Tucumán. Green.
  
-Design a method to know the Return Coefficient (ε) in a ball-to-ball collision
-The ratio of kinetic energy before and after the impact must also be measured.
-(“k”); 
+Design a method for determining the coefficient of restitution (“ε”) in a collision between a ball and the floor; the ratio between kinetic energy before and after the collision (“k”) must also be measured;
  
-1
-2
-1
-2
-v
-v
-u
-u
-−
-−
-=
-ε
+1 2 1 2 v v u u − − = ε
  
  
  
-Ca
-Cd
-E
-E
-k =
+Ca Cd E E k =
  
  
  
-(a) The materials and instruments available on the table of the
-The lab. 
+a) The available materials and instruments that are on the table of the  must be used
+laboratory.
  
-(b) An experimental guide containing at least: 
-• 
-Theoretical foundations. 
-• 
-List of materials. 
-• 
-Schematics. 
-• 
-Table of values of the measurements concerned. 
-• 
-Calculations and error rates. 
-• 
-- What? 
-• 
-I'm going to draw conclusions. 
+b) A experimentation guide must be prepared containing at least:
+• Theoretical foundations. • List of materials. • Diagrams. • Table of values for the respective measurements. • Calculations and error margins. • Observations. • Conclusions.
  
-c) Draw a graph (with its errors) of hd (art. After the shock) as a function of ha (alt. 
-before the crash). 
+c) Produce a graph (with its errors) of “hd” (alt. After the collision) as a function of “ha” (alt.
+before the collision).
  
-d) Graph (with its errors) of ε  √hd according to √ha
+d) Produce a plot (with its errors) of “ε” – √hd versus √ha
 
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q135" data-atom="q135" data-title="Argentina 2005 Locale — Quesito 135" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
@@ -20255,36 +19669,21 @@ Alfilatori
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the parameters of the test:
+**PE27 Refractive index of a transparent body**
 
-PE27. Victorica, the Pampa. Blue, please. 
+PE27. Victorica, La Pampa. Blue.
  
-Determine the refractive index of a transparent body 
+Determine the refractive index of a transparent body
  
-It is asked:
-- 
-The refractive index with respect to air 
-- 
-Description of the work done 
-- 
-The values obtained by direct measurements 
-- 
-The end result with your error calculation 
+Requested: The refractive index relative to air; a description of what was done; the values obtained by direct measurements; the final result along with its error calculation.
  
-Elements provided 
-A semicircular disc to which the refractive index is to be determined.
-A laser .
-Graduated rule in millimeters 
-A compass .
-Other machinery
+Provided items: a semicircular disk for which the refractive index is to be determined; a laser; a ruler marked in millimeters; a compass; pins
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q144" data-atom="q144" data-title="Argentina 2005 Locale — Quesito 144" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/mono,object/spring,object/rod,object/sphere"></span>
 
@@ -20395,42 +19794,33 @@ suggerita dalla teoria
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions shall apply:
+**PE28 Torsional oscillations of a bar on a spring**
 
-PE28. Olive trees, from Buenos Aires. Blue, please. 
+PE28. Olivos, Buenos Aires. Blue.
  
-The experiment is based on the investigation of the torsional oscillations of a charged bar.
-Suspended from a spring. 
-The spring has been placed in the cork in such a way as to be placed in the centre of the bar. 
-Take the two plastic bags and mold them into a sphere. Put the two spheres together.
-The sides of the bar so that their centers are at equal distance d from the spring. The value 
-The initial d should be approximately 10 cm. 
-Adjust the top of the spring using the provided blocks by trying to make the bar and the
-The spheres are suspended horizontally as shown in Figure 1.1 
+The experiment is based on the study of the torsional oscillations of a loaded bar suspended from a spring. The spring has been placed in the cork in such a way that it is located at the center of the bar. Take the two packets of plasticine and shape them into spheres. Place the two spheres on either side of the bar so that their centers are at equal distances d from the spring. The initial value of d should be approximately 10 cm. Adjust the top part of the spring using the blocks provided, trying to ensure that the bar and the spheres are suspended horizontally as shown in Figure 1.1.
  
  
  
  
-View from above 
+Top view
  
-(a) Moving the bar gently so that it oscillates torsional, as described in the 
-The above-mentioned data are used to determine the period of change.
-Depending on the position of the masses. It is recommended to work at intervals for d of between 
-6 y 12 cm. 
+a) By gently moving the bar so that it oscillates in a torsional manner, as described in the
+From a top view, perform all necessary measurements to investigate the variation of the period as a function of the position of the masses. It is recommended to work within a range of d from 6 to 12 cm.
  
-(b) Record the data collected. 
+b) Record the data collected.
  
-(c) The theory suggests that the period T and the distance d between the masses follows the equation 
+c) The theory suggests that the period T and the distance d between the masses follow the equation
  
-where m is the mass of one of the spheres, I0 the moment of inertia of the system and k are constants 
+where m is the mass of one of the spheres, I0 is the moment of inertia of the system, and k are constants
  
-(d) Graph the relationship between the data collected appropriately to obtain the values of 
-I0 y k. Assume that the mass used in each sphere is 20 g. 
+d) Graph the relationship between the data collected appropriately in order to obtain the values of
+I0 y k. Assume that the mass used in each sphere is 20 g.
  
 
  
  
-(e) Analyze the limitations of its experimentation and conclude on the validity of the formula 
+e) Analyze the limitations of your experimentation and draw a conclusion regarding the validity of the formula.
 suggested by the theory
 
 
@@ -20443,8 +19833,6 @@ suggested by the theory
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]], [[Rod (object)|Rod]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q145" data-atom="q145" data-title="Argentina 2005 Locale — Quesito 145" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/pipe-tube,object/pendulum"></span>
 
@@ -20503,30 +19891,27 @@ Materiali: pendolo. (provvisato dalla cattedra).
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE29 Atmospheric pressure and gravity (Torricelli and pendulum)**
+**PE29 Atmospheric Pressure and Gravity (Torricelli and the Pendulum)**
 
-PE29. Felipe Sola, from Buenos Aires. Blue, please. 
+PE29. Felipe Sola, Buenos Aires. Azul.
  
-Objectives: Determination of atmospheric pressure and acceleration of the gravity of the site. 
+OBJECTIVES: Determination of the atmospheric pressure and the local acceleration due to gravity.
  
-A: Determination of atmospheric pressure at Pa of the place.. 
+A: Determination of the atmospheric pressure at the location, in Pa..
  
-Materials: tube of one metre length, bucket, funnel, mm-meter rule, mercury. 
+Materials: a one-meter-long tube, a basin, a funnel, a one-meter metric ruler, mercury.
  
-Procedure: Armed with the barometer according to Torricelli's experience. 
-Explain additional procedures and calculations. 
+Procedure: Assembly of the barometer according to Torricelli's experiment. Explain the procedures and additional calculations.
  
-B. Determination of the acceleration of the place's gravity. 
+B.- Determination of the local acceleration due to gravity.
  
-The following is the list of the products used: (provided by the chair).
+Materials: Pendulum. (provided by the department).
 
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q146" data-atom="q146" data-title="Argentina 2005 Locale — Quesito 146" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
@@ -20569,22 +19954,17 @@ del risultato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+**PE30 Density of Lead**
 
-PE30. I'm from Navarro, Buenos Aires. Blue, please. 
+PE30. Navarro, Buenos Aires. Azul.
  
-The lead density is asked to be determined. Using the materials available: 
-Graduated sample, lead piece, water and dynamometer. 
-Clearly describe the chosen procedure (theoretical and experimental) and assess the error 
-The result.
+It is required to determine the density of lead. Using the available materials—a graduated cylinder, a piece of lead, water, and a dynamometer—clearly describe the chosen procedure (theoretical and experimental parts) and assess the error in the result.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q147" data-atom="q147" data-title="Argentina 2005 Locale — Quesito 147" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono"></span>
 
@@ -20890,53 +20270,49 @@ Hb fino a quando non arriva al pavimento).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the energy savings:
+**PE32 Elastic Collision and Conservation of Energy**
 
-PE32. Olive trees, from Buenos Aires. Blue, please. 
+PE32. Olivos, Buenos Aires. Azul.
  
-Elastic shock - Energy saving 
+Elastic collision - Conservation of energy
  
-(To develop this practice, take into account measurement errors and their spread)
+(For carrying out this exercise, take into account the errors in the measurements and their propagation)
  
   
  
  
  
  
-                                                                                     A 
+A
  
-                      H A 
-                                                                                                                B   
- 
+H A B
  
  
  
-                                                                                                                    H b 
+ 
+H b
          
  
-                                                                                                                                          X 
-....................................................................................................................................................................
-...... 
+X .................................................................................................................................................................... ......
  
  
  
  
  
  
-Objective: Verify energy conservation and the amount of movement. 
+Objective: To verify the conservation of energy and momentum.
  
-Materials needed: different mass spheres .(MA ,MB) 
+Materials required: Spheres with different masses (MA, MB)
  
-(a) Determine the theoretical value of the velocity at which the sphere A collides with the sphere B (MA=MB) 
+a) Determine the theoretical value of the speed at which sphere A collides with sphere B (MA=MB)
  
-(b) Calculate the initial velocity of the sphere B after the impact, from the data obtained in the
-falling from that body. 
+b) Calculate the initial velocity of sphere B after the collision, based on the data obtained in the
+fall of said body.
  
-(c) Repeat the experience with (MA > MB) and draw conclusions . 
+c) Repeat the experiment with (MA > MB) and draw conclusions.
  
-(d) Draw two graphs, one for the larger B-sphere and one for the smaller one, which 
-They represent the variation of the potential and kinetic energy in relation to the drop height (from H= 
-Hb until he gets to the floor).
+d) Prepare two graphs, one for sphere B, which has the greater mass, and one for the one with the lesser mass, which
+They represent the variation of potential and kinetic energy as a function of the fall height (from H = Hb until it reaches the floor).
 
 
 <!--fig:start-->
@@ -20948,8 +20324,6 @@ Hb until he gets to the floor).
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q149" data-atom="q149" data-title="Argentina 2005 Locale — Quesito 149" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono"></span>
 
@@ -21032,42 +20406,25 @@ Tutti i commenti che ritiene pertinenti per il rapporto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE33 Density of wood object**
+**PE33 Wood object density**
 
-PE33. The first is the Spanish. Blue, please. 
+PE33. Santiago del Estero. Blue.
  
-The density of a wooden object is to be determined. For this purpose, the mass of the same is supplied.
-42,9 gr ± 0,1 gr 
-Carbon paper 
+If it is desired to determine the density of a wooden object, the mass of the object is provided: 42.9 g ± 0.1 g carbon paper.
 
  
  
-The materials available are: 
-Body of wood known mass 
-Millimeter rule
+The available materials are: a wooden body of known mass, a millimeter ruler.
  
-Write a report of your experience where you say: 
+Draft a report on your experience that includes:
  
-• 
-The objective of his work 
-• 
-Experimental method used 
-• 
-Value obtained from measurements made 
-• 
-Sources of errors and analysis of how they influence the final result 
-• 
-Final result summarised 
-• 
-All comments which you consider relevant to the report.
+• Objective of your work • Experimental method used • Values obtained from the measurements carried out • Sources of error and analysis of how they affect the final result • Bounded final result • Any comments you consider relevant for the report.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q150" data-atom="q150" data-title="Argentina 2005 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/mono,object/calorimeter"></span>
 
@@ -21776,30 +21133,21 @@ Conclusione: …………….
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions shall apply:
+**PE35 Push of Liquids (Spring)**
 
-PE35. Eduardo Castex, the Pampa. Blue, please. 
+PE35. Eduardo Castex, La Pampa. Azul.
  
-Subject: Push of fluids 
-Material required: 1 rubber or plastic band - Resort 
+Topic: Push of Fluids Materials Needed: 1 rubber band or plastic band - Spring
  
-3 bullocks or nuts 
+3 bolt or nut
  
-1 balance 
+1 scale
  
-1 container of water 
+1 container with water
  
-1 rule 
-The data available is used to determine the thrust that bodies receive when diving.
-in a liquid. 
+1st Rule: Using the available elements, the aim is to determine the thrust experienced by bodies when they are submerged in a liquid.
  
-Weight in gr. 
-It's a long one. En 
-cm. Air .
-It's a long one. En 
-cm. - It's water. 
-It's a long one. 
-Push it. 
+Weight in g. Length in cm. Air Length in cm. Water Length Thrust.
  
  
  
@@ -21808,15 +21156,13 @@ Push it.
  
  
  
-The following is the list of the types of products which are subject to the approval procedure:
+Conclusion: …………….
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q152" data-atom="q152" data-title="Argentina 2005 Locale — Quesito 152" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor,object/calorimeter"></span>
 
@@ -21909,44 +21255,27 @@ c) analizzare le fonti di eventuali errori e determinare l'errore del risultato.
 
 **PE36 Electrical resistance of a heater**
 
-PE36. The city of Cordoba. Blue, please. 
+PE36. City of Córdoba. Blue.
  
-Determine the electrical resistance of a heater. 
+Determine the electrical resistance of a heater.
  
-The following elements: 
-12 Volt power source
-Mechero from Bunsen 
-Electric heater 
-Tripod .
-The plank of Amianto
-Thermometer .
-Calorimeter 
-The time-meter .
-Graduated glass
-Water
+Elements: 12-volt power source, Bunsen burner, electric heater, tripod, asbestos plate, thermometer, calorimeter, stopwatch, graduated cylinder, water
  
-Requirements: 
+Requirements:
  
-- You can only use the items provided, paper, pencil, calculator. 
-- At the end of the work, a report shall be submitted, including the following points: 
-(a) Determination of the thermal capacity of the calorimeter. Use the sprinkler to heat up 
-The water mass is different, which will then be placed in the calorimeter, reaching the temperature of 
-The balance. Calculate the heat supplied by the water in each case. 
-Graph the function ∆Q x ∆To of the Calorimeter. Look at the graph and draw conclusions. 
-(b) Determination of the electrical resistance of a heater. For different water masses 
-Place the temperature changes on the Calorimeter and measure and chart them according to the temperature difference.
-time. Check the chart. 
-Determine the Heater Power from the Heat supplied. Then determine the
-Electrical resistance. Get some conclusions. 
-(c) Analyze the sources of possible errors and determine the error of the result.
+- You may only use the provided materials: paper, pen, and calculator.
+- Upon completion of the work, you must submit a report that includes the following points:
+a) Determination of the calorimeter's heat capacity. Use the Bunsen burner to heat
+Different masses of water, which will then be placed in the calorimeter and will reach the equilibrium temperature. Calculate the heat supplied by the water in each case. Plot the function ∆Q vs. ∆Tº for the calorimeter. Analyze the graph and draw conclusions.
+b) Determination of the Electrical Resistance of a Heater. For Different Masses of Water
+Place them in the calorimeter, measure and plot the variations in temperature as a function of time. Analyze the graph. Determine the heater power from the heat supplied. Then determine the electrical resistance. Draw conclusions.
+c) Analyze the sources of possible errors and determine the error in the result.
 
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Resistor (object)|Resistor]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
-
 
 <span class="atom-split" id="q153" data-atom="q153" data-title="Argentina 2005 Locale — Quesito 153" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/tank-container"></span>
 

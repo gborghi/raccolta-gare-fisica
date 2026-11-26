@@ -200,121 +200,121 @@ Riporta sul foglio risposte i valori di $L$ e di $\lambda$ e il valore della bir
 
 <div class="qlang-split" data-lang="en"></div>
 
-♪ ♪ Bit of a freak of a bitch ♪
+### Birefringence of mica
 
-In this experiment, you'll measure the bifurcation of mica, a crystal often used for polarizing optical components.
+In this experiment, you will measure the birefringence of mica, a crystal commonly used for polarizing optical components.
 
 ---
 
-♪ ♪ Materials ♪
+#### Materials
 
-In addition to the equipment described in 1), 2) and 3) you will use:
+In addition to the equipment described in 1), 2), and 3), you will use:
 
-14. Two polarizing filters mounted on slide supports and equipped with acrylic support (**ETICHETTA J**).
-15. A very thin mica sheet mounted inside a plastic cylinder with an unnumbered grade. A supporting acrylic to support the cylinder (**ETICHETTA K**).
-16. The Photodetector system: a photodetector in a plastic box, connecting cables and a rubber base. A multimeter for measuring the output voltage from the photodetector (**ETICHETTA L**).
+14. Two polarizing filters mounted in slide holders and provided with an acrylic support (**LABEL J**).
+15. A very thin mica sheet mounted inside a plastic cylinder with an unnumbered scale. An acrylic support for holding the cylinder (**LABEL K**).
+16. The photodetector system: a photodetector in a plastic box, connecting wires, and a rubber base plate. A multimeter for measuring the voltage output from the photodetector (**LABEL L**).
 17. A calculator.
-18. White cardboard, tape, support sticks, scissors, squares.
-19. Pencils, paper and paper.
+18. White cardboard squares, adhesive paper tape, support sticks, scissors, set squares.
+19. Pencils, paper, and graph paper.
 
 ---
 
-#### Describe the phenomenon
+#### Description of the Phenomenon
 
-Light is a transverse electromagnetic wave with an electric field that is perpendicular to the direction of propagation of the wave and oscillates with the frequency of the wave that propagates.
+Light is a transverse electromagnetic wave in which the electric field lies in a plane perpendicular to the direction of wave propagation and oscillates at the frequency of the propagating wave.
 
-If the electric field is constantly oscillating in the same direction, the wave is said to be **linearly polarized** (or, more simply, polarized). *(Figure 2.1: wave traveling in the direction $y$ and polarized along $z$.) *
+If the electric field oscillates continuously in the same direction, the wave is said to be **linearly polarized** (or, more simply, polarized). *(Figure 2.1: a wave traveling in the $y$ direction and polarized along $z$.)*
 
-A **polarizer filter** is a film to which a privileged axis parallel to the surface of the film is associated, so that the light transmitted through it emerges polarized along the axis of the polarizer. The axis of the film shall be $(+)$ and the axis perpendicular to it shall be $(-)$. *(Figura 2.2.)*
+A **polarizing filter** is a film to which a preferred axis parallel to the film's surface is associated, such that the light transmitted through it emerges polarized along the axis of the polarizer. The preferred axis will be denoted by $(+)$, and the axis perpendicular to it on the film's surface will be denoted by $(-)$. *(Figure 2.2.)*
 
-Transparent materials of common use, such as window glass, transmit light without changing its polarization state, as their refractive index does not depend on either the direction or the polarization of the incident wave. Many crystals, like mica, behave differently depending on the direction of the wave's electric field. For a beam of light propagating perpendicular to its surface, a mica sheet has two characteristic orthogonal axes  **Axis 1** and **Axis 2**  which give rise to the phenomenon called **birifrangence**. *(Figura 2.3.)*
+Commonly used transparent materials, such as window glass, transmit light without altering its state of polarization, since their refractive index depends neither on the direction nor on the polarization of the incident wave. However, many crystals, such as mica, behave differently depending on the direction of the wave's electric field. For a beam of light propagating perpendicular to its surface, a mica sheet has two characteristic orthogonal axes—**Axis 1** and **Axis 2**—which give rise to the phenomenon known as **birefringence**. *(Figure 2.3.)*
 
-**Case 1.** One of the axes (Axis 1 or Axis 2) is parallel to the direction of polarization of the incident wave. The transmitted wave retains its polarization state, but propagation occurs as if the material had a refractive index $n_1$ or $n_2$ depending on the two cases. *(Figure 2.4 e 2.5.)*
+**Case 1.** One of the axes (Axis 1 or Axis 2) is parallel to the polarization direction of the incident wave. The transmitted wave retains its polarization state, but propagation occurs as if the material had a refractive index of $n_1$ or $n_2$, depending on the two cases. *(Figures 2.4 and 2.5.)*
 
-**Case 2.** Axis 1 forms an angle $\Omega$ with the direction of polarization of the incident wave. La luce trasmessa può essere pensata come la sovrapposizione di due onde con fase diversa: una con polarizzazione **parallela** alla polarizzazione dell'onda incidente (verticale) e l'altra con polarizzazione **perpendicolare** (orizzontale). *(Figura 2.6.)*
+**Case 2.** Axis 1 forms an angle $\Omega$ with the polarization direction of the incident wave. The transmitted light can be regarded as the superposition of two waves with different phases: one with polarization **parallel** to the polarization of the incident wave (vertical), and the other with polarization **perpendicular** (horizontal). *(Figure 2.6.)*
 
-Caller $I_P(\Omega)$ the transmitted wave intensity parallel to the polarization of the incident wave, and $I_O(\Omega)$ the transmitted wave intensity perpendicular. These intensities depend on the angle $\Omega$, the wavelength $\lambda$ of the monochrome light source, the thickness $L$ of the blade and the absolute value of the difference between the two refractive indices, $|n_1 - n_2|$. This last quantity is called the material's **birfrangence** and is the purpose of this experiment to measure it.
+Let $I_P(\Omega)$ be the intensity of the transmitted wave parallel to the polarization of the incident wave, and let $I_O(\Omega)$ be the intensity of the transmitted wave perpendicular to it. These intensities depend on the angle $\Omega$, on the wavelength $\lambda$ of the monochromatic light source, on the thickness $L$ of the plate, and on the absolute value of the difference between the two refractive indices, $|n_1 - n_2|$. This latter quantity is called the **birefringence** of the material, and the aim of this experiment is to measure it.
 
-The dependence of $I_P(\Omega)$ and $I_O(\Omega)$ on the angle is complicated by other effects (such as absorption by mica). However, approximate and very simple expressions can be obtained for the normalized intensity values, $\hat{I}_P(\Omega)$ and $\hat{I}_O(\Omega)$, defined as:
+The dependence of $I_P(\Omega)$ and $I_O(\Omega)$ on the angle is complicated by other effects (such as absorption by mica). However, very simple approximate expressions can be obtained for the normalized values of the intensities, $\hat{I}_P(\Omega)$ and $\hat{I}_O(\Omega)$, defined as:
 
 $$\hat{I}_P(\Omega) = \frac{I_P(\Omega)}{I_P(\Omega) + I_O(\Omega)} \quad (2.1)$$
 
 $$\hat{I}_O(\Omega) = \frac{I_O(\Omega)}{I_P(\Omega) + I_O(\Omega)} \quad (2.2)$$
 
-The normalised intensities can be shown to be (approximately):
+It can be shown that the normalized intensities are (approximately):
 
 $$\hat{I}_P(\Omega) = 1 - \tfrac{1}{2}\!\left(1 - \cos\Delta\varphi\right)\sin^2(2\Omega) \quad (2.3)$$
 
 $$\hat{I}_O(\Omega) = \tfrac{1}{2}\!\left(1 - \cos\Delta\varphi\right)\sin^2(2\Omega) \quad (2.4)$$
 
-where $\Delta\varphi$ is the phase difference between the transmitted waves (the parallel and the perpendicular), given by:
+where $\Delta\varphi$ is the phase difference between the transmitted waves (the parallel one and the perpendicular one), given by:
 
 $$\Delta\varphi = \frac{2\pi L}{\lambda}\,|n_1 - n_2| \quad (2.5)$$
 
-where $L$ is the thickness of the mica plate, $\lambda$ the wavelength of the incident radiation and $|n_1 - n_2|$ the bifurcation.
+where $L$ is the thickness of the mica plate, $\lambda$ is the wavelength of the incident radiation, and $|n_1 - n_2|$ is the birefringence.
 
 ---
 
-♪ experimental equipment ♪
+#### Experimental apparatus
 
-**Compito 2.1** — *Montaggio sperimentale per la misura delle intensità* **(1.0 punto)**
+**Task 2.1** — *Experimental assembly for measuring intensities* **(1.0 point)**
 
-Design a way to use the available equipment to measure the $I_P$ and $I_O$ intensities of the transmitted wave, depending on the $\Omega$ angle of any of the optical axes (Figure 2.6). Present your project by showing the **ETICHETTE** of the different devices on the optical bench design. Use the conventional signs $(+)$ and $(-)$ to indicate the direction of polarization of the polarizers.
+Design a method for using the available equipment to measure the intensities $I_P$ and $I_O$ of the transmitted wave as a function of the angle $\Omega$ of any of the optical axes (Figure 2.6). Present your design by appropriately indicating on the optical bench drawing the **LABELS** of the various devices. Use the conventional symbols $(+)$ and $(-)$ to indicate the direction of polarization of the polarizers.
 
-- **Task 2.1 a)** Experimental assembly for measuring $\hat{I}_P$ ****
-- **Task 2.1 b)** Experimental assembly for measuring $\hat{I}_O$ **** 0.5 points.
+- **Task 2.1 a)** Experimental assembly for measuring $\hat{I}_P$ **(0.5 points)**.
+- **Task 2.1 b)** Experimental assembly for measuring $\hat{I}_O$ **(0.5 points)**.
 
-**Lineating the laser beam.** Line the laser beam so that it is parallel to the table and hits the center of the cylinder containing mica. You can make the alignment using one of the white cards to intercept the beam of light and follow its path. Fine adjustments can be made by acting on the moving mirror.
+Laser beam alignment. Align the laser beam so that it is parallel to the table and strikes the center of the cylinder containing the mica. You can perform the alignment using one of the white cardboard pieces to intercept the light beam and follow its path. Fine adjustments can be made by adjusting the movable mirror.
 
-**Photodetector and multimeter.** The photodetector produces a linearly proportional voltage to the intensity of the light that hits it; it measures this voltage with the multimeter. When the laser light does not affect the photodetector, the intensity of the background light is measured (approximately $1\ \text{mV}$). Do not make adjustments to the background light when taking the intensity measurements.
+**Photodetector and multimeter.** The photodetector produces a voltage that is linearly proportional to the intensity of the light striking it; the multimeter measures this voltage. When the laser light does not fall on the photodetector, the intensity of the ambient light is measured (approximately $1\ \text{mV}$). Do not apply corrections based on the ambient light when taking intensity measurements.
 
-> **ATTENTION:** The laser light is partially polarized but it is not known in which direction. To obtain a polarized light that allows good intensity readings, place a polarizer with one of its axes, $(+)$ or $(-)$, in a fixed vertical direction and act to achieve maximum transmitted intensity in the absence of any other optical device.
+**ATTENTION:** The laser light is partially polarized, but its polarization direction is unknown. To obtain polarized light that allows good intensity readings, place a polarizer with one of its axes, $(+)$ or $(-)$, in a fixed vertical direction, and adjust so as to achieve a maximum transmitted intensity in the absence of any other optical device.
 
 ---
 
-♪ ♪ Measuring the intensities ♪
+#### Measurement of Intensities
 
-The angle of the measurement scale is **Task 2.2**  *The angle measurement scale* **(0.25 points)**
+**Task 2.2** — *The scale for determining the angle* **(0.25 points)**
 
-The cylinder containing mica has a regular graduation. Determines the value in degrees that corresponds to the minimum interval, i.e. the arc between two consecutive lines.
+The cylinder containing the mica has a regular graduation. Determine the value in degrees corresponding to the smallest interval, that is, to the arc between two consecutive lines.
 
-**Finding approximately the zero of $\Omega$ and the arrangement of the mica axes.**
+Find approximately the zero of $\Omega$ and the arrangement of the mica axes.
 
-First, the position of one of the two axes of mica (Axis 1) should be identified. It's almost certain that this position doesn't match one of the lines of the graduated cylinder. Take as provisional origin the nearest line of the graduation and call $\Omega'$ the angles measured relative to this origin.
+First of all, it is advisable to identify the position of one of the two mica axes (Axis 1). It is almost certain that this position will not coincide with any of the lines on the graduated cylinder. Take the nearest line on the scale as a provisional origin, and call $\Omega'$ the angles measured relative to this origin.
 
-**Compito 2.3** — *Misura di $\hat{I}_P$ e $\hat{I}_O$* **(3.0 punti)**
+Task 2.3 — *Measurement of $\hat{I}_P$ and $\hat{I}_O$* **(3.0 points)**
 
-Measure the intensities $I_P$ and $I_O$ for a sufficiently high number of angles $\Omega'$. Report your measurements in Table I. Try to take the measurements of $I_P$ and $I_O$ for the same cylinder positions with mica (i.e. for a fixed value of $\Omega'$).
+Measure the intensities $I_P$ and $I_O$ for a sufficiently large number of angles $\Omega'$. Record your measurements in Table I. Try to take the measurements of $I_P$ and $I_O$ for the same positions of the mica cylinder (that is, for a fixed value of $\Omega'$).
 
-**Compito 2.4** — *Trovare uno zero appropriato per $\Omega$* **(1.0 punto)**
+Task 2.4 — *Find an appropriate zero for $\Omega$* **(1.0 point)**
 
-The position of the axis 1 defines the zero of the angle $\Omega$. To determine the angle zero, you can proceed graphically or numerically. In positions close enough to a maximum or a minimum the ratio can be approximated by a parabola:
+The placement of Axis 1 defines the zero of angle $\Omega$. To determine the zero of the angles, you can proceed graphically or numerically. In positions sufficiently close to a maximum or a minimum, the relationship can be approximated by a parabola:
 
 $$f(\Omega') \approx a\,(\Omega')^2 + b\,\Omega' + c$$
 
-and the minimum (or maximum) of the parable is given by:
+And the minimum (or maximum) of the parabola is given by:
 
 $$\Omega'_{\min} = -\frac{b}{2a}$$
 
-Whatever method is used, you will get a deviation $\Delta\Omega'$ from the provisional origin; the correct angles are $\Omega = \Omega' - \Delta\Omega'$. Write down the value of the deviation in degrees.
+Whatever method is used, you will obtain a deviation $\Delta\Omega'$ from the provisional origin; the corrected angles are $\Omega = \Omega' - \Delta\Omega'$. Write the value of the deviation in degrees.
 
 ---
 
-#### Analysis of the data
+#### Data Analysis
 
-**Compito 2.5** — *Scegliere la relazione appropriata* **(0.5 punti)**
+**Task 2.5** — *Choose the appropriate relation* **(0.5 points)**
 
-Take $\hat{I}_P(\Omega)$ or $\hat{I}_O(\Omega)$ to develop a method that allows you to determine the phase difference $\Delta\varphi$. Describe the relationship between the variables you want to use.
+Take $\hat{I}_P(\Omega)$ or $\hat{I}_O(\Omega)$ to develop a method that will allow you to determine the phase difference $\Delta\varphi$. Describe the relationship between the variables you intend to use.
 
-**Compito 2.6** — *Analisi dei dati e differenza di fase*
+**Task 2.6** — *Data Analysis and Phase Difference*
 
-- Use Table II to write the values of the variables needed to develop the chosen method of determination. Make sure you use the correct values for the $\Omega$ angles and include uncertainties. Use the millimeter paper to chart the values of the selected variables **(1.0 point)**.
-- Develops a data analysis to obtain the measurement of the phase difference $\Delta\varphi$ and reports the results with uncertainties. Returns all the formulas used to analyze the data and performs the graphical analysis of the results **(1.75 points)**.
-- Calculate the value of the $\Delta\varphi$ phase difference in radiants, including its uncertainty, in the $[0,\,\pi]$ **** range.
+- Use Table II to write the values of the variables needed to develop the chosen determination method. Make sure to use the correct values for the angles $\Omega$ and include the uncertainties. Use graph paper to plot the values of the chosen variables **(1.0 point)**.
+- Develop a data analysis to obtain the measure of the phase difference $\Delta\varphi$ and report the results with the uncertainties. Report all the formulas used to analyze the data and perform a graphical analysis of the results **(1.75 points)**.
+- Calculate the value of the phase difference $\Delta\varphi$ in radians, including its uncertainty, over the interval $[0,\,\pi]$ **(0.5 points)**.
 
-**Compito 2.7** — *Calcolo della birifrangenza $|n_1 - n_2|$* **(1.0 punto)**
+**Task 2.7** — *Calculation of birefringence $|n_1 - n_2|$* **(1.0 point)**
 
-It can be noted that adding $2N\pi$ to the phase difference $\Delta\varphi$ (with $N$ any integer), or changing the sign, leaves the values of the normalised intensities unchanged, but changes the value of the bifrangence. To correctly calculate the bifrangence from the value of $\Delta\varphi$ found in Task 2.6 the following ratios must be used:
+It can be noted that adding $2N\pi$ to the phase difference $\Delta\varphi$ (with any integer $N$), or changing its sign, leaves the values of the normalized intensities unchanged but modifies the value of birefringence. To correctly calculate birefringence from the value of $\Delta\varphi$ found in Task 2.6, the following relationships must be used:
 
 $$\Delta\varphi = \frac{2\pi L}{\lambda}\,|n_1 - n_2| \qquad \text{se} \quad L < 82 \times 10^{-6}\ \text{m}$$
 
@@ -322,54 +322,54 @@ or
 
 $$2\pi - \Delta\varphi = \frac{2\pi L}{\lambda}\,|n_1 - n_2| \qquad \text{se} \quad L > 82 \times 10^{-6}\ \text{m}$$
 
-where the value of the thickness $L$ of the mica strip is written on the cylinder containing it (in micrometres; $1\ \mu\text{m} = 10^{-6}\ \text{m}$). Assume that the uncertainty of $L$ is $1 \times 10^{-6}\ \text{m}$. For the laser wavelength, you can use the value found in Problem 1 or the mean value between $620 \times 10^{-9}\ \text{m}$ and $750 \times 10^{-9}\ \text{m}$, which defines the red band.
+where the value of the thickness $L$ of the mica sheet is written on the cylinder that contains it (in micrometres; $1\ \mu\text{m} = 10^{-6}\ \text{m}$). Assume that the uncertainty of $L$ is $1 \times 10^{-6}\ \text{m}$. For the laser wavelength, you can use the value found in Problem 1 or the average value between $620 \times 10^{-9}\ \text{m}$ and $750 \times 10^{-9}\ \text{m}$, which defines the red band.
 
-Report on the reply sheet the values of $L$ and $\lambda$ and the value of the bifrange $|n_1 - n_2|$ including its uncertainty. Write down the formulae used to determine uncertainty.
+On the answer sheet, record the values of $L$ and $\lambda$ and the value of the birefringence $|n_1 - n_2|$, including its uncertainty. Write the formulas used to determine the uncertainty.
 
 ---
 
 <!--fig:start-->
-**p.1** — Polarizzatore montato su supporto
+**p.1** — Polarizer mounted on a support
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1** — Foglietto di mica su supporto acrilico
+**p.1** — Mica sheet on an acrylic substrate
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p1_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Multimetro e fotodetector collegati
+**p.3** — Multimeter and photodetector connected
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3**  Figure 2.1 wave traveling along z
+**p.3** — Figure 2.1: wave traveling along z
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p3_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Figura 2.2 luce polarizzata e non polarizzata
+**p.4** — Figure 2.2 Polarized and unpolarized light
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p4_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4**  Figure 2.3 Axis mica strip
+**p.4** — Figure 2.3 mica plate with axes
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p4_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Figura 2.4 asse parallelo alla polarizzazione
+**p.5** — Figure 2.4: axis parallel to the polarization
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p5_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Figura 2.5 asse 2 parallelo alla polarizzazione
+**p.5** — Figure 2.5: axis 2 parallel to the polarization
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p5_f8.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Figura 2.6 asse a angolo theta
+**p.5** — Figure 2.6 axis a at angle theta
 ![[_attachments/problema sperimentale 2/problema sperimentale 2_p5_f9.png]]
 <!--fig:end-->
 
@@ -379,3 +379,4 @@ Report on the reply sheet the values of $L$ and $\lambda$ and the value of the b
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Zeza1ZI6_hAQJuMxJiqsAJhzZqamLxGG/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1VkgraHGRh6Ftg6YtwX-S7vtwHjfz6s6Z/view)
+

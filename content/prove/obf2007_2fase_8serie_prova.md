@@ -846,276 +846,82 @@ massa
 
 <div class="qlang-split" data-lang="en"></div>
 
-03. Look carefully at the pictures in figure 4. The first is
-a double arc announcing the presence of a known network of
-- I'm not going to eat. Below it we see a night photograph of a jumper.
-Trampoline, almost reproducing one of the parables of the double bow.
-Next to you, at the top, we have a heater sitting
-parables, which are also reproduced by the eruption of a volcano,
-as seen in the photo below. These parables can be obtained from
-The study was carried out in the context of the study of the use of photographic materials.
-Figure 5 shows the known phenomenon of the launch of
-You're going to shoot. The last photo in Figure 5 represents one of the sides of the
-parabola obtained from the horizontal throwing of a white ball
-in a gravitational field (g = 10 $m/s^2$), with an initial velocity of 2,0
-m/s and a height of 5,0 m from the ground.
-4
+03. Carefully observe the photographs in Figure 4 below. The first one is
+A double arch signaling the presence of a well-known chain of snack bars. Below it, we see a night-time photograph of a trampoline jumper, almost reproducing one of the parabolas of the double arch. Beside it, at the top, there is a fountain "spewing parabolas," which are also reproduced by the eruption of a volcano, as seen in the photograph below. These parabolas can be obtained for educational purposes from stroboscopic photographs* (see the photograph in Figure 5) representing the well-known phenomenon of projectile motion. The last photograph in Figure 5 shows one side of the parabola, obtained from the horizontal launch of a white ball in a gravitational field (g = 10 $m/s^2$), with an initial speed of 2.0 m/s and from a height of 5.0 m above the ground. 4
 
-Fig. 4
-The ball's motion can be represented mathematically by
-the parabola function y = 5,0 - 1,25 $x^2$, with y and x in meters. You ask yourself:
-(a) What is the shortest distance between the starting and the end of the
-The trajectory?
-In the last picture in Figure 5 it is released simultaneously with the
-white ball, a gray ball in free fall. Please note that the
-The vertical coordinates (y) of the two balls are identical, at each
-In the instant, and the y function of the free fall ball, relative to the
-time, is y = 5,0 - 5 $t^2$. According to this equation:
-(b) How long will it take the gray ball to reach the ground?
-In strobe photography, we only have one shot of a ball.
-several times, that is, stroboscopic photographs are those in which the
-film or ccd (occupies the place of the digital machine film) are exposed
-in a longer time than usual and the subject is illuminated
-Sometimes resulting in a photo where multiple images appear to exist.
-- I'm not going to.
+Fig. 4 The motion of the ball can be represented mathematically by the parabolic function y = 5.0 - 1.25 $x^2$, with y and x in meters. The question is:
+(a) What will be the shortest distance between the starting point and the ending point of the
+Trajectory? Still in the last photograph of Figure 5, a grey ball is released in free fall simultaneously with the white ball. Note that the vertical coordinates (y) of the two balls are identical at every instant, and the y-function of the freely falling ball with respect to time is y = 5.0 - 5 $t^2$. According to this equation:
+(b) How long will it take for the gray ball to reach the ground?
+* In the stroboscopic photograph, only one ball is photographed.
+Several times—that is, strobe photographs are those in which the film or the CCD (which takes the place of the film in a digital camera) is exposed for a longer time than usual, and the subject of study is illuminated several times, resulting in a photograph in which multiple balls appear to exist.
 
 Fig. 5
 
-04 To supplement the previous question, figure 6 shows that the
-above a sequence of four illustrations. In the last one, note the
-The same as the pictures in the previous question, where the points of a
-The full parabola is obtained from the vertical direction of the launch of
-an object from a truck in uniform reticle motion
-(MRU) This MRU is represented by the uniform sequence of
-horizontal points.
-5
-1
-2
-3
-4
+04 To complement the previous question, Figure 6 above presents a sequence of four illustrations. In the last one, note the similarity to the photos in the previous question, where the points of a complete parabola are obtained from the vertical launch of an object from a truck moving with uniform rectilinear motion (MRU). This MRU is represented by the uniform sequence of horizontal dotted lines. 5 1 2 3 4
 
 Fig. 6
-(a) If the function representing the time evolution of the truck is
-x = 2.0 t, what's the speed of the truck?
-As in the previous question, the only force acting is gravity.
-The acceleration is approximately g = 10 $m/s^2$. The full description
-The vertical rise and fall of the object launched from the
-truck in time, is y = 10t $-5t^2$, and at the coordinate
-We have the MRU (x = 2.0 t) horizontally.
-(b) Calculate the vertical start speed module, represented in
-The first table of the illustration sequence.
-Combining the two movements (horizontal and vertical):
-(c) What is the parabolic trajectory equation (y) in terms of x?
-(d) What is the maximum height reached by the object?
+a) If the function representing the truck's temporal evolution is
+x = 2.0 t; what is the truck's speed? As in the previous question, the only force acting is gravity, whose acceleration is approximated as g = 10 $m/s^2$. The complete description, in the vertical coordinate, of the rise and fall of the object launched from the truck as a function of time is y = 10t $-5t^2$, and in the horizontal coordinate we have uniform rectilinear motion (x = 2.0 t). With this information:
+(b) Calculate the magnitude of the initial vertical velocity, represented in the
+first panel of the sequence of illustrations. By combining the two movements (horizontal and vertical):
+(c) What is the equation of the parabolic trajectory (y) in terms of x?
+d) What will be the maximum height reached by the object?
 
-05. The pyrotechnic mortar is a firework which, when fired,
-It explodes vertically at 200 m. Suppose you, situated at
-A certain distance from a mortar launch, measured the time of 3 s between
-the flash and sound of the corresponding explosion.
-The speed of light is extremely high (300,000 km/s) so that,
-In practice, the lightning from the mortar instantly reaches the
-our eyes. On the other hand, the speed of sound in the air is much lower and
-It's perceptible to our senses, and it's equal to 340m/s.
-(a) Determine the distance travelled by the sound from the point of explosion to the
-You, too.
-(b) Determine the distance between the launch point of the mortar and the
-position where you heard the explosion.
+05. The pyrotechnic mortar is a firework that, when launched
+Vertically, it explodes at a height of 200 m. Suppose that you, positioned at a certain distance from the mortar launch point, measured a time interval of 3 s between the flash and the sound of the corresponding explosion. The speed of light is extremely high (300,000 km/s), so, for practical purposes, the mortar's flash reaches our eyes instantaneously. On the other hand, the speed of sound in air is much lower and perceptible to our senses, being equal to 340 m/s.
+a) Determine the distance traveled by sound from the point of the explosion to
+you.
+b) Determine the distance between the mortar launch point and the
+The position where you heard the explosion.
 
-Fig. 7
-6
-06. A solar eclipse occurs when the moon lies between the sun and the earth
-projecting its shadow onto the surface of our planet. The Astronomers
-calculate very accurately, among other quantities, the duration
-of the eclipse in a certain city.
+Fig. 7 6 06. A solar eclipse occurs when the Moon comes between the Sun and the Earth, casting its shadow onto the surface of our planet. Astronomers calculate with great precision, among other quantities, the duration of the eclipse in a given city.
 
-SOL
-The Lunar
-EARTH
-ECLIPSE
+SUN MOON EARTH ECLIPSE
 
 Fig. 8
 
-We can get a rough idea of how this calculation is done,
-by solving the following problem (Figure 9):
-The sun, meeting the pine, produces a parallel beam of light and
-perpendicular to the ground. Between the sun and a flat, straight road, a flying
-80 m long aircraft with a speed of 540 km/h relative to
-Get down on the ground. The shadow produced by the aircraft reaches a certain
-In the meantime, a motorcycle that moves in the same direction and with
-speed of 180 km/h. How long the shadow remains
-about the bike? Note: one of the parallel light properties in
-The normal incidence is to form a shadow of the same size as the object.
+We can get a rough idea of how this calculation is done by solving the following problem (Figure 9): When the Sun is at zenith, it produces a beam of light that is parallel to and perpendicular to the ground. Between the Sun and a flat, straight road, an airplane 80 m long flies at a speed of 540 km/h relative to the ground. At a given instant, the shadow cast by the airplane falls on a motorcycle that is moving in the same direction at a speed of 180 km/h. For how long does the shadow remain on the motorcycle? Note: one of the properties of parallel light at normal incidence is that it forms a shadow whose size is the same as that of the object.
 
 Fig. 9
 
-07. See in Figure 10 sparkles from a June party phosphorus,
-commonly referred to as silver rain. The temperature of your flame
-It can reach levels greater than 2000 °C but when it hits the skin
-human, you feel only a slight "blurred" This way, high
-temperature does not necessarily mean high amount of heat. De
-In fact, the heat change $(\Delta Q$) is related to the change in
-Temperature $(\Delta T$) through mass (m) and a quantity called
-specific heat (c), resulting in the formula.
-T
-mc
-Q
-$\Delta$
-=
-$\Delta$
+07. See in Figure 10 the sparks from a "St. John's Festival match",
+Usually called silver rain. The temperature of its flame can reach values greater than 2000 °C, but when it reaches human skin, only a slight "pinch" is felt. Thus, a high temperature does not necessarily mean a large amount of heat. In fact, the change in heat $(\Delta Q$) is related to the change in temperature $(\Delta T$) through mass (m) and a quantity called specific heat (c), resulting in the formula: T mc Q $\Delta$ = $\Delta$
 
-Fig. 10
-7
-Consider (Figure 11) a graph of the temperature T as a function of the
-quantity of heat added Q, for water and soil, whose
-Heat
-specific
-c
-are
-)
-(
-18
-,4
-C
-g
-J
-$^{\circ}$
+Fig. 10 7 Let us consider (Figure 11) a graph of temperature T as a function of the amount of heat added Q, for the case of water and soil, whose specific heats c are ) ( 18 ,4 C g J $^{\circ}$
 
-e
-)
-(
-80
-,0
-C
-g
-J
-$^{\circ}$
-,
-respectively. In the graph it can be noted that, to increase by 1 oC to
-a temperature of a quantity of water or soil equal to 1,0 g, is
-The energy required is 4,18 J or 0,80 J, respectively. Whereas
-This chart:
-(a) Determine the angular coefficient of the water- and the line
-the soil.
+e) (80,0 C g J $^{\circ}$, respectively. In the graph, it can be seen that to increase the temperature by 1 °C for a quantity of water or soil equal to 1.0 g, an energy of 4.18 J or 0.80 J is required, respectively. Considering this graph:
+(a) Determine the slope of the line corresponding to water and of the line
+Referring to the ground.
 
-1,0
-2,0
-3,0
-4,0
-The temperature
-Amount of heat (energy)
-Q(J)
-4,18
-T (oC)
-1,0
-0,8
-1,0
-2,0
-3,0
-4,0
-The temperature
-Amount of heat (energy)
-Q(J)
-4,18
-T (oC)
-1,0
-0,8
+1.0 2.0 3.0 4.0 Temperature Amount of heat (energy) Q(J) 4.18 T (°C) 1.0 0.8 1.0 2.0 3.0 4.0 Temperature Amount of heat (energy) Q(J) 4.18 T (°C) 1.0 0.8
 
-Fig.11
+Fig. 11
 
-(b) Adding the amount of heat of 1.0 J to the same
-quantity m of water and soil, what will be the temperature difference
-between the two materials?
-(c) Assuming that 1.0 mg (milligrams) of the material is
-specific equal to 0,20 J/goC, has a temperature change equal to
-2000 oC, calculate the change in the amount of heat.
+b) When we add a quantity of heat of 1.0 J to the same
+For a given mass m of water and soil, what will the temperature difference between the two materials be?
+(c) Assuming that 1.0 mg (milligram) of the "chuveirinho" material, of heat
+Specific value equal to 0.20 J/goC, undergoing a temperature change equal to 2000 °C; calculate the change in heat quantity.
 
-08. The illustration in Figure 12 shows the solar system described
-mathematics was done by Isaac Newton. He suggested a law of attraction
-The force of the bodies as a force directly proportional to the product of the
-mass and inversely proportional to the square of the distance between them.
+08. The illustration in Figure 12 shows the solar system, whose description
+Mathematics was carried out by Isaac Newton. He proposed a law of attraction between bodies, according to which the force is directly proportional to the product of the masses and inversely proportional to the square of the distance between them.
 
-Fig.12
+Fig. 12
 
-In the illustration in Figure 13, you have the Earth, mass M, attracting an object
-any m mass The mathematical expression that translates this attraction is
-given by
-2
-r
-GMm
-F =
-, where G is the so-called gravitational constant
-universal. If the object is on the surface of the Earth, and M and
-are,
-The mass and radius of the Earth, respectively, the term
-Tr
-2
-Tr
-GM is written as
-8
-g and thus the well-known expression of the force of gravity of objects on Earth
-It will be
-.
-mg
-Fp =
+In the illustration of Figure 13, the Earth, of mass M, attracts an arbitrary object of mass m. The mathematical expression that represents this attraction is F = 2 r GMm, where G is the so-called universal gravitational constant. If the object is on the Earth's surface, and M and R are respectively the mass and the radius of the Earth, the term Tr 2 Tr GM is written as 8 g, and thus the well-known expression for the weight force of objects on Earth will be Fp = mg.
 
 Fig. 13
 
-(a) Calculate the value of gravitational acceleration, g, on Earth. For that purpose
-In this and the following calculations, consider the following approximate values:
-for the mass and average radius of the Earth:
-kg
-M
-24
-10
-$6\times$
-=
- ,
-m
-r
-.
-Consider also that
-.
-T
-6
-10
-$6\times$
-=
-)
-/(
-10
-6
-2
-3
-11
-s
-kg
-m
-G
-$-$
-$\times$
-=
-(b) If an object with a weight of 10 N on Earth is brought to the Moon, Mars and
-Saturn, what weight will it carry in these stars? The approximate values of
-The mass and mass of these stars, relative to the mass and mass of the Earth,
-are shown in the table below.
+a) Calculate the value of the acceleration due to gravity, g, on Earth. For the purpose
+From this and the following calculations, consider the following approximate values for the mass and mean radius of the Earth: M = 10^24 kg $6\times$, r = m. Also consider that T = 10^6 s $6\times$. G = 10^-11 m^3 kg^-1 s^-2 $-$ $\times$.
+b) If an object whose weight on Earth is 10 N is taken to the Moon, Mars, and
+Saturn, what weight will it exhibit on these celestial bodies? The approximate values of the radius and mass of these celestial bodies, relative to Earth's mass and radius, are given in the table below.
 
-Land
-The moon
-Mars
-Saturn
-Other
-1
-0,012
-0,1
-95
-What the hell?
-1
-0,27
-0,5
-9,5
+Earth Moon Mars Saturn mass 1 0.012 0.1 95 radius 1 0.27 0.5 9.5
 
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Thermodynamics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view)
+

@@ -150,53 +150,43 @@ Ristabilire ogni volta il potenziometro alla sua posizione iniziale, ripete la m
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental test. Planck constant and behaviour of an LED**
+Experimental test. Planck's constant and the behavior of an LED
 
-**Objetivo.** Se va a construir un circuito eléctrico para alimentar LEDs de diferentes colores y obtener un valor aproximado de la constante de Planck. In addition, for one of these LEDs, the value of a constant characteristic called the ideal factor will be determined.
+**Objective.** An electrical circuit will be built to power LEDs of different colors and to obtain an approximate value of Planck's constant. Furthermore, for one of these LEDs, the value of a characteristic constant called the ideality factor will be determined.
 
-**Materials.**
-- Five LEDs, different colors.
-- Nine-volt battery .
-- Power meter and resistance protection.
-- Two polymers with probes and four clamps (crocodiles).
-- The connection rule.
-- It's a screwdriver.
+**Materials.** - Five LEDs of different colors. - A 9 V battery. - A potentiometer and a protective resistor. - Two multimeters with probes and four alligator clips. - A connection strip. - A screwdriver.
 
-**Theoretical Model.** An LED (Light-Emitting Diode) is an optoelectronic device that emits light when an electric current $I$ is circulated through it. For this current to circulate it is necessary that the potential difference between its terminals, $V$, exceeds a certain threshold value, $V_0$.
+**Theoretical model.** An LED (Light-Emitting Diode) is an optoelectronic device that emits light when an electric current $I$ flows through it. For this current to flow, the potential difference between its terminals, $V$, must be greater than a certain threshold value, $V_0$.
 
-Essentially, an LED is a semiconductor in which the electrons are at very close energy levels that form bands. The lowest energy is the valence band, which is normally full of electrons. There is another band, with higher energy and containing few electrons, called the conduction band. Both bands are separated by a prohibited band, of energy $E$.
+Essentially, an LED is a semiconductor in which electrons occupy very closely spaced energy levels that form bands. The band with the lower energy is the valence band, which is normally full of electrons. There is another band, with higher energy and containing few electrons, called the conduction band. The two bands are separated by a band gap of energy $E$.
 
-For an electron to be excited from the valence band to the conduction band it must absorb at least one energy $E = qV_0$, where $q$ is the elementary charge (absolute value of the electron charge). This energy is supplied by the battery that powers the circuit with the LED.
+For an electron to be able to become excited and move from the valence band to the conduction band, it must absorb at least an energy of $E = qV_0$, where $q$ is the elementary charge (the absolute value of the electron's charge). This energy is supplied by the battery that powers the circuit containing the LED.
 
-When the electron is desiccated and returned to the valence band, a photon of energy $E = h\nu$ is emitted, where $h$ is the Planck constant and $\nu$ the frequency of the emitted radiation. Therefore, with this simplified model, it would be expected that equality $qV_0 = h\nu$ would be met. In practice, this linear relationship is found between $V_0$ and $\nu$, but with an independent term, $C$, approximately constant, which cannot be justified by this model, i.e.
+When the electron de-excites and returns to the valence band, a photon of energy $E = h\nu$ is emitted, where $h$ is Planck's constant and $\nu$ is the frequency of the emitted radiation. Therefore, with this simplified model, one would expect the equality $qV_0 = h\nu$ to hold. In practice, this linear relationship between $V_0$ and $\nu$ is found, but with an independent term, $C$, that is approximately constant and cannot be justified by this model; that is
 
 $$V_0 \approx \frac{h}{q}\nu + C \quad (1)$$
 
-Moreover, for $V$ greater than $V_0$, the current $I$ increases approximately exponentially, in the form of
+On the other hand, for $V$ greater than $V_0$, the current $I$ increases in an approximately exponential manner, in the form
 
 $$I \approx I_s \, e^{\frac{qV}{\eta kT}} \quad (2)$$
 
-where $I_s$ is the so-called saturation current, $k$ the Boltzmann constant, $T$ the absolute temperature and $\eta$ is known as the LED's ideal factor.
+where $I_s$ is the so-called saturation current, $k$ is Boltzmann's constant, $T$ is the absolute temperature, and $\eta$ is known as the LED ideality factor.
 
-**Data:**
-- Room temperature: $T = (295 \pm 3)\,\text{K}$
-- Basic load: $q = 1{,}60 \times 10^{-19}\,\text{C}$
-- Light speed in vacuum: $c = 3{,}00 \times 10^{8}\,\text{m/s}$
-- Boltzmann constant: $k = 1{,}38 \times 10^{-23}\,\text{J/K}$
+**Data:** - Ambient temperature: $T = (295 \pm 3)\,\text{K}$ - Elementary charge: $q = 1{,}60 \times 10^{-19}\,\text{C}$ - Speed of light in a vacuum: $c = 3{,}00 \times 10^{8}\,\text{m/s}$ - Boltzmann constant: $k = 1{,}38 \times 10^{-23}\,\text{J/K}$
 
-**1ª parte. Determinación de $h$.**
+**1st Part. Determination of $h$.**
 
-**1.a)** Conecte en la regleta el LED infrarrojo (cápsula oscura). Connect the battery and increase the power voltage of the LED, rotating the potentiometer clockwise until a current of $0{,}010\,\text{mA}$ circulates. Suppose, under these circumstances, the voltage indicated by the voltmeter is approximately the threshold voltage for this diode, $V_0$. Write down your courage.
+**1.a)** Connect the infrared LED (dark capsule) to the terminal strip. Connect the battery and increase the LED's supply voltage by turning the potentiometer clockwise until a current of $0{,}010\,\text{mA}$ flows. We will assume that, under these conditions, the voltage indicated by the voltmeter is approximately the threshold voltage for this diode, $V_0$. Record its value.
 
-Re-establishing the potentiometer at its initial position each time, repeat the $V_0$ measurement for the other four LEDs: red, yellow, blue and violet. Transfer your measurements to Table 1, which shows the emission wavelength of each LED. To calculate the frequency $\nu$, remember $\nu = c/\lambda$, where $c$ is the speed of light in vacuum and $\lambda$ the wavelength.
+Each time, reset the potentiometer to its initial position and repeat the measurement of $V_0$ for the other four LEDs: red, yellow, blue, and violet. Transfer your measurements to Table 1, which indicates the emission wavelength of each LED. To calculate the frequency $\nu$, remember that $\nu = c/\lambda$, where $c$ is the speed of light in a vacuum and $\lambda$ is the wavelength.
 
 | LED | $\lambda$ (nm) | $\nu$ (Hz) | $V_0$ (V) |
 |-----------|---------------|------------|----------|
-♪ Infrared 938 ♪
-♪ Red ♪ 632 ♪
-♪ Yellow ♪ 593 ♪
-♪ Blue ♪ 464 ♪ ♪ and the world is full of you ♪
-♪ Purple ♪ 405 ♪ ♪ and the whole world ♪
+| Infrared | 938 | | |
+| Red | 632 | | |
+| Yellow | 593 | | |
+| Blue | 464 | | |
+| Violet | 405 | | |
 
 <!--fig:start-->
 ![[_attachments/P-EXPERIMENTAL-OEF-2012/P-EXPERIMENTAL-OEF-2012_p1_f1.png]]
@@ -212,8 +202,6 @@ Re-establishing the potentiometer at its initial position each time, repeat the 
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Photon (object)|Photon]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1RRCLWFu6H3pcgcKqHwFIVZsww5tathI5/view)
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2012 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 

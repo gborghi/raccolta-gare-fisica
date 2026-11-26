@@ -793,11 +793,11 @@ La posizione di un mobile è stata registrata in funzione del tempo e i risultat
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following text is used for the resolution of questions 12 to 17.
+Consider the text below when answering questions 12 to 17.
 
-The position of a mobile has been recorded in terms of time and the results are shown in the table below:
+The position of a moving object was recorded as a function of time, and the results are shown in the table below:
 
-♪ Time and place ♪
+| Time (s) | Position (cm) |
 |-----------|-------------|
 | 0 | 10 |
 | 1 | 11 |
@@ -811,7 +811,7 @@ The position of a mobile has been recorded in terms of time and the results are 
 | 9 | 91 |
 | 10 | 110 |
 
-**12)** Determine the average speed of the mobile in the time interval from 0 to 10 s.
+**12)** Determine the average speed of the moving object over the time interval from 0 to 10 s.
 
 - **A.** 1 m/s
 - **B.** 1 cm/s
@@ -821,7 +821,7 @@ The position of a mobile has been recorded in terms of time and the results are 
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F1_9&1o_v1/OBF2010_F1_9&1o_v1_p4_f4.png]]
-Table: position vs time for uniformly accelerated body
+*Table: position vs. time for a uniformly accelerated body*
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -829,8 +829,6 @@ Table: position vs time for uniformly accelerated body
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/18tdU4_pcd0myD4n5UEmh6C7Bw3QZFn8D/view)
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2010 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 

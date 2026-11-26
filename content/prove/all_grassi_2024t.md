@@ -585,11 +585,11 @@ Unità di misura: adimensionale. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Righello**
+Ruler
 
-In its reference of stillness, a length $L=1.0\,\text{m}$ is tilted at an angle of $30^\circ$ to the $x$ axis. In the reference system of an observer moving at $v$ speed along the $x$ axis, the tilting of the ruler is $45^\circ$ with respect to the $x$ axis. Quanto vale $v/c$?
+In its rest frame, a ruler of length $L=1.0\,\text{m}$ is inclined at an angle of $30^\circ$ relative to the $x$ axis. In the reference frame of an observer moving with velocity $v$ along the $x$ axis, the ruler is inclined by $45^\circ$ relative to the $x$ axis. What is the value of $v/c$?
 
-Unit of measurement: dimension. Precision required: 0.5%.
+Unit of measurement: dimensionless. Required precision: 0.5%.
 
 **Topic:** [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]]
@@ -597,8 +597,6 @@ Unit of measurement: dimension. Precision required: 0.5%.
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1YFo3zjTcG_1JPmPho0fhzZwb0ygHOUPe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1wW5LP6EjZzJ-dXfud4IbaXet5GR-fGyR/view)
-
-
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="GaS 2024 Allenamento Online — Problema 16" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
 
@@ -634,11 +632,11 @@ Unità di misura: $\text{m/s}^2$. Precisione richiesta: 1.0%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Misure di caduta**
+**Fall measurements**
 
-Pierino si trova su un pianeta alieno, di cui vuole misurare l'accelerazione di gravità $g$. To do so, he throws small stones with a spindle, from a height of nothing compared to the ground. He always stretches the elastic in the same way, so that the stones always have an initial speed of $30\,\text{m/s}$, and repeats the experiment by changing the angle of launch $\theta$ from time to time relative to the horizontal. Using a timekeeper, Pierino measures the time it takes for each rock to reach the ground, returning the data to the table. Quanto vale $g$ sul pianeta alieno?
+Pierino is on an alien planet, and he wants to measure its gravitational acceleration $g$. To do this, he launches small stones with a sling from a height of zero relative to the ground. He always stretches the elastic band in the same way, so that the stones always have an initial velocity of $30\,\text{m/s}$, and he repeats the experiment, changing the launch angle $\theta$ relative to the horizontal each time. Using a stopwatch, Pierino measures the time each stone takes to reach the ground and records the data in a table. What is the value of $g$ on the alien planet?
 
-| $\theta$ [°] | Tempo [s] |
+| $\theta$ [°] | Time [s] |
 |---|---|
 | 10.0 | 0.683 |
 | 20.0 | 1.36 |
@@ -650,7 +648,7 @@ Pierino si trova su un pianeta alieno, di cui vuole misurare l'accelerazione di 
 | 80.0 | 3.92 |
 | 90.0 | 3.68 |
 
-The unit of measurement: $\text{m/s}^2$. Accuracy required: 1.0%.
+Unit of measurement: $\text{m/s}^2$. Required precision: 1.0%.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -658,3 +656,4 @@ The unit of measurement: $\text{m/s}^2$. Accuracy required: 1.0%.
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1YFo3zjTcG_1JPmPho0fhzZwb0ygHOUPe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1wW5LP6EjZzJ-dXfud4IbaXet5GR-fGyR/view)
+

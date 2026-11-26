@@ -255,11 +255,11 @@ Unità di misura: K. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Temperatura di un pianeta**
+Temperature of a planet
 
-A spherical planet, with a radius of $8.5\times10^3\,\text{km}$, is composed of a particular radioactive material that, decaying very slowly, releases energy in the form of heat. Because of this, a net flow of heat is generated from the inner (warmer) to the outer (cooler) layers of the planet. Heat that reaches the surface is scattered through space by black body radiation. The composition and density of the planet are uniform in space, and its thermal conductivity is $550\,\text{W m}^{-1}\text{K}^{-1}$. An astrophysicist, after measuring the planet's surface temperature $T_S$, calculated that the temperature at the center of the planet must be $1.0\times10^6\,\text{K}$. Supponendo che il pianeta sia all'equilibrio termodinamico, quanto vale $T_S$? The surface warming caused by the light of the parent star is neglected.
+A spherical planet with radius $8.5\times10^3\,\text{km}$ is composed of a particular radioactive material that, decaying very slowly, releases energy in the form of heat. As a result, a net heat flow is generated from the planet's inner (hotter) layers to its outer (colder) layers. The heat that reaches the surface is dissipated into space by blackbody radiation. The planet's composition and density are uniform throughout its volume, and its thermal conductivity is $550\,\text{W m}^{-1}\text{K}^{-1}$. After measuring the planet's surface temperature $T_S$, an astrophysicist calculated that the temperature at the planet's center must be $1.0\times10^6\,\text{K}$. Assuming that the planet is in thermodynamic equilibrium, what is the value of $T_S$? Neglect the heating of the surface caused by the light from the parent star.
 
-The unit of measurement: K. Precision required: 0.5%.
+Unit of measurement: K. Required precision: 0.5%.
 
 **Topic:** [[Thermodynamics]], [[Astrophysics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -267,8 +267,6 @@ The unit of measurement: K. Precision required: 0.5%.
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1V_ReSFKhkOcNcPbkq7w0TGBxyhkcEzR9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="GaS 2024 Qualifica Online — Problema 7" data-tags="nazione/italia,tipo-gara/squadre,livello/qualifica,difficolta/2,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/fluid-mechanics,argomento/meccanica"></span>
 
@@ -398,11 +396,11 @@ Unità di misura: kg. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Water cylinder**
+Cylinder in Water
 
-A homogeneous cylinder, the height of which is much greater than the diameter, has a volume $10\,\text{m}^3$ and a density $640\,\text{kg/m}^3$. One of the cylinder bases is covered with a metallic layer of $M$ mass and negligible thickness. The cylinder is immersed in water to the point of floating, with the axis perfectly vertical and the base covered with metal at the bottom. It is noted that if $M$ is greater than a certain amount $M_0$, the cylinder remains in the position in which it is left. However, if $M<M_0$, the cylinder changes position immediately after release. Quanto vale $M_0$?
+A homogeneous cylinder, whose height is much greater than its diameter, has volume $10\,\text{m}^3$ and density $640\,\text{kg/m}^3$. One of the bases of the cylinder is covered with a metallic layer of mass $M$ and negligible thickness. The cylinder is immersed in water up to the point of flotation, with its axis perfectly vertical and the base covered with metal at the bottom. It is observed that if $M$ is greater than a certain quantity $M_0$, the cylinder remains in the position in which it is left. On the other hand, if $M<M_0$, the cylinder changes position immediately after being released. What is the value of $M_0$?
 
-Unit of measurement: kg. Precision required: 0.5%.
+Unit of measurement: kg. Required accuracy: 0.5%.
 
 **Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -410,8 +408,6 @@ Unit of measurement: kg. Precision required: 0.5%.
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1V_ReSFKhkOcNcPbkq7w0TGBxyhkcEzR9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="GaS 2024 Qualifica Online — Problema 11" data-tags="nazione/italia,tipo-gara/squadre,livello/qualifica,difficolta/2,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/gas"></span>
 

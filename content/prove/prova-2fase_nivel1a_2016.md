@@ -357,19 +357,13 @@ Determina, in termini di velocità $v$ del primo veicolo e di tempo $t$, la lung
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - Two vehicles are moving in opposite directions with uniform movements.
-The first at $v$ and the second at $3v/2$. A passenger in the
-the first vehicle verifies that the second vehicle takes $t$ seconds to pass through it.
-Determine, in terms of the speed $v$ of the first vehicle and the time $t$, the length
-The second vehicle.
+Question 5 - Two vehicles are traveling in opposite directions with uniform motion. The first is moving at a speed of $v$, and the second at a speed of $3v/2$. A passenger in the first vehicle observes that the second vehicle takes $t$ seconds to pass by him. Determine, in terms of the speed $v$ of the first vehicle and the time $t$, the length of the second vehicle.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 · Fase 2 · Livello 1 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/cylinder,object/piston,object/gas"></span>
 

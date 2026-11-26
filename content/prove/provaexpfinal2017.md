@@ -152,14 +152,14 @@ Spiegate come determinare il valore della resistenza sconosciuta e determinate i
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Question 3** (10 points): Fill in the table below with the resistor values used in Figure 8 ((a) with their measurement error values.
+**Question 3** (10 points): Fill in the table below with the values of the resistors used in Figure 8(a), along with the corresponding measurement errors.
 
-*Tabela I — Resultados experimentais da Figura 8(a):*
+*Table I — Experimental Results from Figure 8(a):*
 
-| Grandeza | $R_x$ | $R_2$ (década) | $R_3$ | $R_4$ | $V_g$ | Temperatura |
+| Quantity | $R_x$ | $R_2$ (decade) | $R_3$ | $R_4$ | $V_g$ | Temperature |
 |----------|-------|----------------|-------|-------|-------|-------------|
-I'm not going to say that.
-I was wrong.
+| Value    |       |                |       |       |       |             |
+| Error    |       |                |       |       |       |             |
 
 Explain how to determine the value of the unknown resistor and determine its value $R_x$.
 
@@ -168,8 +168,6 @@ Explain how to determine the value of the unknown resistor and determine its val
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1TAEZb-r-uUMbGyvaUlhtePIzlCRge37k/view)
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,object/resistor"></span>
 
@@ -443,18 +441,19 @@ Qual è stata la funzione del potenziometro Pot1? E il Pot 2? giustifica la tua 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8  Challenge  (15 points):
+**Question 8 — Challenge** (15 points):
 
-After adjusting the Pot1 and Pot2 potentiometers, remove them from the circuit very carefully (avoid moving the axle) and measure the respective values used by filling in the following table:
+After adjusting potentiometers Pot1 and Pot2, please remove them from the circuit very carefully (avoid touching the shaft) and measure their respective values used, filling in the table below:
 
-♪ Potmeter Pot 1 ♪ Pot 2 ♪
+| | Potentiometer Pot1 | Potentiometer Pot2 |
 |---|---|---|
-♪ The value measured ♪
+| Measured value | | |
 
-What was the function of the Pot 1 potentiometer? What about Pot 2? Justify your answer.
+What was the function of potentiometer Pot1? And that of Pot2? Justify your answer.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1TAEZb-r-uUMbGyvaUlhtePIzlCRge37k/view)
+

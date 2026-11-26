@@ -5948,42 +5948,31 @@ Acqua: 1,33
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Laser in fish tank with flat mirrors**
+**Laser in an aquarium with plane mirrors**
 
-42. City of Buenos Aires. Green, please. 
+42. City of Buenos Aires. Green.
  
-A child is playing with a laser pointer in a fish tank (Figure 1) with flat mirrors. The child holds .
-The pointer is 60 cm. Height and 20 cm. from the fishery. The fish tank is 60 cm long. of a height of 40 cm. de 
-40 cm wide. Long pointing at an angle of 66° 
+A child is playing with a laser pointer in an aquarium (Figure 1) equipped with plane mirrors. The child holds the pointer at a height of 60 cm and 20 cm from the aquarium. The aquarium is 60 cm high, 40 cm wide, and 40 cm long, pointing at an angle of 66°
 a) 
-Draw the speed of lightning by indicating the different angles 
+Draw the path of the lightning bolt, indicating the different angles.
 b) 
-How far does the laser travel to leave the fish?
+How far does the laser travel before it exits the fish tank?
 c) 
-If the top mirror wasn't there, which angle should have the maximum beam?
-Light so as not to go out over the top of the fish tank 
+If the upper mirror were not present, what would be the maximum angle that the light beam must have in order not to exit through the top of the fish tank?
 d) 
-If the water surface is pointed, calculate the angle that allows total reflection. 
-The data: 
-The refractive index: 
-Glass: 1.52
+If aiming at the water surface, calculate the angle that allows total internal reflection. Data: Refractive index: Glass: 1.52
  
  
  
  
  
-Figure 1 
-Water: 1.33
-
-
+Figure 1 Water: 1.33
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q43" data-atom="q43" data-title="Argentina 2006 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/spring,object/rope-string"></span>
 
@@ -10224,22 +10213,17 @@ diversi dall'orbita.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The speed of the moon's orbit
+Orbital speed of the Moon
 
-69. I'm from Navarro, Buenos Aires. Blue, please. 
+69. Navarro, Buenos Aires. Azul.
  
-The moon moves in an almost circular orbit around the Earth, and the average radius R of the moon is about 0.
-orbit is 3,84,108 m. If it takes 27.3 days to complete a revolution, determine its speed.
-orbital at meters per second. Graph the situation by placing the velocity vector at 3 points 
-different from orbit.
+The Moon moves in an almost circular orbit around the Earth, and the average radius R of the orbit is 3.84 × 10^8 m. If it takes 27.3 days to complete one revolution, determine its orbital speed in meters per second. Graph the situation by placing the velocity vector at 3 different points on the orbit.
 
 **Topic:** [[Gravitation]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q70" data-atom="q70" data-title="Argentina 2006 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/spring,object/inclined-plane"></span>
 
@@ -12267,45 +12251,24 @@ j) T tempo che il corrente ha circolato per produrre l'espansione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Piston cylinder, two gas chambers**
+Cylinder with piston, two gas chambers
 
-87. San Miguel, Tucumán. Blue, please. 
+87. San Miguel, Tucumán. Blue.
  
-An airtight cylindrical container, it's built with a certain material that gives it
-Adiabatic properties, as well as mechanical resistance to deformation
-The geometrical pressure action and within a thermal range in which it works are scorned.
-intentionally dilating. 
-Its internal diameter φ = 0,4 m and its internal length L = 1,2 m. 
-Inside it is a piston of the same material, which can move without a scratch.
-with a thickness of e = 0,1 m dividing the container into two chambers A and B. 
-The Va and Vb valves charge 4 moles of gA gas and 12 moles of gB in their valves.
-The first is the vacuum chamber, the thermometer, the vacuum chamber, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the thermometer, the
-The load is recorded as tiA = 20 °C and ti B = 40 °C. 
-Under these conditions the plane of symmetry of the piston is in the Zi position. 
-Then in chamber A a current i = 1A is circulated for a time 
-t, by the electrical resistance R = 20 Ω , heating the gas gA, marking the thermometer tfA = 30 
-The piston is thus displaced, and its plane of symmetry is the same as that of the piston.
-position Zf . 
-Given that the gases in both chambers are ideal, it is requested: 
-(a) Graphically represent the container with its compartments and indicate the
-data given. 
-(b) Mass of gas B if its M = 44 g/mol. 
-(c) Volume and initial pressure of gA 
-(d) Measure of Zi. 
-(e) Final volume of gA. 
-(f) Final pressure of gB 
-(g) Measure of Zf. 
-(h) The force acting on the face of the A-side of the piston when it is in Zf. 
-(i) Expansion work produced by electric current. 
-(j) Time t which the current circulated to produce the expansion.
+A sealed cylindrical vessel is constructed from a certain material that imparts adiabatic properties to it, as well as mechanical strength that prevents geometric deformation under the action of pressures; within the temperature range in which it operates, its expansions are intentionally neglected. Its internal diameter is φ = 0.4 m, and its internal length is L = 1.2 m. Inside it there is a piston made of the same material, which can move without friction and has a thickness e = 0.1 m; the piston divides the vessel into two chambers, A and B. Through valves Va and Vb, 4 moles of gas gA and 12 moles of gas gB are introduced into their respective chambers, which had previously been evacuated; after charging, the thermometers record tiA = 20 °C and tiB = 40 °C. Under these conditions, the symmetry plane of the piston is at position Zi. Next, in chamber A, an electric current i = 1 A is passed for a time t through the electrical resistance R = 20 Ω, heating gas gA; the thermometer reads tfA = 30 °C. This causes the piston to move, and its symmetry plane assumes position Zf. It is required, assuming that the gases in both chambers are ideal:
+a) Graphically represent the container with its compartments and indicate the
+Given data.
+b) Mass of gas B if its M = 44 g/mol.
+c) Initial volume and pressure of gA
+d) Zi measurement.
+e) Final volume of gA.
+f) Final pressure of gB g) Measurement of Zf. h) Force acting on the A-side face of the piston when it is at Zf. i) Expansion work produced by the electric current. j) Time t during which the current flowed to produce the expansion.
 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q88" data-atom="q88" data-title="Argentina 2006 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -13240,30 +13203,21 @@ Calore latente di fusione del ghiaccio: 80 cal/g
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Frizzled water**
+Distilled water in the freezer
 
-98. Cordoba. Blue, please. 
+98. Córdoba. Azul.
  
-A person places 1 litre of distilled water at 20 oC in a metal container to the same 
-temperature which is then introduced into a freezer of a freezer at 0 oC. In these
-In the first few days, the water starts to release 50 cal/second and its temperature starts to drop.
-uniform, in all points of its mass. Suppose the person takes the container out of the
-Freezer after 6 minutes and 40 seconds. 
-What will the person find in the container: just ice, just water or a mixture of
-Both of them? What temperature? 
-Data: water: 1 cal/goC 
+A person places 1 liter of distilled water at 20 º°C in a metal container at the same temperature; the container is then immediately placed in a refrigerator freezer at 0 º°C. Under these conditions, the water begins to release 50 cal/s, and its temperature begins to drop uniformly at all points throughout its mass. Suppose the person removes the container from the freezer after 6 minutes and 40 seconds. What will the person find in the container: only ice, only water, or a mixture of both? At what temperature? Data: specific heat capacity of water: 1 cal/g·°C
  
-Ice: 0.55 cal/goC 
+This ice: 0.55 cal/g·°C
  
-Latent heat of ice melting: 80 cal/g
+Latent heat of fusion of ice: 80 cal/g
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 2006 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
 
@@ -13689,44 +13643,32 @@ Nota: Considera che non c'è scambi di calore con l'ambiente
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Aluminum alloys, heat and dilation**
+Aluminum rivets, heat and expansion
 
-103. City of Buenos Aires. Blue, please. 
+103. City of Buenos Aires. Azul.
  
-Playing with remakes. 
-To hold two overlapping plates together, 6 mm aluminium strands are used.
-of a diameter of 2 g and a mass of 2 g. 
-The plates have holes of 6,05 mm through which the removables are moved at 20 oC. Se 
-heat the remache to 500 oC and then place it in a lossless heat meter with 10 g of 
-water at 20 oC. 
+Playing with rivets. To join two overlapping metal plates together, aluminum rivets 6 mm in diameter and 2 g in mass are used. The plates have 6.05-mm holes through which the rivets are moved to 20 º°C. The rivet is heated to 500 º°C and then placed in a lossless calorimeter containing 10 g of water at 20 º°C.
  
-(a) What is the value of the final (balance) temperature between the remache and the water? 
+a) What is the value of the final (equilibrium) temperature between the rivet and the water?
  
-(b) Knowing that aluminium dilates equally in all directions, could you 
-to insert the remache at 500 °C into the sheet hole at 20 °C? Justify it. 
+b) Knowing that aluminum expands equally in all directions, could it
+Insert the rivet into 500ºC in the hole of the sheet at 20 ºC? Justify.
  
-(c) What minimum amount of welding at 500 oC would be required to melt 
-10 g of ice at 0 oC? 
+c) What minimum number of rivets at 500 ºC would be needed to melt
+Totally 10 g of ice at 0 º°C?
  
-(d) Assuming that, to ensure a firm fit, the holes in the sheet were of 
-5,985 mm in diameter; what temperature should the remaches be cooled to 
-I can get them into the holes? 
+d) Assuming that, to ensure a firm fit, the holes in the sheet metal were of
+5,985 mm in diameter; at what temperature would the rivets need to be cooled in order to be able to insert them into the holes?
  
-The data: 
-The specific heat of aluminium = 0,22 cal / g oC 
-The specific heat of the water = 1 cal/g °C 
-Heat of melting ice = 80 cal / g 
-The value of the product is not less than 0,5% of the ex-works price of the product.
+Data: Specific heat of aluminum = 0.22 cal/g·°C; specific heat of water = 1 cal/g·°C; heat of fusion of ice = 80 cal/g; λ aluminum = 2.4 × 10⁻⁵ 1/°C
  
-Note: Consider that there is no heat exchange with the environment
+Note: Assume that there is no heat exchange with the surroundings.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 2006 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/block,object/inclined-plane"></span>
 
@@ -13948,45 +13890,33 @@ Considera: g = 10 m/s2 e disprezza il ruggine dell'aria.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Toolbox slides from the ceiling**
+Tool box slides from the ceiling
 
-105. City of Buenos Aires. Blue, please. 
+105. City of Buenos Aires. Azul.
  
-Fixing the ceiling. 
-One day, after a hailstorm, when the leaks were being repaired,
-They had been produced on the roof of the house, the toolbox of one of the workers was 
-slides through it (μ = 0,2). 
+Fixing the roof. One day, after a hailstorm, while the leaks that had developed in the house roof were being repaired, one of the workers' toolboxes slid down the roof (µ = 0.2).
  
-The three-kilogram mass box reaches the edge of the roof .
-Toolbox at a speed of 3 m / s . 
+The box with a mass of 3 kg reaches the edge of the roof, a toolbox, at a speed of 3 m/s.
                                             
-a) How far did you go to the edge?
-α = 30 ° of the ceiling? 
+a) What distance did it travel to reach the edge α = 30 ° of the ceiling?
        
-(h) How long do I take the box to travel through the
-The roof of the house? 
+h b) How long does it take the box to travel across the roof of the house?
  
-The distance between the bottom end of the roof of 
-The house and the floor are 8 meters. 
+The distance between the lower edge of the house roof and the ground is 8 m.
  
-(c) What is the height from the upper end?
-of the roof and floor (h) ? 
+c) What is the height from the top edge of the ceiling to the floor (h)?
  
-The house is surrounded by a flower garden, the width of which is 2 m. 
+The house is surrounded by a flower garden; the width of this garden is 2 m.
  
-d) Will the box fall on the flowers? 
+d) Will the box fall onto the flowers?
  
-Consider: g = 10 m/s2 and disregard air friction.
-
-
+Consider: g = 10 m/s² and neglect air friction.
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q106" data-atom="q106" data-title="Argentina 2006 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -14175,27 +14105,21 @@ pressione atmosferica del luogo pari a 1 atmosfera
 
 <div class="qlang-split" data-lang="en"></div>
 
-**U tube with mercury, water and liquid**
+U-tube with mercury, water, and liquid
 
-107. The first is the Spanish. Blue, please. 
+107. Santiago del Estero. Blue.
  
-A tube in U contains the same level of mercury in both branches. Add water to one of them.
-And in the other one a liquid of unknown density, until it matches the heights of mercury in both.
-branches. The ratio of the heights of the fluid of unknown density to the water is 1.5 
+A U-tube contains mercury at the same level in both arms. Water is added to one arm, and a liquid of unknown density is added to the other, until the mercury levels in both arms are equal. The ratio of the heights of the liquid of unknown density to the height of the water is 1.5.
  
-(a) What is the density of the unknown liquid? 
-(b) What is the absolute pressure at the separation line of liquids? Consider the 
-atmospheric pressure of the place equal to 1 atmosphere
-
-
+a) What is the density of the unknown liquid?
+b) What is the absolute pressure at the interface between the liquids? Consider the
+The atmospheric pressure at the location is equal to 1 atmosphere.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Manometer (object)|Manometer]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q108" data-atom="q108" data-title="Argentina 2006 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
 
@@ -14248,27 +14172,23 @@ oscillazione? E con l'ampiezza?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+Vertical spring, vibration frequency
 
-108. The first is the Spanish. Blue, please. 
+108. Santiago del Estero. Blue.
  
-A vertical spring stretches 20 cm when a 0.50 kg object is hung from it. 
+A vertical spring stretches 20 cm when an object weighing 0.50 kg is hung from it.
  
-(a) Calculate the spring constant 
-(b) Find the frequency of vibration of the object, considering the mass of the object to be negligible.
-spring when it moves away from the equilibrium position 
-(c) If the previous object is replaced by another 1 kg. occurring at the frequency of 
-swinging? And the width?
-
-
+a) Calculate the spring constant
+b) Find the vibration frequency of the object, assuming the mass of the is negligible
+spring force when the spring moves away from the equilibrium position
+c) If the previous object is replaced with another one weighing 1 kg, what happens to the frequency of
+Oscillation? And with the amplitude?
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q109" data-atom="q109" data-title="Argentina 2006 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
 
@@ -14380,26 +14300,19 @@ Chi fornisce quell'energia
 
 <div class="qlang-split" data-lang="en"></div>
 
-Substance evaporating and inflating stock
+Substance that evaporates and inflates a bag
 
-110. San Miguel, Tucumán. Green, please. 
+110. San Miguel, Tucumán. Green.
  
-The bag 's inflated into water that 's at 20 degrees . It has a volume of 0.5 m3 and an inflated density 
-is 0.2 g/cm3. It was initially deflated and had a substance that evaporated by inflating the
-- The bag. This substance was initially at -15 oC 
-The following is the list of the products used:
-The following conditions are met:
+The bag inflated in water at 20 º°C. It has a volume of 0.5 m³, and its inflated density is 0.2 g/cm³. Initially it was deflated and contained a substance that evaporated, causing the bag to inflate. This substance was initially at -15 º°C; melting point –10 º°C; vaporization temperature 5 º°C; LF = 40 Cal/g; LV = 50 Cal/g; Cliq = 0.5 Cal/g °C; Csol = 0.4 Cal/g °C; Cvap = 0.4 Cal/g °C
  
-Calculate how much energy was delivered to the substance so that the bag will reach that volume.
-Who delivers that energy
+Calculate how much energy was delivered to the substance so that the bag would reach that volume. Who delivers that energy?
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q111" data-atom="q111" data-title="Argentina 2006 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/bubble"></span>
 
@@ -14444,23 +14357,17 @@ tutti i lavori presenti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The amount of the collateral received shall be the sum of the collateral received.
+Starting depth of the inflated bag
 
-111. San Miguel, Tucumán. Green, please. 
+111. San Miguel, Tucumán. Green.
  
-Since depth broke the inflated bag to reach the surface the component
-Vertical of the speed given in problem 1. Consider the viscous force of water as
-constant and equal to 0.20 of the weight. 
-Calculate the energy from where it starts and on the surface. Calculate energy variations. Calculate 
-All the jobs present.
+From what depth did the inflated bag start, so that at the surface it attained the vertical component of velocity given in Problem 1? Consider the viscous force of the water to be constant and equal to 0.20 times the weight. Calculate the energy at the starting point and at the surface. Calculate the changes in energy. Calculate all the works present.
 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q112" data-atom="q112" data-title="Argentina 2006 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block"></span>
 
@@ -14699,67 +14606,32 @@ Calcolare il minimo spessore di questo isolamento per evitare di ridurre l'effic
 
 <div class="qlang-split" data-lang="en"></div>
 
-The energy content of the energy content of the product shall be determined by the following:
+Flat-plate solar collector, energy balance
 
-113. Jump in. Blue, please. 
+113. Jump. Blue.
  
-Consider a plane solar power collector operating under state conditions.
-The stationary. This consists of a frame on which it is mounted in the part 
-Above, a glass cover, below is an absorbent plate that will allow the
-The heat transfer absorbed into a piping system that carries the fluid to heat, being in
-the bottom of the part is insulated to prevent heat transfer to the outside. 
-If the radiation affecting the collector area per unit area is I (w/m2). The deck .
-glass is completely transparent to this radiation, and the fraction of this radiation that is
-absorbed by the blackened absorbent plate is designated by α (absorbtivity). 
-The useful energy is obtained from the collector by passing the working fluid through a pipe 
-copper that is welded to the absorbent plate. The pipe is arranged in the shape of a serpentine .
-where a flow ∆m/∆t of water and specific heat Cp flows, it is heated from a 
-The input temperature Ti to an output temperature To. We shall consider that the fund of the
+Let us consider a flat solar energy collector operating under steady-state conditions. It consists of a frame on which a glass cover is mounted at the top; below that is an absorber plate that will allow the transferred heat absorbed to be transferred to a tube system carrying the fluid to be heated, with an insulator at the bottom to prevent heat transfer to the outside. If the radiation incident per unit surface area on the collector area is I (W/m²). The glass cover is completely transparent to this radiation, and the fraction of this radiation absorbed by the blackened absorber plate is denoted by α (absorptivity). Useful energy is obtained from the collector as the working fluid passes through a copper pipe that is welded to the absorber plate. The pipe is arranged in a serpentine configuration, through which a flow rate of ∆m/∆t of water with specific heat Cp flows; the water is heated from an inlet temperature Ti to an outlet temperature To. We will assume that the bottom of the
 
  
-The collector is completely insulated (no loss) and heat is transferred to the serpentine as well.
-The heat loss of the absorbent plate is only due to convection and radiation between the plate.
-and the cover, being εp the absorbent plate emission, and has the convective coefficient 
-The roof also loses heat outwards by convection and a
-radiative transfer between the roof and the sky being the outer convective coefficient, εc 
-The emission of the deck and Tsky the temperature of the sky. 
+The collector is completely insulated (there is no loss), and heat is transferred to the coil; moreover, the heat loss from the absorber plate occurs only by convection and radiation between the plate and the cover, where εp is the emissivity of the absorber plate and ha is the internal convective coefficient. The cover also loses heat to the outside by convection, and radiative transfer occurs between the cover and the sky, where he is the external convective coefficient, εc is the emissivity of the cover, and Tsky is the sky temperature.
  
-a-Write an equation for the useful power qu(w) that receives the workflow in terms of 
-∆m/∆t, Cp , Ti y To 
+a-Write an equation for the useful power qu(w) received by the working fluid in terms of ∆m/∆t, Cp, Ti, and To
  
-b-Research the energy balance on the roof. 
+b-Perform the energy balance on the roof.
  
-c-to achieve an energy balance on the absorbent plate, to obtain an expression from it 
-The total amount of the absorbent plate losses is approximately
-the temperature of the plate and the environment. 
+c- Perform an energy balance on the absorber plate, and derive from it an expression for qu in terms of the received power, the losses of the absorber plate, and the temperatures of the plate and the surroundings.
  
-e-The efficiency of the plate is η defined as the ratio between the useful power collected and the 
-solar power incident on the collector. Get an expression for η, discuss the result 
-obtained. 
+e- The efficiency of the panel is η, defined as the ratio of the useful collected power to the solar energy incident on the collector. Derive an expression for η and discuss the result obtained.
  
-If the heat-bearing fluid is water (Cp=4,19KJ/kgoC) ∆m/∆t =0,01 kg/sec and there is a loss 
-5w/m2oC global, and in addition: 
-Tp=45ºC 
-Ta=10 ºC 
-I= 700 w/m2 
-α=0,68 
-A=3 m2 
-Calculate the efficiency. 
-g-For the above conditions calculate the heat leap of the heat-bearing fluid 
-I'm not going to get it. 
+f- If the heat-transfer fluid is water (Cp=4.19 kJ/kg·°C), ∆m/∆t=0.01 kg/s, and there is an overall loss of 5 W/m2ºC, with also: Tp=45ºC, Ta=10 ºC, I=700 W/m2, α=0.68, A=3 m2, calculate the efficiency. g- For the conditions given above, calculate the temperature rise achieved by the heat-transfer fluid.
  
-If we take a more real model, we can't discount the losses from the collector's fund,
-If we assume that there is an insulation made of expanded polystyrene (k=0,036 w/m.oC), 
-calculate the minimum thickness of this insulation so that the efficiency does not drop from 
-10% of the above calculation.
+h-Si we take a more realistic model, we could not neglect the losses at the bottom of the collector; assuming there is insulation made of expanded polystyrene (k=0.036 W/m·°C), calculate what the minimum thickness of this insulation should be so that the efficiency does not fall below 10% of what was calculated earlier.
 
 **Topic:** [[Thermodynamics]], [[Earth & Environmental Science]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q114" data-atom="q114" data-title="Argentina 2006 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/mono,object/lens,object/mirror"></span>
 
@@ -14900,71 +14772,36 @@ g- Determinare quale altezza deve avere l'area per depositare l'immagine in
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Object, lens and flat mirror at 45 degrees**
+Object, lens, and plane mirror at 45 degrees
 
-114. Jump in. Blue, please. 
+114. Jump. Blue.
  
-An AB object is located at a distance of a=36 cm from a lens with a focal length of f=30 cm. 
-At a distance of L=1m, behind the lens is a flat mirror, tilted 45° with
-the optical axis. 
+An object AB is located at a distance a = 36 cm from a lens with focal length f = 30 cm. At a distance L = 1 m behind the lens, a plane mirror is installed, inclined at 45º relative to the optical axis.
 
  
-a-Calculate the position of the image obtained from this object, make the motion of the rays 
-the corresponding ones. 
+a- Calculate the position of the image formed by this object, and trace the corresponding rays.
  
-b-Include the distance measured from the optical axis to the image once reflected in the 
-I'm looking at the mirror. 
+b-Indicate what the distance measured from the optical axis to the image after reflection in the mirror is.
  
-c-If a flat sheet of thickness parallel to the optical axis had been placed 
-d=9cm, as would be modified by the previous results. Please state the assumptions you make. 
-(n =1,5) 
+If a parallel-plane plate with a thickness of d = 9 cm had been placed perpendicular to the optical axis, how would the previous results have been modified? State the assumptions you make. (n = 1.5)
  
-d-The image obtained in b, gives just above the water surface of a square base enclosure 
-100 cm from the side. A drip located at the top allows water to be introduced into the enclosure in 
-constant form N (drops/min), the volume of each drop incorporating vm = 1 x 10-1cm3. 
-This way the position of the object image starts to shift downwards to 
-The time scale according to the following ratio: 
+d- The image obtained in b lies just above the water surface of a container with a square base measuring 100 cm per side. A dropper located at the top allows water to be added to the container at a constant rate N (drops/min), with the volume of each added drop being vm = 1 × 10⁻¹ cm³. In this way, the position of the image of the object begins to shift downward over time according to the following relationship:
  
-I'm not sure.
-0 
-15 
-30 
-45 
-60 
-75 
-H (cm) 
-80 
-80,26 
-80,51 
-80,76 
-81,02 
-81,27 
+T(min) 0 15 30 45 60 75 H (cm) 80 80.26 80.51 80.76 81.02 81.27
  
-Calculate the speed at which the image moves and write the equation that governs the
-H position in time. 
+Calculate the speed at which the image moves, and write the equation governing the position H over time.
  
-e-Find the functional relationship of H to all the elements that characterize the problem. 
-Ho: Initial position of the image 
-N: drops /min
-t time 
-Vg Volume of the droplet 
-A.A.A. base of the compound.
-n refractive index of water 
+e-Determine the functional relationship of H with all the elements that characterize the problem. Ho: Initial position of the image N: Drops/min t: Time Vg: Drop volume A: Base area of the enclosure n: Refractive index of water
  
-f- Determine the N of drops per minute that is incorporated into the enclosure 
+f-Determine the number of drops per minute that are introduced into the enclosure.
  
-g- Determine the height of the enclosure H must be for the image to be deposited in the
-The bottom 150 minutes after I connected the leak. How many drops did it take?
-
-
+g- Determine what height H the chamber must have so that the image is deposited on the bottom 150 minutes after the drip has been connected. How many drops were needed for this?
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q115" data-atom="q115" data-title="Argentina 2006 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono,object/block"></span>
 
@@ -15238,36 +15075,33 @@ g) Sviluppa un diagramma dei componenti che agiscono sulla sfera .
 
 <div class="qlang-split" data-lang="en"></div>
 
-Iron ball falls into the water tank
+Iron sphere falls into a pond of water
 
-117. Put Olivia down, Santa Cruz. Green, please. 
+117. Caleta Olivia, Santa Cruz. Green.
  
-A 3 cm iron sphere (Fe). The radio is dropped into a pool full of water.
-H O )  de 120 cm. deep . Calculate
+An iron (Fe) sphere with a radius of 3 cm is dropped into a pond filled with water (H2O) 120 cm deep. Calculate
  
-(a) Weight of the sphere 
+a) Weight of the sphere
  
-(b) Push. 
+b) Thrust.
  
-(c) The resulting force. 
+c) Resultant force.
  
-(d) Acceleration of the sphere (disregard for friction) 
+d) Acceleration of the sphere (neglect friction)
  
-(e) Time taken to reach the bottom of the pond. 
+e) Time taken to reach the bottom of the pond.
  
-(f) Basing your own reasoning on the above points. 
+f) Ground the preceding points with your own reasoning.
  
 
  
-(g) Draw a diagram of the components acting on the sphere .
+g) Draw a diagram of the components acting on the sphere.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 2006 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/projectile"></span>
 
@@ -15312,23 +15146,17 @@ forza applicata.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Glue-thrown stone, force**
+Stone thrown with a sling, force
 
-118. That's great. Blue, please. 
+118. Formosa. Blue.
  
-A 20 g stone is thrown with a glue; if the elastic strength of the glue acts for 0.04 
-The following is the list of the categories of products: After which the stone acquired a speed of 80m/s. Calculate the intensity of the
-force applied.
-
-
+A 20 g stone is launched using a slingshot; if the elastic force of the slingshot acts for 0.04 s, after which the stone attains a speed of 80 m/s, calculate the magnitude of the applied force.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q119" data-atom="q119" data-title="Argentina 2006 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
@@ -15745,23 +15573,17 @@ f) Indicare il percorso completo del raggio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Optical system with prism and timing**
+Optical system with prism and chronometer
 
-123. That's great. Blue, please. 
+123. Formosa. Blue.
  
-It has an optical system similar to that of the figure. This consists of a laser light source.
-which sends a beam, such that it normally hits the base of a 45° straight prism and 
-10 cm from the side. The prism is made of acrylic material with a refractive index of n = 
-1.5 and it's 40 centimeters from the leaf. 
-A timer is placed next to the laser which is activated when a lightning beam is detected and is
-deactivate when detecting another beam of light (if initially activated). 
-Find out: 
-(a) the speed of light in the prism. 
-(b) Indicate the path of lightning within the prism. Justify it. 
-(c) What is the angle of reflection if the mirror is perpendicular to the horizontal? 
-(d) Determine whether the beam of light reaches the same starting point. 
-(e) Calculate the time to be marked by the chronometer. 
-(f) Indicate the full path of the beam.
+An optical system such as that shown in the figure is available. It consists of a laser light source that emits a beam such that the beam strikes the base of a right prism with 45º and a side length of 10 cm at normal incidence. The prism is made of acrylic material with a refractive index of n = 1.5 and is 40 cm from the sheet. Along with the laser, a stopwatch is placed; the stopwatch starts when it detects a light beam and stops when it detects another light beam (if it is initially running). Find:
+a) speed of light in the prism.
+b) Indicate the path the ray will follow inside the prism. Justify.
+c) What is the angle of reflection if the mirror is perpendicular to the horizontal?
+d) Determine whether the light ray returns to the same starting point.
+e) Calculate the time that the stopwatch will indicate.
+f) Indicate the complete path of the ray.
 
 
 <!--fig:start-->
@@ -15773,8 +15595,6 @@ Find out:
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q124" data-atom="q124" data-title="Argentina 2006 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
@@ -16315,50 +16135,34 @@ Temperatura ambiente = 10 oC
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Temperature control in cork bath**
+Temperature control in a cork bath
 
-128. City of Buenos Aires. Blue, please. 
+128. City of Buenos Aires. Azul.
  
-Temperature control. 
-Our friend Alberto from the chemistry lab wants to do some experiments for the
-Which will require a bath with precise temperature control. How do you know we know ?
-A lot of physics tells us to put the equipment together. 
-The container we're going to use is a cork bucket, hollow inside, 10 cm x 10 cm x 10 
-The water inside is filled with water at room temperature. 
-The walls of the container measure 0.5 cm. A release valve for 
-The amount of liquid that is used to produce the liquid is the amount of liquid that is used to produce the liquid. 
+Temperature control. Our friend Alberto from the chemistry lab wants to carry out some experiments for which he will need a bath with precise temperature control. Since he knows that we know a lot of physics, he entrusts us with setting up the equipment for him. The container we will use is a cork cube, hollow on the inside, with internal dimensions of 10 cm x 10 cm x 10 cm; it is filled with water at room temperature. The walls of the container are 0.5 cm thick. A release valve is placed in the container so as to keep the liquid volume constant.
  
-(a) Calculate the water mass needed to fill the bucket 
-To increase the temperature of the liquid, 200 g of water at 100 oC is added.
+a) Calculate the mass of water needed to fill the cube.
+To increase the temperature of the liquid, 200 g of water is added to 100 ºC
  
-(b) Calculate the equilibrium temperature 
+b) Calculate the equilibrium temperature
  
-(c) Calculate the heat escaping from the container by conduction through the walls. 
+c) Calculate the heat that escapes from the vessel by conduction through the walls.
  
-(d) Estimate the time it takes for the bath to drop 1 oC 
+d) Estimate the time required for the temperature of the bath to drop by 1 º°C
  
-The mechanism we 'll use to control the temperature will be to inject a flow of water .
-a warm one that keeps the temperature constant. 
+The mechanism we will use to control the temperature will be to inject a flow of hot water that keeps the temperature constant.
  
-(e) If the desired temperature is 50 C. What should be the water flow at 100 oC? 
+e) If the desired temperature is 50 C, what should the water flow at 100 ºC be?
  
-(f) If instead of water at 100 oC, steam is injected at the same temperature. What should it be ?
-flow? 
+f) If steam at the same temperature is injected into 100 ºC instead of water, what should the flow rate be?
  
-Data from the report 
-The specific heat of the water = 1 Cal g−1 oC−1 
-Latent heat of water vaporization = 540 Cal g−1 
-Cork conduction coefficient = 0,1 Cal s−1 oC−1 m−1 
-Density of water = 1 g cm−3 
-The temperature of the room is 10 oC.
+Data: Specific heat of water = 1 Cal g−1 ºC−1; Latent heat of vaporization of water = 540 Cal g−1; Thermal conductivity of cork = 0.1 Cal s−1 ºC−1 m−1; Density of water = 1 g cm−3; Ambient temperature = 10 ºC
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q129" data-atom="q129" data-title="Argentina 2006 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/resistor,object/galvanometer,object/battery"></span>
 
@@ -18187,39 +17991,24 @@ Commenti che desiderate fare sull'esperienza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental: resistance in function of length**
+**Experimental: resistance as a function of length**
 
-134. San Fernando del Valle, you know, Catarina. Blue and green. 
+134. SAN FERNANDO DEL VALLE, CATAMARCA. BLUE AND GREEN.
  
-The objective: 
-• 
-Research the relationship between the resistance value of a driver and its resistance value.
-length.. 
+Objective: • To investigate the relationship between the resistance value of a conductor and its length.
  
  
-List of materials: 
-• 
-Wire of constantane. 
-• 
-The taster. 
-• 
-A voltage source or battery. 
+List of materials: • Constantan wire. • Tester. • Voltage source or battery.
  
-The procedure: 
-1- One of the factors that influences the resistance of a driver is its length. 
-In order to investigate how it makes the circuit in Figure 1 fire without cutting the
-wire, between two successive bolts. 
+Procedure: 1- One of the factors that influence the resistance of a conductor is its length. To investigate how it does so, assemble the circuit shown in Figure 1 without cutting the wire, between two successive bolts.
 
  
                              
  
  
-2- Measure the length of the L1 storage tank and the current intensity i1 running through it. 
-Take the values to the following table: 
+2- Measure the length of the wire L1 and the current intensity i1 flowing through it. Enter the values in the following table:
  
-L(cm) 
-I(A) 
-1/i(1/A) 
+L(cm) I(A) 1/i(1/A)
  
  
  
@@ -18232,42 +18021,15 @@ I(A)
  
  
  
-3- Double the length of the wire you insert into the circuit. Measure L2 and i2. Take it .
-the values on your chart. 
-4- Triple the length of the wire you insert into the circuit. Measure L3 and i3. Take it .
-the values on your chart. Repeat for other values of L and i. 
-5- Graph i in the function of L. What conclusions can you draw from your chart? 
-6- Graph 1/i as a function of L. What conclusions can you draw from your chart? 
+3- Double the length of the wire you insert into the circuit. Measure L2 and i2. Enter the values in your table. 4- Triple the length of the wire you insert into the circuit. Measure L3 and i3. Enter the values in your table. Repeat for other values of L and i. 5- Plot i versus L. What conclusion can you draw from your graph? 6- Plot 1/i versus L. What conclusion can you draw from your graph?
  
-Requirements: 
-• 
-You may only use non-programmable writing and calculating tools, 
-In addition to the test materials. 
-• 
-At the end of the experience you must submit a written report .
-clear, consisting of: 
-• 
-The problem is being raised.
-• 
-Value obtained in measurements, tables, graphs. 
-• 
-Sources of error 
-• 
-Experimental result of the requested. 
-• 
-Conclusions 
-• 
-Comments you wish to make on the experience.
-
-
+Requirements: • You may use only writing utensils and a non-programmable calculator, in addition to the materials provided for the test. • At the end of the experiment, you must submit a written report in clear handwriting, comprising: • Statement of the problem • Values obtained from the measurements, tables, and graphs • Sources of error • Experimental result for what was requested • Conclusions • Any comments you wish to make regarding the experiment
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q135" data-atom="q135" data-title="Argentina 2006 Locale — Quesito 135" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
 
@@ -20855,44 +20617,20 @@ Figura 1
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be presented in accordance with the following formula:
+**Experimental: Friction between the Ball and the Inclined Plane**
 
-144. City of Buenos Aires. Green, please. 
+144. City of Buenos Aires. Green.
  
-Find out, using the materials given, the coefficient of friction between the ball and the
-surface of the inclined plane. (Figure 1) 
-Materials 
-1 double large nut 
-Two double walnut girls .
-2 long bars of 10 mm diameter 
-1 bar of 10 mm short diameter 
-1 foot universal
-1 metal ball of unknown mass 
-1 timepiece 
-1 graduated metal rule 
-1 ball of scornful dough
-Tanza 
+Using the provided materials, determine the coefficient of friction between the small ball and the surface of the inclined plane. (Figure 1) Materials: 1 large double nut, 2 small double nuts, 2 long rods with a diameter of 10 mm, 1 short rod with a diameter of 10 mm, 1 universal foot, 1 metallic ball of unknown mass, 1 stopwatch, 1 graduated metal ruler, 1 ball of negligible mass, Tanza
  
-Development of the practical 
-Measurement of the acceleration of gravity at the time of the practical
-It will be necessary to put together a physical pendulum. You'll choose an angle of width, and you'll take it.
-10 full oscillatory periods. 
+Development of the practical: Measurement of the acceleration due to gravity at the time of the practical. It will be necessary to set up a physical pendulum. An amplitude angle will be chosen, and 10 complete oscillation periods will be measured.
 
  
-Calculate the period of the pendulum with its error. 
-And you'd find out the gravity with your error clearing in the given formula. 
+The period of the pendulum and its error would be calculated. And the acceleration due to gravity and its error would be determined by isolating the variable in the given formula.
  
-Find out the coefficient of friction 
-The inclined plane shall be set as indicated. Two points will be marked on the plane.
-I'm not going to lie. The distance between these points will be taken. 
-The ball is placed at the beginning of the inclined plane, and dropped. It takes time .
-from the first mark to the second mark. 
-The corresponding calculations are made and the coefficient of friction is determined.
-the ball  plane tilted with its corresponding experimental error. 
+Determination of the coefficient of friction. The inclined plane will be set up as instructed. Two points will be marked on the inclined plane. The distance between these points will be measured. The small ball will be placed at the start of the inclined plane and released. The time will be measured from the moment the ball passes the first mark until it passes the second mark. The appropriate calculations will be carried out, and the coefficient of friction between the small ball and the inclined plane will be determined, along with the corresponding experimental error.
  
-The report should include the different determinations made to reach the
-final result, and explain the possible sources of error that you consider might have altered 
-The result is the same. 
+In the report, they must account for the different determinations made to arrive at the final result and explain the possible sources of error that they consider could have altered the result itself.
  
  
  
@@ -20916,8 +20654,6 @@ Figure 1
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q145" data-atom="q145" data-title="Argentina 2006 Locale — Quesito 145" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/coil,object/wire"></span>
 
@@ -22585,56 +22321,25 @@ il flusso, dato che si tratta di un fluido molto viscoso a temperatura ambiente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results shall be presented in accordance with the following formulae:
+**Experimental: volumetric expansion of glycerin**
 
-152. Rosario, Santa Fe. Green, please. 
+152. Rosario, Santa Fe. Green.
  
-Dilation. 
+Expansion.
  
-In this lab work you are asked to determine the volumetric dilation coefficient.
-of glycerin (β). 
-To do this, you have the following elements: 
-• 
-Mattress saved from 50 ml to 20 C
-• 
-Pipeta 
-• 
-Glycerin .
-• 
-I 'm a mechanic .
-• 
-Tripod .
-• 
-Glass container (precipitated glass) 
-• 
-Thermometer .
-• 
-Millimeter paper 
-• 
-Unwritable ink marker 
-• 
-Absorbing paper 
+In this laboratory experiment, you are asked to determine the volumetric expansion coefficient of glycerin (β). To do so, you have the following items: • A 50 ml volumetric flask at 20 º °C • A pipette • Glycerin • A Bunsen burner • A tripod • A glass container (beaker) • A thermometer • Graph paper • An indelible ink marker • Absorbent paper
  
-You have to submit a job report in which you describe everyone as clearly as possible.
-The steps you took during the experiment, theoretically justifying the measurements and the
-calculations you've made, and the result you've got. 
+You must submit a work report in which you describe, as clearly as possible, all the steps you took during the experiment, providing a theoretical justification for the measurements and calculations you have performed, as well as for the result obtained.
  
-Useful information: 
-The following table shows the results of the calculation:
+Useful information: α Pyrex glass = 3.3·10-6 ºC-1
  
-Suggestions: 
-1- The section of the mattress neck can be determined by the difference in volumes of
-any liquid. 
-2- When you pass the glycerin you should have enough time to finish it
-fluid, since it is a very viscous fluid at room temperature.
+Suggestions: 1- The neck section of the flask can be determined by the volume difference of any liquid. 2- When you transfer the glycerin, you must have enough time for it to finish flowing, since at room temperature it is a very viscous fluid.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q153" data-atom="q153" data-title="Argentina 2006 Locale — Quesito 153" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono,object/tank-container"></span>
 
@@ -22797,53 +22502,25 @@ I risultati finali con i relativi errori
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results are based on the results of the test.
+**Experimental: mass-volume relationship (density)**
 
-154. San Miguel, Tucumán. Blue, please. 
+154. San Miguel, Tucumán. Blue.
  
-Objective: To verify the existence of one of the properties of substances by applying the following criteria:
-The scientific method. 
+Objective: To verify the existence of one of the properties of substances by applying the processes of the scientific method.
  
-Elements provided: A set of wooden bodies of different volumes and mass 
-known, rule, caliber. 
+Provided items: a set of wooden bodies of different volumes and known masses, a ruler, and calipers.
  
-Activities to be carried out: 
+Activities to be carried out:
  
-Read carefully the instructions given: 
-- 
-Put the bodies on the desk that were delivered to you .
-- 
-Write down the values of the body masses 
-- 
-Observe the characteristics of bodies, analyze their volumes, masses and
-Consider the type of relationship that can be established between the two magnitudes.
-- 
-Formule hypotheses based on the previous reflections transcribe them 
-- 
-Plan the experiments to validate or refute the proposed hypothesis 
-- 
-Carry out the planned experiments 
-- 
-With the values you get from the experiences, make tables, graphs or whatever you create.
-- It's convenient. 
+Carefully read the instructions provided to you: Place the bodies given to you on the work table. Record the values of the masses of the bodies. Observe the characteristics of the bodies, analyze their volumes and masses, and reflect on the type of relationship that can be established between these two quantities. Formulate a hypothesis based on the preceding reflections and write it down. Plan the experiments to validate or refute the proposed hypothesis. Carry out the planned experiments. Using the values obtained from the experiments, create tables, graphs, or whatever you deem appropriate.
  
-Present your findings in a report containing: 
-- 
-Description of the measurement methods used 
-- 
-Experimental values obtained by direct measurements, carried out by you
-- 
-The treatment of measured values and calculation of error 
-- 
-Final results with their corresponding errors
+Present your results in a report that includes: a description of the measurement methods used; the experimental values obtained from direct measurements carried out by you; the processing of the measured values and the calculation of the error; the final results along with their corresponding errors.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q155" data-atom="q155" data-title="Argentina 2006 Locale — Quesito 155" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/manometer"></span>
 
@@ -25357,69 +25034,23 @@ A Córdoba, l'accelerazione della gravità è (9,79 ± 0,01) m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental: thrust and density of incognito liquid**
+**Experimental: thrust and unknown liquid density**
 
-163. Cordoba. Blue, please. 
+163. Córdoba. Blue.
  
-The objective: 
-- 
-Measure the thrust that an unknown liquid exert covers a solid metal body,
-completely submerged. 
-- 
-Measure the density of that liquid. 
+Objective: To measure the buoyant force exerted by an unknown liquid on a solid metallic body that is completely submerged. To measure the density of that liquid.
  
-The following elements: 
-- 
-1 glass of 250 ml of precipitated savings 
-- 
-1 glass of 100 ml of precipitated water saved, with thread glued to hang it 
-- 
-1 universal support with a nut with a metal grip
-- 
-The following conditions shall apply:
-- 
-500 ml of unknown liquid 
-- 
-1 wooden stick 
-- 
-1 solid metal body with a hook 
+Items: - 1 calibrated 250 ml beaker - 1 calibrated 100 ml beaker, with a string attached so it can be hung - 1 universal stand with a nut and a metal handle - 1 dynamometer (0–2.5) N - 500 ml of unknown liquid - 1 wooden plug - 1 solid metal body with a hook
  
-Requirements: 
-You may only use the items provided, paper, pencil and non-programmable calculator. 
-At the end of the work, a report shall be submitted, including the following: 
-- 
-Schedule of experimental devices used 
-- 
-Description and justification of the design used 
-- 
-Free-body diagram of the solid metal body completely submerged in the
-liquid. 
-- 
-Table of measurement values 
-- 
-Results obtained with their corresponding errors 
-- 
-For both the determination of the thrust and the density sought:
-direct measurements made, what is the factor that, of making this experiment 
-Again, you. Would you care to measure with less error next time? Justify it .
-- 
-Justified answer to the question: Is it possible that the unknown liquid is water? 
-- 
-Comments from the press
+Requirements: You may only use the provided items—paper, a pen, and a non-programmable calculator. At the end of the work, you must submit a report that includes the following points: Schematic diagram of the experimental setups used; Description and rationale of the design used; Free-body diagram of the solid metallic body completely submerged in the liquid; Table of values for the measurements taken; Results obtained, with their corresponding errors; For both the determination of buoyancy and that of the desired density: Of all the direct measurements made, which factor, if you were to repeat this experiment, would you make sure to measure with a smaller error next time? Justify. Justified answer to the question: Is it possible that the unknown liquid is water? Comments
  
-The data: 
-- 
-The density of water is (1,00 ± 0,03) g/cm3 
-- 
-In Cordoba, the acceleration of gravity is (9,79 ± 0.01) m/s2
+Data: The density of water is (1.00 ± 0.03) g/cm³. In Córdoba, the acceleration due to gravity is (9.79 ± 0.01) m/s².
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q164" data-atom="q164" data-title="Argentina 2006 Locale — Quesito 164" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/manometer,object/pendulum"></span>
 
@@ -25599,39 +25230,23 @@ giustifica la tua risposta.
 
 **Experimental: specific weight of unknown material**
 
-165. City of Buenos Aires. Blue, please. 
+165. City of Buenos Aires. Azul.
  
-The objective: 
-Experimentally determine the specific weight of an unknown material. 
+Objective: To experimentally determine the specific weight of an unknown material.
  
-Materials: 
-• 
-11 irregular bodies of the same material 
-• 
-Nylon yarn 
-• 
-1 dynamometer
-• 
-1 sample of 100 ml ± 1 ml 
+Materials: • 11 irregular bodies made of the same material • Nylon thread • 1 dynamometer • 1 test vessel of 100 ml ± 1 ml
  
-To achieve the objective, the following sequence must be followed: 
-1. They measure the weight and volume of each body with its uncertainty. 
-2. Draft the relevant report 
-3. Answer the following questions.
+To achieve the objective, they must follow the sequence below: 1. Measure the weight and volume of each body, along with their uncertainties. 2. Draft the corresponding report. 3. Answer the following questions.
  
-(a) What may have been the causes of the uncertainties present in the
-work you did? 
+a) What might have been the causes of the uncertainties present in the work you did?
  
-Can you tell what material the bodies you used are made of? 
-Justify your answer.
+b) Can you say what material the bodies you used are made of? Justify your answer.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q166" data-atom="q166" data-title="Argentina 2006 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
@@ -26530,33 +26145,29 @@ e) Esprimere conclusioni
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental: speed vs distance with time vibrator**
+**Experimental: speed vs. distance with chronovibrator**
 
-170. That's great. Blue, please. 
+170. Formosa. Blue.
  
-Subject: 
-Determine the relationship between the speed of a moving vehicle and the distance travelled. 
+Subject: To determine the relationship between the speed of a moving object and the distance it travels.
  
-Instructions: 
-(a) Sketch the submitted equipment and name its elements. 
-(b) Connect the timer to the power supply and analyse the points (marks) 
-The speed of the machine is calculated on the paper tape and remember that to calculate the speeds at each point it is 
+Instructions:
+a) Sketch the equipment presented and name its components.
+b) Connect the chronovibrator to the power supply, and analyze the points (marks).
+obtained on the paper tape, and remember that to calculate the velocities at each point, one must
 
  
-Takes as the measurement interval the distance between the previous point and the next point 
-This one. 
-(c) Make a table of values of the measurements and calculations made. 
-(d) Configure space charts based on time and speed based on time, 
-on millimeter paper. 
-(e) Draw conclusions
+Take as the measurement interval the distance between the preceding point and this next point.
+c) Prepare a table of values for the measurements and calculations performed.
+d) Prepare the graphs of position versus time and velocity versus time,
+On graph paper.
+e) Draw conclusions
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q171" data-atom="q171" data-title="Argentina 2006 Locale — Quesito 171" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
@@ -26892,27 +26503,23 @@ e) Squamatizzare i materiali utilizzati
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental: specific weight of aluminium body**
+**Experimental: specific weight of an aluminum body**
 
-175. That's great. Blue, please. 
+175. Formosa. Blue.
  
-Subject: 
-Determine the specific weight of an aluminium body. 
-Instructions: 
-(a) Name the materials submitted 
-(b) Develop the experimental method used, writing the equations to be used. 
-(c) Write down the values obtained and the result of the requested action. 
-(d) The actual specific weight of aluminium is 2.6 grams/cm3 . From this data find 
-the absolute, relative and percentage error. 
-(e) Squeeze the materials used
+Subject: To determine the specific weight of an aluminum body. Instructions:
+a) Name the materials presented
+b) Elaborate on the experimental method used, writing down the equations to be used.
+c) Record the values obtained and the result of what was requested.
+d) The actual value of the specific weight of aluminum is 2.6 g/cm³. Using this data, find
+The absolute, relative, and percentage errors.
+e) Sketch the materials used.
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jxPXeGOj2n_2p75v8k3QhrstSCcYYJS1/view)
-
-
 
 <span class="atom-split" id="q176" data-atom="q176" data-title="Argentina 2006 Locale — Quesito 176" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono,object/rod"></span>
 

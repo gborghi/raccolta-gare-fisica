@@ -13,6 +13,7 @@ CONC="${QUARTZ_CONCURRENCY:-}"            # set 1 on machines with <16 GB RAM
 node scripts/inline-tikz.mjs               # tikz-svg/*.svg -> inline figures (same rule as preprocess)
 node scripts/fix-content-links.mjs         # figure paths, concept links, PDF -> Drive, ...
 node scripts/fix-comp-labels.mjs           # full competition names in prova titles ("Svizze" -> "Svizzera")
+node scripts/answer-reveal.mjs content     # risposte nascoste: <details class="q-answer"> da aprire con un clic
 [ -d .quartz/plugins ] || npx quartz plugin restore
 node scripts/patch-search-fork.mjs
 node scripts/patch-graph-fork.mjs
